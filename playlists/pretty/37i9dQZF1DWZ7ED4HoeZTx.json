@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 59141,
+  "num_followers": 59607,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgxMjExOCwwMDAwMDAwMDM0ZjRjYjFhMTk5ZDU1ZDhlODZjODk0MzYwNjZlNjE3",
+  "snapshot_id": "MTY3ODgxMjExOCwwMDAwMDAwMGViMmQ2YWM0Nzg1ODJhZWM0ZTQ1N2YzNmQxZWJkOGIz",
   "tracks": [
     {
       "added_at": "2023-03-14 16:41:58",
@@ -234,10 +234,6 @@
         {
           "name": "\u96f6(CV:\u5185\u5c71\u6602\u8f1d)",
           "url": "https://open.spotify.com/artist/3bT8HW83dr4YDKYN20RYjy"
-        },
-        {
-          "name": "SHINTA",
-          "url": "https://open.spotify.com/artist/5DN4o6B5nGSXpfyMCiXFdH"
         }
       ],
       "duration_ms": 217186,
@@ -543,22 +539,6 @@
     {
       "added_at": "2023-03-14 16:41:58",
       "album": {
-        "name": "Spirited Away Soundtrack",
-        "url": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9"
-      },
-      "artists": [
-        {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "One Summer Day",
-      "url": "https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu"
-    },
-    {
-      "added_at": "2023-03-14 16:41:58",
-      "album": {
         "name": "YANKEE",
         "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
       },
@@ -571,6 +551,22 @@
       "duration_ms": 288013,
       "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
       "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
+    },
+    {
+      "added_at": "2023-03-14 16:41:58",
+      "album": {
+        "name": "Spirited Away Soundtrack",
+        "url": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "One Summer Day",
+      "url": "https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu"
     },
     {
       "added_at": "2023-03-14 16:41:58",
@@ -619,22 +615,6 @@
       "duration_ms": 191726,
       "name": "\u3084\u3055\u3057\u3055\u306b\u5305\u307e\u308c\u305f\u306a\u3089",
       "url": "https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU"
-    },
-    {
-      "added_at": "2023-03-14 16:41:58",
-      "album": {
-        "name": "Howl's Moving Castle Soundtrack",
-        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
-      },
-      "artists": [
-        {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        }
-      ],
-      "duration_ms": 71800,
-      "name": "You're in Love",
-      "url": "https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3"
     },
     {
       "added_at": "2023-03-14 16:41:58",
@@ -735,6 +715,22 @@
     {
       "added_at": "2023-03-14 16:41:58",
       "album": {
+        "name": "Howl's Moving Castle Soundtrack",
+        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 71800,
+      "name": "You're in Love",
+      "url": "https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3"
+    },
+    {
+      "added_at": "2023-03-14 16:41:58",
+      "album": {
         "name": "\u3072\u3053\u3046\u304d\u96f2",
         "url": "https://open.spotify.com/album/2Apn7plsxGOwwD7anbcAOS"
       },
@@ -747,6 +743,22 @@
       "duration_ms": 206164,
       "name": "\u3072\u3053\u3046\u304d\u96f2",
       "url": "https://open.spotify.com/track/2YyxBmzk2l7NzyBakN3TdM"
+    },
+    {
+      "added_at": "2023-03-14 16:41:58",
+      "album": {
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Deep down",
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
     },
     {
       "added_at": "2023-03-14 16:41:58",
@@ -779,22 +791,6 @@
       "duration_ms": 350347,
       "name": "Howl's Moving Castle Theme",
       "url": "https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN"
-    },
-    {
-      "added_at": "2023-03-14 16:41:58",
-      "album": {
-        "name": "Deep down",
-        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Deep down",
-      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
     },
     {
       "added_at": "2023-03-14 16:41:58",

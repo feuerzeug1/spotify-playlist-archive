@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with Zenesoul.",
+  "description": "This is R&B in Canada, elevate your aura with Brasstracks, TOBi, and FATHERDUDE.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -1843,6 +1843,36 @@
     },
     {
       "album": {
+        "name": "Creepin' (Remix)",
+        "url": "https://open.spotify.com/album/3P2UkOkqWp8ucd1EOnVAH7"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Creepin' (feat. 21 Savage) - Remix",
+      "url": "https://open.spotify.com/track/5Ee4IyhPaOVRMc15fUOeG9"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -1862,7 +1892,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -6511,6 +6541,32 @@
     },
     {
       "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/3o6zpnwxSC8PeIQkdP5V1w"
+      },
+      "artists": [
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "FATHERDUDE",
+          "url": "https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196534,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/6folHlbbLuRgOtNj6fS5OS"
+    },
+    {
+      "album": {
         "name": "NOT LOVE?!",
         "url": "https://open.spotify.com/album/4f7w93WT4DW9xYYLszxyeR"
       },
@@ -6646,6 +6702,24 @@
       "duration_ms": 190909,
       "name": "OBSESI\u00d3N",
       "url": "https://open.spotify.com/track/7znw1Mi6sqrzTur0iw86kj"
+    },
+    {
+      "album": {
+        "name": "Obstacles",
+        "url": "https://open.spotify.com/album/5ATwBTNPtwDfUqBK6oYVLv"
+      },
+      "artists": [
+        {
+          "name": "Desiire",
+          "url": "https://open.spotify.com/artist/3FKDrJjdEpzGNFgwVkzagd"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250363,
+      "name": "Obstacles",
+      "url": "https://open.spotify.com/track/0PAgY9mzcKL57culmZlMuL"
     },
     {
       "album": {
@@ -8112,7 +8186,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 204016,
       "name": "Runnin' From Love",
       "url": "https://open.spotify.com/track/31vDbm2LeyHQ5oLp3OVi3d"
@@ -8502,7 +8576,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 185767,
       "name": "Siren",
       "url": "https://open.spotify.com/track/4IQsla43hNhR7qTKEuQPUZ"

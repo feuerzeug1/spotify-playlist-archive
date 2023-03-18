@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Sweet Dream Lullabies",
+        "url": "https://open.spotify.com/album/1QfDDyXowHGlr3k65BvTYu"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107323,
+      "name": "I Can Sing a Rainbow",
+      "url": "https://open.spotify.com/track/4mNAzxoAuv4pCWEdgzCxVb"
+    },
+    {
+      "album": {
         "name": "Lullabies for Parents, Vol. 1",
         "url": "https://open.spotify.com/album/3fgHiWJqP3SwbVWkStt1xg"
       },
@@ -1662,6 +1680,24 @@
       "duration_ms": 200047,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs"
+    },
+    {
+      "album": {
+        "name": "Sweet Dream Lullabies",
+        "url": "https://open.spotify.com/album/1QfDDyXowHGlr3k65BvTYu"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95603,
+      "name": "Sweet Starlight",
+      "url": "https://open.spotify.com/track/7bDvZgHO5Td50ueLXcgh7j"
     },
     {
       "album": {

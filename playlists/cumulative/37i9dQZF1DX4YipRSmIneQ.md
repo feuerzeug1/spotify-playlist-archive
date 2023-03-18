@@ -4,7 +4,7 @@
 
 > 😈 turn anywhere into a sexy club 😈
 
-249 songs - 14 hr 34 min
+250 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Trini Dem Girls](https://open.spotify.com/track/2kSzO9N1NoDFGAlMgvQM6B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 3:14 | 2022-03-16 | 2022-04-21 |
 | [True G \(feat\. BRUX\)](https://open.spotify.com/track/4lEbyeWt4M1YbHECLeX9hJ) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [The RED Tape \(Deluxe\)](https://open.spotify.com/album/2I1vC9WZCG47pIFi37kmFn) | 3:21 | 2022-03-16 | 2022-07-22 |
 | [U KNOW ME](https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [U KNOW ME](https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2) | 2:54 | 2022-03-16 | 2022-07-22 |
+| [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 | 2023-02-22 |  |
 | [U.A.F.W.M.](https://open.spotify.com/track/7tyfn9k8LGkDFMkT4BeCyf) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [U.A.F.W.M.](https://open.spotify.com/album/6Q068g9ukV72Ffm88FMKYt) | 2:53 | 2022-03-16 | 2022-07-22 |
 | [UCKERS](https://open.spotify.com/track/3CFPJGktOC1KpxwvDjIHfL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [UCKERS](https://open.spotify.com/album/6QSYoJYxiaD5884cvGrytt) | 1:55 | 2022-03-16 | 2022-04-12 |
 | [unavailable](https://open.spotify.com/track/1cphy7yzvUM6amjVZ03iYn) | [Joey LaBeija](https://open.spotify.com/artist/4u53d3J7G8vqKQYOPotIUJ) | [unavailable](https://open.spotify.com/album/7BOmONICbpJOvSAmz7W4NW) | 2:40 | 2022-03-16 | 2022-07-22 |
@@ -247,7 +248,7 @@
 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 | 2023-02-22 |  |
 | [Wet n Wild](https://open.spotify.com/track/2iA8Fx5GsMSeclTgWkQ5QR) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [In Your System](https://open.spotify.com/album/2o0T9hMbNyEbSjmEiKJSUS) | 3:14 | 2022-05-15 | 2022-06-17 |
 | [What the Girlies Lack](https://open.spotify.com/track/16CYKwsnfK1KVL4Z1CghJW) | [Nattalie Blake](https://open.spotify.com/artist/2QJSx4tM6efojkBDxog9FB) | [What the Girlies Lack](https://open.spotify.com/album/3MbNxkKz4xl0uPOWAbkjj1) | 3:29 | 2022-03-16 | 2022-06-23 |
-| [What's the Word \- Wax Wings Remix](https://open.spotify.com/track/6Es4E4HxhijoUHSqNz0Eut) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [What's the Word \(Wax Wings Remix\)](https://open.spotify.com/album/7DNGZ4fefzzTijus6WXMxO) | 3:29 | 2022-10-13 |  |
+| [What's the Word \- Wax Wings Remix](https://open.spotify.com/track/6Es4E4HxhijoUHSqNz0Eut) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [What's the Word \(Wax Wings Remix\)](https://open.spotify.com/album/7DNGZ4fefzzTijus6WXMxO) | 3:29 | 2022-10-13 | 2023-03-18 |
 | [Wile Out](https://open.spotify.com/track/7ehawMu8e3ipoY7stfct5M) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Wile Out](https://open.spotify.com/album/6AQlgm7uh20Ni78Wz794A3) | 4:59 | 2022-12-28 | 2023-02-23 |
 | [WIZZ](https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [WIZZ](https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e) | 2:54 | 2022-03-16 | 2022-08-10 |
 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 | 2022-08-16 | 2022-11-17 |

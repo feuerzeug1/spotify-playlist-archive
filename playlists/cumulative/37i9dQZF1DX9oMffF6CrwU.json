@@ -860,7 +860,7 @@
     {
       "album": {
         "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
+        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
       },
       "artists": [
         {
@@ -871,6 +871,24 @@
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 52186,
+      "name": "Night Scented Stock - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6XdY9JkV7GQ6o4pZ9qwWRe"
+    },
+    {
+      "album": {
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
       "duration_ms": 52186,
       "name": "Night Scented Stock - 2018 Remaster",
       "url": "https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY"

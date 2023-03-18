@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-114 songs - 10 hr 28 min
+115 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 | 2022-05-13 |  |
 | [Vårvindar friska](https://open.spotify.com/track/7ED5a6srDnZM0wJnoawdg9) | [Poeta Magica](https://open.spotify.com/artist/05rF7qOxpYQLqB8UtXQ95M) | [SAGA](https://open.spotify.com/album/4awU55cC5ODqORv8CYcuZQ) | 5:31 | 2022-05-13 |  |
 | [Warriors](https://open.spotify.com/track/076NaJ29oWZdjo5Sbs0piR) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Warriors](https://open.spotify.com/album/4nV3V4jyyLal42HZBHGNAQ) | 3:55 | 2022-10-07 | 2022-11-24 |
-| [Warriors](https://open.spotify.com/track/3TsTOSDvHqg3rA4OWHmsea) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Warriors](https://open.spotify.com/album/4fGVgwLbnzFV8q6EaxxsKn) | 3:55 | 2022-10-07 |  |
+| [Warriors](https://open.spotify.com/track/2BrAj7IrlTXWnR2QHQ8XXS) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Another Day To Die](https://open.spotify.com/album/0AKUhawU3vEgT9AuHaueis) | 3:55 | 2023-02-17 |  |
+| [Warriors](https://open.spotify.com/track/3TsTOSDvHqg3rA4OWHmsea) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Warriors](https://open.spotify.com/album/4fGVgwLbnzFV8q6EaxxsKn) | 3:55 | 2022-10-07 | 2023-03-18 |
 | [Wolf Totem](https://open.spotify.com/track/6uCzY8MKTcLDExUR6nGl99) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Wolf Totem](https://open.spotify.com/album/7llI8I1yBGYutWAbVob3ls) | 5:38 | 2022-05-13 | 2022-07-08 |
 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 | 2022-05-13 |  |
 | [Yggdrasil](https://open.spotify.com/track/27nlXliCG4tYCox6Ov9p40) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 4:15 | 2022-07-08 |  |

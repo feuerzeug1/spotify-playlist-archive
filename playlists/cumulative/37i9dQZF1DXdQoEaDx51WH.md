@@ -2,7 +2,7 @@
 
 ### [Coke Studio: Season 14](https://open.spotify.com/playlist/37i9dQZF1DXdQoEaDx51WH)
 
-> All\-new tracks by Coke Studio Pakistan Season 14, updated live.
+> All\-new tracks by Coke Studio Pakistan Season 14.
 
 17 songs - 1 hr 16 min
 

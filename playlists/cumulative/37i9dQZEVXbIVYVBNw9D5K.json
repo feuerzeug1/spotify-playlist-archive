@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 204000,
       "name": "A\u011flaya A\u011flaya",
       "url": "https://open.spotify.com/track/6TnN1PLNMaIBvnUB8mdVT1"
@@ -3120,6 +3120,24 @@
       "duration_ms": 132762,
       "name": "Duman\u0131 Pasla",
       "url": "https://open.spotify.com/track/3kMcV1es4HbWcWBhcteJ8Z"
+    },
+    {
+      "album": {
+        "name": "Durmaz Akar",
+        "url": "https://open.spotify.com/album/6T3pdxARkf8mKGzzbTz238"
+      },
+      "artists": [
+        {
+          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
+          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "Durmaz Akar",
+      "url": "https://open.spotify.com/track/1USNiWOUKXZFcG5acRYEp5"
     },
     {
       "album": {
@@ -8968,7 +8986,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 119230,
       "name": "Randuman / Ring Ring Ring",
       "url": "https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu"
@@ -10956,7 +10974,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 201522,
       "name": "Yabani",
       "url": "https://open.spotify.com/track/6OfgOcfxPRXQj6i529ICLH"

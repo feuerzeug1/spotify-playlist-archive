@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Josh Makazo. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: rhyu. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -378,6 +378,32 @@
       "duration_ms": 181838,
       "name": "AWAY.",
       "url": "https://open.spotify.com/track/5U58qF1Cf8DZttTf2JQnMf"
+    },
+    {
+      "album": {
+        "name": "Back Again",
+        "url": "https://open.spotify.com/album/6nkSOsFPPKsMkLn8JOvwUD"
+      },
+      "artists": [
+        {
+          "name": "Feez.",
+          "url": "https://open.spotify.com/artist/1gImDIQMDSpY9JqQihMlcz"
+        },
+        {
+          "name": "Syaz Smooth",
+          "url": "https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ"
+        },
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278043,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/7mVhCCnQRXJqve9rRGPTdg"
     },
     {
       "album": {
@@ -1214,7 +1240,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 215070,
       "name": "Cross Your Ts",
       "url": "https://open.spotify.com/track/7ntV3iO4MlBJ2rQpugkcOz"
@@ -1754,6 +1780,24 @@
       "duration_ms": 179000,
       "name": "Drunk Text",
       "url": "https://open.spotify.com/track/1aoOINdeCCgsOIIsxEITCE"
+    },
+    {
+      "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/0z7UNsbOjXtLwS8gwBuqCq"
+      },
+      "artists": [
+        {
+          "name": "Islandeer",
+          "url": "https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186890,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/4rhY5lqyMEEcKNGNSI73dO"
     },
     {
       "album": {
@@ -2412,7 +2456,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 202150,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/16jRqbonEpZ9lU0xhQCEdO"
@@ -2502,7 +2546,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 214778,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/0qzdaCAsEmVrmr0srHWt24"
@@ -3163,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "It's fine",
+        "url": "https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y"
+      },
+      "artists": [
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305714,
+      "name": "It's fine",
+      "url": "https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb"
+    },
+    {
+      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/0xRsqrUyQUXivHojb8mUEY"
       },
@@ -3416,7 +3478,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200428,
       "name": "Lemon Soda",
       "url": "https://open.spotify.com/track/2hxhrRKAeDVzrwhrQM8sq6"
@@ -3434,7 +3496,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 203692,
       "name": "Let Your Head Down",
       "url": "https://open.spotify.com/track/0axDavMhGrmGUyiA2LeLQt"
@@ -3456,6 +3518,24 @@
       "duration_ms": 123870,
       "name": "Let's Never Talk About It",
       "url": "https://open.spotify.com/track/6oxjlxrcfeUpoEM6jyOBPs"
+    },
+    {
+      "album": {
+        "name": "Lie Again",
+        "url": "https://open.spotify.com/album/4EGQoDOmr2zzM3KiRSTY1d"
+      },
+      "artists": [
+        {
+          "name": "Shahrizal",
+          "url": "https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154004,
+      "name": "Lie Again",
+      "url": "https://open.spotify.com/track/5ZlievcFzGJmblwONgfXFp"
     },
     {
       "album": {
@@ -4424,7 +4504,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 202884,
       "name": "NOT OKAY",
       "url": "https://open.spotify.com/track/6bD5U0SPX9AzQg4hqEjyUI"
@@ -4514,7 +4594,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 221565,
       "name": "Oh, Friend",
       "url": "https://open.spotify.com/track/0f80aZIZhMktPv8Q6imfxV"
@@ -4782,7 +4862,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 182778,
       "name": "pearl milk tea",
       "url": "https://open.spotify.com/track/0m1jFt1L6y69DKOtqRFw1G"
@@ -5126,7 +5206,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 133818,
       "name": "ride or die - Punk Version",
       "url": "https://open.spotify.com/track/0B44Xmh102iDiri93Y9Ymx"
@@ -5354,7 +5434,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 184388,
       "name": "see you soon",
       "url": "https://open.spotify.com/track/6NRZ7rvVhYhMUF575qdzcR"
@@ -5444,7 +5524,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 208695,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/1lHv8uFKGahvJVdrm2TJHC"
@@ -5716,7 +5796,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 326537,
       "name": "stars (demo)",
       "url": "https://open.spotify.com/track/5MLXnpWkB668vcqHq8zuQl"
@@ -5926,7 +6006,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 166389,
       "name": "Take Kontrol",
       "url": "https://open.spotify.com/track/5tWYervZ1VRSW69LcmbszS"
@@ -6060,6 +6140,24 @@
       "duration_ms": 277624,
       "name": "The Distance Between Us",
       "url": "https://open.spotify.com/track/2GuIPbnew5Ni091iBEt0ga"
+    },
+    {
+      "album": {
+        "name": "HEARTBREAK. REVENGE. DISCO.",
+        "url": "https://open.spotify.com/album/63N9Dtw5YIeZYcXol1menH"
+      },
+      "artists": [
+        {
+          "name": "Ultra Mega Cat Attack",
+          "url": "https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236013,
+      "name": "The First",
+      "url": "https://open.spotify.com/track/0bTFrDQuTTAhddo73AxHot"
     },
     {
       "album": {

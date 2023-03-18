@@ -981,6 +981,28 @@
     },
     {
       "album": {
+        "name": "Arabesque Vol. 3",
+        "url": "https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX"
+      },
+      "artists": [
+        {
+          "name": "Nassi",
+          "url": "https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN"
+        },
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166154,
+      "name": "Diali",
+      "url": "https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m"
+    },
+    {
+      "album": {
         "name": "Dime Porque",
         "url": "https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v"
       },
@@ -2156,6 +2178,28 @@
       "duration_ms": 365529,
       "name": "L7essada",
       "url": "https://open.spotify.com/track/6BbRk218FsK51B2KVc4GrA"
+    },
+    {
+      "album": {
+        "name": "\u00c0 la bien (Winter edition)",
+        "url": "https://open.spotify.com/album/1QnlsM0yEkm7g70NZHcAPp"
+      },
+      "artists": [
+        {
+          "name": "DJ Hamida",
+          "url": "https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3"
+        },
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162338,
+      "name": "La mienne",
+      "url": "https://open.spotify.com/track/2EIFVbGwRujki9qj6YXcPX"
     },
     {
       "album": {
@@ -3596,7 +3640,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 188041,
       "name": "Seddit Lbibane",
       "url": "https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ"
@@ -4040,7 +4084,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 267130,
       "name": "Welcome to Morocco - Official Song of the FIFA Club World Cup 2022",
       "url": "https://open.spotify.com/track/4rpUK9h7OZYdelY1QUYjjR"
@@ -4200,7 +4244,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 207499,
       "name": "YA LE3DOUWA",
       "url": "https://open.spotify.com/track/66Zvytz9Du8eXZIXXLS8Ea"

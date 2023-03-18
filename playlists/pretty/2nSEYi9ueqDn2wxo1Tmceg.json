@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzY0NCxhOTY3ZDc4MjI4YWY4YjY1NDY1OThjZTkzOGQ0NTU4YWRiODAzNDRm",
+  "snapshot_id": "MzY0NSwzNTg4Mzg1ZGQ5ZWU5NDJjOTQ4ZmIxYzg1MmEyNTE1Yjk0MWVmNzRh",
   "tracks": [
+    {
+      "added_at": "2023-03-16 10:34:52",
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/68QR2RcoZoi8dMK0p0gLdm"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 285308,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/21sMYVKeuKzBWwSg5uYeVJ"
+    },
     {
       "added_at": "2023-03-15 10:43:08",
       "album": {

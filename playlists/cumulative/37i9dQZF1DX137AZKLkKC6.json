@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Paola Jara",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Jhonny Rivera y Luisito Mu\u00f1oz",
   "name": "La + Popular",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 203210,
       "name": "De Rodillas - Versi\u00f3n Popular",
       "url": "https://open.spotify.com/track/2ZDslBpDojVklqu9Vvc2O1"
@@ -1566,6 +1566,28 @@
       "duration_ms": 201693,
       "name": "Ni Tengo Ni Necesito",
       "url": "https://open.spotify.com/track/2TV5peMu6MRFONxHHE9ZrV"
+    },
+    {
+      "album": {
+        "name": "No Duele Tu Olvido",
+        "url": "https://open.spotify.com/album/0JwGg9qvr6LAsIlnm7FVmv"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        },
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170280,
+      "name": "No Duele Tu Olvido",
+      "url": "https://open.spotify.com/track/4k1Fa69L8ink1epcYhljZj"
     },
     {
       "album": {

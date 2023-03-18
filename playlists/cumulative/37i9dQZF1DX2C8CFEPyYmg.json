@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 102334,
       "name": "A-Hunting We Will Go",
       "url": "https://open.spotify.com/track/2ikRuxPqTGdiYsxL1c6Lmp"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 128250,
       "name": "Blott en dag",
       "url": "https://open.spotify.com/track/4QjuhoMDp2nx6bgJjZXO5h"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 224000,
       "name": "Det ga\u030atfulla folket",
       "url": "https://open.spotify.com/track/3LJaPZaJQMDAPd4NWZMnU9"
@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Elvira Fattigans S\u00e5ng",
+        "url": "https://open.spotify.com/album/5J8xhJcihn9vue9jG88SX7"
+      },
+      "artists": [
+        {
+          "name": "Mia Zand",
+          "url": "https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119587,
+      "name": "Elvira Fattigans Song",
+      "url": "https://open.spotify.com/track/32T5Fnw7yUvCeXzbsGznxB"
+    },
+    {
+      "album": {
         "name": "Pa\u030a en blomstereng",
         "url": "https://open.spotify.com/album/4d1F6hCt9yX8C3scF4QXdw"
       },
@@ -1838,6 +1856,24 @@
       "duration_ms": 175674,
       "name": "Every Day I Feel Your Blessing",
       "url": "https://open.spotify.com/track/7lWAjstkWLgI1EzGHz7gvB"
+    },
+    {
+      "album": {
+        "name": "Fais dodo, Colas mon p'tit fr\u00e8re",
+        "url": "https://open.spotify.com/album/4qct7a9JlnQI8Sr1zhiNLW"
+      },
+      "artists": [
+        {
+          "name": "Miles Higgins",
+          "url": "https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Fais dodo, Colas mon p'tit fr\u00e8re",
+      "url": "https://open.spotify.com/track/6yVSSd8L2UKvKuw15ZQYTt"
     },
     {
       "album": {
@@ -2417,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Guitar Lullabies",
+        "url": "https://open.spotify.com/album/1aUPcEPAxp9UwB1Vvezu7P"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96750,
+      "name": "Head Shoulders Knees and Toes",
+      "url": "https://open.spotify.com/track/6L3jWWum4jr3UNz17UQPai"
+    },
+    {
+      "album": {
         "name": "Hide and Seek",
         "url": "https://open.spotify.com/album/0D1cjaMtCqVbypWM95idgN"
       },
@@ -2536,7 +2590,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 106656,
       "name": "Hush Little Baby",
       "url": "https://open.spotify.com/track/6diDT7h1OGkBcRko8z9bxQ"
@@ -2734,7 +2788,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 105913,
       "name": "If all the stars",
       "url": "https://open.spotify.com/track/6qdsdpkntWpvn6vsgdwcXY"
@@ -2914,7 +2968,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 128824,
       "name": "It's Time To Go To Sleep",
       "url": "https://open.spotify.com/track/0MODSghjQ1qBiy9mP5EoLm"
@@ -3065,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "La Vie En Rose",
+        "url": "https://open.spotify.com/album/2yMv8Q79GKK3nSoH1o1h1D"
+      },
+      "artists": [
+        {
+          "name": "Troll Woods",
+          "url": "https://open.spotify.com/artist/5KXlJyBOkWpXv4lO68O0CA"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/1ARtrIphQA80XDVp4rZpyv"
+    },
+    {
+      "album": {
         "name": "Lady Nightcap",
         "url": "https://open.spotify.com/album/6VDBJTqbHCJ2U5bRBVNfWd"
       },
@@ -3094,7 +3166,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 104664,
       "name": "Lake District",
       "url": "https://open.spotify.com/track/62rk91S0MdArx37LedWsZH"
@@ -3245,6 +3317,42 @@
     },
     {
       "album": {
+        "name": "Little Dreamer",
+        "url": "https://open.spotify.com/album/2hJ4XAJ27gU58YmEFatsgb"
+      },
+      "artists": [
+        {
+          "name": "Tom Blund",
+          "url": "https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67337,
+      "name": "Little Dreamer",
+      "url": "https://open.spotify.com/track/2Bi78w0eDI0LLki6hL4kRy"
+    },
+    {
+      "album": {
+        "name": "Little Jack Horner",
+        "url": "https://open.spotify.com/album/7LrhiWS8UkU8hmH8d3ocIv"
+      },
+      "artists": [
+        {
+          "name": "Dawn Strage",
+          "url": "https://open.spotify.com/artist/327FLvFuccgVKyr40b3eli"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68571,
+      "name": "Little Jack Horner",
+      "url": "https://open.spotify.com/track/4bcK8YQsYRGufJzOBdFMjQ"
+    },
+    {
+      "album": {
         "name": "Twinkle Twinkle Little Star",
         "url": "https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k"
       },
@@ -3278,6 +3386,24 @@
       "duration_ms": 122089,
       "name": "Little Piece For Harp",
       "url": "https://open.spotify.com/track/5ol379cYHwXRapFSrls4pb"
+    },
+    {
+      "album": {
+        "name": "Little Sweet Pea",
+        "url": "https://open.spotify.com/album/3szc0c6V9Akfus5LsIWOiO"
+      },
+      "artists": [
+        {
+          "name": "Little Miles",
+          "url": "https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119761,
+      "name": "Little Sweet Pea",
+      "url": "https://open.spotify.com/track/7mHPGfKUJ4U3NOgjpjYUFf"
     },
     {
       "album": {
@@ -3418,7 +3544,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 134953,
       "name": "Lullaby For My Baby",
       "url": "https://open.spotify.com/track/3YBI07hmxDM28KhbFne2L0"
@@ -4091,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/3Nz6S7NBhNIhRLaT613Hxz"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Keller",
+          "url": "https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94613,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/0HvsoK5mb8X5R8SuRyM0zk"
+    },
+    {
+      "album": {
         "name": "Nocturne For Luna",
         "url": "https://open.spotify.com/album/3haire3hrJ1h9zT4VT78V4"
       },
@@ -4534,7 +4678,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 93180,
       "name": "Row Your Boat",
       "url": "https://open.spotify.com/track/6E8DUD9VLLCiKXbMWzo2T3"
@@ -4991,6 +5135,24 @@
     },
     {
       "album": {
+        "name": "Sommerdr\u00f8m",
+        "url": "https://open.spotify.com/album/6QBMIQgFVkgQZ0Qpu9evl0"
+      },
+      "artists": [
+        {
+          "name": "William Riddervold",
+          "url": "https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76569,
+      "name": "Sommerdr\u00f8m",
+      "url": "https://open.spotify.com/track/2uPXBjaHGJn3e6fWRqB2JL"
+    },
+    {
+      "album": {
         "name": "Song Of The Small Bear",
         "url": "https://open.spotify.com/album/7v3O7qxke2x91cxQDmUv8G"
       },
@@ -5261,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "Suo Gan",
+        "url": "https://open.spotify.com/album/4niFFsiGXKOtHR2rHdy1Yo"
+      },
+      "artists": [
+        {
+          "name": "Rex Miller",
+          "url": "https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119518,
+      "name": "Suo Gan",
+      "url": "https://open.spotify.com/track/2Ao3ql098f12DeavWNgaLc"
+    },
+    {
+      "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/3NLiTJriPUmQLF97K7dvhj"
       },
@@ -5405,6 +5585,24 @@
     },
     {
       "album": {
+        "name": "The Blue Coloring Book",
+        "url": "https://open.spotify.com/album/2DtIFYiufejv0I6K0vijcX"
+      },
+      "artists": [
+        {
+          "name": "Lucy Sothersby",
+          "url": "https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176032,
+      "name": "The Blue Coloring Book",
+      "url": "https://open.spotify.com/track/4rDU0qGUzyomeT3GgXH0QX"
+    },
+    {
+      "album": {
         "name": "The Button Song",
         "url": "https://open.spotify.com/album/33NUTNBNe4YiY8mbZpG8ir"
       },
@@ -5510,6 +5708,24 @@
       "duration_ms": 105723,
       "name": "The More We Get Together",
       "url": "https://open.spotify.com/track/7wGPXZCuXokL9AsePKRgSk"
+    },
+    {
+      "album": {
+        "name": "The Mulberry Bush",
+        "url": "https://open.spotify.com/album/1j7soGWdaZ2b3xAHgX03yp"
+      },
+      "artists": [
+        {
+          "name": "Diedrik Tapp",
+          "url": "https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129983,
+      "name": "The Mulberry Bush",
+      "url": "https://open.spotify.com/track/6yE3oqujPvKKVuwqdoALlh"
     },
     {
       "album": {
@@ -5632,7 +5848,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 99698,
       "name": "The Trolls Are Asleep",
       "url": "https://open.spotify.com/track/7xm7X6bejmw1ZzLjpORc37"
@@ -5783,6 +5999,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Guitar Lullabies",
+        "url": "https://open.spotify.com/album/1aUPcEPAxp9UwB1Vvezu7P"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152624,
+      "name": "Three Blind Mice",
+      "url": "https://open.spotify.com/track/5gIh1gUi9kU5OpqCOOTbc1"
+    },
+    {
+      "album": {
         "name": "Time To Nap",
         "url": "https://open.spotify.com/album/0ShUq9Hv1ihHW5YnjyhAJv"
       },
@@ -5906,6 +6140,24 @@
       "duration_ms": 133394,
       "name": "Too-Ra-Loo-Ra-Loo-",
       "url": "https://open.spotify.com/track/4IrWLFVlYt4g6kAX4oFOCk"
+    },
+    {
+      "album": {
+        "name": "Tourne Petit Moulin",
+        "url": "https://open.spotify.com/album/3Kb3AoFGckIvp8AVjZsCoV"
+      },
+      "artists": [
+        {
+          "name": "Jacks Box",
+          "url": "https://open.spotify.com/artist/3TtwJYv05v0xwTnQAB5Zi0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Tourne Petit Moulin",
+      "url": "https://open.spotify.com/track/769OmGhsJJ77UwMWUjhwIg"
     },
     {
       "album": {
@@ -6554,6 +6806,24 @@
       "duration_ms": 120441,
       "name": "Yankee Doodle",
       "url": "https://open.spotify.com/track/4mRfFgVV4ipWTYk8Fn4qFD"
+    },
+    {
+      "album": {
+        "name": "Yankee Doodle",
+        "url": "https://open.spotify.com/album/1tjUWMwT2EndqFOeFjpOh0"
+      },
+      "artists": [
+        {
+          "name": "Lea van der Eule",
+          "url": "https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139750,
+      "name": "Yankee Doodle",
+      "url": "https://open.spotify.com/track/1QBxF3sfgwlcpJo4v7wBxt"
     },
     {
       "album": {

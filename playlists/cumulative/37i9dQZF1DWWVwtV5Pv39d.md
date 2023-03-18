@@ -4,7 +4,7 @@
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-103 songs - 3 hr 42 min
+104 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Sharing Is Caring](https://open.spotify.com/track/5GcXj0rDWSlLQIPktW5ADB) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 1:31 | 2022-07-08 |  |
 | [Sleepy Bug](https://open.spotify.com/track/2eRtkBw6kaS0DxS4SkkaXv) | [Splash'N Boots](https://open.spotify.com/artist/1XVWPwiCysDYBWGhnjQPUP) | [Songs from the Boot](https://open.spotify.com/album/65SxrlHBwGvVIzNAF2Q1fk) | 1:56 | 2021-09-23 |  |
 | [The Hairbrush Song](https://open.spotify.com/track/7byEE1H59Byz5yuUhFPQaa) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [All The Songs \(Vol\. 1\)](https://open.spotify.com/album/0n3mrhnJn9cd6i17A0zGTP) | 3:04 | 2021-09-23 |  |
+| [The Hand Washing Song](https://open.spotify.com/track/4CxHoh9FDpv8z6tx0F5RVl) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Hand Washing Song](https://open.spotify.com/album/5n1id3LSVpPphLIpQ4wSXb) | 2:37 | 2023-03-17 |  |
 | [The Monkey Dance](https://open.spotify.com/track/2PercMdOvYCCYJVixHHeXy) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs & Rarities](https://open.spotify.com/album/6XFTvklE8rQN0eLEeZ23Bd) | 1:43 | 2021-09-23 | 2022-07-29 |
 | [The Monkey Dance](https://open.spotify.com/track/0AdwySo2rN6vc9XXEQLv7J) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Yummy Yummy](https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO) | 1:43 | 2022-07-08 |  |
 | [The Potty Song](https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW) | [Miss Kitty](https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx) | [Please Come To My Party](https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9) | 2:24 | 2021-09-23 |  |

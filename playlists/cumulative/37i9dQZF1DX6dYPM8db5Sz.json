@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt?si=-YZjTk9jS-y1URdyCD7Paw\">Majozi</a>",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54?si=XY6tsMJ4S3GRQ5-2UUeVPw\">Thabo Krouwkam</a>",
   "name": "SAlt",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 230164,
       "name": "2 Old Dogs",
       "url": "https://open.spotify.com/track/6ACEwvi5FKRLxfS1t9T9uh"
@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245281,
+      "name": "Borrow Trouble",
+      "url": "https://open.spotify.com/track/4lyKe6602fEaFpwMFYGPc2"
+    },
+    {
+      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/2lY7kj1yqaqThxVc0ohgcT"
       },
@@ -924,6 +942,24 @@
       "duration_ms": 203500,
       "name": "Did Enough",
       "url": "https://open.spotify.com/track/2LW0utR6fTwfjPhnz1XbOW"
+    },
+    {
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/3nw8WU1ZFdsdguO8xzspPt"
+      },
+      "artists": [
+        {
+          "name": "Purboxx",
+          "url": "https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200270,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3K2iZ52YBqQz2f2srcAixn"
     },
     {
       "album": {
@@ -1356,7 +1392,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 211546,
       "name": "Head Start - Fresh Start",
       "url": "https://open.spotify.com/track/62NHaoO0JcLD0EpD38HYgg"
@@ -1660,7 +1696,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 168845,
       "name": "i don't reply",
       "url": "https://open.spotify.com/track/3CyCZZGuBCjir82ta1bkii"
@@ -1840,7 +1876,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 120078,
       "name": "Just Fine",
       "url": "https://open.spotify.com/track/2bnEKLupfbkcYVG708qmSf"
@@ -2191,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Midnight Fox",
+        "url": "https://open.spotify.com/album/0Q7PFHDECYVt4TnVal5Kg8"
+      },
+      "artists": [
+        {
+          "name": "STRONZA",
+          "url": "https://open.spotify.com/artist/2MKJYsXACT5aTvtNn1MmDs"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281103,
+      "name": "Midnight Fox",
+      "url": "https://open.spotify.com/track/6fot9PD8atqMvbeeOhwamA"
+    },
+    {
+      "album": {
         "name": "Million Miles",
         "url": "https://open.spotify.com/album/4gcpeWIcQDeumEz2pskRpA"
       },
@@ -2459,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "Meet me in the middle",
+        "url": "https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq"
+      },
+      "artists": [
+        {
+          "name": "Thabo Krouwkam",
+          "url": "https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186367,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/77krcHfId85O4se7W5HpTY"
+    },
+    {
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/61iQKAPGhwpcgMa4lK0XWs"
       },
@@ -2546,7 +2618,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 194383,
       "name": "pink & blue",
       "url": "https://open.spotify.com/track/0fVfYsnBOunr5mX1mViBQt"
@@ -2594,6 +2666,24 @@
       "duration_ms": 193333,
       "name": "Place To Be",
       "url": "https://open.spotify.com/track/3fjEy2DBm2qiQbqr59yrIT"
+    },
+    {
+      "album": {
+        "name": "Porcelain Boy",
+        "url": "https://open.spotify.com/album/4DrTMQ7ONjyt4VW1rHfDgy"
+      },
+      "artists": [
+        {
+          "name": "SunMan",
+          "url": "https://open.spotify.com/artist/764M3FNYq1z8yMJfIDi3x1"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Porcelain Boy",
+      "url": "https://open.spotify.com/track/6pXNKxrMeKRsvqs1GYS5iE"
     },
     {
       "album": {
@@ -2738,6 +2828,24 @@
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
+    },
+    {
+      "album": {
+        "name": "Rose-tinted",
+        "url": "https://open.spotify.com/album/7vt8yiAAlJKzHujypyDa1Y"
+      },
+      "artists": [
+        {
+          "name": "Ross Learmonth",
+          "url": "https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218386,
+      "name": "Rose-tinted",
+      "url": "https://open.spotify.com/track/6etwIyuLOsMobfxRdCWuru"
     },
     {
       "album": {
@@ -2896,7 +3004,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 193333,
       "name": "Saviour Complex",
       "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
@@ -3500,7 +3608,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 160728,
       "name": "Trouble - Radio Remix",
       "url": "https://open.spotify.com/track/3b1CgbC7s0TQ07ew2c2aaX"
@@ -3894,6 +4002,24 @@
       "duration_ms": 229235,
       "name": "Wonder Wonder",
       "url": "https://open.spotify.com/track/31Ig0hJJU3pOalXkHUQZP2"
+    },
+    {
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/770No61AWG74gR1xQaRYzL"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212818,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr"
     },
     {
       "album": {

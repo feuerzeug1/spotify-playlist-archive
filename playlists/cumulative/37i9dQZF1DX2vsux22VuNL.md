@@ -2,9 +2,9 @@
 
 ### [brisa](https://open.spotify.com/playlist/37i9dQZF1DX2vsux22VuNL)
 
-> Aquele som que é pura brisa\. 🍃 Foto: 3030, Costa Gold
+> Aquele som que é pura brisa\. 🍃 Foto: Papatinho, Xamã
 
-217 songs - 11 hr 43 min
+218 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [De Novo](https://open.spotify.com/track/3xra5OMlRc4MQgD8V0aIxq) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [De Novo](https://open.spotify.com/album/0pEgo6T1sl8cNedAREKVS7) | 2:25 | 2022-05-23 | 2022-10-15 |
 | [Deixar Rolar](https://open.spotify.com/track/7ljVYvTPJZqGzvF55lBU3u) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Deixar Rolar](https://open.spotify.com/album/5T2vFctlodQMpsqki2ZpwH) | 2:06 | 2023-02-06 | 2023-03-11 |
 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 | 2022-05-23 |  |
-| [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-25 |  |
+| [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-25 | 2023-03-18 |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-04 |  |
 | [Direção](https://open.spotify.com/track/45NQoSZq9wCX26LCXcG5Bf) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Direção](https://open.spotify.com/album/0dbn2sheleIRVpaThz9Vdy) | 2:21 | 2022-12-09 | 2023-03-11 |
 | [Disk Coração](https://open.spotify.com/track/2K3uhe6KY6xik57oGQMYFQ) | [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Disk Coração](https://open.spotify.com/album/1LRKYLLGnri0Klrao67kwf) | 2:31 | 2022-08-12 | 2022-09-24 |
@@ -165,6 +165,7 @@
 | [PRIMEIRA VISTA](https://open.spotify.com/track/4hkYMXUKY6HS3JreKVj7xs) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc) | [PRIMEIRA VISTA](https://open.spotify.com/album/47lAPANo6Dr5BKnU7x0RLM) | 2:20 | 2022-05-23 | 2022-09-09 |
 | [Proposta](https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 3:46 | 2022-10-14 |  |
 | [Puto de Luxo](https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Puto de Luxo](https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5) | 2:24 | 2022-12-02 |  |
+| [Qatar Freestyle \(Papatracks \#9\)](https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Qatar Freestyle \(Papatracks \#9\)](https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF) | 2:23 | 2023-03-17 |  |
 | [Quando](https://open.spotify.com/track/1hzBmDY92rHMRkWpydY120) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Quando](https://open.spotify.com/album/2iwPRtSrvVoBU9VpAeylfY) | 3:14 | 2022-11-25 | 2022-11-29 |
 | [Quando A Gente Briga](https://open.spotify.com/track/0xSYfmxbUMj2ZpkM8rQIlh) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Mahogany Beatz](https://open.spotify.com/artist/1Zqg6bGNN9aE96nM2fAz3T), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Quando A Gente Briga](https://open.spotify.com/album/36SoFfcNNZyNFYaPJuh9yF) | 4:37 | 2022-05-23 | 2022-10-15 |
 | [Quanta Riqueza](https://open.spotify.com/track/5ducepktoljPO994NZQDGJ) | [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Quanta Riqueza](https://open.spotify.com/album/5eiWGVE6tFQiv4HhusuxWM) | 3:12 | 2022-05-23 | 2022-06-15 |

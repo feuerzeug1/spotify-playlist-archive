@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Daydream Believer (Acoustic)",
+        "url": "https://open.spotify.com/album/3qwvjINzC7FN11ZRxVwmsE"
+      },
+      "artists": [
+        {
+          "name": "Grace George",
+          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133220,
+      "name": "Daydream Believer - Acoustic",
+      "url": "https://open.spotify.com/track/2tq6QHha0InhddKVEbfHiy"
+    },
+    {
+      "album": {
         "name": "Dignity (Acoustic)",
         "url": "https://open.spotify.com/album/79Dxyo0UTmGpOn14wgQWDM"
       },
@@ -1955,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Pointless (Acoustic)",
+        "url": "https://open.spotify.com/album/2sHjB2UBTgSAOCHocUagmz"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209844,
+      "name": "Pointless - Acoustic",
+      "url": "https://open.spotify.com/track/6Lv2VsZijTj0x6BmMk30CR"
+    },
+    {
+      "album": {
         "name": "Another Bundle of Tantrums",
         "url": "https://open.spotify.com/album/5og5ncNgq9dH4JBauZyCBs"
       },
@@ -2338,7 +2374,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 211200,
       "name": "Teenage Dirtbag - Acoustic",
       "url": "https://open.spotify.com/track/5ZprRG6q2boxa5Ypa3u6Hp"

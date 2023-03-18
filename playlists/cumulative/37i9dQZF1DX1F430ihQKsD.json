@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Chiiild, Charlotte Cardin",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: comment debord",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD"
+      },
+      "artists": [
+        {
+          "name": "Braids",
+          "url": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD"
+    },
+    {
+      "album": {
         "name": "Concorde (Deluxe)",
         "url": "https://open.spotify.com/album/5hfqkqLj5FkmT9yOAnMYJt"
       },
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 236098,
       "name": "Funambule (tout restera pareil)",
       "url": "https://open.spotify.com/track/2U8q4Oydvvbc9OIfqVUW4i"
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 172750,
       "name": "Google",
       "url": "https://open.spotify.com/track/5h3mgP97aXfErx9AMUgcrR"
@@ -2499,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Je n'habite pas chez moi",
+        "url": "https://open.spotify.com/album/20iT6YJYJD0d7ushv8mQHv"
+      },
+      "artists": [
+        {
+          "name": "San James",
+          "url": "https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204186,
+      "name": "Je n'habite pas chez moi",
+      "url": "https://open.spotify.com/track/7q9auzxcNfbzqRwILxqNVF"
+    },
+    {
+      "album": {
         "name": "JE RESPIRE",
         "url": "https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs"
       },
@@ -2818,7 +2854,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 143041,
       "name": "Le p'tit fou",
       "url": "https://open.spotify.com/track/7DEZSbFnPI4r8uli6rNQ5w"
@@ -3736,7 +3772,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 249996,
       "name": "Pajaros",
       "url": "https://open.spotify.com/track/7yZ5kBFO6VTjrFHIKXWA4S"
@@ -4058,6 +4094,24 @@
       "duration_ms": 208267,
       "name": "PLS - sunset version",
       "url": "https://open.spotify.com/track/7Icpr4emncvQ7AbZ7RXlg3"
+    },
+    {
+      "album": {
+        "name": "Polymorphe",
+        "url": "https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP"
     },
     {
       "album": {
@@ -4970,7 +5024,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 258215,
       "name": "Toune 9",
       "url": "https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL"
@@ -5215,6 +5269,24 @@
     },
     {
       "album": {
+        "name": "Viendras-tu pleurer?",
+        "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "Viendras-tu pleurer?",
+      "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
+    },
+    {
+      "album": {
         "name": "Ville am\u00e9ricaine",
         "url": "https://open.spotify.com/album/04ExG9J3eCZkOEi4wB08H5"
       },
@@ -5248,6 +5320,40 @@
       "duration_ms": 186544,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm"
+    },
+    {
+      "album": {
+        "name": "What It Is",
+        "url": "https://open.spotify.com/album/56Dpa4dNBz06Qjnj8K0Eym"
+      },
+      "artists": [
+        {
+          "name": "Saint Zenon",
+          "url": "https://open.spotify.com/artist/7zqRekdxVg93PQcJuIazlf"
+        },
+        {
+          "name": "Half White Full Black",
+          "url": "https://open.spotify.com/artist/2c8ObefSxH6n2N8n2gNUKG"
+        },
+        {
+          "name": "Flara K",
+          "url": "https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu"
+        },
+        {
+          "name": "wordsbyjuni",
+          "url": "https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy"
+        },
+        {
+          "name": "Claire Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118799,
+      "name": "What It Is",
+      "url": "https://open.spotify.com/track/5j8qS9IDLegyFRSziYAinL"
     },
     {
       "album": {

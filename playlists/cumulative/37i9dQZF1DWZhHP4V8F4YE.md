@@ -4,7 +4,7 @@
 
 > Viral hits in Africa
 
-269 songs - 15 hr 49 min
+270 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 | 2023-01-16 | 2023-02-08 |
 | [Don't Mind](https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ) | [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [Don't Mind](https://open.spotify.com/album/0l28Q1FFEA0mtpEdEQw1r3) | 3:18 | 2023-03-07 |  |
 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 | 2022-11-29 | 2023-02-08 |
-| [Duck Vibes](https://open.spotify.com/track/2KmV9CPGwUBwGRLSoiI4tX) | [Vibekulture Sa](https://open.spotify.com/artist/1nKBsRsdQ7uG99wRtNDMPd), [Mcdeez Fboy](https://open.spotify.com/artist/2yxRzYUynwWwvAOzeKngNk) | [Duck Vibes](https://open.spotify.com/album/6dyYGodC0Hwf7MXcjengzC) | 6:27 | 2023-02-28 |  |
+| [Duck Vibes](https://open.spotify.com/track/1i4YkTmnDNDpXSdDRlsEHz) | [Vibekulture Sa](https://open.spotify.com/artist/1nKBsRsdQ7uG99wRtNDMPd), [Mcdeez Fboy](https://open.spotify.com/artist/2yxRzYUynwWwvAOzeKngNk) | [Duck Vibes](https://open.spotify.com/album/1ys3dwAhb5SkESge0hWiUp) | 6:27 | 2023-03-07 |  |
+| [Duck Vibes](https://open.spotify.com/track/2KmV9CPGwUBwGRLSoiI4tX) | [Vibekulture Sa](https://open.spotify.com/artist/1nKBsRsdQ7uG99wRtNDMPd), [Mcdeez Fboy](https://open.spotify.com/artist/2yxRzYUynwWwvAOzeKngNk) | [Duck Vibes](https://open.spotify.com/album/6dyYGodC0Hwf7MXcjengzC) | 6:27 | 2023-02-28 | 2023-03-18 |
 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-01-23 |  |
 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-12-12 | 2023-03-08 |
 | [Everybody](https://open.spotify.com/track/7lfoIQIABM2O4Q4VGCGE3q) | [Juanita](https://open.spotify.com/artist/2Itueij8fk67HWdPAJYqJ9) | [Everybody](https://open.spotify.com/album/1nCixv3lshOH2ZpnpsvYfx) | 3:04 | 2022-12-12 | 2023-01-17 |

@@ -4,7 +4,7 @@
 
 > Tem rap nacional tem boom bap na área\. Foto: Febre 90's
 
-261 songs - 14 hr 36 min
+262 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Depressão Freestyle](https://open.spotify.com/track/1yeYXm6mMGgo2EVmZ1w39r) | [Bruno Darko](https://open.spotify.com/artist/27jhhOC9dxRGWFhfgVuIjJ), [Neutro](https://open.spotify.com/artist/4IQcaVLkIDtZJlM8cGYuuw) | [Depressão Freestyle](https://open.spotify.com/album/3RHQIpHYgJa7vxbuoqUZQs) | 1:13 | 2022-05-20 | 2022-05-28 |
 | [Desavento](https://open.spotify.com/track/2S44kcVUvjd8xy2ndatosj) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Valada](https://open.spotify.com/artist/54pqoIRMifMNNc69yNzToB) | [Desavento](https://open.spotify.com/album/56ZIX9QNRoqVY1Nb02yDXY) | 3:13 | 2022-07-01 |  |
 | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/track/7mAo5yR1WdnLwBMxJ8pBGC) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/album/6fFZz6sTLJe51S3w7IPxpg) | 2:54 | 2022-03-25 |  |
-| [Dizzabafo](https://open.spotify.com/track/792Kwq7leRnzTZ2ZhG6xw6) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizzabafo](https://open.spotify.com/album/5WaspzNsol7Zq7j1lUluH3) | 3:42 | 2022-09-30 |  |
+| [Dizzabafo](https://open.spotify.com/track/792Kwq7leRnzTZ2ZhG6xw6) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizzabafo](https://open.spotify.com/album/5WaspzNsol7Zq7j1lUluH3) | 3:42 | 2022-09-30 | 2023-03-18 |
 | [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 | 2023-01-06 |  |
 | [Dono do Lugar](https://open.spotify.com/track/2KKdaKLGxj24vEYnaQudPD) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Bandido Fi Di Crente](https://open.spotify.com/album/1Y7CKJAjoXkIdbiXeCwFt1) | 2:35 | 2022-03-18 | 2022-04-02 |
 | [DUJEITO Q DA](https://open.spotify.com/track/4OW2bMqaWGqH83ojBaHeYt) | [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB), [Noshugah](https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs) | [DUJEITO Q DA](https://open.spotify.com/album/2geHCPma65x6DlqQnYir1V) | 1:53 | 2022-05-27 | 2022-06-11 |
@@ -233,6 +233,7 @@
 | [Tecnologia](https://open.spotify.com/track/4EopE6f7MU601tBbDccmcq) | [Pedro Simples](https://open.spotify.com/artist/4onypgNFPIHhPqEO7BYYIE), [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB), [Malokero Anônimo](https://open.spotify.com/artist/61h45TTf8pScBErVEDm3mz), [DJ B8](https://open.spotify.com/artist/3PH6x2yZ6Gb0iPIYj6XQAB) | [Tecnologia](https://open.spotify.com/album/5eJuA2zoW5qpztJLlMpyGa) | 3:07 | 2022-04-01 | 2022-07-30 |
 | [Tem Dias Que](https://open.spotify.com/track/4puE88rxsk6E2jmc1p9toN) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 5:19 | 2022-11-11 |  |
 | [Terra de Ninguém](https://open.spotify.com/track/1ZbUPNmGbaDSCVj3JdWduI) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [Terra de Ninguém](https://open.spotify.com/album/6TjWUZBQVci9JnXgWxLh0q) | 3:02 | 2023-02-17 |  |
+| [Time](https://open.spotify.com/track/61Aw3yZH92IyGyfIhkcAO8) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z), [Rodrigo Chiocki](https://open.spotify.com/artist/2ewT5YmiSeNwAqDW929zz0) | [Time](https://open.spotify.com/album/2Po13cWqzgBohlQ4qGjnG7) | 2:47 | 2023-03-17 |  |
 | [Trajadx De Fé](https://open.spotify.com/track/5Z2T7gQOkNbU2aLuNakksa) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [Eaedaddy](https://open.spotify.com/artist/3s8GYKFrXLsyx3WN6mdwh8), [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV) | [Alone](https://open.spotify.com/album/51ysxwMH0PQRS180bFxiMx) | 2:08 | 2022-03-18 | 2022-04-09 |
 | [Trânsito da Cidade](https://open.spotify.com/track/4pQgLONw1HQMxJ6apIyJK1) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Trânsito da Cidade](https://open.spotify.com/album/0ar4UsexhJOYDjoSJmusy7) | 2:40 | 2022-03-25 | 2022-07-29 |
 | [Trânsito da Cidade](https://open.spotify.com/track/50mIUQoOsK3JRmvqyHMnkC) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr) | 2:40 | 2022-12-09 |  |

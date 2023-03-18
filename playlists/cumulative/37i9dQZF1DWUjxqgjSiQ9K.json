@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Gilberto Daza y Sergio Luis Rodr\u00edquez",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Marcos Vidal",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 221879,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
@@ -3000,7 +3000,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 248845,
       "name": "Getseman\u00ed",
       "url": "https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 194086,
       "name": "Me Da Paz - Reimagined",
       "url": "https://open.spotify.com/track/59IbI0oAVQMTPiYETAELbN"
@@ -4322,6 +4322,32 @@
       "duration_ms": 298976,
       "name": "Mi Dios",
       "url": "https://open.spotify.com/track/2sv8SthOOhWNAd9diJG7d2"
+    },
+    {
+      "album": {
+        "name": "Mi Fe Viva Est\u00e1",
+        "url": "https://open.spotify.com/album/7efdujfEbdhiWhHO4vMXap"
+      },
+      "artists": [
+        {
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+        },
+        {
+          "name": "Ileia Shara\u00e9",
+          "url": "https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr"
+        },
+        {
+          "name": "Monique Zackery",
+          "url": "https://open.spotify.com/artist/3yKr6mwagryiaF3dxZU3Aj"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246915,
+      "name": "Mi Fe Viva Est\u00e1",
+      "url": "https://open.spotify.com/track/5nxbsQxhamiqDEFKZXUMYP"
     },
     {
       "album": {
@@ -5482,6 +5508,28 @@
       "duration_ms": 440777,
       "name": "Profundo - Live Session",
       "url": "https://open.spotify.com/track/2nOsQwngRSnWFlP8Pz5GM2"
+    },
+    {
+      "album": {
+        "name": "Profundo II",
+        "url": "https://open.spotify.com/album/6RauIJjotwBlwiFwUrY8JP"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Leonardo vera",
+          "url": "https://open.spotify.com/artist/11aljheqgUQuTC2spSpATw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203861,
+      "name": "Profundo II",
+      "url": "https://open.spotify.com/track/6BFJ260uGD3yRyASBzOFUm"
     },
     {
       "album": {
@@ -7034,6 +7082,24 @@
       "duration_ms": 255774,
       "name": "Tu Bondad",
       "url": "https://open.spotify.com/track/7xURcWepR5TwKQMhA3vnMC"
+    },
+    {
+      "album": {
+        "name": "Tu Cara",
+        "url": "https://open.spotify.com/album/5AXi1C2CZdcqd26WaopVuF"
+      },
+      "artists": [
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312262,
+      "name": "Tu Cara",
+      "url": "https://open.spotify.com/track/6Sg5qYaAHubFI4RTvx9k29"
     },
     {
       "album": {

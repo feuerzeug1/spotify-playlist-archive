@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: MARIS
 
-2,839 songs - 6 day 0 hr 48 min
+2,840 songs - 6 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2699,7 +2699,8 @@
 | [We Should](https://open.spotify.com/track/3S0jH3gRr22DbOhww7ZLfT) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [We Should](https://open.spotify.com/album/4EJsD55q3FToMmSo1K1BLC) | 3:46 | 2021-07-16 | 2021-08-26 |
 | [We Were Happy](https://open.spotify.com/track/76Yihe2lirW8tQyEL5z0lE) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [We Were Happy](https://open.spotify.com/album/3xVHRG63cyad5JznT2AxfJ) | 4:23 | 2022-08-24 | 2022-09-15 |
 | [We'll Have To See](https://open.spotify.com/track/7tLZxGGLmThq7G6h7DC59b) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [We'll Have To See](https://open.spotify.com/album/1yQvqZt0YFkePSxQ7gDCfv) | 3:00 | 2021-10-07 | 2021-11-11 |
-| [We've Come So Far](https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [We've Come So Far](https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo) | 3:58 | 2023-03-15 |  |
+| [We've Come So Far](https://open.spotify.com/track/5FRTam306WIvvLrmmroNCs) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 3:58 | 2023-03-15 |  |
+| [We've Come So Far](https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [We've Come So Far](https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo) | 3:58 | 2023-03-15 | 2023-03-18 |
 | [weak](https://open.spotify.com/track/4qRs2QpHrRLuK8c6qWMZPh) | [Emily Frost](https://open.spotify.com/artist/5drcSJLUY3bsvooLHN8UUv) | [weak](https://open.spotify.com/album/1Lqa6igDGVvAoMCT5Wk5cG) | 3:44 | 2021-06-03 | 2021-06-18 |
 | [Wear Me Down](https://open.spotify.com/track/2pvdeK0PX52lz11PKetKGL) | [Jordan Fuller](https://open.spotify.com/artist/6ek2AyxsyDe2KtbWkaICdK) | [Wear Me Down](https://open.spotify.com/album/3MIs4aujNJgDbFavDgD9xN) | 2:25 | 2022-09-28 | 2022-11-10 |
 | [Weather](https://open.spotify.com/track/6jSyWPJ4nQIMlvBXZv9R09) | [Popcoin](https://open.spotify.com/artist/1319K2vYzvVgXjWmVr9alQ) | [Weather](https://open.spotify.com/album/1gUFG8gElsbQ4tGwt56EVL) | 2:08 | 2021-08-20 | 2021-09-10 |

@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: Passion
 
-216 songs - 22 hr 21 min
+217 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,9 +131,10 @@
 | [Leaning \- Live](https://open.spotify.com/track/3ftY8vtaNvwIDBwbFDDFVH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Leaning \(Live\)](https://open.spotify.com/album/6UGWowK96hTdQJyZadFfyJ) | 7:56 | 2022-03-19 |  |
 | [Let Go \- Live](https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Live At The Manor](https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W) | 4:34 | 2023-03-11 |  |
 | [Lifetime \- Live](https://open.spotify.com/track/2TpnoidbX6RQWMamluRDhr) | [C3 NYC](https://open.spotify.com/artist/6tVUFgMhjG96KGcJSr3BdJ) | [Lifetime \(Live\)](https://open.spotify.com/album/5VaO6PwY16kfWfLDrzYiFb) | 5:16 | 2022-02-19 | 2023-03-11 |
-| [Lift Our Gaze](https://open.spotify.com/track/2DVdkyrx6oFjnvOyEWFzIQ) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [I'll Tell These Stories to My Kids](https://open.spotify.com/album/3xYvltnUkIyXGWA4S5o1UG) | 6:08 | 2022-02-19 |  |
+| [Lift Our Gaze](https://open.spotify.com/track/2DVdkyrx6oFjnvOyEWFzIQ) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [I'll Tell These Stories to My Kids](https://open.spotify.com/album/3xYvltnUkIyXGWA4S5o1UG) | 6:08 | 2022-02-19 | 2023-03-18 |
 | [LION \(feat\. Chris Brown & Brandon Lake\)](https://open.spotify.com/track/0wokdbjRBEVknN1c6FBf9S) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 5:54 | 2022-03-19 | 2022-09-12 |
 | [Live Again](https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kyle McHargh](https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Live Again](https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap) | 8:42 | 2023-03-16 |  |
+| [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 | 2023-03-18 |  |
 | [Lost Its Grip \(Live\)](https://open.spotify.com/track/6BDE2ZuAzCNS6HgrohrdYF) | [Orphan No More Co](https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F) | [Death Died Live from Englishcombe Chapel](https://open.spotify.com/album/2zScrgRimzjSdu0aLHbTmm) | 6:22 | 2022-03-19 | 2023-03-11 |
 | [Lost Its Grip \- Live](https://open.spotify.com/track/0asIMrZC8xusLEpP2sMUVK) | [Orphan No More Co](https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F) | [Death Died Live From Englishcombe Chapel](https://open.spotify.com/album/3Lx6JvFGjpaJTNwEWQxRcS) | 6:22 | 2022-02-19 | 2022-07-29 |
 | [Love Has Won \(Live\)](https://open.spotify.com/track/0z7JzSziJUIGj6w6U8aXD4) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Love Has Won \(Live\)](https://open.spotify.com/album/4ge1pQ91ySgwAf1DRLBKvr) | 6:31 | 2022-02-19 | 2023-03-11 |

@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 228500,
       "name": "Friend",
       "url": "https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA"
@@ -4202,6 +4202,24 @@
       "duration_ms": 309393,
       "name": "So Beautiful (Sungguh Indah)",
       "url": "https://open.spotify.com/track/53gemxU7CBNTaZ1ZzbJ81h"
+    },
+    {
+      "album": {
+        "name": "Somebody Loves You",
+        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191944,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
     },
     {
       "album": {

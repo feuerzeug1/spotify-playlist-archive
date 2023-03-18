@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Green Thumb",
+        "url": "https://open.spotify.com/album/0jemo6vMv68syQb1NrTFpY"
+      },
+      "artists": [
+        {
+          "name": "David Ake",
+          "url": "https://open.spotify.com/artist/4NxCS4PdhvZcYqSqs0zsa0"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317942,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/4zrbbrx6AJ5vSltmwj93eX"
+    },
+    {
+      "album": {
         "name": "The Way You Look Tonight",
         "url": "https://open.spotify.com/album/2aKxIghDsEluUXa0LZgrLO"
       },

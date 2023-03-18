@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Nubya Garcia (London Brew)",
+  "description": "New jazz for open minds. Cover: Walter Smith III",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -60,6 +60,44 @@
       "duration_ms": 392733,
       "name": "1000 Miles",
       "url": "https://open.spotify.com/track/3zHj95jG2nq5803pblKcnJ"
+    },
+    {
+      "album": {
+        "name": "Old Stuff",
+        "url": "https://open.spotify.com/album/70CSNq6y3d7z3FzDAKqoPn"
+      },
+      "artists": [
+        {
+          "name": "Pernille B\u00e9vort",
+          "url": "https://open.spotify.com/artist/1Y1qQvf0rRxHFB1H0VSNCV"
+        },
+        {
+          "name": "Pelle Fridell",
+          "url": "https://open.spotify.com/artist/3d810ewZxutlJFFj5ov3jA"
+        },
+        {
+          "name": "Per Gade",
+          "url": "https://open.spotify.com/artist/0ZGwDBYRKKMrNswY82S4gQ"
+        },
+        {
+          "name": "Kjeld Lauritsen",
+          "url": "https://open.spotify.com/artist/0JUVJPk0l8U7O8DkycKtqK"
+        },
+        {
+          "name": "Niels Pr\u00e6stholm",
+          "url": "https://open.spotify.com/artist/2zYdODqsZ8hpwXduBwY4RO"
+        },
+        {
+          "name": "Karsten Bagge",
+          "url": "https://open.spotify.com/artist/1eLFONDpKa9ArYaoVjDrKE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190240,
+      "name": "12 Tone Blues",
+      "url": "https://open.spotify.com/track/3T0B3eOgKOOPitpGvmEOui"
     },
     {
       "album": {
@@ -146,7 +184,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 188059,
       "name": "6XYXS.MMBL",
       "url": "https://open.spotify.com/track/63HQkWDoiTXULnVVYjvM0v"
@@ -164,7 +202,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 289693,
       "name": "7 An\u00e9is",
       "url": "https://open.spotify.com/track/3BQ3DCKGG2bHVeikws5Qjj"
@@ -1420,7 +1458,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 319786,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6p5xME6kNYc2lkvt4atkKL"
@@ -2396,6 +2434,32 @@
       "duration_ms": 439188,
       "name": "Burden",
       "url": "https://open.spotify.com/track/5xB8B2YnZE6VxIxYsKP1JI"
+    },
+    {
+      "album": {
+        "name": "Bye Nashville",
+        "url": "https://open.spotify.com/album/6HyKV2g3r85bzDYafQUuls"
+      },
+      "artists": [
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293600,
+      "name": "Bye Nashville",
+      "url": "https://open.spotify.com/track/0I81H8iYEONeXjQVMaHxLW"
     },
     {
       "album": {
@@ -3749,6 +3813,24 @@
     },
     {
       "album": {
+        "name": "The Layers",
+        "url": "https://open.spotify.com/album/5RREZIzieMs94FkBwiNJjv"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "Double Southpaw",
+      "url": "https://open.spotify.com/track/1DZrcuq1jMOUZX1I13AYAp"
+    },
+    {
+      "album": {
         "name": "DOXOLOGY (Hope)",
         "url": "https://open.spotify.com/album/0eNNs9uL23bthBOiHE2M0J"
       },
@@ -4528,7 +4610,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 216526,
       "name": "Faith in Grace",
       "url": "https://open.spotify.com/track/1epeS242PWILHdDaZxt4PU"
@@ -5588,7 +5670,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 288000,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/5QwPTrz8MBmCxsR3NOfbc0"
@@ -5768,8 +5850,8 @@
           "url": "https://open.spotify.com/artist/754g3wQVj4vfm1UMrOm4Ds"
         },
         {
-          "name": "Jacob Ungerlieder",
-          "url": "https://open.spotify.com/artist/1Ffk6Z6kIPstWZOe8jXtWH"
+          "name": "Jacob Ungerleider",
+          "url": "https://open.spotify.com/artist/0gWUlc0yGrgfEwLjd8HXtV"
         }
       ],
       "date_added": "2023-03-03",
@@ -6510,7 +6592,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 245057,
       "name": "I, Too, Sing America",
       "url": "https://open.spotify.com/track/1FyJplIPpSRXDj7nRqlVYm"
@@ -8565,6 +8647,32 @@
     },
     {
       "album": {
+        "name": "Lviv",
+        "url": "https://open.spotify.com/album/1wCLdZf4iQqyBX6vqnsch2"
+      },
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Peter Nordahl",
+          "url": "https://open.spotify.com/artist/5AMeI7M3JtXhriDpCqX1oK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287513,
+      "name": "Lviv",
+      "url": "https://open.spotify.com/track/0jCHD9Nasx1f0MSUW3Fi8q"
+    },
+    {
+      "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI"
       },
@@ -9296,7 +9404,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 247253,
       "name": "Mother Stands for Comfort",
       "url": "https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx"
@@ -10737,6 +10845,24 @@
     },
     {
       "album": {
+        "name": "Forever Forever",
+        "url": "https://open.spotify.com/album/338Gexpd2aM74CJBGfcuDC"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Artadi",
+          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207194,
+      "name": "Plate",
+      "url": "https://open.spotify.com/track/3vFG1ZcB68ACOdeY99aYIm"
+    },
+    {
+      "album": {
         "name": "Playing With Fire",
         "url": "https://open.spotify.com/album/0gyhPuSxDzaGZ39E4epAqV"
       },
@@ -11645,6 +11771,24 @@
     },
     {
       "album": {
+        "name": "River Styx",
+        "url": "https://open.spotify.com/album/673ZmnaOW0OeCvFn3opgDu"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331040,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/0X0SbHR8uwKq0cW5zrdiCU"
+    },
+    {
+      "album": {
         "name": "Quarantine Sessions",
         "url": "https://open.spotify.com/album/0FU8jHfcqwWOTnsxlj7gro"
       },
@@ -12072,10 +12216,32 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 223040,
       "name": "See",
       "url": "https://open.spotify.com/track/6NXw9uDrd8Uv38noSC77l7"
+    },
+    {
+      "album": {
+        "name": "As They Are",
+        "url": "https://open.spotify.com/album/77X3VE7HSHaOfIcvnHbh1S"
+      },
+      "artists": [
+        {
+          "name": "Marijus Aleksa",
+          "url": "https://open.spotify.com/artist/0pQnT6l8EyyRsh8vQuR8AS"
+        },
+        {
+          "name": "Yelfris Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/5maB2WqB6U2Mi7DKZQYmcS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393002,
+      "name": "See",
+      "url": "https://open.spotify.com/track/6LIOih4AibSQk5HXELJwCz"
     },
     {
       "album": {
@@ -13015,6 +13181,28 @@
     },
     {
       "album": {
+        "name": "Stablemates",
+        "url": "https://open.spotify.com/album/4LIZ8gBKRXUz6LIkejl96K"
+      },
+      "artists": [
+        {
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+        },
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405520,
+      "name": "Stablemates",
+      "url": "https://open.spotify.com/track/3Am8RbvOHEtPqq1m4N8iLf"
+    },
+    {
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/5FvPuFpUndULeIq6M3Mukq"
       },
@@ -13864,7 +14052,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 390333,
       "name": "Tenderly (feat. Jos\u00e9 James)",
       "url": "https://open.spotify.com/track/57UvpKkBMxUALbuN3p7dxd"
@@ -14953,6 +15141,24 @@
     },
     {
       "album": {
+        "name": "The Winds of Change",
+        "url": "https://open.spotify.com/album/1tMOFe4tMSR2aNJxTHkRNv"
+      },
+      "artists": [
+        {
+          "name": "Billy Childs",
+          "url": "https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632920,
+      "name": "The Winds of Change",
+      "url": "https://open.spotify.com/track/3xMVR4fiIXwNDNOW31mwIr"
+    },
+    {
+      "album": {
         "name": "Spirit to All",
         "url": "https://open.spotify.com/album/46v4a2QQQFmbdhErCz6lUi"
       },
@@ -15122,7 +15328,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 259032,
       "name": "This World",
       "url": "https://open.spotify.com/track/2hUILUOnp0zo8II8TcawL0"
@@ -15849,6 +16055,28 @@
     },
     {
       "album": {
+        "name": "Unforgotten, Unforgiven",
+        "url": "https://open.spotify.com/album/460zqovjeV6O8x1rI9VADH"
+      },
+      "artists": [
+        {
+          "name": "Scrimshire",
+          "url": "https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL"
+        },
+        {
+          "name": "Nat Birchall",
+          "url": "https://open.spotify.com/artist/2W5gU4Vi0nwisoXPARdvIy"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276588,
+      "name": "Unforgotten, Unforgiven",
+      "url": "https://open.spotify.com/track/1VzXzBWxpNqegHMDJ9p725"
+    },
+    {
+      "album": {
         "name": "Unrest",
         "url": "https://open.spotify.com/album/6QaENtltIJqJg14EvwvtfO"
       },
@@ -16144,6 +16372,28 @@
       "duration_ms": 167906,
       "name": "Waltz for Hal Willner",
       "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+    },
+    {
+      "album": {
+        "name": "Wanderers (feat. Terence Blanchard)",
+        "url": "https://open.spotify.com/album/3fb0XaesbDvE5hhfqFD1qD"
+      },
+      "artists": [
+        {
+          "name": "Ben Wendel",
+          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
+        },
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453280,
+      "name": "Wanderers (featuring Terence Blanchard)",
+      "url": "https://open.spotify.com/track/33LauyzYqsXIc0PfKR1KcR"
     },
     {
       "album": {
@@ -16630,7 +16880,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 346723,
       "name": "Within You Are Answers",
       "url": "https://open.spotify.com/track/0xtoC9lDPA20RKNZPonFoN"

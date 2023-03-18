@@ -1591,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6GtgXEsCmrXRw3tADB4mxF"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Nuit",
+          "url": "https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2dONTaX48SnM8X2zdV45iP"
+    },
+    {
+      "album": {
         "name": "drift",
         "url": "https://open.spotify.com/album/5ywDwMQPjZl3ixzfCZHVaG"
       },

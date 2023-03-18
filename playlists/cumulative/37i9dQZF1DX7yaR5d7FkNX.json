@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Acelerar",
+        "url": "https://open.spotify.com/album/0FMudSMcFuKShSYkXAApP3"
+      },
+      "artists": [
+        {
+          "name": "Ross J. Rodrigo",
+          "url": "https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202926,
+      "name": "Acelerar",
+      "url": "https://open.spotify.com/track/1hP1iHCGOaA9GraLDeBt2O"
+    },
+    {
+      "album": {
         "name": "Correspondencia",
         "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
       },

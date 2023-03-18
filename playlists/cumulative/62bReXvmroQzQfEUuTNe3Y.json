@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1Ae9MLhcJLBmnD5vICcr14"
+      },
+      "artists": [
+        {
+          "name": "Luca",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218290,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/00KPugdklpcrFNnjWlXjj2"
+    },
+    {
+      "album": {
         "name": "Everything You Do",
         "url": "https://open.spotify.com/album/1RpyLfkDDUVC7b8Ma1XCKy"
       },
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2020-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 191785,
       "name": "I Can't Sleep",
       "url": "https://open.spotify.com/track/5xB5b4L2jOylbYhSf15PTq"
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 197777,
       "name": "I've Fallen for You",
       "url": "https://open.spotify.com/track/73OZcwiBI41R0o5TDGeZ7i"
@@ -2782,6 +2800,28 @@
       "duration_ms": 186690,
       "name": "Ice & Cold",
       "url": "https://open.spotify.com/track/3eKdMlPONnxz5quSb2VpKU"
+    },
+    {
+      "album": {
+        "name": "If You Wanna",
+        "url": "https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA"
+      },
+      "artists": [
+        {
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "If You Wanna",
+      "url": "https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR"
     },
     {
       "album": {
@@ -5493,6 +5533,32 @@
     },
     {
       "album": {
+        "name": "Something Stronger",
+        "url": "https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        },
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127530,
+      "name": "Something Stronger",
+      "url": "https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe"
+    },
+    {
+      "album": {
         "name": "Stare Into Your Eyes",
         "url": "https://open.spotify.com/album/2JLeW8AI1qRmPqOOGUwVli"
       },
@@ -6906,7 +6972,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 170044,
       "name": "Wrong Love",
       "url": "https://open.spotify.com/track/2WiKD8U7aq9ACPxMR3mmK1"

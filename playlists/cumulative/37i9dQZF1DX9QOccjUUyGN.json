@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Welisson",
+  "description": "tranquilo e calmo, no flow. Foto: Krawk",
   "name": "tamo flex",
   "tracks": [
     {
@@ -224,6 +224,32 @@
       "duration_ms": 186947,
       "name": "Ai Calica",
       "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
+    },
+    {
+      "album": {
+        "name": "ALASTRO!",
+        "url": "https://open.spotify.com/album/4qYVr7zNsXOTxhGBADbWVG"
+      },
+      "artists": [
+        {
+          "name": "ogsuzi",
+          "url": "https://open.spotify.com/artist/5GYFWcii9uZdq6rzDZZhbD"
+        },
+        {
+          "name": "Lil Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        },
+        {
+          "name": "Lil Feiky",
+          "url": "https://open.spotify.com/artist/1CGsog9CDFuAWs430hKAFU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181967,
+      "name": "ALASTRO!",
+      "url": "https://open.spotify.com/track/3U58XvL2sRUmJoH5e9hUod"
     },
     {
       "album": {
@@ -1523,6 +1549,28 @@
     },
     {
       "album": {
+        "name": "Cobras e Felinas",
+        "url": "https://open.spotify.com/album/6UlG0X6sdzfvtgtGyHA6rZ"
+      },
+      "artists": [
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "Ludwig",
+          "url": "https://open.spotify.com/artist/4Fq7TukgNgWklLG8WvaHz4"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Cobras e Felinas",
+      "url": "https://open.spotify.com/track/78OAMEWqre2yBnxFINNhLM"
+    },
+    {
+      "album": {
         "name": "Complexo",
         "url": "https://open.spotify.com/album/0ZJfbABEZHEZIDk9lbJIjC"
       },
@@ -1802,7 +1850,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 126315,
       "name": "Dan\u00e7a Menina",
       "url": "https://open.spotify.com/track/0pNsyFV27plpmQvp2x7Vro"
@@ -1965,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Deus \u00e9 Bom",
+        "url": "https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW"
+      },
+      "artists": [
+        {
+          "name": "Krawk",
+          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Deus \u00e9 Bom",
+      "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
+    },
+    {
+      "album": {
         "name": "Disfar\u00e7a",
         "url": "https://open.spotify.com/album/3jG7kKxQkJ0NB3rXfQSLUQ"
       },
@@ -1976,7 +2042,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 185538,
       "name": "Disfar\u00e7a",
       "url": "https://open.spotify.com/track/2kH5vD45RQtkkJv8YPKiq7"
@@ -3934,7 +4000,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 181582,
       "name": "Me Passa Esse Copo",
       "url": "https://open.spotify.com/track/6353VJ9hZ7ggkUC1IptSvo"
@@ -5017,6 +5083,32 @@
     },
     {
       "album": {
+        "name": "Olho Grande",
+        "url": "https://open.spotify.com/album/1IUS9azx7lvwKKTl0CrBmh"
+      },
+      "artists": [
+        {
+          "name": "Nego Petrus",
+          "url": "https://open.spotify.com/artist/4aB6LeMRuLPCEF9Iab21dq"
+        },
+        {
+          "name": "HFnoBeat",
+          "url": "https://open.spotify.com/artist/1v20fTHTvedzHkWPYCDy9u"
+        },
+        {
+          "name": "Kuririn",
+          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176125,
+      "name": "Olho Grande",
+      "url": "https://open.spotify.com/track/5gYc8AyLKwoHNTm9eI7Aof"
+    },
+    {
+      "album": {
         "name": "Ontem",
         "url": "https://open.spotify.com/album/1fM60WYCiwVdzItKBMQxrJ"
       },
@@ -5224,6 +5316,36 @@
       "duration_ms": 192786,
       "name": "Pensando Em N\u00f3s",
       "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "album": {
+        "name": "Perspectiva",
+        "url": "https://open.spotify.com/album/3gtnqel1V6X64QGt0LkEgf"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Mikezin",
+          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+        },
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        },
+        {
+          "name": "Felth",
+          "url": "https://open.spotify.com/artist/3JZW3NTouLuBlMObQ0LZ9s"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275481,
+      "name": "Perspectiva",
+      "url": "https://open.spotify.com/track/2br82M8nY0clUue2hH6w1Y"
     },
     {
       "album": {
@@ -6108,7 +6230,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 148496,
       "name": "R\u00e9is",
       "url": "https://open.spotify.com/track/1Y9nwb89W4pskYMFAcgNi0"
@@ -6414,7 +6536,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 124000,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/73hXBSX5xJM5YzPB3yy4ck"
@@ -6543,6 +6665,32 @@
     },
     {
       "album": {
+        "name": "Suv",
+        "url": "https://open.spotify.com/album/6IET2yxfqEA4IS58FSDcwU"
+      },
+      "artists": [
+        {
+          "name": "Sotto",
+          "url": "https://open.spotify.com/artist/3Y0CoJXITnyxfL61DH70se"
+        },
+        {
+          "name": "AyDucz",
+          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
+        },
+        {
+          "name": "Prod.Sampaio",
+          "url": "https://open.spotify.com/artist/69iiINLEuQBMf7gA9xkFQQ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133222,
+      "name": "Suv",
+      "url": "https://open.spotify.com/track/34lGMOtARjlx9TPqWzkdA5"
+    },
+    {
+      "album": {
         "name": "Su\u00edte 7",
         "url": "https://open.spotify.com/album/073XR5g7kAAgShW1SUrpyT"
       },
@@ -6614,7 +6762,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 145035,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/6WOM6GzF0acnbnukDiiuHR"
@@ -7002,7 +7150,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 150000,
       "name": "Uva",
       "url": "https://open.spotify.com/track/4r4vZuM0uoQTAK9C5hrDcI"
@@ -7310,10 +7458,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 151384,
       "name": "Voc\u00ea Sabe Bem",
       "url": "https://open.spotify.com/track/3tKgIx3VVMmWIYh1PxNHNT"
+    },
+    {
+      "album": {
+        "name": "Vodka e Decep\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/6rhQHAxpCnbe2BPgdR3uHF"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Vodka e Decep\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0PjQdx4p5QwR39ebFWgikS"
     },
     {
       "album": {

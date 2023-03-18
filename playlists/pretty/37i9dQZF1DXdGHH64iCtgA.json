@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 59775,
+  "num_followers": 59843,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGNkODYwODkxYTc3Y2ExYjM4NGI4YzI3YzU3NjM2MWU4",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGNiODkxN2JhNGNhODA3NzU0ZGZmMjU5NmRmZTY3MTVj",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "MADELINE",
-        "url": "https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 204791,
-      "name": "MADELINE",
-      "url": "https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 349693,
       "name": "oh baby",
       "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "MADELINE",
+        "url": "https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 204791,
+      "name": "MADELINE",
+      "url": "https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -695,26 +695,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa"
+        "name": "Set Me Free (Extended Mix)",
+        "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+          "name": "Cosmicat",
+          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
         }
       ],
-      "duration_ms": 185625,
-      "name": "Strut",
-      "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
+      "duration_ms": 210000,
+      "name": "Set Me Free - Extended Mix",
+      "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -735,18 +727,26 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Set Me Free (Extended Mix)",
-        "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa"
       },
       "artists": [
         {
-          "name": "Cosmicat",
-          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Set Me Free - Extended Mix",
-      "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
+      "duration_ms": 185625,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Sharevari",
-        "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
-      },
-      "artists": [
-        {
-          "name": "Aidan Noell",
-          "url": "https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm"
-        },
-        {
-          "name": "Nancy Whang",
-          "url": "https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B"
-        }
-      ],
-      "duration_ms": 351306,
-      "name": "Sharevari",
-      "url": "https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "acts of rebellion",
         "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 228480,
       "name": "Pick Up - Even Shorter Version",
       "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Sharevari",
+        "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
+      },
+      "artists": [
+        {
+          "name": "Aidan Noell",
+          "url": "https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm"
+        },
+        {
+          "name": "Nancy Whang",
+          "url": "https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B"
+        }
+      ],
+      "duration_ms": 351306,
+      "name": "Sharevari",
+      "url": "https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Romance Noire",
+        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
+      },
+      "artists": [
+        {
+          "name": "Double Mixte",
+          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
+        }
+      ],
+      "duration_ms": 312466,
+      "name": "Romance Noire",
+      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Play In The Dark",
         "url": "https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 295831,
       "name": "Play In The Dark",
       "url": "https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Romance Noire",
-        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
-      },
-      "artists": [
-        {
-          "name": "Double Mixte",
-          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
-        }
-      ],
-      "duration_ms": 312466,
-      "name": "Romance Noire",
-      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "U Wanna?",
+        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
+      },
+      "artists": [
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Sir JoQ",
+          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
+        }
+      ],
+      "duration_ms": 250009,
+      "name": "U Wanna?",
+      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
       },
@@ -1359,22 +1379,6 @@
       "duration_ms": 176372,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "F*ck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
-      },
-      "artists": [
-        {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "F*ck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1395,22 +1399,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "U Wanna?",
-        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
+        "name": "F*ck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
       },
       "artists": [
         {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        },
-        {
-          "name": "Sir JoQ",
-          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
         }
       ],
-      "duration_ms": 250009,
-      "name": "U Wanna?",
-      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
+      "duration_ms": 174677,
+      "name": "F*ck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 240191,
       "name": "Back Seat - Tseba Remix",
       "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 246182,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Young Lies",
-        "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
-      },
-      "artists": [
-        {
-          "name": "Pot\u00e9",
-          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
-        },
-        {
-          "name": "Damon Albarn",
-          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
-        }
-      ],
-      "duration_ms": 230839,
-      "name": "Young Lies",
-      "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1607,6 +1587,26 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Young Lies",
+        "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
+      },
+      "artists": [
+        {
+          "name": "Pot\u00e9",
+          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "duration_ms": 230839,
+      "name": "Young Lies",
+      "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Like A Good Old Friend",
         "url": "https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8"
       },
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Poiemusia La Nau Dels Argonautes",
-        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
+        "name": "Sol De Mi Vida",
+        "url": "https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve"
       },
       "artists": [
         {
-          "name": "Pep Llopis",
-          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
         }
       ],
-      "duration_ms": 358582,
-      "name": "Jardins Aquatics",
-      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
+      "duration_ms": 187593,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Sol De Mi Vida",
-        "url": "https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve"
+        "name": "Poiemusia La Nau Dels Argonautes",
+        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
       },
       "artists": [
         {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+          "name": "Pep Llopis",
+          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
         }
       ],
-      "duration_ms": 187593,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD"
+      "duration_ms": 358582,
+      "name": "Jardins Aquatics",
+      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
     },
     {
       "added_at": "2023-02-10 05:00:00",

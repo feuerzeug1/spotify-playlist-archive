@@ -2,9 +2,9 @@
 
 ### [La + Popular](https://open.spotify.com/playlist/37i9dQZF1DX137AZKLkKC6)
 
-> Las grandes del Despecho y el Género Popular\. Foto: Paola Jara
+> Las grandes del Despecho y el Género Popular\. Foto: Jhonny Rivera y Luisito Muñoz
 
-120 songs - 6 hr 11 min
+121 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Corazón Maleante](https://open.spotify.com/track/5RY2D7x6vmREBPQa3uq0sd) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Corazón Maleante](https://open.spotify.com/album/6f0gQlCUlMQqPOdlWfOwqS) | 2:27 | 2023-03-03 |  |
 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 | 2022-08-12 |  |
 | [De Carne Y Hueso](https://open.spotify.com/track/3a4hDTHCAgQaCNUkkBLNq7) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [De Carne Y Hueso](https://open.spotify.com/album/1ELqyXbIsxDmQw8lLNssLo) | 3:07 | 2022-12-02 | 2022-12-17 |
-| [De Rodillas \- Versión Popular](https://open.spotify.com/track/2ZDslBpDojVklqu9Vvc2O1) | [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs), [Mariana Gómez](https://open.spotify.com/artist/3KM7Awm5GI3R4cKb0U5thK) | [De Rodillas \(Versión Popular\)](https://open.spotify.com/album/4u0j4w4d3Yiv3I5Hhx9zz4) | 3:23 | 2023-03-03 |  |
+| [De Rodillas \- Versión Popular](https://open.spotify.com/track/2ZDslBpDojVklqu9Vvc2O1) | [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs), [Mariana Gómez](https://open.spotify.com/artist/3KM7Awm5GI3R4cKb0U5thK) | [De Rodillas \(Versión Popular\)](https://open.spotify.com/album/4u0j4w4d3Yiv3I5Hhx9zz4) | 3:23 | 2023-03-03 | 2023-03-18 |
 | [Debí Suponerlo \- Versión Mariachi](https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Debí Suponerlo \(Versión Mariachi\)](https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM) | 2:40 | 2023-01-20 |  |
 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 | 2023-02-17 |  |
 | [Despechada](https://open.spotify.com/track/1CaAXPzgXMzwzDJTS6Jnq4) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [Despechada](https://open.spotify.com/album/6ivMPHjdirTJhy9ENUrRcO) | 2:27 | 2022-08-12 |  |
@@ -86,6 +86,7 @@
 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 | 2022-08-12 |  |
 | [Ni Que Fueras la Mas Buena](https://open.spotify.com/track/3rbeV5mt1vaQP0p7Ts1E17) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 2:35 | 2022-08-12 | 2023-03-04 |
 | [Ni Tengo Ni Necesito](https://open.spotify.com/track/2TV5peMu6MRFONxHHE9ZrV) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Ni Tengo Ni Necesito](https://open.spotify.com/album/3y0wLmxhOrDjmSw0LUUVEi) | 3:21 | 2022-08-12 |  |
+| [No Duele Tu Olvido](https://open.spotify.com/track/4k1Fa69L8ink1epcYhljZj) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [No Duele Tu Olvido](https://open.spotify.com/album/0JwGg9qvr6LAsIlnm7FVmv) | 2:50 | 2023-03-17 |  |
 | [No Me Hablen de Él](https://open.spotify.com/track/0evFiUFMG6KNXTnXlthNRT) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [No Me Hablen de Él](https://open.spotify.com/album/70RI4gxiCzSrYmWsnChiIz) | 3:11 | 2023-02-24 |  |
 | [No Quería Engañarte](https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [No Quería Engañarte](https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN) | 4:01 | 2022-12-02 | 2023-01-28 |
 | [No Sufriré por Nadie \- Remix](https://open.spotify.com/track/4wxik78a6zidW8pshbCviV) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Maycol Rosero](https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu), [Beeren](https://open.spotify.com/artist/0RLMeX0AW8JhHRRdFJWOAB) | [No Sufriré por Nadie \(Remix\)](https://open.spotify.com/album/0NQHVRev3BGZXBjWayS9hI) | 3:31 | 2023-03-03 |  |

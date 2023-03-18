@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "New adventures in rock start here. Cover: grandson",
+  "description": "New adventures in rock start here. Cover: Theory of a Deadman",
   "name": "Ready to Rock",
   "tracks": [
+    {
+      "album": {
+        "name": "2 Cups",
+        "url": "https://open.spotify.com/album/3ttazupNIeGDk28uLymPTC"
+      },
+      "artists": [
+        {
+          "name": "Miko",
+          "url": "https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183549,
+      "name": "2 Cups",
+      "url": "https://open.spotify.com/track/6wm8PSkehuHYylR64rw1Gy"
+    },
     {
       "album": {
         "name": "A Beautiful Darkness",
@@ -96,7 +114,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 142894,
       "name": "All I Have",
       "url": "https://open.spotify.com/track/1RWM1cbjpZkePBkFYgfI9P"
@@ -114,7 +132,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 207916,
       "name": "Ambulance",
       "url": "https://open.spotify.com/track/5YWjjonpichJ9BPDjzBwBt"
@@ -193,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6nczsf922TS5VrzYQljA9i"
+      },
+      "artists": [
+        {
+          "name": "Lofsky",
+          "url": "https://open.spotify.com/artist/2oQVpMQQJZIvR4UtlYaak4"
+        },
+        {
+          "name": "Lowdsound",
+          "url": "https://open.spotify.com/artist/0cBxCAP8iwWGDrAAuJeuU9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/25Inf9DdQu3QYZITwtdTzN"
+    },
+    {
+      "album": {
         "name": "Battles",
         "url": "https://open.spotify.com/album/0lXPgEhgsyW61CXTswVKmD"
       },
@@ -222,7 +262,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 195784,
       "name": "Bird",
       "url": "https://open.spotify.com/track/3VJ5OHIiVjvxj7vN3SlbFd"
@@ -294,7 +334,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 207072,
       "name": "Bounds",
       "url": "https://open.spotify.com/track/3u2gVMfuOJWi4MF8mh4nof"
@@ -557,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Crack In The Glass",
+        "url": "https://open.spotify.com/album/6SD6bl4EOazDhZfGgLO5Mx"
+      },
+      "artists": [
+        {
+          "name": "Stuck On Planet Earth",
+          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177018,
+      "name": "Crack In The Glass",
+      "url": "https://open.spotify.com/track/1QGUDtsMHFg97XK533cotm"
+    },
+    {
+      "album": {
         "name": "creusercreuser",
         "url": "https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP"
       },
@@ -774,7 +832,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 168004,
       "name": "Eventually",
       "url": "https://open.spotify.com/track/2fFpU6lEu15a0dL97rJ6a8"
@@ -882,7 +940,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 122647,
       "name": "First Rate Town",
       "url": "https://open.spotify.com/track/1P59E9uaeejHQ5xu0EG4p6"
@@ -1026,7 +1084,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 170037,
       "name": "Gool Guy",
       "url": "https://open.spotify.com/track/4Sm7WNPdK8bkOIudxbD3Ny"
@@ -1069,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Gun Shy",
+        "url": "https://open.spotify.com/album/5LlDx6jpT2hit9RynClr6Z"
+      },
+      "artists": [
+        {
+          "name": "Noble Son",
+          "url": "https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220056,
+      "name": "Gun Shy",
+      "url": "https://open.spotify.com/track/2g44BeDO4tQpJqyT5Wpf5F"
+    },
+    {
+      "album": {
         "name": "Hate.",
         "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
       },
@@ -1084,6 +1160,24 @@
       "duration_ms": 134769,
       "name": "Hate.",
       "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "album": {
+        "name": "Your ex and I",
+        "url": "https://open.spotify.com/album/1SK5c2RidvtRh8Q0ILFqvr"
+      },
+      "artists": [
+        {
+          "name": "Your ex and I",
+          "url": "https://open.spotify.com/artist/46bnuozfnzrXzASP9d8XlZ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247210,
+      "name": "Heartbreaker by Design",
+      "url": "https://open.spotify.com/track/5ueLZYReaiLhYrqLrRhpkh"
     },
     {
       "album": {
@@ -1188,7 +1282,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 172615,
       "name": "Judy Gnarland",
       "url": "https://open.spotify.com/track/1Wy3EOJ8GrXC1XuYfdNJBk"
@@ -1440,7 +1534,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 195413,
       "name": "Makeshift Paradise",
       "url": "https://open.spotify.com/track/1S8oQurfhmDFyzmWODOF1d"
@@ -1519,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Dinosaur",
+        "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219619,
+      "name": "Medusa (Stone)",
+      "url": "https://open.spotify.com/track/58nauqtQ3JGC779n2FvfFC"
+    },
+    {
+      "album": {
         "name": "Meet Me At The Riot",
         "url": "https://open.spotify.com/album/3NiXPd6taHn0fshOw9dIgJ"
       },
@@ -1548,7 +1660,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 129279,
       "name": "Mercury In Retrograde",
       "url": "https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx"
@@ -1566,10 +1678,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 128373,
       "name": "Microwave Food",
       "url": "https://open.spotify.com/track/2ZdLL9ok9kpiE4t0R9sOqv"
+    },
+    {
+      "album": {
+        "name": "Mimi's Delivery Service",
+        "url": "https://open.spotify.com/album/26i93seS4geUVSbjhloq5A"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178924,
+      "name": "Mimi's Delivery Service",
+      "url": "https://open.spotify.com/track/3yXJjux4ngdBID25f0QIui"
     },
     {
       "album": {
@@ -1800,7 +1930,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 249800,
       "name": "Our Love Will Still Be There",
       "url": "https://open.spotify.com/track/00XtGg6iaLXUAA0mbb95OT"
@@ -1822,6 +1952,24 @@
       "duration_ms": 258720,
       "name": "Outta Love",
       "url": "https://open.spotify.com/track/2mgxfEz7wo9TiwBjCr4GMH"
+    },
+    {
+      "album": {
+        "name": "Pain // Happiness",
+        "url": "https://open.spotify.com/album/20yzGvOcgJQWzJJx7nIXtL"
+      },
+      "artists": [
+        {
+          "name": "Rain Paris",
+          "url": "https://open.spotify.com/artist/10TCOjSPs9ywBN1Q083BnB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Pain // Happiness",
+      "url": "https://open.spotify.com/track/3eCpH7rYjareU4NBxlG91G"
     },
     {
       "album": {
@@ -1959,6 +2107,42 @@
     },
     {
       "album": {
+        "name": "RADIATION",
+        "url": "https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144238,
+      "name": "RADIATION",
+      "url": "https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/0FWAmZX4HCFZhpSntrDxs3"
+      },
+      "artists": [
+        {
+          "name": "Snowbeats",
+          "url": "https://open.spotify.com/artist/2cUIpdvD433T0mByllmkeo"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127152,
+      "name": "RESET",
+      "url": "https://open.spotify.com/track/65Z1mmv6DHEl91ofVJv8xd"
+    },
+    {
+      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ"
       },
@@ -1974,6 +2158,42 @@
       "duration_ms": 177229,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW"
+    },
+    {
+      "album": {
+        "name": "sad crown",
+        "url": "https://open.spotify.com/album/0kdPaiEq34GzZRMBkD2rAE"
+      },
+      "artists": [
+        {
+          "name": "Smrtdeath",
+          "url": "https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "sad crown",
+      "url": "https://open.spotify.com/track/3EMnnLRMzXJLbb4Mkq9YO6"
+    },
+    {
+      "album": {
+        "name": "Head Shrunk / Sad Dumb Game",
+        "url": "https://open.spotify.com/album/7ikoCgdYh59PwvS3T1BliZ"
+      },
+      "artists": [
+        {
+          "name": "Single Mothers",
+          "url": "https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Sad Dumb Game",
+      "url": "https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD"
     },
     {
       "album": {
@@ -2179,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/2EaIPv60KIbwA919fcORxN"
+      },
+      "artists": [
+        {
+          "name": "Gord Sinclair",
+          "url": "https://open.spotify.com/artist/4AD76XYQxGZm4Rn7t6I2Ec"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236548,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/07lhi3bYb7JThTqRpoNyHM"
+    },
+    {
+      "album": {
         "name": "Spaceman",
         "url": "https://open.spotify.com/album/5a9nCwW1q91lDJUgmkXbz1"
       },
@@ -2287,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "Tear Me To Pieces",
+        "url": "https://open.spotify.com/album/6VkLYHpgk4saImc0fFOZYi"
+      },
+      "artists": [
+        {
+          "name": "Locket",
+          "url": "https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187447,
+      "name": "Tear Me To Pieces",
+      "url": "https://open.spotify.com/track/5zJiFmoADZPlvXPO1PuI0d"
+    },
+    {
+      "album": {
         "name": "Tender Villain",
         "url": "https://open.spotify.com/album/6liVpV2XCjdexlaYMaDmEV"
       },
@@ -2316,10 +2572,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 176100,
       "name": "The End of a Gun",
       "url": "https://open.spotify.com/track/4RKEDtUTGhs7nQ03Rfivre"
+    },
+    {
+      "album": {
+        "name": "The End of the World",
+        "url": "https://open.spotify.com/album/5zuFlklu8hJ603Lc1wEL4L"
+      },
+      "artists": [
+        {
+          "name": "Cameron Philip",
+          "url": "https://open.spotify.com/artist/4gRQ0ZBG8Hl1gQ9MPIjohH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "The End of the World",
+      "url": "https://open.spotify.com/track/3CYC7JycuZc1Y19wCH7P5f"
     },
     {
       "album": {
@@ -2392,7 +2666,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 278493,
       "name": "The Raven And The Red-Tailed Hawk",
       "url": "https://open.spotify.com/track/1Llb0fVHFFlCRHUFz7rHJd"

@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "a nuptial song",
+        "url": "https://open.spotify.com/album/7G1c3PnyKfMZ4bugDQdKQA"
+      },
+      "artists": [
+        {
+          "name": "yoon sister",
+          "url": "https://open.spotify.com/artist/0TFbDsUe05qEK5yotMtZfr"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222244,
+      "name": "a nuptial song",
+      "url": "https://open.spotify.com/track/2gihuLkXL9QxlA8SlQbiDp"
+    },
+    {
+      "album": {
         "name": "A Perfect Ending",
         "url": "https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm"
       },
@@ -3016,6 +3034,24 @@
       "duration_ms": 250400,
       "name": "Afternoon",
       "url": "https://open.spotify.com/track/6lKTh03nceI89Jhy8aFLBL"
+    },
+    {
+      "album": {
+        "name": "Seasonal Depression",
+        "url": "https://open.spotify.com/album/0wRmVOUtR5oGZ17epzm5P5"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192665,
+      "name": "Afternoon",
+      "url": "https://open.spotify.com/track/5rVBfBsDjVINo3OB9WMoAk"
     },
     {
       "album": {
@@ -7036,6 +7072,24 @@
       "duration_ms": 136831,
       "name": "Because Of",
       "url": "https://open.spotify.com/track/3gVC7YiepcXB3QmjSnmLpk"
+    },
+    {
+      "album": {
+        "name": "Because of Drinking",
+        "url": "https://open.spotify.com/album/5qL4VOjX5PwYBa1qHG1vJB"
+      },
+      "artists": [
+        {
+          "name": "CODA BRIDGE",
+          "url": "https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194073,
+      "name": "Because of Drinking",
+      "url": "https://open.spotify.com/track/2ike0PkIoeAHpWZnWDuAsX"
     },
     {
       "album": {
@@ -14182,6 +14236,24 @@
       "duration_ms": 220087,
       "name": "COME TO MY STU (Feat. Leellamarz)",
       "url": "https://open.spotify.com/track/7FXAik3QQacggiaSJ2QTbA"
+    },
+    {
+      "album": {
+        "name": "A Shoulder to Cry On OST (Soundtrack)",
+        "url": "https://open.spotify.com/album/5NF7s2sXzkjDYw0STAEarV"
+      },
+      "artists": [
+        {
+          "name": "OMEGA X",
+          "url": "https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/7C8NFsNdoPCVvWHYz0NY4d"
     },
     {
       "album": {
@@ -28589,6 +28661,28 @@
     },
     {
       "album": {
+        "name": "gravity",
+        "url": "https://open.spotify.com/album/4WIXJnUTm8DXgtqhArNiwL"
+      },
+      "artists": [
+        {
+          "name": "AVOKID",
+          "url": "https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS"
+        },
+        {
+          "name": "123",
+          "url": "https://open.spotify.com/artist/67tBDqUFKtbehv1dRLyQJy"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167120,
+      "name": "gravity (feat. 123)",
+      "url": "https://open.spotify.com/track/0Zas84MMsqjfc9WVxymWli"
+    },
+    {
+      "album": {
         "name": "GREAT SEOUL INVASION Section 3 - RUAH",
         "url": "https://open.spotify.com/album/21vD9RjFExuWaJ6yuNuDLB"
       },
@@ -28900,6 +28994,40 @@
       "duration_ms": 231600,
       "name": "Grown Up Child",
       "url": "https://open.spotify.com/track/4d389XlcD0APk5qNqnEL2Y"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XAl1NxzmOcAgtXNwYjqWn"
+      },
+      "artists": [
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "BlackNut",
+          "url": "https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ"
+        },
+        {
+          "name": "Jimmy Paige",
+          "url": "https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "SMUGGLERS",
+          "url": "https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "Grrr - Spotify Singles",
+      "url": "https://open.spotify.com/track/2UrBX2cG7ZSnN2SbgspmtK"
     },
     {
       "album": {
@@ -33251,6 +33379,28 @@
     },
     {
       "album": {
+        "name": "UNSTEADY",
+        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "I BE LIKE (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+    },
+    {
+      "album": {
         "name": "NEW FESTA EPISODE.8",
         "url": "https://open.spotify.com/album/4zg1Ac7oAmxEB1Xxfe8SSX"
       },
@@ -34324,6 +34474,28 @@
       "duration_ms": 178373,
       "name": "I like you",
       "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
+    },
+    {
+      "album": {
+        "name": "I Like You\u2665",
+        "url": "https://open.spotify.com/album/3aIIG9ZFUlp3OBZrCPHpb2"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        },
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214109,
+      "name": "I Like You (Feat. amin)",
+      "url": "https://open.spotify.com/track/5r4wRmS9UFyO62zqLuW7Bi"
     },
     {
       "album": {
@@ -39091,6 +39263,32 @@
     },
     {
       "album": {
+        "name": "Remember Archive",
+        "url": "https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "mino",
+          "url": "https://open.spotify.com/artist/79FL2Qclq9IrxOuEK7SY5X"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "Jumper (Feat. Gaeko, MINO)",
+      "url": "https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl"
+    },
+    {
+      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/53tGcMDI5JPOz9xw9jTmB5"
       },
@@ -42721,6 +42919,24 @@
     },
     {
       "album": {
+        "name": "Long Day",
+        "url": "https://open.spotify.com/album/0BIST1V2G2NjPT6cc01rTS"
+      },
+      "artists": [
+        {
+          "name": "Hong Dae Kwang",
+          "url": "https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218870,
+      "name": "Long Day",
+      "url": "https://open.spotify.com/track/2u9dTwkJBYoIWAeW2IE5Cv"
+    },
+    {
+      "album": {
         "name": "History Of Kingdom: Pt.\u2164. Louis",
         "url": "https://open.spotify.com/album/5WCO0pg5sLOFGPA4HiukJd"
       },
@@ -42932,6 +43148,28 @@
       "duration_ms": 179733,
       "name": "Loop (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/1QO3rNfh9Zu5r14aDzYjO7"
+    },
+    {
+      "album": {
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        },
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "Los Angeles - Moksi Remix",
+      "url": "https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT"
     },
     {
       "album": {
@@ -44496,6 +44734,24 @@
       "duration_ms": 188280,
       "name": "Love War (Feat. BE'O)",
       "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
+    },
+    {
+      "album": {
+        "name": "Call It Love, Part 4 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218066,
+      "name": "Love Without Pain",
+      "url": "https://open.spotify.com/track/114JstNdrTd5rsVce9lrpQ"
     },
     {
       "album": {
@@ -48301,6 +48557,24 @@
     },
     {
       "album": {
+        "name": "PlaySUPERKIND : Player Gauge 200",
+        "url": "https://open.spotify.com/album/0livVUEnMotLIBvVGQJaHF"
+      },
+      "artists": [
+        {
+          "name": "SUPERKIND",
+          "url": "https://open.spotify.com/artist/616DDmIyg18oaB0OpdgUCM"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204640,
+      "name": "MOODY",
+      "url": "https://open.spotify.com/track/03viAjcdfgfr6O2n9ZDRUr"
+    },
+    {
+      "album": {
         "name": "Bye Summer!",
         "url": "https://open.spotify.com/album/36RrBlXZvntyXzOhTmsEH5"
       },
@@ -51368,6 +51642,24 @@
       "duration_ms": 249272,
       "name": "Night Swimming",
       "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
+    },
+    {
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s"
+      },
+      "artists": [
+        {
+          "name": "Zitten",
+          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220116,
+      "name": "Night train",
+      "url": "https://open.spotify.com/track/5J1AHgFZRVy4t9g7eDtmH7"
     },
     {
       "album": {
@@ -54819,6 +55111,28 @@
     },
     {
       "album": {
+        "name": "Our Film",
+        "url": "https://open.spotify.com/album/2s5m8R3KCGxR4xFwNqKlFi"
+      },
+      "artists": [
+        {
+          "name": "Lokid",
+          "url": "https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g"
+        },
+        {
+          "name": "mu.b",
+          "url": "https://open.spotify.com/artist/1xavk9zCmvyvsPDKaumd9c"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "Our Film",
+      "url": "https://open.spotify.com/track/5pPRtim5YAspFh9MF0a2pv"
+    },
+    {
+      "album": {
         "name": "Our fIrst",
         "url": "https://open.spotify.com/album/3IV8VEKGN9nHn252mrwUBy"
       },
@@ -55548,6 +55862,28 @@
       "duration_ms": 196826,
       "name": "PANDORA",
       "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
+    },
+    {
+      "album": {
+        "name": "Alone..Not Alone",
+        "url": "https://open.spotify.com/album/6PVyS4u2duWavXaeut3OFL"
+      },
+      "artists": [
+        {
+          "name": "Lee Gheun Hyung",
+          "url": "https://open.spotify.com/artist/0rJ9h66oC8PvtwRVmWraJW"
+        },
+        {
+          "name": "KIM JONGHYEON",
+          "url": "https://open.spotify.com/artist/0xJDnPkh9zb3YWOpMqkXWM"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269346,
+      "name": "Panic Disorder (Feat. Kim Jonghyeon)",
+      "url": "https://open.spotify.com/track/4CyzyDfS9Ve9hGfC0CMJPY"
     },
     {
       "album": {
@@ -61091,6 +61427,24 @@
     },
     {
       "album": {
+        "name": "DPR ARCHIVES, Pt. 2",
+        "url": "https://open.spotify.com/album/5anA5ow8X53aOBVTmCvZ68"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97053,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/5Wz5RjuQgRpV5lfkuURbBt"
+    },
+    {
+      "album": {
         "name": "Rust (feat. Rico)",
         "url": "https://open.spotify.com/album/6IifE3wcI8uxFaOrU21Hvr"
       },
@@ -62764,6 +63118,46 @@
       "duration_ms": 181680,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
+    },
+    {
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lindgren",
+          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211586,
+      "name": "SET ME FREE (Lindgren Remix) (ENG)",
+      "url": "https://open.spotify.com/track/7K5LvTMS85SKWK6bYtHhAP"
+    },
+    {
+      "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
       "album": {
@@ -66095,24 +66489,6 @@
     },
     {
       "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/0RXPlqY8YJRS4izoN5TXO4"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyung Joong",
-          "url": "https://open.spotify.com/artist/1jradFWIr4pb2BP15kl3a5"
-        }
-      ],
-      "date_added": "2023-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 285288,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/69aswsa5TTE82362qYuYIO"
-    },
-    {
-      "album": {
         "name": "Long Money Short Life LP",
         "url": "https://open.spotify.com/album/1pqP6XE6S40VkuR0sWqQui"
       },
@@ -66128,6 +66504,24 @@
       "duration_ms": 164250,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5D3jVxi4Tg9yqSFLSBdE9O"
+    },
+    {
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/0RXPlqY8YJRS4izoN5TXO4"
+      },
+      "artists": [
+        {
+          "name": "\uae40\ud615\uc911",
+          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285288,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/69aswsa5TTE82362qYuYIO"
     },
     {
       "album": {
@@ -68147,6 +68541,24 @@
     },
     {
       "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181046,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp"
+    },
+    {
+      "album": {
         "name": "Youth Hostel",
         "url": "https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6"
       },
@@ -68968,6 +69380,28 @@
       "duration_ms": 252000,
       "name": "Sunshine of June",
       "url": "https://open.spotify.com/track/6BVY60lo3QaL6TSgBwKzgM"
+    },
+    {
+      "album": {
+        "name": "Super Star",
+        "url": "https://open.spotify.com/album/2F5VQ6qg0vWViic8rSFJ6p"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2"
+        },
+        {
+          "name": "Original Broadway Cast of KPOP",
+          "url": "https://open.spotify.com/artist/6I2l37l0O5gjtj4dphiPST"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249011,
+      "name": "Super Star",
+      "url": "https://open.spotify.com/track/0kyGwQwAXrKo5wxoMWva1j"
     },
     {
       "album": {
@@ -74207,6 +74641,24 @@
     },
     {
       "album": {
+        "name": "To You",
+        "url": "https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f"
+      },
+      "artists": [
+        {
+          "name": "WSG WANNABE GAYA-G",
+          "url": "https://open.spotify.com/artist/0cTARog8xrUQqm6Iur211p"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207373,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ"
+    },
+    {
+      "album": {
         "name": "Time tgt you",
         "url": "https://open.spotify.com/album/4xbx8LxlhJDNKk93DzmT5e"
       },
@@ -76301,7 +76753,7 @@
     },
     {
       "album": {
-        "name": "Hypeboy",
+        "name": "Hype boy",
         "url": "https://open.spotify.com/album/2660sLnodGaPqh5gTAbTYt"
       },
       "artists": [
@@ -79333,6 +79785,24 @@
     },
     {
       "album": {
+        "name": "Delivery Man, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1k2WDyfk5bfjnVhKi2enLC"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282943,
+      "name": "What do you think",
+      "url": "https://open.spotify.com/track/67eDtcGNwhdNbjAJCuTd23"
+    },
+    {
+      "album": {
         "name": "A Ticket",
         "url": "https://open.spotify.com/album/4uoH3lVesbdIvnhE2libDj"
       },
@@ -79690,6 +80160,24 @@
       "duration_ms": 189680,
       "name": "When I look at you",
       "url": "https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U"
+    },
+    {
+      "album": {
+        "name": "The Heavenly Idol (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/6h1tbJsKC3A5HSP1jDLZOm"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Hyun",
+          "url": "https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "When I Met You",
+      "url": "https://open.spotify.com/track/6ROLp0Ha6q2qGThlvHtAj8"
     },
     {
       "album": {
@@ -83905,6 +84393,24 @@
     },
     {
       "album": {
+        "name": "You're My First Love",
+        "url": "https://open.spotify.com/album/4ZHA2FFtyTuov2u3j9nivZ"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241453,
+      "name": "You're My First Love",
+      "url": "https://open.spotify.com/track/1yoEYdoA0EuNiz2eL4W06P"
+    },
+    {
+      "album": {
         "name": "May I Help You? (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/4hh93LVoOaGfXkj6sS2aaS"
       },
@@ -85613,7 +86119,7 @@
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 190909,
+      "duration_ms": 189500,
       "name": "\ub0b4\uc77c\uc740",
       "url": "https://open.spotify.com/track/4AqfqsanG97eJKdeR3Qx3l"
     },
@@ -85944,6 +86450,24 @@
       "duration_ms": 255573,
       "name": "\ub2f9\ub2f9\ud558\uac8c",
       "url": "https://open.spotify.com/track/4onP3z2jbIicpPXZtX2Nai"
+    },
+    {
+      "album": {
+        "name": "\ub2f9\uc2e0\uc758 \uaf43 your flower",
+        "url": "https://open.spotify.com/album/2KbebHo7NVB07mMkDdxcU0"
+      },
+      "artists": [
+        {
+          "name": "Ju Yoon Ha",
+          "url": "https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320608,
+      "name": "\ub2f9\uc2e0\uc758 \uaf43 your flower",
+      "url": "https://open.spotify.com/track/4kBGiL48mq4KVnJTnqFHRz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle - avec Le Couleur, Gab Bouchard, blesse et bien plus.",
+  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Le Couleur",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Pinceau au tombeau",
+        "url": "https://open.spotify.com/album/4GePFLLCkBw3IhK1n851B7"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251680,
+      "name": "Pinceau au tombeau",
+      "url": "https://open.spotify.com/track/1JHxLQcPTc833dUUqBZMbf"
+    },
+    {
+      "album": {
         "name": "Piscine hors terre",
         "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
       },
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 144906,
       "name": "Ta yeule, toute va ben",
       "url": "https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u"

@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "A Man with No Direction",
+        "url": "https://open.spotify.com/album/5Dz6If4NYIIwEX7nlSVDwK"
+      },
+      "artists": [
+        {
+          "name": "Cross Country Driver",
+          "url": "https://open.spotify.com/artist/7yVGyHGB9ZrxNMBZK0mirb"
+        },
+        {
+          "name": "Doug Pinnick",
+          "url": "https://open.spotify.com/artist/51S9dRF8a9hrdg4N1PbEWT"
+        },
+        {
+          "name": "Jesse O'Brien",
+          "url": "https://open.spotify.com/artist/1bWBqCpBTf2inuBorWzlZK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179234,
+      "name": "A Man with No Direction",
+      "url": "https://open.spotify.com/track/05GUpbQn0dizTVwIQsNw75"
+    },
+    {
+      "album": {
         "name": "311",
         "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
       },
@@ -119,12 +145,12 @@
       "artists": [
         {
           "name": "White Trash",
-          "url": "https://open.spotify.com/artist/5PZafDcTuB50FemXUznkWW"
+          "url": "https://open.spotify.com/artist/1mawlHUuhNs1oiZcreDmsH"
         }
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 247693,
       "name": "Apple Pie",
       "url": "https://open.spotify.com/track/2VpK2wNk52xFfwstxklVEd"
@@ -214,7 +240,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 267773,
       "name": "Big House Burning",
       "url": "https://open.spotify.com/track/1oDTpyhLChK7JpnRbbYNqC"
@@ -268,7 +294,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 288093,
       "name": "Blind",
       "url": "https://open.spotify.com/track/3FhCgvvszmnyvjPFe5VIDd"
@@ -394,7 +420,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 235373,
       "name": "Clap For The Killers",
       "url": "https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz"
@@ -430,7 +456,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 690586,
       "name": "Conspiranoia",
       "url": "https://open.spotify.com/track/5WP538GVRBWRakIrVBWCSS"
@@ -484,7 +510,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 241680,
       "name": "Crack Killed Applejack - Gravy Booty Mix",
       "url": "https://open.spotify.com/track/2SrJ0Quef9Lkv0aIKPWEBY"
@@ -527,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/7BoDAUUVu2xqWTyYVkDG9m"
+      },
+      "artists": [
+        {
+          "name": "Five Points Gang",
+          "url": "https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210733,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/3paZJ9ZfDEQYp5d3SvBfdz"
+    },
+    {
+      "album": {
         "name": "Drifting Away",
         "url": "https://open.spotify.com/album/0V01bdeXh5WOTLBNSOeCj9"
       },
@@ -556,7 +600,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 341986,
       "name": "Eddie",
       "url": "https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8"
@@ -592,7 +636,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247693,
       "name": "Fire",
       "url": "https://open.spotify.com/track/19pM2X8hdrLb8YW0WegADR"
@@ -628,7 +672,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 217746,
       "name": "Gettin' Tighter",
       "url": "https://open.spotify.com/track/3R21LktdU3UAKYWGiD5Jr0"
@@ -682,7 +726,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 264306,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6"
@@ -700,7 +744,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 297466,
       "name": "Got It Goin' On",
       "url": "https://open.spotify.com/track/0bsHXFE0GGn2HonbA8G0yf"
@@ -718,7 +762,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268266,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/3P4TrKsWjKeFakkZXu1Yt2"
@@ -736,7 +780,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 142062,
       "name": "Honey, Forgive Me",
       "url": "https://open.spotify.com/track/338qTQyYiQXFGNqVKATTmo"
@@ -790,7 +834,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 151104,
       "name": "It's A Game",
       "url": "https://open.spotify.com/track/792mzdLwJyOmriItphb29S"
@@ -870,7 +914,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192254,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/26QzRihsoqGy1NlKQF5fwu"
@@ -906,7 +950,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 216506,
       "name": "Lock It In The Pocket",
       "url": "https://open.spotify.com/track/2uSTcrVUckp3k6FuMaEfiq"
@@ -924,7 +968,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 221920,
       "name": "Love Captivity",
       "url": "https://open.spotify.com/track/3DDTxfWGpug3SXojx1FlYE"
@@ -1033,7 +1077,7 @@
         },
         {
           "name": "James Jones",
-          "url": "https://open.spotify.com/artist/3smWt8mx56gpWWxXTO3lr3"
+          "url": "https://open.spotify.com/artist/5h0bhczo1RaGNqzG8GZksl"
         },
         {
           "name": "Timothy Robinson",
@@ -1050,7 +1094,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 252710,
       "name": "Nasty Freak",
       "url": "https://open.spotify.com/track/7jQLyEWfWHcSzrVPezlCO8"
@@ -1101,7 +1145,7 @@
         },
         {
           "name": "James Jones",
-          "url": "https://open.spotify.com/artist/3smWt8mx56gpWWxXTO3lr3"
+          "url": "https://open.spotify.com/artist/5h0bhczo1RaGNqzG8GZksl"
         },
         {
           "name": "Henry Ott",
@@ -1110,7 +1154,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 287439,
       "name": "Phat Blunt",
       "url": "https://open.spotify.com/track/1PD0lIuQku2P5xxJ1XVUxY"
@@ -1146,7 +1190,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 204054,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/2eveNWx7SOWY5CW4kLAuqI"
@@ -1182,7 +1226,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 318421,
       "name": "Poster Child",
       "url": "https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE"
@@ -1200,7 +1244,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 223726,
       "name": "Preacher",
       "url": "https://open.spotify.com/track/7LX79SGY8tO1iJz2S0xUMJ"
@@ -1350,7 +1394,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 215546,
       "name": "Sexy Tonight",
       "url": "https://open.spotify.com/track/2nuAMryuRuixKZbk4Jmfes"
@@ -1386,7 +1430,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263173,
       "name": "Show Me Your Soul",
       "url": "https://open.spotify.com/track/7eCYyli4U6ZuOxHiT5NqxG"
@@ -1440,10 +1484,28 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 348240,
       "name": "So Many Millions",
       "url": "https://open.spotify.com/track/0iXIEH3MpE2jJby5fAdczW"
+    },
+    {
+      "album": {
+        "name": "Break on Free",
+        "url": "https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM"
+      },
+      "artists": [
+        {
+          "name": "St. Paul Peterson",
+          "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317786,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/6gsDzEHPRTzviRlh8x9oRP"
     },
     {
       "album": {
@@ -1488,7 +1550,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 237738,
       "name": "Spanish Castle Magic",
       "url": "https://open.spotify.com/track/4lV33seMIyqGM7iFPWCYWx"
@@ -1546,6 +1608,24 @@
       "duration_ms": 246475,
       "name": "Stranger Danger (In The Streets Of Life)",
       "url": "https://open.spotify.com/track/1s01iznKh85A0zJ3Yy3hsI"
+    },
+    {
+      "album": {
+        "name": "Third",
+        "url": "https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246475,
+      "name": "Stranger Danger (In The Streets Of Life)",
+      "url": "https://open.spotify.com/track/2aVfD1DpyU1mqAtqbChj5A"
     },
     {
       "album": {
@@ -1654,7 +1734,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 187172,
       "name": "The Devil",
       "url": "https://open.spotify.com/track/0Oo8Aa1ENUC78J2Vl7T7TP"
@@ -1672,7 +1752,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-11",
+      "date_removed": null,
       "duration_ms": 202888,
       "name": "The Drummer",
       "url": "https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG"
@@ -1690,7 +1770,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 197628,
       "name": "The Rougarou",
       "url": "https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih"
@@ -1744,7 +1824,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 260893,
       "name": "Thumb",
       "url": "https://open.spotify.com/track/7pt7AcxYHyVLOpthh9IxHZ"
@@ -1762,7 +1842,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 260808,
       "name": "Tippa My Tongue",
       "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
@@ -1882,7 +1962,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262373,
       "name": "Truth'll Set You Free",
       "url": "https://open.spotify.com/track/1U3jCQJNm86HQh04TWqdFD"
@@ -1918,7 +1998,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-08",
+      "date_removed": null,
       "duration_ms": 264933,
       "name": "Vinnie",
       "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
@@ -1976,7 +2056,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 238493,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/5RYLym87yzbP1RW23ywf5j"
@@ -2030,7 +2110,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 319466,
       "name": "Who Really Are the Monsters?",
       "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"
@@ -2066,7 +2146,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 236426,
       "name": "You Know That",
       "url": "https://open.spotify.com/track/0TKz5gQUDPeHSyEHBCnsMP"

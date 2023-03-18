@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 201711,
       "name": "4 X 4 Play",
       "url": "https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41"
@@ -550,10 +550,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 181333,
       "name": "Born To Run To You",
       "url": "https://open.spotify.com/track/0twsV7eMjVD8IpfIo5NiQn"
+    },
+    {
+      "album": {
+        "name": "Born To Run To You",
+        "url": "https://open.spotify.com/album/0VBl3jdg3LcoMfUGbWw9uF"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Born To Run To You",
+      "url": "https://open.spotify.com/track/5HIjLTk1Yvkw9CtTXGeWtP"
     },
     {
       "album": {
@@ -1760,6 +1778,24 @@
       "duration_ms": 270826,
       "name": "Highway Like Me (feat. Marcus King)",
       "url": "https://open.spotify.com/track/51PuIBYfGsXVFmnsv70Vr3"
+    },
+    {
+      "album": {
+        "name": "Lost in the Valley of Hate & Love Vol. I",
+        "url": "https://open.spotify.com/album/66FdUWpsGaziwlkZivqOUP"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247444,
+      "name": "Highway My Home",
+      "url": "https://open.spotify.com/track/3i0u7Nru0jXKgn3EGzlUDm"
     },
     {
       "album": {
@@ -3754,7 +3790,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 177320,
       "name": "Train",
       "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
@@ -4202,6 +4238,24 @@
       "duration_ms": 184760,
       "name": "Whole World Gone Crazy",
       "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
+    },
+    {
+      "album": {
+        "name": "Wolves Cry",
+        "url": "https://open.spotify.com/album/6C6MV8pVQJLMtXGIjSlRtC"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163871,
+      "name": "Wolves Cry",
+      "url": "https://open.spotify.com/track/39SzkM3x0JGY6b7HV0wi4E"
     },
     {
       "album": {

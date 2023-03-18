@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "close to moon",
+        "url": "https://open.spotify.com/album/08mBD6daiwvRjSPMiWRlZo"
+      },
+      "artists": [
+        {
+          "name": "Cryz Syndrome",
+          "url": "https://open.spotify.com/artist/7mksIM9ZzvRazOJsZqIzgQ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246884,
+      "name": "close to moon",
+      "url": "https://open.spotify.com/track/3rlHUMwbAzrkQlNS3qZaM5"
+    },
+    {
+      "album": {
         "name": "Colorful End Epilogue",
         "url": "https://open.spotify.com/album/0ajaRXvcSFvPyuRprwJECd"
       },
@@ -3744,10 +3762,6 @@
         {
           "name": "\u96f6(CV:\u5185\u5c71\u6602\u8f1d)",
           "url": "https://open.spotify.com/artist/3bT8HW83dr4YDKYN20RYjy"
-        },
-        {
-          "name": "SHINTA",
-          "url": "https://open.spotify.com/artist/5DN4o6B5nGSXpfyMCiXFdH"
         }
       ],
       "date_added": "2023-03-14",
@@ -5084,7 +5098,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 207135,
       "name": "Take Me Maybe",
       "url": "https://open.spotify.com/track/0Sq6O7MvmJKmZxJEerxPte"
@@ -8045,7 +8059,7 @@
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 282880,
+      "duration_ms": 282164,
       "name": "\u30eb\u30fc\u30c9\u30eb\u30fc\u30ba\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35"
     },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Salvador da Rima",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Zudizilla",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -821,6 +821,32 @@
     },
     {
       "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
+    },
+    {
+      "album": {
         "name": "Boombap",
         "url": "https://open.spotify.com/album/3Dj6pQbYLbD5Vdmira6GS1"
       },
@@ -1004,7 +1030,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 245623,
       "name": "Can\u00e7\u00e3o da Vit\u00f3ria",
       "url": "https://open.spotify.com/track/2VGpdBEXGoDthXZe7xJLxh"
@@ -1888,7 +1914,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 198193,
       "name": "Dif\u00edcil Aceitar",
       "url": "https://open.spotify.com/track/2Ov6XBzG815MPyO3ahxZFy"
@@ -2356,7 +2382,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 262200,
       "name": "Favela No Topo",
       "url": "https://open.spotify.com/track/5KtC1UhvyfLH5yCLTTfXwm"
@@ -2596,7 +2622,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 180669,
       "name": "Filhos",
       "url": "https://open.spotify.com/track/5tTSPzd9XVE9wjDyvQoGxZ"
@@ -3732,7 +3758,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 280990,
       "name": "Linhas de Fogo",
       "url": "https://open.spotify.com/track/7rVlzobevLRio65jZum1qc"
@@ -6021,6 +6047,24 @@
     },
     {
       "album": {
+        "name": "pra tu, bb",
+        "url": "https://open.spotify.com/album/6txST8nFDjBW8FIYJbJ5Ze"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160064,
+      "name": "pra tu, bb",
+      "url": "https://open.spotify.com/track/2nHbvQKVTOSHtGfcSX1vP1"
+    },
+    {
+      "album": {
         "name": "Primeira Mensagem",
         "url": "https://open.spotify.com/album/3N59K3JjtLkuDFsHppz8VD"
       },
@@ -6044,6 +6088,28 @@
       "duration_ms": 174782,
       "name": "Primeira Mensagem",
       "url": "https://open.spotify.com/track/3cUxxjeTEhumdlFaUEafnZ"
+    },
+    {
+      "album": {
+        "name": "Primeiro Lugar do P\u00f3dio",
+        "url": "https://open.spotify.com/album/0nnlmV8iDmTxj4Bon4EvNZ"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123515,
+      "name": "Primeiro Lugar do P\u00f3dio",
+      "url": "https://open.spotify.com/track/2o3NKh8bYMKSkJmBTQo5B5"
     },
     {
       "album": {
@@ -6106,6 +6172,28 @@
       "duration_ms": 183450,
       "name": "PUXUTRIUH",
       "url": "https://open.spotify.com/track/6Omfxuqf0PIvpT4GXhL7cb"
+    },
+    {
+      "album": {
+        "name": "Qatar Freestyle (Papatracks #9)",
+        "url": "https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Qatar Freestyle (Papatracks #9)",
+      "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
     },
     {
       "album": {
@@ -7145,6 +7233,24 @@
     },
     {
       "album": {
+        "name": "Sob Controle",
+        "url": "https://open.spotify.com/album/2AA45ILcKOlyYpnI9Q0fig"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119939,
+      "name": "Sob Controle",
+      "url": "https://open.spotify.com/track/5tKwo5oKZXU8VdhUWNybJL"
+    },
+    {
+      "album": {
         "name": "Sobe junto",
         "url": "https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt"
       },
@@ -7485,6 +7591,28 @@
     },
     {
       "album": {
+        "name": "Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/6k1ldsq4831jX4x7EldKPt"
+      },
+      "artists": [
+        {
+          "name": "v7tinho",
+          "url": "https://open.spotify.com/artist/6AnT5UGGKNqTA9CzlblFGz"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/6xBl1EB7DtpeHYYybbJ4Ld"
+    },
+    {
+      "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/3GgZ4RkxYss5bwINbxE85d"
       },
@@ -7626,7 +7754,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 175813,
       "name": "To Voando",
       "url": "https://open.spotify.com/track/6dNRYCyf0zhhkzwi8fIDsK"

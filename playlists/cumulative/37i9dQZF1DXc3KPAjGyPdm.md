@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-252 songs - 15 hr 51 min
+253 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All Your Reasons Why](https://open.spotify.com/track/6UewIOzbYSn1hkWGjWqAwt) | [Smart Remarks](https://open.spotify.com/artist/0CJrc1epNvgZnDdW46XFi7) | [Foreign Fields: 1982 \- 1984](https://open.spotify.com/album/37TrDI6hFUbEvQpcho9Afk) | 3:32 | 2019-07-10 |  |
 | [Amboss\-Polka](https://open.spotify.com/track/6m0ixfbUMyp06AZlO0Ntu2) | [Albert Parlow](https://open.spotify.com/artist/6mNhCpXQBmVDQZCalkChwq), [Swedish Brass Quartet](https://open.spotify.com/artist/4BKmFD2osxlza0hiuM1pYj) | [Svenska Messingkvartetten](https://open.spotify.com/album/55w1iPbVlkL62nFV102Nk9) | 1:30 | 2019-07-10 |  |
 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 | 2019-07-10 |  |
-| [Angel](https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin \(Reissue\)](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:56 | 2019-07-10 |  |
+| [Angel](https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:56 | 2019-07-10 |  |
 | [Anthony](https://open.spotify.com/track/33cxO72qJX3c2bPDYbgkHL) | [Andrea Litkei](https://open.spotify.com/artist/67WiEEjHCFYaxyAbs7OXp8), [Ervin Litkei](https://open.spotify.com/artist/5UjzFfveBtER1Oivoaa9X8) | [Diner Jukebox](https://open.spotify.com/album/2Wb6hbl4BRoPC2iqfEq8je) | 2:31 | 2019-07-10 |  |
 | [Atmosphere \- 2010 Remaster](https://open.spotify.com/track/5UPnBgnylUCjtAPtAH4tJY) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ) | 4:09 | 2017-12-20 |  |
 | [B.g.’s One Eye](https://open.spotify.com/track/1V3CJZwyzkDw0QBZY8C0ns) | [The Nuchez's](https://open.spotify.com/artist/5juac9B6Ytvkp5a5s12muD) | [Chocolate Soup for Diabetics, Vol\. 1](https://open.spotify.com/album/4H3Y4L9NS0OTKHFGI5cNnc) | 2:12 | 2022-07-01 |  |
@@ -181,8 +181,9 @@
 | [Rock This Town \- Single Edit/24 Bit Mastering/ Digital Remaster/1999](https://open.spotify.com/track/4jRWsQp0nJZsQ9EbjEO82g) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [The Brian Setzer Collection 1981\-1988 \(Remastered\)](https://open.spotify.com/album/5yeIWI4LK4TzTHvFM00Zii) | 2:39 | 2019-07-10 |  |
 | [Rock You Like a Hurricane \- 2011](https://open.spotify.com/track/1QLyDdhB9gmxbGv0K1kFyT) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Stranger Things \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N) | 4:14 | 2017-12-20 |  |
 | [Ruins](https://open.spotify.com/track/1iC94VGBlci8FOyGyDwWIu) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 2:02 | 2019-07-10 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-02-27 |  |
 | [Running Up That Hill \(A Deal with God\)](https://open.spotify.com/track/6VfKhnmbqCj14zcjZNjZTk) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 5:00 | 2022-05-27 | 2022-07-29 |
-| [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-05-27 |  |
+| [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-05-27 | 2023-03-18 |
 | [Sailor's Hornpipe \(C\)](https://open.spotify.com/track/54P5hkIOfMjd3tSCSmmQHd) | [Brian Gulland](https://open.spotify.com/artist/5ykGgeaE7QRfhAKcZjaD0R), [Richard Harvey](https://open.spotify.com/artist/3J8wY38gX35pp2soOa4vje) | [Kpm 1000 Series: Folk Songs](https://open.spotify.com/album/6g44vBe0pM0CMxC2cU9D4y) | 0:29 | 2019-07-10 |  |
 | [Satyagraha: Act II: Confrontation and Rescue](https://open.spotify.com/track/3pryCnejhwCIAJ5519ysPN) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Christopher Keene](https://open.spotify.com/artist/33BwRtFUF5xxXdIxmkT5MD), [New York City Opera Orchestra](https://open.spotify.com/artist/0bAN0dtIZuTD3Jf3nZScD7) | [Glass: Satyagraha](https://open.spotify.com/album/7pQ1vxq2x9ukcUnswdQRuQ) | 14:44 | 2019-07-10 |  |
 | [Sauna Test](https://open.spotify.com/track/64sd7wZyH8X2JmjzJfD1v8) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 0:59 | 2019-07-10 |  |

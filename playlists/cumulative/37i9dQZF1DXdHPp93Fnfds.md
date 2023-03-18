@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-475 songs - 1 day 3 hr 18 min
+476 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Cambio de Planes](https://open.spotify.com/track/68dKUAPwy0lXpxZZxN9IhP) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Cambio de Planes](https://open.spotify.com/album/5h3QWoaChq8nzdXEufKAGf) | 4:11 | 2022-03-09 | 2022-04-21 |
 | [Cambio la Mirada](https://open.spotify.com/track/0uKIE6p9jbKh6QLwDlvxWM) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [Duality](https://open.spotify.com/artist/0ji1iEjXI9xcZUXudiJP4O) | [Cambio la Mirada](https://open.spotify.com/album/18rtfeRxhAjard4SY3WdPI) | 2:55 | 2022-05-20 | 2022-09-09 |
 | [Camino Que Pasa](https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Camino Que Pasa](https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl) | 3:00 | 2022-07-15 |  |
+| [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 | 2023-03-17 |  |
 | [Canción de Flora](https://open.spotify.com/track/4wE4VCSYSNJEjCjr4jGIiB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Canción de Flora](https://open.spotify.com/album/7cVg7x1aVZYh0qP7oB1Lxw) | 3:49 | 2022-04-01 | 2022-07-28 |
 | [Canción de otoño](https://open.spotify.com/track/5mxCXwFixheHBlsW8nEmVF) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [Canción de otoño](https://open.spotify.com/album/0sqxQms2M4ouTa1y0KOhFN) | 4:21 | 2022-05-20 | 2022-05-29 |
 | [Canción Inútil](https://open.spotify.com/track/4FxT64PiS9WQ6PzPLqT9wf) | [Rudy](https://open.spotify.com/artist/2em5rmbRdv6QPZZhU9zYVW), [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Canción Inútil](https://open.spotify.com/album/5YyD2MSEAuleXstyonv8KT) | 3:48 | 2022-02-11 | 2022-07-06 |
@@ -366,7 +367,7 @@
 | [que tanto](https://open.spotify.com/track/5nshGFVBrUf3doA6FTVJzT) | [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [Tade Fonk](https://open.spotify.com/artist/7dXN6fbKgGlax00ZgnE73j) | [que tanto](https://open.spotify.com/album/3dyDQYo0vvFWEdJw8wyo4H) | 2:40 | 2022-03-04 | 2022-04-14 |
 | [Quema](https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:26 | 2022-10-14 |  |
 | [Quema](https://open.spotify.com/track/6ikqpsmK1si8HemHsocssD) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Quema](https://open.spotify.com/album/7vRod7kWz3RwGmSyMnob3b) | 3:26 | 2022-01-14 | 2022-10-14 |
-| [Quien](https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Una Linterna](https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO) | 2:42 | 2022-01-21 |  |
+| [Quien](https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Una Linterna](https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO) | 2:42 | 2022-01-21 | 2023-03-18 |
 | [Quiéreme \(aunque no es tu estilo\)](https://open.spotify.com/track/7LReYLKTIJF7hbRyOuxPvl) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Quiéreme \(aunque no es tu estilo\)](https://open.spotify.com/album/5CjuC09KYMi7FqbVBJHYSc) | 3:47 | 2022-01-21 | 2022-07-25 |
 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 | 2022-01-14 |  |
 | [Qué Más Quieres de Mí](https://open.spotify.com/track/21GNomOYNYf3xoBflp5hlo) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Qué Más Quieres de Mí](https://open.spotify.com/album/50YHt1Y6bHYA3G5uqMaolp) | 5:10 | 2022-01-21 | 2022-07-24 |

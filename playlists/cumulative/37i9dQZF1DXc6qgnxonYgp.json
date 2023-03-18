@@ -2104,7 +2104,7 @@
           "url": "https://open.spotify.com/artist/0m0GD5srjWW5q7Q64ysBwh"
         }
       ],
-      "date_added": "2023-03-14",
+      "date_added": "2023-03-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198715,
@@ -2320,6 +2320,24 @@
       "duration_ms": 177204,
       "name": "Poi Poi Poi",
       "url": "https://open.spotify.com/track/53tUcQoaQe0WHSAZyWyEiu"
+    },
+    {
+      "album": {
+        "name": "Pookal Pookum Drill",
+        "url": "https://open.spotify.com/album/7htYjut2nfSDir4BfG20b1"
+      },
+      "artists": [
+        {
+          "name": "MC Kinin",
+          "url": "https://open.spotify.com/artist/36nBCxFG5E8cFAGAgBYauw"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82816,
+      "name": "Pookal Pookum Drill",
+      "url": "https://open.spotify.com/track/597i3I0ZqctrEgrjH3jSm2"
     },
     {
       "album": {

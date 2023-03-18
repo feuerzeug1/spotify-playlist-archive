@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the vocalists representing Korea! \(Cover: HUHGAK\(허각\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
+> Meet the vocalists representing Korea! \(Cover: WSG WANNABE GAYA\-G\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-392 songs - 1 day 1 hr 40 min
+393 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [The Wanderer \(Monthly Project 2019 December Yoon Jong Shin\)](https://open.spotify.com/track/7lMX3RTGeURaRNG7R6Bbe0) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [The Wanderer \(Monthly Project 2019 December Yoon Jong Shin\)](https://open.spotify.com/album/5Kt7dTIo1VBdubpXuFANvr) | 5:22 | 2022-03-24 | 2022-04-17 |
 | [The Wind Blows](https://open.spotify.com/track/1PssUYQxZqXz673rilqMvZ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Sing Forest Part.1](https://open.spotify.com/album/53wnkkDyLjZLpdRBR9iP0i) | 3:48 | 2022-04-01 | 2022-07-14 |
 | [The Word](https://open.spotify.com/track/69XGqdtKexbf8W9Khs3XA7) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [From The Island](https://open.spotify.com/album/3tYXM2RUje2peApyIWNERR) | 3:49 | 2022-03-24 | 2022-05-30 |
-| [The Work Of Erasing You](https://open.spotify.com/track/13XmTLlsQvX8glN5sM2gfL) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The Work Of Erasing You](https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI) | 3:37 | 2023-03-10 |  |
+| [The Work Of Erasing You](https://open.spotify.com/track/13XmTLlsQvX8glN5sM2gfL) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The Work Of Erasing You](https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI) | 3:37 | 2023-03-10 | 2023-03-18 |
 | [There has never been a day I haven't loved you](https://open.spotify.com/track/07dEYudaDt4vMgTiGINUH3) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [There has never been a day I haven't loved you](https://open.spotify.com/album/5uxEITfPVGU67MdPA6LiaE) | 4:03 | 2022-01-14 | 2022-04-29 |
 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 | 2021-12-20 |  |
 | [This is me](https://open.spotify.com/track/2VnAN5tR2Y4raaPcAEFE9u) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [멜로디책방 Part 6](https://open.spotify.com/album/1WIfzWPSJiACHtURL458Xt) | 3:02 | 2021-12-20 | 2022-04-21 |
@@ -328,6 +328,7 @@
 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 | 2021-12-20 |  |
 | [TIME](https://open.spotify.com/track/0OtneDXQUyQeYyaCJNwcQi) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'TIME'](https://open.spotify.com/album/3DVBKjlaEM1nYLh6h3Uz6X) | 3:36 | 2022-05-03 | 2022-05-12 |
 | [Time Will Tell](https://open.spotify.com/track/6tW1aWmAspjwqkdBKOn9uV) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:23 | 2022-04-01 | 2022-04-16 |
+| [To You](https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ) | [WSG WANNABE GAYA\-G](https://open.spotify.com/artist/0cTARog8xrUQqm6Iur211p) | [To You](https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f) | 3:27 | 2023-03-18 |  |
 | [To You \(Prod\. JUNGKEY\)](https://open.spotify.com/track/3YkFgoeeZJct03iDrBkbLv) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [To You](https://open.spotify.com/album/0pG9gwHtsTNrLsJARuJnER) | 4:37 | 2022-01-27 | 2022-05-12 |
 | [To You My Light \(2022\)](https://open.spotify.com/track/6RbocDE51e5OkEFIagJmQs) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [To You My Light](https://open.spotify.com/album/5YKiY8AKXdRP5vgTqEWccv) | 4:18 | 2022-03-09 | 2022-07-29 |
 | [Tonight](https://open.spotify.com/track/5pgmUV8sJ8ilNOKA5ZIyKM) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [skepticism](https://open.spotify.com/album/6QCgJkrDddhyi5t3aCouQQ) | 3:46 | 2022-03-29 | 2022-04-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Explore a genre bending universe centered around jazz. Cover: Busty and The Bass & Magi Merlin",
+  "description": "Explore a genre bending universe centered around jazz. Cover: Kay Young",
   "name": "Orbit",
   "tracks": [
     {
@@ -638,7 +638,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 224593,
       "name": "Beast Mode",
       "url": "https://open.spotify.com/track/468bLIu92tWlKhnuIUFqeE"
@@ -2389,6 +2389,28 @@
     },
     {
       "album": {
+        "name": "Erykah's Interlude",
+        "url": "https://open.spotify.com/album/3EWKvnMt9HRdssqGA0aMwK"
+      },
+      "artists": [
+        {
+          "name": "The Moon",
+          "url": "https://open.spotify.com/artist/4RPxNhKx7KOJoOSZdKC3NM"
+        },
+        {
+          "name": "Dough Networkz",
+          "url": "https://open.spotify.com/artist/3gOCgzWPI6lpRDWYoEeAl0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192027,
+      "name": "Erykah's Interlude",
+      "url": "https://open.spotify.com/track/5gWuzCgyAjUtmUPhVgcPPJ"
+    },
+    {
+      "album": {
         "name": "Jazz Codes",
         "url": "https://open.spotify.com/album/2EET9vTNVbzuhm49j1CHn9"
       },
@@ -2978,6 +3000,24 @@
       "duration_ms": 208608,
       "name": "Formwela 10",
       "url": "https://open.spotify.com/track/3FAR18vZle5UwJyNThFLAO"
+    },
+    {
+      "album": {
+        "name": "Foundation",
+        "url": "https://open.spotify.com/album/3zqkp1d0PB7giHI9sxnFNl"
+      },
+      "artists": [
+        {
+          "name": "Casey Cope",
+          "url": "https://open.spotify.com/artist/7HuF51YPKsxrkVB6zsHPZD"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180687,
+      "name": "Foundation",
+      "url": "https://open.spotify.com/track/3H54z234dCXKwzHxuXWx1A"
     },
     {
       "album": {
@@ -3966,7 +4006,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 173677,
       "name": "Jazz Ballads & Black Coffee",
       "url": "https://open.spotify.com/track/7arCBoUzMR0EKmz3vmiqyw"
@@ -4362,7 +4402,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 257142,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/5dG6kn38IgVuGUwFQ3dfSg"
@@ -4876,7 +4916,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 149333,
       "name": "Most Days",
       "url": "https://open.spotify.com/track/2S5nBg0LC70vm8ODpxUY7e"
@@ -5442,6 +5482,24 @@
       "duration_ms": 197000,
       "name": "One Time",
       "url": "https://open.spotify.com/track/1gK8vULrg4JRs2L9HbQbjG"
+    },
+    {
+      "album": {
+        "name": "Out Of Fashion",
+        "url": "https://open.spotify.com/album/26rNRVhLf8wwSOjAUCNMvh"
+      },
+      "artists": [
+        {
+          "name": "Ruby Jackson",
+          "url": "https://open.spotify.com/artist/4NYJSTgWtPpU2aJ4ejXSiL"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Out Of Fashion",
+      "url": "https://open.spotify.com/track/3hcc3GznMPlthQax4gYJCY"
     },
     {
       "album": {
@@ -8738,6 +8796,28 @@
       "duration_ms": 237240,
       "name": "WITHOUT YOU, WITHIN ME - Radio Edit",
       "url": "https://open.spotify.com/track/3wrq3jtpNuA8Dty2IKy2AI"
+    },
+    {
+      "album": {
+        "name": "Woe Is Me",
+        "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
+      },
+      "artists": [
+        {
+          "name": "Kay Young",
+          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
+        },
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220001,
+      "name": "Woe Is Me",
+      "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"
     },
     {
       "album": {

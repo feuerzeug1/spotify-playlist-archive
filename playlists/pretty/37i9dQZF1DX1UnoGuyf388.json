@@ -1,12 +1,12 @@
 {
   "description": "Pop music driving the current, every week.  Cover: Bree Runway, artwork by Ian Woods",
-  "num_followers": 18439,
+  "num_followers": 18513,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDdkMzRmMjJmOGU0ZDk2NTJkZmQ5MjEyMDIyMDRlNGUw",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDk0ZDVlZDk4ZTliOTg0YTQzZjlmZjkzNWQ1NjkwMGZm",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -141,6 +141,26 @@
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
     },
     {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "We\u2019re All Gonna Die",
+        "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 179202,
+      "name": "We\u2019re All Gonna Die (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -155,6 +175,22 @@
       "duration_ms": 236334,
       "name": "Halo - Spotify Singles",
       "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "3 Bad",
+        "url": "https://open.spotify.com/album/3xATCnolc2SYhSkmkXn3QU"
+      },
+      "artists": [
+        {
+          "name": "Siena Liggins",
+          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "3 Bad",
+      "url": "https://open.spotify.com/track/17ruwJP3zIcbcXTbnP9qbJ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -195,22 +231,6 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 189722,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -807,22 +827,6 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Dumb",
-        "url": "https://open.spotify.com/album/5Xc7SZi7EuNczZ1TU0gvfd"
-      },
-      "artists": [
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 138855,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/3WDyQV8e7Jo8ADMDIUZEqT"
     },
     {
       "added_at": "2023-03-10 05:00:00",

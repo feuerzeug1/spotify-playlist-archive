@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2000s.
 
-103 songs - 6 hr 39 min
+104 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 | 2021-04-29 |  |
 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 | 2021-04-29 |  |
 | [Don't Give Up](https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:30 | 2021-10-06 |  |
+| [Désenchantée](https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Different](https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9) | 3:38 | 2021-04-29 |  |
 | [Ecstasy](https://open.spotify.com/track/0wYVNC09iLBVIqHB07Hckt) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [No Silence](https://open.spotify.com/album/1z3EKLq7IsSUyElIqqulb0) | 4:21 | 2021-04-29 |  |
-| [Ella Elle L A \- Radio Version](https://open.spotify.com/track/1bV3jw1mlVbPkzc9bCGCsl) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Free](https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9) | 3:04 | 2021-04-29 |  |
+| [Ella Elle L A \- Radio Version](https://open.spotify.com/track/1bV3jw1mlVbPkzc9bCGCsl) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Free](https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9) | 3:04 | 2021-04-29 | 2023-03-18 |
 | [End Credits](https://open.spotify.com/track/64I0O6ZipYryKte1cHA2EY) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Plan B](https://open.spotify.com/artist/7qlh1IM1XMeQXA9ukp59au) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:20 | 2021-04-29 |  |
 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 | 2021-04-29 |  |
 | [Everytime We Touch](https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Platinum](https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY) | 3:17 | 2021-04-29 |  |

@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-151 songs - 9 hr 1 min
+153 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adore You \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/0ovIP1mWermyLY91w6SMnh) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Adore You \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/3JBaruXKMRHbPsnGIwmsaq) | 3:18 | 2021-11-19 |  |
 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 | 2022-07-08 |  |
 | [All Of Me](https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo) | 3:18 | 2021-11-19 | 2022-07-29 |
+| [Anti\-Hero \(arr\. piano\)](https://open.spotify.com/track/4xZP0zYF23dP8JRcqyF2mV) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Anti Hero \(arr\. piano\)](https://open.spotify.com/album/56wtDQM2uL66GbgYQXAlhP) | 3:18 | 2023-03-17 |  |
 | [Anyone](https://open.spotify.com/track/0O8dFusnakV9rVLA2S16De) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Anyone](https://open.spotify.com/album/5HaWtTikAqMSJGgaVljsKl) | 3:11 | 2021-11-19 |  |
 | [As It Was](https://open.spotify.com/track/0RsaOIEKB4u4dbZMgs8zXP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [As It Was](https://open.spotify.com/album/1de4PdJI0bgz3j1wd0bW94) | 2:41 | 2022-06-24 |  |
 | [Bad Guy](https://open.spotify.com/track/2FH0jT9o0mz71s7AtMkAa4) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Bad Guy](https://open.spotify.com/album/7jgCENuww6WXc03Gpm3bKe) | 3:11 | 2021-11-19 |  |
@@ -64,6 +65,7 @@
 | [Firework](https://open.spotify.com/track/5Y2g2734P6TcuJJmDwz9QO) | [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [Red](https://open.spotify.com/album/48sxpy1XGBS2dVU8ebh9lY) | 3:42 | 2021-11-19 |  |
 | [Firework](https://open.spotify.com/track/6Pk7XpaiMsXAM6dXN3kQEo) | [Jeremy Green](https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42) | [Firework](https://open.spotify.com/album/7wBmPhdZlYiDa4h6rGDSbG) | 3:54 | 2022-01-21 |  |
 | [Fix You](https://open.spotify.com/track/0gFYjXozTU5fhTUZtMiDR1) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R), [Dover Quartet](https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU) | [Fix You](https://open.spotify.com/album/279wRgctzr3Es4uh7SKA8F) | 5:04 | 2021-11-19 |  |
+| [Flowers](https://open.spotify.com/track/5tyoGp4suJjn9HAbLAKkdx) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Flowers](https://open.spotify.com/album/3mSjIIHyriD6HOCqNOKzTQ) | 3:55 | 2023-03-17 |  |
 | [God Only Knows](https://open.spotify.com/track/0uASyQM62OGfteRsM5bk5s) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [God Only Knows](https://open.spotify.com/album/627csj4wkox8X11EmpEhgG) | 3:49 | 2021-11-19 | 2022-05-14 |
 | [Good 4 U \- arr\. String Quartet](https://open.spotify.com/track/3hiAOP7Pu4ntiLAeDC8QF4) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Good 4 U \(arr\. String Quartet\)](https://open.spotify.com/album/50CpGxkx9zocEPujltkUI6) | 2:57 | 2022-03-18 |  |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2021-11-19 | 2022-05-07 |

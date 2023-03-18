@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202473,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf"
+    },
+    {
+      "album": {
         "name": "Obosheshey",
         "url": "https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR"
       },
@@ -1519,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190601,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
+    },
+    {
+      "album": {
         "name": "JADU",
         "url": "https://open.spotify.com/album/1YsuVDWON04EsjwPloOWZS"
       },
@@ -1556,7 +1592,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 233617,
       "name": "Jal Jaane Do",
       "url": "https://open.spotify.com/track/3Q7nCNuWLRnj77oo5hLRdV"
@@ -1984,7 +2020,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 158625,
       "name": "Naakay",
       "url": "https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA"
@@ -2210,7 +2246,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 229655,
       "name": "Peanut Butter",
       "url": "https://open.spotify.com/track/6DULqMlVA3TBjhl5gxnTp1"
@@ -2514,7 +2550,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 216000,
       "name": "Saacha Sahib",
       "url": "https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN"

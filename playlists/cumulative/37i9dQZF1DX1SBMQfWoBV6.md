@@ -4,7 +4,7 @@
 
 > Light electronic movements for study, focus and flow.
 
-74 songs - 5 hr 39 min
+76 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Amazing Things to Come](https://open.spotify.com/track/6ocXaLZ1ooYNJejDnGxRx8) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Amazing Things](https://open.spotify.com/album/0DBiS3ynX5LmsZjv7OnvQW) | 2:53 | 2023-01-31 |  |
 | [Arperious](https://open.spotify.com/track/6NpymTa0H0DXNQcfGBSb9M) | [Hyperix](https://open.spotify.com/artist/2vlHxzMM3LDROyxBioXC2Q) | [Arperious](https://open.spotify.com/album/5rxLM3dUbhXaItPpAsnKbh) | 2:51 | 2023-01-31 |  |
 | [As the Leaves Fall](https://open.spotify.com/track/6IL0hp5UGrDvL0S1B7UVM1) | [Selffish](https://open.spotify.com/artist/0YIcdQQ4Mmhl4l40ubHABn) | [He She Them Us](https://open.spotify.com/album/4oyS54Dgj9V4RfwaWQO5t5) | 5:28 | 2023-01-31 |  |
+| [Balearic Pulse](https://open.spotify.com/track/3hPrb5z3kXBRO8i5EOLgxw) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Balearic Pulse](https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC) | 2:48 | 2023-03-17 |  |
 | [Be Kind](https://open.spotify.com/track/3rkesmzecZXrKZ7HA68OKZ) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 4:07 | 2023-01-31 |  |
 | [Beloved Exile](https://open.spotify.com/track/0fnZFOirxnGpo9UdaG8Ndj) | [Steve Moore](https://open.spotify.com/artist/7kcEevbRjcqtpjVgoYcq05) | [Beloved Exile](https://open.spotify.com/album/40TxdeBrR0OTGQD6etnhyJ) | 5:25 | 2023-01-31 |  |
 | [Beluga’s Song](https://open.spotify.com/track/1BHu8dmQWiwoh7p1vgJZKN) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 5:28 | 2023-01-31 |  |
@@ -22,6 +23,7 @@
 | [Dust](https://open.spotify.com/track/0SVkJnFaT6y5eCMosHwvVZ) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Shikasta](https://open.spotify.com/album/0IONJPCk2P7ym03G3RGwh9) | 4:47 | 2023-01-31 |  |
 | [Enchanting](https://open.spotify.com/track/3JBLGpxaBZrhnrOwmUV99n) | [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Lifetracks](https://open.spotify.com/album/1wM3q5NJN8n0Y2hi4fPfSi) | 5:13 | 2023-01-31 |  |
 | [False Angel Lullaby](https://open.spotify.com/track/5Q9QWEZCmxTMTC25HrUaEf) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Labyrinth](https://open.spotify.com/album/2uXc2ajokBOxI2FX27icQ9) | 7:24 | 2023-01-31 |  |
+| [Finding Determination](https://open.spotify.com/track/1IZ8OjFT6GAVAQ1wQCEIlv) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Balearic Pulse](https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC) | 2:56 | 2023-03-17 |  |
 | [Fyresvatn](https://open.spotify.com/track/3oXtuTObYRvhsShC7I96M5) | [Asle Bjørn](https://open.spotify.com/artist/5ktwEgR7MPFnz1QuYdUcmq) | [My Places](https://open.spotify.com/album/0hBJ0y5ms0sU5j2tK7X75J) | 4:37 | 2023-01-31 |  |
 | [Ikata \- 1](https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:04 | 2023-01-31 |  |
 | [In and out of Days](https://open.spotify.com/track/0Rw6XHubnNlZ7joTug4ogA) | [Hidden Rivers](https://open.spotify.com/artist/3hnXe9Zah3sqkO0XzAzebp) | [Where Moss Grows](https://open.spotify.com/album/6o5cdOMQFtNjJD7TQAVb7j) | 5:24 | 2023-01-31 |  |

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Neeru Bajwa & Satinder Sartaaj
 
-723 songs - 1 day 15 hr 15 min
+724 songs - 1 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,6 +561,7 @@
 | [Salooq \(From "MOH"\)](https://open.spotify.com/track/6fgIBVQ0GJ1kijpGL9N5Vs) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Salooq \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6eUXw6BZjKb61a27JPzklk) | 5:06 | 2022-08-31 |  |
 | [Sambhal Ke Chal \- From "Mahi Mera Nikka Jeha"](https://open.spotify.com/track/1F40RtB8tCM43x8Sj92biS) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8), [Jaggi Singh](https://open.spotify.com/artist/65zaftDLgoj6AAEpkAp1pA) | [Sambhal Ke Chal \(From "Mahi Mera Nikka Jeha"\)](https://open.spotify.com/album/13Osk55gPTsBlDFITqlNzO) | 5:05 | 2022-06-01 | 2022-07-06 |
 | [Sare Taare](https://open.spotify.com/track/2NqFbnikUIo8hWKlfCfxUo) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Veet Baljit](https://open.spotify.com/artist/4Ax6JQQBWP2BqmmcbVvZwl) | [Teri Meri Gal Ban Gayi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JRDsfFKUbxG5yiMMZPokx) | 2:29 | 2022-08-31 | 2022-09-03 |
+| [Sath Tera](https://open.spotify.com/track/1uwwPP5m9lt8zEAkVcyca4) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Gill Skill, Vol\. 1](https://open.spotify.com/album/6A4GxzoyK2x6rm9hGvJMUw) | 2:34 | 2023-03-17 |  |
 | [Satisfaction](https://open.spotify.com/track/3mb3AKxmOBZSNzYTxRBuDs) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Satisfaction](https://open.spotify.com/album/6JzOPYjClr8eTVRvpbatmG) | 3:11 | 2022-01-11 | 2022-02-01 |
 | [Saun Rabb Di](https://open.spotify.com/track/4vr2Pt9BbjwE2Tzq88asbo) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP) | [Deewana](https://open.spotify.com/album/1ojsW5BU8JfG7GNYaoGSKv) | 2:45 | 2022-03-08 | 2022-04-06 |
 | [Sawal Sadi Zindgi Da](https://open.spotify.com/track/3oYy3aoboM0ZxLtiv7KBLO) | [Ravinder Grewal](https://open.spotify.com/artist/4gn7lpmSZArcwh09lfScUd) | [Vich Bolunga Tere](https://open.spotify.com/album/3iVvQ9xpU5D8nT5treD0Yt) | 3:19 | 2022-09-09 | 2022-12-16 |

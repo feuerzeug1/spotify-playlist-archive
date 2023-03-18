@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: Matt Guy",
+  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | This week is all about Miami Music Week",
   "name": "Armada Today",
   "tracks": [
+    {
+      "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Distorted Dreams",
+          "url": "https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209998,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/0JM0efR3lmQqg3HVxHGjHD"
+    },
     {
       "album": {
         "name": "Adagio For Strings",
@@ -20,7 +42,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 209998,
       "name": "Adagio For Strings",
       "url": "https://open.spotify.com/track/2Ju181y8kKeGQLTwnPNUoN"
@@ -74,10 +96,28 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 167731,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/3qa60ubSTZWvjqWUzCqluX"
+    },
+    {
+      "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167731,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6bjw9Qp4ZPcZYmpavf70Dm"
     },
     {
       "album": {
@@ -983,6 +1023,28 @@
     },
     {
       "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259933,
+      "name": "Carry On - Adana Twins Remix",
+      "url": "https://open.spotify.com/track/4iIEmN2XYUwarNOgoKONAq"
+    },
+    {
+      "album": {
         "name": "Carry On (Adana Twins Remix)",
         "url": "https://open.spotify.com/album/37ecCZ3JRsd05ag54lrgF5"
       },
@@ -998,7 +1060,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 259933,
       "name": "Carry On - Adana Twins Remix",
       "url": "https://open.spotify.com/track/5XCDpDTrqxCcHOzSJ99Z2y"
@@ -1342,10 +1404,32 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 271475,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/41juqVVEYn91iFf10peqHF"
+    },
+    {
+      "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271475,
+      "name": "Dancing Alone",
+      "url": "https://open.spotify.com/track/4RsXxQpRzQbipfx4d4bjKd"
     },
     {
       "album": {
@@ -1412,10 +1496,32 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 199451,
       "name": "Dayglow",
       "url": "https://open.spotify.com/track/3P6ALtA9bQspJku4GyHEOV"
+    },
+    {
+      "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Stuart Crichton",
+          "url": "https://open.spotify.com/artist/2WRkTsF3Uk2tTJF2p45WkB"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199451,
+      "name": "Dayglow",
+      "url": "https://open.spotify.com/track/4P0cyYsItle3ztoF5pBdyY"
     },
     {
       "album": {
@@ -1621,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226451,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/1fIfGIdSYnN8zPkxqSkksc"
+    },
+    {
+      "album": {
         "name": "Don't You Want Me",
         "url": "https://open.spotify.com/album/4suNIu4sZ167Nl3acxgzoF"
       },
@@ -1636,7 +1764,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 226451,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/6vk25f0K6avR1fbH2PXPEm"
@@ -2391,6 +2519,32 @@
     },
     {
       "album": {
+        "name": "Follow Me (To A Place Called Love) [Marco Lys Mix]",
+        "url": "https://open.spotify.com/album/2uaOIXRDVuRwah9spH25gx"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Plaster Hands",
+          "url": "https://open.spotify.com/artist/1s6GdyR9crMX0bYcrVC5bn"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156020,
+      "name": "Follow Me (To A Place Called Love) - Marco Lys Mix",
+      "url": "https://open.spotify.com/track/5zZJhHbVYpPi1TZCxQ5o6f"
+    },
+    {
+      "album": {
         "name": "Forever & Always",
         "url": "https://open.spotify.com/album/6EmbyEUDThdkWcri5OsTep"
       },
@@ -2939,6 +3093,32 @@
     },
     {
       "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207334,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/3xHIXS5RdjnUL6BfJC88MU"
+    },
+    {
+      "album": {
         "name": "Greece 2000",
         "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
       },
@@ -2984,7 +3164,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 207334,
       "name": "Greece 2000",
       "url": "https://open.spotify.com/track/68A7uaYnRnOQ6d5Q6Eqw7x"
@@ -3006,6 +3186,28 @@
       "duration_ms": 263126,
       "name": "Green Washer",
       "url": "https://open.spotify.com/track/2uSvvvPO0ugf8Sasp0imPN"
+    },
+    {
+      "album": {
+        "name": "Growing In The Shadows",
+        "url": "https://open.spotify.com/album/3yL9JrlfXgLwDypiRWBnh6"
+      },
+      "artists": [
+        {
+          "name": "Jarod Glawe",
+          "url": "https://open.spotify.com/artist/6gzCf25nxnA68tQ3kJUEB4"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145365,
+      "name": "Growing In The Shadows",
+      "url": "https://open.spotify.com/track/0cHBlkdti2EgOKac5FbSIV"
     },
     {
       "album": {
@@ -3872,10 +4074,32 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 221538,
       "name": "idk",
       "url": "https://open.spotify.com/track/1PhKKmyFwhnKVLuNpbOtg7"
+    },
+    {
+      "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "i_o",
+          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "idk",
+      "url": "https://open.spotify.com/track/3OzMiR6xyB1xsvVwtDWSOr"
     },
     {
       "album": {
@@ -4670,7 +4894,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 157282,
       "name": "Lie",
       "url": "https://open.spotify.com/track/2FvKnJLlvs2BuIK7Er2zRK"
@@ -4944,7 +5168,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 227406,
       "name": "Lorena - Edit",
       "url": "https://open.spotify.com/track/1UAwLCB8iZBnbeUkkodvUv"
@@ -6608,7 +6832,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 224848,
       "name": "Renaissance - 5AM Edit",
       "url": "https://open.spotify.com/track/4r4nmGgzGqFei1NIVJpJoz"
@@ -6695,6 +6919,24 @@
     },
     {
       "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/2mN0uI61gPgRTWffJwfiUi"
+    },
+    {
+      "album": {
         "name": "Rhythm (Of The Night)",
         "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
@@ -6710,7 +6952,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 201621,
       "name": "Rhythm (Of The Night)",
       "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
@@ -6819,6 +7061,28 @@
     },
     {
       "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/3RyqsBL06WNHlYqcscwaC9"
+    },
+    {
+      "album": {
         "name": "Chill Executive Officer (CEO), Vol. 24 [Selected by Maykel Piron]",
         "url": "https://open.spotify.com/album/51N2Qs0Inr0BhN9WlVpEOW"
       },
@@ -6834,7 +7098,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/6BYR6xAb0QtPEexBJkNKsx"
@@ -7203,6 +7467,24 @@
     },
     {
       "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180638,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/1h3KoEXzNoh1zUAOKEVMV4"
+    },
+    {
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
       },
@@ -7214,7 +7496,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 180638,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
@@ -7378,6 +7660,36 @@
       "duration_ms": 202677,
       "name": "Shot At Love",
       "url": "https://open.spotify.com/track/6tDtuaCX0sIea6o8Qmpyae"
+    },
+    {
+      "album": {
+        "name": "Silence (Andrew Rayel & Achilles Remix)",
+        "url": "https://open.spotify.com/album/7McfeMftwnFtwLtAgLHOhK"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Achilles",
+          "url": "https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173527,
+      "name": "Silence - Andrew Rayel & Achilles Remix",
+      "url": "https://open.spotify.com/track/4d5tAMeWSY0kHNREsP1LiF"
     },
     {
       "album": {
@@ -7942,7 +8254,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 224640,
       "name": "Summer Thing - Cat Dealers Remix",
       "url": "https://open.spotify.com/track/4ou9bNbrHrh2CA4ZksA5sR"
@@ -8012,6 +8324,28 @@
       "duration_ms": 179538,
       "name": "Sunrise - Rank 1 Remix",
       "url": "https://open.spotify.com/track/2gx2VAaBTcp75ksCqo4grN"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209060,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1"
     },
     {
       "album": {
@@ -8376,10 +8710,32 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 169395,
       "name": "The Devil",
       "url": "https://open.spotify.com/track/3eGdnsaimgEICRRiuvhPFc"
+    },
+    {
+      "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        },
+        {
+          "name": "666",
+          "url": "https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169395,
+      "name": "The Devil",
+      "url": "https://open.spotify.com/track/4m0z9aYplxWG3CcwYyl1kJ"
     },
     {
       "album": {
@@ -8428,7 +8784,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 190288,
       "name": "The Inside",
       "url": "https://open.spotify.com/track/1WUfZV1VUPCLQiATnJ11E9"
@@ -8953,6 +9309,50 @@
     },
     {
       "album": {
+        "name": "Transmission (Armin van Buuren Remix)",
+        "url": "https://open.spotify.com/album/7k3gNgTTuM0f9cIRdW8FTP"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152012,
+      "name": "Transmission - Armin van Buuren Remix",
+      "url": "https://open.spotify.com/track/53QLyfbHqEtXK0ys7YW2Q4"
+    },
+    {
+      "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224274,
+      "name": "Transmission - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/060Msy1xjnv9yokygnnkEt"
+    },
+    {
+      "album": {
         "name": "Trance 100 - 2023",
         "url": "https://open.spotify.com/album/2TTnwqvm8vzH3eZm8LIRHb"
       },
@@ -8968,7 +9368,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 224274,
       "name": "Transmission - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/3i2daN6iOVk6rAW1PjOAlJ"
@@ -9221,6 +9621,28 @@
     },
     {
       "album": {
+        "name": "Armada Music - Miami 2023",
+        "url": "https://open.spotify.com/album/4BQKvWR0nOD7uuG3g4KykY"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242053,
+      "name": "Unlovable",
+      "url": "https://open.spotify.com/track/0RpCSYoRQNoUAjYBozv5P4"
+    },
+    {
+      "album": {
         "name": "Unlovable",
         "url": "https://open.spotify.com/album/6uXqIAEVfndXVq4KPNMiHo"
       },
@@ -9258,7 +9680,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 242053,
       "name": "Unlovable",
       "url": "https://open.spotify.com/track/1oEkuhUqgkeVto8NDvLobE"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: De La Soul \u2013 R.I.P. Trugoy \ud83d\udd4a",
+  "description": "Damn son, where'd ya find this? Cover: Mike Shabb, Nicholas Craven",
   "name": "Raw & Uncut",
   "tracks": [
     {
@@ -710,7 +710,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 153070,
       "name": "Blunt In The Booth",
       "url": "https://open.spotify.com/track/4J8rNSczhYlPDs9SkdO3OB"
@@ -882,6 +882,58 @@
       "duration_ms": 153846,
       "name": "Buckshot Flow 93'",
       "url": "https://open.spotify.com/track/1ZlPonESk2e41ZuJhzUkBp"
+    },
+    {
+      "album": {
+        "name": "Buddy",
+        "url": "https://open.spotify.com/album/6BuUcGesmUnJwCdlIGqB6u"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272035,
+      "name": "Buddy - Single Mix",
+      "url": "https://open.spotify.com/track/4hOq0WCZgv1I3okksD4bag"
+    },
+    {
+      "album": {
+        "name": "Bump / Inthecoupe",
+        "url": "https://open.spotify.com/album/2lbDFZoalAZhPIwQ2haTlu"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "MED",
+          "url": "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
+        },
+        {
+          "name": "Guilty Simpson",
+          "url": "https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123010,
+      "name": "Bump",
+      "url": "https://open.spotify.com/track/42nuDGc2wYog831HhXQ6ku"
     },
     {
       "album": {
@@ -1616,6 +1668,24 @@
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
+      "album": {
+        "name": "Eee Zee",
+        "url": "https://open.spotify.com/album/07osvOkL07RkoPMQDvqYqQ"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175203,
+      "name": "Eee Zee",
+      "url": "https://open.spotify.com/track/5qlP944NySkgAtkzVGE0G3"
     },
     {
       "album": {
@@ -2537,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/7tIapzAUTxUTYMvWWFSzV5"
+      },
+      "artists": [
+        {
+          "name": "Lord Finesse",
+          "url": "https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243106,
+      "name": "Hip 2 Da Game",
+      "url": "https://open.spotify.com/track/3yjVsUq8psgcHm8SQrZ8i4"
+    },
+    {
+      "album": {
         "name": "Let's Get Free",
         "url": "https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8"
       },
@@ -2650,7 +2738,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 303666,
       "name": "Hustler Musik",
       "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
@@ -3658,7 +3746,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 177949,
       "name": "NAOMI",
       "url": "https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu"
@@ -4053,6 +4141,28 @@
     },
     {
       "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/3ZmgIf9xdBHuCds9qD5ab8"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA"
+    },
+    {
+      "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
       },
@@ -4120,7 +4230,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 202338,
       "name": "Orville (feat. Like, Blu & Exile)",
       "url": "https://open.spotify.com/track/5eURoU1GtJypHBQJTXWTPN"
@@ -4292,7 +4402,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 301640,
       "name": "Pease Porridge",
       "url": "https://open.spotify.com/track/2SeYGmG9phGcOKAYz1B9lm"
@@ -4578,6 +4688,28 @@
       "duration_ms": 337760,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/0eK5y1c7WDyWwx6k9SFjbT"
+    },
+    {
+      "album": {
+        "name": "Respectfully",
+        "url": "https://open.spotify.com/album/3MmpqNCpQj8HLbg7sNd6hr"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162978,
+      "name": "Respectfully",
+      "url": "https://open.spotify.com/track/2iq4zO451gPlVSWT5PEYVg"
     },
     {
       "album": {
@@ -4888,7 +5020,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 189524,
       "name": "Save The Joker",
       "url": "https://open.spotify.com/track/4ESD8d1M0KnpKdMrMt1PJA"
@@ -5178,6 +5310,28 @@
       "duration_ms": 234125,
       "name": "SLIDE OUT",
       "url": "https://open.spotify.com/track/1eHn0XmMXlfUTPZEs1dOpj"
+    },
+    {
+      "album": {
+        "name": "Slipping Into Darkness",
+        "url": "https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256926,
+      "name": "Slipping Into Darkness",
+      "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
     },
     {
       "album": {
@@ -5509,6 +5663,28 @@
     },
     {
       "album": {
+        "name": "Suppression",
+        "url": "https://open.spotify.com/album/7F0W3LApHzZMH6RiE3MyY5"
+      },
+      "artists": [
+        {
+          "name": "Fly Anakin",
+          "url": "https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF"
+        },
+        {
+          "name": "Foisey",
+          "url": "https://open.spotify.com/artist/5r8QIG7EYHw09UZJm7rsZB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101392,
+      "name": "Suppression",
+      "url": "https://open.spotify.com/track/7xOgA5HHJwdw56EqWRKBJ5"
+    },
+    {
+      "album": {
         "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
         "url": "https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks"
       },
@@ -5648,7 +5824,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 324533,
       "name": "The Art of Peer Pressure",
       "url": "https://open.spotify.com/track/0d0jsoba88SpOoFxCxA2rZ"
@@ -6742,7 +6918,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200930,
       "name": "YKTV (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/3M6m6VS4jsBcQKBULOQuqV"

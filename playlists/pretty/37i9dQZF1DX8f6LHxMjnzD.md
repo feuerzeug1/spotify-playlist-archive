@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: PNAU & Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,566 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,610 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 36 | [Forever](https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Forever](https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz) | 2:20 |
 | 37 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 |
 | 38 | [Nikes](https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Nikes](https://open.spotify.com/album/5UHMgAgtfB9zgRdkOgq4MK) | 2:29 |
-| 39 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
+| 39 | [New Bottega](https://open.spotify.com/track/2Xy868PdXC7mV3Y9fRBSNz) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/405q3ZXJJum0c6ojdu6s2U) | 3:08 |
 | 40 | [Submarine](https://open.spotify.com/track/6cBRrVuaqVQ8WW6VDUHH9l) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Submarine](https://open.spotify.com/album/6ybEZk0qcfHki7HAcqUtcw) | 3:23 |
 
-Snapshot ID: `MTY3ODc0MzQzOSwwMDAwMDAwMGVjZTQ5MjAzMGI4ZDczZmU2ODA0YWViNzk1MDNhZWRj`
+Snapshot ID: `MTY3ODc0MzQzOSwwMDAwMDAwMGMyZGMzYzAzN2FiZDliZDZjYTk3MWVlZDkyYWUyYWU5`

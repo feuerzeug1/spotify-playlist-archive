@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-126 songs - 5 hr 39 min
+127 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Embrazando](https://open.spotify.com/track/5CfabusnRCoAHPYUheMg3u) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Embrazando](https://open.spotify.com/album/1ne6MMagaIhU433qxJOwts) | 2:41 | 2022-05-27 | 2022-10-15 |
 | [Então Senta](https://open.spotify.com/track/7enMVhTKpt0cIrkZpZ1Qlo) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [AninhaMc](https://open.spotify.com/artist/40d9fryIizWS435RsqdRQ5) | [Então Senta](https://open.spotify.com/album/6xDqfzWWeGXPRdGm7OtHB5) | 2:26 | 2022-03-18 | 2022-07-30 |
 | [Era Final](https://open.spotify.com/track/74i1NNwzsVYNwqXraf5s1N) | [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Era Final](https://open.spotify.com/album/5CSLeYNdPXUCBBBUzRoDpy) | 3:02 | 2022-09-23 |  |
+| [Essencia de Cria](https://open.spotify.com/track/7avCMEM4HFM5XRP1Fw0Nkk) | [Mc Carol Zn](https://open.spotify.com/artist/4nJfaSO2g2sQRJzzP2Oo3S), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Essencia de Cria](https://open.spotify.com/album/79Ws9dyTig8iL6Naxgdlgd) | 2:11 | 2023-03-17 |  |
 | [Facetime](https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Facetime](https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr) | 2:43 | 2022-03-18 |  |
 | [Fail](https://open.spotify.com/track/0GCWTSB5Wj04ZMQGswxkuU) | [Enibel](https://open.spotify.com/artist/7r0XN2WkKpDRqDu0wqzhrB) | [Fail](https://open.spotify.com/album/6Qt8h0qjPC3zK3yBXatORq) | 2:27 | 2022-03-18 |  |
 | [Faísca](https://open.spotify.com/track/4AUy9gxaNejktNYIFNJWRW) | [Jaquelivre](https://open.spotify.com/artist/6oglA3VW3IUQhRtFvE6oyD), [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW) | [Faísca](https://open.spotify.com/album/4ORKX07HIdDEbFoV4BaGZU) | 2:25 | 2022-03-18 |  |
@@ -81,7 +82,7 @@
 | [MEDITO E ME ACALMO](https://open.spotify.com/track/1qFKnOalXyNsfeABFGGQCi) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [DO LADO DE FLORA](https://open.spotify.com/album/0HyNbYtVf6qXJRqbdqO9Uk) | 2:43 | 2022-03-18 | 2022-07-29 |
 | [Medusa](https://open.spotify.com/track/2ycdoQS6a9dC33o0v3c1sx) | [Inked Mari](https://open.spotify.com/artist/2bQLU0aXvd4PY08qdTpeUJ) | [Medusa](https://open.spotify.com/album/2k5xtl0YyJVFomryO8MGBp) | 2:19 | 2022-03-18 | 2023-02-04 |
 | [Meia Nove](https://open.spotify.com/track/2Acp2ceOl3UEtdOqbZhR4M) | [Karla Eduarda](https://open.spotify.com/artist/3aOHEK1FMbgwRTTab4ZvNu), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Meia Nove](https://open.spotify.com/album/052UliwFtnf0RkIqDBDNGp) | 3:32 | 2023-03-10 |  |
-| [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/track/3MbztTv38jaodCxoFoVp2d) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Uirá Bueno](https://open.spotify.com/artist/3WR2JyTHBxXYftjNpZmrvA) | [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/album/6WzLu1wOWV39SGQisShEXn) | 2:40 | 2022-10-28 |  |
+| [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/track/3MbztTv38jaodCxoFoVp2d) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Uirá Bueno](https://open.spotify.com/artist/3WR2JyTHBxXYftjNpZmrvA) | [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/album/6WzLu1wOWV39SGQisShEXn) | 2:40 | 2022-10-28 | 2023-03-18 |
 | [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 | 2022-03-18 | 2023-02-11 |
 | [Moreno](https://open.spotify.com/track/7BA05JWlf0qQjtKF9stcWD) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Moreno](https://open.spotify.com/album/2s7D5gKh8Nvn1Euy1KsZh5) | 2:34 | 2022-06-03 | 2022-06-25 |
 | [N.S.D.P](https://open.spotify.com/track/4O4NvDr8ppUzTUcWv9ksnR) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [N.S.D.P](https://open.spotify.com/album/2wv99EMmienicc3M3fXeol) | 2:35 | 2022-03-18 | 2022-10-15 |

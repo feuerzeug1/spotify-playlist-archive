@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Soft Loft, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,367 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,373 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Is It Me](https://open.spotify.com/track/3HoWMvZthFR2Ymbm1YaSgh) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Is It Me](https://open.spotify.com/album/3I3vADoXrs50CCHvOtJ2f4) | 3:14 |
 | 2 | [i think i'm falling](https://open.spotify.com/track/0DGkQjBEzlaJi0ybfwa4Ou) | [the great stoyan duo](https://open.spotify.com/artist/2AADXTogH3ieTwhgU2XwfF) | [i think i'm falling](https://open.spotify.com/album/3JW0a2bfBcHUssDE6SdwTM) | 2:47 |
-| 3 | [Get You Back](https://open.spotify.com/track/47N1GiRMY3Ui84gKF9BMDj) | [Noayama](https://open.spotify.com/artist/2iBTkjABfiSsNwJZ2YiEPY), [Maassai](https://open.spotify.com/artist/2Sk415hwNp1WKbB5VMZeMu) | [Get You Back](https://open.spotify.com/album/0KT1zhe7CNjNE1GKTMXoUn) | 2:40 |
+| 3 | [Get You Back](https://open.spotify.com/track/47N1GiRMY3Ui84gKF9BMDj) | [Noayama](https://open.spotify.com/artist/2iBTkjABfiSsNwJZ2YiEPY), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV) | [Get You Back](https://open.spotify.com/album/0KT1zhe7CNjNE1GKTMXoUn) | 2:40 |
 | 4 | [Le Mirage \- Radio Edit](https://open.spotify.com/track/7J7NTqDAVuR1U5DqJTVWIX) | [Claus Casper](https://open.spotify.com/artist/1asQbSi83hmInBcUB9z6oi) | [Le Mirage](https://open.spotify.com/album/6CleMEXjLAINMhDZ19yU2F) | 4:00 |
 | 5 | [Nach Dir](https://open.spotify.com/track/5fJ23SU4FzhG6ZzgNYDav6) | [Emma\-Mo](https://open.spotify.com/artist/55DyEqKHqeEbyqIs8XJ6tJ) | [Nach Dir](https://open.spotify.com/album/708sbT6s42xtTTSw5yDszH) | 3:16 |
 | 6 | [Cover Up](https://open.spotify.com/track/6RPxb376CEUreRiEA86Xgj) | [Like Sundays](https://open.spotify.com/artist/0P3oMAIIWhsnEOnp4Bc6XA) | [Cover Up](https://open.spotify.com/album/2UeVgaoUSxQ4MF1aefQUe9) | 2:26 |

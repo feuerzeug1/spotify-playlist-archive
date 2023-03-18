@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 229248,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/5Ma7gdR26nKGwGPOVobufm"
@@ -3034,6 +3034,24 @@
       "duration_ms": 184053,
       "name": "Yo Soy la M\u00e1quina",
       "url": "https://open.spotify.com/track/4eq8fPmokjpFcMVpNLKwaI"
+    },
+    {
+      "album": {
+        "name": "\u00bfCu\u00e1l es tu norte?",
+        "url": "https://open.spotify.com/album/4jB9UpCufTpKqCKdhzliPz"
+      },
+      "artists": [
+        {
+          "name": "Piti Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264187,
+      "name": "\u00bfCu\u00e1l es tu norte?",
+      "url": "https://open.spotify.com/track/3rXelz3OropaCqcftAvS0d"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g"

@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Turf
 
-158 songs - 10 hr 1 min
+159 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Amor en Pandemia](https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Amor en Pandemia](https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ) | 2:47 | 2022-07-29 | 2023-03-11 |
 | [Ataque de Nervios](https://open.spotify.com/track/5ohwtgVYVXy9nOc7J9h5ab) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Ataque de Nervios](https://open.spotify.com/album/0oXboB0KtD8JPyMgY5SNYj) | 3:31 | 2022-06-24 | 2022-12-17 |
 | [Azúcar Impalpable](https://open.spotify.com/track/48nLgkR14oklsdfjN6wGsl) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [2020](https://open.spotify.com/album/1gYS9ESTHondssy51aBUPK) | 4:26 | 2022-06-24 |  |
-| [Bailando](https://open.spotify.com/track/5Ma7gdR26nKGwGPOVobufm) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [ADN \(Capítulo D\)](https://open.spotify.com/album/2AFeBZRa2auMfG0RDrbBu1) | 3:49 | 2022-06-24 |  |
+| [Bailando](https://open.spotify.com/track/5Ma7gdR26nKGwGPOVobufm) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [ADN \(Capítulo D\)](https://open.spotify.com/album/2AFeBZRa2auMfG0RDrbBu1) | 3:49 | 2022-06-24 | 2023-03-18 |
 | [Buena Pipa](https://open.spotify.com/track/2ZZA0roqjGg2TcZ4R1BNnA) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Pipa](https://open.spotify.com/album/6nmVCBzNjpor2ssPYl9C6P) | 4:08 | 2022-06-24 |  |
 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 | 2022-06-24 |  |
 | [Cabalgata Deportiva](https://open.spotify.com/track/0YY18uS5eRKnrYCOdc17Iu) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/7muhd0Y84UAOqkIYXFpLfd) | 4:47 | 2022-07-15 |  |
@@ -166,5 +166,6 @@
 | [Ya No Sos Igual](https://open.spotify.com/track/39fgFkCOgbTd4QfahwsPPT) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Ya No Sos Igual](https://open.spotify.com/album/0yTm9bRv0Ui1Q0iZoLqAWH) | 3:42 | 2022-11-02 |  |
 | [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/track/4Oojh7z0igJiloOBasoOUF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/album/5o4nzFZ1VSJoVlQeSxC3eB) | 4:14 | 2022-06-24 | 2022-07-30 |
 | [Yo Soy la Máquina](https://open.spotify.com/track/4eq8fPmokjpFcMVpNLKwaI) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Yo Soy la Máquina](https://open.spotify.com/album/1KgTB2iKxtvGWQ5EL97LDZ) | 3:04 | 2022-10-14 | 2023-03-04 |
+| [¿Cuál es tu norte?](https://open.spotify.com/track/3rXelz3OropaCqcftAvS0d) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [¿Cuál es tu norte?](https://open.spotify.com/album/4jB9UpCufTpKqCKdhzliPz) | 4:24 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

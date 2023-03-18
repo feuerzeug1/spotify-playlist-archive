@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-418 songs - 18 hr 46 min
+419 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [dont bother](https://open.spotify.com/track/5uWwgo9O3x4hHwA8Hdts6Q) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [dont bother](https://open.spotify.com/album/5Op8wi4ssBtLyoz3cGbinO) | 2:11 | 2023-01-13 |  |
 | [Dormant](https://open.spotify.com/track/5fOi6gHQnqBNwM37zupVgr) | [Bjänn](https://open.spotify.com/artist/21Q9pfmgNxjRd5q2O6eVQ9) | [Dormant](https://open.spotify.com/album/5r9MCvOcxCziejbRx7aUsq) | 2:28 | 2021-11-10 |  |
 | [Downtown](https://open.spotify.com/track/3k7nl2pz0LR25XRRDeSi6z) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Downtown](https://open.spotify.com/album/4lGrY9glvKimde5O26PJng) | 2:06 | 2021-11-10 | 2022-07-08 |
+| [Dreams](https://open.spotify.com/track/2dONTaX48SnM8X2zdV45iP) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Dreams](https://open.spotify.com/album/6GtgXEsCmrXRw3tADB4mxF) | 2:39 | 2023-03-17 |  |
 | [drift](https://open.spotify.com/track/0vvtzmmvWQRP9VmCoZBHxn) | [lola dreams](https://open.spotify.com/artist/5b2IjxR1EQiDcay0RSzgNY) | [drift](https://open.spotify.com/album/5ywDwMQPjZl3ixzfCZHVaG) | 2:34 | 2021-11-10 | 2022-07-08 |
 | [Drifting](https://open.spotify.com/track/157kvk58Qr04AiuDv2aQWd) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Drifting](https://open.spotify.com/album/1SOTUgM1yLfg7w6WqtoHcR) | 3:14 | 2021-11-10 | 2022-05-20 |
 | [dripp](https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [dripp](https://open.spotify.com/album/51XMKMY21TwNOv44FS4ZxR) | 2:14 | 2021-11-10 | 2022-09-02 |

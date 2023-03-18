@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "1973\u7684\u821e\u6703",
+        "url": "https://open.spotify.com/album/0rQvDSqY1lKYtYRN5OjtJK"
+      },
+      "artists": [
+        {
+          "name": "Byejack",
+          "url": "https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n"
+        },
+        {
+          "name": "Sabrina Cheung \u5f35\u8513\u838e",
+          "url": "https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207489,
+      "name": "1973\u7684\u821e\u6703",
+      "url": "https://open.spotify.com/track/77VQioAN4XNTQHRCY1bBmu"
+    },
+    {
+      "album": {
         "name": "1973\u7684\u8ecc\u8de1",
         "url": "https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T"
       },

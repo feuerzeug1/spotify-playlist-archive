@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 852785,
+  "num_followers": 853593,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODkxNDk5NywwMDAwMDAwMGFhMDQ4ZmNkMmEwNzBkMDNhNTdhMzc4ZmUyZmQ5Nzk1",
+  "snapshot_id": "MTY3ODk4NDcyOSwwMDAwMDAwMGZjZTIwMjEwNzRkZjJmY2FlOWIwNmJiZjkwMjYyOTI0",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6"
     },
     {
+      "added_at": "2023-03-16 16:38:49",
+      "album": {
+        "name": "Meshuggah",
+        "url": "https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 277986,
+      "name": "Meshuggah",
+      "url": "https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex"
+    },
+    {
       "added_at": "2023-03-06 15:37:43",
       "album": {
         "name": "Red Moon In Venus",
@@ -63,6 +79,22 @@
       "duration_ms": 212967,
       "name": "Moral Conscience",
       "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY"
+    },
+    {
+      "added_at": "2023-03-16 16:38:49",
+      "album": {
+        "name": "Inhale/Exhale",
+        "url": "https://open.spotify.com/album/1F5wCRXSsPo36sf5JSwQLh"
+      },
+      "artists": [
+        {
+          "name": "JUICEB\u262eX",
+          "url": "https://open.spotify.com/artist/6HIRyO3O2mbkdwih0Mi4vR"
+        }
+      ],
+      "duration_ms": 177087,
+      "name": "Inhale/Exhale",
+      "url": "https://open.spotify.com/track/3PpH5nVxqAFL6xqnVm3nRh"
     },
     {
       "added_at": "2023-03-07 16:25:44",
@@ -193,6 +225,22 @@
       "url": "https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM"
     },
     {
+      "added_at": "2023-03-16 16:38:49",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/7sHDo7EBwVqJXaXOYAIEhB"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/4RHjB7f6wc1mkIHno5bsNG"
+    },
+    {
       "added_at": "2023-01-27 22:29:52",
       "album": {
         "name": "Smalltown Stardust",
@@ -225,6 +273,26 @@
       "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
     },
     {
+      "added_at": "2023-03-16 16:38:49",
+      "album": {
+        "name": "Friends (feat. Tim Ayre)",
+        "url": "https://open.spotify.com/album/1XYpFKvCy2bL6XyuhAJKVl"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Tim Ayre",
+          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Friends (feat. Tim Ayre)",
+      "url": "https://open.spotify.com/track/0i4XXy3wOWpDHmFIO0jyTC"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Failed at Math(s)",
@@ -239,26 +307,6 @@
       "duration_ms": 160263,
       "name": "Failed at Math(s)",
       "url": "https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp"
-    },
-    {
-      "added_at": "2023-03-06 15:51:23",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 140556,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0"
     },
     {
       "added_at": "2023-03-06 15:29:49",
@@ -359,6 +407,26 @@
       "duration_ms": 173262,
       "name": "Best Disaster",
       "url": "https://open.spotify.com/track/6dmZu0IVmbT1rDIiYiRchg"
+    },
+    {
+      "added_at": "2023-03-06 15:51:23",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 140556,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0"
     },
     {
       "added_at": "2023-03-06 15:11:21",
@@ -741,22 +809,6 @@
       "url": "https://open.spotify.com/track/2UVykfcPnkjLfLQ9mSdx2A"
     },
     {
-      "added_at": "2023-03-06 15:11:21",
-      "album": {
-        "name": "Nettlebed Skyline",
-        "url": "https://open.spotify.com/album/61I5mpKyaENNlRlLw5O986"
-      },
-      "artists": [
-        {
-          "name": "Ronnie & Clyde",
-          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
-        }
-      ],
-      "duration_ms": 300999,
-      "name": "This Heart of Mine",
-      "url": "https://open.spotify.com/track/6EC0epWBuexiJYzfvRGVga"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Rosemary Hemphill",
@@ -771,6 +823,22 @@
       "duration_ms": 311282,
       "name": "Rosemary Hemphill",
       "url": "https://open.spotify.com/track/63FnpR9gIfFkpGMK2v6DAl"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Girl In The Half Pearl",
+        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 140880,
+      "name": "Heart Break Escape",
+      "url": "https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO"
     },
     {
       "added_at": "2023-02-22 20:24:05",
@@ -1237,22 +1305,6 @@
       "url": "https://open.spotify.com/track/4Okw5Im49vRlERn4KLMQkc"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Girl In The Half Pearl",
-        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 140880,
-      "name": "Heart Break Escape",
-      "url": "https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Jinx",
@@ -1541,22 +1593,6 @@
       "url": "https://open.spotify.com/track/6FDBakYPU96AegvThCmIJT"
     },
     {
-      "added_at": "2023-03-06 15:11:21",
-      "album": {
-        "name": "findaway",
-        "url": "https://open.spotify.com/album/1AgBCPzR1UbZKM2FxJKPAa"
-      },
-      "artists": [
-        {
-          "name": "Arlie",
-          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "findaway",
-      "url": "https://open.spotify.com/track/484pR4ygqRozOWewi1hA1Z"
-    },
-    {
       "added_at": "2023-02-22 20:24:05",
       "album": {
         "name": "Konami",
@@ -1587,26 +1623,6 @@
       "duration_ms": 174973,
       "name": "In Her Arms",
       "url": "https://open.spotify.com/track/5ZbBxrl5NBzZWtFkPNtNBt"
-    },
-    {
-      "added_at": "2023-02-22 20:24:05",
-      "album": {
-        "name": "Estamos Vivos (Radio Edit)",
-        "url": "https://open.spotify.com/album/4VpRC7H7K1pcCBrZ5uWs2W"
-      },
-      "artists": [
-        {
-          "name": "Attawalpa",
-          "url": "https://open.spotify.com/artist/6AJXEIjyYRMwjYNsRL3khD"
-        },
-        {
-          "name": "Misty Miller",
-          "url": "https://open.spotify.com/artist/2O4XS2arv9HMIKQUfl8LKU"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "Estamos Vivos - Radio Edit",
-      "url": "https://open.spotify.com/track/432FaDhIUzyBaSiY0cKjdw"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1655,22 +1671,6 @@
       "duration_ms": 178527,
       "name": "Be Yourself",
       "url": "https://open.spotify.com/track/2GV1Oif2Y3jDk380qfgsz8"
-    },
-    {
-      "added_at": "2023-01-27 22:29:52",
-      "album": {
-        "name": "LEE SCRATCH PERRY",
-        "url": "https://open.spotify.com/album/5WUd0Mxkj53YZtEcE9u088"
-      },
-      "artists": [
-        {
-          "name": "Moise",
-          "url": "https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA"
-        }
-      ],
-      "duration_ms": 131923,
-      "name": "LEE SCRATCH PERRY",
-      "url": "https://open.spotify.com/track/1xlS6gqviYYrU1YD61UCp2"
     },
     {
       "added_at": "2023-01-27 05:00:00",

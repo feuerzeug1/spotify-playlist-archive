@@ -4,13 +4,14 @@
 
 > Beta frequencies for increased concentration.
 
-66 songs - 3 hr 27 min
+67 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [199 Hz \- Beta Sinus](https://open.spotify.com/track/2RRbBXjwzhpvTVakO2s7nk) | [Healing Yoga Meditation Music Consort](https://open.spotify.com/artist/38PxQFwKE257tcBkgrr9lb), [Gentle Instrumental Music Paradise](https://open.spotify.com/artist/21XKjuPImIZ82r6lvJPvH5) | [Healing Yoga Meditation 128 Hz\-606 Hz: Solfeggio Bliss, Opening Chakras, Soothing Frequencies for Insomnia Cure, Chakra Relaxation](https://open.spotify.com/album/5pRaImzAiq5lEIsJZAu1hO) | 3:46 | 2022-09-06 |  |
 | [Appreciation \(Beta 105 Hz \- 121 Hz\)](https://open.spotify.com/track/7vrlLqv2HhIWT4Yhpu9byI) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Wonder Falls & Appreciation \(Binaural Beta\)](https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS) | 3:43 | 2023-01-13 |  |
 | [Beta Air 16 Hz](https://open.spotify.com/track/6nEcvyEGYkXNRhIjkVl1vT) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 2:54 | 2022-09-06 |  |
+| [Beta Ambience 92 + 96 hz](https://open.spotify.com/track/6s1OXyadYotrzBDzTjfyjY) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Binaural Beta Waves](https://open.spotify.com/album/2V2HmzfobUf8xqE7yPPcQ3) | 3:16 | 2023-03-16 |  |
 | [Beta Atmos](https://open.spotify.com/track/6o5yj52orwKaBw66O4t311) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 2:24 | 2022-09-06 |  |
 | [Beta Brainwave State](https://open.spotify.com/track/7zDu2bXHrl9ZMbTTBuvdyl) | [Noise Shapers](https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY) | [BINAURAL BEATS AND BRAIN WAVES](https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH) | 3:40 | 2022-09-06 | 2023-01-25 |
 | [Beta Drift 22 Hz](https://open.spotify.com/track/2XbdiWmGMsofgPwC7fo5Lx) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Drift](https://open.spotify.com/album/7s28ywx1Jtag67oWdFS4Gw) | 2:54 | 2022-11-23 |  |

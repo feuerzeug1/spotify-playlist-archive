@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-160 songs - 8 hr 30 min
+163 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [I've Got The Feeling](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC) | [Cymbal Dealers](https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje) | [I've Got The Feeling](https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1) | 2:31 | 2022-05-10 | 2023-03-10 |
 | [Ibittsa](https://open.spotify.com/track/6icxpvjxlKDbj62NO4Uq3F) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Ibittsa](https://open.spotify.com/album/6GVsl5RdQPKlGEvUYbETI9) | 3:57 | 2022-09-02 |  |
 | [in deep](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [in deep](https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih) | 2:37 | 2022-07-08 |  |
+| [Jungle](https://open.spotify.com/track/1bYYkgs2MnDgmKstwHmTCN) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Jungle](https://open.spotify.com/album/3gydl4PaR5RDJIirW4eARZ) | 2:08 | 2023-03-17 |  |
 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2022-09-09 |  |
 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 | 2022-09-28 |
 | [Keep Your Cool](https://open.spotify.com/track/2XRPJw4krhDLWjen7Z9wr0) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Keep Your Cool](https://open.spotify.com/album/0UuYZvNcoHQ6oBOkQKTpxW) | 3:19 | 2022-09-09 | 2023-03-10 |
@@ -119,6 +120,7 @@
 | [Play Day](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Play Day](https://open.spotify.com/album/0UKqrWV652dKSlLiF641a9) | 4:02 | 2021-11-11 |  |
 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 | 2022-04-05 | 2023-03-10 |
 | [Postcard Paradise](https://open.spotify.com/track/6OtM2h9IyexZg5nc5YBf5p) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Postcard Paradise](https://open.spotify.com/album/0JJmknG7C5fdWAKWxPPQPu) | 2:24 | 2021-11-11 |  |
+| [private pools](https://open.spotify.com/track/4TATsJQ6VyMwOZbZpogkdg) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [private pools](https://open.spotify.com/album/4YLzNqNYhLsW7AT2ZauogV) | 2:41 | 2023-03-17 |  |
 | [Pull Me Closer](https://open.spotify.com/track/7wuX42wC2VlCMtazUOJkX8) | [Pillow Kid](https://open.spotify.com/artist/3THB0bPkpqpRVoai1rmnVW) | [Pull Me Closer](https://open.spotify.com/album/52NRFkqvG68E13DZ6QSUfb) | 3:06 | 2021-11-11 |  |
 | [Pura Vida](https://open.spotify.com/track/4lMqdKJtrBGRLkif2MMjXe) | [TRE](https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK), [Julia Thomsen](https://open.spotify.com/artist/5r0183a5eBJthIj3EYtHnE) | [Pura Vida](https://open.spotify.com/album/2e6h8LOHJXlvZhYh5g0umK) | 3:10 | 2022-09-02 |  |
 | [Renaissance](https://open.spotify.com/track/0Ehgq0I49NC6FwpArofFdk) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Renaissance](https://open.spotify.com/album/2guusLpexyacviaKX9hMvv) | 4:00 | 2022-12-09 | 2023-03-10 |
@@ -155,6 +157,7 @@
 | [Time to Rest](https://open.spotify.com/track/2HfslpAapuq8I148nED63h) | [Oleg Kashchenko](https://open.spotify.com/artist/1JdC9tTyikddLX25acadfi) | [Time to Rest](https://open.spotify.com/album/0BXHAqw9kMh8MQtSZ9a2aq) | 2:12 | 2021-11-11 | 2022-05-20 |
 | [To Hold You](https://open.spotify.com/track/6d9REln2cJYL7KRRAbffUb) | [Sundancer Marquis](https://open.spotify.com/artist/6O3Pus00j8dR7bOWKUF02i) | [To Hold You](https://open.spotify.com/album/3W0WdtAqSsYcj5QnDvqEHn) | 3:40 | 2022-05-10 | 2022-07-01 |
 | [Together Potion](https://open.spotify.com/track/0tUqVTjY5gascy0deX6oPR) | [Pillow Kid](https://open.spotify.com/artist/3THB0bPkpqpRVoai1rmnVW) | [Dance Under the Apple Tree](https://open.spotify.com/album/6ChVuZYL7nL6u9Gatu5s5C) | 3:08 | 2021-11-11 |  |
+| [Torn](https://open.spotify.com/track/3XhyzrslQ0Nrm6RXegl520) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Torn](https://open.spotify.com/album/11GzkHPryPuxFEYlvIGW1k) | 2:24 | 2023-03-17 |  |
 | [Valencia Morning](https://open.spotify.com/track/2mziKTawLRhhnMbyQSQeRv) | [Hotel Plaza](https://open.spotify.com/artist/4NOvvsl3lAjFsZVFyetMMB) | [Midnight Salute](https://open.spotify.com/album/5FAu2PHY3zq0vnFTmG06VU) | 2:58 | 2022-01-21 |  |
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2021-11-11 | 2023-03-10 |
 | [Warm Winds](https://open.spotify.com/track/1EubxR3TjnZ8lRaUeEGUI8) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Warm Winds](https://open.spotify.com/album/4doPmHXFsoan270EY5wMoG) | 2:23 | 2023-02-03 |  |

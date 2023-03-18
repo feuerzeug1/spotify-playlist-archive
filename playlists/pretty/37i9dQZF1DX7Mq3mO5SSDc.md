@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,671 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,816 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 44 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
 | 45 | [Don't Believe The Hype](https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:19 |
 | 46 | [The Ruler's Back](https://open.spotify.com/track/3cb6gJ7SHYuZ3NVm996ffD) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 5:36 |
-| 47 | [Deeper](https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK) | [Boss](https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam's Greatest Hits \- Hardcore](https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR) | 4:01 |
-| 48 | [Daddy's Little Girl](https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8) | [Nikki D](https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb) | [Daddy's Little Girl](https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG) | 4:28 |
+| 47 | [Daddy's Little Girl](https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8) | [Nikki D](https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb) | [Daddy's Little Girl](https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG) | 4:28 |
+| 48 | [Deeper](https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK) | [Boss](https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam's Greatest Hits \- Hardcore](https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR) | 4:01 |
 | 49 | [Bring The Noise](https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 3:46 |
 | 50 | [Headbanger](https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [K\-Solo](https://open.spotify.com/artist/0knb2mXB2y0L44J05Nj6zX) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:51 |
 
-Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDEyNjdjNDM0Y2Q5MjNlOWIwMzkwZTEwZmYyYmVmNDU1`
+Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDQ1NjA3OTc0MzcxYzk0NjA5NzQ2YjljYjJmZWRhYzQx`

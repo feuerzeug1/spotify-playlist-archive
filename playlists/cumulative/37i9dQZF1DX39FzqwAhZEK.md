@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-333 songs - 16 hr 46 min
+335 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Glorious](https://open.spotify.com/track/1qNhGpEkB9Jh95qEx0GeXq) | [Ultimate Sleep](https://open.spotify.com/artist/7cyxs5oGazdrN6uuMZgf2N) | [Glorious](https://open.spotify.com/album/3RPXaPP3g4mnMaUrf2XSrf) | 2:34 | 2022-07-05 |  |
 | [Grateful](https://open.spotify.com/track/05iwmG7u1JEo0MMZ2XEoIq) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:11 | 2022-07-05 |  |
 | [Grateful Minds](https://open.spotify.com/track/1nwYsdWElwCywLZiY3J1g9) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [The Enlightened](https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE) | 2:47 | 2022-07-05 |  |
+| [Halcyon](https://open.spotify.com/track/5HzVqcoEmmgnhxtmmz1a56) | [Stephanie Hawk](https://open.spotify.com/artist/0JXsWES2h8yg0TKw7obalI) | [Droplets of Dreams](https://open.spotify.com/album/0iRfBFgAWo7mLLbp4eJzxg) | 2:57 | 2023-03-17 |  |
 | [Harmony](https://open.spotify.com/track/1LoSMWEPpmlqqM0vRdB9gv) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Harmony](https://open.spotify.com/album/6rsFfeuO56zebh3BbZGoQ1) | 2:39 | 2022-07-05 | 2023-03-10 |
 | [Harmony](https://open.spotify.com/track/1QOjjaBWJzxd4KLzVkGnL2) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Harmony](https://open.spotify.com/album/75rmL6hmaHE2mbXAo1gs7C) | 2:39 | 2022-07-05 | 2022-07-29 |
 | [Harvest](https://open.spotify.com/track/7AlHOgQGvfVRiXMY64pOyn) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Harvest](https://open.spotify.com/album/25LBaQA9rUHkIDoVQK3wje) | 2:42 | 2022-07-05 |  |
@@ -213,6 +214,7 @@
 | [Nimbus](https://open.spotify.com/track/7CqXFUnJ0CNTa9E7kfxxi9) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Nimbus](https://open.spotify.com/album/7rR8NSjSpQIAWtpiPT34wR) | 3:07 | 2022-07-05 | 2022-07-29 |
 | [North Pacific](https://open.spotify.com/track/1tdlUNqmOI0cPXR0Pg542F) | [Dusted Leaves](https://open.spotify.com/artist/2lafEMDMFf6veTCoXrZZko) | [North Pacific](https://open.spotify.com/album/3GnsKaRT4AR0ZMty732WIW) | 2:22 | 2022-07-05 | 2022-07-29 |
 | [North Pacific](https://open.spotify.com/track/7iZvjrLOS3r7UW7QNBZmuN) | [Dusted Leaves](https://open.spotify.com/artist/2lafEMDMFf6veTCoXrZZko) | [North Pacific](https://open.spotify.com/album/6kUfsqCUWLse0ndUxABWJm) | 2:22 | 2022-07-05 |  |
+| [Nothing else mattered](https://open.spotify.com/track/1LRjbCFrOBUQ9L1Ot4xuIO) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 2:42 | 2023-03-17 |  |
 | [Objective](https://open.spotify.com/track/5uxhwtFzJw9Uf2k3uBNXqT) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Objective](https://open.spotify.com/album/05szv55Mry9be4jhA2zs0D) | 1:43 | 2022-07-05 |  |
 | [Old Faro](https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Old Faro](https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH) | 3:09 | 2022-12-20 |  |
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2022-08-15 |  |

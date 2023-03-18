@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Cookiee Kawaii",
-  "num_followers": 43001,
+  "num_followers": 43381,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDc5MWNlOWM2ZDhlNWQzMjQ3NDE0Y2ViNDRmYzQwODFh",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDdkYTUyZTU1NTBjYmFiMmMxZjMyMjU4Nzc1MTI0OGJh",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "make it jump (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY"
       },
@@ -639,6 +619,50 @@
       "duration_ms": 184058,
       "name": "make it jump - Jersey Club Remix",
       "url": "https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Self Esteem (feat. NLE Choppa) [DJ Smallz 732 Jersey Club Remix]",
+        "url": "https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 89072,
+      "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
+      "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -711,30 +735,6 @@
       "duration_ms": 192949,
       "name": "Jersey Anniversary",
       "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Self Esteem (feat. NLE Choppa) [DJ Smallz 732 Jersey Club Remix]",
-        "url": "https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC"
-      },
-      "artists": [
-        {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 89072,
-      "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
-      "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "say im ur luv (Jumbo Sounds Remix)",
-        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "Jumbo Sounds",
-          "url": "https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq"
-        }
-      ],
-      "duration_ms": 137032,
-      "name": "say im ur luv - Jumbo Sounds Remix",
-      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Orange Soda (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
       },
@@ -951,18 +931,38 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Ziggy Reloaded II",
-        "url": "https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil"
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
       },
       "artists": [
         {
-          "name": "Ziggy",
-          "url": "https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG"
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
         }
       ],
-      "duration_ms": 102187,
-      "name": "Look Back It (Club Mix)",
-      "url": "https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa"
+      "duration_ms": 152593,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "say im ur luv (Jumbo Sounds Remix)",
+        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "Jumbo Sounds",
+          "url": "https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq"
+        }
+      ],
+      "duration_ms": 137032,
+      "name": "say im ur luv - Jumbo Sounds Remix",
+      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
     }
   ],
   "unique_name": "Jersey Club Heat",

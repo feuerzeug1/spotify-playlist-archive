@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 133793,
       "name": "A Waiting",
       "url": "https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7"
@@ -2040,6 +2040,24 @@
       "duration_ms": 181524,
       "name": "Memorising Breaths",
       "url": "https://open.spotify.com/track/5VO4Whju6O7GuB28o8yaFN"
+    },
+    {
+      "album": {
+        "name": "More Than Words",
+        "url": "https://open.spotify.com/album/7r1WSkRvU9PFPbV7iyK7HT"
+      },
+      "artists": [
+        {
+          "name": "Emeli Saga",
+          "url": "https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162424,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/4E22XbJSOj8T2Ua6ye19Cx"
     },
     {
       "album": {

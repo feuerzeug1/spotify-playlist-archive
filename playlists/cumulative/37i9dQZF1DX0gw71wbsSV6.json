@@ -248,8 +248,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177770,
-      "name": "Can We Do This? (feat. Sampha)",
+      "name": "Can We Do This?",
       "url": "https://open.spotify.com/track/5Tanr4u1BgG8I1Qth9o66M"
+    },
+    {
+      "album": {
+        "name": "Episode1 : Love",
+        "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295200,
+      "name": "CANADA",
+      "url": "https://open.spotify.com/track/4KV4xFENpJWR0kdSkDuoDc"
     },
     {
       "album": {
@@ -466,7 +484,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 280084,
       "name": "DOCUMENT",
       "url": "https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4"
@@ -692,7 +710,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 190435,
       "name": "Fell Asleep In Paradise",
       "url": "https://open.spotify.com/track/4smKBOIZWzkaNBH76wdlo2"
@@ -798,6 +816,24 @@
       "duration_ms": 183162,
       "name": "Found Me",
       "url": "https://open.spotify.com/track/7hz4cTpoK5N7u5I6UwPJ3r"
+    },
+    {
+      "album": {
+        "name": "French Movie",
+        "url": "https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb"
+      },
+      "artists": [
+        {
+          "name": "Bubble Tea and Cigarettes",
+          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "French Movie",
+      "url": "https://open.spotify.com/track/5neke7wAgH6BT43KoYgowg"
     },
     {
       "album": {
@@ -940,7 +976,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 320413,
       "name": "I can't seem to let you go",
       "url": "https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ"
@@ -976,7 +1012,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 214003,
       "name": "i love u",
       "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
@@ -1034,6 +1070,24 @@
       "duration_ms": 218273,
       "name": "June",
       "url": "https://open.spotify.com/track/038GKUaUj8NzPOy29kwPCq"
+    },
+    {
+      "album": {
+        "name": "just like you",
+        "url": "https://open.spotify.com/album/6KSYGpRBRafRV0jQh4oayC"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u5c0f\u6968",
+          "url": "https://open.spotify.com/artist/36nWYFJVxfbpEenzbQRPZr"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170734,
+      "name": "just like you",
+      "url": "https://open.spotify.com/track/41Rk18JqD8CbBcWM8VH0kk"
     },
     {
       "album": {
@@ -1238,7 +1292,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 176542,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj"
@@ -1368,7 +1422,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 203846,
       "name": "Neon wo Keshite",
       "url": "https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg"
@@ -1494,7 +1548,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -1674,7 +1728,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 173525,
       "name": "She's Got You",
       "url": "https://open.spotify.com/track/2vxA74DuID8LBkCr1nxJCo"
@@ -2098,7 +2152,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"

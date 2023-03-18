@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Placidity",
+        "url": "https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS"
+      },
+      "artists": [
+        {
+          "name": "Maddox JR",
+          "url": "https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "Nothing else mattered",
+      "url": "https://open.spotify.com/track/1LRjbCFrOBUQ9L1Ot4xuIO"
+    },
+    {
+      "album": {
         "name": "Nurture",
         "url": "https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC"
       },

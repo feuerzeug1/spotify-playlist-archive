@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 131200,
       "name": "Adventure Time",
       "url": "https://open.spotify.com/track/49qgo51BRqysyr1FdfGCi7"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 138527,
       "name": "Always",
       "url": "https://open.spotify.com/track/5TZNYj31M4fB79aYyHEJaz"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 111253,
       "name": "Aubade",
       "url": "https://open.spotify.com/track/3vDlW4JNICUAN27xLrYj08"
@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "El Jard\u00edn",
+        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "El Jard\u00edn",
+      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
+    },
+    {
+      "album": {
         "name": "Electro Lofi",
         "url": "https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG"
       },
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 128000,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/403bR4J4rNTf9H03KDMzFZ"
@@ -3117,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "in soft focus",
+        "url": "https://open.spotify.com/album/2CIJPBsMHx0LNW8BccodNN"
+      },
+      "artists": [
+        {
+          "name": "You're Good",
+          "url": "https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127546,
+      "name": "in soft focus",
+      "url": "https://open.spotify.com/track/0glnbDMV9T38Iy5d6xhB74"
+    },
+    {
+      "album": {
         "name": "Indigo Rum - Ambience",
         "url": "https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM"
       },
@@ -3244,6 +3280,24 @@
       "duration_ms": 130116,
       "name": "Jet Set Go!",
       "url": "https://open.spotify.com/track/6Ocoe8TY2ZMUZ6GqRdyPMs"
+    },
+    {
+      "album": {
+        "name": "Jump Start",
+        "url": "https://open.spotify.com/album/3VvPUtS4kbJNgw3HxMXNen"
+      },
+      "artists": [
+        {
+          "name": "Helk",
+          "url": "https://open.spotify.com/artist/0G5GYUYMakCbFYHOwRocQZ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "Jump Start",
+      "url": "https://open.spotify.com/track/1pfl7JwByN6hfxgkJ7XHy6"
     },
     {
       "album": {
@@ -4496,7 +4550,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 115434,
       "name": "moss",
       "url": "https://open.spotify.com/track/0O33Eb3LtTPdqwNOfJIyOR"
@@ -5067,6 +5121,24 @@
     },
     {
       "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/2nKtq2OE8jM8xmiAsgw44k"
+      },
+      "artists": [
+        {
+          "name": "Blue Wednesday",
+          "url": "https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184940,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/3jwiD3PrS9xU6XjpLf9Qq7"
+    },
+    {
+      "album": {
         "name": "Pacific Ave",
         "url": "https://open.spotify.com/album/0N8NoIShc8iKKuLeaIEeEc"
       },
@@ -5338,7 +5410,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 164874,
       "name": "Poppy Field",
       "url": "https://open.spotify.com/track/26PQ7EGKWIGGO7BmWFqBBZ"

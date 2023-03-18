@@ -23,6 +23,54 @@
     },
     {
       "album": {
+        "name": "Ain't That Peculiar",
+        "url": "https://open.spotify.com/album/6U738c9gfAe86tm5ALKMKw"
+      },
+      "artists": [
+        {
+          "name": "David Lee Roth",
+          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298933,
+      "name": "Ain't That Peculiar",
+      "url": "https://open.spotify.com/track/2FGtOvZjoEtYGdHU3EB9Yy"
+    },
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1CNvsKCyvEW8X3rlLyx31L"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243057,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/7G1Y5i1Hc4uUm57dqz7pAd"
+    },
+    {
+      "album": {
         "name": "Bad Man (Kordhell Remix)",
         "url": "https://open.spotify.com/album/5Wba2K5Jx1RopwbFp07GRE"
       },
@@ -89,6 +137,24 @@
     },
     {
       "album": {
+        "name": "Big Big Love",
+        "url": "https://open.spotify.com/album/7wtRSJjjEdOxlZ0gn7MK7y"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226488,
+      "name": "Big Big Love",
+      "url": "https://open.spotify.com/track/1bKccVkVv8Fww7g47ecGKA"
+    },
+    {
+      "album": {
         "name": "Blockers",
         "url": "https://open.spotify.com/album/3SAMfYFNy5KdTxY75GWxFu"
       },
@@ -134,6 +200,24 @@
       "duration_ms": 229713,
       "name": "Born Under a Bad Sign",
       "url": "https://open.spotify.com/track/522tcgMzZbXPIgOXh8yLtr"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194227,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR"
     },
     {
       "album": {
@@ -204,7 +288,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 151578,
       "name": "Corona Flow",
       "url": "https://open.spotify.com/track/2TH9MV3CeqqempxwPL63Jq"
@@ -240,7 +324,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 326920,
       "name": "Cut from the Stars",
       "url": "https://open.spotify.com/track/3zqQQos627x2yRoTGKkLoI"
@@ -306,6 +390,24 @@
       "duration_ms": 259959,
       "name": "Don't Make Me Wait Too Long",
       "url": "https://open.spotify.com/track/15jvnkbAds2k7msv2gRYK1"
+    },
+    {
+      "album": {
+        "name": "Duvet",
+        "url": "https://open.spotify.com/album/1Pui3ok2FUI74QId9sdmNY"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182792,
+      "name": "Duvet - Sped Up Version",
+      "url": "https://open.spotify.com/track/0wEeW8Bwr0fHXuS2zLiDXk"
     },
     {
       "album": {
@@ -393,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Eventide",
+        "url": "https://open.spotify.com/album/2ib7EVPNqDdFJ4eTSnixWT"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254786,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/58BQfYtMoTPUK8uZzobH40"
+    },
+    {
+      "album": {
         "name": "Fathomless Maw",
         "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
       },
@@ -404,7 +524,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 205058,
       "name": "Fathomless Maw",
       "url": "https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM"
@@ -560,7 +680,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 188226,
       "name": "Here Comes the Sun - Acoustic",
       "url": "https://open.spotify.com/track/41cpdd5Hvy577Ta7HV8FuV"
@@ -698,7 +818,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 396293,
       "name": "If Darkness Had a Son",
       "url": "https://open.spotify.com/track/1DrRFignz0xbQBSlBQrJL9"
@@ -889,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Suffer in Heaven",
+        "url": "https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246902,
+      "name": "Leave with Us",
+      "url": "https://open.spotify.com/track/6vISeiy314wRogXfO6dFiu"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH"
       },
@@ -904,6 +1042,54 @@
       "duration_ms": 230002,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s Dance (40th Anniversary Remix E.P.)",
+        "url": "https://open.spotify.com/album/1rh2gXfmFr7pNrOW0s6rIB"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245806,
+      "name": "Let's Dance - Honey Dijon Moonlight Remix",
+      "url": "https://open.spotify.com/track/34Jr2hq5GW13cw8KbUUMy9"
+    },
+    {
+      "album": {
+        "name": "Light My Fire",
+        "url": "https://open.spotify.com/album/0SK7foo6OK5lDccWipergM"
+      },
+      "artists": [
+        {
+          "name": "LM.ORG",
+          "url": "https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW"
+        },
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "Nice Natives",
+          "url": "https://open.spotify.com/artist/6f5R3djkODYQdTmYoRRZsP"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180351,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/0uXglUjIGtNwfiZH9VAuvX"
     },
     {
       "album": {
@@ -1044,7 +1230,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 316899,
       "name": "My Cosmos Is Mine",
       "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
@@ -1066,6 +1252,42 @@
       "duration_ms": 213111,
       "name": "Natural Thing - Live",
       "url": "https://open.spotify.com/track/051nhFAF8tpcb7DduLxtTn"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353946,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
+    },
+    {
+      "album": {
+        "name": "Open Invitation",
+        "url": "https://open.spotify.com/album/052eFU5kSqIG2JXAXXCu9V"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247725,
+      "name": "Open Invitation",
+      "url": "https://open.spotify.com/track/0qVl3SrtFfv2rPzgk2FYN3"
     },
     {
       "album": {
@@ -1142,7 +1364,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 343284,
       "name": "Pretty Boy - Robert Smith Remix",
       "url": "https://open.spotify.com/track/4kZFWjJaG0MPKzzT8MMsn9"
@@ -1215,6 +1437,42 @@
     },
     {
       "album": {
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/2fYE7q0uF7oiJHTspqThqR"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/4T7Vu4pG8Iz4CRTyLRZMk6"
+    },
+    {
+      "album": {
+        "name": "Rey",
+        "url": "https://open.spotify.com/album/5IMv5sPdSP7leaSaehgacp"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223340,
+      "name": "Rey",
+      "url": "https://open.spotify.com/track/3rS6pLKhoZ8m0Z5vqgoCfc"
+    },
+    {
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/7EqVVPEGA3fpoLhNaafNaP"
       },
@@ -1270,6 +1528,54 @@
       "duration_ms": 696840,
       "name": "Rock Bottom - Live",
       "url": "https://open.spotify.com/track/4fLGVRfXjCmJ6Yoiy4NUrL"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/0t77IVjZUoXXovz94eHi8i"
+      },
+      "artists": [
+        {
+          "name": "Flannan",
+          "url": "https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ"
+        },
+        {
+          "name": "HIM",
+          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+        },
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET"
+        },
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/23dzByFE2OPjihb9FSy8L4"
+    },
+    {
+      "album": {
+        "name": "Begin The Dance (Live 1988)",
+        "url": "https://open.spotify.com/album/6HG3ZH0opwhCZcby8Y2o8v"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263436,
+      "name": "Serpentine Fire - Live 1988",
+      "url": "https://open.spotify.com/track/13IiVwF2esTIroFFrD1cPC"
     },
     {
       "album": {
@@ -1360,7 +1666,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 228280,
       "name": "Sostenibile",
       "url": "https://open.spotify.com/track/6wfqbUgJZ6YfNATUrntv6f"
@@ -1474,6 +1780,24 @@
       "duration_ms": 533333,
       "name": "Symphony No. 4 In F Minor, Op. 36, TH.27: 4. Finale (Allegro con fuoco)",
       "url": "https://open.spotify.com/track/6ubHw8dLBSY9znTNuUu9Pk"
+    },
+    {
+      "album": {
+        "name": "Take the World Apart",
+        "url": "https://open.spotify.com/album/3rXiySdCNMOD2mB55SpNUd"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Take the World Apart",
+      "url": "https://open.spotify.com/track/4qqUsutDnU3ZSZbZiLrzNB"
     },
     {
       "album": {
@@ -1655,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Time (edit - 2023 Master)",
+        "url": "https://open.spotify.com/album/0p4pqqmiJEc9hXTIjfJtKa"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "Time - edit - 2023 Master",
+      "url": "https://open.spotify.com/track/4PP3qyBdHkEDfrP1ucHabB"
+    },
+    {
+      "album": {
         "name": "BETWEEN DREAD AND VALOR",
         "url": "https://open.spotify.com/album/3SmknD92qODVEs7owlhTgI"
       },
@@ -1666,7 +2008,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 335133,
       "name": "TIME WILL TELL",
       "url": "https://open.spotify.com/track/0xAhhpHyHUs5FVP7Nd2P5k"
@@ -1722,9 +2064,31 @@
           "url": "https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy"
         }
       ],
-      "date_added": "2023-03-03",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 121733,
+      "name": "Trio No. 2 'Reveille': I. Meadow Lane",
+      "url": "https://open.spotify.com/track/1pfRJWo000HNMZRRHTihQD"
+    },
+    {
+      "album": {
+        "name": "In Celebration: The Piano Trios of Stanley Silverman",
+        "url": "https://open.spotify.com/album/5EG7zLDM8bFjyvddqYMrqJ"
+      },
+      "artists": [
+        {
+          "name": "Stanley Silverman",
+          "url": "https://open.spotify.com/artist/2TvPBulHtfwAkQUDyc7JQW"
+        },
+        {
+          "name": "Kalichstein-Laredo-Robinson Trio",
+          "url": "https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
       "duration_ms": 141973,
       "name": "Trio No. 2 'Reveille': Ii. Prelude to Guajira y Fuga",
       "url": "https://open.spotify.com/track/3qYo08xufG1Zf78XcDfaJ2"
@@ -1786,10 +2150,36 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 232591,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/3R7uI90ItvU0sKeWJnrnRj"
+    },
+    {
+      "album": {
+        "name": "Unreleased (Demo)",
+        "url": "https://open.spotify.com/album/44Fyqh7lEJo7BQ9rN7cx8d"
+      },
+      "artists": [
+        {
+          "name": "2Mex",
+          "url": "https://open.spotify.com/artist/49CSwy5keHWbZjeUrWyBmx"
+        },
+        {
+          "name": "The Visionaries",
+          "url": "https://open.spotify.com/artist/2yHHRhRqiHSTHRiUKYGAsj"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280973,
+      "name": "Unreleased - Demo",
+      "url": "https://open.spotify.com/track/2Xh7zzEWP2LCvKwqdFCSk6"
     },
     {
       "album": {
@@ -1815,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "War Machine / Creatures Of The Night (Live In Poughkeepsie / 1984)",
+        "url": "https://open.spotify.com/album/1U3yjfYHOCQYwixpj1LaQi"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254866,
+      "name": "War Machine - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
+      "url": "https://open.spotify.com/track/4TGGes67WpoOdBmVTPJG7Z"
+    },
+    {
+      "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/2W4NkH2Npc7R15vaOVKve1"
       },
@@ -1834,6 +2242,24 @@
       "duration_ms": 206875,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/6o7hRe4cXjf4cAF1q41b1J"
+    },
+    {
+      "album": {
+        "name": "Watch Me Burn",
+        "url": "https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218722,
+      "name": "Watch Me Burn",
+      "url": "https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p"
     },
     {
       "album": {
@@ -1877,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "Wicked Place",
+        "url": "https://open.spotify.com/album/4ZVuN0AfvqrZCUWv5tyScu"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300906,
+      "name": "Wicked Place",
+      "url": "https://open.spotify.com/track/6hwEpA4b1XmlLv4x7TksbV"
+    },
+    {
+      "album": {
         "name": "BETWEEN DREAD AND VALOR",
         "url": "https://open.spotify.com/album/3SmknD92qODVEs7owlhTgI"
       },
@@ -1888,7 +2332,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 288200,
       "name": "WITH PRIDE",
       "url": "https://open.spotify.com/track/3VA8C7ViDQnDJxrscnW1ea"

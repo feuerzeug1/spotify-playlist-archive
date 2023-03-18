@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 斉藤朱夏\(Shuka Saito\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,872 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,876 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 34 | [Glorious World](https://open.spotify.com/track/4WubGHh5wpK1781749ZRvu) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Glorious World](https://open.spotify.com/album/3kc1IWeGVtouG2Ed0ri8Up) | 4:14 |
 | 35 | [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 |
 | 36 | [Meitei \- Special Ver.](https://open.spotify.com/track/0gHw13eiCZmVpx316gi4B9) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Meitei \(Special Ver.\)](https://open.spotify.com/album/6rI4zRU8isqVVCETurwbNl) | 4:27 |
-| 37 | [My Tale](https://open.spotify.com/track/6wWKDglEzL9JfiTnJmOSeo) | [Yoshino Aoyama](https://open.spotify.com/artist/41AMM7nACzTXN8OCVTsFvP) | [My Tale](https://open.spotify.com/album/4CtOKxZsZXOWBHbJjnLoWT) | 4:19 |
+| 37 | [My Tale](https://open.spotify.com/track/6wWKDglEzL9JfiTnJmOSeo) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [My Tale](https://open.spotify.com/album/4CtOKxZsZXOWBHbJjnLoWT) | 4:19 |
 | 38 | [希望の渦](https://open.spotify.com/track/1ggdQQIOqPkm2TP9UEIKTg) | [Hiroshi Kamiya](https://open.spotify.com/artist/3vf0sytS69HHOURI4Ze3gD) | [appside](https://open.spotify.com/album/4Z4kkAn5NioiF0xl7aCroa) | 3:39 |
 | 39 | [Love∞Vision](https://open.spotify.com/track/4zABCBtoO0kkvHP31z06AH) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Love∞Vision](https://open.spotify.com/album/3h0iC3RBgWeY02PW8QBleX) | 3:48 |
 | 40 | [集結の果てに](https://open.spotify.com/track/41ChAWF2xtTY27QzeLVpns) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [集結の果てに](https://open.spotify.com/album/7f3CzXWceuQ4UEoEmXE1Xa) | 3:58 |

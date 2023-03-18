@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/2W3m6rjaEfw1sQ6fR6nuYc"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/3iSPa1byIatby865yq5GwD"
+    },
+    {
+      "album": {
         "name": "Waje 2.0",
         "url": "https://open.spotify.com/album/6Nob3kE5M2ZpgsIoIjRJnH"
       },

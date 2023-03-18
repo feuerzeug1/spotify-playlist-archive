@@ -428,7 +428,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 384866,
       "name": "Goydiotodam",
       "url": "https://open.spotify.com/track/2fqcpLdEA1wVrL3mGNQ32v"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 219480,
       "name": "Hilly Yoro",
       "url": "https://open.spotify.com/track/3eeuqMWGPDgKVdH0WzEGzO"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 267372,
       "name": "Kombo Galia",
       "url": "https://open.spotify.com/track/05cF4pOa6TdLPG153zWJif"
@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/0ypEcB9ug8CUMUcVw4xRa9"
+    },
+    {
+      "album": {
         "name": "Cherie (feat. Oumou Sangar\u00e9)",
         "url": "https://open.spotify.com/album/5Wwjx8vMkSFPNzxF7wZ35R"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 348760,
       "name": "Safari",
       "url": "https://open.spotify.com/track/3Y4UX2YxkMorsW5yDVvuoi"

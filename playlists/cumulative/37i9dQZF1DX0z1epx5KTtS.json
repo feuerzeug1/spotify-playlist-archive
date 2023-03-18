@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Serge Beynaud",
+  "description": "African dance party music from Paris to Abidjan. Photo : Fanicko",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Goumin",
+        "url": "https://open.spotify.com/album/5DjZoE8Z7xV2VWaDTvKBRr"
+      },
+      "artists": [
+        {
+          "name": "Fanicko",
+          "url": "https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232933,
+      "name": "Goumin",
+      "url": "https://open.spotify.com/track/0s8ImFfo5vmtAnGDo426ZV"
+    },
+    {
+      "album": {
         "name": "Hippy Dance",
         "url": "https://open.spotify.com/album/5YG6ZxsQMr7w9Mt2JJRUSR"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 247058,
       "name": "Le Beau des beaux",
       "url": "https://open.spotify.com/track/2T5E3D3TLTJS50VNNqkZJf"

@@ -1,12 +1,12 @@
 {
   "description": "01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100",
-  "num_followers": 145313,
+  "num_followers": 145876,
   "original_name": "metaverses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI2NjA4NCwwMDAwMDAwMGQzZGY0MzdhMWEwNDkxMTBlZGNjY2MyZmIyNzM5MmVi",
+  "snapshot_id": "MTY3NTI2NjA4NCwwMDAwMDAwMDQwOWFjNDMzMDNlNzU2OWM5ODk2OWQxMDliYjZmYTA4",
   "tracks": [
     {
       "added_at": "2022-12-20 18:28:30",
@@ -832,9 +832,13 @@
       "added_at": "2022-12-20 18:28:30",
       "album": {
         "name": "Ocean Death",
-        "url": "https://open.spotify.com/album/4iU3Ro1wRrnZ1lfOIrV4jG"
+        "url": "https://open.spotify.com/album/5wE7sv4eXjQ3vHGl8FROG0"
       },
       "artists": [
+        {
+          "name": "Will Wiesenfeld",
+          "url": "https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm"
+        },
         {
           "name": "Baths",
           "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
@@ -842,7 +846,7 @@
       ],
       "duration_ms": 329923,
       "name": "Ocean Death",
-      "url": "https://open.spotify.com/track/2CPeOsbTPnJibSwVo3zLrz"
+      "url": "https://open.spotify.com/track/4nEJ4O435WvJvgZKdOPWMM"
     },
     {
       "added_at": "2022-12-20 18:28:30",

@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-519 songs - 19 hr 57 min
+524 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Anubi](https://open.spotify.com/track/0cU8gpCcNiExEN7Vr2xv9c) | [DNH Missile](https://open.spotify.com/artist/1TLVJpSimMMm35fNj4x0lO) | [Anubi](https://open.spotify.com/album/48xyLuyOMnWyrfatEfSQSG) | 2:20 | 2022-07-29 | 2022-08-12 |
 | [Anxiety](https://open.spotify.com/track/3m8wuUjISsZykLLU1sYjpK) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [Anxiety](https://open.spotify.com/album/1EzUO0EcK9fEJqRm8maQy6) | 1:50 | 2022-09-30 | 2023-01-20 |
 | [Apricity](https://open.spotify.com/track/0PjiayxpzllsV5VsOLRaQM) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Apricity](https://open.spotify.com/album/06lCTdkWrqXcW6x2N67ZQh) | 2:32 | 2022-08-12 |  |
+| [arcade](https://open.spotify.com/track/4ZymE7jNv6VRPHdhL1OYIf) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [arcade](https://open.spotify.com/album/6ATjRptrFPrGkGsCn7CoT9) | 1:48 | 2023-03-16 |  |
 | [Artifact](https://open.spotify.com/track/0fZ0xr4utWdReyvnCpG99B) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Artifact](https://open.spotify.com/album/21Z8K7bbSZnLKRG7NHoZxb) | 1:34 | 2022-06-17 | 2022-07-08 |
 | [As a Friend](https://open.spotify.com/track/30rfKLLYkq4OtrRWTYAu2c) | [Eamon Lee](https://open.spotify.com/artist/48L5RaQhOrbyJQg3ZC0lo9) | [Real Down Tropical](https://open.spotify.com/album/3xEqVBh6H0vw0HBXOloHvu) | 1:59 | 2022-05-20 |  |
 | [Astral](https://open.spotify.com/track/3HJ6JN74qPgFyC396Qhxou) | [Amesyt](https://open.spotify.com/artist/1JL3JvqNgLxd2S0q5m29Ei), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Astral](https://open.spotify.com/album/3qbkBSdvA8JMGmL3Db1eDM) | 1:49 | 2022-10-07 |  |
@@ -54,6 +55,7 @@
 | [Bubbles](https://open.spotify.com/track/3UDUeYx5vjNulJcI3oyPcy) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Bubbles](https://open.spotify.com/album/0VJADMCJGj7wotL6bVCNon) | 2:50 | 2022-11-11 |  |
 | [c l o u d s](https://open.spotify.com/track/5UQmnekarryIltRWtE3rys) | [Colens](https://open.spotify.com/artist/4l1PTmvLhCof1Px22Ph189) | [c l o u d s](https://open.spotify.com/album/4Cjd7F86ns6WnLdfgHHxqT) | 2:30 | 2022-09-02 |  |
 | [Cabin House](https://open.spotify.com/track/67deXf90gwZw4QeAWHiylh) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Cabin House \(Lofi Hip Hop\)](https://open.spotify.com/album/6BXMZHSTUqvCYdCS8WOGHy) | 3:04 | 2022-05-20 | 2022-08-12 |
+| [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 | 2023-03-16 |  |
 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 | 2023-02-20 |  |
 | [cardemom](https://open.spotify.com/track/72zJvhH4TtIiLhqf0MLcH0) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [cardemom](https://open.spotify.com/album/7xdsI2tMfxROavLukCqiRe) | 2:16 | 2023-02-06 |  |
 | [Care For Lads](https://open.spotify.com/track/6RfxKL8zlBXG1Up4wNlLwz) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Care For Lads](https://open.spotify.com/album/5zb3DkfoA7QUTT98faoJ2d) | 2:51 | 2022-07-01 |  |
@@ -156,6 +158,7 @@
 | [Flower Garden](https://open.spotify.com/track/493sWup0yoc0poKRS3nfhh) | [Foam](https://open.spotify.com/artist/4mVfOMuxawunYMWOWYXeFO), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Flower Garden](https://open.spotify.com/album/6AVYFYL2PxduWuQpk7HFZV) | 3:00 | 2022-05-20 | 2022-12-24 |
 | [Flowery Fields](https://open.spotify.com/track/3QXvzHED2QRdg6ZH3BNN0k) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl), [srnioh](https://open.spotify.com/artist/73YeuiHEyTRF6f5SBsSrX5) | [vivid colours](https://open.spotify.com/album/5Lyu0ryhoen4QvtoZPoOOL) | 2:04 | 2022-11-11 |  |
 | [flying lotus](https://open.spotify.com/track/0VvEj7tPrwPVcR9R8qhnGS) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [flying lotus](https://open.spotify.com/album/58nqw46a5pxEeu12e8VYF7) | 2:03 | 2022-10-28 |  |
+| [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 | 2023-03-16 |  |
 | [Forest Memory Lane](https://open.spotify.com/track/61HeqRWvgabq8YaGNqWW7N) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Forest Memory Lane](https://open.spotify.com/album/0XAQVEl63yF0BJdqEmS0iF) | 1:20 | 2022-06-24 | 2022-07-15 |
 | [Forestfire](https://open.spotify.com/track/63WlzhPsPJZbUoQkNYPC0r) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Forestfire](https://open.spotify.com/album/0Q8h75JOwbfoyCXD9axYbj) | 2:06 | 2022-09-23 |  |
 | [forever](https://open.spotify.com/track/5c03VAk1Eq94vLnRhmSPvW) | [someday](https://open.spotify.com/artist/5qXb2k1THc04mE2x1QGxlv) | [forever](https://open.spotify.com/album/3H0jHDfAPz7VZTMXEoqGOg) | 2:12 | 2022-06-24 |  |
@@ -198,6 +201,7 @@
 | [i feel warmer already](https://open.spotify.com/track/4naRK23E2oxlBnzyWG4zG2) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [i feel warmer already](https://open.spotify.com/album/55EXWcA8fgtpAJ9Jn7hwTu) | 2:30 | 2022-07-01 |  |
 | [i find rest](https://open.spotify.com/track/2V6RMsygtfY43PK0wr7xDy) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi), [Pournelle](https://open.spotify.com/artist/6FxJwwDnwtpwxraVBHFUbf) | [i find rest](https://open.spotify.com/album/4JnzJwN8NDGOAh795CqdoC) | 3:18 | 2022-10-28 |  |
 | [I Had A Dream](https://open.spotify.com/track/71w5HJy5riFnqgJcoHWNxX) | [sad.exe](https://open.spotify.com/artist/58nBLRzz5Y98DvumyLq7dP) | [I Had A Dream](https://open.spotify.com/album/1ZddJ0LoC7OUAPPIfjV2hK) | 1:56 | 2023-01-20 |  |
+| [I Think That’s Cute](https://open.spotify.com/track/65jmXQMrKefk2FoLfAQNXx) | [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ) | [I Think That’s Cute](https://open.spotify.com/album/7MroOGuzfzYB2Rl1q1dU1h) | 1:55 | 2023-03-16 |  |
 | [i think too much](https://open.spotify.com/track/1J2tOOXixJKDockYnLcwQQ) | [Deadfeelings](https://open.spotify.com/artist/5aRO2iw7uacx6dRzJqIMJU) | [in doubt](https://open.spotify.com/album/4M8Rhg22fTc7QEQdBQcZtR) | 3:14 | 2022-05-20 | 2022-07-08 |
 | [i wish i knew](https://open.spotify.com/track/2TwDOKYmuwe6TUIFvDvirX) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:38 | 2022-12-16 |  |
 | [I Wish This Moment Would Last Forever](https://open.spotify.com/track/0XZ8ObL5mJEhZ1rFtYnr9t) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze) | [I Wish This Moment Would Last Forever](https://open.spotify.com/album/3Jt25auRVCfhoqo8JhTvMl) | 2:18 | 2022-05-20 | 2022-09-30 |
@@ -481,6 +485,7 @@
 | [There For You](https://open.spotify.com/track/1Njph3Vzifxj9kUmBDRNZI) | [Mildred](https://open.spotify.com/artist/3Z4AQ0MlP04v8w7vjEDnS4) | [There For You](https://open.spotify.com/album/3lJgMWnaOnhADnd3OXaxOT) | 1:48 | 2022-08-19 | 2022-10-14 |
 | [things will get easier](https://open.spotify.com/track/5vBs5CbT4Vl9Hji88GpXJy) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi), [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [things will get easier](https://open.spotify.com/album/7JMc21cwjvArh0QrFhCEAG) | 1:57 | 2022-08-05 | 2022-08-12 |
 | [Think About You](https://open.spotify.com/track/3QWQmWDDuuesrq7hyu4aMl) | [Chill Station](https://open.spotify.com/artist/1FPxSBB6vJ21iKzCblbl1u), [Dream Store](https://open.spotify.com/artist/6s9fDZLCgzVLAwWgEFvV5I), [Lofi Station](https://open.spotify.com/artist/5nulk4ccgCnlCYsDLGXNwY) | [Think About You](https://open.spotify.com/album/3eHskmxVGHs4H77DZ6KiIa) | 2:08 | 2022-05-20 | 2023-01-20 |
+| [this dark night](https://open.spotify.com/track/1YXQWnmPPNjH3f8g32Pw2g) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [this dark night](https://open.spotify.com/album/4ERGLrI1n5VDhUIaRdYo3P) | 2:38 | 2023-03-16 |  |
 | [this time tomorrow](https://open.spotify.com/track/4EdPx7Kj577TIHT3eCLfNX) | [after noon](https://open.spotify.com/artist/23ZyvK3IS7xXY1COP8KiRW), [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n) | [This time tomorrow](https://open.spotify.com/album/61nxSpoJMsnYS7dSgpdSbb) | 2:28 | 2022-10-28 |  |
 | [Thrilling Dreams](https://open.spotify.com/track/10VTqAxrLyix1U0135BT0a) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Thrilling Dreams](https://open.spotify.com/album/6VYlqmwuW5Tal9EcUwIyCU) | 2:08 | 2022-05-20 |  |
 | [Through My Window](https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt) | [day zee](https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L) | [Through My Window](https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3) | 2:30 | 2022-11-18 |  |

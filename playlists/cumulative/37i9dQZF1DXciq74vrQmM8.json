@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. delilah bon",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. chelji",
   "name": "misfits 2.0",
   "tracks": [
+    {
+      "album": {
+        "name": "18+",
+        "url": "https://open.spotify.com/album/6oveIE1VtjcawBs2UlM3Mn"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193492,
+      "name": "18+",
+      "url": "https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs"
+    },
     {
       "album": {
         "name": "EAT IT UP SPIT IT OUT",
@@ -2205,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137440,
+      "name": "Dumbest Girl Alive",
+      "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
+    },
+    {
+      "album": {
         "name": "Dutch Courage",
         "url": "https://open.spotify.com/album/30kaWVTwGdetGhUqlbv04p"
       },
@@ -3611,7 +3647,7 @@
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187373,
+      "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
     },
@@ -4740,7 +4776,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 155342,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
@@ -6586,6 +6622,24 @@
       "duration_ms": 158850,
       "name": "RAD",
       "url": "https://open.spotify.com/track/1QkI7Udu7JP54oMppM4YEY"
+    },
+    {
+      "album": {
+        "name": "RADIATION",
+        "url": "https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144238,
+      "name": "RADIATION",
+      "url": "https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p"
     },
     {
       "album": {

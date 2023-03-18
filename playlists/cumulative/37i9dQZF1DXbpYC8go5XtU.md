@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-195 songs - 15 hr 38 min
+196 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Morgenånder](https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:07 | 2021-12-22 |  |
 | [Morning Energy](https://open.spotify.com/track/7q3nvwGs9BTXP6syRF8JgL) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Morning Energy](https://open.spotify.com/album/5hX1qUBCqJ28wtQovxDRXH) | 2:00 | 2023-01-16 |  |
 | [Morning Rain](https://open.spotify.com/track/6ppdnfPnK6UD6O0dGRbOoi) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [Walking in the Sea](https://open.spotify.com/album/36Mp35DUrNArzQKzwamY23) | 2:57 | 2023-03-09 |  |
+| [Mortido](https://open.spotify.com/track/6V8nSoIQV9S0MKuhtCCHIR) | [Conrad Clipper](https://open.spotify.com/artist/2cq7jKz8HyIZaoxdaLVxQc) | [Rainfall](https://open.spotify.com/album/1DfF3LJF5FzTpOJmJkqrwC) | 8:59 | 2023-03-16 |  |
 | [My Pace \- Remix](https://open.spotify.com/track/14q3zVXljoHZ7DqDyF3kQl) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [My Pace \(Remix\)](https://open.spotify.com/album/3NmlnEt8dF1oGVuEsBUe8j) | 2:22 | 2022-08-17 |  |
 | [Nacre Meadow](https://open.spotify.com/track/2aVgJE85GexucuDrHeyfeL) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Nacre Meadow](https://open.spotify.com/album/7pCr6UqsBdMdSpT0yNHREw) | 6:08 | 2021-12-22 | 2022-07-29 |
 | [Nacre Meadow](https://open.spotify.com/track/4LsbhJynQnbJNRht8bfbge) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Nacre Meadow](https://open.spotify.com/album/0LP8jLgSA7KrViKmQPv1TU) | 6:08 | 2022-07-08 |  |
@@ -120,7 +121,7 @@
 | [Quiet Stream](https://open.spotify.com/track/2Rv0fVIawPogTWGxovvvlq) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI), [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Quiet Stream](https://open.spotify.com/album/7uv0Z9Er9ZKdCtPYQ6xRP4) | 4:24 | 2021-12-22 |  |
 | [Rain](https://open.spotify.com/track/2rqSKSAEVthsDyuZObnQY4) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/1wO5nsIQP1vDzJShd7BLgk) | 5:15 | 2021-12-22 |  |
 | [Rain on Ancient Quays](https://open.spotify.com/track/0Z3P1D74QwnOiAqGA9Rh9m) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/5DHqPXz2CqfjzynPDQACSw) | 7:23 | 2021-12-22 | 2022-07-29 |
-| [Rain on Ancient Quays](https://open.spotify.com/track/3b0kZgg4HfHy2eOmGcd1Kv) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 7:23 | 2022-07-08 |  |
+| [Rain on Ancient Quays](https://open.spotify.com/track/3b0kZgg4HfHy2eOmGcd1Kv) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 7:23 | 2022-07-08 | 2023-03-18 |
 | [rainfall](https://open.spotify.com/track/39dhyocdtP2THBx7OG1pPn) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [dusk to dawn](https://open.spotify.com/album/5UHg2dMdXffuSepLuOcBdo) | 4:09 | 2021-12-22 |  |
 | [Ratiljóst](https://open.spotify.com/track/133rBUTl1xHOTRcNL0f8zP) | [The Last Archiver](https://open.spotify.com/artist/3VK6ZVyhIhVAl16oshWApm) | [Ratiljóst](https://open.spotify.com/album/1I4DkvpyCwYH8769vtSSaP) | 5:32 | 2022-12-20 |  |
 | [Refraction](https://open.spotify.com/track/3c0vBmz1OTVnmcTk8ZT5x8) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn) | [Ocean Sleep](https://open.spotify.com/album/647uuDQfKJ5QZb1BSduDw2) | 5:00 | 2021-12-22 |  |

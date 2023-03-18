@@ -1941,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "Meet My Maker",
+        "url": "https://open.spotify.com/album/2gAiRQzI62xYl1qrTRh3fI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183889,
+      "name": "Meet My Maker",
+      "url": "https://open.spotify.com/track/1pMgAV1H7k95tMRZDjOkEJ"
+    },
+    {
+      "album": {
         "name": "More Than Me",
         "url": "https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD"
       },

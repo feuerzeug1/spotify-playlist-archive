@@ -1753,6 +1753,32 @@
     },
     {
       "album": {
+        "name": "Lado 13 Do Mapa",
+        "url": "https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1"
+      },
+      "artists": [
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Lado 13 Do Mapa",
+      "url": "https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V"
+    },
+    {
+      "album": {
         "name": "BR 140",
         "url": "https://open.spotify.com/album/103Rss3Qt0JvwKj8MFMPcC"
       },
@@ -2684,7 +2710,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 142285,
       "name": "Ritmo de Festa",
       "url": "https://open.spotify.com/track/5wvG3NaKmLIkmQWhp8DKeW"

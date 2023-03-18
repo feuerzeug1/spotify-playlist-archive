@@ -398,7 +398,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 168450,
       "name": "Bijlee Bijlee",
       "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 192000,
       "name": "Final Thoughts",
       "url": "https://open.spotify.com/track/5yj7D4UllTkAccTmROibCQ"
@@ -1614,6 +1614,28 @@
       "duration_ms": 240000,
       "name": "Jatt Te Jawani",
       "url": "https://open.spotify.com/track/5K1qTme8mUcrIj9tEM5L5K"
+    },
+    {
+      "album": {
+        "name": "Gill Skill, Vol. 1",
+        "url": "https://open.spotify.com/album/6A4GxzoyK2x6rm9hGvJMUw"
+      },
+      "artists": [
+        {
+          "name": "Jassie Gill",
+          "url": "https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA"
+        },
+        {
+          "name": "Munawar Faruqui",
+          "url": "https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Jatt Tere Shehar",
+      "url": "https://open.spotify.com/track/5IXig53kmeAlfIf4BzYiWp"
     },
     {
       "album": {
@@ -2762,6 +2784,24 @@
       "duration_ms": 213626,
       "name": "Saada Pyaar",
       "url": "https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8"
+    },
+    {
+      "album": {
+        "name": "Salute",
+        "url": "https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203465,
+      "name": "Salute",
+      "url": "https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf"
     },
     {
       "album": {

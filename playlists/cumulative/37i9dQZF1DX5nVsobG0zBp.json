@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 203812,
       "name": "2020 (feat. Slow J)",
       "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 282267,
       "name": "BAL4DA 2UM CAR0XO",
       "url": "https://open.spotify.com/track/0uQU529W8MgYYElqJCMdph"
@@ -881,6 +881,28 @@
     },
     {
       "album": {
+        "name": "HALLYWUD",
+        "url": "https://open.spotify.com/album/3lAS3tiXJyjOkyDYXCd5YS"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181287,
+      "name": "HALLYWUD",
+      "url": "https://open.spotify.com/track/37OHWelZZiuSZwUzV9Sybv"
+    },
+    {
+      "album": {
         "name": "HEI",
         "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
       },
@@ -1286,7 +1308,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 244742,
       "name": "Melanina",
       "url": "https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl"
@@ -1442,7 +1464,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 207658,
       "name": "Morte do Artista",
       "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
@@ -1478,7 +1500,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 218258,
       "name": "Nada a Esconder",
       "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
@@ -2074,7 +2096,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 222642,
       "name": "S\u00f3 Queria Sorrir",
       "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
@@ -2166,7 +2188,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 175204,
       "name": "Teu Eternamente",
       "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"

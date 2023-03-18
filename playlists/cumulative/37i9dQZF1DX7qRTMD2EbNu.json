@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=s0bniQCJRpSqS2Ohh60y0Q\"> Medikal </a> ",
+  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/0oXCDYFtjdq5ruPQuz7NbP?si=9MXSaWNMQa2-JdzA9US7RQ\"> KWW</a> ",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 172800,
       "name": "45",
       "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
+    },
+    {
+      "album": {
+        "name": "PHOTO ALBUM",
+        "url": "https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172972,
+      "name": "A B C D",
+      "url": "https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H"
     },
     {
       "album": {
@@ -452,7 +470,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 192000,
       "name": "Benz (Garri)",
       "url": "https://open.spotify.com/track/3a9WcZmIjrQUZuqXQexjfQ"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 156142,
       "name": "Early Bird",
       "url": "https://open.spotify.com/track/4WOurSV5TdP4NQZQEmThdc"
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 188421,
       "name": "Journey",
       "url": "https://open.spotify.com/track/5jfg1efkZ353GGK2vpmfDs"
@@ -1914,6 +1932,40 @@
       "duration_ms": 175758,
       "name": "Keep Moving On",
       "url": "https://open.spotify.com/track/0dMffju5HNrl8dAmjvm87F"
+    },
+    {
+      "album": {
+        "name": "Kiddie Time",
+        "url": "https://open.spotify.com/album/36Tu8CsXlo8dNN1n9u8I2p"
+      },
+      "artists": [
+        {
+          "name": "99 PHACES",
+          "url": "https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p"
+        },
+        {
+          "name": "Freddie Gambini",
+          "url": "https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg"
+        },
+        {
+          "name": "CozyPols",
+          "url": "https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL"
+        },
+        {
+          "name": "Moffy",
+          "url": "https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9"
+        },
+        {
+          "name": "Insvne Auggie",
+          "url": "https://open.spotify.com/artist/2dNjqvomsDbN1XCYM6wlod"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Kiddie Time",
+      "url": "https://open.spotify.com/track/2LHTgvLZjSNNyq7nREUcqL"
     },
     {
       "album": {
@@ -2600,6 +2652,24 @@
       "duration_ms": 133333,
       "name": "On The Road (Navigating)",
       "url": "https://open.spotify.com/track/4Iiha3otqci5DaCOiepGIU"
+    },
+    {
+      "album": {
+        "name": "Only Jah",
+        "url": "https://open.spotify.com/album/2Lm7Yhf4dQcrH7iVmAihXC"
+      },
+      "artists": [
+        {
+          "name": "Eno Barony",
+          "url": "https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234800,
+      "name": "Only Jah",
+      "url": "https://open.spotify.com/track/4GYeAKJryDUpmIFiwwzRw7"
     },
     {
       "album": {
@@ -3504,7 +3574,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 122668,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv"
@@ -3728,6 +3798,44 @@
       "duration_ms": 203939,
       "name": "Wtf",
       "url": "https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD"
+    },
+    {
+      "album": {
+        "name": "Y3 b3 k) beebi",
+        "url": "https://open.spotify.com/album/1QXuPHNlqWG5iIexngWLn4"
+      },
+      "artists": [
+        {
+          "name": "KWW",
+          "url": "https://open.spotify.com/artist/0oXCDYFtjdq5ruPQuz7NbP"
+        },
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "Y3 b3 k) beebi",
+      "url": "https://open.spotify.com/track/7hi9yX7NN5Fw5nAFhtMqQB"
     },
     {
       "album": {

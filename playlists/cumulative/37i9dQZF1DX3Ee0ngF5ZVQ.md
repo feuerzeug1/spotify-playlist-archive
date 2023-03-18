@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: The Panhandlers
 
-421 songs - 1 day 1 hr 6 min
+422 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [On My Way](https://open.spotify.com/track/5KZzV6eNfHLFjQW4tSoTnr) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [On My Way](https://open.spotify.com/album/18lEO0bUtImvRtUHn9FDgy) | 3:03 | 2022-06-10 | 2022-07-16 |
 | [Once in a Blue Moon](https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Once in a Blue Moon](https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk) | 3:07 | 2022-04-01 | 2023-02-12 |
 | [One Honky Tonk Town](https://open.spotify.com/track/1j3aYPaCzk1ENO4dL9nxw5) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [One Honky Tonk Town](https://open.spotify.com/album/1ZtExQ6KB7P60h9QyyC1VO) | 3:20 | 2022-04-29 | 2022-07-10 |
-| [One Two Step Away](https://open.spotify.com/track/6MzgcxRl6y4x11DMg8K750) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [One Two Step Away](https://open.spotify.com/album/75M65qiiyw2tCGDIij7kZs) | 3:14 | 2023-01-06 |  |
+| [One Two Step Away](https://open.spotify.com/track/6MzgcxRl6y4x11DMg8K750) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [One Two Step Away](https://open.spotify.com/album/75M65qiiyw2tCGDIij7kZs) | 3:14 | 2023-01-06 | 2023-03-18 |
 | [Only Need One](https://open.spotify.com/track/6xjVFA6jmSIuQEH108s6V2) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Only Need One](https://open.spotify.com/album/2LAc0RjCJ2qynoCRN6tUil) | 3:33 | 2022-02-04 | 2022-07-27 |
 | [Open Book](https://open.spotify.com/track/71F8QUX0UiqmoSZKgjCnP6) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Open Book](https://open.spotify.com/album/5ivrCd6Y6Z1BGr6GwROBwp) | 3:47 | 2022-04-29 | 2022-07-15 |
 | [Open Road](https://open.spotify.com/track/51WG9PYBpY8wgecAZFEMTS) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Buckskin](https://open.spotify.com/album/27K52pfrgwrUqsaAJZ2WLn) | 3:29 | 2022-03-11 | 2022-07-28 |
@@ -325,6 +325,7 @@
 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 | 2022-03-18 |  |
 | [Southern Land](https://open.spotify.com/track/1gw7UEQMT2kM1H1zOSV4MJ) | [Trent Willmon](https://open.spotify.com/artist/42mKjKqNCSgHbxaBFcotDi) | [Southern Land](https://open.spotify.com/album/1mS6CmS6mZbQyM1orsTb2M) | 4:03 | 2023-01-20 |  |
 | [Speed](https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Speed](https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4) | 4:30 | 2023-03-10 |  |
+| [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 | 2023-03-17 |  |
 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 | 2022-04-01 |  |
 | [Steady](https://open.spotify.com/track/3o0MDTv8SNnkbX09k7Ae8R) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Steady](https://open.spotify.com/album/2usrETNCWm7wx56mNkQ168) | 3:47 | 2022-06-03 | 2022-07-29 |
 | [Sticks and Stones](https://open.spotify.com/track/1yzLtMC3H04rentkZiHU5v) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Sticks and Stones](https://open.spotify.com/album/5ZkeHDmi5q2FBdQfcsZClF) | 3:30 | 2021-12-17 | 2022-01-08 |

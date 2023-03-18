@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 276826,
       "name": "Cali Aj\u00ed",
       "url": "https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb"
@@ -646,10 +646,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 246531,
       "name": "Me Sabe a Peru",
       "url": "https://open.spotify.com/track/00Hcq5S7P9lIJqioIW0Hxb"
+    },
+    {
+      "album": {
+        "name": "Me Sabe a Per\u00fa",
+        "url": "https://open.spotify.com/album/4ycsh8x6oNr9L1DdJLvXQX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262653,
+      "name": "Me Sabe a Per\u00fa",
+      "url": "https://open.spotify.com/track/60uygJSldCifzLzPAUkgHD"
     },
     {
       "album": {
@@ -898,7 +916,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 293893,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"

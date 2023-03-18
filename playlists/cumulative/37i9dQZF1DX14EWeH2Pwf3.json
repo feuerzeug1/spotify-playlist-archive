@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Rondodasosa",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: thasup, Tedua",
   "name": "Plus Ultra",
   "tracks": [
+    {
+      "album": {
+        "name": "Teoria Del Contrario Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Vaz T\u00e8",
+          "url": "https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "1312 (feat. Disme & Vaz T\u00e8) - prod. Beak On The Night",
+      "url": "https://open.spotify.com/track/7flQoPZiOGHINPBS0FUjtR"
+    },
     {
       "album": {
         "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
@@ -468,6 +494,24 @@
       "duration_ms": 182758,
       "name": "BABE",
       "url": "https://open.spotify.com/track/2CWHg8U4e8aMz4x2aL6P3O"
+    },
+    {
+      "album": {
+        "name": "Baby Mama",
+        "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151160,
+      "name": "Baby Mama",
+      "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
     },
     {
       "album": {
@@ -1414,7 +1458,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 198427,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/4zw24KjosETzCFREA46qqB"
@@ -1604,6 +1648,28 @@
       "duration_ms": 186285,
       "name": "DIMMI CHE (feat. Bresh & Neima Ezza)",
       "url": "https://open.spotify.com/track/3QVmR6UVx3gXtnUm6AWtwr"
+    },
+    {
+      "album": {
+        "name": "Dimmi Che C'\u00e8 (feat. Tedua)",
+        "url": "https://open.spotify.com/album/54nLn2p65cXgkdIvmCJDhG"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182078,
+      "name": "Dimmi Che C'\u00e8 (feat. Tedua)",
+      "url": "https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX"
     },
     {
       "album": {
@@ -1914,7 +1980,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 161462,
       "name": "GanGa (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/4lZ87DJUjjAEcOzF6Uhyfj"
@@ -2222,7 +2288,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 213143,
       "name": "IL BENE NEL MALE",
       "url": "https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC"
@@ -3424,7 +3490,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 161506,
       "name": "Need U 2Nite (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/4cfwlJOM85bCQ8drN9iY1r"
@@ -3903,6 +3969,28 @@
     },
     {
       "album": {
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
+    },
+    {
+      "album": {
         "name": "Pensando a lei",
         "url": "https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn"
       },
@@ -4096,7 +4184,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 158836,
       "name": "Plaquette",
       "url": "https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny"
@@ -4574,6 +4662,28 @@
       "duration_ms": 241368,
       "name": "Sarabamba (feat. Gu\u00e8 & Crookers)",
       "url": "https://open.spotify.com/track/4ts969TgdnzsYvadQ5TTm2"
+    },
+    {
+      "album": {
+        "name": "Se ti amo",
+        "url": "https://open.spotify.com/album/6KWpVZnQuIcwQYHCDbiPhF"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130212,
+      "name": "Se ti amo",
+      "url": "https://open.spotify.com/track/0DuEBifTJH7UUCCZXxffXh"
     },
     {
       "album": {

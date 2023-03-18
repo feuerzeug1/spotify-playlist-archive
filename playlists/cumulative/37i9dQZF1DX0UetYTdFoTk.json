@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "To all the 7abieb out there. Cover: Siilawy.",
+  "description": "To all the 7abieb out there. Cover: Assala Nasri.",
   "name": "Arabic Love Songs",
   "tracks": [
     {
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Ader Akmel",
+        "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253384,
+      "name": "Ader Akmel",
+      "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
+    },
+    {
+      "album": {
         "name": "Elyanna 2",
         "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 219183,
       "name": "Aleb Albi",
       "url": "https://open.spotify.com/track/36jmUC55efoLTEheXaNZOp"
@@ -510,7 +528,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 169700,
       "name": "Bel Ahlam",
       "url": "https://open.spotify.com/track/2p6TxDI6Slpp69ZZxsCvqV"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 224657,
       "name": "Kifak Enta",
       "url": "https://open.spotify.com/track/61k5XrVEJdOD5vCXcjBKF7"
@@ -1487,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Rabeh Marra",
+        "url": "https://open.spotify.com/album/27vkEvWoYEgBJr8h1TU6XG"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191952,
+      "name": "Rabeh Marra",
+      "url": "https://open.spotify.com/track/52GPNk23IUBh5AZ8Jo43xm"
+    },
+    {
+      "album": {
         "name": "Set El Kel",
         "url": "https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s"
       },
@@ -1902,6 +1938,24 @@
       "duration_ms": 213652,
       "name": "\u0642\u0635\u0629 \u062d\u0628 - \u0646\u0633\u062e\u0629 \u0634\u0631\u0642\u064a",
       "url": "https://open.spotify.com/track/6ojYumgu8f7i15xshyg6Bj"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
+        "url": "https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339591,
+      "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
+      "url": "https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH"
     },
     {
       "album": {

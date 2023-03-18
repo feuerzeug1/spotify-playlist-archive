@@ -4,7 +4,7 @@
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-110 songs - 7 hr 32 min
+111 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Make This Right](https://open.spotify.com/track/7mSmt2yar5VUXZNBV4AnpE) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Furi \(Original Game Soundtrack\)](https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA) | 5:48 | 2022-12-20 |  |
 | [Motor](https://open.spotify.com/track/155t0i7MddhDV4l1KzXgdj) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 4:03 | 2022-05-19 |  |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2022-05-19 |  |
-| [Ocean Death](https://open.spotify.com/track/2CPeOsbTPnJibSwVo3zLrz) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Ocean Death](https://open.spotify.com/album/4iU3Ro1wRrnZ1lfOIrV4jG) | 5:29 | 2022-05-19 |  |
+| [Ocean Death](https://open.spotify.com/track/2CPeOsbTPnJibSwVo3zLrz) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Ocean Death](https://open.spotify.com/album/4iU3Ro1wRrnZ1lfOIrV4jG) | 5:29 | 2022-05-19 | 2023-03-18 |
+| [Ocean Death](https://open.spotify.com/track/4nEJ4O435WvJvgZKdOPWMM) | [Will Wiesenfeld](https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Ocean Death](https://open.spotify.com/album/5wE7sv4eXjQ3vHGl8FROG0) | 5:29 | 2022-12-20 |  |
 | [On the Run](https://open.spotify.com/track/5ZFRx5NyLk2DH61nyCNZLY) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r) | [Night Drive \(Instrumental Edition\)](https://open.spotify.com/album/3GKwsaePakYfFJ1nprlGvt) | 5:00 | 2022-07-29 | 2022-08-12 |
 | [On the Run](https://open.spotify.com/track/6COsFwxCkIpXBYw4iiVWH4) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r) | [Night Drive](https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i) | 5:00 | 2022-05-19 |  |
 | [Opr](https://open.spotify.com/track/12Ypr3PCVJ2i7Uwz93q1Vl) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Conspiracy Pt.2](https://open.spotify.com/album/3WSHoNpx7QQMcmfm26wksh) | 3:53 | 2022-05-19 |  |

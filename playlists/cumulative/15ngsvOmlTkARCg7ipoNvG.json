@@ -8185,6 +8185,24 @@
     },
     {
       "album": {
+        "name": "Love In My Dreams",
+        "url": "https://open.spotify.com/album/3u2t9Au12RDnw3DWNNujRp"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60927,
+      "name": "Love In My Dreams",
+      "url": "https://open.spotify.com/track/1uCK2f0Ytg2BEFExDwaOkm"
+    },
+    {
+      "album": {
         "name": "Dream Space",
         "url": "https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM"
       },
@@ -13164,6 +13182,24 @@
       "duration_ms": 61567,
       "name": "Summer Gratitude",
       "url": "https://open.spotify.com/track/4mXLufP5eOpNdihDYm44Zv"
+    },
+    {
+      "album": {
+        "name": "Summer Morning",
+        "url": "https://open.spotify.com/album/20UwbEUICL1S6w8mvg0sB4"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60631,
+      "name": "Summer Morning",
+      "url": "https://open.spotify.com/track/6q6ybnxJtpFS9UtYoLk8gl"
     },
     {
       "album": {

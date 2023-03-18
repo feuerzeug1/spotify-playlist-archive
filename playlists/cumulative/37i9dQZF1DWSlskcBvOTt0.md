@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-382 songs - 1 day 15 hr 16 min
+383 songs - 1 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All I Ever Wanted](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:32 | 2022-10-14 |  |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-09-30 |  |
 | [Alongside \- Omeria & NU Edit](https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Alongside](https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36) | 6:50 | 2021-04-21 | 2023-03-11 |
+| [Alright](https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Alright](https://open.spotify.com/album/2Ee25kB7a4Jz4IkkClgmaw) | 6:52 | 2023-03-10 |  |
 | [Amanecer](https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Amanecer](https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP) | 7:36 | 2023-01-13 | 2023-03-04 |
 | [Amida \- Satori & El Mundo Remix](https://open.spotify.com/track/0V2S8wtRZi4OAeCVq4phT8) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN), [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej) | [Amida \(Satori & El Mundo Remix\)](https://open.spotify.com/album/196fE693PdI2q6DbNbpMHG) | 6:55 | 2022-12-09 | 2023-01-14 |
 | [Amor Cego](https://open.spotify.com/track/3Vz6j2iEsgmGyjC89bn8tz) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Margarida Encarnação](https://open.spotify.com/artist/05L0Xnr39hVRK3MW0o5rFS) | [Amor Cego](https://open.spotify.com/album/6lJ9Mi6EZmisSqHW08jjOU) | 5:32 | 2022-02-11 | 2022-07-26 |
@@ -349,7 +350,7 @@
 | [Transhumanism \- Transhumanism Project \(3/3\)](https://open.spotify.com/track/1Bc1YCkgdW1AJ2GchM7g2C) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Transhumanism \- Transhumanism Project \(3/3\)](https://open.spotify.com/album/66uGV21DSQjZPb8ItzXgYt) | 7:04 | 2022-07-22 | 2022-08-04 |
 | [Travelers](https://open.spotify.com/track/7g0E8PZTeRA6NghamzQHfc) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Dicko Fils](https://open.spotify.com/artist/6gKDb7SO4kOI65oVwcunH6) | [Globe Trotter, Vol.1](https://open.spotify.com/album/32kngqUC4ThQAVJGRGUw8T) | 4:24 | 2021-04-21 | 2022-11-28 |
 | [Traversata \- Xique\-Xique Remix](https://open.spotify.com/track/6hcorDTyKB3AXqCUQedAIj) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Caravaca](https://open.spotify.com/artist/1OWiZw4DbyqYtwl4klKOlJ), [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [5 \(Part 3\)](https://open.spotify.com/album/7ISfJeYaR9DLi5UfbxlAbP) | 5:49 | 2022-02-04 | 2022-07-29 |
-| [Tribute To Orange Clouds](https://open.spotify.com/track/5joBjODoRwhq4Y9HbnFuhw) | [Ida Engberg](https://open.spotify.com/artist/5psccYjSTbvey4GWul62EB) | [Tribute To Orange Clouds](https://open.spotify.com/album/1uZm7H0vJXyVl80WifEWYU) | 3:42 | 2023-01-27 |  |
+| [Tribute To Orange Clouds](https://open.spotify.com/track/5joBjODoRwhq4Y9HbnFuhw) | [Ida Engberg](https://open.spotify.com/artist/5psccYjSTbvey4GWul62EB) | [Tribute To Orange Clouds](https://open.spotify.com/album/1uZm7H0vJXyVl80WifEWYU) | 3:42 | 2023-01-27 | 2023-03-18 |
 | [Trife](https://open.spotify.com/track/7bJIb0bPGNHq1RqO2ofA8v) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Trife](https://open.spotify.com/album/6U4olz1BCDozivoX3RGyZf) | 3:44 | 2022-10-14 | 2023-02-28 |
 | [Trilobit](https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov) | [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Sarcophyton / Trilobit](https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E) | 7:40 | 2021-10-01 | 2023-01-14 |
 | [Trip In \- Xinobi Remix](https://open.spotify.com/track/44TGd1DqzCDKPHQHq2XjQw) | [Omri Guetta](https://open.spotify.com/artist/4GDZFqNEOr2pNK8Uz6ZRX6), [Omer Tayar](https://open.spotify.com/artist/7ITO7tOeUqqjVBSVQB4yFB), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Trip In \( Xinobi Remix \)](https://open.spotify.com/album/20anOD1TikexSu4EOfFsHU) | 5:00 | 2021-09-24 | 2022-07-29 |

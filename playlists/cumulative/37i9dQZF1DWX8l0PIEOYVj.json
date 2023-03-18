@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "ANEMONE",
+        "url": "https://open.spotify.com/album/4ubXh9LjM4YuWTiOuw7efI"
+      },
+      "artists": [
+        {
+          "name": "P*Light",
+          "url": "https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195384,
+      "name": "ANEMONE",
+      "url": "https://open.spotify.com/track/5YvjSiIeHcn2eV3NZLxMj8"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0mojBj3o9EM3B13S5AaY52"
       },
@@ -2851,6 +2869,28 @@
     },
     {
       "album": {
+        "name": "Hallowed",
+        "url": "https://open.spotify.com/album/44AMc70Cs2l1IkuT6qzHhC"
+      },
+      "artists": [
+        {
+          "name": "Abandoned",
+          "url": "https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x"
+        },
+        {
+          "name": "SOUNDR",
+          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Hallowed",
+      "url": "https://open.spotify.com/track/1mCuubKYj4wx69lWrSPmkW"
+    },
+    {
+      "album": {
         "name": "Happy Tears",
         "url": "https://open.spotify.com/album/3Wh4FHappW3aUJBx7pZxul"
       },
@@ -2936,7 +2976,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 290823,
       "name": "Hate To Be",
       "url": "https://open.spotify.com/track/6n6lDrWRELr6FJRyebJTfb"
@@ -3002,6 +3042,24 @@
       "duration_ms": 215000,
       "name": "Here & Now (Holding On)",
       "url": "https://open.spotify.com/track/6CixeFGuC6v6scnGWFvIiD"
+    },
+    {
+      "album": {
+        "name": "Hide It",
+        "url": "https://open.spotify.com/album/3UnmCVpJvceW8mv0LBaMrE"
+      },
+      "artists": [
+        {
+          "name": "SPIRIT LINK",
+          "url": "https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Hide It",
+      "url": "https://open.spotify.com/track/23Thz223KX6H9BOS5VLM9e"
     },
     {
       "album": {
@@ -5898,7 +5956,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 250294,
       "name": "Start Over (feat. Danni Carra)",
       "url": "https://open.spotify.com/track/789tQuKCnSNj9ekKbLnEc2"
@@ -7158,7 +7216,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 264960,
       "name": "Wouldn't Know You",
       "url": "https://open.spotify.com/track/5kcINRPrvnCXz70ugncJIm"

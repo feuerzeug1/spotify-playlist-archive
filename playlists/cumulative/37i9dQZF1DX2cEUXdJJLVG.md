@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-230 songs - 13 hr 52 min
+232 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Doing What](https://open.spotify.com/track/7xEQu4lEHFsschQceaVpcT) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [HIGH HØØPS](https://open.spotify.com/artist/4awgEb2pQYbDOC6OFuPy9x) | [Doing What](https://open.spotify.com/album/4l31MW9es2uvMFbbZy6vnn) | 3:19 | 2022-09-09 |  |
 | [Down This Path](https://open.spotify.com/track/0lpVYjvv6KxqIK2tzjxURU) | [Edmund Paquin](https://open.spotify.com/artist/1sj2E6vznD7CD6tbImjcOh), [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [Owen Chow](https://open.spotify.com/artist/5KINTUf4vKBPacOKbjV7R7) | [Down This Path](https://open.spotify.com/album/47pnzCgYCKlZpp5MfzDAQW) | 3:22 | 2022-09-15 |  |
 | [Drowning in Your Love \- Gold Edit](https://open.spotify.com/track/3HYanTbvNE4gyjnbjgxOoO) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:47 | 2022-09-09 |  |
-| [Each Other](https://open.spotify.com/track/1UxoikqGrtU13hhUWdK9IW) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Each Other](https://open.spotify.com/album/2hGHGDawkr0RijE04htGhB) | 3:42 | 2023-02-16 |  |
+| [Each Other](https://open.spotify.com/track/1UxoikqGrtU13hhUWdK9IW) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Each Other](https://open.spotify.com/album/2hGHGDawkr0RijE04htGhB) | 3:42 | 2023-02-16 | 2023-03-18 |
+| [Each Other](https://open.spotify.com/track/5527KNwYQWSlCO2xvNZuYl) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [You Will Be Fine](https://open.spotify.com/album/6ufZebDKqcDJfQyMkkDh9z) | 3:42 | 2023-03-17 |  |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-09-09 |  |
 | [Easy Like Before](https://open.spotify.com/track/4l7TlDRTwRRGdQ5tlQcf4b) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [I Was Wrong](https://open.spotify.com/album/6h0r7WdrJT3h7uiZ0rCHIT) | 2:58 | 2022-09-09 | 2022-10-15 |
 | [Elastico](https://open.spotify.com/track/2jFFHNAorMKhsupMXN3EmB) | [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB) | [7](https://open.spotify.com/album/0J4tJMg8IXQ5ZQQw17Jj0Y) | 3:07 | 2022-09-09 |  |
@@ -205,6 +206,7 @@
 | [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 | 2022-09-09 |  |
 | [Summer Blues](https://open.spotify.com/track/65rtflKWXabjsB9ekBbsgZ) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Summer Blues](https://open.spotify.com/album/7r9cHOQr0qt4QunRedTXju) | 3:18 | 2022-09-09 |  |
 | [Summer Blues](https://open.spotify.com/track/71mrqChmbDeuUARpuT3SdV) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Summer Blues](https://open.spotify.com/album/1G4CR3KeyYRrD16cWpXJF7) | 3:18 | 2022-10-30 | 2022-11-13 |
+| [Sunshine](https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Sunshine](https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj) | 3:29 | 2023-03-17 |  |
 | [Sweet Harmony](https://open.spotify.com/track/5xu8FPfSTx6ntNts4LmHli) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Sweet Harmony](https://open.spotify.com/album/6Vggx6TgQ31vR9BwUPdoIQ) | 3:02 | 2023-02-16 |  |
 | [Tasty Jam](https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:10 | 2022-09-09 | 2022-09-16 |
 | [Tell Nobody](https://open.spotify.com/track/0QmsZHM9Pq98NB3IU9iQl8) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Tell Nobody](https://open.spotify.com/album/67qo0exWX8kCr2vnqPnp7d) | 1:43 | 2022-10-14 |  |

@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 302357,
       "name": "Just An Unkind Time",
       "url": "https://open.spotify.com/track/7cmSGCMt0V9C3junM4m29v"
@@ -1408,6 +1408,24 @@
       "duration_ms": 130179,
       "name": "Mind games",
       "url": "https://open.spotify.com/track/6OXrNh8asCu28gqFyTSw3Z"
+    },
+    {
+      "album": {
+        "name": "Mindful Moments",
+        "url": "https://open.spotify.com/album/6Px8D6WlJ192XVPR8dK7Zy"
+      },
+      "artists": [
+        {
+          "name": "Damian Cole",
+          "url": "https://open.spotify.com/artist/46tP7nx1UBEZ1RLXBD7JWB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166097,
+      "name": "Mindful Moments",
+      "url": "https://open.spotify.com/track/3D5T9QOZPVY6dmLp85dvWx"
     },
     {
       "album": {
@@ -2595,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2lXiJjTnNIagnr6pwf3pQN"
+      },
+      "artists": [
+        {
+          "name": "A Clear Path",
+          "url": "https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155542,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/5cTIWg6DXp6BRFswOhnOpt"
+    },
+    {
+      "album": {
         "name": "The Object at Hand",
         "url": "https://open.spotify.com/album/7ia9ZV8dzAXkjI2KQjY9Wh"
       },
@@ -2628,6 +2664,24 @@
       "duration_ms": 140852,
       "name": "Tomber Amoureux",
       "url": "https://open.spotify.com/track/0sTlmrgtj3om9MCoCFTzZm"
+    },
+    {
+      "album": {
+        "name": "Trade Places",
+        "url": "https://open.spotify.com/album/6TaiqLp2pfdnRaOC8K0pBQ"
+      },
+      "artists": [
+        {
+          "name": "Aura Onda",
+          "url": "https://open.spotify.com/artist/04O0lEQuqzTzjlhJ9Rfhgx"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147403,
+      "name": "Trade Places",
+      "url": "https://open.spotify.com/track/5u9N67S38UP7T5wKp4utYs"
     },
     {
       "album": {

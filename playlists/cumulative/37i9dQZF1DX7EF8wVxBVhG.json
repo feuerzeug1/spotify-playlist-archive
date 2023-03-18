@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Alpha Horizon",
+        "url": "https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z"
+      },
+      "artists": [
+        {
+          "name": "Binaural Landscapes",
+          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207206,
+      "name": "Alpha Horizon 128 + 130 Hz",
+      "url": "https://open.spotify.com/track/4o4y2ZK2pso1lHYAGwhbLN"
+    },
+    {
+      "album": {
         "name": "Alpha Meditation",
         "url": "https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y"
       },
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 194734,
       "name": "Binaural Gamma Sinus 90 Hz - L 190 Hz - R",
       "url": "https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD"
@@ -3754,6 +3772,60 @@
       "duration_ms": 113333,
       "name": "Gamma Waves 200Hz - 250Hz",
       "url": "https://open.spotify.com/track/2xP0X340p1DXVDpie2iczv"
+    },
+    {
+      "album": {
+        "name": "Gamma Waves",
+        "url": "https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z"
+      },
+      "artists": [
+        {
+          "name": "Electronic Waves",
+          "url": "https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204250,
+      "name": "Gamma Waves 63 + 66 hz",
+      "url": "https://open.spotify.com/track/7u8OFt3QZV3v86XteQTrNC"
+    },
+    {
+      "album": {
+        "name": "Gamma Waves",
+        "url": "https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z"
+      },
+      "artists": [
+        {
+          "name": "Electronic Waves",
+          "url": "https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213624,
+      "name": "Gamma Waves 68.5 + 71 hz",
+      "url": "https://open.spotify.com/track/11zQg4nLvj6Pod4L1dAO6O"
+    },
+    {
+      "album": {
+        "name": "Gamma Waves",
+        "url": "https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z"
+      },
+      "artists": [
+        {
+          "name": "Electronic Waves",
+          "url": "https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181555,
+      "name": "Gamma Waves 89 + 86 hz",
+      "url": "https://open.spotify.com/track/1C5ODl6oza5zRbwngivAK8"
     },
     {
       "album": {

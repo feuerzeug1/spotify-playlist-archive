@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/0OV7ADd4vn1iTdB1h3g0R9"
+      },
+      "artists": [
+        {
+          "name": "SCY Jimm",
+          "url": "https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138201,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/3gYut1o4Wp1yPtpw8vLymj"
+    },
+    {
+      "album": {
         "name": "So Icy Gang: The ReUp",
         "url": "https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C"
       },
@@ -660,7 +678,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 126928,
       "name": "Ain\u2019t Right",
       "url": "https://open.spotify.com/track/5cJoIc7QehxhaX6MthuGsZ"
@@ -1219,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "BALL LIKE ME TOO",
+      "url": "https://open.spotify.com/track/2niJk9HZuWEBGPuR1aGYjy"
+    },
+    {
+      "album": {
         "name": "Ball N Chill",
         "url": "https://open.spotify.com/album/1jdq8pYwkAcpdU8pu1dNz2"
       },
@@ -1676,7 +1712,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 153882,
       "name": "BLOW UP",
       "url": "https://open.spotify.com/track/7CDH96fjwqsXE8rzeE10Fc"
@@ -1764,6 +1800,28 @@
       "duration_ms": 158117,
       "name": "Body Bag",
       "url": "https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J"
+    },
+    {
+      "album": {
+        "name": "Boom Pt. 2 (feat. Latto)",
+        "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Boom Pt. 2 (feat. Latto)",
+      "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
     },
     {
       "album": {
@@ -2322,7 +2380,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 130164,
       "name": "Check (feat. Big Yavo)",
       "url": "https://open.spotify.com/track/3g2H2JmJKe7NZyZBIMXgN3"
@@ -3472,10 +3530,32 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 172458,
       "name": "Drop Down (feat. KenTheMan)",
       "url": "https://open.spotify.com/track/2ZzhfMgeBjOkjFv5SXdFjz"
+    },
+    {
+      "album": {
+        "name": "Red Eye",
+        "url": "https://open.spotify.com/album/2rGZ4DEQqxseAXO9hVqNDo"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181909,
+      "name": "Drums",
+      "url": "https://open.spotify.com/track/78MA8xdZCe4KS9SuIxs1Ce"
     },
     {
       "album": {
@@ -3665,6 +3745,50 @@
     },
     {
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
+        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197011,
+      "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
+      "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
+    },
+    {
+      "album": {
+        "name": "Face No Book (feat. Blueface)",
+        "url": "https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "Face No Book (feat. Blueface)",
+      "url": "https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF"
+    },
+    {
+      "album": {
         "name": "What It Means To Be King",
         "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
       },
@@ -3812,6 +3936,28 @@
       "duration_ms": 173115,
       "name": "Finish (feat. PGF Nuk)",
       "url": "https://open.spotify.com/track/5h2Zeh9a3iTVOJt66ymosq"
+    },
+    {
+      "album": {
+        "name": "Finsta (feat. Big Boogie)",
+        "url": "https://open.spotify.com/album/6vefuCd9t3K2Vwj9fNj1fG"
+      },
+      "artists": [
+        {
+          "name": "Fat Trel",
+          "url": "https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200130,
+      "name": "Finsta (feat. Big Boogie)",
+      "url": "https://open.spotify.com/track/549FVHJDMSppqOQYg0hvdt"
     },
     {
       "album": {
@@ -4888,6 +5034,24 @@
       "duration_ms": 114580,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/0SCbpbPIjHh90v4hsp8ohl"
+    },
+    {
+      "album": {
+        "name": "GOMD",
+        "url": "https://open.spotify.com/album/6vTsqrGv80CCBH5b2rGMJS"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171872,
+      "name": "GOMD",
+      "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
     },
     {
       "album": {
@@ -6010,7 +6174,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 142103,
       "name": "I'm Back",
       "url": "https://open.spotify.com/track/0cCQOh2bVid7Qnu9TlG86a"
@@ -6543,6 +6707,24 @@
     },
     {
       "album": {
+        "name": "Never On Time",
+        "url": "https://open.spotify.com/album/7ahn5M0aOm7w6vrgK8IIJq"
+      },
+      "artists": [
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164545,
+      "name": "Just Getting By",
+      "url": "https://open.spotify.com/track/1PoBUMid74DdWs6CzlM2oL"
+    },
+    {
+      "album": {
         "name": "The Last Slimeto",
         "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
       },
@@ -6616,7 +6798,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 144065,
       "name": "Kay Flock",
       "url": "https://open.spotify.com/track/2q7XpAET7LS8yI3uCvl15m"
@@ -8832,7 +9014,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 121600,
       "name": "No More Friends",
       "url": "https://open.spotify.com/track/2kMuUWfsueRPYWxyaTSHd8"
@@ -9190,7 +9372,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 222500,
       "name": "OH BOY",
       "url": "https://open.spotify.com/track/4lhinIXb37RqJRnbnTgOcg"
@@ -9526,7 +9708,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 166321,
       "name": "One Time (feat. Jeezy)",
       "url": "https://open.spotify.com/track/4tKDqeQ3ncq5o5TSWfqF6r"
@@ -10174,6 +10356,24 @@
       "duration_ms": 160821,
       "name": "Privileged Rappers",
       "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+    },
+    {
+      "album": {
+        "name": "Protect Me From Evil",
+        "url": "https://open.spotify.com/album/16gD38m4uMp78GLekoVP7y"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Protect Me From Evil",
+      "url": "https://open.spotify.com/track/12zZRWYbmGwLAM3AHGw5Aq"
     },
     {
       "album": {
@@ -12070,7 +12270,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 150588,
       "name": "Sko",
       "url": "https://open.spotify.com/track/7Atyu3gAjkdmxYt0kZawgX"

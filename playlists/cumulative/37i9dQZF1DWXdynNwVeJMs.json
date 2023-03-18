@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Listen to the finest Jazz made in Belgium. Cover: Stellar Legions\n",
+  "description": "Listen to the finest Jazz made in Belgium. Cover: L\u0169p\u1e01GangGang\n",
   "name": "Belgo-Jazz",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 274000,
       "name": "An Arp in Tunisia",
       "url": "https://open.spotify.com/track/6VmcLYc8U5BhnnpRZgtK4k"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 231853,
       "name": "Charlier",
       "url": "https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 110989,
       "name": "Tsht",
       "url": "https://open.spotify.com/track/4qSPzGBpuGu5Vao4HOIztL"
@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Dopamine Overdose",
+        "url": "https://open.spotify.com/album/6ZalNPvkWelPjhB4NaV5RL"
+      },
+      "artists": [
+        {
+          "name": "L\u0169p\u1e01GangGang",
+          "url": "https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "Wanderer",
+      "url": "https://open.spotify.com/track/1mDqDD1QWMY3LcU4nnfn3D"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q"
       },
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 303915,
       "name": "Wessel",
       "url": "https://open.spotify.com/track/2cw7XwWJaQSaGnj0lQ3pGQ"

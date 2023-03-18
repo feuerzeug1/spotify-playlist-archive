@@ -882,7 +882,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 280000,
       "name": "Cheat",
       "url": "https://open.spotify.com/track/29AQOU8prFxhc70Omaum13"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 224473,
       "name": "Danko",
       "url": "https://open.spotify.com/track/1lDF7UQmDEumBffEfLNLwb"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 328459,
       "name": "ICE BOY",
       "url": "https://open.spotify.com/track/5WitY5GhqNFpbw85MRlTJc"
@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 246437,
       "name": "Loadshedding",
       "url": "https://open.spotify.com/track/60JKdpmIWs65lPxIKRlocx"
@@ -3408,6 +3408,28 @@
       "duration_ms": 218823,
       "name": "Lotto (feat. Ami Faku)",
       "url": "https://open.spotify.com/track/3e8K6g0QtTZ1Go4suzaK5c"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258113,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x"
     },
     {
       "album": {
@@ -3718,7 +3740,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 209146,
       "name": "Mina Nawe",
       "url": "https://open.spotify.com/track/6MnRKzhzMG0tv1qq1tSPu9"
@@ -3914,7 +3936,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 228000,
       "name": "Ndi a Ni Funa",
       "url": "https://open.spotify.com/track/2N1TKyUtiutH2AqBpF98t1"
@@ -4132,7 +4154,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 229894,
       "name": "Ng'cabanga Ngawe",
       "url": "https://open.spotify.com/track/2NWD2G5xvu5ZMMv9bHSHuP"
@@ -4519,6 +4541,24 @@
     },
     {
       "album": {
+        "name": "Nguwe",
+        "url": "https://open.spotify.com/album/3NOlureYDWIeBPt3CTuTDr"
+      },
+      "artists": [
+        {
+          "name": "Amanda Black",
+          "url": "https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Nguwe",
+      "url": "https://open.spotify.com/track/3p0svXb6H7pdUlA6mjeUTc"
+    },
+    {
+      "album": {
         "name": "Ngwago",
         "url": "https://open.spotify.com/album/0m3FhD85feoCHUHPVPbfn2"
       },
@@ -4898,6 +4938,24 @@
       "duration_ms": 235986,
       "name": "Nzwakazi",
       "url": "https://open.spotify.com/track/7qoqQWKWYZTuHjJuqvwe5t"
+    },
+    {
+      "album": {
+        "name": "Meet me in the middle",
+        "url": "https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq"
+      },
+      "artists": [
+        {
+          "name": "Thabo Krouwkam",
+          "url": "https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186367,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/77krcHfId85O4se7W5HpTY"
     },
     {
       "album": {
@@ -5918,7 +5976,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 202653,
       "name": "Stay as You Are",
       "url": "https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV"
@@ -6062,6 +6120,28 @@
       "duration_ms": 204720,
       "name": "Tell Me Your Politik (feat. Moonchild Sanelly & Nile Rodgers)",
       "url": "https://open.spotify.com/track/6gCH4wAIrV7YHUGTSLQmC3"
+    },
+    {
+      "album": {
+        "name": "Spirit of Praise, Vol. 8 (Live)",
+        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mpumi Mtsweni",
+          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475664,
+      "name": "Thath'Indawo (Live)",
+      "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
     },
     {
       "album": {

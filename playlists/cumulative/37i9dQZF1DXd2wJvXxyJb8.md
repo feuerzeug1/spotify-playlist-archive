@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> procuro novos amigos....requisito: casa com piscina...manda dm
+> alguem tem indicação de profissional com interesse em pagar meus boletos??? obg!!
 
 234 songs - 10 hr 44 min
 

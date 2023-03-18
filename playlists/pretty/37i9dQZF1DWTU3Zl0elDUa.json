@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 232291,
+  "num_followers": 233202,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMDQzNGZmODVjNDkxODM4OGE1NTYxMzNkZmExYTdhNzM1",
+  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMDZkMzI3MzE1OGI5MjI0OTEzOWQ5ZTFmM2QxNTA3YzY2",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Deep Inside",
-        "url": "https://open.spotify.com/album/5ZOD5pFIYtgkqzbRegxxHY"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 390560,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/6iNncT0HlEZNVoBQbFrdLs"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Pasilda (Extended Versions)",
         "url": "https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 426000,
       "name": "Pasilda - Knee Deep Club Mix",
       "url": "https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/5ZOD5pFIYtgkqzbRegxxHY"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 390560,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/6iNncT0HlEZNVoBQbFrdLs"
     },
     {
       "added_at": "2021-09-17 08:34:50",

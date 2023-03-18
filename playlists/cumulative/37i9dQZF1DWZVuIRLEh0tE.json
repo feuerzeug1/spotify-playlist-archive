@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "500 Kitipo",
+        "url": "https://open.spotify.com/album/6WfpQ5SjTxdutw4fcG3MlP"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        },
+        {
+          "name": "Zunna",
+          "url": "https://open.spotify.com/artist/7kezrkuYBnE989Mv0gmIZ6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136173,
+      "name": "500 Kitipo",
+      "url": "https://open.spotify.com/track/0janGo5Veg5JjsF3x7h19w"
+    },
+    {
+      "album": {
         "name": "A I O",
         "url": "https://open.spotify.com/album/2CtAbuWgmb2To6lJ7Y8LO3"
       },
@@ -292,6 +314,28 @@
       "duration_ms": 135815,
       "name": "Bobo En La Calle",
       "url": "https://open.spotify.com/track/4ZSSFS9FrRU9NRP0X3bVoB"
+    },
+    {
+      "album": {
+        "name": "Bobo Rebu",
+        "url": "https://open.spotify.com/album/7HvjwBbgqbMq9krLPpEWDt"
+      },
+      "artists": [
+        {
+          "name": "Yopo la Grasa",
+          "url": "https://open.spotify.com/artist/5Zs8CbRU3dQfvoH5ZcWnfB"
+        },
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154290,
+      "name": "Bobo Rebu",
+      "url": "https://open.spotify.com/track/6Gtr5spQbDYeRHIi48fvnN"
     },
     {
       "album": {
@@ -765,6 +809,28 @@
     },
     {
       "album": {
+        "name": "Doggy Doggy",
+        "url": "https://open.spotify.com/album/4meeL0ZVvnYmaEjA8iz7HX"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248869,
+      "name": "Doggy Doggy",
+      "url": "https://open.spotify.com/track/5WOzZJJJIEuh0thdCS0LkF"
+    },
+    {
+      "album": {
         "name": "E'ta Nin\u0303a",
         "url": "https://open.spotify.com/album/3YbxIXdJvyyi031W3nF8EF"
       },
@@ -890,6 +956,32 @@
       "duration_ms": 196693,
       "name": "Elma Maria",
       "url": "https://open.spotify.com/track/2X0ZB9z924BusDXia6yYiw"
+    },
+    {
+      "album": {
+        "name": "Empatilla",
+        "url": "https://open.spotify.com/album/4ZkaaqThbhFhUYXht0D35D"
+      },
+      "artists": [
+        {
+          "name": "Olle Jey",
+          "url": "https://open.spotify.com/artist/3cTW4GbKjWqX3Sj4uZEpeH"
+        },
+        {
+          "name": "Young Gatillo",
+          "url": "https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD"
+        },
+        {
+          "name": "Imperio Record",
+          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149528,
+      "name": "Empatilla",
+      "url": "https://open.spotify.com/track/0uLzYKUTtcWIXJEJmq2Zjy"
     },
     {
       "album": {
@@ -1249,6 +1341,32 @@
     },
     {
       "album": {
+        "name": "Jugando con la Nieve",
+        "url": "https://open.spotify.com/album/2MzO7ZX3uRtJS4zuf6Koor"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        },
+        {
+          "name": "BBinc",
+          "url": "https://open.spotify.com/artist/1VUpITDLlaLQXHJrBXXiB7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Jugando con la Nieve",
+      "url": "https://open.spotify.com/track/6HnlIqJUzp4kv4QvPzolem"
+    },
+    {
+      "album": {
         "name": "LA 63",
         "url": "https://open.spotify.com/album/6VU9qBUtTXsjHaEACIxFVt"
       },
@@ -1264,7 +1382,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 157884,
       "name": "LA 63",
       "url": "https://open.spotify.com/track/3oxuB1r6rZbKMJzxkbahuG"
@@ -1308,7 +1426,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 128000,
       "name": "La Funda",
       "url": "https://open.spotify.com/track/3AqPhTjceCb24WkWUhAQdy"
@@ -1555,6 +1673,32 @@
     },
     {
       "album": {
+        "name": "LOS POBRES Y LOS RICOS",
+        "url": "https://open.spotify.com/album/6LDa3nMGDUFrNxGpXI21nV"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199304,
+      "name": "LOS POBRES Y LOS RICOS",
+      "url": "https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF"
+    },
+    {
+      "album": {
         "name": "SAGITARIO",
         "url": "https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4"
       },
@@ -1608,6 +1752,28 @@
       "duration_ms": 178176,
       "name": "MALA",
       "url": "https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ"
+    },
+    {
+      "album": {
+        "name": "Malabu",
+        "url": "https://open.spotify.com/album/6lZyKKjwxqciNXhikIj75A"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168855,
+      "name": "Malabu",
+      "url": "https://open.spotify.com/track/6cIDPdoQ9RaKT9raNW6TsJ"
     },
     {
       "album": {
@@ -1692,6 +1858,28 @@
       "duration_ms": 155781,
       "name": "Mi Ciudad",
       "url": "https://open.spotify.com/track/01fjnRkTRiCiP3C02LOW7s"
+    },
+    {
+      "album": {
+        "name": "Mi Flaca",
+        "url": "https://open.spotify.com/album/0x9ue70sk15y8M4EDjGLHx"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        },
+        {
+          "name": "DJ Kiko El De Lo Alka",
+          "url": "https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110500,
+      "name": "Mi Flaca",
+      "url": "https://open.spotify.com/track/0QzZqrEZ4FpviHkpafy5lQ"
     },
     {
       "album": {
@@ -2168,7 +2356,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 203870,
       "name": "Nuevo",
       "url": "https://open.spotify.com/track/5G6AOw6uR9i8vN2luzCeCU"
@@ -2510,7 +2698,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 166500,
       "name": "Taka Taka Tun",
       "url": "https://open.spotify.com/track/0QVA4MUxafYeIXekJXrGQb"
@@ -2729,6 +2917,32 @@
     },
     {
       "album": {
+        "name": "Tu Me La Sube",
+        "url": "https://open.spotify.com/album/1EfTn21JqligNVES38Vfaz"
+      },
+      "artists": [
+        {
+          "name": "Aleica",
+          "url": "https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE"
+        },
+        {
+          "name": "Zunna",
+          "url": "https://open.spotify.com/artist/7kezrkuYBnE989Mv0gmIZ6"
+        },
+        {
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tu Me La Sube",
+      "url": "https://open.spotify.com/track/6Vu4jijYXztmr7uHoDzG7t"
+    },
+    {
+      "album": {
         "name": "Un Chin",
         "url": "https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz"
       },
@@ -2835,6 +3049,28 @@
     },
     {
       "album": {
+        "name": "Vivo Por Palomo",
+        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206842,
+      "name": "Vivo Por Palomo",
+      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
+    },
+    {
+      "album": {
         "name": "Voy Pa la Calle",
         "url": "https://open.spotify.com/album/2P7G5Z6VhoEkvq5ukhjDHr"
       },
@@ -2920,7 +3156,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 214681,
       "name": "YO SOY REY MUSIC SESSIONS, VOL. 20",
       "url": "https://open.spotify.com/track/49gVADtn2BoDCldjCiIA54"

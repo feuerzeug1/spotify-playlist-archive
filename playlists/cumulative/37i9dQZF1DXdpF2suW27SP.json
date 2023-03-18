@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Wet Bed Gang entram na zona. ",
+  "description": "Supa Squad entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "DENTU DI MEXICO",
+        "url": "https://open.spotify.com/album/5YbHZ6WNSJDsSAwRO52jLZ"
+      },
+      "artists": [
+        {
+          "name": "BDK",
+          "url": "https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196879,
+      "name": "DENTU DI MEXICO",
+      "url": "https://open.spotify.com/track/1D4kI1sM2RVHKgcaWT6cVb"
+    },
+    {
+      "album": {
         "name": "Desce Do C\u00e9u",
         "url": "https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f"
       },
@@ -1858,10 +1880,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 181287,
       "name": "HALLYWUD",
       "url": "https://open.spotify.com/track/37OHWelZZiuSZwUzV9Sybv"
+    },
+    {
+      "album": {
+        "name": "Heartbreak & Other Stories",
+        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164706,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
     },
     {
       "album": {
@@ -1928,6 +1968,32 @@
       "duration_ms": 184315,
       "name": "Ilha de Honshu Remix (feat. X-Tense)",
       "url": "https://open.spotify.com/track/5ak2duOykHrs0dXUhtPdtO"
+    },
+    {
+      "album": {
+        "name": "Jatinho",
+        "url": "https://open.spotify.com/album/5pj3JgRdhRKS9Cy6AzCZ2n"
+      },
+      "artists": [
+        {
+          "name": "Rausch",
+          "url": "https://open.spotify.com/artist/5WV5P4B72pZn3DgYzV9Z9J"
+        },
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        },
+        {
+          "name": "Guilherme Santos",
+          "url": "https://open.spotify.com/artist/6LjnAX0EhoG27lZ3kTLxPu"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126230,
+      "name": "Jatinho",
+      "url": "https://open.spotify.com/track/0DRfoJamhO2kJRzNAULB12"
     },
     {
       "album": {
@@ -3615,6 +3681,28 @@
     },
     {
       "album": {
+        "name": "Heartbreak & Other Stories",
+        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181953,
+      "name": "Run Gimme",
+      "url": "https://open.spotify.com/track/6gAddLxdKIr8M6NQVCloDq"
+    },
+    {
+      "album": {
         "name": "Sabe a Pouco",
         "url": "https://open.spotify.com/album/2nWtjdgJlnz5lvrlaH0pRv"
       },
@@ -3710,7 +3798,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 179508,
       "name": "SHOT",
       "url": "https://open.spotify.com/track/4IZWISZrSBvO1gKK5hrLRC"
@@ -3754,7 +3842,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 149647,
       "name": "SINAIS",
       "url": "https://open.spotify.com/track/649ZuviVZzF7JnZSe5Z8ft"
@@ -3790,7 +3878,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 180674,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/3cxAhKg83buLsTYlmSIi9x"

@@ -1,13 +1,33 @@
 {
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=53rkvfvORuektsKbxqLlAA\">Ssaru </a> ",
-  "num_followers": 17118,
+  "num_followers": 17162,
   "original_name": "Gengetone Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM5NTU0MCwwMDAwMDAwMDZmNGExY2I1MzRhMTdhZjYyZjRkNWY4OGEyZjJhMGNl",
+  "snapshot_id": "MTY3OTAwMDM0MCwwMDAwMDAwMGFkZWQxMTNkMzM1ZDhhMTRiMzNjNzQ4MDk3ZWE2ZTRj",
   "tracks": [
+    {
+      "added_at": "2023-03-09 20:59:00",
+      "album": {
+        "name": "Kaskie Vibaya",
+        "url": "https://open.spotify.com/album/3I2xim6t1W5RqtqXKElICs"
+      },
+      "artists": [
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        }
+      ],
+      "duration_ms": 157844,
+      "name": "Kaskie Vibaya",
+      "url": "https://open.spotify.com/track/1kgxOHGjNsyg4fGZ31YJQT"
+    },
     {
       "added_at": "2023-03-09 20:59:00",
       "album": {
@@ -29,24 +49,28 @@
       "url": "https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar"
     },
     {
-      "added_at": "2023-03-09 20:59:00",
+      "added_at": "2023-03-16 20:59:00",
       "album": {
-        "name": "Kaskie Vibaya",
-        "url": "https://open.spotify.com/album/3I2xim6t1W5RqtqXKElICs"
+        "name": "Yinga",
+        "url": "https://open.spotify.com/album/2zkSoisn7kPVhKHEBos1sY"
       },
       "artists": [
         {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+          "name": "Iphoolish",
+          "url": "https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp"
         },
         {
-          "name": "Ssaru",
-          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        },
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
         }
       ],
-      "duration_ms": 157844,
-      "name": "Kaskie Vibaya",
-      "url": "https://open.spotify.com/track/1kgxOHGjNsyg4fGZ31YJQT"
+      "duration_ms": 227755,
+      "name": "Napenda Wote",
+      "url": "https://open.spotify.com/track/6KqqpWRJtPmgE4GZaQSyje"
     },
     {
       "added_at": "2023-03-09 20:59:00",
@@ -89,6 +113,26 @@
       "url": "https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF"
     },
     {
+      "added_at": "2023-03-16 20:59:00",
+      "album": {
+        "name": "Blueticks",
+        "url": "https://open.spotify.com/album/4PZ32ERekuiOH4K0QyPyG5"
+      },
+      "artists": [
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Blueticks",
+      "url": "https://open.spotify.com/track/3n9GFwWJZbOHr0bFz62dMm"
+    },
+    {
       "added_at": "2023-03-09 20:59:00",
       "album": {
         "name": "Piga 10 (Remix)",
@@ -107,6 +151,54 @@
       "duration_ms": 163500,
       "name": "Piga 10 (Remix)",
       "url": "https://open.spotify.com/track/06y8dBQqLdR1WD14YqzSYf"
+    },
+    {
+      "added_at": "2023-03-09 20:59:00",
+      "album": {
+        "name": "DANCEHALLING",
+        "url": "https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc"
+      },
+      "artists": [
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "DANCEHALLING",
+      "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
+    },
+    {
+      "added_at": "2023-03-09 20:59:00",
+      "album": {
+        "name": "Kuna Kuna",
+        "url": "https://open.spotify.com/album/6SfLFCTyZ9Os3uYxhZg8iT"
+      },
+      "artists": [
+        {
+          "name": "Vic West",
+          "url": "https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        },
+        {
+          "name": "Brandy Maina",
+          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
+        },
+        {
+          "name": "Thee Exit Band",
+          "url": "https://open.spotify.com/artist/5tCS32hMdQWpx8gJJsR673"
+        }
+      ],
+      "duration_ms": 212897,
+      "name": "Kuna Kuna",
+      "url": "https://open.spotify.com/track/53vfuY2r8Eg1jRMkjY62QZ"
     },
     {
       "added_at": "2023-03-09 20:59:00",
@@ -163,22 +255,6 @@
     {
       "added_at": "2023-03-09 20:59:00",
       "album": {
-        "name": "DANCEHALLING",
-        "url": "https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc"
-      },
-      "artists": [
-        {
-          "name": "Uncojingjong",
-          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "DANCEHALLING",
-      "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
-    },
-    {
-      "added_at": "2023-03-09 20:59:00",
-      "album": {
         "name": "Fukuru",
         "url": "https://open.spotify.com/album/0SmMmti8sJiW99U9OE4iEp"
       },
@@ -195,38 +271,6 @@
       "duration_ms": 231955,
       "name": "Fukuru",
       "url": "https://open.spotify.com/track/0g0EXBEerMRPEGIyRkZihw"
-    },
-    {
-      "added_at": "2023-03-09 20:59:00",
-      "album": {
-        "name": "Kuna Kuna",
-        "url": "https://open.spotify.com/album/6SfLFCTyZ9Os3uYxhZg8iT"
-      },
-      "artists": [
-        {
-          "name": "Vic West",
-          "url": "https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO"
-        },
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        },
-        {
-          "name": "Savara",
-          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
-        },
-        {
-          "name": "Brandy Maina",
-          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
-        },
-        {
-          "name": "Thee Exit Band",
-          "url": "https://open.spotify.com/artist/5tCS32hMdQWpx8gJJsR673"
-        }
-      ],
-      "duration_ms": 212897,
-      "name": "Kuna Kuna",
-      "url": "https://open.spotify.com/track/53vfuY2r8Eg1jRMkjY62QZ"
     },
     {
       "added_at": "2023-03-09 20:59:00",
@@ -275,6 +319,30 @@
       "duration_ms": 214857,
       "name": "Mambo Imechemka",
       "url": "https://open.spotify.com/track/5SyPmuZe24BtCHywXppTkZ"
+    },
+    {
+      "added_at": "2023-03-16 20:59:00",
+      "album": {
+        "name": "Mapema Ndio Best",
+        "url": "https://open.spotify.com/album/5qz0x0K2k5b4N8DFjjQPoY"
+      },
+      "artists": [
+        {
+          "name": "Gwaash",
+          "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
+        },
+        {
+          "name": "THEONLYDELO",
+          "url": "https://open.spotify.com/artist/20oN1j6cWOJ2GgnBsN0lye"
+        },
+        {
+          "name": "K4kanali",
+          "url": "https://open.spotify.com/artist/6dgXAgAu8iBRCAEk6Ie2TF"
+        }
+      ],
+      "duration_ms": 205891,
+      "name": "Mapema Ndio Best",
+      "url": "https://open.spotify.com/track/5b8caYTRWpbi5I0jKrVah1"
     },
     {
       "added_at": "2023-03-09 20:59:00",
@@ -1571,6 +1639,22 @@
     {
       "added_at": "2023-03-09 20:59:00",
       "album": {
+        "name": "Frisky",
+        "url": "https://open.spotify.com/album/6QZ8KKgYXkrz5z8MHd0Kle"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "duration_ms": 187559,
+      "name": "Hivi Na Hivo",
+      "url": "https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6"
+    },
+    {
+      "added_at": "2023-03-09 20:59:00",
+      "album": {
         "name": "Zimenice",
         "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
       },
@@ -1679,22 +1763,6 @@
     {
       "added_at": "2023-03-09 20:59:00",
       "album": {
-        "name": "Madem Wa Nai",
-        "url": "https://open.spotify.com/album/5HtIiLcsMzvYKnF2UpcsbV"
-      },
-      "artists": [
-        {
-          "name": "Team Psycho",
-          "url": "https://open.spotify.com/artist/24v7cO9PN9dqIykt0Nz5SU"
-        }
-      ],
-      "duration_ms": 190985,
-      "name": "Madem Wa Nai",
-      "url": "https://open.spotify.com/track/7f3J5D674s54ZaMPkSAHbs"
-    },
-    {
-      "added_at": "2023-03-09 20:59:00",
-      "album": {
         "name": "Benga Na Mugithi",
         "url": "https://open.spotify.com/album/1WdFU97TxjASpt2KQ24SyT"
       },
@@ -1723,50 +1791,6 @@
       "duration_ms": 192237,
       "name": "Benga Na Mugithi",
       "url": "https://open.spotify.com/track/5vM0Y4MatVHi8laJoHtBtj"
-    },
-    {
-      "added_at": "2023-03-09 20:59:00",
-      "album": {
-        "name": "Frisky",
-        "url": "https://open.spotify.com/album/6QZ8KKgYXkrz5z8MHd0Kle"
-      },
-      "artists": [
-        {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
-        }
-      ],
-      "duration_ms": 187559,
-      "name": "Hivi Na Hivo",
-      "url": "https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6"
-    },
-    {
-      "added_at": "2023-03-09 20:59:00",
-      "album": {
-        "name": "Mzimbiting",
-        "url": "https://open.spotify.com/album/2DUDOGsH1uGyo0asT4Jjzt"
-      },
-      "artists": [
-        {
-          "name": "Exray Taniua",
-          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
-        },
-        {
-          "name": "Guzman",
-          "url": "https://open.spotify.com/artist/4Hk4PlFIhLwmCITL73SKTN"
-        },
-        {
-          "name": "Micharazo",
-          "url": "https://open.spotify.com/artist/4Cky4RSgVV5QtGfC6XQ9sO"
-        },
-        {
-          "name": "mbogi genje",
-          "url": "https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi"
-        }
-      ],
-      "duration_ms": 224554,
-      "name": "Mzimbiting",
-      "url": "https://open.spotify.com/track/0uDiCG0PNkRNc32AjTDDQj"
     },
     {
       "added_at": "2023-03-09 20:59:00",

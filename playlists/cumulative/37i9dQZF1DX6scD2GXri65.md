@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-110 songs - 6 hr 14 min
+111 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Hit The Afterparty](https://open.spotify.com/track/3czMy7K3eGvkFtHwOLqoSu) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS), [RAPTVRE](https://open.spotify.com/artist/1TQbwHL5ZtNNyS7cZxOBNj), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Hit The Afterparty](https://open.spotify.com/album/3GIzpzs5uIMfdCFlV25sO8) | 3:12 | 2022-12-08 |  |
 | [Homicide](https://open.spotify.com/track/4NmhzsJzX7Uuela2spmT4m) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW) | [Homicide](https://open.spotify.com/album/07ouV5DcJj6d7ICyCM9e6y) | 3:41 | 2022-12-08 | 2023-02-28 |
 | [Human Error](https://open.spotify.com/track/2GELXkWZuBBSfpztDWC1qP) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN) | [Human Error](https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5) | 2:22 | 2023-01-26 |  |
+| [Hurricane \- Radio Edit](https://open.spotify.com/track/3kLqJ09xramYW9I9gAXTWl) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [We Rule The Night](https://open.spotify.com/album/7dTraFnFY6BGZFZtjMwBxs) | 4:55 | 2023-03-16 |  |
 | [I Like Bass](https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [I Like Bass](https://open.spotify.com/album/2TYqqDD5mwdd72JGvl4jOy) | 4:29 | 2023-02-14 |  |
 | [I Like To Party](https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [I Like To Party](https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ) | 2:39 | 2023-01-12 |  |
 | [I Want Your Soul](https://open.spotify.com/track/2rosWrNtwFrIYiMq0hzlw8) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [I Want Your Soul](https://open.spotify.com/album/6ZSUpJ9f7Ea5OKu4R2glxK) | 3:58 | 2022-12-08 | 2022-12-24 |
@@ -92,7 +93,7 @@
 | [Talk About Love](https://open.spotify.com/track/2xt0pHaU80RC2Bl4MOHu9F) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [Talk About Love](https://open.spotify.com/album/0hsdvnqphHGsU502IjypgO) | 2:59 | 2023-02-28 |  |
 | [The Gambling Zone](https://open.spotify.com/track/3CdD2Hqu1JrwonhkYr8fiv) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [The Gambling Zone](https://open.spotify.com/album/3jWZ3na0qjuAGh54DK809V) | 4:12 | 2022-12-08 |  |
 | [The Keymaker](https://open.spotify.com/track/54Qx60cjse61OwpSV3uFV0) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [The Keymaker](https://open.spotify.com/album/2P5DmfM29EIvlYoFiLnAJG) | 3:07 | 2022-12-08 |  |
-| [The Limelight](https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [The Limelight](https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j) | 4:32 | 2022-12-15 |  |
+| [The Limelight](https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [The Limelight](https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j) | 4:32 | 2022-12-15 | 2023-03-18 |
 | [The Night \- Hardstyle Mix](https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1) | [Rob & Chris](https://open.spotify.com/artist/4TpbEVsX4U0Cs9QhhI2JyG), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [The Night \(Hardstyle Mix\)](https://open.spotify.com/album/7foUHVIJy7YFBDP1OFskL1) | 2:28 | 2023-01-26 |  |
 | [The Rave Dome](https://open.spotify.com/track/4Srdf7olznuLK2qC67Zjbp) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [The Rave Dome](https://open.spotify.com/album/2NNtdRHLtQSRJSIDySbTnS) | 3:25 | 2023-01-26 |  |
 | [The Raven Of The Night](https://open.spotify.com/track/4SdCxGUYg3XRezP1VBrKAn) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [The Raven Of The Night](https://open.spotify.com/album/48NY92V1K9NtzgfH3jbOAu) | 4:22 | 2022-12-08 |  |

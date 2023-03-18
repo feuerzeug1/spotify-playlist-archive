@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: YABI×YABI
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,824 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,873 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 24 | [kawaii sniper](https://open.spotify.com/track/1CWxL8vJPg1X9i80YkE2rl) | [Takenoko boy](https://open.spotify.com/artist/2zKwytgt08aI3hRAkwXLSV) | [kawaii sniper](https://open.spotify.com/album/3i5hWVYZSlmyyUc3p79Pu3) | 2:34 |
 | 25 | [キス・ミー・パティシエ](https://open.spotify.com/track/4PMaqbGA4mX7lyvZEPSW1t) | [CANDY TUNE](https://open.spotify.com/artist/4Yq4M6kdQTjkPBOp7aPJrA) | [CANDY TUNE](https://open.spotify.com/album/1wWlPzZxCuehpTuuZpVGs3) | 3:36 |
 | 26 | [Kireigoto\-Fine\-Sounding Talk\-](https://open.spotify.com/track/47rj7wj8LDSiSHPa7noXDl) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Kireigoto\-Fine\-Sounding Talk\-](https://open.spotify.com/album/0XxEaLhmvfcbhUFUHpRY33) | 3:03 |
-| 27 | [We've Come So Far](https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [We've Come So Far](https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo) | 3:58 |
+| 27 | [We've Come So Far](https://open.spotify.com/track/5FRTam306WIvvLrmmroNCs) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 3:58 |
 | 28 | [勿体無い](https://open.spotify.com/track/3GQJb7NMVZ8yBRpap7N3TJ) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [勿体無い](https://open.spotify.com/album/7eBRbpcDWdzLYpCShTY9Xb) | 3:35 |
 | 29 | [前夜](https://open.spotify.com/track/57M5gx8YCxENPqSgNFoi8c) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [余白にいたら、](https://open.spotify.com/album/7FRSMhZwqwmU1kmmqyljCW) | 2:49 |
 | 30 | [ジャスミン](https://open.spotify.com/track/0c3QOJwuRjt37y8slQJP3q) | [molly](https://open.spotify.com/artist/7gWcKdcutmkQ3igGkCuvh0) | [ジャスミン](https://open.spotify.com/album/0q0k77bwg8U7JZ16zD0OdM) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [LOVE](https://open.spotify.com/track/6B3hW9N34J1rTT6aMbcMn4) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [LOVE](https://open.spotify.com/album/5Kala9TLYPDNiz03dS1UjT) | 3:08 |
 | 80 | [Blue \(feat\. MindaRyn\)](https://open.spotify.com/track/0VvH7N4iVMBTbfgbuYUihl) | [NOILION](https://open.spotify.com/artist/7A8ngqXYxuxssjjLk8c0BH), [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Blue \(feat\. MindaRyn\)](https://open.spotify.com/album/6fqvj9SQwcQquVhWrDKuUM) | 3:10 |
 
-Snapshot ID: `MTY3ODc3MjExMSwwMDAwMDAwMDJhMWJiYzJmMzg1YWZkYzI4Y2MwYzlkNTZiNmU4MzAy`
+Snapshot ID: `MTY3ODc3MjExMSwwMDAwMDAwMDNhNTUyOGRjN2RiYTM2MWVjNzQ4MjQ4MDI0YWI4MTYx`

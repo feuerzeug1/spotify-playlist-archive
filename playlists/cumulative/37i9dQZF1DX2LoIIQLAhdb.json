@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Maud Elka",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Dadju",
   "name": "R&Bae",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 135000,
       "name": "20\u00e8me symphonie",
       "url": "https://open.spotify.com/track/2DQOu0QGjeRPJ8NzyUO4l2"
@@ -56,6 +56,24 @@
       "duration_ms": 179132,
       "name": "ANANAS - Acoustic version",
       "url": "https://open.spotify.com/track/3nfP0gnomKijWe3LikQg7P"
+    },
+    {
+      "album": {
+        "name": "Cullinan (Gel\u00e9e Royale 1 & 2)",
+        "url": "https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203050,
+      "name": "Assez (\u00e9pisode 1)",
+      "url": "https://open.spotify.com/track/5knL7kkdGRwHHS1sjZIH5H"
     },
     {
       "album": {
@@ -313,6 +331,28 @@
     },
     {
       "album": {
+        "name": "Dans La Chambre / Money",
+        "url": "https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285870,
+      "name": "Dans La Chambre / Money",
+      "url": "https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt"
+    },
+    {
+      "album": {
         "name": "Dans ma t\u00eate",
         "url": "https://open.spotify.com/album/1Vk9aNStxPy3DbGHDmkbxW"
       },
@@ -386,7 +426,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 177860,
       "name": "D\u00e9chirer",
       "url": "https://open.spotify.com/track/58n3lagQzx7m6oUYdlhaqz"
@@ -787,6 +827,28 @@
     },
     {
       "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/6ON6G3oNKLuDYfJOshwuK6"
+      },
+      "artists": [
+        {
+          "name": "Mv",
+          "url": "https://open.spotify.com/artist/4NCWWjplzDnwE3YAkRLHjc"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169579,
+      "name": "K.O",
+      "url": "https://open.spotify.com/track/7fYlVF4X0NFcU2cVMJT3ve"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/7KUuZ9P4F4gUda00i45pQ2"
       },
@@ -910,7 +972,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 180804,
       "name": "Les m\u00eames",
       "url": "https://open.spotify.com/track/23rJ3HBSrfti4np2beqIQj"
@@ -1058,10 +1120,28 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 195250,
       "name": "Mal de toi",
       "url": "https://open.spotify.com/track/6nSP9koY7i80mhkyCtjzJj"
+    },
+    {
+      "album": {
+        "name": "Maman prie pour moi",
+        "url": "https://open.spotify.com/album/5eyY7n2RVG8smbzZ0Gca3R"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172588,
+      "name": "Maman prie pour moi",
+      "url": "https://open.spotify.com/track/4PIMhQmPQuMdwiP0c8J7LL"
     },
     {
       "album": {
@@ -1466,7 +1546,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 188044,
       "name": "Quart d\u2019heure",
       "url": "https://open.spotify.com/track/2oDiYffqlWKYwLtKdDmKqD"
@@ -1728,6 +1808,28 @@
       "duration_ms": 198773,
       "name": "Un bout de nous",
       "url": "https://open.spotify.com/track/2vn8j2f7rqfaz3myB5j4vp"
+    },
+    {
+      "album": {
+        "name": "Une Femme",
+        "url": "https://open.spotify.com/album/0mbq63Bpo92pg9pCX1uxcp"
+      },
+      "artists": [
+        {
+          "name": "Kayna Samet",
+          "url": "https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k"
+        },
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Une Femme",
+      "url": "https://open.spotify.com/track/5QV9n75vtzTzXuVUZDWyt9"
     },
     {
       "album": {

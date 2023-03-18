@@ -1,29 +1,13 @@
 {
-  "description": "The new wave of rock from the UK & Ireland. Cover: SPIDER",
-  "num_followers": 5671,
+  "description": "The new wave of rock from the UK & Ireland. Cover: Boy Bleach",
+  "num_followers": 5681,
   "original_name": "shockwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ3MDQzNywwMDAwMDAwMGEzNzBmNGUwNGM4ZjQ2NjJlOTEwNGYyMmI5ZmVjMTJl",
+  "snapshot_id": "MTY3OTA0NjkzNywwMDAwMDAwMGJhMWFkNTEyOWMwYzlhNTMxNWIzMDNkNDkyYTljY2Vj",
   "tracks": [
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "fuzz",
-        "url": "https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "fuzz",
-      "url": "https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG"
-    },
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
@@ -39,6 +23,54 @@
       "duration_ms": 171443,
       "name": "delirious",
       "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "I EXIST",
+        "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "I EXIST",
+      "url": "https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Daylight Robbery",
+        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
+      },
+      "artists": [
+        {
+          "name": "Boy Bleach",
+          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "Daylight Robbery",
+      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "fuzz",
+        "url": "https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "fuzz",
+      "url": "https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -87,22 +119,6 @@
       "duration_ms": 172120,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "I EXIST",
-        "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
-      },
-      "artists": [
-        {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "I EXIST",
-      "url": "https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -313,6 +329,26 @@
       "url": "https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6"
     },
     {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "claws",
+        "url": "https://open.spotify.com/album/2ZPsWmEP1LUW9fxuM1bVAV"
+      },
+      "artists": [
+        {
+          "name": "Kurtis",
+          "url": "https://open.spotify.com/artist/1ZV5RU7ViRwlv7vqWuOHRf"
+        },
+        {
+          "name": "wishlane",
+          "url": "https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l"
+        }
+      ],
+      "duration_ms": 204857,
+      "name": "claws",
+      "url": "https://open.spotify.com/track/2HgmmSd1lZesLJU1koxI8T"
+    },
+    {
       "added_at": "2023-03-10 17:47:17",
       "album": {
         "name": "SADFACE",
@@ -407,6 +443,26 @@
       "duration_ms": 232679,
       "name": "Madman",
       "url": "https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6K6oiAZS3oOlH9VEAIbL2U"
+      },
+      "artists": [
+        {
+          "name": "Bleak Soul",
+          "url": "https://open.spotify.com/artist/2iMxVnS6Ovd7R0C5kHdo6p"
+        },
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Nostalgia (ft. Patty Walters)",
+      "url": "https://open.spotify.com/track/7urqfz7paOyKHayDEa7uGC"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1107,6 +1163,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "duration_ms": 212138,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Live Laugh Love",
         "url": "https://open.spotify.com/album/0QpxeNDCvP58iDeOcJIoVK"
       },
@@ -1123,6 +1195,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Country Life",
+        "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "Country Life",
+      "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "CAUSTIC",
         "url": "https://open.spotify.com/album/6d305ez1t5HUZjXsNUWQRf"
       },
@@ -1135,6 +1223,38 @@
       "duration_ms": 158750,
       "name": "stockholme syndrome",
       "url": "https://open.spotify.com/track/3vBgnkGxNvflZGsNSE2d57"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "in my ways",
+        "url": "https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 143044,
+      "name": "in my ways",
+      "url": "https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "I Never Say No",
+        "url": "https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "duration_ms": 198835,
+      "name": "I Never Say No",
+      "url": "https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1215,86 +1335,6 @@
       "duration_ms": 192488,
       "name": "My Perfect",
       "url": "https://open.spotify.com/track/4wd0skBSF7oBUOeULBeitG"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "I Never Say No",
-        "url": "https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi"
-      },
-      "artists": [
-        {
-          "name": "Hannah Grae",
-          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
-        }
-      ],
-      "duration_ms": 198835,
-      "name": "I Never Say No",
-      "url": "https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
-        }
-      ],
-      "duration_ms": 212138,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "RUN & HIDE",
-        "url": "https://open.spotify.com/album/2r5LYOb2EY3Uvg10ELI5sE"
-      },
-      "artists": [
-        {
-          "name": "Layzee Gold",
-          "url": "https://open.spotify.com/artist/7hcfPgk1kIiXbQFbLwkTwK"
-        }
-      ],
-      "duration_ms": 108984,
-      "name": "RUN & HIDE",
-      "url": "https://open.spotify.com/track/7EFbx9VydYfzHnBBVtZiDc"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Country Life",
-        "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "Country Life",
-      "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "in my ways",
-        "url": "https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 143044,
-      "name": "in my ways",
-      "url": "https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ"
     }
   ],
   "unique_name": "shockwave",

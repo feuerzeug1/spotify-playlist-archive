@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 227707,
       "name": "220",
       "url": "https://open.spotify.com/track/6XOjW4o65uMwEhQTreISpU"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 242762,
       "name": "Adult",
       "url": "https://open.spotify.com/track/63XfIeYZsChaaky8oIXmE4"
@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Under Wishing Stars",
+        "url": "https://open.spotify.com/album/2TbvOuz2VmxIw4B5Td6MK1"
+      },
+      "artists": [
+        {
+          "name": "CHARLOT",
+          "url": "https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182837,
+      "name": "Caged Birds",
+      "url": "https://open.spotify.com/track/2Kb0J8N4AG9Nn6Ew5bcEXv"
+    },
+    {
+      "album": {
         "name": "Caged Birds",
         "url": "https://open.spotify.com/album/7qrCOjz9zwCbi1Ht3UvrPO"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 182837,
       "name": "Caged Birds",
       "url": "https://open.spotify.com/track/3vIWEQx9ZvuPuYHKV1EmXn"
@@ -568,7 +586,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 240000,
       "name": "just killing (time)",
       "url": "https://open.spotify.com/track/0yiXlHnykTqp7srRhFPYQ3"
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 226890,
       "name": "Verloren Tijd",
       "url": "https://open.spotify.com/track/4M8HWpd7FGfbyOpVmlwX4n"
@@ -1198,6 +1216,24 @@
       "duration_ms": 215000,
       "name": "Voor Mij",
       "url": "https://open.spotify.com/track/7pzkGhxM5Y99vKROli3Tpc"
+    },
+    {
+      "album": {
+        "name": "Fractalnoia",
+        "url": "https://open.spotify.com/album/5b5IyYzwJEOoJ6mh5PY5sq"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Onck",
+          "url": "https://open.spotify.com/artist/7I8XQUz2YhHaF41tpOpwbW"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211628,
+      "name": "Waarheid",
+      "url": "https://open.spotify.com/track/4RhNIEtjdzHG2tMZxdNtnp"
     },
     {
       "album": {
@@ -1252,6 +1288,24 @@
       "duration_ms": 252041,
       "name": "Woman Life Freedom",
       "url": "https://open.spotify.com/track/4pbNBY48GTfZ16X4jJxba5"
+    },
+    {
+      "album": {
+        "name": "Into Your Head",
+        "url": "https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r"
+      },
+      "artists": [
+        {
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179395,
+      "name": "youandme",
+      "url": "https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE"
     },
     {
       "album": {

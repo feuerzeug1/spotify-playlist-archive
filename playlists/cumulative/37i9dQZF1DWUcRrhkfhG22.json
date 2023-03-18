@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Let's Go Together",
+        "url": "https://open.spotify.com/album/3ffgb8aHC3sycnVQsgcyaT"
+      },
+      "artists": [
+        {
+          "name": "Bona Bones",
+          "url": "https://open.spotify.com/artist/5gW0xZN1FxeI1Wdi1qY3tN"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Let's Go Together",
+      "url": "https://open.spotify.com/track/52A67oeovso5ADtHCR7LJs"
+    },
+    {
+      "album": {
         "name": "Like a Robot",
         "url": "https://open.spotify.com/album/2OdHcVJdxJVtu9lFmjEt3G"
       },

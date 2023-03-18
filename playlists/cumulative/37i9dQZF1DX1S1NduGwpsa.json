@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover:  Samara Joy",
+  "description": "The best jazz new releases. Cover:  Alfa Mist",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "earth sounds",
+        "url": "https://open.spotify.com/album/3waYOXzSiDX8CnwOSkZVWT"
+      },
+      "artists": [
+        {
+          "name": "JaRon Marshall",
+          "url": "https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150076,
+      "name": "around the world",
+      "url": "https://open.spotify.com/track/6aRIwsMliE5WFAzrub4zX7"
+    },
+    {
+      "album": {
         "name": "ASTA 2",
         "url": "https://open.spotify.com/album/54ew3n9npGAcqI9GtBBTpo"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 450240,
       "name": "BC",
       "url": "https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG"
@@ -1676,7 +1694,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 213431,
       "name": "Hate is the Basis (of Love)",
       "url": "https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3"
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 234133,
       "name": "I Saw Her Standing There",
       "url": "https://open.spotify.com/track/3aVmoxYkKf1Hgv7JzRr6OJ"
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 123520,
       "name": "I'm Beginning To See The Light",
       "url": "https://open.spotify.com/track/5N4NtrtZiyt6frX3Lf3Hrm"
@@ -2184,6 +2202,24 @@
       "duration_ms": 191033,
       "name": "Just in Time",
       "url": "https://open.spotify.com/track/3qF3gCZxWzt9j60XfjtohG"
+    },
+    {
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187005,
+      "name": "Just Me This Year",
+      "url": "https://open.spotify.com/track/0pVUyPxZk9qYINtd0nsWhG"
     },
     {
       "album": {
@@ -3390,6 +3426,24 @@
       "duration_ms": 195777,
       "name": "Reste un oiseau",
       "url": "https://open.spotify.com/track/4miACj3Pi7Pox3ylFNFZ9s"
+    },
+    {
+      "album": {
+        "name": "Rituel du soleil",
+        "url": "https://open.spotify.com/album/1349X3aKwOlh6XimmsJS5U"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efssam Jalal",
+          "url": "https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366880,
+      "name": "Rituel du soleil",
+      "url": "https://open.spotify.com/track/28s6vG5qO8iJ6EOtqIoBQZ"
     },
     {
       "album": {
@@ -4810,6 +4864,24 @@
       "duration_ms": 241000,
       "name": "When I First Saw Your Face",
       "url": "https://open.spotify.com/track/78EF8TCHy2rDm19i7SXqhq"
+    },
+    {
+      "album": {
+        "name": "Where Will I Be?",
+        "url": "https://open.spotify.com/album/5UKySePl9G3Dq910vjPO3r"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269162,
+      "name": "Where Will I Be?",
+      "url": "https://open.spotify.com/track/66xrFr0ap2a807yw6qqmAD"
     },
     {
       "album": {

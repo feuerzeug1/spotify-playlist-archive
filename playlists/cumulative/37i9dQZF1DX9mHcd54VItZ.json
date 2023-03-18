@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=xrLjkasrQcu0AdhWIzzoGg\">Zaan Sonnekus</a>",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR?si=-uklwWiaQ2GaNJ-TJp-SyQ\">SAKKIE</a> & <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=DouTRLXgTSGA1YhBwm4zhA\">Francois van Coke</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 187925,
       "name": "9-2-5",
       "url": "https://open.spotify.com/track/522Xm0H1JrHGCUM0cRtuhx"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 275153,
       "name": "As I Turn Away",
       "url": "https://open.spotify.com/track/6CwB8nrDMcPa9WhLdvYlUv"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 176560,
       "name": "Burning Building",
       "url": "https://open.spotify.com/track/4GCCyU0clhBbGzoylegT0Z"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 241214,
       "name": "For the Pain",
       "url": "https://open.spotify.com/track/2PQ7EO8J48fdluJVXHCcBi"
@@ -1549,6 +1549,28 @@
     },
     {
       "album": {
+        "name": "Hey Jy",
+        "url": "https://open.spotify.com/album/18kpyRiXNAOEuTfRRks6xM"
+      },
+      "artists": [
+        {
+          "name": "SAKKIE",
+          "url": "https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR"
+        },
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159652,
+      "name": "Hey Jy",
+      "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
+    },
+    {
+      "album": {
         "name": "Hoer In Beton",
         "url": "https://open.spotify.com/album/6NwMydQDPSmxYq4OgZ9uPh"
       },
@@ -1648,6 +1670,24 @@
       "duration_ms": 269976,
       "name": "How To Feel",
       "url": "https://open.spotify.com/track/1tj3R3NipqoiaWj4gVLoHT"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/1DUB2TNAvBF8WMBvd2kUdr"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286160,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/1eRAZZelizJPQkksU0oEux"
     },
     {
       "album": {
@@ -2157,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "No Wah-Wah",
+        "url": "https://open.spotify.com/album/6jkxRWucYvKKu2SSTwzVb0"
+      },
+      "artists": [
+        {
+          "name": "Jim Neversink",
+          "url": "https://open.spotify.com/artist/7lcphTNzwW4Lx0FBAusFtK"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239812,
+      "name": "Mans Best Friend",
+      "url": "https://open.spotify.com/track/6U4udqe4YtkSnRwMoUkqTE"
+    },
+    {
+      "album": {
         "name": "Mayhem",
         "url": "https://open.spotify.com/album/53wKblbUHvMxx3pUskWF74"
       },
@@ -2190,7 +2248,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 186025,
       "name": "Midnight Man",
       "url": "https://open.spotify.com/track/69K78xQYAiwO7GUEJgXByG"
@@ -2356,7 +2414,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200320,
       "name": "No One Else Will",
       "url": "https://open.spotify.com/track/76KLjagyMyDblwHHHgVJLZ"
@@ -2764,6 +2822,24 @@
       "duration_ms": 201932,
       "name": "Revolusie",
       "url": "https://open.spotify.com/track/50Rbi8JYsD1kWfIQB4RsTg"
+    },
+    {
+      "album": {
+        "name": "Right in Front of My Eyes",
+        "url": "https://open.spotify.com/album/6xLguCVruY7SOBm8bLKW1r"
+      },
+      "artists": [
+        {
+          "name": "Last Days of Disco",
+          "url": "https://open.spotify.com/artist/6rRC11w1IstDz50kmJdF7s"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264917,
+      "name": "Right in Front of My Eyes",
+      "url": "https://open.spotify.com/track/1GHEHUv4wnJ1jpbBFNeEUu"
     },
     {
       "album": {
@@ -3187,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Story of the year",
+        "url": "https://open.spotify.com/album/4Fv1oewYh21SU5TVTFQWxY"
+      },
+      "artists": [
+        {
+          "name": "Gangsterdam",
+          "url": "https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199986,
+      "name": "Story of the year",
+      "url": "https://open.spotify.com/track/0YhlYDi66P9L6QaLib1h6t"
+    },
+    {
+      "album": {
         "name": "Suburban Casualty",
         "url": "https://open.spotify.com/album/7tUR8nLZ32a4UoimsM3hmI"
       },
@@ -3274,6 +3368,24 @@
       "duration_ms": 213252,
       "name": "Swine Tooth Grin - Single Mix",
       "url": "https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc"
+    },
+    {
+      "album": {
+        "name": "Taste of Freedom",
+        "url": "https://open.spotify.com/album/6meVX62WRMvgdkhmStMLIL"
+      },
+      "artists": [
+        {
+          "name": "Apollo Motel",
+          "url": "https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232902,
+      "name": "Taste of Freedom",
+      "url": "https://open.spotify.com/track/57z2oHMHeYZqjr3db5dspc"
     },
     {
       "album": {

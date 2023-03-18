@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of rock from the UK & Ireland. Cover: SPIDER",
+  "description": "The new wave of rock from the UK & Ireland. Cover: Boy Bleach",
   "name": "shockwave",
   "tracks": [
     {
@@ -221,6 +221,28 @@
     },
     {
       "album": {
+        "name": "claws",
+        "url": "https://open.spotify.com/album/2ZPsWmEP1LUW9fxuM1bVAV"
+      },
+      "artists": [
+        {
+          "name": "Kurtis",
+          "url": "https://open.spotify.com/artist/1ZV5RU7ViRwlv7vqWuOHRf"
+        },
+        {
+          "name": "wishlane",
+          "url": "https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204857,
+      "name": "claws",
+      "url": "https://open.spotify.com/track/2HgmmSd1lZesLJU1koxI8T"
+    },
+    {
+      "album": {
         "name": "GENRELESS",
         "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
@@ -272,6 +294,24 @@
       "duration_ms": 271813,
       "name": "Day Glow",
       "url": "https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa"
+    },
+    {
+      "album": {
+        "name": "Daylight Robbery",
+        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
+      },
+      "artists": [
+        {
+          "name": "Boy Bleach",
+          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "Daylight Robbery",
+      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
     },
     {
       "album": {
@@ -1373,6 +1413,28 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6K6oiAZS3oOlH9VEAIbL2U"
+      },
+      "artists": [
+        {
+          "name": "Bleak Soul",
+          "url": "https://open.spotify.com/artist/2iMxVnS6Ovd7R0C5kHdo6p"
+        },
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Nostalgia (ft. Patty Walters)",
+      "url": "https://open.spotify.com/track/7urqfz7paOyKHayDEa7uGC"
+    },
+    {
+      "album": {
         "name": "Our Love Is Growing",
         "url": "https://open.spotify.com/album/00TPwByRL8JEFa9aykOuW5"
       },
@@ -1600,7 +1662,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 108984,
       "name": "RUN & HIDE",
       "url": "https://open.spotify.com/track/7EFbx9VydYfzHnBBVtZiDc"

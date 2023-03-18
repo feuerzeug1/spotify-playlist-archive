@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-103 songs - 4 hr 44 min
+105 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Hush Little Baby](https://open.spotify.com/track/2c9HKwi5n2z4n5queDX0AE) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa), [Brady Rymer](https://open.spotify.com/artist/6Tw9CIKjWd3ysEK1eGsafx) | [Laurie Berkner Lullabies](https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa) | 3:01 | 2022-03-11 | 2022-07-29 |
 | [Hushabye](https://open.spotify.com/track/2y1YF28BrCoTpKRmo3CxBV) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq) | 2:45 | 2022-03-11 |  |
 | [I Can See Clearly Now](https://open.spotify.com/track/3e6JSJ8NtOzxbatXKnV6xh) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 2:50 | 2022-03-11 |  |
+| [I Can Sing a Rainbow](https://open.spotify.com/track/4mNAzxoAuv4pCWEdgzCxVb) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Sweet Dream Lullabies](https://open.spotify.com/album/1QfDDyXowHGlr3k65BvTYu) | 1:47 | 2023-03-17 |  |
 | [I Will Carry You \(Always Here for You\)](https://open.spotify.com/track/7jAxBhPJmRahOUGWD6YFop) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [Lullabies for Parents, Vol\. 1](https://open.spotify.com/album/3fgHiWJqP3SwbVWkStt1xg) | 3:24 | 2022-04-12 |  |
 | [I'll Be Dreaming of a Rainbow](https://open.spotify.com/track/6X6VftEidoeZ65GyQOiffT) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL), [Auntie Sally](https://open.spotify.com/artist/5f6BpYOumkBvrQukhTeckc) | [Sweet Dreams: Lullabies & Bedtime Nursery Rhymes](https://open.spotify.com/album/18AuP1JfaJY9N3DKGlIs50) | 4:14 | 2022-03-11 |  |
 | [If There Is A Song](https://open.spotify.com/track/5Yvm5MxwVNoLdNgy2zpSEW) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:43 | 2022-03-11 |  |
@@ -96,6 +97,7 @@
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/7jfoeT6J6bLHf6rgksNS6F) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Lullaby](https://open.spotify.com/album/6llW0Vf3YYuvnWC64o9cIB) | 2:51 | 2022-03-11 | 2023-03-10 |
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/7mYEKvsWn7I9kPoW079vEL) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Lullaby](https://open.spotify.com/album/6FI2xG0L76ow41nQTWcEPg) | 2:51 | 2022-03-11 | 2022-12-14 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 | 2022-03-11 |  |
+| [Sweet Starlight](https://open.spotify.com/track/7bDvZgHO5Td50ueLXcgh7j) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Sweet Dream Lullabies](https://open.spotify.com/album/1QfDDyXowHGlr3k65BvTYu) | 1:35 | 2023-03-17 |  |
 | [The Goodnight Song](https://open.spotify.com/track/4P2Na81VGRFOA9Gf7BykUX) | [Blake Wonders](https://open.spotify.com/artist/1EeQbJWCTnmZ5Np6QBEWxu) | [The Goodnight Song](https://open.spotify.com/album/2FINMH50M6gjbZ82Zuptp4) | 3:06 | 2022-03-11 |  |
 | [Three Little Birds](https://open.spotify.com/track/3PmyRCChFNofwqZNd8spmM) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5) | [It's a Big World](https://open.spotify.com/album/0YvbQAofFp33MyqSF6bO9w) | 3:42 | 2022-03-11 |  |
 | [til there was you](https://open.spotify.com/track/7fmVIBMLYiXRtTFOlxv90i) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for carmella: lullabies & sing\-a\-longs](https://open.spotify.com/album/3xl0OvcSlc9Mwe5ToaFtD3) | 2:07 | 2022-03-11 |  |

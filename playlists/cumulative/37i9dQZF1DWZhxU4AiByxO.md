@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-281 songs - 14 hr 11 min
+283 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Levitating](https://open.spotify.com/track/5vO3PsY6QhMkvMFyDdkxvt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Levitating](https://open.spotify.com/album/3FYC2tZK8uFIb4ZxvwF8Qs) | 3:06 | 2021-10-22 | 2022-07-29 |
 | [Levitating](https://open.spotify.com/track/71T7AEg2w92NVQV5ZZFkhv) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Summer Hits for Kids 2022](https://open.spotify.com/album/2kb8Dw5GTbPQCN5hI88LZk) | 3:06 | 2022-10-25 | 2022-11-13 |
 | [Like the Zombies Do](https://open.spotify.com/track/6PSN0NJHzkCmNWGpF6yDsj) | [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [Kylee Russell](https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1), [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs) | 2:03 | 2021-10-22 |  |
+| [Made You Look](https://open.spotify.com/track/4MYmtvx4fJhTQa05a1k57w) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Made You Look](https://open.spotify.com/album/78Gof3q5tLFoLN94sFjntF) | 2:13 | 2023-03-17 |  |
 | [Me Too](https://open.spotify.com/track/05qecc13jTsHwrkEQRSEFA) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/18wL3gXfAxI4qUJTL6SD2o) | 2:31 | 2021-10-22 | 2022-07-29 |
 | [Me Too](https://open.spotify.com/track/2xpHaFoallE1cEuyo9lawS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP) | 2:31 | 2022-07-28 |  |
 | [ME!](https://open.spotify.com/track/1XEaQ2dwS1oNMig8slVj1e) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [ME!](https://open.spotify.com/album/2AuMKZ6T5ejyWmyggLU3OP) | 3:08 | 2022-10-25 | 2022-11-13 |
@@ -172,6 +173,7 @@
 | [Music Is in Everything](https://open.spotify.com/track/6LC6CSWaaGZoyQKi87lfuG) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [More Family Time](https://open.spotify.com/album/7C4QjjsOqV2XxrcWiDNOqo) | 3:25 | 2022-10-07 |  |
 | [Music Is in Everything](https://open.spotify.com/track/7qZLbXCjZUucd275X8I3EJ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [More Family Time](https://open.spotify.com/album/1jB8Th5VPnKZj25uGOcpZw) | 3:25 | 2022-07-28 | 2022-10-13 |
 | [Music Is in Everything \(feat\. Lisa Loeb\)](https://open.spotify.com/track/3Xap7tj9dcUEhpThrLgdsJ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [More Family Time](https://open.spotify.com/album/4X4l0Ez8pj5bjmFisNs2m1) | 3:24 | 2021-10-22 | 2022-07-29 |
+| [My Stupid Heart \- Kids Version](https://open.spotify.com/track/1y5K73ZMtl7x7oEvcADZZk) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Luminati Suns](https://open.spotify.com/artist/3L3LFvtOjqaNkOvZDIFnW0) | [My Stupid Heart \(Kids Version\)](https://open.spotify.com/album/5M9RpgjX89iljRgIpzkcjy) | 2:48 | 2023-03-17 |  |
 | [My Universe](https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [My Universe](https://open.spotify.com/album/7uF0sUMcjfk0j8WmzwtcR2) | 3:17 | 2022-02-11 |  |
 | [My Way](https://open.spotify.com/track/4RWenDHni2ugAWnSjrwQfd) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB) | 2:52 | 2021-10-22 | 2022-07-29 |
 | [My Way](https://open.spotify.com/track/2g1iTkEs0VizCLGrkdzInK) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 2:52 | 2022-07-28 |  |

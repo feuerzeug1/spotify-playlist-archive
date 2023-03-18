@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 59292,
+  "num_followers": 59340,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMDc4NWEyYWJiM2ZjYTY3MzhjYzRiOTFmNzBmN2ExNmU5",
+  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMGMzZjI1MDJmOTE1Yzk1NTE0NjNkMzFmM2QzM2VmMmI0",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
     },
     {
-      "added_at": "2022-12-21 17:22:42",
-      "album": {
-        "name": "Bacard\u00ed",
-        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
-      },
-      "artists": [
-        {
-          "name": "Pet Friendly",
-          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
-        }
-      ],
-      "duration_ms": 151572,
-      "name": "Bacard\u00ed",
-      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
-    },
-    {
       "added_at": "2022-10-01 18:54:42",
       "album": {
         "name": "Entre La Guerra Y El Amor",
@@ -379,6 +363,22 @@
       "duration_ms": 185493,
       "name": "Quemando Cartas",
       "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
+    },
+    {
+      "added_at": "2022-12-21 17:22:42",
+      "album": {
+        "name": "Bacard\u00ed",
+        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
+      },
+      "artists": [
+        {
+          "name": "Pet Friendly",
+          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
+        }
+      ],
+      "duration_ms": 151572,
+      "name": "Bacard\u00ed",
+      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Cometas",
-        "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
-      },
-      "artists": [
-        {
-          "name": "Novella Inc",
-          "url": "https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm"
-        }
-      ],
-      "duration_ms": 183118,
-      "name": "Cometas",
-      "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "La teor\u00eda de los septenios",
         "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 151757,
       "name": "No olvides de enfocarte siempre en lo importante",
       "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Cometas",
+        "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
+      },
+      "artists": [
+        {
+          "name": "Novella Inc",
+          "url": "https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm"
+        }
+      ],
+      "duration_ms": 183118,
+      "name": "Cometas",
+      "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Cereal",
-        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Cereal",
-      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Humanos Como T\u00fa",
         "url": "https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 228920,
       "name": "Humanos Como T\u00fa",
       "url": "https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Cereal",
+        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "Cereal",
+      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
     },
     {
       "added_at": "2022-12-21 17:22:42",
@@ -699,26 +699,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Clavo",
-        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Clavo",
-      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "III\u00b7I",
         "url": "https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Siempre Resistir / Nunca Desistir",
-        "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
       },
       "artists": [
         {
-          "name": "DON",
-          "url": "https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR"
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
         }
       ],
-      "duration_ms": 234773,
-      "name": "Escribe Una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -783,6 +767,22 @@
       "duration_ms": 171821,
       "name": "No Digas Lo Siento",
       "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Siempre Resistir / Nunca Desistir",
+        "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
+      },
+      "artists": [
+        {
+          "name": "DON",
+          "url": "https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Escribe Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Doble Vida",
-        "url": "https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU"
+        "name": "La Naturaleza Incoherente del Ser",
+        "url": "https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW"
       },
       "artists": [
         {
-          "name": "NUNO",
-          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+          "name": "Dolores De Huevos",
+          "url": "https://open.spotify.com/artist/7wqgl1I3I8WWYs5QfeojTV"
         }
       ],
-      "duration_ms": 184354,
-      "name": "Doble Vida",
-      "url": "https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF"
+      "duration_ms": 203003,
+      "name": "La Naturaleza Incoherente del Ser",
+      "url": "https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG"
     }
   ],
   "unique_name": "Escena Pop Punk",

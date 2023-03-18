@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo beat e rime avvolgenti. Cover: Night Skinny",
+  "description": "Solo beat e rime avvolgenti. Cover: Dani Faiv",
   "name": "Mezzanotte Chill Rap",
   "tracks": [
     {
@@ -998,10 +998,32 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200514,
       "name": "Immortale (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2bF1qPRPlrODKWFMGtQXq1"
+    },
+    {
+      "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200514,
+      "name": "Immortale (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3UZkuJS1tn3jNYHcxJcNzH"
     },
     {
       "album": {
@@ -1204,7 +1226,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 220813,
       "name": "Lontano Dai Guai (feat. Mahmood)",
       "url": "https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf"
@@ -1452,7 +1474,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 125089,
       "name": "molecole (interlude)",
       "url": "https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi"
@@ -1746,7 +1768,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 163738,
       "name": "Rick Owens (feat. Drast)",
       "url": "https://open.spotify.com/track/4Znj6S7JGcu4QbCyrs1GBL"
@@ -1790,10 +1812,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 218666,
       "name": "Saigon",
       "url": "https://open.spotify.com/track/0nd1tWz1bmTQ2ObCnZCLV9"
+    },
+    {
+      "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Saigon",
+      "url": "https://open.spotify.com/track/1AKlKNFbA6Gxj7S2Sd9DP1"
     },
     {
       "album": {
@@ -1955,6 +1995,28 @@
     },
     {
       "album": {
+        "name": "Teoria Del Contrario Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "ENRI",
+          "url": "https://open.spotify.com/artist/0nTiVmLV81WoBJO8FW6bed"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193770,
+      "name": "Sto xso (feat. ENRI) - prod. ENRI",
+      "url": "https://open.spotify.com/track/76GgN6b7Q9ZxksGwxnHV6g"
+    },
+    {
+      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -1996,6 +2058,54 @@
       "duration_ms": 231602,
       "name": "Svuotatasche",
       "url": "https://open.spotify.com/track/4cF8xXRteGQypocjEOtdAd"
+    },
+    {
+      "album": {
+        "name": "Teoria Del Contrario Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Ti ricorderai di me (feat. Vegas Jones) - prod. Strage",
+      "url": "https://open.spotify.com/track/0fBDL8yd1xfCF594H33qcD"
+    },
+    {
+      "album": {
+        "name": "Teoria Del Contrario Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198088,
+      "name": "Tre Winston (feat. Chakra & Yung Snapp) - prod. Kanesh",
+      "url": "https://open.spotify.com/track/6CCFwUKqPxiR48VoU2paUa"
     },
     {
       "album": {

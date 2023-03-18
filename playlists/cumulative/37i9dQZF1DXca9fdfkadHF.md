@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-89 songs - 5 hr 41 min
+90 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Sin Parar](https://open.spotify.com/track/2URrkcVRi83IC3slwFyOqv) | [Ivonne & Los Mercantiles](https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/5HLcA82W29prT29qKbdbUx) | 3:59 | 2022-04-01 |  |
 | [Sin Parar](https://open.spotify.com/track/4NpcGehrYPDq0KcbGMQqTz) | [Ivonne & Los Mercantiles](https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/2ym9M1mJ2SapuBYjjcs1jd) | 3:59 | 2022-04-01 | 2022-11-03 |
 | [Soledad](https://open.spotify.com/track/0bYlL7XNEvLC34f53mmqEO) | [Indigo](https://open.spotify.com/artist/4Hy7H79rnIljAwnwDtislK) | [Indigo](https://open.spotify.com/album/10PdZeHhCFhOekUFsuNHlM) | 3:43 | 2022-04-01 |  |
-| [Solo estoy](https://open.spotify.com/track/60VYMG9lj4p8WfDTFZXEOZ) | [Los York's](https://open.spotify.com/artist/5fOfpeBPZeyWDHPOHA8UY5) | [68](https://open.spotify.com/album/5zMLdhfL7vQOKvofoU4Z7R) | 4:40 | 2022-04-01 |  |
+| [Solo Estoy](https://open.spotify.com/track/7zvUaHQrp6Pr3UG743kmP5) | [Los York's](https://open.spotify.com/artist/5fOfpeBPZeyWDHPOHA8UY5) | [El Viaje 1966\-1971](https://open.spotify.com/album/0rhBP0kJsvRzIAbytOySyw) | 4:36 | 2022-04-01 |  |
+| [Solo estoy](https://open.spotify.com/track/60VYMG9lj4p8WfDTFZXEOZ) | [Los York's](https://open.spotify.com/artist/5fOfpeBPZeyWDHPOHA8UY5) | [68](https://open.spotify.com/album/5zMLdhfL7vQOKvofoU4Z7R) | 4:40 | 2022-04-01 | 2023-03-18 |
 | [Suna](https://open.spotify.com/track/4FGBEwbkQtbUHoidy5CNcy) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/3cuWK2TnY4v2oyYCxAw11b) | 4:04 | 2022-04-01 | 2022-07-29 |
 | [Suna](https://open.spotify.com/track/4udGuDY6x5WzWdMiVe3yea) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 4:04 | 2022-04-01 |  |
 | [Travesti](https://open.spotify.com/track/7mP7CSPnMOgiB4TFzN7QaM) | [Sangre Púrpura](https://open.spotify.com/artist/0iCm5J3ki7zYRKNaGB72hN) | [Lo Mejor](https://open.spotify.com/album/5UmHPpAm1Dn6l2m3poazi9) | 4:00 | 2022-04-01 |  |

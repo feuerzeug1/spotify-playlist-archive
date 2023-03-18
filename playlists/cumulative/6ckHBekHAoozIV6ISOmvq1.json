@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 242226,
       "name": "Amour, tenson et bataille",
       "url": "https://open.spotify.com/track/5jFqkkOkTQFZmicM2RyS7G"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 723506,
       "name": "Amours qui biens ses enchanter",
       "url": "https://open.spotify.com/track/4gHqdwqlZXoSSb0dwcIjct"
@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 365360,
       "name": "Carro della morte",
       "url": "https://open.spotify.com/track/6ttDW9B3o3gsdSTTCwjAfL"
@@ -5388,7 +5388,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 198200,
       "name": "Douce dame (instrumental)",
       "url": "https://open.spotify.com/track/7pH88r1rY7myyo7FM2jbQS"
@@ -7458,7 +7458,7 @@
       ],
       "date_added": "2020-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 189666,
       "name": "Impudenter circumivi",
       "url": "https://open.spotify.com/track/5Fo9auBwwDDCqGKhcOsPX4"
@@ -8062,7 +8062,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 444040,
       "name": "Je ne requier de ma dame",
       "url": "https://open.spotify.com/track/679eHr67g2JL8cXorvKir5"
@@ -8084,7 +8084,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 360200,
       "name": "Je qui paoir seule ai de conforter (Descort)",
       "url": "https://open.spotify.com/track/0PW4qmx4iRAV8L4sNP9KBo"
@@ -8712,7 +8712,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 194573,
       "name": "La plus jolie",
       "url": "https://open.spotify.com/track/6B9v1vflKg2rosKL08S0GP"
@@ -9830,7 +9830,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 225640,
       "name": "Mayenzeit one Neidt",
       "url": "https://open.spotify.com/track/6iMWiImwzpVNkeCFhjaZgR"
@@ -11369,6 +11369,32 @@
     },
     {
       "album": {
+        "name": "De Lantins: Missa verbum incarnatum",
+        "url": "https://open.spotify.com/album/3r7QVL9mieUBq0qp4ZnwIx"
+      },
+      "artists": [
+        {
+          "name": "Arnold de Lantins",
+          "url": "https://open.spotify.com/artist/5OlYB7uBcNtQa97MQlM7N2"
+        },
+        {
+          "name": "Capilla Flamenca",
+          "url": "https://open.spotify.com/artist/4vrvpzjBFqTwbi4XX5ZTKi"
+        },
+        {
+          "name": "Dirk Snellings",
+          "url": "https://open.spotify.com/artist/4H8biFWH8KLpSJoFeJRBG0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191586,
+      "name": "O pulcherrina mulierum",
+      "url": "https://open.spotify.com/track/3kbt033CLCSGuZYvWxGqKK"
+    },
+    {
+      "album": {
         "name": "Hildegard (Hildegard Von Bingen)",
         "url": "https://open.spotify.com/album/233svUngKlcD4z0S0dK1n7"
       },
@@ -11726,7 +11752,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 311426,
       "name": "Ondas do mar de uigo",
       "url": "https://open.spotify.com/track/0L66jOz0UAz1Pab9VGKyOE"
@@ -11748,7 +11774,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 306680,
       "name": "Ondas do mar de Vigo (Cantiga de amigo)",
       "url": "https://open.spotify.com/track/1LuN0PLGoAeoJuMnEUh6y1"
@@ -11934,7 +11960,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 241840,
       "name": "Ow\u00ea dirre n\u00f4t!",
       "url": "https://open.spotify.com/track/7M6q0jtU96kKmXPUoC2DG2"
@@ -12832,7 +12858,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 323866,
       "name": "Puis que je voy, belle, que ne m'am\u00e9s",
       "url": "https://open.spotify.com/track/312Mgl63iP16HMOAmJrcJG"
@@ -13070,7 +13096,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 400933,
       "name": "Quand noif",
       "url": "https://open.spotify.com/track/5nTI4v3EBAYIzpiME9hiOS"
@@ -13092,7 +13118,7 @@
       ],
       "date_added": "2020-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 295640,
       "name": "Quand'Amor - Canzone",
       "url": "https://open.spotify.com/track/0Wuvf9euZ42qRxjDG0KXXH"

@@ -1,12 +1,12 @@
 {
   "description": "Exceptionally vivid icebreaker in your love pursuit.",
-  "num_followers": 9022,
+  "num_followers": 9086,
   "original_name": "Swahili Love ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNzEwNiwwMDAwMDAwMDYwZmI1MzIwMjIxNGMwZjUxODg2ZjVhOWQ1OTk4YWU0",
+  "snapshot_id": "MTY3OTAwMDM0MCwwMDAwMDAwMGYwNzNjM2Q4MmRkNDkzOTNhNWNjNmIxYTZjODIzNDU2",
   "tracks": [
     {
       "added_at": "2023-03-02 20:59:00",
@@ -23,6 +23,22 @@
       "duration_ms": 196838,
       "name": "Mahaba",
       "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
+    },
+    {
+      "added_at": "2023-03-16 20:59:00",
+      "album": {
+        "name": "Napendwa",
+        "url": "https://open.spotify.com/album/7uSvaZCFzAnZTxSuLcUu4O"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Napendwa",
+      "url": "https://open.spotify.com/track/6ThP7PzsOKFqMdJze74nxh"
     },
     {
       "added_at": "2023-03-02 20:59:00",
@@ -127,22 +143,6 @@
     {
       "added_at": "2023-03-02 20:59:00",
       "album": {
-        "name": "Khan",
-        "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 177878,
-      "name": "Huyu Hapa",
-      "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
-    },
-    {
-      "added_at": "2023-03-02 20:59:00",
-      "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN"
       },
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-03-02 20:59:00",
       "album": {
+        "name": "Khan",
+        "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 177878,
+      "name": "Huyu Hapa",
+      "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
+    },
+    {
+      "added_at": "2023-03-02 20:59:00",
+      "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD"
       },
@@ -171,6 +187,22 @@
       "duration_ms": 203414,
       "name": "Inauma",
       "url": "https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav"
+    },
+    {
+      "added_at": "2023-03-02 20:59:00",
+      "album": {
+        "name": "Umeme",
+        "url": "https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI"
+      },
+      "artists": [
+        {
+          "name": "Willy Paul",
+          "url": "https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Umeme",
+      "url": "https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr"
     },
     {
       "added_at": "2023-03-02 20:59:00",
@@ -227,54 +259,6 @@
     {
       "added_at": "2023-03-02 20:59:00",
       "album": {
-        "name": "The Kid You Know",
-        "url": "https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84"
-      },
-      "artists": [
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        }
-      ],
-      "duration_ms": 194043,
-      "name": "Mapenzi",
-      "url": "https://open.spotify.com/track/3aLDDpMZhXKMfIFzd5nTfP"
-    },
-    {
-      "added_at": "2023-03-02 20:59:00",
-      "album": {
-        "name": "Umeme",
-        "url": "https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI"
-      },
-      "artists": [
-        {
-          "name": "Willy Paul",
-          "url": "https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "Umeme",
-      "url": "https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr"
-    },
-    {
-      "added_at": "2023-03-02 20:59:00",
-      "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb"
-      },
-      "artists": [
-        {
-          "name": "Mocco Genius",
-          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
-        }
-      ],
-      "duration_ms": 136422,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7"
-    },
-    {
-      "added_at": "2023-03-02 20:59:00",
-      "album": {
         "name": "I Miss You (feat. Zuchu)",
         "url": "https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD"
       },
@@ -291,6 +275,38 @@
       "duration_ms": 248041,
       "name": "I Miss You (feat. Zuchu)",
       "url": "https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw"
+    },
+    {
+      "added_at": "2023-03-02 20:59:00",
+      "album": {
+        "name": "The Kid You Know",
+        "url": "https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "duration_ms": 194043,
+      "name": "Mapenzi",
+      "url": "https://open.spotify.com/track/3aLDDpMZhXKMfIFzd5nTfP"
+    },
+    {
+      "added_at": "2023-03-02 20:59:00",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "duration_ms": 136422,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7"
     },
     {
       "added_at": "2023-03-02 20:59:00",
@@ -403,22 +419,6 @@
       "duration_ms": 141853,
       "name": "Matozo",
       "url": "https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ"
-    },
-    {
-      "added_at": "2023-03-02 20:59:00",
-      "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg"
-      },
-      "artists": [
-        {
-          "name": "Ommy Dimpoz",
-          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
-        }
-      ],
-      "duration_ms": 235883,
-      "name": "Moyo",
-      "url": "https://open.spotify.com/track/75A2GOq6uxZsdkJGPRU5FH"
     },
     {
       "added_at": "2023-03-02 20:59:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-03-02 20:59:00",
       "album": {
-        "name": "Super Woman",
-        "url": "https://open.spotify.com/album/2kUOQ8kdl8fA67IoHn784p"
-      },
-      "artists": [
-        {
-          "name": "Phina",
-          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
-        },
-        {
-          "name": "Otile Brown",
-          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Super Woman",
-      "url": "https://open.spotify.com/track/5xIH3YUZQb4XKsZREACXhL"
-    },
-    {
-      "added_at": "2023-03-02 20:59:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 216786,
       "name": "Tamu",
       "url": "https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g"
+    },
+    {
+      "added_at": "2023-03-02 20:59:00",
+      "album": {
+        "name": "Super Woman",
+        "url": "https://open.spotify.com/album/2kUOQ8kdl8fA67IoHn784p"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        },
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Super Woman",
+      "url": "https://open.spotify.com/track/5xIH3YUZQb4XKsZREACXhL"
     },
     {
       "added_at": "2023-03-02 20:59:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-02 20:59:00",
       "album": {
-        "name": "Sina Neno",
-        "url": "https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        }
-      ],
-      "duration_ms": 184945,
-      "name": "Sina Neno",
-      "url": "https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv"
-    },
-    {
-      "added_at": "2023-03-02 20:59:00",
-      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/3yPFOMzNH7EAJVDPZpyMsj"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 222066,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X"
+    },
+    {
+      "added_at": "2023-03-02 20:59:00",
+      "album": {
+        "name": "Sina Neno",
+        "url": "https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "duration_ms": 184945,
+      "name": "Sina Neno",
+      "url": "https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv"
     },
     {
       "added_at": "2023-03-02 20:59:00",

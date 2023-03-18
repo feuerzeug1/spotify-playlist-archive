@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-71 songs - 4 hr 50 min
+72 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [I Had a Woman](https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [By Any Beats Necessary](https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab) | 2:39 | 2020-12-01 |  |
 | [I'm Back With Trouble](https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [I'm Back With Trouble](https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn) | 3:18 | 2022-02-18 |  |
 | [Idol \(Should I Know\)](https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 5:19 | 2020-12-01 | 2022-10-01 |
+| [Illa Mind](https://open.spotify.com/track/0Ar5CznZQoRoST0WGIE2wK) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz), [Marvel Years](https://open.spotify.com/artist/6X2cD6Y4zRNwn8ZkYPHKe6) | [Never Not Blue](https://open.spotify.com/album/4tjfLoQBrwN7JoUOkqEpyH) | 3:10 | 2023-03-17 |  |
 | [It's Bad You Know](https://open.spotify.com/track/1AcvqJhm4CXOFJ7INbR5rR) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 4:58 | 2020-12-01 |  |
 | [John the Revelator](https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 3:41 | 2020-12-01 |  |
 | [John The Revelator](https://open.spotify.com/track/343lHi9sB146HH6sGmjsL1) | [Mortal Prophets](https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R), [Gary Lucas](https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH) | [John The Revelator](https://open.spotify.com/album/1RiftRxnvWj7gPhOW6gzb3) | 2:32 | 2022-07-08 | 2022-07-29 |
@@ -48,7 +49,7 @@
 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 | 2023-01-20 |  |
 | [Love Me \- KR3TURE Remix](https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S) | [DJ Taz Rashid](https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx), [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu) | [High Vibe Remixes, Vol\. 1](https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt) | 3:49 | 2021-08-13 |  |
 | [Midnight Dream](https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY) | 4:03 | 2020-12-01 | 2023-02-02 |
-| [Midnight Dream](https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB) | 4:03 | 2020-12-01 |  |
+| [Midnight Dream](https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB) | 4:03 | 2020-12-01 | 2023-03-18 |
 | [Mr\. E's Beautiful Blues \- Remix](https://open.spotify.com/track/1cXPXMbHhNZHQYan1C8fzD) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/1Umb8lHSJUIXnF0bx9DlH2) | 3:54 | 2020-12-01 | 2022-07-28 |
 | [Multiball](https://open.spotify.com/track/22MiGH2lQBET7dtLo5Iua8) | [Vidar Busk](https://open.spotify.com/artist/7bbkRaebsI7fzfa9l5LWG3) | [Starfish](https://open.spotify.com/album/4vhocdV6eNQnR7Rq4CB3Vi) | 3:17 | 2020-12-01 | 2022-07-29 |
 | [Paper Trails](https://open.spotify.com/track/1DK2JuYarBeNwcLNPw1Qyo) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt) | 4:49 | 2020-12-01 |  |

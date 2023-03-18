@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-143 songs - 11 hr 17 min
+144 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2022-12-08 |  |
 | [I Think It's Going to Rain Today](https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD) | [Lucia Cadotsch](https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Speak Low II](https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw) | 5:18 | 2022-09-13 | 2022-12-08 |
 | [I'm Not In Love](https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:52 | 2022-09-13 |  |
+| [If It's Magic](https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [If It's Magic](https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW) | 3:29 | 2023-03-09 |  |
 | [Imagine](https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [My Working Class Hero](https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf) | 4:42 | 2022-10-05 | 2023-03-06 |
 | [Imagine](https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 3:35 | 2022-09-13 |  |
 | [Immigrant Song](https://open.spotify.com/track/6dx1sQaWu3Yul87HfddFeA) | [Obed Calvaire](https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm), [Bob Franceshini](https://open.spotify.com/artist/0gj84Qpcn2TU0vS4C1dqs9), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J) | [Whole Lotta Love: The Music of Led Zeppelin](https://open.spotify.com/album/1v691IFSm1faUW5cTIhVfu) | 6:51 | 2022-10-11 | 2022-10-27 |
@@ -123,7 +124,7 @@
 | [She's Always a Woman](https://open.spotify.com/track/2mLjXYU12qbQRrMcxUhhse) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope) | [4 Wheel Drive](https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2) | 5:42 | 2022-09-13 |  |
 | [She's Always A Woman](https://open.spotify.com/track/4ql11Y7pZAgUW25dbJqFED) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 4:00 | 2022-09-27 |  |
 | [She's Leaving Home](https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 5:56 | 2022-09-13 |  |
-| [She's Leaving Home \- Live](https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8) | [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD) | [The Gallery Concerts II \(Jazz Poetry\)](https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl) | 5:03 | 2023-02-07 |  |
+| [She's Leaving Home \- Live](https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8) | [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD) | [The Gallery Concerts II \(Jazz Poetry\)](https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl) | 5:03 | 2023-02-07 | 2023-03-18 |
 | [Simple Twist Of Fate](https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:49 | 2022-09-27 | 2022-10-08 |
 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 | 2023-02-02 |  |
 | [Sorry Seems to Be the Hardest Word](https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp) | [Claudio Cusmano](https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L), [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Remember to Remember](https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR) | 5:05 | 2022-12-01 |  |

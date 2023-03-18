@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Venna",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Gretel H\u00e4nlyn",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1562,6 +1562,24 @@
       "duration_ms": 243558,
       "name": "Isolate",
       "url": "https://open.spotify.com/track/4kbB92kKusaCvb5Mw3HLnL"
+    },
+    {
+      "album": {
+        "name": "Head of the Love Club",
+        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "King of Nothing",
+      "url": "https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl"
     },
     {
       "album": {

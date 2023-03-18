@@ -4,7 +4,7 @@
 
 > ¡Música urbana representando a Cuba! Cover: Lenier
 
-124 songs - 7 hr 22 min
+125 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,10 @@
 | [Calentando la Habana](https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 4:13 | 2022-04-08 |  |
 | [Calentando la Habana](https://open.spotify.com/track/5D5eHsVVy8JEHBOUXlhd4t) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Calentando la Habana](https://open.spotify.com/album/07Gy6UBWNbNzzOs4lmSZKC) | 4:13 | 2022-04-08 | 2022-12-26 |
 | [Calentando la Habana](https://open.spotify.com/track/6P367zPr9yTCQ0LIgT9foX) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Calentando la Habana](https://open.spotify.com/album/7wMLy38MpnGBvrT0Vjlafi) | 4:14 | 2022-02-25 | 2022-07-29 |
+| [Corazon Callejero](https://open.spotify.com/track/5Gp5OYkKpfGT2WKmHvCCfy) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Corazon Callejero](https://open.spotify.com/album/26bcaLoIE0UurvkDgNMxBE) | 2:46 | 2023-03-17 |  |
 | [Cubaton](https://open.spotify.com/track/4bHNliUdG1EDk3O29Usvjn) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Cubaton](https://open.spotify.com/album/1Npp9LzY0iyDiL7y7kEuUi) | 3:18 | 2022-02-25 | 2023-02-11 |
 | [Dale Pa' Miami](https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Dale Pa' Miami](https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer) | 3:14 | 2023-02-10 |  |
-| [De Maravilla](https://open.spotify.com/track/2uSMDj5SjyJ8r3LCurBKQ0) | [Desiguales](https://open.spotify.com/artist/3hUoZymiG2iEoFjQl2qGdl) | [El Exterminio](https://open.spotify.com/album/3gAXcqoKPLQzarJn71BGYe) | 4:00 | 2022-02-25 |  |
+| [De Maravilla](https://open.spotify.com/track/2uSMDj5SjyJ8r3LCurBKQ0) | [Desiguales](https://open.spotify.com/artist/3hUoZymiG2iEoFjQl2qGdl) | [El Exterminio](https://open.spotify.com/album/3gAXcqoKPLQzarJn71BGYe) | 4:00 | 2022-02-25 | 2023-03-18 |
 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 | 2022-02-25 |  |
 | [Dueño De Qué? \(with Lenier & Divan\)](https://open.spotify.com/track/1rAbcmwj0dww7fzuUVBQhJ) | [July Roby](https://open.spotify.com/artist/57cu9wH6iCTECFPINbrPdi), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP) | [Dueño De Qué?](https://open.spotify.com/album/0OirAdRYmG0AvgqcD3y9gs) | 3:30 | 2022-02-25 |  |
 | [El Doggy \(feat\. Ovi & Randy\) \- Perreo](https://open.spotify.com/track/2HpFUVAWXnE9PbMTXaxtIT) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Randy](https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B) | [El Doggy \(feat\. Ovi & Randy\) \[Perreo\]](https://open.spotify.com/album/2S5Py3y97OSaYRs8Fzldv9) | 3:00 | 2022-02-25 |  |

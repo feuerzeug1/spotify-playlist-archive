@@ -5240,7 +5240,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 244576,
       "name": "Moderation",
       "url": "https://open.spotify.com/track/0ZnVZan6NgkelQmtZBFNFr"
@@ -6720,6 +6720,28 @@
       "duration_ms": 221256,
       "name": "Staring at Ceilings",
       "url": "https://open.spotify.com/track/4fT0inQ2gVyIiChFuGwsES"
+    },
+    {
+      "album": {
+        "name": "Stayed Up Late (Sunrise Version)",
+        "url": "https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        },
+        {
+          "name": "paris jackson",
+          "url": "https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206165,
+      "name": "Stayed Up Late - Sunrise Version",
+      "url": "https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-335 songs - 22 hr 32 min
+336 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dusk](https://open.spotify.com/track/4TatlP4d0ntvkJ48v6iE7D) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Spaces](https://open.spotify.com/album/3ousrkrjhpoRMrDySi6h0K) | 2:57 | 2022-12-01 | 2023-01-06 |
 | [Echo](https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Echo](https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6) | 2:01 | 2022-10-20 | 2023-03-08 |
 | [Echo](https://open.spotify.com/track/6dR3WgS89laha38NshaT1s) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Echo](https://open.spotify.com/album/0LBwlH8cZFGRALUzfphhN8) | 4:05 | 2023-01-24 | 2023-03-01 |
+| [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 | 2023-03-16 |  |
 | [Endless Time](https://open.spotify.com/track/3PfPXfF25Fso2Y3gq5wjZN) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Endless Time](https://open.spotify.com/album/7w8IyyO3S6o6L0QKZcOeAQ) | 3:17 | 2023-02-21 | 2023-03-01 |
 | [Es \- piano room](https://open.spotify.com/track/54898GdeiRQr1QurG91Ude) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Es \- piano room](https://open.spotify.com/album/4gXc9xsSZB6IYaCv59I5ai) | 3:13 | 2022-12-01 | 2023-03-15 |
 | [Estrellita \(Arr\. Mino Kabasawa\)](https://open.spotify.com/track/3eBPhA9APSJNZlWv1Rln4j) | [マヌエル・ポンセ](https://open.spotify.com/artist/5skHzNuRMVm4Ky3IAMW00M), [宮田 大](https://open.spotify.com/artist/6NlblLui5L3Nj9yLEa7Tze) | [Estrellita \(Arr\. Mino Kabasawa\)](https://open.spotify.com/album/2E9iaGflaSserIqnoOdE2m) | 5:33 | 2022-10-20 | 2022-11-16 |
@@ -319,7 +320,7 @@
 | [ライナー・マリア](https://open.spotify.com/track/4rj7j214j9wW7D2UuK1ZIg) | [Ai kamano](https://open.spotify.com/artist/33u1YZiD1mnkAwzs1lCBi1), [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [HUMAN](https://open.spotify.com/album/0GMsBnxw3YejP3iUFQyrYd) | 3:28 | 2022-11-22 | 2022-12-02 |
 | [世俗カンタータ, BWV 208: ''羊は安らかに草をはみ''](https://open.spotify.com/track/6qhic2KXq2evfe8KkXJcCr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [ペトリ](https://open.spotify.com/artist/0JrwYlS3dVi5GEbFxGstZa), [上原琢矢](https://open.spotify.com/artist/2fKXyRn7lLoGf97tId4b85) | [シャコンヌ](https://open.spotify.com/album/4AQeEq5RqXlDt9PoxXEiM7) | 4:51 | 2022-10-20 | 2022-11-04 |
 | [亡き王女のためのパヴァーヌ \- ラヴェル](https://open.spotify.com/track/1qAhkcBWmkSbaW5VNqQ7tQ) | [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [debut](https://open.spotify.com/album/7l7gvZUvLdohGVIs4KjYZ8) | 5:51 | 2022-10-20 | 2022-12-02 |
-| [人生への古代のステップ](https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5) | [Takare Tadame](https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0) | [人生への古代のステップ](https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU) | 2:10 | 2022-11-01 |  |
+| [人生への古代のステップ](https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5) | [Takare Tadame](https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0) | [人生への古代のステップ](https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU) | 2:10 | 2022-11-01 | 2023-03-18 |
 | [初戀](https://open.spotify.com/track/1zYjk36LJjAxjAb6izoUSJ) | [Takeshi Senoo](https://open.spotify.com/artist/61n5YgL1SXRIre6tMYlhxq) | [RETRO MODERN DANDY](https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS) | 2:36 | 2022-10-20 | 2022-12-02 |
 | [午前中のコップ](https://open.spotify.com/track/0SnoGze4iwcp4J0bC8PjTx) | [スーパーノア](https://open.spotify.com/artist/54Eb2c0kXE5lvyL3W1LmZ7) | [午前中のコップ](https://open.spotify.com/album/3o9Pao3xQbN0ueNRfzDNyV) | 3:05 | 2022-12-13 | 2023-01-18 |
 | [変わる消える](https://open.spotify.com/track/1QoIG08kXG8uf5KuJx1y9X) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [変わる消える](https://open.spotify.com/album/3wuPwZME3HR7b16YVVfDub) | 3:49 | 2023-02-21 | 2023-02-23 |

@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Francisco",
+        "url": "https://open.spotify.com/album/609Yhbf9SQvk7pFEQWqU4H"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grape",
+          "url": "https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147714,
+      "name": "Francisco",
+      "url": "https://open.spotify.com/track/0H3e2aKIJo154hMg1fcTE2"
+    },
+    {
+      "album": {
         "name": "Cygnus A",
         "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
       },
@@ -1566,6 +1584,24 @@
       "duration_ms": 230505,
       "name": "Palm Springs",
       "url": "https://open.spotify.com/track/33Qvtl9E5ARA8HOxgEBX4v"
+    },
+    {
+      "album": {
+        "name": "Papaya Jam",
+        "url": "https://open.spotify.com/album/6N7kr8dVsXln1zxE7lglLr"
+      },
+      "artists": [
+        {
+          "name": "Vince Violet",
+          "url": "https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132124,
+      "name": "Papaya Jam",
+      "url": "https://open.spotify.com/track/18r0EwxSFYaA9D7Ja8T7PV"
     },
     {
       "album": {

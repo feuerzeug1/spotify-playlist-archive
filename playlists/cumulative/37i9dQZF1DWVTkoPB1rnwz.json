@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 105500,
       "name": "2013",
       "url": "https://open.spotify.com/track/3PJIKoSgXBohYJ4qTwRzyd"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 257834,
       "name": "A-001",
       "url": "https://open.spotify.com/track/5NPFeVHOmUrgJhbwZU3Okk"
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 139500,
       "name": "Flyaway",
       "url": "https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm"
@@ -2244,6 +2244,24 @@
       "duration_ms": 137000,
       "name": "Hypnos",
       "url": "https://open.spotify.com/track/6AcwRvuVN9FjROlyLIws2o"
+    },
+    {
+      "album": {
+        "name": "I Think That\u2019s Cute",
+        "url": "https://open.spotify.com/album/7MroOGuzfzYB2Rl1q1dU1h"
+      },
+      "artists": [
+        {
+          "name": "Donovan's Playground",
+          "url": "https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115277,
+      "name": "I Think That\u2019s Cute",
+      "url": "https://open.spotify.com/track/65jmXQMrKefk2FoLfAQNXx"
     },
     {
       "album": {
@@ -2932,6 +2950,24 @@
       "duration_ms": 235240,
       "name": "Marshmallow",
       "url": "https://open.spotify.com/track/6N2yBySX0VhCVlVHKngirs"
+    },
+    {
+      "album": {
+        "name": "Marshmallow",
+        "url": "https://open.spotify.com/album/5H6AKYiSVXgvWWCHQUTmO5"
+      },
+      "artists": [
+        {
+          "name": "The Sweet Enoughs",
+          "url": "https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236253,
+      "name": "Marshmallow",
+      "url": "https://open.spotify.com/track/2kjXaoPGBh9nOIjzaRd2Fv"
     },
     {
       "album": {
@@ -3810,6 +3846,28 @@
       "duration_ms": 163078,
       "name": "Rhus",
       "url": "https://open.spotify.com/track/1hc1fqvPabdkcAUxqr4RYB"
+    },
+    {
+      "album": {
+        "name": "Jardines Vol. 1",
+        "url": "https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "De la Plante",
+          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155665,
+      "name": "romero",
+      "url": "https://open.spotify.com/track/2zTjVo3gjHFnkLEe9JxyfD"
     },
     {
       "album": {

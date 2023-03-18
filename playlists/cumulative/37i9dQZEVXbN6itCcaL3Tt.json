@@ -4894,7 +4894,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 248400,
       "name": "CZ\u0141OWIEK Z DZIUR\u0104 ZAMIAST KRTANI",
       "url": "https://open.spotify.com/track/3FaQgxX3YENJdih4LIQhFF"
@@ -5098,7 +5098,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 238021,
       "name": "Deszcz",
       "url": "https://open.spotify.com/track/33HgPbip48TE0sFcWtqX8u"
@@ -5238,7 +5238,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -7576,6 +7576,24 @@
     {
       "album": {
         "name": "Ground Zero",
+        "url": "https://open.spotify.com/album/64E5U2FDC6r3yPmOju9MuK"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178004,
+      "name": "Ground Zero",
+      "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
+    },
+    {
+      "album": {
+        "name": "Ground Zero",
         "url": "https://open.spotify.com/album/6TLQqwdXW3qCE6IQKjcmhS"
       },
       "artists": [
@@ -9169,6 +9187,32 @@
     },
     {
       "album": {
+        "name": "Jedna Ni\u0107",
+        "url": "https://open.spotify.com/album/5ekoIhVIZrq52ZHAfGbEoZ"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "S\u0142o\u0144",
+          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
+        },
+        {
+          "name": "Worek",
+          "url": "https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160421,
+      "name": "Jedna Ni\u0107",
+      "url": "https://open.spotify.com/track/1ilg58JEnwc7XQYIFw1Kkd"
+    },
+    {
+      "album": {
         "name": "Jednoro\u017cec",
         "url": "https://open.spotify.com/album/2CH0XF2wwKtKK5NxNzn5VH"
       },
@@ -10186,7 +10230,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -17938,7 +17982,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 151048,
       "name": "Rarara",
       "url": "https://open.spotify.com/track/1VEzvYlDWGz3KhxGg73jHG"
@@ -18994,6 +19038,24 @@
       "duration_ms": 121333,
       "name": "SI\u0118 WJE\u017bD\u017bA",
       "url": "https://open.spotify.com/track/2yEWVnp65tTXSrRW03IqXs"
+    },
+    {
+      "album": {
+        "name": "Skandal",
+        "url": "https://open.spotify.com/album/3edIEpRX4nmvxkIHzM3zVp"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162535,
+      "name": "Skandal",
+      "url": "https://open.spotify.com/track/71VOLh56ayDdFV1GXQu7jQ"
     },
     {
       "album": {
@@ -20829,6 +20891,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "Trance (with Travis Scott & Young Thug)",
+      "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
+    },
+    {
+      "album": {
         "name": "Ziomalski Mixtape",
         "url": "https://open.spotify.com/album/18ZSIoCKeHralHR4T1iIMi"
       },
@@ -21260,6 +21348,32 @@
       "duration_ms": 86961,
       "name": "Untouchable freestyle",
       "url": "https://open.spotify.com/track/2rFXay9RQGAh1nZafHVCLd"
+    },
+    {
+      "album": {
+        "name": "Uzi",
+        "url": "https://open.spotify.com/album/4XNsonogcCgCijh0FOzQ9e"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175518,
+      "name": "Uzi",
+      "url": "https://open.spotify.com/track/66JWE9YKWc6XWUwN7OdRE9"
     },
     {
       "album": {
@@ -22124,7 +22238,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 187769,
       "name": "Wi\u0119cej \u017bycia",
       "url": "https://open.spotify.com/track/7jfzIhYB7SedhNUtdsaXhl"
@@ -22536,7 +22650,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 197647,
       "name": "Wszystko gra",
       "url": "https://open.spotify.com/track/2QXUsyZFCZ337DZjclmPFS"

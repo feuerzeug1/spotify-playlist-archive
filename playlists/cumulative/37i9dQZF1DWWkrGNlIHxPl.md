@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Zeina
 
-245 songs - 13 hr 56 min
+246 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Fille d'Afrique](https://open.spotify.com/track/58MVeqG5E8yD2BfNipCoJt) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [Fille d'Afrique](https://open.spotify.com/album/2OHOu6LjFU77hX6RC8z5jW) | 2:18 | 2022-07-17 |  |
 | [Fire](https://open.spotify.com/track/2QNwEWAY6ZzA9JMVWhEBzn) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr) | [Fire](https://open.spotify.com/album/594AdWI8h2OEWBEKvt9zOB) | 3:07 | 2021-12-16 | 2022-02-26 |
 | [Flip It](https://open.spotify.com/track/0J2rCP89iP2AZYfJNGp26E) | [Zach Matari](https://open.spotify.com/artist/4HpDofv5tUMQrHzYX452rK) | [Flip It](https://open.spotify.com/album/0qRIZfXNGpKJJMxWiFzJVl) | 1:56 | 2021-12-16 | 2023-02-07 |
+| [Focus](https://open.spotify.com/track/5N5d9Lh1HFFpCaM9Q3H5I7) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Focus](https://open.spotify.com/album/2ErzJU2rw2Ytv6EWskE4Ps) | 2:44 | 2023-03-16 |  |
 | [Follow Me Into The Dark](https://open.spotify.com/track/2aQXnLW2uQwZeRDUR23VTU) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 4:09 | 2021-12-16 | 2022-12-08 |
 | [Freestyle \#1](https://open.spotify.com/track/3PqCDTA5l72UmTDmTXpely) | [Dhalma](https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC) | [Freestyle \#1](https://open.spotify.com/album/3Sri5bHFhK6jQWQI5pyCzq) | 2:55 | 2022-02-08 | 2022-12-08 |
 | [From Gaza, With Love](https://open.spotify.com/track/49AG4MU3Ij6a8NWEVLMuRu) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/5bah1OVDvcvn92BMkgOO6o) | 1:59 | 2023-03-07 |  |

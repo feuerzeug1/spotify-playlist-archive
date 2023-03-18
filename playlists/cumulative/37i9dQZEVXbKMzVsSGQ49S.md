@@ -4,14 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,210 songs - 2 day 18 hr 43 min
+1,211 songs - 2 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 | 2021-05-16 | 2021-05-17 |
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2021-06-02 | 2021-06-06 |
 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-03-27\* | 2021-07-25 |
-| [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-02-01 |  |
+| [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-02-01 | 2023-03-18 |
 | [16 ára saga](https://open.spotify.com/track/25giNWbVJACWPcbDjSWFkt) | [Tónhylur](https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu), [Kristjan Saenz](https://open.spotify.com/artist/5zH80l2t6OwDlt2Xpr1giR), [Egill Airi](https://open.spotify.com/artist/1Z6jWlrcsGs0e3NzYAT8ys) | [MMVI](https://open.spotify.com/album/5bGpIgqvj7ae5v6kQtTj65) | 3:50 | 2022-11-05 | 2022-11-07 |
 | [1972](https://open.spotify.com/track/6sbiwu8QEXqWHasBNPLC2I) | [JóiPé](https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb) | [Fram í rauðan dauðann](https://open.spotify.com/album/5JV5uYskBZaXI9X6WlOsKx) | 2:39 | 2022-10-22 | 2022-10-24 |
 | [200](https://open.spotify.com/track/7AI3Y3Gcc4u0n5YyLCtZFd) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Bushido](https://open.spotify.com/album/2IB1JhcHO9T94RYr0aO2fv) | 3:15 | 2021-10-17 | 2021-11-08 |
@@ -122,6 +122,7 @@
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-09 | 2022-03-21 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-06-01 |
 | [Boys Do Cry](https://open.spotify.com/track/6k0V6IGOMTyoLbxRqQeE8b) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Boys Do Cry](https://open.spotify.com/album/42v1BZVYQ3ca46BPX2ZqjW) | 2:56 | 2022-05-12 | 2022-05-18 |
+| [Boîte à Gants](https://open.spotify.com/track/0074XGa4ytWx2s1o48jO3y) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 2:47 | 2023-03-17 |  |
 | [Break My Baby](https://open.spotify.com/track/3BsoE7SgveujY2jeV2rVRw) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:25 | 2021-04-26 | 2021-04-30 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 | 2022-07-26 |
 | [BREAK MY SOUL](https://open.spotify.com/track/40KCN2nYImUounlfO5Cdzn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 4:38 | 2022-07-30 | 2022-08-02 |

@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-703 songs - 1 day 16 hr 29 min
+704 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Corridors](https://open.spotify.com/track/1ObprOerEaR0kkRkja9kt2) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Corridors](https://open.spotify.com/album/6bboSAM3cK5LgLxt5ILwam) | 3:11 | 2022-09-09 |  |
 | [Cosmic Dancer](https://open.spotify.com/track/53WQnXY1i3ccnQJe4ww0Lv) | [Belloq](https://open.spotify.com/artist/65UoNCuuCJTVU3JTTZmjjj) | [Cosmic Dancer](https://open.spotify.com/album/1WNTZ6Su4aM5lTIZlXIoYf) | 2:59 | 2021-09-09 |  |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2021-08-20 | 2022-04-15 |
+| [Counting Minutes](https://open.spotify.com/track/4SQCH4rJrVxAHcdlLOWtX9) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Counting Minutes](https://open.spotify.com/album/28z1GRHUJVAiVihlBM1pqe) | 2:18 | 2023-03-17 |  |
 | [Creatures](https://open.spotify.com/track/2Xu88uUM8dvRSzsZa8Tm2W) | [Justin Berghart](https://open.spotify.com/artist/2U8TggBhPjlTITew6Z3Dgt) | [Creatures](https://open.spotify.com/album/4GSSe42yWKGReogQuuUfuE) | 4:58 | 2021-11-08 | 2022-01-22 |
 | [Crisp Velvet](https://open.spotify.com/track/4EVeGsLzlWrOB7W2QGUCdM) | [Tigran Boiler](https://open.spotify.com/artist/5LhWWwxDFZzMYZPvt0axJM) | [Crisp Velvet](https://open.spotify.com/album/2pz8Asd0pk4UCtU758mEjy) | 2:33 | 2022-09-23 |  |
 | [Crispy](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0) | [Phlowsum](https://open.spotify.com/artist/71p3dUDaqo6EyfzQm8zCCo) | [Crispy](https://open.spotify.com/album/5xISlOqT0KGHfwbW0NOtij) | 2:28 | 2021-11-08 | 2022-07-22 |

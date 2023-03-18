@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-321 songs - 16 hr 11 min
+323 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Dreams](https://open.spotify.com/track/3WnsrngoR8opauzEOnYXVJ) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Dreams](https://open.spotify.com/album/2b2uUCQBke5wtPskEnyzYP) | 3:42 | 2022-02-11 | 2022-07-29 |
 | [EivissAA](https://open.spotify.com/track/3eigPuKcaYb8wCYjptn6wr) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [LEO](https://open.spotify.com/album/7FgB0swov64l8PpCprNOh7) | 3:34 | 2022-12-16 |  |
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2022-02-11 |  |
+| [Energy](https://open.spotify.com/track/17VY5byeYgBvfFO9gJEcs6) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate](https://open.spotify.com/album/1oQTiTw7scoVOY5B1Vi5jY) | 2:33 | 2023-03-17 |  |
 | [ethereal beach](https://open.spotify.com/track/2P2FipjGsqrXWGjY2H3UAh) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [ethereal beach](https://open.spotify.com/album/0pzqrXKMFCgsZg3cWsbf2F) | 2:45 | 2022-07-15 | 2022-10-07 |
 | [Excellent](https://open.spotify.com/track/3GRTUabfguVlwCQmU3W7ps) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Excellent](https://open.spotify.com/album/3awGDNrYh2GzlZ9NfeqiBf) | 2:40 | 2021-10-12 | 2022-02-12 |
 | [Falling Short](https://open.spotify.com/track/6u9cWDkxbTXaqf4GZP5MHh) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/6yhHW85d9Z6D3uyvLZSZxI) | 3:23 | 2019-10-04 | 2022-02-12 |
@@ -237,6 +238,7 @@
 | [Slip N Slide](https://open.spotify.com/track/3TOtSGvIYxvtMihDlt7BXm) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Luxe](https://open.spotify.com/album/2uSZqQyCiSEUs4IIuPCMn8) | 3:07 | 2022-12-23 |  |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-02-11 |  |
 | [Sneeze](https://open.spotify.com/track/74481nLSrNAlMH2kgh84uj) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Sneeze](https://open.spotify.com/album/6xRxDeAhqPA4rqEFfCqCTP) | 2:42 | 2019-10-04 | 2022-02-12 |
+| [Snow In The Distance](https://open.spotify.com/track/3A4MQf1npDonTCo8L2D4HS) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 2:32 | 2023-03-17 |  |
 | [Soft Touch](https://open.spotify.com/track/0SqV6u3HBoMfje0k2CkB3d) | [Need For Speed](https://open.spotify.com/artist/1Dtses9ARjOholLUpr0rMN) | [Soft Touch](https://open.spotify.com/album/0gYTUadKK0rPk94tHBmxVq) | 4:05 | 2019-10-04 | 2022-02-12 |
 | [Soft Winds](https://open.spotify.com/track/0BbZDSQN2Qe9lCBCBFP9pk) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Soft Winds](https://open.spotify.com/album/7tluTh6geFfV77h6GBqZLg) | 4:40 | 2022-02-11 | 2022-07-22 |
 | [somewhat breezy](https://open.spotify.com/track/3UbbHzb70XtG3ozVzNXR6v) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [somewhat breezy](https://open.spotify.com/album/4YzDP6DkHpOEmRIRajmHQU) | 2:02 | 2021-10-26 | 2022-02-12 |

@@ -4,7 +4,7 @@
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-109 songs - 8 hr 25 min
+111 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Aayshalak](https://open.spotify.com/track/6wE5bUgyErJTzGBqqbjdGo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 4:40 | 2021-12-06 |  |
 | [Aghla El Habayeb](https://open.spotify.com/track/1T8BJvWzqm59RIuwQaTob8) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Yama Alo](https://open.spotify.com/album/1MQzDTbIXGBCl0hDS7B0nr) | 4:40 | 2021-12-06 |  |
 | [Ah W Noss](https://open.spotify.com/track/0gI3WDESn8BOiol5BxsafH) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Arabic Pop 2022 \- بوب عربي](https://open.spotify.com/album/7sTQmVvf7BldYpxd7CvG4y) | 4:40 | 2021-12-06 | 2022-11-13 |
-| [Ah W Noss](https://open.spotify.com/track/5Z4F0zOGKoYLv8EtBhLzmZ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 4:40 | 2021-12-06 |  |
+| [Ah W Noss](https://open.spotify.com/track/5Z4F0zOGKoYLv8EtBhLzmZ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 4:40 | 2021-12-06 | 2023-03-18 |
+| [Ah W Noss](https://open.spotify.com/track/7ua22AD5CNo8lUDnH6imc1) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 4:40 | 2023-01-30 |  |
 | [Ah W Noss](https://open.spotify.com/track/2n45sK6aEas1Wwnt4Obj7z) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Ah W Noss](https://open.spotify.com/album/2Cq6dxYeJSGMq9ivFt1AK6) | 4:41 | 2021-12-06 | 2022-07-29 |
 | [Ah Ya Aini Ya Leil \(Radio Edit\)](https://open.spotify.com/track/0dLk70DrxJj8vcjKnjh1GR) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe) | [Ana Keda](https://open.spotify.com/album/4Mb5BzRO2yegDi39yxjLmi) | 4:48 | 2021-12-06 |  |
 | [Ah Ya Alby](https://open.spotify.com/track/7HT0g6P2sr8kypPzAFrg0n) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Tamni Aleek](https://open.spotify.com/album/0yvqd8VJNcQqT1z6OAQhDk) | 3:57 | 2021-12-06 |  |
@@ -47,7 +48,8 @@
 | [Haollak Eih](https://open.spotify.com/track/1uQfLicb1k25vIfPpfSmqk) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Monaya](https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX) | 3:33 | 2021-12-06 | 2023-02-01 |
 | [Hatgawez](https://open.spotify.com/track/19IIMZZtRKchdeDOoRP7wU) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [The Dance of My Heart](https://open.spotify.com/album/7o7GoxoHJEZt9lfiZdgJNd) | 4:37 | 2021-12-06 |  |
 | [Inta Eyh](https://open.spotify.com/track/3A0BikGXootGvEUjWcmFHM) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Café Arabia Volume 2](https://open.spotify.com/album/4oo2Tda8r34cVT3CQH9gyb) | 5:04 | 2021-12-06 | 2022-11-13 |
-| [Inta Eyh](https://open.spotify.com/track/4lbXJ51VeYp8WA7JuOEzWP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 5:04 | 2021-12-06 |  |
+| [Inta Eyh](https://open.spotify.com/track/4lbXJ51VeYp8WA7JuOEzWP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 5:04 | 2021-12-06 | 2023-03-18 |
+| [Inta Eyh](https://open.spotify.com/track/7LpGX7ajb4o8OPQ1XdeeFZ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 5:04 | 2023-01-30 |  |
 | [Inta Eyh](https://open.spotify.com/track/0NJyThbEN5v6vFWrsH5uPF) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Ah W Noss](https://open.spotify.com/album/2Cq6dxYeJSGMq9ivFt1AK6) | 5:04 | 2021-12-06 | 2022-07-29 |
 | [Khallik Behalak](https://open.spotify.com/track/3x6eeSxs4I3WojBZF29MqW) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Hodoudy El Sama](https://open.spotify.com/album/1J2MN9ZOWorZJegNnxLf8d) | 4:00 | 2021-12-06 |  |
 | [Lail wa ra'ed wa reeh](https://open.spotify.com/track/3LYAlpFX0rhj6Qjk2XypDo) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Wael Kafoury](https://open.spotify.com/album/4HDHX4mw0rAgcFEgcYWCSN) | 5:18 | 2021-12-06 | 2022-07-29 |

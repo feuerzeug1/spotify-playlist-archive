@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 195520,
       "name": "Prison light",
       "url": "https://open.spotify.com/track/0Eho63aLMbseadFByJMSUB"
@@ -7430,6 +7430,24 @@
       "duration_ms": 220408,
       "name": "Who Loves Ya? (Coup d'\u00e9tat)",
       "url": "https://open.spotify.com/track/6z9gUolZoaw9Lf2mG90ytt"
+    },
+    {
+      "album": {
+        "name": "Wrapped in Gold",
+        "url": "https://open.spotify.com/album/4hxFcHyPPErv1kls1x945F"
+      },
+      "artists": [
+        {
+          "name": "World News",
+          "url": "https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237643,
+      "name": "Wrapped in Gold",
+      "url": "https://open.spotify.com/track/5Qmij5UGOb1k2MC8DrAGgW"
     },
     {
       "album": {

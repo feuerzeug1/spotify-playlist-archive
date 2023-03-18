@@ -4,7 +4,7 @@
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-76 songs - 4 hr 42 min
+77 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Murder at the Bingo Hall](https://open.spotify.com/track/6ugyqxHWS5zpfhGXp928Ef) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Born Against](https://open.spotify.com/album/4XEgfcc6oEc9KT1T9T4dn8) | 3:21 | 2022-10-27 |  |
 | [Murder In The Red Barn](https://open.spotify.com/track/0tMVpNYTOcPulIXocDQF7i) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bone Machine](https://open.spotify.com/album/5blxyZRgkA735vO40p56MA) | 4:28 | 2022-10-27 |  |
 | [My Boy Builds Coffins \- Acoustic](https://open.spotify.com/track/58WxnqLvH1zixuhAXCBdtS) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(10th Anniversary Edition\)](https://open.spotify.com/album/58nHLzYWPr0YhsECvy7Ihw) | 2:50 | 2022-10-27 |  |
-| [Night Scented Stock \- 2018 Remaster](https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 0:52 | 2022-10-27 |  |
+| [Night Scented Stock \- 2018 Remaster](https://open.spotify.com/track/6XdY9JkV7GQ6o4pZ9qwWRe) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 0:52 | 2022-10-27 |  |
+| [Night Scented Stock \- 2018 Remaster](https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 0:52 | 2022-10-27 | 2023-03-18 |
 | [O Death](https://open.spotify.com/track/16jWQYb9YpzdaOLG8DeHOB) | [Ralph Stanley](https://open.spotify.com/artist/4fMhmL6pvw61o0C1z8Bdib) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 3:19 | 2022-10-27 |  |
 | [Old devils](https://open.spotify.com/track/5cNvmC1jEnA6QwnOvHpUo7) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J) | 3:38 | 2022-10-27 |  |
 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 | 2022-10-27 |  |

@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-91 songs - 8 hr 46 min
+92 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Pelota \(Cut a Rug Mix\)](https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 5:01 | 2022-12-20 |  |
 | [Petrichor](https://open.spotify.com/track/5x9lHf7tOGELFHRtMhVzrN) | [Maelstrom](https://open.spotify.com/artist/44HA9IE6zax0FzP9vYM7yo) | [Eskimonde \- A Decade Of Eskimo Recordings](https://open.spotify.com/album/3NJcjY0anDtTcxOUxrPoMP) | 4:45 | 2022-12-20 |  |
 | [Philosophy! \- Crazy P Remix](https://open.spotify.com/track/2xpLZhgffNgDnq7ImKUSuB) | [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [Grooves of the World](https://open.spotify.com/album/3C1th5JnoBUj8qxVBhNo61) | 7:27 | 2022-12-20 |  |
+| [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-03-17 |  |
 | [Praia \- Yuksek Remix](https://open.spotify.com/track/5OnXpUXJfArXpxWIskl1E1) | [Nathalie Duchene](https://open.spotify.com/artist/31QreE8xTvA8Rdq9UXCvnC), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Praia \(Yuksek Remix\)](https://open.spotify.com/album/5HL75LL4ZgsNrsItVYYvLX) | 5:56 | 2022-12-20 |  |
 | [Pressure](https://open.spotify.com/track/3mXnTPoiO2oluQM6ZtTYys) | [Jesse Rose](https://open.spotify.com/artist/45k3kmPVYYfmWOTZyby7cq), [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU) | [Alright Mate](https://open.spotify.com/album/0eLePcFhmLkpmHza95TQXb) | 2:48 | 2022-12-20 |  |
 | [Revision A \- Black Coco](https://open.spotify.com/track/5sNmRWmAjtswqY3QQvS8sP) | [MAJUSCULE](https://open.spotify.com/artist/2Yj2toOduPsB4L8F2RN4dH) | [Revision A \(Black Coco\)](https://open.spotify.com/album/0y79Pfdc1UgdJR2IWILEJx) | 5:05 | 2022-12-20 |  |

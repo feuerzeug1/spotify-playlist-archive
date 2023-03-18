@@ -2,9 +2,9 @@
 
 ### [mint MX](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
-> Descubre lo más fresco de la electrónica mexicana\. YoSoyMatt en portada.
+> Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
 
-192 songs - 11 hr 0 min
+193 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,13 +28,14 @@
 | [Carpe Diem](https://open.spotify.com/track/0IvtIcfo55vpv0OuG3akRm) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1), [Barbie Mur](https://open.spotify.com/artist/0siqZtk7F1d20wjkwtpovx) | [Carpe Diem](https://open.spotify.com/album/2Nav67UyvI40ZgAveR8k2O) | 3:04 | 2022-05-06 | 2022-07-28 |
 | [cielo](https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [cielo](https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3) | 4:34 | 2022-05-06 |  |
 | [Clap Your Hands For Love](https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [CECILLE](https://open.spotify.com/artist/0gjUPLMgb2VVVjrWH7Rspa) | [Clap Your Hands For Love](https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7) | 2:57 | 2022-05-06 | 2023-01-07 |
+| [CLI CLI Clan Clan](https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb) | [CLI CLI Clan Clan](https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH) | 4:19 | 2023-03-18 |  |
 | [Como Es Posible Que a Mi Lado](https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Como Es Posible Que a Mi Lado](https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP) | 3:08 | 2022-05-06 |  |
 | [Covalent Bond](https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK) | [Erick T](https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0), [The Second Wave](https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o) | [Covalent Bond](https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK) | 2:39 | 2022-05-06 | 2023-03-01 |
 | [Crazy Days](https://open.spotify.com/track/2x1x7unFCQbk9IVaG8bG2Y) | [Youth In Circles](https://open.spotify.com/artist/35FbwufKDprqJfq8Qnk31b), [LUIGI.](https://open.spotify.com/artist/5ohIU7j6dD62swDMruEEvN) | [Crazy Days](https://open.spotify.com/album/0n095xbZ6PgBfrMCSDahKP) | 3:44 | 2022-05-06 | 2022-07-25 |
 | [Cucu](https://open.spotify.com/track/4XGUihmiNJAH22UusW4KZU) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Cucu](https://open.spotify.com/album/2nVcDPVHyNZpcVKDyTlMWd) | 3:05 | 2022-05-06 |  |
 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 | 2022-05-06 |  |
 | [Dancing On Dangerous](https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Dancing On Dangerous](https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o) | 2:03 | 2022-05-06 |  |
-| [Dark Madness](https://open.spotify.com/track/4tAq1Jy6mwPHYsYa2WmSec) | [Mictlxn](https://open.spotify.com/artist/6MSafz4Jzhlts62PyLIo0I) | [Dark Madness](https://open.spotify.com/album/4zPtDDqdIjZ2lGsu5jDMO7) | 1:58 | 2023-01-07 |  |
+| [Dark Madness](https://open.spotify.com/track/4tAq1Jy6mwPHYsYa2WmSec) | [Mictlxn](https://open.spotify.com/artist/6MSafz4Jzhlts62PyLIo0I) | [Dark Madness](https://open.spotify.com/album/4zPtDDqdIjZ2lGsu5jDMO7) | 1:58 | 2023-01-07 | 2023-03-18 |
 | [Deep Lies](https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [BW](https://open.spotify.com/artist/1i44h6fV8ef3hIb9tF2Lvp), [Criminal Sounds](https://open.spotify.com/artist/5njfytLYZKkzutruHPuSVj), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Deep Lies](https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz) | 3:25 | 2022-05-06 |  |
 | [Deliciosa](https://open.spotify.com/track/4y3nepjBAX0GOz3gJ1wx3z) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak), [Alan Mendoza DJ](https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa), [Morenito De Fuego](https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV), [Vakera Galáctica](https://open.spotify.com/artist/5LjSjvk38NOn5BXiXsojTj), [Bombatomika](https://open.spotify.com/artist/5ArVuIgibMKsZzlMaYZTSA) | [Deliciosa](https://open.spotify.com/album/4cVgkXdCAOs6EJDOtLY5Ku) | 3:05 | 2022-05-06 |  |
 | [Density](https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp) | [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Delove](https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt) | [Density](https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl) | 2:41 | 2022-05-06 |  |

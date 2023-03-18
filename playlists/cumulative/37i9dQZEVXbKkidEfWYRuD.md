@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,014 songs - 1 day 23 hr 0 min
+1,016 songs - 1 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,7 @@
 | [Бэлмэйн](https://open.spotify.com/track/1IiTqFqIT8BNUsTcJIwqaH) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:41 | 2021-04-29 | 2021-04-30 |
 | [Бібліотека](https://open.spotify.com/track/6ekNzvEmnCPbIdTFjRtw6L) | [Колос](https://open.spotify.com/artist/362iRKPQbIK8S5Eu5rHqtU) | [Kamasutra](https://open.spotify.com/album/2eZfffj22Wsk7zFFkaP2Ld) | 3:05 | 2021-10-09 | 2021-10-30 |
 | [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 | 2022-09-27 |  |
-| [Біля тополі](https://open.spotify.com/track/1NMcQpg1J5RaUxPTLifSnq) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/2MgSHC8yz1vt0ItAdH0tuJ) | 3:29 | 2023-03-15 |  |
+| [Біля тополі](https://open.spotify.com/track/1NMcQpg1J5RaUxPTLifSnq) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/2MgSHC8yz1vt0ItAdH0tuJ) | 3:29 | 2023-03-15 | 2023-03-18 |
 | [Біля тополі](https://open.spotify.com/track/3MqaB8TndvgRZ1QSQXH7J7) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/3ladULEuZfnDeQ43IL3kjy) | 3:29 | 2022-07-23 | 2023-01-29 |
 | [В диапазоне](https://open.spotify.com/track/1cmIuauHOxvxzTCFXFnNRL) | [Pornofilmy](https://open.spotify.com/artist/47jBQjRmURjRn3XfLIaHvV) | [В диапазоне между отчаянием и надеждой](https://open.spotify.com/album/6qOOpX7g5uEw3NhOgmy3iq) | 5:31 | 2022-03-09 | 2022-03-27 |
 | [В Клубе](https://open.spotify.com/track/0GhGWqedLDtuNlNIJIlTC3) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:40 | 2021-08-15 | 2021-08-16 |
@@ -594,10 +594,11 @@
 | [вотсап](https://open.spotify.com/track/7iGdK8FeeKfWiLR3Ax6phw) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [вотсап](https://open.spotify.com/album/7oTooG88uJuwtcRKJhcA7p) | 2:49 | 2023-01-28 | 2023-03-11 |
 | [Вредные привычки](https://open.spotify.com/track/44XUsQdCII984Um9M35zBR) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Вредные привычки](https://open.spotify.com/album/1M1N1hiOarVTmCWvve9LC1) | 2:59 | 2021-08-22 | 2021-08-29 |
 | [Временно](https://open.spotify.com/track/5v5qD89PqSUZ6KmA6yRsDx) | [MiyaGi & Endspiel](https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4) | [HATTORI](https://open.spotify.com/album/5AyqSPIOfYqVDIwAOdAPSi) | 3:45 | 2022-10-29 | 2022-11-07 |
-| [Вродлива](https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Вродлива](https://open.spotify.com/album/30CrSBR6y6TGFq9WHBHuHI) | 2:30 | 2023-03-15 |  |
+| [Вродлива](https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Вродлива](https://open.spotify.com/album/30CrSBR6y6TGFq9WHBHuHI) | 2:30 | 2023-03-15 | 2023-03-18 |
 | [Все эти деньги сразу](https://open.spotify.com/track/1H6gLIQOQSPk5RErPxWoKp) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:11 | 2021-08-15 | 2021-08-16 |
 | [Всему Свое Время](https://open.spotify.com/track/30btnOJK5BQKkTgW3NRIdd) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Million Dollar Depression](https://open.spotify.com/album/6cyFbDC72hy7WWKLoGAQE9) | 2:44 | 2021-03-27\* | 2021-03-27 |
 | [Вставал Падал](https://open.spotify.com/track/7zF1rACW4Ox3ZdgZ0iXm92) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l), [ENTYPE](https://open.spotify.com/artist/7poJQ3wJbSypDJMl8dOsd6) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:17 | 2022-10-22 | 2022-10-28 |
+| [Втомився](https://open.spotify.com/track/3kRfAMotUWqRfPj5HLIn7m) | [Нервы](https://open.spotify.com/artist/10oSboDn5ncLNjjFIgJXm6) | [Втомився](https://open.spotify.com/album/6adqAXJpfMpg8OcXB8MGvK) | 3:47 | 2023-03-17 |  |
 | [Выдох](https://open.spotify.com/track/5RFQehNo55Pqmd0O6dhxGH) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [Yanix](https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:13 | 2022-04-30 | 2022-05-02 |
 | [ВЫКЛЮЧАТЕЛЬ](https://open.spotify.com/track/3oIvvpkmjxdzd7NYNg5fxm) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/4GuYZRioUTTM3OSDEUFCbV) | 1:34 | 2022-02-19 | 2022-03-27 |
 | [Выпей меня](https://open.spotify.com/track/5O1Y35vDQQjCXTFo8BEBrr) | [Kambulat](https://open.spotify.com/artist/4ENNw1y7XuWPt7tvzoQ8Pz) | [Выпей меня](https://open.spotify.com/album/3PZkGXmFOEhSmqPdIyF6GD) | 2:42 | 2022-02-05 | 2022-02-12 |
@@ -841,6 +842,7 @@
 | [Пока\-пора](https://open.spotify.com/track/2rao5sMWohJhJlXAYb4g7h) | [Bahroma](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Ипи](https://open.spotify.com/album/7C2K4H2SgmeX7jLMPevDpo) | 5:50 | 2022-06-28 | 2022-07-07 |
 | [Положение](https://open.spotify.com/track/1hfISzdAwnywAKxaSpfloo) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Уроборос: Улица 36](https://open.spotify.com/album/4AazRccPqHpoIxedRFfurN) | 4:42 | 2021-03-27\* | 2021-10-31 |
 | [Пополам](https://open.spotify.com/track/0nqWnlvSpyqbk2Xp9mncVL) | [BRANYA](https://open.spotify.com/artist/0Bs5ttRLguNx77bWNy6og4), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [Пополам](https://open.spotify.com/album/2TQvPwtjrMEcyCPEcvPCAg) | 2:21 | 2021-06-16 | 2021-10-16 |
+| [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2023-03-17 |  |
 | [последнее лето](https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:17 | 2023-03-02 |  |
 | [ПОСЛЕДНИЙ БИТ ОТ СЛАВЫ](https://open.spotify.com/track/39cTOq0Egkqi718Xb9pYoG) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 1:17 | 2021-05-22 | 2021-05-26 |
 | [Последний поцелуй](https://open.spotify.com/track/136bMUZ7ucIpy3cBFu8ikI) | [Ruki Vverh!](https://open.spotify.com/artist/0T6ncGHAiGQ4LhbiUJAasn), [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [Последний поцелуй](https://open.spotify.com/album/58dm4PYLeFgZG1waGhwrNX) | 3:06 | 2021-09-19 | 2021-09-20 |

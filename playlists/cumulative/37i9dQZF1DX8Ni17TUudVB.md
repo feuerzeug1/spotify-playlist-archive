@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-195 songs - 10 hr 15 min
+196 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 | 2022-08-16 | 2022-12-09 |
 | [Creep](https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79) | 2:41 | 2022-08-16 |  |
 | [Creep \- mint Singles](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 | 2022-01-04 | 2022-11-02 |
-| [Dance Alone](https://open.spotify.com/track/2nwLHppShziXpR18WF5z9k) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Dance Alone](https://open.spotify.com/album/1e0e33Zz7JX1YSybY0KPv2) | 2:05 | 2022-08-16 |  |
+| [Dance Alone](https://open.spotify.com/track/2nwLHppShziXpR18WF5z9k) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Dance Alone](https://open.spotify.com/album/1e0e33Zz7JX1YSybY0KPv2) | 2:05 | 2022-08-16 | 2023-03-18 |
 | [Dance Alone](https://open.spotify.com/track/6WoA6fm4Mv1Xo9XuHADlRT) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Dance Alone](https://open.spotify.com/album/4xN5FWfUzGRI5FGrMbHqRy) | 2:05 | 2022-01-04 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/7s914GtCjjcdeAP0TScYqB) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Dance With Me](https://open.spotify.com/album/4lEnbHVWLFdlWfPTyUtzfm) | 2:56 | 2022-01-04 | 2022-07-29 |
 | [Dark](https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Dark](https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii) | 2:03 | 2022-03-09 | 2022-08-17 |
@@ -100,6 +100,7 @@
 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 | 2022-06-27 | 2022-07-29 |
 | [I'm Not Alright \- Zack Martino Remix](https://open.spotify.com/track/3WOlnWcFTW5kDWFvmnATXX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu) | [I'm Not Alright \(Zack Martino Remix\)](https://open.spotify.com/album/14puptj1QDgkzXygF2Cmr7) | 3:05 | 2022-03-29 | 2022-04-21 |
 | [IM GONE](https://open.spotify.com/track/1SYNgyiVRZEBhV0P4YFBk8) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [IM GONE](https://open.spotify.com/album/6jB6Ja81mc68nDB5zypsOm) | 4:45 | 2022-08-16 | 2022-08-24 |
+| [IM GONE](https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 4:45 | 2022-10-12 |  |
 | [IM GONE](https://open.spotify.com/track/7sFqwdXin2bgiuElcWdtYl) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 4:45 | 2022-03-29 | 2022-12-22 |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2022-01-04 |  |
 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 | 2022-07-26 |  |

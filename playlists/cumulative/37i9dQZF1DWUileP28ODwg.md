@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-289 songs - 17 hr 57 min
+290 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Free At Last](https://open.spotify.com/track/05PxyIJgvQSOtwWGymgsNj) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free At Last](https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG) | 3:46 | 2022-08-26 | 2023-03-11 |
 | [Freedom Is Coming \- Reimagined](https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Phenomena \(DA DA\) \[Remixes\]](https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy) | 2:34 | 2022-07-08 |  |
 | [Freedom Is Coming \- Reimagined](https://open.spotify.com/track/5R1JVwgo4l0eFLjzWmseqF) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Phenomena \(DA DA\) Remixes](https://open.spotify.com/album/6av2XMSiwiTMbf5dLLZ1Wk) | 2:34 | 2022-02-25 | 2022-07-29 |
-| [Friend](https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Friend](https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D) | 3:48 | 2022-05-28 |  |
+| [Friend](https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Friend](https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D) | 3:48 | 2022-05-28 | 2023-03-18 |
 | [Friend In Jesus \- Live](https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Friend In Jesus \(Live\)](https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch) | 5:48 | 2023-03-10 |  |
 | [Friend Of Sinners](https://open.spotify.com/track/6kTSXLgIQDmupPqwV84OHQ) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Friend Of Sinners](https://open.spotify.com/album/2X2zfQA7I9MI3KrU5yeZ2k) | 3:22 | 2022-02-25 | 2022-03-21 |
 | [Getting Started \- Radio Version](https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Getting Started \(Radio Version\)](https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a) | 3:39 | 2022-02-25 |  |
@@ -230,6 +230,7 @@
 | [Secrets](https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Secrets](https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw) | 3:46 | 2022-04-22 | 2022-08-27 |
 | [Sing Again \(Canto Ancora\)](https://open.spotify.com/track/2NTHZdkWT8o5iL5RzXVnEf) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Jonathan Cilia Faro](https://open.spotify.com/artist/48pn3QEpesffeWPzW7pnq0) | [Sing Again \(Canto Ancora\)](https://open.spotify.com/album/2sr3yPBjq0lKT7rk4XvjCU) | 5:00 | 2022-02-25 | 2022-04-23 |
 | [So Beautiful \(Sungguh Indah\)](https://open.spotify.com/track/53gemxU7CBNTaZ1ZzbJ81h) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [So Beautiful \(Sungguh Indah\)](https://open.spotify.com/album/5alX0XDZTbEGGkXKFiaLok) | 5:09 | 2022-02-25 | 2022-04-23 |
+| [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 | 2023-03-10 |  |
 | [Son of David \(feat\. Brandon Lake\)](https://open.spotify.com/track/1jvX9QdqLLwQUguKzR0Ad6) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Ryan Ellis](https://open.spotify.com/album/1W1SIJVBK38bbjb76kPJfO) | 3:09 | 2022-08-26 |  |
 | [Soul Worth Saving](https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Soul Worth Saving](https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn) | 3:46 | 2022-07-08 |  |
 | [Sound Mind \- Studio Version](https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Sound Mind \(Studio Version\)](https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD) | 3:42 | 2023-03-10 |  |

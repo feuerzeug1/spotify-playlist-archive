@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Dot\. , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,109 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,203 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 11 | [Pehla Pehla Pyar](https://open.spotify.com/track/2VbvessVJQYSM4Uvt9BkAL) | [Manasi Ghosh](https://open.spotify.com/artist/1IFeFnEdb38sSk5CY4iRFU) | [Pehla Pehla Pyar](https://open.spotify.com/album/6qocHVaUP3KfHzRKM1stIi) | 4:24 |
 | 12 | [What's Your Name](https://open.spotify.com/track/1mShGkH7OoUItg4xl9MlvB) | [Nishant Ramteke](https://open.spotify.com/artist/6JDuKkXmRF3Kuju55MKvfE), [Kaysee](https://open.spotify.com/artist/4x9fuObP8xtuW0MOCfHdB6), [Minimi](https://open.spotify.com/artist/1mewM1rln8qApKxDoN2Zlh) | [Game Of Fools](https://open.spotify.com/album/4CFi4G5SRyoJcyThWELHmm) | 3:08 |
 | 13 | [City Kids](https://open.spotify.com/track/2HsfsVzrhKk1kDM2x0JFVU) | [Taash](https://open.spotify.com/artist/4glG3WdHQSKUUQHCdJiDeW) | [City Kids](https://open.spotify.com/album/6l4yceymHyxDMJJwta9DO2) | 3:08 |
-| 14 | [Bairagi](https://open.spotify.com/track/35kI7c8aUgLiGZlsiyduDW) | [Mayank Maurya \(Maadhyam\)](https://open.spotify.com/artist/1FUnLCGy5ilhIFXqZinTdU) | [Bairagi](https://open.spotify.com/album/4JcawIAmMgqdkLTDl94sHy) | 3:34 |
+| 14 | [Bairagi](https://open.spotify.com/track/35kI7c8aUgLiGZlsiyduDW) | [Mayank Maurya \(Maadhyam\)](https://open.spotify.com/artist/1FUnLCGy5ilhIFXqZinTdU), [Shobbay](https://open.spotify.com/artist/3VeAXXDi295SjyEJqyEcVw) | [Bairagi](https://open.spotify.com/album/4JcawIAmMgqdkLTDl94sHy) | 3:34 |
 | 15 | [Tere Liye](https://open.spotify.com/track/2CIoyocoRVqRKUZE8DZABT) | [Shivam Grover](https://open.spotify.com/artist/7J7OU0Z2CbX61VuOiV6NHL) | [Tere Liye](https://open.spotify.com/album/1E1T4fz6rtaeAhw4BnpdG2) | 3:52 |
 | 16 | [Fallen](https://open.spotify.com/track/7qUXtrjjf0KqCCxD9SAw3Q) | [Tyesha Kohli](https://open.spotify.com/artist/5CXHXgoOC6fIFdtyxTZ5sO) | [Fallen](https://open.spotify.com/album/5BJLzLDSNLCbzwuNwifnVE) | 4:25 |
 | 17 | [Tere Bin Jeena](https://open.spotify.com/track/3kZY2qYmj5aGA9Abay1JFy) | [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Utkarsh Srivastava](https://open.spotify.com/artist/3NjTUyaPq8pQFSjJlm3rgm) | [Tere Bin Jeena](https://open.spotify.com/album/6OJS7wv48gXAVXHJoRoKyA) | 2:56 |

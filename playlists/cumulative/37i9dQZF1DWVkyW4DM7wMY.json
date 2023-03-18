@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Chaser 2.0",
+        "url": "https://open.spotify.com/album/1dvm9UdT2HzJeEZzR1HDUz"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Chaser 2.0",
+      "url": "https://open.spotify.com/track/2HGsCutOKv0mC7R0EoiSfP"
+    },
+    {
+      "album": {
         "name": "CHERRY SWEET",
         "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
       },
@@ -314,7 +332,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 253150,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ"
@@ -428,6 +446,32 @@
       "duration_ms": 216011,
       "name": "Dogtail",
       "url": "https://open.spotify.com/track/1ziLbRPnlPKu9QeUyl36fx"
+    },
+    {
+      "album": {
+        "name": "Doing U Better",
+        "url": "https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh"
+      },
+      "artists": [
+        {
+          "name": "Tangaza",
+          "url": "https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "Doing U Better",
+      "url": "https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S"
     },
     {
       "album": {
@@ -1204,7 +1248,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 128000,
       "name": "Klabu",
       "url": "https://open.spotify.com/track/6QOxa26PnUPC9bxJKWDinP"
@@ -2081,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "s_t_l",
+        "url": "https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206014,
+      "name": "s_t_l",
+      "url": "https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ"
+    },
+    {
+      "album": {
         "name": "Sambaratika",
         "url": "https://open.spotify.com/album/0lIeaCNbdsXfvwaLReYjo8"
       },
@@ -2310,7 +2372,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 270031,
       "name": "Stay",
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"

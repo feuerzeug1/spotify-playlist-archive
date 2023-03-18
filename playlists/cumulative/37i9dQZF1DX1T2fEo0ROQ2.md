@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-388 songs - 20 hr 19 min
+389 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Houd me vast](https://open.spotify.com/track/6c7RxrwbJkLaWZHj7nX1tm) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Houd me vast](https://open.spotify.com/album/0PzBc1gaKGp5EtdTp0Bvmh) | 3:38 | 2022-05-26 |  |
 | [Humpback Whales](https://open.spotify.com/track/05UHTEtKF3xSVlEOszpdmO) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:21 | 2022-05-26 |  |
 | [I din nærhet](https://open.spotify.com/track/04QbFy5NlBOJVvQEGlRwsm) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [I din nærhet](https://open.spotify.com/album/4LVIubO2hb2qzRGQHA8R2G) | 2:59 | 2022-05-26 |  |
+| [I Fjärran](https://open.spotify.com/track/0B9oeRRIfX98Sovrvayil0) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [I Fjärran](https://open.spotify.com/album/0ua6rEVPIxjyqo3itZEYaq) | 3:02 | 2023-03-16 |  |
 | [Ida](https://open.spotify.com/track/7GkIuSUwvTdG4JoEI7FeJ8) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Earth Child](https://open.spotify.com/album/249FX3lkU1NYoKA43AeA1p) | 4:00 | 2022-05-26 |  |
 | [Ik Ga Slapen](https://open.spotify.com/track/3TBlhRMVYhU1rF907RC9JG) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Ik Ga Slapen](https://open.spotify.com/album/1TUTW5O8pp0SOTc0tSO8Go) | 2:50 | 2022-05-26 |  |
 | [Illustratosphere](https://open.spotify.com/track/5YZGwFeQxvTrgUFa4Fmtth) | [Anna Nueva](https://open.spotify.com/artist/40EzXxZKfeMHctd8T22mlh) | [Illustratosphere](https://open.spotify.com/album/2trYEddNf9iBEBUzyUlS6s) | 3:30 | 2022-05-26 |  |
@@ -269,7 +270,7 @@
 | [Poetic Anthems](https://open.spotify.com/track/7EsBJypTRh9ptstfZtvShL) | [Morton Stuyvesant](https://open.spotify.com/artist/2WzGyDmxHByHHzuJSXFxb8) | [Poetic Anthems](https://open.spotify.com/album/13sA2BR3OUWwBtPNtK2ChO) | 3:20 | 2022-05-26 |  |
 | [Portugal \(A Lift\)](https://open.spotify.com/track/5lpojl4X0KKpWtrG6bMYuL) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 6:48 | 2022-05-26 | 2022-07-29 |
 | [Portugal \(A Lift\)](https://open.spotify.com/track/7ujfmMdgm986T40j0oPRCF) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [S&S Presents: Dreams](https://open.spotify.com/album/4oVFo5HluwL0rnL1MVkDmH) | 6:48 | 2022-07-22 | 2022-08-16 |
-| [Power Nap](https://open.spotify.com/track/2g2cJg9FbFVmEtamXclS8L) | [Mr Pillow](https://open.spotify.com/artist/3V7GUrlrlXrhNa35wzdqUx) | [Getting Sleepy](https://open.spotify.com/album/145nFBu19qqrs9qGzElwj8) | 2:58 | 2022-05-26 |  |
+| [Power Nap](https://open.spotify.com/track/2g2cJg9FbFVmEtamXclS8L) | [Mr Pillow](https://open.spotify.com/artist/3V7GUrlrlXrhNa35wzdqUx) | [Getting Sleepy](https://open.spotify.com/album/145nFBu19qqrs9qGzElwj8) | 2:58 | 2022-05-26 | 2023-03-18 |
 | [Protagonist](https://open.spotify.com/track/7roBeVcRtHZR8J00pX5Fw2) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Protagonist](https://open.spotify.com/album/0clnxOhPz384VGX6nbuCcp) | 2:40 | 2022-05-26 |  |
 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 | 2022-09-13 |  |
 | [Pushing through the Lush Green Grass](https://open.spotify.com/track/4e3MXLndFuQcFMgWEMtfO6) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Clear Western Sky](https://open.spotify.com/album/1G2YiRUliSzL2MrWUX1YOZ) | 3:09 | 2022-05-26 |  |
@@ -315,14 +316,14 @@
 | [Slumbers](https://open.spotify.com/track/3BSKxVvda7WjfYIm3rhOgY) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [Ring Revolutions](https://open.spotify.com/album/23B8w3QuiaMhX0r5OFWeIu) | 3:31 | 2022-05-26 |  |
 | [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 | 2023-01-09 |  |
 | [Solar Eclipse](https://open.spotify.com/track/4pcp7p5lioqQ6996nyjdd5) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Solar Eclipse](https://open.spotify.com/album/7BrTQS2tjIaezPAYB9Gmp6) | 4:01 | 2022-05-26 |  |
-| [Solitary minds](https://open.spotify.com/track/7jj1D2ltdxesJOy4n3Z6dg) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Solitary minds](https://open.spotify.com/album/3uQisjl6dSY4WnxXxv4GLF) | 3:59 | 2022-05-26 |  |
+| [Solitary minds](https://open.spotify.com/track/7jj1D2ltdxesJOy4n3Z6dg) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Solitary minds](https://open.spotify.com/album/3uQisjl6dSY4WnxXxv4GLF) | 3:59 | 2022-05-26 | 2023-03-18 |
 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Somewhere Else](https://open.spotify.com/track/5pE4svRKo7XAXlxclmO9t1) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [Somewhere Else](https://open.spotify.com/album/0mHXN4UA7yTQj976qxyBnr) | 3:40 | 2022-05-26 |  |
 | [Somnium Meum](https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Somnium Meum](https://open.spotify.com/album/2gCJWL5eLURzFwTR0ZQhfB) | 3:07 | 2022-05-26 |  |
 | [Sonorous](https://open.spotify.com/track/2USZ5ONIbBIfwazRCZoszB) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Sonorous](https://open.spotify.com/album/61Zt1lXmBJenHNPlkLP6Rf) | 3:07 | 2023-01-13 |  |
 | [Soothing You](https://open.spotify.com/track/1D0CY5Zv9PW1ELhyppJtSK) | [Freefall Forest](https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR) | [The Sleepers](https://open.spotify.com/album/0TavgJey3rSIHxqw3y3tm3) | 3:15 | 2022-09-30 |  |
 | [Sotto Voce](https://open.spotify.com/track/3dv8YMh744oqhm2NJomPO3) | [Kelly Petersen](https://open.spotify.com/artist/50KqMF1pahD2xMCrkMKTr6) | [Sotto Voce](https://open.spotify.com/album/7Gc84qTZJJmHNFVdjsBgRP) | 2:42 | 2023-02-17 |  |
-| [Spaces](https://open.spotify.com/track/0Ycl08JD5MBn28OPznygwz) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:27 | 2022-05-26 |  |
+| [Spaces](https://open.spotify.com/track/0Ycl08JD5MBn28OPznygwz) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:27 | 2022-05-26 | 2023-03-18 |
 | [Spirits on My Mind](https://open.spotify.com/track/44taQM4lPyUeGSrt5TYhGh) | [Roofies Dragon](https://open.spotify.com/artist/3ETUioJojNZNqdjqmpQsAz) | [Spirits on My Mind](https://open.spotify.com/album/7LGeDsQaq0qZNgDxhxTdCj) | 3:10 | 2023-01-09 |  |
 | [Spring](https://open.spotify.com/track/7f8Hk18yQg1l3oNsrKIkvO) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Clarity](https://open.spotify.com/album/4gwIzFYM5sKgPPeLIG5AP9) | 3:15 | 2022-05-26 | 2023-02-18 |
 | [Stability](https://open.spotify.com/track/3TtUdxpTryn7LFH88bCsLS) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Inner Self](https://open.spotify.com/album/6CJRH9BowxB72eKpVrPtKx) | 2:55 | 2022-05-26 |  |

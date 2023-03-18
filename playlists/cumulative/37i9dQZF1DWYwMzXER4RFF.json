@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 284880,
       "name": "Crossing Guard",
       "url": "https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx"
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 157199,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q"
@@ -3113,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Make Way",
+        "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
+    },
+    {
+      "album": {
         "name": "Male Bonding",
         "url": "https://open.spotify.com/album/0vrXRQ1v3PAO4HVIJGN5nt"
       },
@@ -3514,6 +3532,24 @@
       "duration_ms": 223067,
       "name": "NOTICE OF FORECLOSURE",
       "url": "https://open.spotify.com/track/2PCnHuNdckPK468Y3Gkm3a"
+    },
+    {
+      "album": {
+        "name": "Nurse!",
+        "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228268,
+      "name": "Nurse!",
+      "url": "https://open.spotify.com/track/5EhYdpI1gNIrOCreDQP6Q1"
     },
     {
       "album": {

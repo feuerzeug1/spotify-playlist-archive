@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 45751,
+  "num_followers": 45813,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDU0YzE4NGRkM2U2MTE2MWMzNzM1NjFmN2ZiZDZlZmQ5",
+  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMDMxNmFkNDBiM2UyOTBlODEzZDdmZDAzMmIyMzkxNDFk",
   "tracks": [
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "For the Cool in You",
+        "url": "https://open.spotify.com/album/1J8nWBTEHq9puOzkK5Dnly"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 270500,
+      "name": "For the Cool in You",
+      "url": "https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY"
+    },
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
@@ -39,6 +55,26 @@
       "duration_ms": 233819,
       "name": "Let's Have a Good Time",
       "url": "https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "After We Play",
+        "url": "https://open.spotify.com/album/0L3ooONQFTNJE0pHJ0nicF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Britt",
+          "url": "https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F"
+        },
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 265880,
+      "name": "Let's Do This (feat. Nils)",
+      "url": "https://open.spotify.com/track/6bN74FIVQm0XStVqsQjRjU"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -119,6 +155,30 @@
       "duration_ms": 232146,
       "name": "Step to This",
       "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Light Within (feat. Lashawn D. Gary and Dave McMurray)",
+        "url": "https://open.spotify.com/album/1SFrUYKE6Zlk8gzac3aRSZ"
+      },
+      "artists": [
+        {
+          "name": "Jeff Canady",
+          "url": "https://open.spotify.com/artist/0Oa1kpHHpgTQaxQ9dZUKAI"
+        },
+        {
+          "name": "LaShawn D. Gary",
+          "url": "https://open.spotify.com/artist/0nzXlRRHKYsEIn6zAmmCvq"
+        },
+        {
+          "name": "Dave McMurray",
+          "url": "https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x"
+        }
+      ],
+      "duration_ms": 255268,
+      "name": "Light Within (feat. LaShawn D. Gary and Dave McMurray)",
+      "url": "https://open.spotify.com/track/3v0OEwQsVjR5Rx2ESj5dSk"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -499,26 +559,6 @@
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Movin' N Groovin",
-        "url": "https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        },
-        {
-          "name": "Michael Broening",
-          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
-        }
-      ],
-      "duration_ms": 264640,
-      "name": "Movin' N Groovin",
-      "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
     },
     {
       "added_at": "2022-01-28 05:02:00",
@@ -1663,22 +1703,6 @@
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Red Tiger",
-        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 249262,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
         "name": "Lavish",
         "url": "https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p"
       },
@@ -1779,22 +1803,6 @@
       "duration_ms": 374536,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 261562,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
       "added_at": "2022-06-03 04:02:00",

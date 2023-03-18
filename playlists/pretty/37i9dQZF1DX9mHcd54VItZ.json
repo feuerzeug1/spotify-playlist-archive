@@ -1,13 +1,49 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=xrLjkasrQcu0AdhWIzzoGg\">Zaan Sonnekus</a>",
-  "num_followers": 12365,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR?si=-uklwWiaQ2GaNJ-TJp-SyQ\">SAKKIE</a> & <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=DouTRLXgTSGA1YhBwm4zhA\">Francois van Coke</a>",
+  "num_followers": 12402,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM5OTE0MCwwMDAwMDAwMDA1MjA3YzU0ODNmOTM0NmU4NDQ5YzQwNjlkYzJlOWVl",
+  "snapshot_id": "MTY3OTAyNzQ3MSwwMDAwMDAwMDQ1YjAyMDI0YWU5MTdlMzQxMjA4YTYwMjUzMmUwZDMz",
   "tracks": [
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Hey Jy",
+        "url": "https://open.spotify.com/album/18kpyRiXNAOEuTfRRks6xM"
+      },
+      "artists": [
+        {
+          "name": "SAKKIE",
+          "url": "https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR"
+        },
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 159652,
+      "name": "Hey Jy",
+      "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
+    },
+    {
+      "added_at": "2023-02-16 21:59:00",
+      "album": {
+        "name": "Crows Foot",
+        "url": "https://open.spotify.com/album/2rdWLJ9fW6uN5YDt62oetO"
+      },
+      "artists": [
+        {
+          "name": "West Coast Wolves",
+          "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
+        }
+      ],
+      "duration_ms": 191325,
+      "name": "Crows Foot",
+      "url": "https://open.spotify.com/track/1HitnCS6sx1ffnsZkFiZky"
+    },
     {
       "added_at": "2023-03-09 21:59:00",
       "album": {
@@ -47,22 +83,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "Dead Man's Son",
-        "url": "https://open.spotify.com/album/253Z7aBKpm5kgYSKO1fEpI"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Son",
-          "url": "https://open.spotify.com/artist/56BAnDZ3dSkEonH2yShhSx"
-        }
-      ],
-      "duration_ms": 227931,
-      "name": "One Lane Road",
-      "url": "https://open.spotify.com/track/7jsZdatNbVONa1V6tF0Tm3"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "Bittersomerson",
         "url": "https://open.spotify.com/album/4nBvLruXuk9NGPo8EeUwPt"
       },
@@ -91,6 +111,22 @@
       "duration_ms": 251189,
       "name": "Nameless Days",
       "url": "https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j"
+    },
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "No Wah-Wah",
+        "url": "https://open.spotify.com/album/6jkxRWucYvKKu2SSTwzVb0"
+      },
+      "artists": [
+        {
+          "name": "Jim Neversink",
+          "url": "https://open.spotify.com/artist/7lcphTNzwW4Lx0FBAusFtK"
+        }
+      ],
+      "duration_ms": 239812,
+      "name": "Mans Best Friend",
+      "url": "https://open.spotify.com/track/6U4udqe4YtkSnRwMoUkqTE"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -127,6 +163,74 @@
       "duration_ms": 207525,
       "name": "Maksimum Volume",
       "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
+    },
+    {
+      "added_at": "2023-03-02 21:59:00",
+      "album": {
+        "name": "Hoer In Beton",
+        "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        },
+        {
+          "name": "Koos Kombuis",
+          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
+        }
+      ],
+      "duration_ms": 280248,
+      "name": "Hoer In Beton",
+      "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
+    },
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Right in Front of My Eyes",
+        "url": "https://open.spotify.com/album/6xLguCVruY7SOBm8bLKW1r"
+      },
+      "artists": [
+        {
+          "name": "Last Days of Disco",
+          "url": "https://open.spotify.com/artist/6rRC11w1IstDz50kmJdF7s"
+        }
+      ],
+      "duration_ms": 264917,
+      "name": "Right in Front of My Eyes",
+      "url": "https://open.spotify.com/track/1GHEHUv4wnJ1jpbBFNeEUu"
+    },
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/1DUB2TNAvBF8WMBvd2kUdr"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/1eRAZZelizJPQkksU0oEux"
+    },
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Taste of Freedom",
+        "url": "https://open.spotify.com/album/6meVX62WRMvgdkhmStMLIL"
+      },
+      "artists": [
+        {
+          "name": "Apollo Motel",
+          "url": "https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t"
+        }
+      ],
+      "duration_ms": 232902,
+      "name": "Taste of Freedom",
+      "url": "https://open.spotify.com/track/57z2oHMHeYZqjr3db5dspc"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -177,6 +281,22 @@
       "url": "https://open.spotify.com/track/6raknpOUrMns81fs28m5xl"
     },
     {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Story of the year",
+        "url": "https://open.spotify.com/album/4Fv1oewYh21SU5TVTFQWxY"
+      },
+      "artists": [
+        {
+          "name": "Gangsterdam",
+          "url": "https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Story of the year",
+      "url": "https://open.spotify.com/track/0YhlYDi66P9L6QaLib1h6t"
+    },
+    {
       "added_at": "2023-02-21 08:56:24",
       "album": {
         "name": "The Gift",
@@ -193,22 +313,6 @@
       "url": "https://open.spotify.com/track/2plDiIgkQP195XUrFRTlNj"
     },
     {
-      "added_at": "2023-02-23 21:59:00",
-      "album": {
-        "name": "For the Pain",
-        "url": "https://open.spotify.com/album/62lgMNaKQtizxmRYQSQu4I"
-      },
-      "artists": [
-        {
-          "name": "Hawema",
-          "url": "https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK"
-        }
-      ],
-      "duration_ms": 241214,
-      "name": "For the Pain",
-      "url": "https://open.spotify.com/track/2PQ7EO8J48fdluJVXHCcBi"
-    },
-    {
       "added_at": "2023-03-09 21:59:00",
       "album": {
         "name": "Damwal",
@@ -223,6 +327,22 @@
       "duration_ms": 195117,
       "name": "Damwal",
       "url": "https://open.spotify.com/track/2JMDWqOSByeWD9f2SpyXtK"
+    },
+    {
+      "added_at": "2023-02-16 21:59:00",
+      "album": {
+        "name": "Dead Man's Son",
+        "url": "https://open.spotify.com/album/253Z7aBKpm5kgYSKO1fEpI"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Son",
+          "url": "https://open.spotify.com/artist/56BAnDZ3dSkEonH2yShhSx"
+        }
+      ],
+      "duration_ms": 227931,
+      "name": "One Lane Road",
+      "url": "https://open.spotify.com/track/7jsZdatNbVONa1V6tF0Tm3"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -257,22 +377,6 @@
       "url": "https://open.spotify.com/track/514tQtj7uyLHMn2yGgJkmj"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Crows Foot",
-        "url": "https://open.spotify.com/album/2rdWLJ9fW6uN5YDt62oetO"
-      },
-      "artists": [
-        {
-          "name": "West Coast Wolves",
-          "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
-        }
-      ],
-      "duration_ms": 191325,
-      "name": "Crows Foot",
-      "url": "https://open.spotify.com/track/1HitnCS6sx1ffnsZkFiZky"
-    },
-    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "Theory of Emotion",
@@ -303,26 +407,6 @@
       "duration_ms": 172760,
       "name": "CUPID",
       "url": "https://open.spotify.com/track/5JOQ7Gasb2n4pGPBskx2xl"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Hoer In Beton",
-        "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        },
-        {
-          "name": "Koos Kombuis",
-          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
-        }
-      ],
-      "duration_ms": 280248,
-      "name": "Hoer In Beton",
-      "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -531,22 +615,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "9-2-5",
-        "url": "https://open.spotify.com/album/1B3vzwGRP0OZ3pZ4XhsIC5"
-      },
-      "artists": [
-        {
-          "name": "Cindy-Louise",
-          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
-        }
-      ],
-      "duration_ms": 187925,
-      "name": "9-2-5",
-      "url": "https://open.spotify.com/track/522Xm0H1JrHGCUM0cRtuhx"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "Aansteeklik",
         "url": "https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G"
       },
@@ -563,22 +631,6 @@
       "duration_ms": 175728,
       "name": "Kopskud Revolusie (feat. Spoegwolf)",
       "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Burning Building",
-        "url": "https://open.spotify.com/album/7L0sDlplj7LoHjZ7mj2ETT"
-      },
-      "artists": [
-        {
-          "name": "Lucy Kruger & The Lost Boys",
-          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Burning Building",
-      "url": "https://open.spotify.com/track/4GCCyU0clhBbGzoylegT0Z"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -695,38 +747,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "No One Else Will",
-        "url": "https://open.spotify.com/album/3xq4IJTrAK1atE6FVsBY98"
-      },
-      "artists": [
-        {
-          "name": "Future Radio",
-          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
-        }
-      ],
-      "duration_ms": 200320,
-      "name": "No One Else Will",
-      "url": "https://open.spotify.com/track/76KLjagyMyDblwHHHgVJLZ"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Midnight Man",
-        "url": "https://open.spotify.com/album/0U63JmTcJjB7MA3P1oyEfL"
-      },
-      "artists": [
-        {
-          "name": "Kenny Hughes",
-          "url": "https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL"
-        }
-      ],
-      "duration_ms": 186025,
-      "name": "Midnight Man",
-      "url": "https://open.spotify.com/track/69K78xQYAiwO7GUEJgXByG"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "Heaving",
         "url": "https://open.spotify.com/album/4vVdnV7qeVHfw6eXvsuAHj"
       },
@@ -787,22 +807,6 @@
       "duration_ms": 194800,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "As I Turn Away",
-        "url": "https://open.spotify.com/album/62Ho9iSsrb6yX7lLMx36FS"
-      },
-      "artists": [
-        {
-          "name": "Jack Hammer Band",
-          "url": "https://open.spotify.com/artist/33IsTMCKx8LrRejpXlG7tZ"
-        }
-      ],
-      "duration_ms": 275153,
-      "name": "As I Turn Away",
-      "url": "https://open.spotify.com/track/6CwB8nrDMcPa9WhLdvYlUv"
     },
     {
       "added_at": "2023-02-16 21:59:00",

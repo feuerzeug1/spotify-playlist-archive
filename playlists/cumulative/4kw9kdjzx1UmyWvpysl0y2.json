@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 199726,
       "name": "2NITE",
       "url": "https://open.spotify.com/track/4DPQLiWUDwnQp9NJ57CgoW"
@@ -1971,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "Diving In",
+        "url": "https://open.spotify.com/album/1WWPOc87xTKMigQYkmDRn9"
+      },
+      "artists": [
+        {
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229440,
+      "name": "Diving In",
+      "url": "https://open.spotify.com/track/7amcoQCeUQxCNullGD7V7F"
+    },
+    {
+      "album": {
         "name": "do it",
         "url": "https://open.spotify.com/album/7IRCq5EPsHeuG3kSIu67X9"
       },
@@ -2620,7 +2638,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 216000,
       "name": "Falling Apart - VIP",
       "url": "https://open.spotify.com/track/31mifD96EdMow5Clmci2cN"
@@ -6355,6 +6373,28 @@
     },
     {
       "album": {
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165857,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
+    },
+    {
+      "album": {
         "name": "wonder years pt. 2",
         "url": "https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG"
       },
@@ -6436,7 +6476,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 231500,
       "name": "Sailor's Cry - djimboh Remix",
       "url": "https://open.spotify.com/track/7mx7kAWl6N5R7D243wCIJC"
@@ -6520,6 +6560,24 @@
       "duration_ms": 267676,
       "name": "Saving Lives",
       "url": "https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV"
+      },
+      "artists": [
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8"
     },
     {
       "album": {

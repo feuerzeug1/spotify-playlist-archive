@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-270 songs - 13 hr 48 min
+274 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 | 2021-04-10 |  |
 | [Alpha Focus Drone](https://open.spotify.com/track/5dg5PNv5LXNPJoWTfOPQZn) | [Therapeutic Reality](https://open.spotify.com/artist/0cikLffzif45mLdhObDe0V) | [Brainwave State Alpha](https://open.spotify.com/album/2mlB96cTpOna6IQOoyY07x) | 3:27 | 2019-05-26\* | 2021-04-10 |
 | [Alpha Focus Waves 128Hz \- 136Hz](https://open.spotify.com/track/1CoW9K4Sabt7H8bspY6dI1) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Alpha Focus](https://open.spotify.com/album/0Kv4W0JNSSXCLe2RAPDVcp) | 3:13 | 2023-03-10 |  |
+| [Alpha Horizon 128 + 130 Hz](https://open.spotify.com/track/4o4y2ZK2pso1lHYAGwhbLN) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 3:27 | 2023-03-16 |  |
 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 | 2021-04-22 |  |
 | [Alpha Mind Fields 12Hz](https://open.spotify.com/track/1FoDFD5k9GChv7nC9Sp9QK) | [Sound Calligraphy](https://open.spotify.com/artist/1Zp7nKZPuuLgjoPOeWoXVm) | [Mind Fields](https://open.spotify.com/album/1z9ggktUU722husvf5FCNN) | 4:00 | 2021-06-04 |  |
 | [Alpha Night \(106Hz \- 114Hz\)](https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:12 | 2021-08-05 |  |
@@ -145,7 +146,7 @@
 | [Binaural Gamma Sinus 80 Hz \- L 120 Hz \- R](https://open.spotify.com/track/1NtOid2GxikfUkQajrvWye) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:26 | 2019-05-26\* | 2021-09-16 |
 | [Binaural Gamma Sinus 80 Hz \- L 120 Hz \- R](https://open.spotify.com/track/0xNB7V7YuTuhspC4VxzScY) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Gamma Brainwaves](https://open.spotify.com/album/2VjUMYURryhVfw79wYpTHI) | 3:28 | 2020-12-03 | 2020-12-10 |
 | [Binaural Gamma Sinus 90 Hz \- 190 Hz](https://open.spotify.com/track/1PPEy5m3ubtow8tdkuTaci) | [Mia Edgewater](https://open.spotify.com/artist/3HJ62s2BPJhSMpLg7HMXzT) | [Binaural Gamma Sinus 90 Hz \- 190 Hz](https://open.spotify.com/album/0VQjlrTWznfGDy1Ao31IYb) | 2:13 | 2021-06-18 |  |
-| [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 | 2019-05-26\* |  |
+| [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 | 2019-05-26\* | 2023-03-18 |
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0UKq41XlbwiSpEqt1dQ2aS) | [Melvin Miller Jones](https://open.spotify.com/artist/0sgnTaXjVPQ8n5PXBxPC38) | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/album/5o9NyGHoyaDkHOTXHWTh99) | 2:26 | 2021-06-04 | 2023-01-04 |
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0crhvasDtSsXpLX2dlnb7Z) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Gamma Brainwaves](https://open.spotify.com/album/2VjUMYURryhVfw79wYpTHI) | 3:16 | 2020-12-03 | 2020-12-10 |
 | [Binaural Gamma Sinus Smooth](https://open.spotify.com/track/1Mb9AEykvFRq17KcIgtJ3v) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:48 | 2021-02-03 | 2022-09-07 |
@@ -216,6 +217,9 @@
 | [Gamma Waves](https://open.spotify.com/track/58qDSQ3gIQGNAbNhJElq5c) | [Headache Relief Unit](https://open.spotify.com/artist/5Q2BJu4aKY4WYxS4gZfu2D) | [TOP 50 BGM: Pure Binaural Beats, Brainwave Therapy Music System, Pranayama, Complete Study Relaxation, Zen Guided Meditation](https://open.spotify.com/album/55bsqk0KxWNid0fMG0HXw7) | 4:06 | 2019-05-26\* | 2021-01-12 |
 | [Gamma Waves 100Hz \- 140Hz](https://open.spotify.com/track/0kPZg7OK7ONxWXhXpg1m5U) | [Wave Sculptures](https://open.spotify.com/artist/7zkm5dkWmiPlj5VE6HuZ5A) | [Expansion of Consciousness](https://open.spotify.com/album/22O2mJyCzWeOIST18iy7by) | 2:31 | 2020-09-29 |  |
 | [Gamma Waves 200Hz \- 250Hz](https://open.spotify.com/track/2xP0X340p1DXVDpie2iczv) | [Wave Sculptures](https://open.spotify.com/artist/7zkm5dkWmiPlj5VE6HuZ5A) | [Expansion of Consciousness](https://open.spotify.com/album/22O2mJyCzWeOIST18iy7by) | 1:53 | 2020-09-29 |  |
+| [Gamma Waves 63 + 66 hz](https://open.spotify.com/track/7u8OFt3QZV3v86XteQTrNC) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Gamma Waves](https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z) | 3:24 | 2023-03-16 |  |
+| [Gamma Waves 68.5 + 71 hz](https://open.spotify.com/track/11zQg4nLvj6Pod4L1dAO6O) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Gamma Waves](https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z) | 3:33 | 2023-03-16 |  |
+| [Gamma Waves 89 + 86 hz](https://open.spotify.com/track/1C5ODl6oza5zRbwngivAK8) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Gamma Waves](https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z) | 3:01 | 2023-03-16 |  |
 | [Garurasana \-Alpha Sinus](https://open.spotify.com/track/4ZS95DukI777txcfftpDF1) | [Gervais Boudon](https://open.spotify.com/artist/1Omr9uhscWkt8hmlA7pgiy) | [Natarajasana \- Alpha Sinus](https://open.spotify.com/album/3hToHqtwnUlcs2dDVnjAS7) | 1:56 | 2021-02-03 | 2021-08-05 |
 | [Gathering Strenght \(Alpha Waves\)](https://open.spotify.com/track/5LClC3g56RONSzKN7QG56c) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Deepest Dream \(Binaural Beats\)](https://open.spotify.com/album/6nv46CNtutXIqarQSn4XnR) | 2:46 | 2020-03-12 | 2021-06-18 |
 | [Healing Alpha Sinus 106Hz \- 113Hz](https://open.spotify.com/track/0SEvk8gI3L48Vtq1ZbUZNp) | [AEX8](https://open.spotify.com/artist/6YKzzuOtORw4h0XGtkQQGb) | [Sound Bath](https://open.spotify.com/album/0dTiPuAGoJ0fjUyXgblgRw) | 3:38 | 2021-04-22 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,964 likes - 76 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,233 likes - 76 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ya Ghayeb](https://open.spotify.com/track/2j4O1Oz0AVTWNLHjhTzBbJ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ya Ghayeb](https://open.spotify.com/album/1haRKmfoKMLJCJNJlwbzL7) | 3:53 |
 | 2 | [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 |
 | 3 | [Leih Beydary Keda](https://open.spotify.com/track/4iKQHYDFlFsX28FeViuwSK) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Eba Abelny](https://open.spotify.com/album/18hMYQuTWVT03fhBbtT8kp) | 5:15 |
-| 4 | [Ah W Noss](https://open.spotify.com/track/5Z4F0zOGKoYLv8EtBhLzmZ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 4:40 |
+| 4 | [Ah W Noss](https://open.spotify.com/track/7ua22AD5CNo8lUDnH6imc1) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 4:40 |
 | 5 | [يا حياة قلبى](https://open.spotify.com/track/52ylRHT88HVcIsVJ6AmetJ) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [بدى عيش](https://open.spotify.com/album/2pmkzxgK0pNs8uFRJnhFGg) | 4:10 |
 | 6 | [يا غالي](https://open.spotify.com/track/5Pkag3Ny83R1QX7WFo8eyz) | [فرقة جيتارا](https://open.spotify.com/artist/0WtMDWKKkF9ZsTRsa9ffWU) | [قصتي](https://open.spotify.com/album/3WHI3KogOWEu2OG3WEqDli) | 5:18 |
 | 7 | [Nasini El Donya](https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 4:30 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 56 | [شفت بعينيا](https://open.spotify.com/track/4aVeUf3RC1VKiqFT2FNyFp) | [Hossam Habib](https://open.spotify.com/artist/0OWaQSefazXfg4aaiC0Veg) | [جوه القلب](https://open.spotify.com/album/4W2UyI6S09RUKbpTQfJ2Ue) | 3:55 |
 | 57 | [Ah Ya Aini Ya Leil \(Radio Edit\)](https://open.spotify.com/track/0dLk70DrxJj8vcjKnjh1GR) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe) | [Ana Keda](https://open.spotify.com/album/4Mb5BzRO2yegDi39yxjLmi) | 4:48 |
 | 58 | [Barsha](https://open.spotify.com/track/7DMuJ4PIkv72xeDsPa9qmF) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Sharea El Gharam](https://open.spotify.com/album/3FYfEWKC4DUiE57waMiFNS) | 3:50 |
-| 59 | [Inta Eyh](https://open.spotify.com/track/4lbXJ51VeYp8WA7JuOEzWP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 5:04 |
+| 59 | [Inta Eyh](https://open.spotify.com/track/7LpGX7ajb4o8OPQ1XdeeFZ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 5:04 |
 | 60 | [Sahran](https://open.spotify.com/track/5uAJgzYTVgK9hjub859HYo) | [Ahmed El Sherif](https://open.spotify.com/artist/11rEfO1VJ1WYgXEeXCNLfM) | [Bein Enass](https://open.spotify.com/album/0Yg9xrcC64uwzvZWJfdO35) | 3:50 |
 | 61 | [Romeo \- \(Remix\)](https://open.spotify.com/track/5t8zynpImoaWW7lWsbjL23) | [Essam Karika](https://open.spotify.com/artist/0c8w2lYzFdZkCOVtJj7QdW) | [El Wad El Afreet](https://open.spotify.com/album/67t6yJFj6PZ1RDMiRIlOWC) | 3:10 |
 | 62 | [Arabiyon Ana](https://open.spotify.com/track/35X8LBtskXgpURRUjyVoxq) | [Yuri Mrakadi](https://open.spotify.com/artist/5xIr5twGDcX741C7Oa18X2) | [Bellydance Superstars Vol\. IV](https://open.spotify.com/album/74rfF3sfdpJXVpyIpeO18B) | 4:44 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 75 | [Fenoh](https://open.spotify.com/track/6dzfREL5EwPZxPGIgKsieT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Gowa Fe Alby](https://open.spotify.com/album/27VrCWi59R8keOizrwJjGA) | 4:51 |
 | 76 | [Habeb Hayaty](https://open.spotify.com/track/4q8JLWV2F4a59csHoT99f9) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Hayaty](https://open.spotify.com/album/4qQIQlbIiyWWIiu8Jr6cVX) | 3:58 |
 
-Snapshot ID: `MTY3NTc1MzU3MCwwMDAwMDAwMDRkODczZmM5OGJlOWFjN2QzM2Q1NGI2NmFiMjk0YWQ1`
+Snapshot ID: `MTY3NTc1MzU3MCwwMDAwMDAwMGI3ODk4NjlhNWMzNjRmYzgyMzQzZDAzYTljMWFiN2M4`

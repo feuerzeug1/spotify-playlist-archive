@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 
 > Our weekly selection is here ⚡️
 
-[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,183 likes - 30 songs - 1 hr 43 min
+[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,185 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 |
+| 1 | [WTF](https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [WTF](https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR) | 3:17 |
 | 2 | [GET IT](https://open.spotify.com/track/1iE60Ny9k6vGmPRF7iKoUr) | [ZIOS](https://open.spotify.com/artist/1HFgOhnb76kDSv4U6SqLHX) | [GET IT](https://open.spotify.com/album/0hA8jrWzuihDqEm7DZtZEK) | 3:32 |
 | 3 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 |
 | 4 | [Bumpin'](https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Bumpin'](https://open.spotify.com/album/4sESCe1Q8O2NxP9S2TnGEv) | 3:28 |
-| 5 | [Don't Wanna Be](https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Don't Wanna Be](https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh) | 3:23 |
+| 5 | [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 |
 | 6 | [Jenny From The Block](https://open.spotify.com/track/3eHD5n37Rw3n6sxE9AJZCf) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Jenny From The Block](https://open.spotify.com/album/62MGYRNMNdura41YeBrwDP) | 3:49 |
 | 7 | [Pitch Thing](https://open.spotify.com/track/6Kea7kd9xbq4bAgEp1srdN) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Pitch Thing](https://open.spotify.com/album/36khe7dGDSL0YUI6stNTzO) | 3:37 |
 | 8 | [Flamingos](https://open.spotify.com/track/0lAQ4hpL4wS7EdgXYd3I2w) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Side B](https://open.spotify.com/artist/3hm9D6w73Erm43Ym0gtmjR) | [Pam Pam](https://open.spotify.com/album/1cdc1XeYkT0YTEYHsh97SU) | 3:28 |
 | 9 | [Eso](https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Eso](https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE) | 3:46 |
-| 10 | [CLOD](https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [CLOD](https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU) | 2:19 |
-| 11 | [Preach](https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m) | [VOLAC\. Bright Sparks](https://open.spotify.com/artist/3hGo66CnPVQDBPA6gyevQi) | [Preach](https://open.spotify.com/album/3BgQIbVApzmhwc39g05K9q) | 3:05 |
+| 10 | [Don't Wanna Be](https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Don't Wanna Be](https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh) | 3:23 |
+| 11 | [Preach](https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m) | [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Preach](https://open.spotify.com/album/3BgQIbVApzmhwc39g05K9q) | 3:05 |
 | 12 | [Madonna](https://open.spotify.com/track/2eNyIYoHZRUeEl5p5PKdOC) | [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [DIKTAT](https://open.spotify.com/artist/4OUqbwZjd0nfoQuCl7FfbI) | [Madonna](https://open.spotify.com/album/6Cw0ea9TmmMKnsT9aHjnIH) | 2:51 |
 | 13 | [symphonia.](https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:52 |
 | 14 | [Orient Express](https://open.spotify.com/track/293qKOjripajaL2vyZnJkX) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Orient Express](https://open.spotify.com/album/2ZeA0rOASQLqhn8WSKCNqT) | 2:46 |
-| 15 | [Escape](https://open.spotify.com/track/1H3rFP8VEwng3ksIiWOaqi) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Escape](https://open.spotify.com/album/445kF1rP1Ee5HjS7hA1xGG) | 3:12 |
+| 15 | [CLOD](https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [CLOD](https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU) | 2:19 |
 | 16 | [All The Time](https://open.spotify.com/track/5By6A6jdZiJ9j3YION9hQW) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [All The Time](https://open.spotify.com/album/0QBrRX6aMDz7SxzEvHXCv5) | 2:46 |
 | 17 | [Bronx](https://open.spotify.com/track/5oWXxAqoHGY96OnwzmdHdH) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Indigo](https://open.spotify.com/album/5BFu1tFCVsVvTn6gvU3WRo) | 3:03 |
 | 18 | [Wait A Minute](https://open.spotify.com/track/0UAK0qiRTIPUnMzjwKk2PF) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Wait A Minute](https://open.spotify.com/album/7bEV9C1I27kJqPO53JqTBP) | 3:22 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 | 29 | [Black Swan](https://open.spotify.com/track/4XakrAsCDt8dQEw9DwnTvB) | [Ekoboy](https://open.spotify.com/artist/7MiPGXNx49uTQk9HXUIB9o) | [Ye Swan](https://open.spotify.com/album/6e7RdnaEd4Q4HxH4P2wuxe) | 5:02 |
 | 30 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
 
-Snapshot ID: `MjkxNiw2NDNlZmIwZWQ0NGY1NjczYWVhNTlmY2JhY2RlMTBjNmQyMGUxODU4`
+Snapshot ID: `MjkyNCw0YTIzZDQwMzQ4NjgyODUyOWVkMGZmYWUxZGZiOTNiZGVlYWRhZjNi`

@@ -4,7 +4,7 @@
 
 > Pack your backpack and get ready for school!
 
-60 songs - 2 hr 15 min
+61 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Backpack, Backpack!](https://open.spotify.com/track/0DVMaexfdXDz19zUv1zKej) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/62nlqwR4OIMrI5VVb16Wct) | 0:24 | 2021-08-26 |  |
 | [Book Song](https://open.spotify.com/track/4Bz6toWBDTd7OZvtzwXIpt) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learning Lessons, Telling Time, Please & Thank You! Songs about Concepts, Development & Life Skills for Children with LittleBabyBum](https://open.spotify.com/album/7lLYL753qx17CvST22T1rl) | 1:28 | 2021-08-26 |  |
 | [Book Song](https://open.spotify.com/track/4JLefYzO7GAqEgGMyYsbnl) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Back to School](https://open.spotify.com/album/69or5KAxesV56FleRsIfbb) | 1:28 | 2021-08-26 | 2022-07-29 |
+| [Brain Break Dance](https://open.spotify.com/track/54yj5z2iKyg9sqp1F1lLOk) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Brain Break Dance](https://open.spotify.com/album/3BzS7Dbnr6Hwyau9aKFNvG) | 1:54 | 2023-03-17 |  |
 | [Circle Time Song](https://open.spotify.com/track/4JuRVHHhJKnmHVbvm0u4XW) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Songs for Back to School](https://open.spotify.com/album/107Xpt2jjyZrhHbXXEag0l) | 2:16 | 2021-08-26 |  |
 | [Clean it Up \(School\)](https://open.spotify.com/track/0lp8YTINVSiPkCdK2Upn25) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Alphabet Rockers](https://open.spotify.com/album/1rlnpqydyDSjS4vffFUC9W) | 2:20 | 2021-08-26 |  |
 | [Clean Up](https://open.spotify.com/track/65ov783J0qmUZkQqnjEb33) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 33 Circle Time Songs](https://open.spotify.com/album/6NykWbuxKO6ivJajGYbOgW) | 0:56 | 2021-08-26 |  |

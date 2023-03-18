@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Drug Church
 
-79 songs - 3 hr 27 min
+82 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Attitude](https://open.spotify.com/track/57WYmdUYggjpXqTsU5BT9n) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Attitude](https://open.spotify.com/album/7cp19grH5E1gFFSEQ0hjM2) | 0:51 | 2023-02-24 |  |
 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ACF2rwvNReujse9eedE56) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 2:53 | 2023-02-24 |  |
 | [Big Disappointment](https://open.spotify.com/track/79KaITjubucfKzHLM7Hg5c) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [All Roads Lead To The Gun \(Deluxe\)](https://open.spotify.com/album/6bAXgNDkSgTZRvl5mUlHFq) | 2:34 | 2023-02-24 | 2023-03-11 |
+| [Bite The Hook](https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Bite The Hook](https://open.spotify.com/album/4O73RVcXZeXUDtBZSHnd8p) | 2:55 | 2023-03-17 |  |
 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 | 2023-02-24 |  |
 | [Brain Wavez](https://open.spotify.com/track/0zGdvQEepg73ROZtkO3mw9) | [Mindz Eye](https://open.spotify.com/artist/7G5bKSZiqDTuhK4j8OIM9d) | [True Blue](https://open.spotify.com/album/1HFUXm75EX6cap0pOiSyYJ) | 2:29 | 2023-02-24 |  |
 | [Burst](https://open.spotify.com/track/5seDapgh8K6TQ3W1M3BBag) | [Riot Stares](https://open.spotify.com/artist/12cQFjMJf8HYgFqTMwz7Hn) | [Burst](https://open.spotify.com/album/3MycS5QDIKT1HVouCbkbpT) | 2:12 | 2023-02-24 |  |
@@ -26,6 +27,7 @@
 | [Dancing on a Pin](https://open.spotify.com/track/3SFYfWiTxhj9l1Erllc64i) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Dancing on a Pin](https://open.spotify.com/album/4l84ZA07jEaYL2c1yxnyNV) | 2:21 | 2023-02-24 |  |
 | [Dark Blue](https://open.spotify.com/track/60vVj2WfNR4weWoMEiO9er) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Songs for the Willow](https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL) | 2:49 | 2023-02-24 |  |
 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 | 2023-02-24 |  |
+| [Delete It](https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Post\-American](https://open.spotify.com/album/0O9TQ88Zb6NE6oa6Gkb0S9) | 2:22 | 2023-03-17 |  |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-24 |  |
 | [Eden Will Drown](https://open.spotify.com/track/0HsmA18Xq2X9vvGRkBRAtu) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Gather & Mourn](https://open.spotify.com/album/1p7pgNPg5MXtrSZTcGwSDf) | 3:12 | 2023-02-24 |  |
 | [Epidemic](https://open.spotify.com/track/1iHxborQnkkiCOxVbWUOvL) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Epidemic](https://open.spotify.com/album/1iwlH5lP8dVVq8d9R1dvVg) | 3:15 | 2023-02-24 |  |
@@ -54,6 +56,7 @@
 | [Nevermind the Dog](https://open.spotify.com/track/5Pi5gYpC4OhrW7byQgUMo0) | [Ways Away](https://open.spotify.com/artist/03qeBQwnTfKExVLq8dX000) | [Nevermind the Dog](https://open.spotify.com/album/1d48kZmZZHCSMfkS9GlsA9) | 2:44 | 2023-02-24 |  |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2023-02-24 |  |
 | [No Easy Way Out](https://open.spotify.com/track/4Avrrj95QH89EfgqdsViGh) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 2:35 | 2023-02-24 |  |
+| [One Shot](https://open.spotify.com/track/0IRL0HGFCkMR253ZTRuYjd) | [Bitterwood](https://open.spotify.com/artist/3s3MeH5JMG6o4ofQD1RMdS) | [One Shot](https://open.spotify.com/album/7zjQLinDFBxVITU5Y2XWfm) | 2:01 | 2023-03-17 |  |
 | [Only Human](https://open.spotify.com/track/6tbWLCZ907Qh5k2aHEP4H3) | [Iron Lung](https://open.spotify.com/artist/1rXjfC9HsVIIHggTMuxvSL) | [Mental Distancing](https://open.spotify.com/album/2YgYYcJD41zpxUlJ2cUzPU) | 2:22 | 2023-02-24 |  |
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-24 |  |
 | [Our Time](https://open.spotify.com/track/4ixBL8rnxusIfowbY4nNA7) | [Wreckage](https://open.spotify.com/artist/44rq09D86R0gylTJkr6tEZ) | [Our Time](https://open.spotify.com/album/5jEyAyMvfwrVOlqwVB0UV4) | 1:02 | 2023-02-24 |  |

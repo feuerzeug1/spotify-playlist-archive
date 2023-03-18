@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: 3030, Costa Gold",
+  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Papatinho, Xam\u00e3",
   "name": "brisa",
   "tracks": [
     {
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 196204,
       "name": "Devi",
       "url": "https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF"
@@ -3824,6 +3824,28 @@
       "duration_ms": 144186,
       "name": "Puto de Luxo",
       "url": "https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc"
+    },
+    {
+      "album": {
+        "name": "Qatar Freestyle (Papatracks #9)",
+        "url": "https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Qatar Freestyle (Papatracks #9)",
+      "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
     },
     {
       "album": {

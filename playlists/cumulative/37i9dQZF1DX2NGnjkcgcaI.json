@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Svanis",
+        "url": "https://open.spotify.com/album/5FKBkn6f0W0KYDabOFETnY"
+      },
+      "artists": [
+        {
+          "name": "Dubkrans",
+          "url": "https://open.spotify.com/artist/5z5XAcdNSYN1mQS2aFMq0k"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280714,
+      "name": "Svanis",
+      "url": "https://open.spotify.com/track/0ut7vOTIhJp2HqQHilFjch"
+    },
+    {
+      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/2ECd7RdGBkBiVhTjUqJm3y"
       },

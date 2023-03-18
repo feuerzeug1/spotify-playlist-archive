@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: John Legend
 
-387 songs - 22 hr 14 min
+388 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,8 @@
 | [Killing Me Softly](https://open.spotify.com/track/2wEyNde0HsqvTpP6yphfQU) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Killing Me Softly](https://open.spotify.com/album/3dzUlxbwuGbnH0p1TOOTdZ) | 3:29 | 2022-05-27 | 2022-12-30 |
 | [Kiss Me](https://open.spotify.com/track/1l3n3cIyHjEc7F78owErOa) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Kiss Me](https://open.spotify.com/album/5Dgm7LEEwNIV2JkO7alcRs) | 2:26 | 2021-12-17 | 2022-07-29 |
 | [Kiss Me](https://open.spotify.com/track/6Ngyk6TvmMeXqxlgdq0u9f) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Kiss Me](https://open.spotify.com/album/6h9bC3nDWad10hG7b5UCbd) | 2:26 | 2022-07-08 | 2022-12-30 |
-| [Kiss Me](https://open.spotify.com/track/4xni5u37UubdobwY7FpnqZ) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/7xpY3HpVuf7KsxPFXXU6nO) | 2:28 | 2023-02-17 |  |
+| [Kiss Me](https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN) | 2:28 | 2023-02-24 |  |
+| [Kiss Me](https://open.spotify.com/track/4xni5u37UubdobwY7FpnqZ) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/7xpY3HpVuf7KsxPFXXU6nO) | 2:28 | 2023-02-17 | 2023-03-18 |
 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-08-26 | 2022-12-30 |
 | [Landslide](https://open.spotify.com/track/0xhpxr1fREd1Ibk8nn2GgJ) | [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [Landslide](https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa) | 3:45 | 2021-12-17 |  |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-27 |  |

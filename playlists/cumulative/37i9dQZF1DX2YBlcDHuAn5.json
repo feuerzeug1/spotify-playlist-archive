@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
+      },
+      "artists": [
+        {
+          "name": "Rich McFeather",
+          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215553,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
+    },
+    {
+      "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 232725,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
@@ -218,7 +236,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 296000,
       "name": "Coyotes",
       "url": "https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm"
@@ -474,6 +492,24 @@
       "duration_ms": 158653,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
+    },
+    {
+      "album": {
+        "name": "Love You So",
+        "url": "https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55"
+      },
+      "artists": [
+        {
+          "name": "Sam Saxton",
+          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194396,
+      "name": "LOVE YOU SO",
+      "url": "https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK"
     },
     {
       "album": {

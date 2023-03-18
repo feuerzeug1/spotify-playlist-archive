@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Kemilly Santos",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Kellen Byanca",
   "name": "Louvores Pentecostais",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 351013,
       "name": "A Resposta",
       "url": "https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz"
@@ -78,6 +78,24 @@
       "duration_ms": 238167,
       "name": "A Vit\u00f3ria Chegou",
       "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+    },
+    {
+      "album": {
+        "name": "A Voz do Doce Esp\u00edrito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/65MOPE2tEmX1Fo0rqGy0mj"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351613,
+      "name": "A Voz do Doce Esp\u00edrito - Ao Vivo",
+      "url": "https://open.spotify.com/track/5eltkYyhSccW8uuEz0Zrqa"
     },
     {
       "album": {
@@ -962,7 +980,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 199267,
       "name": "Gera\u00e7\u00e3o de Adoradores",
       "url": "https://open.spotify.com/track/7rs6KxikJA7ieBpMvvxfEm"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 383955,
       "name": "Maior Esperan\u00e7a",
       "url": "https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO"
@@ -2057,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388196,
+      "name": "Terceiro C\u00e9u",
+      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
+    },
+    {
+      "album": {
         "name": "Treinar Voc\u00ea",
         "url": "https://open.spotify.com/album/6nvoq8EFg817BBinpcg8Wc"
       },
@@ -2218,6 +2254,24 @@
       "duration_ms": 248143,
       "name": "Vai Se Cumprir",
       "url": "https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9"
+    },
+    {
+      "album": {
+        "name": "Vai Ter Festa",
+        "url": "https://open.spotify.com/album/7qIy0gZAG6rClu3mi6dPXX"
+      },
+      "artists": [
+        {
+          "name": "Jana de Paula",
+          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329395,
+      "name": "Vai Ter Festa",
+      "url": "https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3"
     },
     {
       "album": {

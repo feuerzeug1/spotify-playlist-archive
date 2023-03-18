@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-128 songs - 7 hr 40 min
+129 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Chuvas De Verão](https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 2:49 | 2021-11-26 | 2022-07-29 |
 | [Chuvas De Verão \- Remastered 2006](https://open.spotify.com/track/3qhFhiaQrfkejwjSFqjfmR) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetano Veloso \- 1969](https://open.spotify.com/album/1piwOhCQ92jysdChq3IRz9) | 2:48 | 2021-11-26 |  |
 | [Cláudia](https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9), [Leila Pinheiro](https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb) | [Vamos Partir Pro Mundo \- a Música de Antonio Adolfo e Tibério Gaspar](https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa) | 3:24 | 2021-11-26 |  |
+| [Coisa No\. 10](https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/6JE3031cYqjRrfi1rYwEJV) | 3:03 | 2023-03-17 |  |
 | [Compro o Vento](https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq) | [Eliza Meireles](https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV) | [O Samba, a Roseira e o Vento](https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg) | 2:53 | 2021-11-26 |  |
 | [Cris](https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU) | [Hamleto Stamato](https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI) | [Autoral](https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s) | 4:00 | 2021-11-26 |  |
 | [Depressa a Vida Passa](https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo) | [Renato Braz](https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5) | [Depressa a Vida Passa](https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH) | 4:53 | 2021-11-26 |  |
@@ -125,7 +126,7 @@
 | [Vaidoso](https://open.spotify.com/track/30wH1ebVpN4yCfXqEbNhMG) | [Ramiro Pinheiro](https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV), [Alvar Monfort](https://open.spotify.com/artist/5tgFZn6lbPjBQ2lWuiuRxm) | [Vaidoso](https://open.spotify.com/album/1c8sfO9ugBr4SHYChqewTC) | 3:00 | 2021-11-26 |  |
 | [Vaidoso](https://open.spotify.com/track/5k2NFQf8v2foh5Kwkk7zVg) | [Ramiro Pinheiro](https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV), [Alvar Monfort](https://open.spotify.com/artist/5tgFZn6lbPjBQ2lWuiuRxm) | [Vaidoso](https://open.spotify.com/album/2YnXefeX040GxF3fE7Y8Ly) | 3:00 | 2021-11-26 | 2022-07-29 |
 | [Veja Bem Meu Bem](https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Yves Dharamraj](https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W) | [Veja Bem Meu Bem \(Single\)](https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R) | 5:22 | 2021-11-26 |  |
-| [Vento Sul](https://open.spotify.com/track/189oFyRvhHtcpGw4JLmt24) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Vento Sul](https://open.spotify.com/album/2KKwRNb1WHLbJ44cSJJwCV) | 3:24 | 2022-10-14 |  |
+| [Vento Sul](https://open.spotify.com/track/189oFyRvhHtcpGw4JLmt24) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Vento Sul](https://open.spotify.com/album/2KKwRNb1WHLbJ44cSJJwCV) | 3:24 | 2022-10-14 | 2023-03-18 |
 | [Vento Sul](https://open.spotify.com/track/4A2fXWDd2lopzpA2TgBFj9) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Vento Sul](https://open.spotify.com/album/2Q7imAUuBpqC7St4BIWEIB) | 3:24 | 2021-11-26 | 2022-10-16 |
 | [Vivo Sonhando](https://open.spotify.com/track/1CLCxyhhZyUb2Vp9mtP8cK) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova For Lovers](https://open.spotify.com/album/5PQxnjJaBa2FpcgS3U47wJ) | 2:53 | 2022-10-14 | 2022-11-13 |
 | [Vivo Sonhando](https://open.spotify.com/track/1Zfs685ci0kxKAym9WMuxi) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 2:53 | 2021-11-26 |  |

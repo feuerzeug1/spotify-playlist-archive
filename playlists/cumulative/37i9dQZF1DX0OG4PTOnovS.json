@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "I've Got the Joy, Joy, Joy, Joy, Down in My Heart",
+        "url": "https://open.spotify.com/album/4I6sg7EnrmVCNg7ZNpZr1R"
+      },
+      "artists": [
+        {
+          "name": "Music For All",
+          "url": "https://open.spotify.com/artist/7csP0c8NuKpoJSAeMOT8rI"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101896,
+      "name": "I've Got the Joy, Joy, Joy, Joy, Down in My Heart",
+      "url": "https://open.spotify.com/track/5DHpa8AgOCpGwijMCSxzxc"
+    },
+    {
+      "album": {
         "name": "Songs Of Some Silliness",
         "url": "https://open.spotify.com/album/5mv36wjykVxgYKblk2KLRJ"
       },

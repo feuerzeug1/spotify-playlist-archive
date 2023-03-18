@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Joel Corry x Ron Carroll",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Nitti x Valentino Khan",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "8 Bit Lovers (feat. Noah Avery)",
+        "url": "https://open.spotify.com/album/47X7fWHrgRGOPKSrLudCR4"
+      },
+      "artists": [
+        {
+          "name": "Thomas Nan",
+          "url": "https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v"
+        },
+        {
+          "name": "Noah Avery",
+          "url": "https://open.spotify.com/artist/6yOuSQzdiWHJQg64xtW28j"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133210,
+      "name": "8 Bit Lovers (feat. Noah Avery)",
+      "url": "https://open.spotify.com/track/3XseUSFG5hK3x70ZxQsKGZ"
+    },
+    {
+      "album": {
         "name": "A Place In The Dark",
         "url": "https://open.spotify.com/album/3mMAancciIstM6xJ2xYv0X"
       },
@@ -130,7 +152,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 159565,
       "name": "A Place In The Dark",
       "url": "https://open.spotify.com/track/7brwHNQOIkksblcpwaVBvL"
@@ -318,7 +340,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 149760,
       "name": "After Midnight (feat. Xoro) [TELYKast Remix]",
       "url": "https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk"
@@ -1424,7 +1446,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 132480,
       "name": "Bite My Tongue",
       "url": "https://open.spotify.com/track/48I1OduvkSKjzsFhPQFU42"
@@ -1648,6 +1670,24 @@
       "duration_ms": 181333,
       "name": "BT1",
       "url": "https://open.spotify.com/track/59gxVInWEnShtkIrNGUhaE"
+    },
+    {
+      "album": {
+        "name": "Bullit (feat. Waterm\u00e4t) [Slowed Version]",
+        "url": "https://open.spotify.com/album/3nmZpHiVHqd4wFPc1Sft3Q"
+      },
+      "artists": [
+        {
+          "name": "Nightcore Slowed Down Tunes",
+          "url": "https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231603,
+      "name": "Bullit (feat. Waterm\u00e4t) [Slowed Version]",
+      "url": "https://open.spotify.com/track/4etsyg604wwWjuG3CiPnZy"
     },
     {
       "album": {
@@ -2213,6 +2253,28 @@
     },
     {
       "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219523,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
+    },
+    {
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/2zv3qPvu34uzmNJjSdjQ7E"
       },
@@ -2286,7 +2348,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 156000,
       "name": "Crank That",
       "url": "https://open.spotify.com/track/2ez15htfMruYGZAGpIUjit"
@@ -2410,6 +2472,28 @@
       "duration_ms": 146310,
       "name": "Dance Dance [Gabry Ponte VIP MIX]",
       "url": "https://open.spotify.com/track/1UMWdBvnHybdNir8fAyKyc"
+    },
+    {
+      "album": {
+        "name": "Dancing All Alone",
+        "url": "https://open.spotify.com/album/0pxNMYEz2FyiyQNjNLotIF"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Dancing All Alone",
+      "url": "https://open.spotify.com/track/6ggwvlAw6i9FSD4b7CumON"
     },
     {
       "album": {
@@ -2992,7 +3076,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 149556,
       "name": "Drop Da Bomb",
       "url": "https://open.spotify.com/track/2p7x2Ogr7rVINUj7AT1M6L"
@@ -3084,7 +3168,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 139218,
       "name": "Drop That Low (When I Dip) [feat. Kid Ink] [GOOD N\u2019 BAD Remix]",
       "url": "https://open.spotify.com/track/3ngvQArJT8Kd26hZAhvIjo"
@@ -4062,6 +4146,32 @@
       "duration_ms": 152764,
       "name": "Fool (feat. Betty Bloom)",
       "url": "https://open.spotify.com/track/0z1keLvev9EbAXycMboeRt"
+    },
+    {
+      "album": {
+        "name": "Forget You (feat. Gabry Ponte) [LUM!X VIP MIX]",
+        "url": "https://open.spotify.com/album/6TPq02HEuoWtmchqv4Ox77"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Forget You (feat. Gabry Ponte) [LUM!X VIP MIX]",
+      "url": "https://open.spotify.com/track/0HTTYoAKHZOOybFJH24lbv"
     },
     {
       "album": {
@@ -6129,6 +6239,28 @@
     },
     {
       "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/7D98JwctKq2YRCuYXyEjql"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168569,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/4Io7cOXbdkbFBXlPD79IjX"
+    },
+    {
+      "album": {
         "name": "Kill Me",
         "url": "https://open.spotify.com/album/6llX0jALPogs989Pcyt7RP"
       },
@@ -6492,7 +6624,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 203636,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/5CF0J17yCgiOuesCGJU0Jf"
@@ -7528,7 +7660,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 168549,
       "name": "Midnight Club",
       "url": "https://open.spotify.com/track/0voSkJzkArRukviUK5RjPE"
@@ -8359,6 +8491,24 @@
     },
     {
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4NYL4SD5w2GP3f5Q8EoYZp"
+      },
+      "artists": [
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164916,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/18MCxsPkUPmVczH6MwcmMt"
+    },
+    {
+      "album": {
         "name": "Nitrous",
         "url": "https://open.spotify.com/album/2b3xZ6D9mLJaCTPZNvHP3d"
       },
@@ -8537,6 +8687,28 @@
     },
     {
       "album": {
+        "name": "Nothing But A Party",
+        "url": "https://open.spotify.com/album/63vklUitUz8LhUBManriQM"
+      },
+      "artists": [
+        {
+          "name": "Joe Stone",
+          "url": "https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv"
+        },
+        {
+          "name": "Brad Pearce",
+          "url": "https://open.spotify.com/artist/0oU5QHDNNfNucziBwyFtH2"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Nothing But A Party",
+      "url": "https://open.spotify.com/track/5655BZySGWYh7OkxqecOse"
+    },
+    {
+      "album": {
         "name": "Nothing To Hide",
         "url": "https://open.spotify.com/album/3sE3g4Y9iMjIXwKgaNkMCh"
       },
@@ -8599,6 +8771,32 @@
     },
     {
       "album": {
+        "name": "NYC BABY (Rikke Darling Remix)",
+        "url": "https://open.spotify.com/album/4Gs6b8cN0H9E6ZULPuSBG0"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        },
+        {
+          "name": "Rikke Darling",
+          "url": "https://open.spotify.com/artist/3eHCkAyD6HfMa8mxDKuTjc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154809,
+      "name": "NYC BABY(Rikke Darling Remix)",
+      "url": "https://open.spotify.com/track/1atH0LilNhh6totTMK4Tz4"
+    },
+    {
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/16rsl34fv3pg7FHJ25vvyj"
       },
@@ -8614,6 +8812,32 @@
       "duration_ms": 216000,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/7Ap8x9Wljva0J0ypsEmEVo"
+    },
+    {
+      "album": {
+        "name": "Off Switch (with Elle Vee)",
+        "url": "https://open.spotify.com/album/5tRVC4QA55ITMtBtD8bP0f"
+      },
+      "artists": [
+        {
+          "name": "2Awake",
+          "url": "https://open.spotify.com/artist/0eUzuZ1U6Ofl82Gwotjka3"
+        },
+        {
+          "name": "SixCap",
+          "url": "https://open.spotify.com/artist/1Q4td6MS7PJuJeNyjzmh8s"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162187,
+      "name": "Off Switch (with Elle Vee)",
+      "url": "https://open.spotify.com/track/3bB7B7mvhRjmREvfO3MokW"
     },
     {
       "album": {
@@ -9102,7 +9326,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 160476,
       "name": "Paralyzed By Your Eyes",
       "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
@@ -9314,6 +9538,36 @@
       "duration_ms": 164576,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1bQeHzGMsZFQx9WRARaBJq"
+    },
+    {
+      "album": {
+        "name": "Pieces (EP)",
+        "url": "https://open.spotify.com/album/25r4xCO22Xg4WmRmqJX98c"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        },
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        },
+        {
+          "name": "Mind Electric",
+          "url": "https://open.spotify.com/artist/69980mQFGok7v7sniw1zgL"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Pieces (Mind Electric Remix)",
+      "url": "https://open.spotify.com/track/1xNk84L6jyZ1SvQu4Mi4WG"
     },
     {
       "album": {
@@ -9702,6 +9956,28 @@
       "duration_ms": 147153,
       "name": "Red Light, Green Light (Festival Remix)",
       "url": "https://open.spotify.com/track/6hSzmYOwZjY5BiUHPGkJww"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/61vC5e6A8QeCllYMjkMoNE"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Bonka",
+          "url": "https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202935,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/3Vjj1wlRePg7RTXegdtmP4"
     },
     {
       "album": {
@@ -10279,6 +10555,24 @@
     },
     {
       "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/0N2Ufgc64L7KR4YIPj12Vl"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8RD",
+          "url": "https://open.spotify.com/artist/65cmRE79meWnhTsLcmwHXL"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175781,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/5w8AkLXAPgl0OXnes9wRfi"
+    },
+    {
+      "album": {
         "name": "Shadow (Phonk Remix)",
         "url": "https://open.spotify.com/album/3ytadXaSVsaDuTz6GVeQVm"
       },
@@ -10698,7 +10992,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 161964,
       "name": "Somebody To Love (feat. Basstrologe) [Slowed Version]",
       "url": "https://open.spotify.com/track/4fbQbyieN8SuSkV6Jr0TLk"
@@ -10716,7 +11010,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 148279,
       "name": "Somebody To Love (feat. LIZOT, Basstrologe) [Slowed Version]",
       "url": "https://open.spotify.com/track/4zVdoOcp0UODLeKr6jwEKP"
@@ -11278,6 +11572,28 @@
       "duration_ms": 213120,
       "name": "Surrender (feat. YOU)",
       "url": "https://open.spotify.com/track/4v0SRIKcYUkNYhK2zLA6nf"
+    },
+    {
+      "album": {
+        "name": "Sweet Chili Hot (feat. Tania Foster)",
+        "url": "https://open.spotify.com/album/1400giqo5YcZuBHSaTzU9u"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        },
+        {
+          "name": "Tania Foster",
+          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "Sweet Chili Hot (feat. Tania Foster)",
+      "url": "https://open.spotify.com/track/6K90MKpkKkdihnzCsybotA"
     },
     {
       "album": {
@@ -12623,6 +12939,28 @@
     },
     {
       "album": {
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/3RB5L7zcBU9MCnspMwTmg1"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Antoine Delvig",
+          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181011,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/35Zn6zw3BEWaY2ZhryUkyI"
+    },
+    {
+      "album": {
         "name": "Wahran (DJ Yo! Amapiano Mix)",
         "url": "https://open.spotify.com/album/1MrBDK1giiSkEU4dARYJXc"
       },
@@ -13032,6 +13370,28 @@
       "duration_ms": 158392,
       "name": "What Ya Gonna Do",
       "url": "https://open.spotify.com/track/1vmGV57xlWJqIFGephbSFu"
+    },
+    {
+      "album": {
+        "name": "What You Got",
+        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
     },
     {
       "album": {

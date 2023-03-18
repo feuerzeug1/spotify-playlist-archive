@@ -11315,6 +11315,24 @@
     },
     {
       "album": {
+        "name": "Gill Skill, Vol. 1",
+        "url": "https://open.spotify.com/album/6A4GxzoyK2x6rm9hGvJMUw"
+      },
+      "artists": [
+        {
+          "name": "Jassie Gill",
+          "url": "https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "Sath Tera",
+      "url": "https://open.spotify.com/track/1uwwPP5m9lt8zEAkVcyca4"
+    },
+    {
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/6JzOPYjClr8eTVRvpbatmG"
       },

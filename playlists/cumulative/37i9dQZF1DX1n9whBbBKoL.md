@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-193 songs - 9 hr 53 min
+194 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Aurora](https://open.spotify.com/track/6B5LtVE6Nlvmr9iJRMu2O9) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Aurora](https://open.spotify.com/album/7898KcnclYbvNAdYWnwZW1) | 3:13 | 2021-11-10 |  |
 | [Awakened](https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ) | [The Deep Sleep Scientists](https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR) | [Awakened](https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV) | 3:00 | 2022-09-23 |  |
 | [Beautiful Imagination](https://open.spotify.com/track/5LEHlRPjGcZ5RdagAwXpHS) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Beautiful Imagination](https://open.spotify.com/album/3hFObbQaeADDqmUJM6BXlQ) | 2:23 | 2021-11-10 |  |
-| [Beta Zone](https://open.spotify.com/track/4tng20Ebg02qGs4z5r1dji) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Binaural](https://open.spotify.com/album/4nDz7dL6A1JJ2q5QWdpY5p) | 3:20 | 2021-11-10 |  |
+| [Beta Zone](https://open.spotify.com/track/4tng20Ebg02qGs4z5r1dji) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Binaural](https://open.spotify.com/album/4nDz7dL6A1JJ2q5QWdpY5p) | 3:20 | 2021-11-10 | 2023-03-18 |
 | [Beyond & Back](https://open.spotify.com/track/1Fl9ptJFxhir0pC9jNpwKx) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Beyond & Back](https://open.spotify.com/album/6UjOraeSaCwZrZnjuQTw8F) | 2:46 | 2022-06-16 |  |
 | [Binaural Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/track/36IfppbuhVOH1pSRQucbts) | [Sisu Syndrome](https://open.spotify.com/artist/0oLpUOxIR7CnkgQggfksI9) | [Binaural Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/album/5ERjTB1ysvHRuZxFpVGuQO) | 2:28 | 2021-11-10 |  |
 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 | 2021-11-10 | 2022-04-22 |
@@ -78,6 +78,7 @@
 | [eternity](https://open.spotify.com/track/6Pbh8GSnDNHM7Uexwbp9Ky) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm) | 2:53 | 2022-10-07 |  |
 | [eternity](https://open.spotify.com/track/78sv6AmYs4TZpSOjWKAQzr) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [eternity](https://open.spotify.com/album/3PUHobRYFiCDRjrJCnXZNO) | 2:53 | 2021-11-10 | 2022-07-29 |
 | [Eudaemonia](https://open.spotify.com/track/3ZxQ9iLS9QWcnoyg0tbSME) | [Keira Barton](https://open.spotify.com/artist/7MDW47TOvs2sC0FyHqSV3Y) | [Eudaemonia](https://open.spotify.com/album/0E08nTyn985xgztmBEy8V4) | 2:58 | 2021-11-10 |  |
+| [Evangelic](https://open.spotify.com/track/0XTn1DV7iPYTS9yVXzgnZI) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Evangelic](https://open.spotify.com/album/6Aa9HH5W8IQHhPuFChIJj1) | 2:33 | 2023-03-17 |  |
 | [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 |  |
 | [Fair Game](https://open.spotify.com/track/0q1cjVlW64TLWVsn7m8rKy) | [Phlieng](https://open.spotify.com/artist/42CYfnqvxyFOZwgXPNEyIB) | [Fair Game](https://open.spotify.com/album/2HxC0AIJtD05UpH8WUoaOT) | 3:46 | 2021-11-10 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-01-21 |  |

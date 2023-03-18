@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Dreams Come True",
+        "url": "https://open.spotify.com/album/317T9IN2UhpFGIZEv1C47f"
+      },
+      "artists": [
+        {
+          "name": "Fraire Jaques",
+          "url": "https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205664,
+      "name": "Apfelstrudel",
+      "url": "https://open.spotify.com/track/2GdEApRyXRRrl9uTkNtvuo"
+    },
+    {
+      "album": {
         "name": "Are You Sleeping?",
         "url": "https://open.spotify.com/album/5rKFqgWhpzCnqYY6qkaNW3"
       },
@@ -977,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Beauty On a Cloud",
+        "url": "https://open.spotify.com/album/2GVMmxOcSBnt1TxbJWuG2m"
+      },
+      "artists": [
+        {
+          "name": "Snowy Bear",
+          "url": "https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68965,
+      "name": "Beauty On a Cloud",
+      "url": "https://open.spotify.com/track/1e5RjDtUar14hQo2NA4YNa"
+    },
+    {
+      "album": {
         "name": "Bedtime Birdie",
         "url": "https://open.spotify.com/album/6X2u93pzBnGmqE1XVttaJI"
       },
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200890,
       "name": "Bedtimes Poems",
       "url": "https://open.spotify.com/track/6YpPCYMFLD5jU4lPptIRFF"
@@ -1694,6 +1730,24 @@
       "duration_ms": 101265,
       "name": "Chanson De Berceau",
       "url": "https://open.spotify.com/track/5ZedeEHldpqdi4sJrQsGQ2"
+    },
+    {
+      "album": {
+        "name": "Cherished Dreams",
+        "url": "https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b"
+      },
+      "artists": [
+        {
+          "name": "Skye Holland",
+          "url": "https://open.spotify.com/artist/0A1vSROc85f7LwTdncMf67"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127210,
+      "name": "Cherished Dreams",
+      "url": "https://open.spotify.com/track/0fH8hYXMXdHHTfAtDb5E41"
     },
     {
       "album": {
@@ -2561,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "Dreams of Us",
+        "url": "https://open.spotify.com/album/7vtj7hTrxhTMYOB9KV3u6w"
+      },
+      "artists": [
+        {
+          "name": "Blossom Fischer",
+          "url": "https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112042,
+      "name": "Dreams of Us",
+      "url": "https://open.spotify.com/track/20Fpq9gEh0oOPNapG27Ihv"
+    },
+    {
+      "album": {
         "name": "Dreamscape",
         "url": "https://open.spotify.com/album/0zajkqibzIYQI3N00afUr2"
       },
@@ -2774,6 +2846,42 @@
       "duration_ms": 111250,
       "name": "El viejo sillo\u0301n de papa\u0301",
       "url": "https://open.spotify.com/track/1pOTHiPZ8vThREtuVzpe7u"
+    },
+    {
+      "album": {
+        "name": "Stj\u00e4rnfall MusicBox",
+        "url": "https://open.spotify.com/album/552hmmxQb1A0xLHr96t4ac"
+      },
+      "artists": [
+        {
+          "name": "Skymningen",
+          "url": "https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66992,
+      "name": "Elsas Vaggvisa (MusicBox)",
+      "url": "https://open.spotify.com/track/10oj8CDN9OqSJRoajUH4Oe"
+    },
+    {
+      "album": {
+        "name": "Elvira Fattigans S\u00e5ng",
+        "url": "https://open.spotify.com/album/5J8xhJcihn9vue9jG88SX7"
+      },
+      "artists": [
+        {
+          "name": "Mia Zand",
+          "url": "https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119587,
+      "name": "Elvira Fattigans Song",
+      "url": "https://open.spotify.com/track/32T5Fnw7yUvCeXzbsGznxB"
     },
     {
       "album": {
@@ -3994,7 +4102,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 160332,
       "name": "Grandpa Is Coming",
       "url": "https://open.spotify.com/track/07mxW2F347d0aBeUqFsjQI"
@@ -4178,6 +4286,24 @@
       "duration_ms": 111130,
       "name": "Head Shoulders Knees And Toes",
       "url": "https://open.spotify.com/track/31V9WShUNiw0m0o0yTe9s3"
+    },
+    {
+      "album": {
+        "name": "Acoustic Guitar Lullabies",
+        "url": "https://open.spotify.com/album/1aUPcEPAxp9UwB1Vvezu7P"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96750,
+      "name": "Head Shoulders Knees and Toes",
+      "url": "https://open.spotify.com/track/6L3jWWum4jr3UNz17UQPai"
     },
     {
       "album": {
@@ -4696,7 +4822,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 117785,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/3dsyTAFaheGia7mzN23joQ"
@@ -5344,7 +5470,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 100124,
       "name": "La Cucaracha",
       "url": "https://open.spotify.com/track/3KtsEkq4GQSO80dcXmC8iS"
@@ -5765,6 +5891,24 @@
     },
     {
       "album": {
+        "name": "Little Dreamer",
+        "url": "https://open.spotify.com/album/2hJ4XAJ27gU58YmEFatsgb"
+      },
+      "artists": [
+        {
+          "name": "Tom Blund",
+          "url": "https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67337,
+      "name": "Little Dreamer",
+      "url": "https://open.spotify.com/track/2Bi78w0eDI0LLki6hL4kRy"
+    },
+    {
+      "album": {
         "name": "Little Dreamers",
         "url": "https://open.spotify.com/album/6oV11mfEZwRux1ESS3ZCz4"
       },
@@ -5816,6 +5960,24 @@
       "duration_ms": 117124,
       "name": "Little George",
       "url": "https://open.spotify.com/track/2FQzlc7Ce8DRqJJXaoB9Yg"
+    },
+    {
+      "album": {
+        "name": "Little Jack Horner",
+        "url": "https://open.spotify.com/album/7LrhiWS8UkU8hmH8d3ocIv"
+      },
+      "artists": [
+        {
+          "name": "Dawn Strage",
+          "url": "https://open.spotify.com/artist/327FLvFuccgVKyr40b3eli"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68571,
+      "name": "Little Jack Horner",
+      "url": "https://open.spotify.com/track/4bcK8YQsYRGufJzOBdFMjQ"
     },
     {
       "album": {
@@ -6374,6 +6536,24 @@
       "duration_ms": 82010,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3J6dgORs9qkS4nJwctiMdp"
+    },
+    {
+      "album": {
+        "name": "Rainbow Sky",
+        "url": "https://open.spotify.com/album/3e9Nts6SRxn1htmBr06L3n"
+      },
+      "artists": [
+        {
+          "name": "Arlo Fry",
+          "url": "https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102984,
+      "name": "Moonlit Cradle",
+      "url": "https://open.spotify.com/track/7JJ8VKdFWMD14OYxishmdi"
     },
     {
       "album": {
@@ -7241,6 +7421,24 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/3Nz6S7NBhNIhRLaT613Hxz"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Keller",
+          "url": "https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94613,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/0HvsoK5mb8X5R8SuRyM0zk"
+    },
+    {
+      "album": {
         "name": "N\u00e4r du somnat",
         "url": "https://open.spotify.com/album/0OVh3eYoUP3hCqu2upV0w2"
       },
@@ -7558,7 +7756,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 133868,
       "name": "Pearl's Bell",
       "url": "https://open.spotify.com/track/56X7r3kZFy6TI182lPcRSx"
@@ -7832,6 +8030,24 @@
       "duration_ms": 108932,
       "name": "Rain, Rain, Go Away",
       "url": "https://open.spotify.com/track/3zmJ8KlMAGpS4hpqDJ5xmA"
+    },
+    {
+      "album": {
+        "name": "Rainbow Sky",
+        "url": "https://open.spotify.com/album/3e9Nts6SRxn1htmBr06L3n"
+      },
+      "artists": [
+        {
+          "name": "Arlo Fry",
+          "url": "https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126529,
+      "name": "Rainbow Sky",
+      "url": "https://open.spotify.com/track/4svS894AnmwsJboKSF37Gi"
     },
     {
       "album": {
@@ -8134,7 +8350,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 117363,
       "name": "See the Stars",
       "url": "https://open.spotify.com/track/1J9HqwN1K2RuEEifceye5Z"
@@ -9052,7 +9268,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 136500,
       "name": "Somewhere over the rainbow",
       "url": "https://open.spotify.com/track/5NoSvkAWZakc4pWrd3sJHC"
@@ -9074,6 +9290,24 @@
       "duration_ms": 91345,
       "name": "Sommeil de b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/0iCLUNgMsi5Nc52xB6kvtv"
+    },
+    {
+      "album": {
+        "name": "Sommerdr\u00f8m",
+        "url": "https://open.spotify.com/album/6QBMIQgFVkgQZ0Qpu9evl0"
+      },
+      "artists": [
+        {
+          "name": "William Riddervold",
+          "url": "https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76569,
+      "name": "Sommerdr\u00f8m",
+      "url": "https://open.spotify.com/track/2uPXBjaHGJn3e6fWRqB2JL"
     },
     {
       "album": {
@@ -9509,6 +9743,24 @@
     },
     {
       "album": {
+        "name": "Suo Gan",
+        "url": "https://open.spotify.com/album/4niFFsiGXKOtHR2rHdy1Yo"
+      },
+      "artists": [
+        {
+          "name": "Rex Miller",
+          "url": "https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119518,
+      "name": "Suo Gan",
+      "url": "https://open.spotify.com/track/2Ao3ql098f12DeavWNgaLc"
+    },
+    {
+      "album": {
         "name": "Dr\u00f6mmarnas Rike",
         "url": "https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2"
       },
@@ -9754,7 +10006,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 87000,
       "name": "Teeny Tiny Fortress",
       "url": "https://open.spotify.com/track/1sYRJMBcaS5TIfelrS4MXE"
@@ -9848,6 +10100,24 @@
       "duration_ms": 101773,
       "name": "The Bestest Friend",
       "url": "https://open.spotify.com/track/3vT72R7AePCJXPKLMvqbpy"
+    },
+    {
+      "album": {
+        "name": "The Blue Coloring Book",
+        "url": "https://open.spotify.com/album/2DtIFYiufejv0I6K0vijcX"
+      },
+      "artists": [
+        {
+          "name": "Lucy Sothersby",
+          "url": "https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176032,
+      "name": "The Blue Coloring Book",
+      "url": "https://open.spotify.com/track/4rDU0qGUzyomeT3GgXH0QX"
     },
     {
       "album": {
@@ -9995,6 +10265,24 @@
     },
     {
       "album": {
+        "name": "The Moon And The Stars",
+        "url": "https://open.spotify.com/album/3oQCI4enDfQDmauf0QaudE"
+      },
+      "artists": [
+        {
+          "name": "Paul Ellier",
+          "url": "https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139229,
+      "name": "The Moon And The Stars",
+      "url": "https://open.spotify.com/track/2FROaOKmXqqJfcgSpy7Gu2"
+    },
+    {
+      "album": {
         "name": "The Moon Looks Like A Cake",
         "url": "https://open.spotify.com/album/4bsuR68E2sJNY6fvFOVQzN"
       },
@@ -10028,6 +10316,24 @@
       "duration_ms": 81937,
       "name": "The More We Get Together",
       "url": "https://open.spotify.com/track/1NFGCM05E8UmXCYlYxGZ1x"
+    },
+    {
+      "album": {
+        "name": "The Mulberry Bush",
+        "url": "https://open.spotify.com/album/1j7soGWdaZ2b3xAHgX03yp"
+      },
+      "artists": [
+        {
+          "name": "Diedrik Tapp",
+          "url": "https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129983,
+      "name": "The Mulberry Bush",
+      "url": "https://open.spotify.com/track/6yE3oqujPvKKVuwqdoALlh"
     },
     {
       "album": {
@@ -10456,7 +10762,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 87500,
       "name": "Tickle Monster",
       "url": "https://open.spotify.com/track/2TrJ2NAlb0JvrTC6mfNUFX"
@@ -10694,6 +11000,24 @@
       "duration_ms": 100500,
       "name": "Touching the sky",
       "url": "https://open.spotify.com/track/4D9S99PiDD7HfzGr2Tfmaf"
+    },
+    {
+      "album": {
+        "name": "Tourne Petit Moulin",
+        "url": "https://open.spotify.com/album/3Kb3AoFGckIvp8AVjZsCoV"
+      },
+      "artists": [
+        {
+          "name": "Jacks Box",
+          "url": "https://open.spotify.com/artist/3TtwJYv05v0xwTnQAB5Zi0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Tourne Petit Moulin",
+      "url": "https://open.spotify.com/track/769OmGhsJJ77UwMWUjhwIg"
     },
     {
       "album": {
@@ -11050,7 +11374,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 100374,
       "name": "Walking in her sleep",
       "url": "https://open.spotify.com/track/2M6kPfglOgGjNJUW6BEd0r"
@@ -11489,6 +11813,24 @@
     },
     {
       "album": {
+        "name": "Cherished Dreams",
+        "url": "https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b"
+      },
+      "artists": [
+        {
+          "name": "Skye Holland",
+          "url": "https://open.spotify.com/artist/0A1vSROc85f7LwTdncMf67"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103525,
+      "name": "Whispers of Peace",
+      "url": "https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p"
+    },
+    {
+      "album": {
         "name": "White Pyjamas",
         "url": "https://open.spotify.com/album/4DS6GovDyxuwrZCrFNJuYa"
       },
@@ -11687,6 +12029,24 @@
     },
     {
       "album": {
+        "name": "Yankee Doodle",
+        "url": "https://open.spotify.com/album/1tjUWMwT2EndqFOeFjpOh0"
+      },
+      "artists": [
+        {
+          "name": "Lea van der Eule",
+          "url": "https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139750,
+      "name": "Yankee Doodle",
+      "url": "https://open.spotify.com/track/1QBxF3sfgwlcpJo4v7wBxt"
+    },
+    {
+      "album": {
         "name": "Naptime",
         "url": "https://open.spotify.com/album/6gkiPwfiBMRrFHfPuL3JmD"
       },
@@ -11716,7 +12076,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 95937,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/6sGDR7NjjMNmoj2ORLOyFZ"

@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: YABI×YABI
 
-3,080 songs - 7 day 20 hr 31 min
+3,081 songs - 7 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1634,7 +1634,8 @@
 | [We Got Each Other](https://open.spotify.com/track/78R2tFRgvnZbwm29oztEYs) | [FEMM](https://open.spotify.com/artist/2Mi7J9LAIe6xEzObKt6JHq) | [Tokyo Ex Machina](https://open.spotify.com/album/7r52y5B7Vo8Eg52PZC7E9I) | 3:04 | 2022-01-24 | 2022-02-01 |
 | [WE LOVE THE EARTH](https://open.spotify.com/track/0MV2mzayY2SgK8LRvwwj3g) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [Welcome to the FANKS!](https://open.spotify.com/album/3PjqSV7LfYJRyCBjFt62R6) | 5:23 | 2021-11-16 | 2021-11-24 |
 | [We'll Be OK](https://open.spotify.com/track/4FvkE6mrFBKsqkzOCylDO7) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [heart](https://open.spotify.com/album/7pfF60ERkHaib1xo2kQGlJ) | 3:45 | 2022-05-10 | 2022-05-17 |
-| [We've Come So Far](https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [We've Come So Far](https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo) | 3:58 | 2023-03-06 |  |
+| [We've Come So Far](https://open.spotify.com/track/5FRTam306WIvvLrmmroNCs) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 3:58 | 2023-03-14 |  |
+| [We've Come So Far](https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [We've Come So Far](https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo) | 3:58 | 2023-03-06 | 2023-03-18 |
 | [WEEKEND\(SPENSR remix\)](https://open.spotify.com/track/4VCGmd9DagTqIPE2hcmg3w) | [中津マオ](https://open.spotify.com/artist/1C6xYZoXgvrFCZbUW2UkpO), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [WEEKEND\(SPENSR remix\)](https://open.spotify.com/album/1sV438eYtmrktf5msNnilk) | 4:17 | 2022-11-21 | 2022-11-30 |
 | [Wei](https://open.spotify.com/track/04R4qcTMDKGRN8fbvnQXHy) | [wagamama](https://open.spotify.com/artist/2NKDGm8tCrXcW2fNSASi82) | [Wei](https://open.spotify.com/album/09msF1aEUcan16yDsQ5JKH) | 3:12 | 2023-02-27 | 2023-03-15 |
 | [Weigh me down](https://open.spotify.com/track/2Q5dyUrJK5IpXZEVHdfELv) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Weigh me down](https://open.spotify.com/album/399zSYDYVqJbuSpuCy937C) | 3:24 | 2021-11-16 | 2021-12-01 |

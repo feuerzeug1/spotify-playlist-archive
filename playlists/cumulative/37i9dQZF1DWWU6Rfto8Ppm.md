@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-375 songs - 22 hr 38 min
+376 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,8 @@
 | [Ya lo Se](https://open.spotify.com/track/2EwquaMz0nVqQ3PrjK4fAe) | [Magnate](https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Exitos](https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3) | 3:46 | 2021-12-17 | 2022-07-29 |
 | [Yo No Soy Tu Marido](https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Reggaeton Diamond Collection](https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri) | 3:19 | 2021-12-17 | 2022-07-29 |
 | [Yo no Soy Tu Marido](https://open.spotify.com/track/2h9ymIolsmYaqwtxn69fXj) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Kilates 2](https://open.spotify.com/album/6rYQq40SoConI7BlkDlVXL) | 3:21 | 2022-07-27 |  |
-| [Yo Se Que Tu Quieres \(feat\. Ñengo Flow\)](https://open.spotify.com/track/3fNnPoIaVT16aLZnswQdCV) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Yo Se Que Tu Quieres \(feat\. Ñengo Flow\)](https://open.spotify.com/album/01PhXmyyzAVc5bkcgS2cms) | 3:28 | 2021-12-17 |  |
+| [Yo Se Que Tu Quieres \(feat\. Ñengo Flow\)](https://open.spotify.com/track/3fNnPoIaVT16aLZnswQdCV) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Yo Se Que Tu Quieres \(feat\. Ñengo Flow\)](https://open.spotify.com/album/01PhXmyyzAVc5bkcgS2cms) | 3:28 | 2021-12-17 | 2023-03-18 |
+| [Yo Sé Que Tú Quieres](https://open.spotify.com/track/4Aao0TQ5SvTitMxZb9oY7F) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Yo Sé Que Tú Quieres](https://open.spotify.com/album/1KN1u76viK52AhHlWUxmJj) | 3:28 | 2022-12-16 |  |
 | [Yo Te Lo Dije](https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:40 | 2021-12-17 |  |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2021-12-17 |  |
 | [Yo Voy A Legar \(feat\. Zion\)](https://open.spotify.com/track/0m2CS9McLcfM6UNtUBagyn) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Mi Historia](https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR) | 3:59 | 2021-12-17 | 2022-12-03 |

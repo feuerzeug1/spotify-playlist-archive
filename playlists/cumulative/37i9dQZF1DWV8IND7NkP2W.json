@@ -3900,7 +3900,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 224000,
       "name": "Home",
       "url": "https://open.spotify.com/track/4sSfjd21b8ipFXaJfM5mV0"
@@ -6080,7 +6080,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 175613,
       "name": "Morning Glow",
       "url": "https://open.spotify.com/track/5VcPFtpg0lgeU8MQa1q6E4"
@@ -6214,6 +6214,28 @@
       "duration_ms": 189562,
       "name": "My Holiday",
       "url": "https://open.spotify.com/track/2SoUXBqoOo1R0QnDQSnB58"
+    },
+    {
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/2D8GCtiWJSmWSAUzQ7F8S6"
+      },
+      "artists": [
+        {
+          "name": "Mirror Box",
+          "url": "https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F"
+        },
+        {
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167509,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/2of6R8mZp83uLt8YXpsX5r"
     },
     {
       "album": {
@@ -8168,7 +8190,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Sequences",
       "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
@@ -8974,7 +8996,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 125130,
       "name": "stricta",
       "url": "https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c"
@@ -10220,7 +10242,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 289748,
       "name": "Warm Day of Winter",
       "url": "https://open.spotify.com/track/1sK6GyrSJJJ0ZBQtAyaz2p"
@@ -10246,7 +10268,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 117142,
       "name": "Water Circles",
       "url": "https://open.spotify.com/track/0Nm5Bp7nRHP398BEnIOnhK"
@@ -10528,7 +10550,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 80842,
       "name": "wooden piano",
       "url": "https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn"

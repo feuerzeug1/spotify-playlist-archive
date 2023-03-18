@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 64758,
+  "num_followers": 64808,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgzMTU4NCwwMDAwMDAwMGM5OGMyY2ZhMzAwMzJhMmMzMDE1MzM3MTYxNzMxMzEw",
+  "snapshot_id": "MTY3MDgzMTU4NCwwMDAwMDAwMDgyZTQ0Y2Q0YTlhN2IzYTQyMzVmYjQ5MDUzM2Q2YTlk",
   "tracks": [
     {
       "added_at": "2022-12-12 07:53:04",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-12-12 07:53:04",
       "album": {
-        "name": "Inner Sunrise",
-        "url": "https://open.spotify.com/album/0rXmkmKUzX4hcAZVpwHZZ5"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        },
-        {
-          "name": "Mahmood Shalabi",
-          "url": "https://open.spotify.com/artist/6n4DKEPdku0s6YtnIXFzZX"
-        }
-      ],
-      "duration_ms": 231272,
-      "name": "Inner Sunrise",
-      "url": "https://open.spotify.com/track/7vjMcuIdXBeGF3SlutzwiU"
-    },
-    {
-      "added_at": "2022-12-12 07:53:04",
-      "album": {
         "name": "Lachin (Azeri Folk Song)",
         "url": "https://open.spotify.com/album/1AgH8a4yn1LqpJGzxCbZBi"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 417961,
       "name": "Lachin (Azeri Folk Song)",
       "url": "https://open.spotify.com/track/1CIF9kUNxhJmpZOIgzSHwc"
+    },
+    {
+      "added_at": "2022-12-12 07:53:04",
+      "album": {
+        "name": "Inner Sunrise",
+        "url": "https://open.spotify.com/album/0rXmkmKUzX4hcAZVpwHZZ5"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Mahmood Shalabi",
+          "url": "https://open.spotify.com/artist/6n4DKEPdku0s6YtnIXFzZX"
+        }
+      ],
+      "duration_ms": 231272,
+      "name": "Inner Sunrise",
+      "url": "https://open.spotify.com/track/7vjMcuIdXBeGF3SlutzwiU"
     },
     {
       "added_at": "2022-12-12 07:53:04",
@@ -551,6 +551,22 @@
       "duration_ms": 207120,
       "name": "Faragh",
       "url": "https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM"
+    },
+    {
+      "added_at": "2022-12-12 07:53:04",
+      "album": {
+        "name": "Deeper Sun",
+        "url": "https://open.spotify.com/album/1IXO9DNXjDs7DCWfIZlQSZ"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Deeper Sun",
+      "url": "https://open.spotify.com/track/72U3GaKjHnwdfKNWoeciA5"
     },
     {
       "added_at": "2022-12-12 07:53:04",
@@ -627,22 +643,6 @@
     {
       "added_at": "2022-12-12 07:53:04",
       "album": {
-        "name": "Deeper Sun",
-        "url": "https://open.spotify.com/album/1IXO9DNXjDs7DCWfIZlQSZ"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Deeper Sun",
-      "url": "https://open.spotify.com/track/72U3GaKjHnwdfKNWoeciA5"
-    },
-    {
-      "added_at": "2022-12-12 07:53:04",
-      "album": {
         "name": "Persian Oud, Dirine Delkhah",
         "url": "https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4"
       },
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-12-12 07:53:04",
       "album": {
-        "name": "One day November",
-        "url": "https://open.spotify.com/album/6HpOPx4W6b3gjZ84o9qzP8"
+        "name": "432hz Healing Sounds from the Middle East",
+        "url": "https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn"
       },
       "artists": [
         {
-          "name": "Farhad Asadian",
-          "url": "https://open.spotify.com/artist/1lVexJkMvQ6hs943AQ1j62"
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
         }
       ],
-      "duration_ms": 270186,
-      "name": "One day November",
-      "url": "https://open.spotify.com/track/1wkF4uBhhP41Lm6CQpxKTS"
+      "duration_ms": 268000,
+      "name": "432hz Desert Pulse",
+      "url": "https://open.spotify.com/track/0KQVSvwDuD7tWGbIqh9BGl"
     },
     {
       "added_at": "2022-12-12 07:53:04",
@@ -687,6 +687,22 @@
       "duration_ms": 352642,
       "name": "Ordibehesht",
       "url": "https://open.spotify.com/track/3wiiMG6DzG3B88FFfjpNbA"
+    },
+    {
+      "added_at": "2022-12-12 07:53:04",
+      "album": {
+        "name": "One day November",
+        "url": "https://open.spotify.com/album/6HpOPx4W6b3gjZ84o9qzP8"
+      },
+      "artists": [
+        {
+          "name": "Farhad Asadian",
+          "url": "https://open.spotify.com/artist/1lVexJkMvQ6hs943AQ1j62"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "One day November",
+      "url": "https://open.spotify.com/track/1wkF4uBhhP41Lm6CQpxKTS"
     },
     {
       "added_at": "2022-12-12 07:53:04",
@@ -771,22 +787,6 @@
     {
       "added_at": "2022-12-12 07:53:04",
       "album": {
-        "name": "432hz Healing Sounds from the Middle East",
-        "url": "https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "432hz Desert Pulse",
-      "url": "https://open.spotify.com/track/0KQVSvwDuD7tWGbIqh9BGl"
-    },
-    {
-      "added_at": "2022-12-12 07:53:04",
-      "album": {
         "name": "Aloud Taqaseem Ala",
         "url": "https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 207760,
       "name": "Maqam tour reefy mohammdawiy",
       "url": "https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG"
-    },
-    {
-      "added_at": "2022-12-12 07:53:04",
-      "album": {
-        "name": "From Stone Till Diamond (Az Sang Ta Almas) -Iranian Barbat(Oud) Solo",
-        "url": "https://open.spotify.com/album/27eMj8wEK8uU2FvTt0l0bG"
-      },
-      "artists": [
-        {
-          "name": "Hosein Behroozinia",
-          "url": "https://open.spotify.com/artist/1vCSqjfEj5Q0CP58CAhTZ4"
-        }
-      ],
-      "duration_ms": 308082,
-      "name": "Noor (Light)",
-      "url": "https://open.spotify.com/track/6tDEBXUKWLJG9xr2WRp1sb"
     },
     {
       "added_at": "2022-12-12 07:53:04",
@@ -839,6 +823,22 @@
       "duration_ms": 193703,
       "name": "Longing",
       "url": "https://open.spotify.com/track/4luIM6MFbBF3Dsf34hoDoa"
+    },
+    {
+      "added_at": "2022-12-12 07:53:04",
+      "album": {
+        "name": "From Stone Till Diamond (Az Sang Ta Almas) -Iranian Barbat(Oud) Solo",
+        "url": "https://open.spotify.com/album/27eMj8wEK8uU2FvTt0l0bG"
+      },
+      "artists": [
+        {
+          "name": "Hosein Behroozinia",
+          "url": "https://open.spotify.com/artist/1vCSqjfEj5Q0CP58CAhTZ4"
+        }
+      ],
+      "duration_ms": 308082,
+      "name": "Noor (Light)",
+      "url": "https://open.spotify.com/track/6tDEBXUKWLJG9xr2WRp1sb"
     },
     {
       "added_at": "2022-12-12 07:53:04",

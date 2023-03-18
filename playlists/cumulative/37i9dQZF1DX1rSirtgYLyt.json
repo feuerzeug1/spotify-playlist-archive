@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "I Can't Stop Lovin'",
+        "url": "https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197386,
+      "name": "I Can't Stop Lovin'",
+      "url": "https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH"
+    },
+    {
+      "album": {
         "name": "That's What I Say",
         "url": "https://open.spotify.com/album/6B6Legr1T9aMiMxL55SZnK"
       },

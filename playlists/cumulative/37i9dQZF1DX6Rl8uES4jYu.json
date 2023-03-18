@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/59dbHZHA0lEwU9hEW3YVfy"
+      },
+      "artists": [
+        {
+          "name": "99 Percent",
+          "url": "https://open.spotify.com/artist/3hPPNy5OBzCU1icQO7Nrok"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154754,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/2yicVJl6Tv5Nmb3FiJEb8S"
+    },
+    {
+      "album": {
         "name": "Cape Town Plush",
         "url": "https://open.spotify.com/album/76XdnaXob283oq6LDyLESW"
       },
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 168912,
       "name": "Concrete Walls",
       "url": "https://open.spotify.com/track/4c3owU9UoRSbMr6obEAtsh"
@@ -4064,7 +4082,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 151636,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ"
@@ -4118,7 +4136,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 288062,
       "name": "Never Seen You Dance",
       "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
@@ -5353,6 +5371,28 @@
     },
     {
       "album": {
+        "name": "Slide By",
+        "url": "https://open.spotify.com/album/2kXK4IRP60LqOr4787iQsA"
+      },
+      "artists": [
+        {
+          "name": "The WRLDFMS Tony Williams",
+          "url": "https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254285,
+      "name": "Slide By",
+      "url": "https://open.spotify.com/track/7kHLAtftH3ECHNBdH0le3l"
+    },
+    {
+      "album": {
         "name": "No Two Blue Ticks",
         "url": "https://open.spotify.com/album/60jbQjMoA7bZwUDazWZTR1"
       },
@@ -6456,6 +6496,24 @@
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
+    },
+    {
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/4KPre8otxtK3jMf1nVUvcz"
+      },
+      "artists": [
+        {
+          "name": "Alfie Neale",
+          "url": "https://open.spotify.com/artist/3kMEpQS5iaBwIvrudhKYmG"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/2DmiM4Uvr834eiPUXtwLle"
     },
     {
       "album": {

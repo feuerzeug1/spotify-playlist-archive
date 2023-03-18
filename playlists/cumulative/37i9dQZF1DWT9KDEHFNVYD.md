@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-321 songs - 1 day 5 hr 49 min
+323 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 | 2023-01-25 |  |
 | [9](https://open.spotify.com/track/0c35I79bxG3qq2z12pL5Kc) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/4oopTeOoJJNiUkc6AVjmAA) | 6:31 | 2021-07-30 | 2022-07-29 |
 | [9](https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 6:31 | 2021-07-30 |  |
+| [A Digital Mind's Architecture](https://open.spotify.com/track/7LO53coSpmPOQP1hvAbfPv) | [MIXO](https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge) | [A Digital Mind's Architecture](https://open.spotify.com/album/5NCjvJRVXvNBtYrjgvP4aw) | 4:30 | 2023-03-18 |  |
 | [A Final Warning](https://open.spotify.com/track/0sa7zxqiWLtqW0RZGc9TKS) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [The Milk of Human Kindness](https://open.spotify.com/album/4oG14WGnh4TXMI92JQJ5SZ) | 7:15 | 2021-07-30 | 2023-02-19 |
 | [A Final Warning](https://open.spotify.com/track/47U8foovlO8ekCIopmqojT) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [The Milk of Human Kindness](https://open.spotify.com/album/6DrIyhtCOAFTEY4dB2mKl9) | 7:15 | 2021-07-30 | 2022-07-29 |
 | [A Haze Of Patriotic Fervor](https://open.spotify.com/track/1Pwb0rGhxhnyxkwk3sbJ3E) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Music of Grand Theft Auto V, Vol\. 2: The Score](https://open.spotify.com/album/0NeWQGtJD0LfXdVvgYNZM4) | 5:30 | 2021-07-30 | 2022-11-30 |
@@ -169,6 +170,7 @@
 | [Make Out Fade Out](https://open.spotify.com/track/2dMunf6FJIBck5WtLCre2m) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Make Out Fade Out](https://open.spotify.com/album/5aZ4yTNIFcb1zBLqVm7w4a) | 3:11 | 2021-07-30 | 2023-01-26 |
 | [melody in high feedback tones](https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX) | 3:53 | 2021-07-30 | 2023-02-10 |
 | [melody in high feedback tones](https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g) | 3:53 | 2021-07-30 |  |
+| [Mercurio Volante](https://open.spotify.com/track/1IoU8uQYEGveg5DRjXMNS9) | [Mercurio Volante](https://open.spotify.com/artist/4H48uf364enthNexZJRtkE) | [Mercurio Volante](https://open.spotify.com/album/45Q4LqTyET9eqgRssrQMgN) | 3:47 | 2023-03-16 |  |
 | [Mexican Grand Prix](https://open.spotify.com/track/2lUeYhDWj09OWxoadPib3f) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Hardcore Will Never Die, But You Will](https://open.spotify.com/album/6JTor8A7s5GeWGnUtXZg5h) | 5:17 | 2021-07-30 | 2023-01-26 |
 | [Mexican Grand Prix](https://open.spotify.com/track/4uK0yMnGBVMZa6c8UeHVpV) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Hardcore Will Never Die, but You Will \(Music for a Forgotten Future\)](https://open.spotify.com/album/7w4z35rOtFKt9gHRTU6Qil) | 5:17 | 2021-07-30 | 2022-07-29 |
 | [Millionenspiel](https://open.spotify.com/track/3OgOIKocYHVBXuqncsV7hc) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [The Lost Tapes](https://open.spotify.com/album/6sSNM2yGp1jPKUEwhPldmm) | 5:49 | 2021-07-30 | 2023-01-26 |
@@ -180,7 +182,7 @@
 | [Namastea](https://open.spotify.com/track/4XesJy8hNQNFiD1zYgUw4U) | [Rui Reininho](https://open.spotify.com/artist/69BXGLY1jKUOPNNtBUFJrj), [Paulo Borges](https://open.spotify.com/artist/5ZAxSl9pfGBK2YEPNHAm7f) | [20.000 Éguas Submarinas](https://open.spotify.com/album/5LVzphBxyTVvgtLDeUtX3E) | 3:42 | 2021-07-30 | 2023-01-26 |
 | [Namastea](https://open.spotify.com/track/7hDuuc7vsaVKyZbmCghNho) | [Rui Reininho](https://open.spotify.com/artist/69BXGLY1jKUOPNNtBUFJrj), [Paulo Borges](https://open.spotify.com/artist/6LmqNGihhViyVEbvrtEqgi) | [20.000 Éguas Submarinas](https://open.spotify.com/album/5qD6JD2fftD0g7ojhXULNx) | 3:42 | 2021-07-30 | 2022-10-23 |
 | [Nana](https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:13 | 2021-07-30 |  |
-| [Negativland](https://open.spotify.com/track/4XeatFys2z6RG8iIJbsHFb) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/2Dv3peyPvUPG6iFqo5amZL) | 9:47 | 2021-07-30 |  |
+| [Negativland](https://open.spotify.com/track/4XeatFys2z6RG8iIJbsHFb) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/2Dv3peyPvUPG6iFqo5amZL) | 9:47 | 2021-07-30 | 2023-03-18 |
 | [Negativland](https://open.spotify.com/track/6nQi4wLGdDErtYo3xxjret) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/217KPSzsO021HXtXJI2G11) | 9:47 | 2021-07-30 | 2022-07-29 |
 | [Negativland](https://open.spotify.com/track/7kUoy7Qw9kCxoCCRp6DB3o) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu!](https://open.spotify.com/album/77JnRHSaaS8D6JZQ4EIKu8) | 9:47 | 2021-07-30 | 2023-02-03 |
 | [Nieve Afuera](https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Nieve Afuera](https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo) | 4:37 | 2023-01-25 |  |
@@ -273,7 +275,7 @@
 | [Surfing The Warm Industry](https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ) | [Kashmir](https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu) | [Zitilites](https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c) | 4:26 | 2021-07-30 |  |
 | [Synchron](https://open.spotify.com/track/3io1rzJhFB9rfWBV0v2txa) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Remember I Was Carbon Dioxide](https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX) | 4:24 | 2021-07-30 | 2023-01-26 |
 | [Take It or Leave It](https://open.spotify.com/track/3LOIshI7mOuWUHsjeFqbd5) | [Turtle Skull](https://open.spotify.com/artist/128UKyvBiHlCxTKzkwmcK8) | [Turtle Skull](https://open.spotify.com/album/2kbtjfE3P9Kf4tJS9kLxIL) | 8:26 | 2021-07-30 | 2023-01-26 |
-| [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 | 2023-02-17 |  |
+| [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 | 2023-02-17 | 2023-03-18 |
 | [Tangerine](https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 2:53 | 2021-07-30 |  |
 | [Tangerine](https://open.spotify.com/track/58Jr3maV9Kv94R8F3imczl) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Tangerine](https://open.spotify.com/album/2eazd6scouDAol8kgQUJRn) | 2:55 | 2021-07-30 | 2022-07-29 |
 | [The Light That Will Cease To Fail](https://open.spotify.com/track/0P9XN1acf0KdYBfzc7ymTz) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Super 45](https://open.spotify.com/album/0F5hFgbTqzIOTT8O88e98L) | 3:24 | 2021-07-30 | 2022-08-10 |

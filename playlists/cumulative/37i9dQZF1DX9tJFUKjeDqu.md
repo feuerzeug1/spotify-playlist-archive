@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-121 songs - 7 hr 56 min
+124 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 | 2022-04-15 |  |
 | [All Or Nothing](https://open.spotify.com/track/55UZlpa7AQAV4bR7QFfEm6) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [The Wanderer](https://open.spotify.com/album/0VKnrYcrai0fJ41eVbBu4r) | 2:15 | 2023-01-06 |  |
 | [Answer to Ronnie](https://open.spotify.com/track/0FEO7enEiq1uVm27W2sjFT) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/57HFDvunhtwCpfe8pkzUkN) | 4:53 | 2022-04-15 | 2022-07-29 |
-| [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 | 2022-07-08 |  |
+| [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers : Blues](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 | 2022-07-08 |  |
 | [As the years go by](https://open.spotify.com/track/2gsGfo1FkoJLezd1wp5cU4) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [As the years go by](https://open.spotify.com/album/34J8KC4sA4YwWBCCMF97eT) | 2:03 | 2023-02-03 |  |
 | [Authentic](https://open.spotify.com/track/3IIlAtayl38lQmDvuZfUAf) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 4:41 | 2023-03-03 |  |
 | [Baton Rouge](https://open.spotify.com/track/45mOThZziA0POOBVqwELS4) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Baton Rouge](https://open.spotify.com/album/4r1Fb5TSgtvWCazZDH5RJ5) | 3:01 | 2022-04-15 |  |
@@ -52,6 +52,7 @@
 | [Eric After Hours Blues](https://open.spotify.com/track/6gHzcDHbcoGgvoGAtcTq94) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:21 | 2022-04-15 |  |
 | [Everyday Life](https://open.spotify.com/track/60KGmrdtu2NOhVJNpHuJQs) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Everyday Life](https://open.spotify.com/album/6ONxs1fsb1I7muzUy34dbH) | 2:25 | 2022-12-02 |  |
 | [Five Pop Tunes II: Bluesy](https://open.spotify.com/track/3pPOTu0HzLBnfNBvGDK86v) | [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Five Pop Tunes](https://open.spotify.com/album/3l0le9nsDpokAmAlWCfiex) | 2:18 | 2022-04-15 |  |
+| [For Ellie](https://open.spotify.com/track/6k0pWHW5jhKtN2NRJCJ3OC) | [Lenny Carr](https://open.spotify.com/artist/6gD9OrQdOh7VIuURzoFadV) | [For Elli](https://open.spotify.com/album/4Q9BQAQ35HMHEFmdG4LwgW) | 2:25 | 2023-03-17 |  |
 | [Ghost of the Mountain](https://open.spotify.com/track/4cwQ5XhN8p6UkUUYj8hPp2) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 5:38 | 2022-04-15 |  |
 | [Good Times](https://open.spotify.com/track/4YLLXJnKBQmYVC0XXvR1XS) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:33 | 2022-04-15 |  |
 | [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 4:15 | 2022-04-15 |  |
@@ -64,6 +65,7 @@
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-04-15 |  |
 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-04-15 |  |
 | [Labour](https://open.spotify.com/track/0zmxQRILLqz9M2KKsNyvP8) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Labour](https://open.spotify.com/album/19tMyS4bf5WVptEqdO6HQf) | 2:23 | 2023-01-06 |  |
+| [Las Grutas Blues](https://open.spotify.com/track/0gsUQ6Zzo4HBNe2uSPVmIG) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Las Grutas Blues](https://open.spotify.com/album/2QYPdPjdn30hoFSSGRTQSr) | 2:31 | 2023-03-17 |  |
 | [Lazy Morning](https://open.spotify.com/track/6o45k8RC2nsW0VaoN9laPh) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Lazy Morning](https://open.spotify.com/album/7DZvKKwzAQ1Hrip0KXq4Kx) | 2:12 | 2022-12-21 |  |
 | [Le Blues de Berthe](https://open.spotify.com/track/28iXFnKkDvYt7nl6L8mKw4) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/06xJD6ZhoyFwJBQUKs6vgd) | 2:00 | 2023-01-13 |  |
 | [Le blues de berthe](https://open.spotify.com/track/2WB7N4gk7MO4d6vjpxIruc) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/5xgnea0UTuxQnXctk4yARm) | 2:00 | 2022-07-29 | 2023-01-20 |
@@ -82,7 +84,7 @@
 | [Pete's Blue](https://open.spotify.com/track/6u4NXJuuZDVQ8QXE8UJ45R) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Roy Buchanan](https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw) | 7:18 | 2022-04-15 |  |
 | [Pirates \- Live In Belgium / Dubbed in Denmark](https://open.spotify.com/track/2AQJqe6b3mNyAp81ETFi1k) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Emil de Waal](https://open.spotify.com/artist/7qlFXCufyt5bgI52L6v6xb) | [Pirates \(Live in Belgium / Dubbed in Denmark\)](https://open.spotify.com/album/6gzqbVNqUK54CzgOqymluE) | 5:09 | 2022-04-15 |  |
 | [Planet Caravan](https://open.spotify.com/track/0CMXruCTkGen9gLpsTH8xH) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 7:48 | 2022-04-15 |  |
-| [Poontang](https://open.spotify.com/track/7vNS5HDDcbf06EA4k6gqWe) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Good Feelin'](https://open.spotify.com/album/4tRciHLk7U2JNVkcbbMrxA) | 2:55 | 2022-04-15 |  |
+| [Poontang](https://open.spotify.com/track/7vNS5HDDcbf06EA4k6gqWe) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Good Feelin'](https://open.spotify.com/album/4tRciHLk7U2JNVkcbbMrxA) | 2:55 | 2022-04-15 | 2023-03-18 |
 | [Purple Skies](https://open.spotify.com/track/0TM2u2DKglzh1RYTarLjOt) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Purple Skies](https://open.spotify.com/album/6GzaE8sjbYXbUKEKYurLiY) | 2:13 | 2022-11-18 |  |
 | [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 | 2022-04-15 |  |
 | [Rainy Day Blues](https://open.spotify.com/track/3LLkcx4aJEtLFYemy1RjZh) | [Homeboy](https://open.spotify.com/artist/30s7ciNzZ7ULqyMmFvpEeE) | [Rainy Day Blues](https://open.spotify.com/album/3ASDklCaL6JBF57JZXOBdm) | 2:58 | 2023-02-24 |  |
@@ -117,6 +119,7 @@
 | [The Blink Of An Eye](https://open.spotify.com/track/2vJLBn78JRXewtqcUVvtm3) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/6XIK9crFq9HgXowGwTK91I) | 6:02 | 2022-04-15 | 2022-07-29 |
 | [The Blink Of An Eye](https://open.spotify.com/track/656b8WVsC5JMmDDN43hPoQ) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/5EAr5Rzknr0B1DFaBPcC8v) | 6:02 | 2022-07-08 |  |
 | [The Route Home](https://open.spotify.com/track/1DdyCpQHozMxfuQnV0Nkvc) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [The Route Home](https://open.spotify.com/album/1YUBztLYPkoYS0RuIJpPfn) | 2:56 | 2022-11-18 |  |
+| [The Slow Dance Blues](https://open.spotify.com/track/2xkAvAWjiu9xtdQumLiyVB) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [The Slow Dance Blues](https://open.spotify.com/album/5TBj3w3QClRxG98GgfQCuv) | 1:48 | 2023-03-17 |  |
 | [The Wanderer](https://open.spotify.com/track/1IgbPXZ3PG57sOoCxDbfYF) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [The Wanderer](https://open.spotify.com/album/0VKnrYcrai0fJ41eVbBu4r) | 2:57 | 2023-01-06 |  |
 | [Things Are Changing](https://open.spotify.com/track/7bNnYkFBVaGzgscgh4XAtX) | [Papa Don McMinn](https://open.spotify.com/artist/6JcG0JQqJTWl0lAa2wPy3L) | [Blues Ain't a Color](https://open.spotify.com/album/2zMqZ4gu3kmRZAY1l8XpxO) | 3:38 | 2022-04-15 |  |
 | [This Time Another Year](https://open.spotify.com/track/7hXVQQlcLFngiAOHLgBmBt) | [Ian Ross Cohen](https://open.spotify.com/artist/5C1gIEuOa13fnL4zJ2b3l5) | [Instrumentals](https://open.spotify.com/album/2IWlTvyYjmIRAK1BujmpsF) | 2:34 | 2023-01-13 |  |

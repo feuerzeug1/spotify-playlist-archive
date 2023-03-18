@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-345 songs - 19 hr 58 min
+346 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [I Believe](https://open.spotify.com/track/6zke4l646FheM5JlIdu4T8) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D) | [I Believe](https://open.spotify.com/album/1c9WAYELQyzy1VGwBT1Ftv) | 4:18 | 2022-01-07 |  |
 | [I Don’t Think I Can Do This Again \(with Clairo\)](https://open.spotify.com/track/3udJxehBCZ27wRO9gSum4B) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [I Don’t Think I Can Do This Again](https://open.spotify.com/album/2PMTYwJd3ui0erw8OJMvC4) | 3:41 | 2022-03-11 |  |
 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [create together vol\. 3](https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2) | 4:01 | 2022-07-01 | 2023-03-01 |
+| [i don’t wanna write sad songs anymore](https://open.spotify.com/track/5lrOg4024hpqo39lVsr2nM) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [i don’t wanna write sad songs anymore \(Acoustic\)](https://open.spotify.com/album/3GLUq3a8bnqClIZl32Q7dS) | 4:01 | 2023-03-10 |  |
 | [I have something to tell you](https://open.spotify.com/track/3w0Hy2IxxClVnhcmAwX7Ej) | [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [I have something to tell you](https://open.spotify.com/album/3W2avuXXusN1quj1JvIKXn) | 3:40 | 2022-01-07 | 2022-07-27 |
 | [I Like America & America Likes Me](https://open.spotify.com/track/1RHuBRoACkLRo2vjGqFCwf) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:26 | 2022-07-14 | 2022-08-06 |
 | [if u want my love \- floopy flip](https://open.spotify.com/track/3GzKv75h5Gr6dP7OuNqKvy) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E), [floopy](https://open.spotify.com/artist/5kHm3FQ8SPLMxFFF4ZSzle) | [if u want my love \(the remixes\)](https://open.spotify.com/album/0SfBgStMy1BwzygvmqfLcd) | 2:16 | 2022-01-07 | 2022-07-29 |
@@ -254,7 +255,7 @@
 | [PROTECT ME](https://open.spotify.com/track/25IKQf7q26ktWb3JluaM2U) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Yadosan](https://open.spotify.com/artist/1mCavamEMIEh1fnGcLSk3J) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 2:24 | 2023-02-17 |  |
 | [PROTECT ME](https://open.spotify.com/track/5lSGL6BnaHsW22aeOCq5ZU) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Yadosan](https://open.spotify.com/artist/1mCavamEMIEh1fnGcLSk3J) | [PROTECT ME](https://open.spotify.com/album/56kpqdHI02XgcKGzIF2V7c) | 2:24 | 2022-10-27 | 2023-02-26 |
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2022-07-14 | 2022-08-06 |
-| [pure boi](https://open.spotify.com/track/4NF5504D4wi9Mwhxxb6xRA) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [pure boi](https://open.spotify.com/album/1u5Brj1ITZoXD7dufOOWqY) | 3:28 | 2023-01-06 |  |
+| [pure boi](https://open.spotify.com/track/4NF5504D4wi9Mwhxxb6xRA) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [pure boi](https://open.spotify.com/album/1u5Brj1ITZoXD7dufOOWqY) | 3:28 | 2023-01-06 | 2023-03-18 |
 | [QUESTIONS](https://open.spotify.com/track/1meEjEL51PAhzfotkDrW0s) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [QUESTIONS](https://open.spotify.com/album/397RpEGxIhFpIXy43lWOwZ) | 3:05 | 2022-01-07 | 2022-07-28 |
 | [RAD](https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [RAD](https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ) | 4:00 | 2022-10-07 |  |
 | [Radio Silence](https://open.spotify.com/track/6dMqEBFNiMB55MeO4lYk9K) | [KERO](https://open.spotify.com/artist/1buRQJUaOGTgp36hBMda6y) | [Radio Silence](https://open.spotify.com/album/7dJWuurJbcRoyCoWMoXExd) | 3:28 | 2022-01-28 | 2022-07-29 |

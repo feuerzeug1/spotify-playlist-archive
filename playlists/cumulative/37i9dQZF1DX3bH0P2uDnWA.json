@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 167160,
       "name": "End of the World Party",
       "url": "https://open.spotify.com/track/3fHEXWt9o5xQSTINggTtrm"
@@ -4278,6 +4278,28 @@
       "duration_ms": 189677,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4qGh4pp8kcRcSZ4fvBhQ4M"
+    },
+    {
+      "album": {
+        "name": "Wild & Groovy",
+        "url": "https://open.spotify.com/album/66tlY8Lw40KgqtOKPAz3Ej"
+      },
+      "artists": [
+        {
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
+        },
+        {
+          "name": "Atom Smith",
+          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Swing Delusion",
+      "url": "https://open.spotify.com/track/4Xv0OEuS4178t2vEVzdDQO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,451 songs - 4 day 4 hr 13 min
+1,452 songs - 4 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Indian Summer \- Kasbo Remix](https://open.spotify.com/track/2hFD70XI1S5HeGxasMvgbY) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Kindred Spirits \(Remixes\)](https://open.spotify.com/album/6dJAqemnQqc33N9uEzV9vX) | 4:16 | 2020-03-23 | 2020-10-09 |
 | [Indigo](https://open.spotify.com/track/4WqEBIMJMmGRiEwSyRzeEQ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Indigo EP](https://open.spotify.com/album/1Q9c6iGrzaPX9IFn57UbYD) | 5:02 | 2021-12-10 | 2022-02-12 |
 | [Indigo \- Original Mix](https://open.spotify.com/track/3mehItzc3u9PTH6PCI3opJ) | [Hector Toledo](https://open.spotify.com/artist/1a7opkL2HWnnQLLGlRZCie) | [Indigo](https://open.spotify.com/album/35Z2diilChQixNffleQuiL) | 7:59 | 2020-05-27 | 2020-10-09 |
+| [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 | 2023-03-10 |  |
 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 | 2021-08-13 |  |
 | [Inner Voice \- Remix](https://open.spotify.com/track/7b7P7eFfdRTRdaRIMyEpGh) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Inner Voice \(Remix\)](https://open.spotify.com/album/2r9aJdO7ilhJp04rBAIu4D) | 3:08 | 2022-05-06 | 2023-02-04 |
 | [Innerbloom](https://open.spotify.com/track/5rpx047aanR0h9Rfp1wgBB) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 9:38 | 2020-05-18 | 2020-10-09 |
@@ -882,7 +883,7 @@
 | [Never Enough](https://open.spotify.com/track/7ySh518m4iC0CbOevgSwiq) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Never Enough](https://open.spotify.com/album/2xpTmjcxbEXMbYihh8gW3J) | 4:32 | 2020-07-18 | 2022-07-31 |
 | [Never Enough \- Nils Hoffmann Remix](https://open.spotify.com/track/2lYzqfomy4FMguY7Fau75F) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Never Enough \(Nils Hoffmann Remix\)](https://open.spotify.com/album/672AwGvFURHyltrgpHhaNG) | 3:43 | 2020-11-13 | 2021-08-28 |
 | [Never Give Up](https://open.spotify.com/track/2p0FewtVb0Y9davyTsUWOz) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Never Give Up](https://open.spotify.com/album/61tLxNTbuKTr7W6LpWUHWa) | 3:51 | 2022-07-01 | 2022-10-13 |
-| [Never Give Up](https://open.spotify.com/track/5Akfx0bwY4my2qBOU5I21r) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Never Give Up](https://open.spotify.com/album/4GiBecmDgFgo39XRndhbsB) | 3:51 | 2022-09-09 |  |
+| [Never Give Up](https://open.spotify.com/track/5Akfx0bwY4my2qBOU5I21r) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Never Give Up](https://open.spotify.com/album/4GiBecmDgFgo39XRndhbsB) | 3:51 | 2022-09-09 | 2023-03-18 |
 | [Never Give Up](https://open.spotify.com/track/6WxcciullH40H7bbGbDXlq) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Never Give Up](https://open.spotify.com/album/1eXLLaCD8XeZhgH42izzJW) | 3:51 | 2020-08-20 | 2022-07-29 |
 | [Never Give Up \- Lost Frequencies Remix](https://open.spotify.com/track/6CNRmI90TbN9KVYx3S8h7x) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Never Give Up \(Lost Frequencies Remix\)](https://open.spotify.com/album/7ilTXcTbf4Uh3VKUhla0AJ) | 4:28 | 2020-07-18 | 2020-10-09 |
 | [Never Saw You](https://open.spotify.com/track/5ZlIJOIrTc4alt9D5n1RXM) | [Bitless](https://open.spotify.com/artist/56uoTzC17WL6oiqGBAnH6h), [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:37 | 2020-03-17 | 2020-10-09 |

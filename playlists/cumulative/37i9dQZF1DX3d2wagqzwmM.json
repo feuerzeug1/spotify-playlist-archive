@@ -832,7 +832,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 174222,
       "name": "Burn It To The Ground (feat. Jay Mason)",
       "url": "https://open.spotify.com/track/0MKp1X6mSiufIbIalTzgTn"
@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Ex To See",
+        "url": "https://open.spotify.com/album/1r6w79gBGcARsQdv6NTFaq"
+      },
+      "artists": [
+        {
+          "name": "Avao",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Ex To See",
+      "url": "https://open.spotify.com/track/1rW9cOoilihOxsqn44kxOK"
+    },
+    {
+      "album": {
         "name": "REBELS NEVER DIE",
         "url": "https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ"
       },
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 195068,
       "name": "Maria Maria",
       "url": "https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ"
@@ -4456,6 +4474,32 @@
       "duration_ms": 349000,
       "name": "RETROGRADE - REBELS NEVER DIE REWORK",
       "url": "https://open.spotify.com/track/0P1X53lNyKKAjaddaNMz0t"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
     },
     {
       "album": {

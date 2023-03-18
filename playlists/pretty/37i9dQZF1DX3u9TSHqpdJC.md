@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: MARIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,388 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,561 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 14 | [Drive Slow](https://open.spotify.com/track/7dqLvLenLG1xjFoQuHXRNa) | [Lilly Hart](https://open.spotify.com/artist/2Vm9OsgWjGKAvH6Iu5gj5M) | [Drive Slow](https://open.spotify.com/album/2LV4KTwKJIb8LBkqdPk0AG) | 3:21 |
 | 15 | [For Once](https://open.spotify.com/track/55aAg3WavEg2F70ha4kWi9) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:32 |
 | 16 | [RHS](https://open.spotify.com/track/12thkPhxxUZgfMYDWQI3vA) | [Amanda Rose](https://open.spotify.com/artist/5ocRt6hgJ7Nq01vzjf4jBb) | [RHS](https://open.spotify.com/album/1WohC3QajNwulbCfYNyYln) | 1:33 |
-| 17 | [We've Come So Far](https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [We've Come So Far](https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo) | 3:58 |
+| 17 | [We've Come So Far](https://open.spotify.com/track/5FRTam306WIvvLrmmroNCs) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 3:58 |
 | 18 | [Give Me The Moon](https://open.spotify.com/track/7a8Rfevy7Fdkhg3bvZpIYJ) | [Siena Bella](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [Give Me The Moon](https://open.spotify.com/album/4NZX2Dq1VdgIduJ4jXVgFN) | 3:08 |
 | 19 | [Guilty](https://open.spotify.com/track/5ChkIZqZnDQw4QevMyWAjA) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J), [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Guilty](https://open.spotify.com/album/3XxuOvmr0AwmQ2ww0vuOHX) | 3:16 |
 | 20 | [drifting away](https://open.spotify.com/track/3JpqtyMOj7LDhzNHSF0DOq) | [Michael Zeidel](https://open.spotify.com/artist/5INKrNcQ9UTLuuXQypcCgr) | [drifting away](https://open.spotify.com/album/5Khl87wHJGR1JvihpyK2Bz) | 1:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 |
 | 100 | [I'm Sorry I Killed Your Plant](https://open.spotify.com/track/4xg7JHSLE6FDeaR9zqo18G) | [Skofee](https://open.spotify.com/artist/3WTOG7w0dyNnKAyoqNxzzg) | [I'm Sorry I Killed Your Plant](https://open.spotify.com/album/6GLTQZIqOPi8XyWZLF6JLR) | 2:56 |
 
-Snapshot ID: `MTY3ODg1NjQwMCwwMDAwMDAwMGM5YmVmODRiYzMyNWY2MjFjNjViMzI5M2UxMDRhZTU0`
+Snapshot ID: `MTY3ODg1NjQwMCwwMDAwMDAwMDMzOWViYjRkMTJhNDk0NmNhNTBhOWY5Y2Q2OTg2Njk3`

@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183445,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
+    },
+    {
+      "album": {
         "name": "black and white / MY FAULT",
         "url": "https://open.spotify.com/album/3FwjVe9KTLPcAVj1EQsz8N"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 234615,
       "name": "Close",
       "url": "https://open.spotify.com/track/6g1hNthhnctPsmIzBq1Ver"
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 256118,
       "name": "Cross Me",
       "url": "https://open.spotify.com/track/6OXTbzpfIyd3e8wDB1QQnD"
@@ -2337,6 +2355,28 @@
     },
     {
       "album": {
+        "name": "Loner (Remixes)",
+        "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170095,
+      "name": "Forever - Pauline Herr Rework",
+      "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
+    },
+    {
+      "album": {
         "name": "Forte",
         "url": "https://open.spotify.com/album/3DbbEUCzn198WFMjdbIVrz"
       },
@@ -2694,6 +2734,24 @@
       "duration_ms": 238333,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/0b4FAp9BjRoh9MmCs3TI0D"
+    },
+    {
+      "album": {
+        "name": "gutter",
+        "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127180,
+      "name": "gutter",
+      "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
     },
     {
       "album": {
@@ -3876,6 +3934,28 @@
       "duration_ms": 143414,
       "name": "Live Lonely",
       "url": "https://open.spotify.com/track/3AJXFzoOKuvdwZzbL27RLX"
+    },
+    {
+      "album": {
+        "name": "Loner (Remixes)",
+        "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200054,
+      "name": "Loner - Moore Kismet Remix",
+      "url": "https://open.spotify.com/track/3uWJYrarDEEiGSPw0jJLo2"
     },
     {
       "album": {
@@ -6276,7 +6356,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 238206,
       "name": "Temper",
       "url": "https://open.spotify.com/track/4g1xsVqnjBArKZ7SpESOtw"

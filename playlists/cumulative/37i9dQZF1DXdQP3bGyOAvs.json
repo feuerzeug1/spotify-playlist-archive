@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Edition",
+        "url": "https://open.spotify.com/album/76UiBFMcUzzxVFrnd3n3wd"
+      },
+      "artists": [
+        {
+          "name": "Main Foyer",
+          "url": "https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208559,
+      "name": "Edition",
+      "url": "https://open.spotify.com/track/5tQVAzWn6QdYDC9rnUTa1d"
+    },
+    {
+      "album": {
         "name": "Comfortable Right Here",
         "url": "https://open.spotify.com/album/1zncEXQRslpxk9ZffXsx1c"
       },

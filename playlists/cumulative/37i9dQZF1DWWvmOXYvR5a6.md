@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: SINDOSI:22\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: CODE KUNST\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-595 songs - 1 day 8 hr 28 min
+596 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Jennifer](https://open.spotify.com/track/4ToWzCRIjUmUMVtbYjKLLB) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:36 | 2022-07-09 | 2022-07-12 |
 | [Joker \(Feat\. JAMIE\)](https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Bucket List](https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB) | 3:19 | 2022-04-01 |  |
 | [JUMP!2](https://open.spotify.com/track/7ajzfxYXzMBqskGoiMKNWr) | [UD](https://open.spotify.com/artist/5P9czMh52gUk3hS78Luarq) | [ALONE](https://open.spotify.com/album/48A2J4yLkn9GObh7WiMR2V) | 3:17 | 2022-05-05 | 2022-05-12 |
+| [Jumper \(Feat\. Gaeko, MINO\)](https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [mino](https://open.spotify.com/artist/79FL2Qclq9IrxOuEK7SY5X) | [Remember Archive](https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1) | 3:35 | 2023-03-16 |  |
 | [Just Like This \(Feat\. george\)](https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Just Like This](https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi) | 3:19 | 2022-04-01 |  |
 | [Just the two of us](https://open.spotify.com/track/5SoN5GIDUG1aNQTuNqsVDu) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Just the two of us](https://open.spotify.com/album/0RoQvfw174dcjxfWjN4I5j) | 3:57 | 2022-04-01 | 2022-07-29 |
 | [KILL](https://open.spotify.com/track/6u6LO5IHbaaS8wODwx8BGq) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 3:00 | 2022-04-21 | 2022-06-23 |
@@ -507,7 +508,7 @@
 | [SUR:VIBE \(feat\. BRAWL STARS\)](https://open.spotify.com/track/4AOEeJbeHPYCEzxfsStEwG) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Brawl Stars](https://open.spotify.com/artist/6uqbI01HHuIVZ2LcZoDGlG) | [SUR:VIBE \(feat\. BRAWL STARS\)](https://open.spotify.com/album/0A85GFAjC2oiJu7phflbCN) | 3:13 | 2022-05-05 | 2022-05-12 |
 | [Survival Rapper](https://open.spotify.com/track/2dLQDEG4Y0EKsaXNbmQcwm) | [lil bosal](https://open.spotify.com/artist/61uB19bE5ejvku0NCSAH2t) | [Bosal Coin](https://open.spotify.com/album/3IYYz6DyYX5ihg733A5ksL) | 2:16 | 2022-05-05 | 2022-06-14 |
 | [Sweatpants](https://open.spotify.com/track/6KvCQg5TgZcINznUKpZVVT) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [Sweatpants](https://open.spotify.com/album/3OfwdpjIP0f8dAwP9wURp6) | 2:58 | 2022-07-24 | 2022-10-04 |
-| [swerve](https://open.spotify.com/track/5eLPiUhguRtW3QPI2OadgV) | [SINDOSI:22](https://open.spotify.com/artist/7vevYh1lSMFrRhH72kFtpY) | [howtosurvive\_\_\_\_\_](https://open.spotify.com/album/7Jtm1R5Z7HpmkiqsgHJ2bh) | 2:54 | 2023-02-22 |  |
+| [swerve](https://open.spotify.com/track/5eLPiUhguRtW3QPI2OadgV) | [SINDOSI:22](https://open.spotify.com/artist/7vevYh1lSMFrRhH72kFtpY) | [howtosurvive\_\_\_\_\_](https://open.spotify.com/album/7Jtm1R5Z7HpmkiqsgHJ2bh) | 2:54 | 2023-02-22 | 2023-03-18 |
 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 | 2022-07-04 | 2022-07-10 |
 | [TAKE IT OFF](https://open.spotify.com/track/01uePcvWj4yclJUpSQ6LGq) | [Wooks](https://open.spotify.com/artist/3l7GFDLQsdvNzHcLqTIXbt) | [OFF](https://open.spotify.com/album/7LuIZnLMfPJAwx3WoYxFat) | 2:06 | 2022-04-01 | 2022-07-12 |
 | [Take Me There](https://open.spotify.com/track/1ng3gM2zQ7kIJwC89np2oX) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Take Me There](https://open.spotify.com/album/0Z2eQf5pUlFIs5PXgy1lml) | 3:41 | 2022-06-27 | 2022-07-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : joysad",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : THABITI",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -666,6 +666,24 @@
       "duration_ms": 178290,
       "name": "COUP\u00c9",
       "url": "https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i"
+    },
+    {
+      "album": {
+        "name": "MRTHN",
+        "url": "https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174853,
+      "name": "Dehors Part 2",
+      "url": "https://open.spotify.com/track/3BX8ris74IVRx9ySBdoKES"
     },
     {
       "album": {
@@ -1380,10 +1398,32 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 167746,
       "name": "J'arr\u00eate",
       "url": "https://open.spotify.com/track/4DBqYAG3eXWFulEs7FR8WN"
+    },
+    {
+      "album": {
+        "name": "Stratos",
+        "url": "https://open.spotify.com/album/0qwxx9ouUc5kGmMWHglDpq"
+      },
+      "artists": [
+        {
+          "name": "Kekra",
+          "url": "https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS"
+        },
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "J'arr\u00eate",
+      "url": "https://open.spotify.com/track/6F1VlTSE6FltQA471aYdKK"
     },
     {
       "album": {
@@ -1567,6 +1607,28 @@
     },
     {
       "album": {
+        "name": "STRATUS JOYEUX",
+        "url": "https://open.spotify.com/album/2UhMgGhAAl1fIWgAnveYRu"
+      },
+      "artists": [
+        {
+          "name": "ACHIM",
+          "url": "https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ"
+        },
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "LES VOIX DANS MA T\u00caTE",
+      "url": "https://open.spotify.com/track/3LdwUrCS2gdJe4ygH41uZO"
+    },
+    {
+      "album": {
         "name": "LESSGUI",
         "url": "https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU"
       },
@@ -1636,6 +1698,24 @@
       "duration_ms": 175522,
       "name": "Love moi",
       "url": "https://open.spotify.com/track/3QOji8BDJZX4WphlxIpHMs"
+    },
+    {
+      "album": {
+        "name": "Loyal",
+        "url": "https://open.spotify.com/album/4JJjFloAUBVKIZioxd8b2V"
+      },
+      "artists": [
+        {
+          "name": "Moubarak",
+          "url": "https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Loyal",
+      "url": "https://open.spotify.com/track/45OP9T9rtIJgZ0uMUcsls3"
     },
     {
       "album": {
@@ -1835,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Minuit",
+        "url": "https://open.spotify.com/album/1VvnLoLqEjpGw3MqgWVFzp"
+      },
+      "artists": [
+        {
+          "name": "THABITI",
+          "url": "https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153391,
+      "name": "Minuit",
+      "url": "https://open.spotify.com/track/3qppQ6d1ffg1NUp4uGVY3g"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/3ApUvBtVEP475jtilOY4jy"
       },
@@ -1894,6 +1992,28 @@
       "duration_ms": 189230,
       "name": "MONEYBAG",
       "url": "https://open.spotify.com/track/4o68P6N8JucUg9apYhAtF9"
+    },
+    {
+      "album": {
+        "name": "Noir & blanc (Volume 1)",
+        "url": "https://open.spotify.com/album/6Wdhr6fo82OqCwifi45fI9"
+      },
+      "artists": [
+        {
+          "name": "Tissmey",
+          "url": "https://open.spotify.com/artist/6cL4mIBIA85TnOIzhhukZT"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185198,
+      "name": "Moonrock",
+      "url": "https://open.spotify.com/track/4ZfOtNtErg8RHq8B7E2iir"
     },
     {
       "album": {
@@ -1970,7 +2090,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 166000,
       "name": "Noir",
       "url": "https://open.spotify.com/track/6xMcRSrzPJJMpH5oYDHiJk"
@@ -2006,7 +2126,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 194086,
       "name": "Nouveau chapitre",
       "url": "https://open.spotify.com/track/03qW1EfTMxq4f3S2VUh6QV"
@@ -2425,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Qatari",
+        "url": "https://open.spotify.com/album/1RkZvLcX0e8iZyCTCyIhdu"
+      },
+      "artists": [
+        {
+          "name": "Many Santana",
+          "url": "https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202208,
+      "name": "Qatari",
+      "url": "https://open.spotify.com/track/2aqiMUmWd4BUEUXaMUMZXB"
+    },
+    {
+      "album": {
         "name": "Regarde",
         "url": "https://open.spotify.com/album/223Z3aR3oXho7do2t6IPeY"
       },
@@ -2744,7 +2882,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 187000,
       "name": "Smile:( (feat. So La Lune)",
       "url": "https://open.spotify.com/track/1TBRrjtmgVxKTOJIjYiMrf"
@@ -2798,7 +2936,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 155155,
       "name": "Southside",
       "url": "https://open.spotify.com/track/3u7O99o8DB5D3r1AL37v0g"
@@ -2834,7 +2972,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 170526,
       "name": "Survie",
       "url": "https://open.spotify.com/track/19uvmgboe6YrLBsIENp0bf"
@@ -3094,7 +3232,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 128000,
       "name": "\u00c9lastique (Freestyle BDLB #1)",
       "url": "https://open.spotify.com/track/5Qcl3FNCGGClPX9wz7pE7D"

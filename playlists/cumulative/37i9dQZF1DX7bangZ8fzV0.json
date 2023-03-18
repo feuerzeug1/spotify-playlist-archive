@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd?si=6vbdBzqNRw-mDwv77YfoZw\">Kurt Darren</a> ",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=slpF9daRTzyVU7Nan3pN6A\">Barto</a> & <a href=\"https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6?si=h--e44-iRg6j7L8dRI6jag\">Marissa</a>",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 222720,
       "name": "Boerepompie (feat. Snotkop)",
       "url": "https://open.spotify.com/track/6bQrPl31SAzC5bepMr7vSp"
@@ -258,6 +258,24 @@
       "duration_ms": 212673,
       "name": "Bosveld Vakansie",
       "url": "https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf"
+    },
+    {
+      "album": {
+        "name": "Bou Aan 'n Vrou",
+        "url": "https://open.spotify.com/album/488JiMZH1vN3E3Jfq5Vr6W"
+      },
+      "artists": [
+        {
+          "name": "Minke Brits",
+          "url": "https://open.spotify.com/artist/47lU4Bj1lkJDJk0HfCkA6x"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223714,
+      "name": "Bou Aan 'n Vrou",
+      "url": "https://open.spotify.com/track/5JifoftIfvhWm5UQtCKzLL"
     },
     {
       "album": {
@@ -1039,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Klaar Gesmeek",
+        "url": "https://open.spotify.com/album/2y41EKqRsAGwgRgbvQWlDQ"
+      },
+      "artists": [
+        {
+          "name": "Jemma Catherine",
+          "url": "https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148776,
+      "name": "Klaar Gesmeek",
+      "url": "https://open.spotify.com/track/22HyJsOfW7MAhyIPXpjXA8"
+    },
+    {
+      "album": {
         "name": "Klippe Kou",
         "url": "https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3"
       },
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 205384,
       "name": "Lief",
       "url": "https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz"
@@ -1238,7 +1274,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 208226,
       "name": "Lyfie",
       "url": "https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu"
@@ -1506,6 +1542,28 @@
       "duration_ms": 209891,
       "name": "O My Vy",
       "url": "https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf"
+    },
+    {
+      "album": {
+        "name": "Ons Twee Genoeg (feat. Marissa)",
+        "url": "https://open.spotify.com/album/6hInSb4NV8bhtdgblONeJG"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        },
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242169,
+      "name": "Ons Twee Genoeg (feat. Marissa)",
+      "url": "https://open.spotify.com/track/6e91EOUzqp7CITax2iB4rd"
     },
     {
       "album": {

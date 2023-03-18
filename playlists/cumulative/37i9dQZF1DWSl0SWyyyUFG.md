@@ -4,7 +4,7 @@
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-214 songs - 11 hr 19 min
+216 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [El Alacrán](https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM) | 2:34 | 2021-10-22 | 2022-07-29 |
 | [El Anonimo](https://open.spotify.com/track/1teRpnRo534fWUj6uDwVkr) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Colección Privada](https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq) | 2:29 | 2021-10-22 | 2022-07-29 |
 | [El Anónimo](https://open.spotify.com/track/4LTIESi0lQPsjZw0QlPlEd) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Los 4 Ases De La Banda, Vol\. 2](https://open.spotify.com/album/4qI1kLQ4U9m1UCcQ9v7VKT) | 2:28 | 2021-10-22 | 2022-11-13 |
-| [El Anónimo](https://open.spotify.com/track/2JI8AKFPOO4y9BSLCeU1Ex) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Borracho Moriré](https://open.spotify.com/album/218YhYSDLhxFPmcjUpDc8G) | 2:31 | 2021-10-22 |  |
+| [El Anónimo](https://open.spotify.com/track/1lHWO3zuDdyi1pXYFGaQmS) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Borracho Moriré](https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu) | 2:29 | 2022-12-30 |  |
+| [El Anónimo](https://open.spotify.com/track/2JI8AKFPOO4y9BSLCeU1Ex) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Borracho Moriré](https://open.spotify.com/album/218YhYSDLhxFPmcjUpDc8G) | 2:31 | 2021-10-22 | 2023-03-18 |
 | [El Baile de la Cachucha](https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Baile de la Cachucha](https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl) | 2:55 | 2021-10-22 |  |
 | [El Baile Nuevo](https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 2:55 | 2021-10-22 |  |
 | [El Baile Nuevo](https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:53 | 2021-10-22 | 2022-07-25 |
@@ -116,6 +117,7 @@
 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 | 2021-10-22 |  |
 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 | 2021-10-22 |  |
 | [La Otra Cara De La Moneda](https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 4:05 | 2021-10-22 |  |
+| [La Soledad](https://open.spotify.com/track/2h6K5lo2HxfDzkZYVpqmy6) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [El Amor de Tu Vida](https://open.spotify.com/album/1jdPDHO3AB6jQdOSxoNhYZ) | 3:49 | 2022-12-30 |  |
 | [La Talega Del Café](https://open.spotify.com/track/3Zpz5sWTBmuVHFkzZ5RDnB) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Panfilita](https://open.spotify.com/album/2Sm9fHLHxTmnBegRtO9U6I) | 2:56 | 2021-10-22 |  |
 | [Las Dos Monedas](https://open.spotify.com/track/0keU4gyeaRX69PJziMMwwP) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Homenaje A Ramon Ayala](https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4) | 3:29 | 2021-10-22 | 2022-07-27 |
 | [Las Mujeres](https://open.spotify.com/track/5kC733idww37wJOsJ0ScNS) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Baile de la Cachucha](https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl) | 2:49 | 2021-10-22 | 2022-11-14 |
@@ -185,7 +187,7 @@
 | [Si Tu No Estas](https://open.spotify.com/track/0nzquVPzNamazTbGY8pNvW) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 3:30 | 2021-10-22 | 2022-07-29 |
 | [Si Tu No Estas](https://open.spotify.com/track/1ajk4KliWOc9TeGXwtUR8y) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 3:32 | 2021-10-22 |  |
 | [Soledad](https://open.spotify.com/track/1aiTVvxEdbXXtVReLcPOmp) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [El Amor De Tu Vida](https://open.spotify.com/album/5xkwPMPexVlfcP1OddpO8u) | 3:49 | 2021-10-22 | 2022-07-29 |
-| [Soledad](https://open.spotify.com/track/3NLsXtKo1DcXRC3GdpPBhb) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [El Amor De Tu Vida](https://open.spotify.com/album/3GxQKNblthQqg3nrH3Aaad) | 3:49 | 2021-10-22 |  |
+| [Soledad](https://open.spotify.com/track/3NLsXtKo1DcXRC3GdpPBhb) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [El Amor De Tu Vida](https://open.spotify.com/album/3GxQKNblthQqg3nrH3Aaad) | 3:49 | 2021-10-22 | 2023-03-18 |
 | [Solo Esta Vez](https://open.spotify.com/track/4xdeV30W4JoITDrzLe9JWC) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Solo Para Enamorados, Vol\. 1](https://open.spotify.com/album/18oauU66S3OUXWh6ACDrNb) | 3:17 | 2021-10-22 | 2022-11-13 |
 | [Solo Esta Vez](https://open.spotify.com/track/3yMJkJfWoJW1vo2vVmW23J) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Solo Esta Vez](https://open.spotify.com/album/3nQLgjWf79JfcowiGMQWZr) | 3:20 | 2021-10-22 | 2022-07-29 |
 | [Solo Esta Vez](https://open.spotify.com/track/1wkoejavhjDSCsahWjsSxW) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Solo Esta Vez, Con Sabor a Caña Verde...!](https://open.spotify.com/album/4KtrknMzLGD9HZEAdfVUVG) | 3:20 | 2021-10-22 |  |

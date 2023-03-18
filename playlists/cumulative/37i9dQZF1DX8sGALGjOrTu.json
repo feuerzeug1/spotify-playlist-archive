@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 209746,
       "name": "My Darkest Hour",
       "url": "https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY"
@@ -2292,6 +2292,24 @@
       "duration_ms": 261106,
       "name": "Reach",
       "url": "https://open.spotify.com/track/3bQTjUBTX3TvkKLoVBlRra"
+    },
+    {
+      "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227706,
+      "name": "Ready To Fall",
+      "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
     },
     {
       "album": {

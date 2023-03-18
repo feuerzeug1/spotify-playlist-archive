@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. In cover, Generic Animal!",
+  "description": "La playlist che \u00e8 come andare ai concerti. In cover, Salmo e Le Carie!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 150857,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/4R7sGPaCIVnT5d6EOms23W"
@@ -2155,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "FOR MYSELF",
+        "url": "https://open.spotify.com/album/4I3i5IJCtWaY9trGpEhoTq"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129149,
+      "name": "FOR MYSELF",
+      "url": "https://open.spotify.com/track/4fz3cHwbOheH4GxK2uCtGo"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0NHAE4I0u0YpbAlDj8KRl0"
       },
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 187206,
       "name": "I.KNOW.YOU.KNOW.IT.",
       "url": "https://open.spotify.com/track/7u14JXY85GbajBwcFPWbxD"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 155289,
       "name": "It Will Be Nice",
       "url": "https://open.spotify.com/track/2wjBjguEcbLgjwiRkmrGcx"
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 281000,
       "name": "Le Foglie",
       "url": "https://open.spotify.com/track/6EZXfB8BRZZRidwYKNBUpg"
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 170892,
       "name": "Lost In Translation",
       "url": "https://open.spotify.com/track/3JbZvgq27J7sHlzGcBUcuE"
@@ -3721,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "Nofriends",
+        "url": "https://open.spotify.com/album/4vbvTWiEw13mHoQ3f3c9Ob"
+      },
+      "artists": [
+        {
+          "name": "Wepro",
+          "url": "https://open.spotify.com/artist/3R3siKabWuT0KIC6JfruVp"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151367,
+      "name": "Nofriends",
+      "url": "https://open.spotify.com/track/52dN2iEMEfK6lOFRdbDt8r"
+    },
+    {
+      "album": {
         "name": "Noi, i cani, le pere",
         "url": "https://open.spotify.com/album/25LLFZqjmY176uqqjcDlCe"
       },
@@ -3942,7 +3978,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 158680,
       "name": "Nudi + Crudi",
       "url": "https://open.spotify.com/track/4EXOAj9ra0lxWg8y6VZANO"
@@ -4061,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "Palle piene",
+        "url": "https://open.spotify.com/album/6uWUi8vGKSQmx9z9zKSZEG"
+      },
+      "artists": [
+        {
+          "name": "Brucher\u00f2 nei pascoli",
+          "url": "https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200475,
+      "name": "Palle piene",
+      "url": "https://open.spotify.com/track/5pUX3YSJvol5sBzAmBEIGb"
+    },
+    {
+      "album": {
         "name": "Papaveri",
         "url": "https://open.spotify.com/album/4ZhvB9BXSTWoaCGrnzjeVx"
       },
@@ -4112,6 +4166,24 @@
       "duration_ms": 232307,
       "name": "Parlami",
       "url": "https://open.spotify.com/track/6EgGe4PI3Y9EWPD5Wpv6iE"
+    },
+    {
+      "album": {
+        "name": "Parole D'Odio",
+        "url": "https://open.spotify.com/album/52gMCMOrYOIkHVviiTXLor"
+      },
+      "artists": [
+        {
+          "name": "Mondo Caos",
+          "url": "https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183882,
+      "name": "Parole D'Odio",
+      "url": "https://open.spotify.com/track/08Lf3i2zHNZmLLnceXA24k"
     },
     {
       "album": {
@@ -4448,6 +4520,24 @@
       "duration_ms": 213002,
       "name": "Proci",
       "url": "https://open.spotify.com/track/0d6K1KUiX01DZN4yBpjW8w"
+    },
+    {
+      "album": {
+        "name": "Proprio tu",
+        "url": "https://open.spotify.com/album/59jxe1FypLBdSxb2tMz5Yd"
+      },
+      "artists": [
+        {
+          "name": "Tropea",
+          "url": "https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156040,
+      "name": "Proprio tu",
+      "url": "https://open.spotify.com/track/1dzvJ0UzxAn9GanymgMJgP"
     },
     {
       "album": {
@@ -4896,6 +4986,24 @@
       "duration_ms": 197836,
       "name": "Sexy solitudini",
       "url": "https://open.spotify.com/track/34WPnL7WsZfAlTc2CoX9dh"
+    },
+    {
+      "album": {
+        "name": "She's so different\u0259",
+        "url": "https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps"
+      },
+      "artists": [
+        {
+          "name": "I'm Not a Blonde",
+          "url": "https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263600,
+      "name": "She's so different\u0259",
+      "url": "https://open.spotify.com/track/3JdZ89z3ueTuc5WIDeCNs9"
     },
     {
       "album": {
@@ -5719,6 +5827,28 @@
     },
     {
       "album": {
+        "name": "TRE",
+        "url": "https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn"
+      },
+      "artists": [
+        {
+          "name": "LE CARIE",
+          "url": "https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170583,
+      "name": "TU X ME",
+      "url": "https://open.spotify.com/track/2UXtA9hSGW4XCDkimfkrOS"
+    },
+    {
+      "album": {
         "name": "Turning",
         "url": "https://open.spotify.com/album/3aVW4CAdWU21Dzng8BG12W"
       },
@@ -5752,6 +5882,24 @@
       "duration_ms": 145242,
       "name": "Turnover",
       "url": "https://open.spotify.com/track/5Y2EMG7xInrfl5xeZI56A5"
+    },
+    {
+      "album": {
+        "name": "TUTTA FORTUNA",
+        "url": "https://open.spotify.com/album/4b4BvXjdn59TkNl9n7lpyE"
+      },
+      "artists": [
+        {
+          "name": "Mutonia",
+          "url": "https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165080,
+      "name": "TUTTA FORTUNA",
+      "url": "https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur"
     },
     {
       "album": {
@@ -6188,7 +6336,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 227453,
       "name": "White Cage",
       "url": "https://open.spotify.com/track/5BilJJWDFub6jR3T7ubM97"

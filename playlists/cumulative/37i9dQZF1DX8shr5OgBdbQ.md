@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-85 songs - 4 hr 24 min
+86 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [South Australia](https://open.spotify.com/track/7amND3Jv7pGQbBYblkla7G) | [Kimber's Men](https://open.spotify.com/artist/1cwHLCOp0xUtjZjSMycdNa) | [Don't Take the Heroes](https://open.spotify.com/album/0whldGNWL48oyCjLpuqGpg) | 2:15 | 2022-03-10 | 2022-07-29 |
 | [SOUTH AUSTRALIA](https://open.spotify.com/track/7cJUHN31KfyZjdAUnFq5ih) | [Kimber's Men](https://open.spotify.com/artist/1cwHLCOp0xUtjZjSMycdNa) | [KIMBER'S MEN](https://open.spotify.com/album/701xmuIZjTLozTRMKvPq79) | 2:15 | 2022-06-29 |  |
 | [Spanish Ladies](https://open.spotify.com/track/3XDGPQQGrW8sPstEqket1J) | [Jerry Bryant](https://open.spotify.com/artist/3O6SFPGCWeXe7B02fHQAjz), [Starboard Mess](https://open.spotify.com/artist/3rujIhhEfyEZa5BXhkHhYg) | [Roast Beef Of Old England](https://open.spotify.com/album/4KCfIyIyrl8YsiUzjQksWQ) | 2:46 | 2022-03-10 |  |
+| [Spanish Ladies](https://open.spotify.com/track/3HJ5gmLEDmG2g3kHoLTAoQ) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Green Willow](https://open.spotify.com/album/6HVNIiWpCHWnywrs1zStLi) | 3:00 | 2023-03-17 |  |
 | [Te Haarlem in den houte](https://open.spotify.com/track/1FJER2D2CrQUrIt1J9LT95) | [Pekel](https://open.spotify.com/artist/4D9HDgiR95sQcLetuBE05P) | [Mannen van de Maas](https://open.spotify.com/album/6XgiW4oHZbMA7qeCcnPLP9) | 1:57 | 2022-03-10 |  |
 | [The Bonny Ship the Diamond](https://open.spotify.com/track/0XDsyJBTc9ySlJIznHrRbE) | [The Fisherman’s Friends](https://open.spotify.com/artist/0cyEKEh8fQkksmpwLBlZV4) | [Sole Mates](https://open.spotify.com/album/5DICj5jHVL7sACXXKtjvu4) | 3:03 | 2022-03-10 |  |
 | [The Cruel Wars](https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Uncle Touchy Goes to College](https://open.spotify.com/album/3AtaamrqosM5VdORJN2WR9) | 3:07 | 2022-03-10 |  |

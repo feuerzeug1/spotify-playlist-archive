@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-511 songs - 1 day 4 hr 20 min
+512 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [build a life](https://open.spotify.com/track/7LxlPRasB0Wq4hQRDvU4Sz) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [idk it's complicated](https://open.spotify.com/album/32q4VWN3LXqqGSaaqdsrwJ) | 3:48 | 2022-10-14 | 2022-10-28 |
 | [Burn Book](https://open.spotify.com/track/1aDVkbFZ9qrv4drQUr5D4Y) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 4:19 | 2022-10-27 | 2022-11-11 |
 | [Bus](https://open.spotify.com/track/3gVoawJtboNvhP23qk0RFA) | [CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [Bus](https://open.spotify.com/album/6n2rf03XIWKwQfcKo0Qzmh) | 3:27 | 2022-01-28 | 2022-05-14 |
-| [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 | 2023-01-06 |  |
+| [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 | 2023-01-06 | 2023-03-18 |
 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 | 2022-03-11 |  |
 | [Can We Have A Conversation?](https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Can We Have A Conversation?](https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF) | 2:34 | 2022-03-04 | 2022-07-29 |
 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 | 2022-11-10 | 2022-12-16 |
@@ -117,7 +117,7 @@
 | [eighteen](https://open.spotify.com/track/5uMkaBsallKqRteHGUOjtY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j), [Cole Bauer](https://open.spotify.com/artist/57gW9421NHL1WJjJ82Qdn1) | [eighteen](https://open.spotify.com/album/0y9L01zTXkz4ogsNCX2cA6) | 1:51 | 2023-01-26 | 2023-02-03 |
 | [Empty House](https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Empty House](https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu) | 3:32 | 2023-02-23 |  |
 | [Endless Road](https://open.spotify.com/track/5EsIWm4H8qouBQ8jXVF2Ng) | [Chris Andrian Yang](https://open.spotify.com/artist/74DSMvAfXpnN3c1KCfvFwQ), [Luca](https://open.spotify.com/artist/2VFlA2OndmvoHSqEEoNg00) | [Endless Road](https://open.spotify.com/album/7KHHizqCzKkGlAbX4vC8dG) | 3:22 | 2022-01-28 | 2022-07-25 |
-| [Endlessly](https://open.spotify.com/track/2XM0y8rmX13FWSGDhgvqlX) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Endlessly](https://open.spotify.com/album/4SyKnlO19mrQhdvbAEwnQn) | 3:36 | 2023-03-02 | 2023-03-10 |
+| [Endlessly](https://open.spotify.com/track/2XM0y8rmX13FWSGDhgvqlX) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Endlessly](https://open.spotify.com/album/4SyKnlO19mrQhdvbAEwnQn) | 3:36 | 2023-03-02 |  |
 | [epilogue](https://open.spotify.com/track/3LOolvy8SIuFenyCHjaMDW) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 3:59 | 2022-10-14 | 2022-10-28 |
 | [Escape](https://open.spotify.com/track/3n4JtlDjEzyLP25ji7rex3) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Escape](https://open.spotify.com/album/5bznDPL79W1kK6IOeYWjAr) | 3:41 | 2022-10-27 | 2022-11-11 |
 | [Every Day](https://open.spotify.com/track/32NaM2oG2ht1U6TPouYgYW) | [Markus](https://open.spotify.com/artist/2TX325jFbZFpe2OGZNo4Lx), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1) | [Every Day](https://open.spotify.com/album/0e2ZoEnFt359OfWItijP2W) | 2:38 | 2022-03-04 | 2022-06-13 |
@@ -278,6 +278,7 @@
 | [Love Quizzes](https://open.spotify.com/track/3AnCQUv83JUHosFh9OVmLp) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Love Quizzes](https://open.spotify.com/album/3bhofzk3jj1AH0mzuksbDK) | 3:32 | 2022-11-10 | 2022-12-16 |
 | [Love Tale](https://open.spotify.com/track/0xuguGT4hciIZWGswErWMB) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn) | [Love Tale](https://open.spotify.com/album/1xmXP9wEPOCbwYCHanF7yO) | 3:08 | 2023-03-09 |  |
 | [Love When You Love](https://open.spotify.com/track/3eDngrH9wKzUCeROZLTxGu) | [Primprao](https://open.spotify.com/artist/2evaVvfO7NoA2HoVnKke7n) | [Love When You Love](https://open.spotify.com/album/7rZvrDMwXNDQF7iLCxAC1D) | 2:52 | 2022-09-16 | 2022-09-27 |
+| [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 | 2023-03-18 |  |
 | [Lovely Holiday](https://open.spotify.com/track/7nUAvcjkOYEoFR5yQkuQXv) | [DUNK](https://open.spotify.com/artist/2MAFUSScUrgDSBlR9TRrKq) | [Lovely Holiday](https://open.spotify.com/album/5RtipDkl4gud0lqJycYNJQ) | 3:42 | 2022-03-29 | 2022-04-19 |
 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 | 2022-05-27 | 2023-01-06 |
 | [lovey dovey](https://open.spotify.com/track/7nWo2o7BNTKfBP80yqicdw) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Quiet](https://open.spotify.com/artist/5OuYv7kVl0ozFp6F30KUBa) | [lovey dovey](https://open.spotify.com/album/0THgeP4c72At0kZGkhEvqn) | 3:02 | 2022-11-10 | 2022-12-16 |
@@ -511,7 +512,7 @@
 | [you look so beautiful](https://open.spotify.com/track/1J5xz1F0BvYRJTpOJdXHJo) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [you look so beautiful](https://open.spotify.com/album/1j71Uy4eOOuxtBxxnk152F) | 4:51 | 2022-01-28 | 2022-07-03 |
 | [you should have said so](https://open.spotify.com/track/5WodEIKkgtFPmfqSB7Ve8e) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [you should have said so](https://open.spotify.com/album/5H8nls3xG7OgydbrNQ27Va) | 2:42 | 2022-01-28 | 2022-07-23 |
 | [You Should Know](https://open.spotify.com/track/5my3W0CKAb8kb6Z2Z7NjGx) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [You Should Know](https://open.spotify.com/album/47k8LFRZGbI3TKNSzuHAjq) | 3:03 | 2022-08-12 | 2022-08-27 |
-| [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-01-28 |  |
+| [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-01-28 | 2023-03-18 |
 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 | 2022-01-28 |  |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 | 2022-10-27 |  |

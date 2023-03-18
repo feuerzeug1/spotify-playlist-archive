@@ -806,7 +806,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 248355,
       "name": "Believe",
       "url": "https://open.spotify.com/track/35y5F1N5bCTPLQ8qJzuYPE"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 133282,
       "name": "Call You Drunk",
       "url": "https://open.spotify.com/track/2Zy4IqUZ0FK4NpKU9Mth30"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 119571,
       "name": "CHRONICALLY CAUTIOUS",
       "url": "https://open.spotify.com/track/73ZWAySu4UX5LkpCM6zjYh"
@@ -2149,6 +2149,28 @@
     },
     {
       "album": {
+        "name": "DON'T GO",
+        "url": "https://open.spotify.com/album/3tOS1tlJPl6F539lKeslAq"
+      },
+      "artists": [
+        {
+          "name": "Kayps",
+          "url": "https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx"
+        },
+        {
+          "name": "Calvin Bennett",
+          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118073,
+      "name": "DON'T GO",
+      "url": "https://open.spotify.com/track/27yUP9TuKvq79adnq0jjAL"
+    },
+    {
+      "album": {
         "name": "Don't Matter",
         "url": "https://open.spotify.com/album/2ZgpmixiU543Vpseg7s04E"
       },
@@ -2645,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Final Step",
+        "url": "https://open.spotify.com/album/4XD6MEivG8XWtZSdrMU8UE"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126461,
+      "name": "Final Step",
+      "url": "https://open.spotify.com/track/1ifhyypscRNLhEvXkv0zEU"
+    },
+    {
+      "album": {
         "name": "FINDERS KEEPERS (feat. Scorey & Internet Money)",
         "url": "https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ"
       },
@@ -2758,7 +2798,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 209359,
       "name": "Flip",
       "url": "https://open.spotify.com/track/1WKq2z9qobfyQs3VMnAF9h"
@@ -2834,6 +2874,24 @@
       "duration_ms": 188854,
       "name": "For The Squadron",
       "url": "https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P"
+    },
+    {
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/4RuPOV6asu5LZi73gPhgLo"
+      },
+      "artists": [
+        {
+          "name": "COTIS",
+          "url": "https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178536,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/1ruk2OKHi2tmcEPtUvnAt8"
     },
     {
       "album": {
@@ -3254,6 +3312,24 @@
       "duration_ms": 204418,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/17fegXpwCZ98uOGEo4iDD0"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/0Q6YjIjuNy5Bt37PvxWes4"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5pmRVQHgD4IoE0Gw7OSt49"
     },
     {
       "album": {
@@ -4664,7 +4740,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 133379,
       "name": "LMAO",
       "url": "https://open.spotify.com/track/4jbX8yMax8x7jTM1ceAARY"
@@ -4878,6 +4954,24 @@
       "duration_ms": 172337,
       "name": "lovers only singalong",
       "url": "https://open.spotify.com/track/59YDPNC3aWgN4shZQ07R4n"
+    },
+    {
+      "album": {
+        "name": "Low AF",
+        "url": "https://open.spotify.com/album/6GqrcES0T5SRFUMQIFlW6R"
+      },
+      "artists": [
+        {
+          "name": "Olen",
+          "url": "https://open.spotify.com/artist/0m34JtkojthW5WYugFm0e3"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164354,
+      "name": "Low AF",
+      "url": "https://open.spotify.com/track/444aQGmahNP5O87IGAEAYi"
     },
     {
       "album": {
@@ -5305,6 +5399,24 @@
     },
     {
       "album": {
+        "name": "Movin'",
+        "url": "https://open.spotify.com/album/2rHcTFQ8r6dpPwPE0UTRVD"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130052,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/6LY60TJtxLNbsBtwUKRaxo"
+    },
+    {
+      "album": {
         "name": "age tape 8",
         "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
       },
@@ -5658,6 +5770,28 @@
       "duration_ms": 141951,
       "name": "Nonfiction",
       "url": "https://open.spotify.com/track/5RqEk0GE6SG6OlkU9YO2LO"
+    },
+    {
+      "album": {
+        "name": "Not A Beanie",
+        "url": "https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136783,
+      "name": "Not A Beanie",
+      "url": "https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY"
     },
     {
       "album": {
@@ -6114,6 +6248,24 @@
       "duration_ms": 179200,
       "name": "Pickup Lines",
       "url": "https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB"
+    },
+    {
+      "album": {
+        "name": "PISCES",
+        "url": "https://open.spotify.com/album/3gVEWxtcGekeJpW7uG31bG"
+      },
+      "artists": [
+        {
+          "name": "Mason Dane",
+          "url": "https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "PISCES",
+      "url": "https://open.spotify.com/track/0s5kJR8k8ZmsHRMnk61APm"
     },
     {
       "album": {
@@ -7928,7 +8080,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 127953,
       "name": "Target",
       "url": "https://open.spotify.com/track/0BISpmx11CA0SK6jMFlFZd"
@@ -8445,6 +8597,24 @@
     },
     {
       "album": {
+        "name": "UH OH",
+        "url": "https://open.spotify.com/album/3MCpaDhJ0Ebdj3EPYanDQO"
+      },
+      "artists": [
+        {
+          "name": "Belaganas",
+          "url": "https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "UH OH",
+      "url": "https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu"
+    },
+    {
+      "album": {
         "name": "It's Not So Bad",
         "url": "https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9"
       },
@@ -8744,7 +8914,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 158000,
       "name": "Whatchutrynado?",
       "url": "https://open.spotify.com/track/1ItdCvHpCr3WrCZpg46Dgw"

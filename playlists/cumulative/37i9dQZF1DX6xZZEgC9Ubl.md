@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: BONES
 
-784 songs - 1 day 11 hr 36 min
+785 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [G n T](https://open.spotify.com/track/7bI1ljBRkTLgQExzKRcwdY) | [Lucid Kidd](https://open.spotify.com/artist/18fitAD50Su7lbUq5TvApN) | [G n T](https://open.spotify.com/album/15d8bNkv39geOBFQDBRoVF) | 3:25 | 2022-03-25 | 2022-04-21 |
 | [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 | 2022-07-29 |
 | [Ghost Rider](https://open.spotify.com/track/3xXkIxNwHu4aP6VUtGKJc0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Ghost Rider](https://open.spotify.com/album/2X9G26ucxdZzrpVOj72rtO) | 4:00 | 2021-06-12 | 2022-03-02 |
+| [Ghostrider](https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Ghostrider \(Clean\)](https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE) | 2:12 | 2023-03-18 |  |
 | [GIN N JUICE](https://open.spotify.com/track/7IeF3GYiOqsKQ97cchFod3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GIN N JUICE](https://open.spotify.com/album/31tl4xCfME9LBkMdCg0p0U) | 1:41 | 2021-01-21 | 2022-06-16 |
 | [Girls Rule The World](https://open.spotify.com/track/2XOStOIIkRktcYiALuPrZx) | [Teddy](https://open.spotify.com/artist/0a6Q2oHRwUYaZMChVBZWts), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Girls Rule The World](https://open.spotify.com/album/7G8PbHpKWnKrXCJyIHosj6) | 2:43 | 2022-01-07 | 2022-07-28 |
 | [Give u a Call](https://open.spotify.com/track/4M7hHEhRCrXDNmUZlls22t) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Give u a Call](https://open.spotify.com/album/4lW4itwhtpvoCfKjsSyEsB) | 2:23 | 2021-03-06 | 2021-05-29 |
@@ -320,7 +321,7 @@
 | [hotmess](https://open.spotify.com/track/18Xh2jWQ32W2712sbUfTwZ) | [bestfriend](https://open.spotify.com/artist/23sZDaGSVzYhprU1sfF6fB), [Boyblue](https://open.spotify.com/artist/0R5LLKgL2DHpLX3CuEe6kj) | [hotmess](https://open.spotify.com/album/1pX4bpyc0ErRDJh7SMebpq) | 2:44 | 2022-03-11 | 2022-07-29 |
 | [How Does It Feel](https://open.spotify.com/track/1vAN7qLSqTf1JdINjcKphB) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [A Gift And A Curse](https://open.spotify.com/album/1yp7eZUWAXTHMcdjJV33PJ) | 2:09 | 2022-12-09 | 2023-01-29 |
 | [how you make me feel](https://open.spotify.com/track/2V6PsdrydQ6t7TI2BAOWh0) | [Vorsa](https://open.spotify.com/artist/1gh8GYfxnY6D9nXPQ1Pb6g) | [how you make me feel](https://open.spotify.com/album/3Ih5LDgubyxVMIC5VTSzzj) | 3:19 | 2020-12-13\* | 2021-03-14 |
-| [HURT SO BAD](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [HURT SO BAD](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 | 2023-03-03 |  |
+| [HURT SO BAD](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [HURT SO BAD](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 | 2023-03-03 | 2023-03-18 |
 | [Hypnotic Ways](https://open.spotify.com/track/0iivtq1xavnLgyOlEmM5Lj) | [Clayjay](https://open.spotify.com/artist/4kXLCBgUM4qDe1iwEx7Tmm), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Hypnotic Ways](https://open.spotify.com/album/5bHZV9lPqkMK6CWM8PJ2Ao) | 2:42 | 2021-04-17 | 2021-05-15 |
 | [I Ate My Soul](https://open.spotify.com/track/5oCMkoVTUov4jKWzfkenAx) | [Ohsolow](https://open.spotify.com/artist/6PBi2MZwwSxgnb9oY5ZrVn), [sayk\_](https://open.spotify.com/artist/0tEV99Mi95s1JxCUezOgeo) | [I Ate My Soul](https://open.spotify.com/album/3clwhikTAXNMVZ7vxW83Sn) | 1:44 | 2021-05-29 | 2022-07-01 |
 | [i can see clearly](https://open.spotify.com/track/0hTenOns6LBffrOtLg3rMe) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [SWAMP](https://open.spotify.com/album/6Vhnu49bSHfEnnuwiN1Rf7) | 3:13 | 2021-12-21 | 2022-03-02 |
@@ -333,7 +334,7 @@
 | [I fucked up](https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa) | [convolk](https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ) | [LONEWOLF](https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz) | 2:39 | 2022-07-22 |  |
 | [i got yr message](https://open.spotify.com/track/1ATiZWaQ3xKkXhnBUL75rV) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:26 | 2022-02-11 | 2022-07-29 |
 | [I Hate Love](https://open.spotify.com/track/2Hb0xOroIPtuunNoCwKtmt) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk), [27CLUB](https://open.spotify.com/artist/75FDYkuEWuVAYlrghPNi4z) | [I Hate Love](https://open.spotify.com/album/0CWVgXuB3ugauQmVmJ4jzd) | 3:58 | 2021-01-15 | 2021-03-26 |
-| [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 | 2022-05-20 | 2023-03-14 |
+| [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 | 2022-05-20 |  |
 | [i know why you stay out](https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [i know why you stay out](https://open.spotify.com/album/2X7m57LD0vjPSIrJx22HfZ) | 2:57 | 2021-05-29 | 2022-04-13 |
 | [I lied when I said that I'm okay](https://open.spotify.com/track/6vyuUfnwPZK2z7KKgRzcxM) | [Paris Snow](https://open.spotify.com/artist/2QKsUEpStygXfQeQDwkw8E) | [I lied when I said that I'm okay](https://open.spotify.com/album/4bx4OqlgZvrrsgg9K5hyka) | 2:16 | 2021-09-22 | 2022-04-18 |
 | [I Miss The Days](https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:29 | 2022-12-14 |  |
@@ -725,7 +726,7 @@
 | [Uncomparable](https://open.spotify.com/track/5XBN5qnsOSsdNKTj6kJ5cP) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Uncomparable](https://open.spotify.com/album/2cB3EH9yQll7xyMA4X6NDM) | 1:45 | 2021-03-31 | 2021-07-01 |
 | [UNKNOWN](https://open.spotify.com/track/0Z8h8JgHnvyYXY0VLT0YXH) | [prettyboys](https://open.spotify.com/artist/2gEcnCymek6QgS9DfQF3UZ) | [UNKNOWN](https://open.spotify.com/album/3indV6cCInris0c4k2cWpy) | 3:32 | 2021-10-29 | 2022-04-17 |
 | [Up Up and Away](https://open.spotify.com/track/5MzAdOahVsGuDw40wOcZmJ) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Epochs](https://open.spotify.com/album/4F5BxxBPbLidRGBYdMsGug) | 3:34 | 2020-12-18 | 2021-04-24 |
-| [Upset](https://open.spotify.com/track/54WI3cLupfyM0BN9Jshsta) | [CHRIS RAIN](https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y) | [Upset](https://open.spotify.com/album/0gp185gn4jfzQIZkoKGDOk) | 2:32 | 2023-02-10 |  |
+| [Upset](https://open.spotify.com/track/54WI3cLupfyM0BN9Jshsta) | [CHRIS RAIN](https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y) | [Upset](https://open.spotify.com/album/0gp185gn4jfzQIZkoKGDOk) | 2:32 | 2023-02-10 | 2023-03-18 |
 | [USED2KNOW](https://open.spotify.com/track/1AypGrF9hgXuCpvt2b8BEY) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [WITH OR WITHOUT YOU](https://open.spotify.com/album/34SV634wGtLESb5QalBf32) | 2:33 | 2022-01-28 | 2022-07-29 |
 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 | 2021-09-17 |  |
 | [VACANT](https://open.spotify.com/track/2CxTUwmFIMzGfkxVLVQiFJ) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [THE WALLS HAVE EYES](https://open.spotify.com/album/4dFW8b4h1IIKr5Un1NaNSI) | 2:41 | 2023-02-17 |  |

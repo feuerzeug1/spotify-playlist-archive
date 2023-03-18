@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Egreen in cover.
 
-258 songs - 15 hr 31 min
+259 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [21 Grammi](https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s) | [Duplici](https://open.spotify.com/artist/26LUOCEFlhNl9RjCPDruPT), [Dj Double S](https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0) | [Schiena Contro Schiena](https://open.spotify.com/album/5IwGNmcikVfFtiVtDmw5ff) | 4:19 | 2022-05-05 |  |
 | [Ad occhi chiusi](https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Elisa Aramonte](https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl) | [Ad occhi chiusi](https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ) | 3:45 | 2022-09-22 |  |
 | [Always Ready](https://open.spotify.com/track/7Gp8EIlM1HzN6RXdVRIrN8) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Always Ready](https://open.spotify.com/album/3wlakbU1BE1CxvkXOraFe3) | 2:50 | 2022-09-09 | 2022-10-07 |
-| [Amor de mi vida](https://open.spotify.com/track/1V88gWT2lkujA6094zxA39) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Sotto lo stesso effetto](https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0) | 4:55 | 2022-05-19 |  |
+| [Amor de mi vida](https://open.spotify.com/track/1V88gWT2lkujA6094zxA39) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Sotto lo stesso effetto](https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0) | 4:55 | 2022-05-19 | 2023-03-18 |
 | [Anni Luce](https://open.spotify.com/track/3AouWRg7Ur50FqeJl9Kx2z) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dafa](https://open.spotify.com/artist/23xdPmYS80aHcswLkOTTfs), [Dope One](https://open.spotify.com/artist/3hkuxweLT2NqX7opoaRyKB) | [Young Veterans 1974](https://open.spotify.com/album/5Z0VqAJD6WqjgZw0xfdYzu) | 3:06 | 2022-05-12 | 2022-06-01 |
 | [Ardito Desio](https://open.spotify.com/track/65Bp7VWNGe672txTWvsm7Z) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [GENTLE T](https://open.spotify.com/artist/2xlpLMpxPwAhjidh03QPw1), [Blo/B](https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z) | [Gran Turismo](https://open.spotify.com/album/7akh9qFmIUXqmkNcaOqjU3) | 3:06 | 2022-05-12 | 2022-06-23 |
 | [Aspettando Il Sole \- Remastered](https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Giuliano Palma](https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I) | [Neffa E I Messaggeri Della Dopa \(Remastered\)](https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2) | 5:11 | 2022-05-12 |  |
@@ -104,6 +104,7 @@
 | [Int 'o rione](https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:26 | 2022-05-12 |  |
 | [Invisibili \(feat\. Claver Gold\)](https://open.spotify.com/track/0mCZ8kuH5wRZ1t7sovDDxf) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [TOTEM \- Episodio Tre](https://open.spotify.com/album/3Rk9Z7j5nAzPSmg0OHPSSo) | 2:50 | 2022-05-12 | 2022-07-27 |
 | [Iron Maiden](https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Iron Maiden](https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx) | 2:38 | 2022-05-05 |  |
+| [John Rambo](https://open.spotify.com/track/0ZtqnQ7XfuAxHmFSXCJeEl) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [Gionni Grano](https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z) | [Stallone](https://open.spotify.com/album/4InaOHjXVZitzYJ0wYUaI7) | 2:28 | 2023-03-09 |  |
 | [Kojima](https://open.spotify.com/track/2ADu47LHn7w7B9iNvgwadZ) | [Pufuleti](https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A), [Zutera](https://open.spotify.com/artist/3KQur0YWqvQYgn5PdXHnn0) | [Kojima](https://open.spotify.com/album/2YJSVXhcMTd6Ft8Rol8fUH) | 2:06 | 2022-08-26 | 2022-09-23 |
 | [L'Anima Giusta](https://open.spotify.com/track/66LvacHJCJWy11UemxShz7) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [Riproduzione Vietata](https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0) | 4:13 | 2022-05-05 |  |
 | [L'attimo esatto](https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri) | [Storie d'amore con pioggia e altri racconti di rovesci e temporali \(Deluxe\)](https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa) | 3:45 | 2023-01-19 |  |

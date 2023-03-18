@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,169 likes - 500 songs - 1 day 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,186 likes - 500 songs - 1 day 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -301,7 +301,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 291 | [Op Fietse](https://open.spotify.com/track/0wNgjrYxFhegQrMpTo2J9v) | [Skik](https://open.spotify.com/artist/1ezIAAhRJCCU5C6gRWX4xc) | [Best Tof](https://open.spotify.com/album/3LV3sF83NYB36ljDuuBGxj) | 4:51 |
 | 292 | [Short Skirt / Long Jacket](https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:24 |
 | 293 | [Golden Clouds \(feat\. Lee "Scratch" Perry\)](https://open.spotify.com/track/5I1RLZDjJhUzYH5GrzSoKa) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [THE ORBSERVER in the star house \(feat\. Lee Scratch Perry\)](https://open.spotify.com/album/5fJXJ0N4bnfYUtR8sdcvcq) | 5:46 |
-| 294 | [Every You Every Me](https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 3:33 |
+| 294 | [Every You Every Me](https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ) | [Placebo](https://open.spotify.com/artist/7i3DKOeA4rJ9SWn8OfvcZd) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 3:33 |
 | 295 | [PositiveNoise](https://open.spotify.com/track/71uzpv56I1XmTYLa9KtKLw) | [System 7](https://open.spotify.com/artist/2JrTxbnRU8RGKyuyHE8SGP) | [UP](https://open.spotify.com/album/0ApdaTQIZfhTj0IeGbLthr) | 8:39 |
 | 296 | [Stolen Car](https://open.spotify.com/track/2UbP7JjlBgmiPmkUkR7eSF) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Central Reservation](https://open.spotify.com/album/6j7rYlihEMA63TyKLUH4nC) | 5:25 |
 | 297 | [Freak On a Leash](https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:15 |

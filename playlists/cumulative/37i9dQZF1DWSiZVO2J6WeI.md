@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-241 songs - 12 hr 42 min
+242 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 | 2023-03-15 |  |
 | [Shapeless](https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Shapeless](https://open.spotify.com/album/4rXz811jiNhlyTQKJRi5kE) | 2:43 | 2022-01-12 |  |
 | [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 | 2022-06-16 |  |
+| [Sigur](https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Sigur](https://open.spotify.com/album/5cpKYQ6H4dPM4RNArtaR0l) | 2:56 | 2023-03-17 |  |
 | [Silent](https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR) | [Sogni Lunari](https://open.spotify.com/artist/02LLVbAMjm7ALCBmjmihqL) | [Silent](https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf) | 2:13 | 2022-01-12 | 2023-03-15 |
 | [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 | 2022-01-12 | 2023-03-15 |
 | [Silent Whispers](https://open.spotify.com/track/4zXfPzjyYjS59WBpaBJSbs) | [Mutant Melodies](https://open.spotify.com/artist/6O0e9FFocYLN5RQV3fwWXw) | [Distant Memories Of You](https://open.spotify.com/album/49AtpvtKhANqidVRLFIgTK) | 2:24 | 2022-01-12 |  |
@@ -236,7 +237,7 @@
 | [We Owe It To Them](https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs) | [Ensemble Cordes De La Mer](https://open.spotify.com/artist/7wSfSAUscNKOm4b1PloAXx) | [We Owe It To Them](https://open.spotify.com/album/2UbINpmfWK3ZiVBkbSyPdQ) | 2:54 | 2022-04-13 |  |
 | [Well Spent](https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS) | [Asgeir Haugen](https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1) | [Well Spent](https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6) | 2:45 | 2022-01-12 |  |
 | [What If](https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR) | [Leon Browder](https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH) | [What If](https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq) | 4:00 | 2022-01-12 |  |
-| [When We Touch](https://open.spotify.com/track/2JXnSuTOTh3uekrf4Kcq63) | [Rain Wonder](https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36) | [When We Touch](https://open.spotify.com/album/0v889wJa7Wbyp9Q5NoLxQv) | 2:05 | 2022-01-19 |  |
+| [When We Touch](https://open.spotify.com/track/2JXnSuTOTh3uekrf4Kcq63) | [Rain Wonder](https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36) | [When We Touch](https://open.spotify.com/album/0v889wJa7Wbyp9Q5NoLxQv) | 2:05 | 2022-01-19 | 2023-03-18 |
 | [When We Touch](https://open.spotify.com/track/6QNrpzKEYLzQsBqQQphfue) | [Rain Wonder](https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36) | [Into the Night](https://open.spotify.com/album/7wlueDU2PxSRaEUbf9dXMl) | 2:05 | 2022-01-12 |  |
 | [Wrapped in Warmth](https://open.spotify.com/track/6vUO4F4h0Fg01FyiWFa8hb) | [Multicolored Dreams](https://open.spotify.com/artist/6sIcU8P0T1TcAjOHEkAt3Q) | [Wrapped in Warmth](https://open.spotify.com/album/6gX6pglJXaKDnCdC6x2Ls6) | 3:32 | 2022-01-12 | 2022-02-02 |
 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |

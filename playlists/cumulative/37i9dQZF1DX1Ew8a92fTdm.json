@@ -538,10 +538,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 108076,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0nNHzlAaX6Rcg6MYXLSFkg"
+    },
+    {
+      "album": {
+        "name": "Musix Box Lullabies",
+        "url": "https://open.spotify.com/album/1u4RVkv7lRBGdiujfpOVxd"
+      },
+      "artists": [
+        {
+          "name": "Elliot Gordon",
+          "url": "https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "Brahms Lullaby",
+      "url": "https://open.spotify.com/track/5RamjYcCBe4dcmxBIPY2xe"
     },
     {
       "album": {
@@ -808,7 +826,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 133025,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/4lma9ZO9Xux8SxU7lbR6X5"
@@ -992,6 +1010,24 @@
       "duration_ms": 82434,
       "name": "Edelweiss",
       "url": "https://open.spotify.com/track/4owbjiVRN3BbtDueur0vFW"
+    },
+    {
+      "album": {
+        "name": "Stj\u00e4rnfall MusicBox",
+        "url": "https://open.spotify.com/album/552hmmxQb1A0xLHr96t4ac"
+      },
+      "artists": [
+        {
+          "name": "Skymningen",
+          "url": "https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66992,
+      "name": "Elsas Vaggvisa (MusicBox)",
+      "url": "https://open.spotify.com/track/10oj8CDN9OqSJRoajUH4Oe"
     },
     {
       "album": {
@@ -1841,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Every Breath You Take",
+        "url": "https://open.spotify.com/album/1OlKIxUf4J99nPCFVC6DMS"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Bj\u00f6rkman",
+          "url": "https://open.spotify.com/artist/2SdRSEuy0pwKedI6cZyTPI"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73529,
+      "name": "My Bonny is over the ocean",
+      "url": "https://open.spotify.com/track/7ztbL1bA5mHNrxmFHJedkP"
+    },
+    {
+      "album": {
         "name": "My Dream",
         "url": "https://open.spotify.com/album/6TEVwQyFgEcllIXemrNZbx"
       },
@@ -1892,6 +1946,24 @@
       "duration_ms": 81000,
       "name": "My Kitty Cat Kate",
       "url": "https://open.spotify.com/track/2IRZ8zO4uCRUFsseRhGqLy"
+    },
+    {
+      "album": {
+        "name": "My Little Prince",
+        "url": "https://open.spotify.com/album/3ynDD4j4fuZIG25ZO4E97M"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Ness",
+          "url": "https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71127,
+      "name": "My Little Prince",
+      "url": "https://open.spotify.com/track/4FOYVgJJn7bIMJnJGWJM6a"
     },
     {
       "album": {
@@ -2212,7 +2284,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 121500,
       "name": "Sandras Lullaby",
       "url": "https://open.spotify.com/track/2STLwlsxG7uxigptaOl4Qt"
@@ -3152,6 +3224,24 @@
       "duration_ms": 67711,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/7lElQ1zwjKaEfINWBT4ATx"
+    },
+    {
+      "album": {
+        "name": "Musix Box Lullabies",
+        "url": "https://open.spotify.com/album/1u4RVkv7lRBGdiujfpOVxd"
+      },
+      "artists": [
+        {
+          "name": "Elliot Gordon",
+          "url": "https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79645,
+      "name": "Vem kan segla f\u00f6rutan vind",
+      "url": "https://open.spotify.com/track/6NOOTscrozQ0KBJauyB0jc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-251 songs - 1 day 0 hr 16 min
+252 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [What He's Done](https://open.spotify.com/track/4n0FgNAx3ApdTFXyvwujH6) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [What He's Done](https://open.spotify.com/album/6CvbOFwjDhPeB5ptLqutLA) | 3:37 | 2022-12-01 |  |
 | [What He's Done \- Live From Passion 2022](https://open.spotify.com/track/09duiLJRbYHhY5PMSVP1i9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/2TzHY6eiWHBPlVn4KghFZr) | 6:37 | 2022-02-18 | 2022-12-02 |
 | [Who Is This Man](https://open.spotify.com/track/06dAYamTh14bnWQ7UDj9TN) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Who Is This Man](https://open.spotify.com/album/1CgKtmZIU9ttrNToJxfPRp) | 3:30 | 2022-07-01 | 2022-07-14 |
+| [Who Is This Man \- Live](https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Who Is This Man \(Live\)](https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK) | 9:59 | 2023-03-17 |  |
 | [Who You Say I Am](https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [There Is More \(Studio Sessions\)](https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ) | 3:19 | 2022-05-27 |  |
 | [Who You Say I Am \- Live](https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 5:29 | 2022-02-17 | 2023-01-05 |
 | [Wildfire \- Live](https://open.spotify.com/track/0Ts2lin2ZV1MQrXR1NvGKV) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Housefires VII \(Live\)](https://open.spotify.com/album/2yEbZPmuoM5cXTxZoxpkFC) | 6:20 | 2022-02-17 | 2022-03-16 |

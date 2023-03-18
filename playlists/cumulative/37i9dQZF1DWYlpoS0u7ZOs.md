@@ -2,9 +2,9 @@
 
 ### [shockwave](https://open.spotify.com/playlist/37i9dQZF1DWYlpoS0u7ZOs)
 
-> The new wave of rock from the UK & Ireland\. Cover: SPIDER
+> The new wave of rock from the UK & Ireland\. Cover: Boy Bleach
 
-122 songs - 6 hr 27 min
+125 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,11 @@
 | [Boots](https://open.spotify.com/track/1NuBaXmaY9sbyPZ1EwwlIw) | [Pretty Happy](https://open.spotify.com/artist/55ID3BZCEsvwergEvrvd0I) | [Boots](https://open.spotify.com/album/0KUAvupvxFSmOAttRQ4nY8) | 3:39 | 2023-01-13 |  |
 | [Buck](https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Buck](https://open.spotify.com/album/5Ac4lXopdeGd0IztFzEZ13) | 3:59 | 2023-02-10 |  |
 | [Candy](https://open.spotify.com/track/0p5xMjlOc6Rpm8Y974Kn6H) | [The Gulps](https://open.spotify.com/artist/62HCZvFY4HgJLQb7x6fdLD) | [Candy](https://open.spotify.com/album/69TTf5gGOmechxuZ4AEjsG) | 3:16 | 2023-01-13 |  |
+| [claws](https://open.spotify.com/track/2HgmmSd1lZesLJU1koxI8T) | [Kurtis](https://open.spotify.com/artist/1ZV5RU7ViRwlv7vqWuOHRf), [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [claws](https://open.spotify.com/album/2ZPsWmEP1LUW9fxuM1bVAV) | 3:24 | 2023-03-17 |  |
 | [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 | 2023-01-13 | 2023-03-11 |
 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 | 2023-01-13 |  |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-13 |  |
+| [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 | 2023-03-17 |  |
 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 | 2023-02-03 |  |
 | [Detrimental](https://open.spotify.com/track/2NzPodb1SiSHLK5ycVywb4) | [Suga Knuckle](https://open.spotify.com/artist/6q05UMnrAwdqUuKj5OWGDZ) | [Detrimental](https://open.spotify.com/album/4nNme6bRCBvRxyYy8Vl7UY) | 3:25 | 2023-02-10 |  |
 | [Didn't Even Know What I Was Looking For](https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Jaws the Shark](https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5) | 3:09 | 2023-01-13 | 2023-03-11 |
@@ -84,6 +86,7 @@
 | [My Perfect](https://open.spotify.com/track/4wd0skBSF7oBUOeULBeitG) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [My Perfect](https://open.spotify.com/album/1mcKvwXKx1OIUHBOAuyQl7) | 3:12 | 2023-01-13 |  |
 | [Neighbours](https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Neighbours](https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX) | 2:51 | 2023-01-13 |  |
 | [No Constraint](https://open.spotify.com/track/48x8I9dFZjWn7bJf5j2nnT) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [No Constraint](https://open.spotify.com/album/1asjlY8VeCEXNOuBHS3bhh) | 3:02 | 2023-03-03 |  |
+| [Nostalgia \(ft\. Patty Walters\)](https://open.spotify.com/track/7urqfz7paOyKHayDEa7uGC) | [Bleak Soul](https://open.spotify.com/artist/2iMxVnS6Ovd7R0C5kHdo6p), [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Nostalgia](https://open.spotify.com/album/6K6oiAZS3oOlH9VEAIbL2U) | 3:18 | 2023-03-17 |  |
 | [Our Love Is Growing \- Single Mix](https://open.spotify.com/track/1UpFjzn7zBmwtrZgyXL63p) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC) | [Our Love Is Growing](https://open.spotify.com/album/00TPwByRL8JEFa9aykOuW5) | 3:01 | 2023-01-13 | 2023-02-03 |
 | [Past Vibration](https://open.spotify.com/track/2jLe4rXo1X8o529i7f4k7q) | [Supera Morza](https://open.spotify.com/artist/1On3aSzms3SvHl2obPqAx5) | [Past Vibration](https://open.spotify.com/album/423cCingFcQ64dla8mdJ6C) | 2:36 | 2023-02-10 |  |
 | [Points of View](https://open.spotify.com/track/3RnHVxYDzYHjAXIiSPrxUN) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [Points of View](https://open.spotify.com/album/475DvjXowIrzPg0t6R7Ymk) | 3:37 | 2023-01-13 | 2023-03-11 |
@@ -96,7 +99,7 @@
 | [Rockstar](https://open.spotify.com/track/1hiUjws67EtIOAIRVJgrlW) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Rockstar](https://open.spotify.com/album/4ccThge1HXXsxIKGuXCMlN) | 2:28 | 2023-01-13 |  |
 | [Rohmeresse](https://open.spotify.com/track/1fhdNRoxgELg1nTqC4O011) | [ĠENN](https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771) | [Rohmeresse](https://open.spotify.com/album/2LyFQ90jBJrIL5A6tElzLW) | 4:51 | 2023-01-13 | 2023-02-10 |
 | [Ruin Your Night](https://open.spotify.com/track/0gWPthWTDVcV4cBCyuaYxV) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Ruin Your Night](https://open.spotify.com/album/6kIHeuiJfhPGq6eo68hfqV) | 4:01 | 2023-01-13 | 2023-03-03 |
-| [RUN & HIDE](https://open.spotify.com/track/7EFbx9VydYfzHnBBVtZiDc) | [Layzee Gold](https://open.spotify.com/artist/7hcfPgk1kIiXbQFbLwkTwK) | [RUN & HIDE](https://open.spotify.com/album/2r5LYOb2EY3Uvg10ELI5sE) | 1:48 | 2023-01-13 |  |
+| [RUN & HIDE](https://open.spotify.com/track/7EFbx9VydYfzHnBBVtZiDc) | [Layzee Gold](https://open.spotify.com/artist/7hcfPgk1kIiXbQFbLwkTwK) | [RUN & HIDE](https://open.spotify.com/album/2r5LYOb2EY3Uvg10ELI5sE) | 1:48 | 2023-01-13 | 2023-03-18 |
 | [SADFACE](https://open.spotify.com/track/3Ha33JQoabqcnwFXQehnCO) | [LibraLibra](https://open.spotify.com/artist/5eSDYy3APXTkeeOuTn6gye) | [SADFACE](https://open.spotify.com/album/22a0uOqO0e5PxYmkI0C8df) | 3:40 | 2023-03-10 |  |
 | [Save It For Myself](https://open.spotify.com/track/5AWQZVceAinzjsCQH50WlX) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [You Over Me](https://open.spotify.com/artist/5se7CBddY96rvFP3oQ6Pim) | [Save It For Myself](https://open.spotify.com/album/5bzfUN9nM3mCr7goLdbrVF) | 3:19 | 2023-01-13 |  |
 | [She's So](https://open.spotify.com/track/4tgO5KlvsiW2sMeuqNnUki) | [Bikini Beach](https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp) | [She's So](https://open.spotify.com/album/5jOkQr3txEQKryTmroXOzy) | 2:10 | 2023-02-03 | 2023-02-10 |

@@ -1,13 +1,49 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 393575,
+  "num_followers": 393637,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMGMzMzA4MWY3ZjRlOTM1NmQxNzM3MTVlODZmMzEwZDBh",
+  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMGMwN2NlMGY3MDcyMDdhYTU0ZmRiMDI0OTAzZmE3MzRh",
   "tracks": [
+    {
+      "added_at": "2023-03-17 04:01:00",
+      "album": {
+        "name": "B What U R",
+        "url": "https://open.spotify.com/album/3E9k29nIhPhVgpxFAvqrxA"
+      },
+      "artists": [
+        {
+          "name": "Stone Foundation",
+          "url": "https://open.spotify.com/artist/0rVkv5DwsmIbQg2ECWMQGT"
+        },
+        {
+          "name": "Shirley Jones",
+          "url": "https://open.spotify.com/artist/7722txNx6G1Q5u0kS7WaZn"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "B What U R",
+      "url": "https://open.spotify.com/track/6WiZWymC6kOGvjUy0nmzTN"
+    },
+    {
+      "added_at": "2023-03-17 04:01:00",
+      "album": {
+        "name": "It's Your Thing",
+        "url": "https://open.spotify.com/album/1ZCtf0Kuxbx4x2QO44703o"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/2tDI3yUDPzRvjp4FMrnkOz"
+    },
     {
       "added_at": "2023-02-03 05:01:00",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Jax",
+  "description": "She's back from the dead. Or is she? Cover: Melanie Martinez ",
   "name": "SALT",
   "tracks": [
     {
@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "DEATH",
+        "url": "https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306655,
+      "name": "DEATH",
+      "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
+    },
+    {
+      "album": {
         "name": "young forever (extended)",
         "url": "https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb"
       },
@@ -2580,6 +2598,24 @@
       "duration_ms": 125188,
       "name": "Happier Than Ever - Edit",
       "url": "https://open.spotify.com/track/3Wc4jQhzto9iZehUirrzcM"
+    },
+    {
+      "album": {
+        "name": "HAPPY EVER AFTER",
+        "url": "https://open.spotify.com/album/0NUinuyKeYqHOAHbWxkWRZ"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "HAPPY EVER AFTER",
+      "url": "https://open.spotify.com/track/2tKw9pdaR2paQyfDYLGrWo"
     },
     {
       "album": {
@@ -5268,7 +5304,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 185310,
       "name": "Still Alive - From the Original Motion Picture Scream VI",
       "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
@@ -5968,6 +6004,24 @@
       "duration_ms": 149713,
       "name": "UNCOMPLICATED",
       "url": "https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK"
+    },
+    {
+      "album": {
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/0gCYOi2ZfRkI6cO9j8iviH"
+      },
+      "artists": [
+        {
+          "name": "Circe",
+          "url": "https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212547,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/1tEK1Lm8PnxCi83TSxmhgt"
     },
     {
       "album": {

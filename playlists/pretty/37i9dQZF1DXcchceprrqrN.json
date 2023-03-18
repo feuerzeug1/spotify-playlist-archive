@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 27697,
+  "num_followers": 27906,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc0ODAyNCwwMDAwMDAwMDhiZDRkNGU5MDY5MjAxNjk2ZDIxY2VjZTBiNmUzYWUy",
+  "snapshot_id": "MTY3OTA3ODM1MCwwMDAwMDAwMDJiMjY1OTMxYzNhMWY1Y2YxZWE0NTY1ZGFjNTA2NDJi",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -43,18 +43,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Pass The Nirvana",
-        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
+        "name": "SUGAREGG",
+        "url": "https://open.spotify.com/album/3o5jaI0rb660GQ7SiDse2R"
       },
       "artists": [
         {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
         }
       ],
-      "duration_ms": 197374,
-      "name": "Pass The Nirvana",
-      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
+      "duration_ms": 180600,
+      "name": "Where to Start",
+      "url": "https://open.spotify.com/track/59AH3Da4bVx4htRwPzYlBL"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-03-17 18:39:10",
       "album": {
-        "name": "Dream Wife",
-        "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
+        "name": "Death of a Party Girl",
+        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
       },
       "artists": [
         {
-          "name": "Dream Wife",
-          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Hey Heartbreaker",
-      "url": "https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc"
+      "duration_ms": 217000,
+      "name": "Blue Hair",
+      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -119,38 +119,6 @@
       "duration_ms": 217869,
       "name": "Joni: LA's No. 1 Health Goth",
       "url": "https://open.spotify.com/track/4gq0UBygSttdeOkjMNDZQB"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "i gave you everything",
-        "url": "https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "i gave you everything",
-      "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Veronica Mars",
-        "url": "https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 117850,
-      "name": "Veronica Mars",
-      "url": "https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -175,6 +143,38 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Veronica Mars",
+        "url": "https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 117850,
+      "name": "Veronica Mars",
+      "url": "https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Pass The Nirvana",
+        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 197374,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "The News",
-        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 187696,
-      "name": "The News",
-      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Twin Fantasy",
         "url": "https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 304427,
       "name": "Sober to Death",
       "url": "https://open.spotify.com/track/6kOHjAOLz9IvUiRGf72Kec"
+    },
+    {
+      "added_at": "2023-03-17 18:39:10",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 192715,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/79mYNfvMefhmL5IqRmUnCK"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
+        "name": "The News",
+        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 250053,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/141alNiSd9vG4Lb22BLHWM"
     },
     {
+      "added_at": "2023-03-17 18:39:10",
+      "album": {
+        "name": "Every Where Is Some Where",
+        "url": "https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Blood In The Cut",
+      "url": "https://open.spotify.com/track/4q604hQba5940BbOoaenmz"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "The Dream Is Over",
@@ -283,22 +299,6 @@
       "duration_ms": 148893,
       "name": "DVP",
       "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Sistahs",
-        "url": "https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 176617,
-      "name": "Fall Asleep",
-      "url": "https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -339,6 +339,38 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "BUMMER",
+        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 178388,
+      "name": "GOOD GRIEF",
+      "url": "https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe"
+    },
+    {
+      "added_at": "2023-03-17 18:39:10",
+      "album": {
+        "name": "Applause",
+        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
+      },
+      "artists": [
+        {
+          "name": "Liily",
+          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -353,20 +385,52 @@
       "url": "https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-03-17 18:39:10",
       "album": {
-        "name": "BUMMER",
-        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
+        "name": "When The Pawn...",
+        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
       },
       "artists": [
         {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
         }
       ],
-      "duration_ms": 178388,
-      "name": "GOOD GRIEF",
-      "url": "https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe"
+      "duration_ms": 296400,
+      "name": "A Mistake",
+      "url": "https://open.spotify.com/track/0w7XPnFp1jA7w7C8t89zJi"
+    },
+    {
+      "added_at": "2023-03-17 18:39:10",
+      "album": {
+        "name": "Cop Car",
+        "url": "https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 183554,
+      "name": "Cop Car",
+      "url": "https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "God Is a Circle",
+        "url": "https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "God Is a Circle",
+      "url": "https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -399,22 +463,6 @@
       "duration_ms": 231860,
       "name": "I Wish I Was Stephen Malkmus",
       "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "God Is a Circle",
-        "url": "https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "God Is a Circle",
-      "url": "https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -499,22 +547,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Boat Songs",
-        "url": "https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 136124,
-      "name": "Hangover Game",
-      "url": "https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG"
       },
@@ -527,6 +559,38 @@
       "duration_ms": 195129,
       "name": "Control",
       "url": "https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Boat Songs",
+        "url": "https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 136124,
+      "name": "Hangover Game",
+      "url": "https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -561,6 +625,22 @@
       "url": "https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri"
     },
     {
+      "added_at": "2023-03-17 18:39:10",
+      "album": {
+        "name": "Bass Drum of Death",
+        "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Crawling After You",
+      "url": "https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Cheer",
@@ -575,6 +655,22 @@
       "duration_ms": 282121,
       "name": "Weed Pin",
       "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
+    },
+    {
+      "added_at": "2023-03-17 18:39:10",
+      "album": {
+        "name": "Get Damaged",
+        "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
+      },
+      "artists": [
+        {
+          "name": "be your own PET",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Becky",
+      "url": "https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -663,22 +759,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Puzzles",
-        "url": "https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Puzzles",
-      "url": "https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "In Too Deep",
         "url": "https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw"
       },
@@ -695,18 +775,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "SUGAREGG",
-        "url": "https://open.spotify.com/album/3o5jaI0rb660GQ7SiDse2R"
+        "name": "i gave you everything",
+        "url": "https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ"
       },
       "artists": [
         {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 180600,
-      "name": "Where to Start",
-      "url": "https://open.spotify.com/track/59AH3Da4bVx4htRwPzYlBL"
+      "duration_ms": 158480,
+      "name": "i gave you everything",
+      "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -739,86 +819,6 @@
       "duration_ms": 189466,
       "name": "Wayfinding",
       "url": "https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 163670,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6bKQ8iw83w4iyACgoEzPt4"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Death of a Cheerleader",
-        "url": "https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4"
-      },
-      "artists": [
-        {
-          "name": "Pom Pom Squad",
-          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
-        }
-      ],
-      "duration_ms": 188242,
-      "name": "Head Cheerleader",
-      "url": "https://open.spotify.com/track/1qLWOCtiIYPJkLQxdqwYxk"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Angelhood",
-        "url": "https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh"
-      },
-      "artists": [
-        {
-          "name": "grandma",
-          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "soft-glow",
-      "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Here\u2019s What You Could Have Won",
-        "url": "https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "Super Soaker",
-      "url": "https://open.spotify.com/track/5aPsS8Erp6FBlFSEunU51j"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "925",
-        "url": "https://open.spotify.com/album/1x4UFeq7sIZohSXgitqWXp"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/0pO3rLTNv7tHZgB32B3ktv"
     }
   ],
   "unique_name": "hair dye",

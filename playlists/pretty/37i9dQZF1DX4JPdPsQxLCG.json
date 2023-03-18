@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49713,
+  "num_followers": 49718,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDVkOTc1ZjE4ZjdhYWVmZjU5N2E0Yjg2YmQyZjJkZWUw",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDgyMmMzMzAxNDUzZDVkNmY5MDY4NDhkYjAxYjZlOGFk",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Waiting For A Miracle",
-        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
-      },
-      "artists": [
-        {
-          "name": "Bruce Cockburn",
-          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Wondering Where The Lions Are",
-      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "The State",
         "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 210840,
       "name": "Leader of Men",
       "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Waiting For A Miracle",
+        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Wondering Where The Lions Are",
+      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
     },
     {
       "added_at": "2022-09-13 21:55:44",

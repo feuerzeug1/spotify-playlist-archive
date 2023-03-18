@@ -1,18 +1,18 @@
 {
   "description": "Music from and inspired by Stranger Things. Watch Season 4 now on Netflix.",
-  "num_followers": 2098177,
+  "num_followers": 2098272,
   "original_name": "Stranger Things Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzNzkxOSwwMDAwMDAwMGM5ZTg0YTJhNWU4NWE4NThjMDkxMTc0NWY0ODBiNjJh",
+  "snapshot_id": "MTY3NzUzNzkxOSwwMDAwMDAwMGI4MjhiZTk4NGE4NDMxZjM5ZTNkMDVjMzUwNjBiY2Jl",
   "tracks": [
     {
       "added_at": "2023-02-27 22:45:18",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
       "added_at": "2023-02-27 22:45:18",
@@ -1483,7 +1483,7 @@
     {
       "added_at": "2023-02-27 22:45:18",
       "album": {
-        "name": "Like a Virgin (Reissue)",
+        "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
       "artists": [

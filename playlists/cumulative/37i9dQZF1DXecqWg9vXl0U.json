@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "como en una nube. Bedroom pop vibes featuring Foudeqush.",
+  "description": "como en una nube. Bedroom pop vibes featuring Kaia Lana.",
   "name": "\u2728 dreamy \u2728",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 133316,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/1c8OwMD1nzoKnLnxXyaP54"
+    },
+    {
+      "album": {
+        "name": "A veces caigo",
+        "url": "https://open.spotify.com/album/7DhpUA2MCtE0w8do19Vgzd"
+      },
+      "artists": [
+        {
+          "name": "toorai",
+          "url": "https://open.spotify.com/artist/6GevMSNQ6R54xxyfOFSWBd"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142955,
+      "name": "A veces caigo",
+      "url": "https://open.spotify.com/track/23VsJynQzdhikyNxp3xu1s"
     },
     {
       "album": {
@@ -656,6 +674,28 @@
       "duration_ms": 255524,
       "name": "Colores crom\u00e1ticos",
       "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
+    },
+    {
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        },
+        {
+          "name": "Glass Cristina",
+          "url": "https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232895,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU"
     },
     {
       "album": {
@@ -1658,7 +1698,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 265440,
       "name": "Gravedad",
       "url": "https://open.spotify.com/track/5q7BpsT3LJ4Il38ksJlDU1"
@@ -2862,7 +2902,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 246500,
       "name": "Oniros (Bacalar)",
       "url": "https://open.spotify.com/track/7Fj4QOaGNsZjco1Px0Jt75"

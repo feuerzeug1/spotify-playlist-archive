@@ -2,9 +2,9 @@
 
 ### [✨ dreamy ✨](https://open.spotify.com/playlist/37i9dQZF1DXecqWg9vXl0U)
 
-> como en una nube\. Bedroom pop vibes featuring Foudeqush.
+> como en una nube\. Bedroom pop vibes featuring Kaia Lana.
 
-230 songs - 12 hr 39 min
+232 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Mí](https://open.spotify.com/track/5WToapmuQ28U1LOmIt6Tdk) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [A Mí](https://open.spotify.com/album/1W4kplttrBN8pDdgv1BUz5) | 2:49 | 2022-10-31 | 2023-02-18 |
 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 | 2022-09-23 |  |
 | [A Veces](https://open.spotify.com/track/1c8OwMD1nzoKnLnxXyaP54) | [Rayo Ultravioleta](https://open.spotify.com/artist/7qCyS1SJOxtniq2SuhpHpB), [Velero Norte](https://open.spotify.com/artist/6TBD2rLl4F6tIPF3oO62Ot), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI) | [A Veces](https://open.spotify.com/album/5qQHr5uOjIzDqw9WOwkXFr) | 2:13 | 2022-10-07 | 2022-11-12 |
+| [A veces caigo](https://open.spotify.com/track/23VsJynQzdhikyNxp3xu1s) | [toorai](https://open.spotify.com/artist/6GevMSNQ6R54xxyfOFSWBd) | [A veces caigo](https://open.spotify.com/album/7DhpUA2MCtE0w8do19Vgzd) | 2:22 | 2023-03-17 |  |
 | [Adentro Mío](https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Adentro Mío](https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ) | 3:40 | 2022-04-08 | 2022-08-27 |
 | [Al Cien](https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Al Cien](https://open.spotify.com/album/0APusMWyvY7kRnM3ROoOBm) | 2:57 | 2023-03-10 |  |
 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 | 2023-02-24 |  |
@@ -43,6 +44,7 @@
 | [Chill](https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Chill](https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0) | 2:43 | 2023-02-24 |  |
 | [Cielo](https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Cielo](https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K) | 2:49 | 2023-01-20 |  |
 | [Colores cromáticos](https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Colores cromáticos](https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed) | 4:15 | 2022-03-25 |  |
+| [Como Antes](https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Glass Cristina](https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH) | [Como Antes](https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O) | 3:52 | 2023-03-17 |  |
 | [Como Gelatina de Limón](https://open.spotify.com/track/5c0MzunCp19qtTeMAcCtnp) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [Como Gelatina de Limón](https://open.spotify.com/album/0norLs7icdbnZKP8at1EV3) | 3:12 | 2023-01-20 | 2023-02-11 |
 | [Como Nadie](https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys) | [Jardín](https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP) | [Como Nadie](https://open.spotify.com/album/2pZIeoVraZI0B4xDAYwIZT) | 3:47 | 2022-03-25 | 2022-12-10 |
 | [como si nada](https://open.spotify.com/track/4hMKS6gf79eVQ70AkAXyCE) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [como si nada](https://open.spotify.com/album/6VbPiVnWX1EaMKtOuuVr9e) | 3:51 | 2022-03-25 | 2022-10-15 |
@@ -95,7 +97,7 @@
 | [Gardenia Dreams](https://open.spotify.com/track/59Y1zuJjGgZwvtR1UF727u) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Gardenia Dreams](https://open.spotify.com/album/47S1uJrEEQWr1QNKWC5jR4) | 4:02 | 2022-03-25 | 2022-07-29 |
 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 | 2022-07-11 |  |
 | [Gotas](https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Gotas](https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB) | 3:35 | 2022-05-06 |  |
-| [Gravedad](https://open.spotify.com/track/5q7BpsT3LJ4Il38ksJlDU1) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Gravedad](https://open.spotify.com/album/41HCCPohSanX5WyWFrKDgN) | 4:25 | 2022-03-25 |  |
+| [Gravedad](https://open.spotify.com/track/5q7BpsT3LJ4Il38ksJlDU1) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Gravedad](https://open.spotify.com/album/41HCCPohSanX5WyWFrKDgN) | 4:25 | 2022-03-25 | 2023-03-18 |
 | [Hasta Mañana](https://open.spotify.com/track/6EXT5R2CmA4KbXVEbw24og) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [todo va a estar bien :\)](https://open.spotify.com/album/28vgZhRk1d58NrJXERHMQz) | 3:49 | 2022-12-02 | 2023-02-04 |
 | [Hasta Mañana](https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P.O.N](https://open.spotify.com/album/716BZhl3283diYxQJZCSyF) | 2:54 | 2022-07-04 | 2023-01-21 |
 | [He comprado ❁](https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [He comprado ❁](https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML) | 2:36 | 2022-12-02 |  |
@@ -159,7 +161,7 @@
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2022-03-25 | 2022-06-25 |
 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 | 2022-03-25 |  |
 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 | 2022-03-25 | 2022-04-19 |
-| [Oniros \(Bacalar\)](https://open.spotify.com/track/7Fj4QOaGNsZjco1Px0Jt75) | [Azain](https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8) | [Oniros \(Bacalar\)](https://open.spotify.com/album/3PA5CHZiXWtBHlaebey22e) | 4:06 | 2023-02-24 |  |
+| [Oniros \(Bacalar\)](https://open.spotify.com/track/7Fj4QOaGNsZjco1Px0Jt75) | [Azain](https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8) | [Oniros \(Bacalar\)](https://open.spotify.com/album/3PA5CHZiXWtBHlaebey22e) | 4:06 | 2023-02-24 | 2023-03-18 |
 | [Origami](https://open.spotify.com/track/6OwCDKci5J0HlQfpYlKe9f) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Origami](https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD) | 3:01 | 2023-02-24 |  |
 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 | 2022-06-24 | 2022-08-20 |
 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 | 2022-03-25 | 2022-07-05 |

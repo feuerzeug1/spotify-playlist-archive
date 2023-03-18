@@ -4,11 +4,12 @@
 
 > The extraordinary women making great country music today\. Cover: Ingrid Andress
 
-313 songs - 17 hr 8 min
+314 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Years](https://open.spotify.com/track/5wLFq2Gu7YomnXRw8wwX6g) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [100 Years](https://open.spotify.com/album/3bpXxgMyuQNlM1EdM7VI7Y) | 3:42 | 2022-03-25 | 2022-04-20 |
+| [20Something](https://open.spotify.com/track/75CBAcsuwlFdLDt7lLzgVc) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [20Something](https://open.spotify.com/album/0tIU8Lg0dDr9VhWcDJM12C) | 3:09 | 2023-03-17 |  |
 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 | 2021-12-01 |  |
 | [Act Like You Don't](https://open.spotify.com/track/0q6FfCDdYn9VNucILsROWk) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Welcome to the Weekend](https://open.spotify.com/album/1lGTiWiRf5AiLmaFGCZcAZ) | 3:52 | 2022-03-25 | 2022-04-21 |
 | [Ain't That Hard](https://open.spotify.com/track/0zugwsQ23vrpGmdkPvA7Gp) | [Lauren Jenkins](https://open.spotify.com/artist/1whTajjCTeh30qVZD4jSov) | [Ain't That Hard](https://open.spotify.com/album/31dzGWG9T9p8ltXg7UNAwV) | 3:06 | 2022-03-25 | 2022-04-15 |
@@ -310,7 +311,7 @@
 | [Wilder Days](https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/4DGpT3ZtTOumlxhbmw69DD) | 4:11 | 2021-12-01 | 2022-04-02 |
 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 | 2022-03-01 |  |
 | [Wish You Were The Whiskey](https://open.spotify.com/track/0YgQrY9oevTTBbqVicOzmq) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Priscilla Block](https://open.spotify.com/album/2pcagssPXqLTdRVDSPf28Y) | 3:08 | 2021-12-01 | 2022-07-29 |
-| [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 | 2021-12-01 |  |
+| [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 | 2021-12-01 | 2023-03-18 |
 | [Worth It](https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:26 | 2021-12-01 | 2023-03-04 |
 | [Wreck Me](https://open.spotify.com/track/5fDfAiGTEmqdR5yq4XUVgK) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Wreck Me](https://open.spotify.com/album/7CrpT8iWUYllCSZ8p0cEnU) | 3:29 | 2021-12-01 | 2022-04-18 |
 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 | 2022-03-25 |  |

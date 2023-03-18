@@ -1,12 +1,12 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Covet",
-  "num_followers": 115904,
+  "num_followers": 116063,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMDQ0NWIyNTZjMDJkOTYxODhhZjE0Y2RjY2M4YzYyMTMw",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGVmMTVmNWZlNDBkZjQyMTliOGY4MWRlY2Y3YWNjYWQw",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -23,6 +23,26 @@
       "duration_ms": 280235,
       "name": "firebird",
       "url": "https://open.spotify.com/track/4aVjtxZglv9VpHiOvb2F6m"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Krasno/Moore Project: Book of Queens",
+        "url": "https://open.spotify.com/album/6RwGvHFkks31pCeLlto8Dy"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        },
+        {
+          "name": "Stanton Moore",
+          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
+        }
+      ],
+      "duration_ms": 294240,
+      "name": "You Know I\u2019m No Good",
+      "url": "https://open.spotify.com/track/4GTj8Qz1nVtB4miu8Bu8ll"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -95,30 +115,6 @@
       "duration_ms": 251490,
       "name": "Projekt 13",
       "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Stay High [Feat. Cory Henry]",
-        "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        },
-        {
-          "name": "Stanton Moore",
-          "url": "https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 193551,
-      "name": "Stay High [Feat. Cory Henry]",
-      "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -241,10 +237,10 @@
       "url": "https://open.spotify.com/track/3WfjYZbJiVpdjPdeduMLFX"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "U R the 1!",
-        "url": "https://open.spotify.com/album/0uTLJAXgXuNa2WvZSb9cf9"
+        "name": "Hail to Edward",
+        "url": "https://open.spotify.com/album/7xkib6j7r7SXu8ZDbaCshY"
       },
       "artists": [
         {
@@ -252,25 +248,9 @@
           "url": "https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV"
         }
       ],
-      "duration_ms": 216354,
-      "name": "U R the 1!",
-      "url": "https://open.spotify.com/track/7lfmDk9ZLPJHSFtmjpDdc5"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Playing God",
-        "url": "https://open.spotify.com/album/3rHwz3EQwsQXdsXvSWE1N4"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        }
-      ],
-      "duration_ms": 205925,
-      "name": "Playing God",
-      "url": "https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU"
+      "duration_ms": 106479,
+      "name": "Hail to Edward",
+      "url": "https://open.spotify.com/track/32qCAK8cMoorOUnjUbFWAh"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -303,6 +283,22 @@
       "duration_ms": 274426,
       "name": "Revenge Of The Nerd",
       "url": "https://open.spotify.com/track/2oPdW4tRE5sc7xJYdhz6XM"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Playing God",
+        "url": "https://open.spotify.com/album/3rHwz3EQwsQXdsXvSWE1N4"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        }
+      ],
+      "duration_ms": 205925,
+      "name": "Playing God",
+      "url": "https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU"
     },
     {
       "added_at": "2021-05-04 18:30:17",

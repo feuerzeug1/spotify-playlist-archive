@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Olivia Khoury Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,557 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,833 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 70 | [Dream Cycles](https://open.spotify.com/track/6R2ZkMV4s9kZLfqWDnjLae) | [Noah Kellman](https://open.spotify.com/artist/0IAsPAh0paR3ITchGRbda0), [Lorenzo Ferrero](https://open.spotify.com/artist/6br0HOs1Qp9CKJngm28FyG) | [Dream Cycles](https://open.spotify.com/album/3Q3I8LNija9g9rlhaAllC7) | 5:44 |
 | 71 | [offshore](https://open.spotify.com/track/6sXJHN2YrlEtmhgXyjDp7u) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [offshore](https://open.spotify.com/album/2FYMP9FOs7du0tHHFFpwyt) | 8:04 |
 | 72 | [Teatro Kabuki](https://open.spotify.com/track/4ni65Jg9quhyNp0PXLU0hR) | [Fred Red](https://open.spotify.com/artist/7jZQdP8ZyE3hXyP66y51Bx), [Malik Diao](https://open.spotify.com/artist/7IxwZNOXJe9NktbZmWNiHV) | [Teatro Kabuki](https://open.spotify.com/album/19vgHEjvea39kZgeLKx6ik) | 3:02 |
-| 73 | [Buffering Proem](https://open.spotify.com/track/44YwWHyKWwNgiTMifkfaSl) | [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf), [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Oportet 475](https://open.spotify.com/album/3fdEVibDOZlEGVIBBs4YxK) | 3:05 |
+| 73 | [Buffering Proem](https://open.spotify.com/track/44YwWHyKWwNgiTMifkfaSl) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf) | [Oportet 475](https://open.spotify.com/album/3fdEVibDOZlEGVIBBs4YxK) | 3:05 |
 | 74 | [Rising Sun](https://open.spotify.com/track/303aCNMR2UCsQYBZ0b526Z) | [Aberdeen](https://open.spotify.com/artist/6Jmcju6CMozorqHCVoQB2e) | [Rising Sun](https://open.spotify.com/album/2lZvgkYsh1m3thQeW0pAPY) | 6:06 |
 | 75 | [matter](https://open.spotify.com/track/5zvkuCpPtkP3iW5GdubZCa) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Chloe Kibble](https://open.spotify.com/artist/5cQSNL47g1aGl81nwFAxJy) | [matter](https://open.spotify.com/album/1KuGOEYZFDDzxjVj4w5PlO) | 3:05 |
 

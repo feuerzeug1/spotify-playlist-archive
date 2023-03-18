@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/605vahHBubym41BAEumJz5"
+      },
+      "artists": [
+        {
+          "name": "Phil\u00f3",
+          "url": "https://open.spotify.com/artist/4Fa4skLUM0AQbzqOqknYbS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156129,
+      "name": "Canvas",
+      "url": "https://open.spotify.com/track/7wjaxqy8HJOMfX1qoZNdTZ"
+    },
+    {
+      "album": {
         "name": "Castles High, Marble Bright",
         "url": "https://open.spotify.com/album/2naFg4XWh3or9sRiTGA2BX"
       },
@@ -3928,6 +3946,24 @@
       "duration_ms": 287106,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/4I5kQyAYTvwHEIiZIP8B2j"
+    },
+    {
+      "album": {
+        "name": "Icicles",
+        "url": "https://open.spotify.com/album/1vZJgzMPXGWJ5P5MIlUeE9"
+      },
+      "artists": [
+        {
+          "name": "Joy Parade",
+          "url": "https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146866,
+      "name": "Icicles",
+      "url": "https://open.spotify.com/track/7Cr1H2QTtm9KXobncJOkJF"
     },
     {
       "album": {
@@ -7215,6 +7251,24 @@
     },
     {
       "album": {
+        "name": "Sharing is Caring",
+        "url": "https://open.spotify.com/album/6mxT3VfuMlWpvg2vryCBLI"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131591,
+      "name": "Sharing is Caring",
+      "url": "https://open.spotify.com/track/09o3Sp5xVj63YQIoMmPHad"
+    },
+    {
+      "album": {
         "name": "Still Waters",
         "url": "https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL"
       },
@@ -7860,6 +7914,24 @@
       "duration_ms": 175776,
       "name": "summer silence",
       "url": "https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS"
+    },
+    {
+      "album": {
+        "name": "Summer Vibes",
+        "url": "https://open.spotify.com/album/3gwWS1s7nf2N4FWUv3J051"
+      },
+      "artists": [
+        {
+          "name": "Serenity Within",
+          "url": "https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156753,
+      "name": "Summer Vibes",
+      "url": "https://open.spotify.com/track/3nBn6Ox2yVzTuAmi2rbo9H"
     },
     {
       "album": {

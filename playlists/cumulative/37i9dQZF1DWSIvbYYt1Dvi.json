@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "yago opr\u00f3prio \u00e9 AULAS ",
+  "description": "haikaiss \u00e9 AULAS ",
   "name": "AULAS",
   "tracks": [
     {
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 75453,
       "name": "DoisTr\u00eas",
       "url": "https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l"
@@ -2398,6 +2398,28 @@
       "duration_ms": 311632,
       "name": "O Casamento",
       "url": "https://open.spotify.com/track/3V6feL88EALl8u7SLKQYfP"
+    },
+    {
+      "album": {
+        "name": "O Retorno do Boom Bap",
+        "url": "https://open.spotify.com/album/78P3DjnaXto02ICg8AJCQU"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        },
+        {
+          "name": "Nicz",
+          "url": "https://open.spotify.com/artist/3zrfpaMeAt3fzvXkB80zE4"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238654,
+      "name": "O Retorno do Boom Bap",
+      "url": "https://open.spotify.com/track/4lxQLYOpjDDBIcX0MBmyaa"
     },
     {
       "album": {
@@ -4029,6 +4051,32 @@
     },
     {
       "album": {
+        "name": "Vim da Lama",
+        "url": "https://open.spotify.com/album/5m9mQG6q7vWB16c4FPVoa5"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Lil Ticy",
+          "url": "https://open.spotify.com/artist/6LqIXTKtoJobKSOkgMjfo5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Vim da Lama",
+      "url": "https://open.spotify.com/track/3xEYmdp7hQKQBKOorimBs4"
+    },
+    {
+      "album": {
         "name": "Vim de L\u00e1",
         "url": "https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb"
       },
@@ -4070,7 +4118,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 114285,
       "name": "Voc\u00ea N\u00e3o \u00c9 Mais Crian\u00e7a",
       "url": "https://open.spotify.com/track/5T4sMKJyVMs0CH1f3iIYLv"

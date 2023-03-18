@@ -1,28 +1,48 @@
 {
   "description": "The soundtrack to the internet. Cover: Ken Carson",
-  "num_followers": 1317530,
+  "num_followers": 1318805,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODkxMTcwNSwwMDAwMDAwMDRlNzg1MzZhNzhhZmZkMjNkNWNmNjhjZDNjMTliMzM3",
+  "snapshot_id": "MTY3OTA3OTE5OSwwMDAwMDAwMDcyZWZkNDE3N2Q4MWQxNTlmZWJhMTlhM2FjNWM3NWYy",
   "tracks": [
     {
-      "added_at": "2023-03-07 16:50:50",
+      "added_at": "2023-03-17 18:53:19",
       "album": {
-        "name": "Aft\u00ebrLyfe",
-        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         }
       ],
-      "duration_ms": 150453,
-      "name": "Mys\u00eblf",
-      "url": "https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy"
+      "duration_ms": 137440,
+      "name": "Dumbest Girl Alive",
+      "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Lean Beef Patty",
+        "url": "https://open.spotify.com/album/5ee7NlaQZi5TYOXRghp04b"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 107205,
+      "name": "Lean Beef Patty",
+      "url": "https://open.spotify.com/track/1qbADMsKCFmu08MhWPTZpb"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -57,6 +77,22 @@
       "url": "https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn"
     },
     {
+      "added_at": "2023-03-07 16:50:50",
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 150453,
+      "name": "Mys\u00eblf",
+      "url": "https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy"
+    },
+    {
       "added_at": "2023-03-15 16:22:26",
       "album": {
         "name": "Blicky",
@@ -87,6 +123,26 @@
       "duration_ms": 80352,
       "name": "Out On Bond",
       "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Not A Beanie",
+        "url": "https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 136783,
+      "name": "Not A Beanie",
+      "url": "https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -125,6 +181,42 @@
       "url": "https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu"
     },
     {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Gone (sped up)",
+        "url": "https://open.spotify.com/album/1p6EfDB7huUNYmQE9EDCwl"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Ardeycat",
+          "url": "https://open.spotify.com/artist/34Nu2mFDOVCEab7z18ceOo"
+        }
+      ],
+      "duration_ms": 111754,
+      "name": "Gone (sped up)",
+      "url": "https://open.spotify.com/track/6dj6mwfnLiCp20cslQEcOE"
+    },
+    {
+      "added_at": "2023-02-10 18:26:46",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
       "added_at": "2023-03-07 16:51:37",
       "album": {
         "name": ">one (greater than one)",
@@ -145,6 +237,22 @@
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "HIMBO/GOD'S LONELY MAN",
+        "url": "https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        }
+      ],
+      "duration_ms": 113170,
+      "name": "HIMBO",
+      "url": "https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD"
+    },
+    {
       "added_at": "2023-01-25 05:00:00",
       "album": {
         "name": "Tally (with Denzel Curry)",
@@ -163,22 +271,6 @@
       "duration_ms": 147745,
       "name": "Tally (with Denzel Curry)",
       "url": "https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo"
-    },
-    {
-      "added_at": "2023-02-10 18:26:46",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "added_at": "2023-02-14 16:35:41",
@@ -221,22 +313,6 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2023-02-09 20:50:09",
-      "album": {
-        "name": "Let U Go",
-        "url": "https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72"
-      },
-      "artists": [
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        }
-      ],
-      "duration_ms": 128004,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV"
-    },
-    {
       "added_at": "2023-03-10 05:01:00",
       "album": {
         "name": "29",
@@ -257,6 +333,22 @@
       "url": "https://open.spotify.com/track/11HCblH3YChzvCTGUB1hcs"
     },
     {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "buku",
+        "url": "https://open.spotify.com/album/6QUVQ5TjZippT8Nl0oEDog"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "buku",
+      "url": "https://open.spotify.com/track/7eOAf1CKZenIfLyaV01MgX"
+    },
+    {
       "added_at": "2023-01-06 16:07:46",
       "album": {
         "name": "NS+ (ULTRA)",
@@ -273,6 +365,22 @@
       "url": "https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ"
     },
     {
+      "added_at": "2023-02-09 20:50:09",
+      "album": {
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        }
+      ],
+      "duration_ms": 128004,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Trapping & Finessing",
@@ -287,6 +395,26 @@
       "duration_ms": 148333,
       "name": "Trapping & Finessing (LOVE Song)",
       "url": "https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb"
+    },
+    {
+      "added_at": "2023-02-09 20:50:09",
+      "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "Boy's a liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -307,6 +435,22 @@
       "duration_ms": 229800,
       "name": "Shmunk (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Soulpop 1",
+        "url": "https://open.spotify.com/album/5GwaRWwu9dZMuiOlKOOZAb"
+      },
+      "artists": [
+        {
+          "name": "Tony Velour",
+          "url": "https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi"
+        }
+      ],
+      "duration_ms": 82142,
+      "name": "s3lf",
+      "url": "https://open.spotify.com/track/59r61Bp9QribPoN9XizQhx"
     },
     {
       "added_at": "2023-02-16 19:58:57",
@@ -403,26 +547,6 @@
       "duration_ms": 167466,
       "name": "Tru Tru",
       "url": "https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW"
-    },
-    {
-      "added_at": "2023-02-09 20:50:09",
-      "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
       "added_at": "2023-02-14 16:35:41",
@@ -528,7 +652,7 @@
           "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
         }
       ],
-      "duration_ms": 132000,
+      "duration_ms": 133999,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/0HnqWiIHn9Q09QQC9EwTAT"
     },
@@ -617,20 +741,20 @@
       "url": "https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco"
     },
     {
-      "added_at": "2022-10-18 15:56:06",
+      "added_at": "2022-09-12 19:59:46",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+        "name": "Baby Shark",
+        "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "RALAN STYLES",
+          "url": "https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY"
         }
       ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+      "duration_ms": 156059,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
     },
     {
       "added_at": "2023-01-30 15:27:56",
@@ -695,22 +819,6 @@
       "duration_ms": 149563,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/0Zo8a2oMdEKCBPFszXtxqN"
-    },
-    {
-      "added_at": "2023-02-17 14:05:55",
-      "album": {
-        "name": "Yellow Tape 2",
-        "url": "https://open.spotify.com/album/7snqOEQEtKqxJw3NTGml6i"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "Ambition For Cash",
-      "url": "https://open.spotify.com/track/4mIHgQ3ofK2RK34UdbqMbe"
     },
     {
       "added_at": "2023-01-19 20:13:54",
@@ -871,38 +979,6 @@
       "duration_ms": 128056,
       "name": "yeaaaa",
       "url": "https://open.spotify.com/track/3wuwYbTlppthVAPixdbQma"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Luv Is Rage",
-        "url": "https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Top",
-      "url": "https://open.spotify.com/track/55Q46o5adtSobImSKrrlqW"
-    },
-    {
-      "added_at": "2022-09-12 19:59:46",
-      "album": {
-        "name": "Baby Shark",
-        "url": "https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ"
-      },
-      "artists": [
-        {
-          "name": "RALAN STYLES",
-          "url": "https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY"
-        }
-      ],
-      "duration_ms": 156059,
-      "name": "Baby Shark",
-      "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1617,26 +1693,6 @@
       "url": "https://open.spotify.com/track/4UEKSWhyeuqaeDM1BXeypE"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Pink Heartz",
-        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
-      },
-      "artists": [
-        {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 213704,
-      "name": "Stay Awake",
-      "url": "https://open.spotify.com/track/5k9kxCcae70vUElndjveXT"
-    },
-    {
       "added_at": "2022-08-23 18:39:35",
       "album": {
         "name": "A Love Letter To You 4",
@@ -1739,22 +1795,6 @@
       "duration_ms": 102872,
       "name": "6000 Degrees (AH HA)",
       "url": "https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG"
-    },
-    {
-      "added_at": "2022-09-27 21:07:41",
-      "album": {
-        "name": "FLAWLESS LIKE ME",
-        "url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "COINCIDENCE",
-      "url": "https://open.spotify.com/track/4Y3E5Y3kaBJqFc1vmSyg7V"
     }
   ],
   "unique_name": "Internet People",

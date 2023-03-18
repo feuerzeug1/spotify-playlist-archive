@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: HUH YUNJIN",
-  "num_followers": 743350,
+  "num_followers": 744493,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg2NTMzNywwMDAwMDAwMDIyNzE5YzMzMGIxMjFjODk2Yjg1MDQ1YmIxMjJmMGNk",
+  "snapshot_id": "MTY3ODk4ODY5NSwwMDAwMDAwMGU0NzNjYzE0YWVmMWY3NjllZDEzNjY3YTJhZThhZmJl",
   "tracks": [
     {
       "added_at": "2023-03-15 07:28:57",
@@ -39,6 +39,38 @@
       "duration_ms": 202053,
       "name": "Groovy",
       "url": "https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph"
+    },
+    {
+      "added_at": "2023-03-16 17:44:55",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XAl1NxzmOcAgtXNwYjqWn"
+      },
+      "artists": [
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "BlackNut",
+          "url": "https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ"
+        },
+        {
+          "name": "Jimmy Paige",
+          "url": "https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "SMUGGLERS",
+          "url": "https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Grrr - Spotify Singles",
+      "url": "https://open.spotify.com/track/2UrBX2cG7ZSnN2SbgspmtK"
     },
     {
       "added_at": "2023-03-15 07:28:57",

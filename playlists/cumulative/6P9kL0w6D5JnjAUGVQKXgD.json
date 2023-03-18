@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Armand Van Helden, Karen Harding, Jonasu",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Armand Van Helden, Karen Harding, Biscits",
   "name": "EDM Top 100",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2020-08-31",
+      "date_removed": null,
       "duration_ms": 165004,
       "name": "Addict",
       "url": "https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 165580,
       "name": "Against The Rest",
       "url": "https://open.spotify.com/track/6IPkf3kASYGkgeHuvxRMXO"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
@@ -3886,6 +3886,28 @@
       "duration_ms": 273386,
       "name": "Bussifame",
       "url": "https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K"
+    },
+    {
+      "album": {
+        "name": "Gigi D'agostino Collection, Vol. 2",
+        "url": "https://open.spotify.com/album/7JCFhZKshjfyWO7wkPlkwj"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        },
+        {
+          "name": "Luca Noise",
+          "url": "https://open.spotify.com/artist/37lWhP4Hjuy1M30QaG06KA"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198759,
+      "name": "But Not Tonight (Gigi Dag & Luca Noise Dance Mix)",
+      "url": "https://open.spotify.com/track/1PBZ77D3S8Ist2Fvifucy4"
     },
     {
       "album": {
@@ -7046,7 +7068,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2020-05-27",
+      "date_removed": null,
       "duration_ms": 157338,
       "name": "Don't Hide",
       "url": "https://open.spotify.com/track/5Ddp5V1M84fKmXbtDhASu0"
@@ -7648,6 +7670,28 @@
       "duration_ms": 174062,
       "name": "Drown (feat. Clinton Kane)",
       "url": "https://open.spotify.com/track/4RVtBlHFKj51Ipvpfv5ER4"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/6csTWfO8W5cWyWgnu2VlDd"
+      },
+      "artists": [
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Jaime Deraz",
+          "url": "https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124920,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/124q7s4DH4rrbl5O4HdVal"
     },
     {
       "album": {
@@ -8956,7 +9000,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 189259,
       "name": "Feeling Good - Joel Corry Remix",
       "url": "https://open.spotify.com/track/3hnm3SBxKdVT4hKUrKHo2r"
@@ -9168,7 +9212,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 175164,
       "name": "Find Your Way - Alle Farben Radio Edit",
       "url": "https://open.spotify.com/track/0nUnsdDbN127jU3P5KtAeA"
@@ -10450,6 +10494,24 @@
       "duration_ms": 203751,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
+    },
+    {
+      "album": {
+        "name": "Glue",
+        "url": "https://open.spotify.com/album/5hXjtSmicQETbDf1HNfEeD"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269149,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/5ZYAufbhkzyhLxk0u2uLqj"
     },
     {
       "album": {
@@ -14982,7 +15044,7 @@
       ],
       "date_added": "2020-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 228629,
       "name": "Kiss from God - mint Singles",
       "url": "https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg"
@@ -16364,7 +16426,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-30",
+      "date_removed": null,
       "duration_ms": 222720,
       "name": "Looking For",
       "url": "https://open.spotify.com/track/2CuAhhmXRqvWPTEDNTh6mk"
@@ -17844,7 +17906,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 202222,
       "name": "Momma Always Told Me (feat. Stanaj & Yung Bae) - Matoma Remix",
       "url": "https://open.spotify.com/track/6QD2VjrjttjljqUZPf9R89"
@@ -18806,7 +18868,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 158164,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/1jL3wCuXRWlTrpqO0pXLzg"
@@ -18942,7 +19004,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 227076,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/28nEJf4VCUQ2srQgwPNWdA"
@@ -20638,7 +20700,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 296240,
       "name": "Outside (feat. Ellie Goulding) - Hardwell Remix",
       "url": "https://open.spotify.com/track/5F65SKdHWD9l4Nl4kgMcWG"
@@ -21572,7 +21634,7 @@
       ],
       "date_added": "2021-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-04-20",
+      "date_removed": null,
       "duration_ms": 226266,
       "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
       "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
@@ -22668,7 +22730,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 150000,
       "name": "Roll 'n Rock",
       "url": "https://open.spotify.com/track/7p2a3eDdVHD7xlwSFstAsF"
@@ -24329,6 +24391,24 @@
     },
     {
       "album": {
+        "name": "Sing It",
+        "url": "https://open.spotify.com/album/5W2EOrLc1lKKPZwu6Hmc20"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Sing It",
+      "url": "https://open.spotify.com/track/3g5uTRDCdcUgylKH4wmkTW"
+    },
+    {
+      "album": {
         "name": "Sing Me to Sleep",
         "url": "https://open.spotify.com/album/6v6EzwVvKfFZfThip9675y"
       },
@@ -24572,7 +24652,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-01-18",
+      "date_removed": null,
       "duration_ms": 213007,
       "name": "So What",
       "url": "https://open.spotify.com/track/0H6hQg7DnEIqnfzPsgNVPi"
@@ -24802,7 +24882,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"
@@ -25000,7 +25080,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 232211,
       "name": "Soul Sacrifice",
       "url": "https://open.spotify.com/track/01fVbxyW9y2oKdXvg56uE5"
@@ -25478,7 +25558,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 150266,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/6IXJVJ5W109zQcQw2U0pUG"
@@ -26250,7 +26330,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 176930,
       "name": "Sweet Talker",
       "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
@@ -26596,7 +26676,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-24",
+      "date_removed": null,
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
@@ -26644,6 +26724,24 @@
       "duration_ms": 247971,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1kUXY34ylBRzwtCNgJp2LO"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5DnDxf2IIknCYRYzIY5BYH"
+      },
+      "artists": [
+        {
+          "name": "Loran",
+          "url": "https://open.spotify.com/artist/3lYJhHEuDIKj2rqXeNFHxD"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6I5DbN0LH6VpPGPeGSnYj5"
     },
     {
       "album": {
@@ -28200,7 +28298,7 @@
       ],
       "date_added": "2020-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 116297,
       "name": "Tu Tu Tu (That's Why We)",
       "url": "https://open.spotify.com/track/3qY5bS9bKs5HedrAiWfP6x"
@@ -28244,7 +28342,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 220560,
       "name": "Turn On the Bass",
       "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
@@ -29928,7 +30026,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
@@ -30214,7 +30312,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 208253,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
@@ -30704,7 +30802,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 209523,
       "name": "Work That Body - Radio Edit",
       "url": "https://open.spotify.com/track/2DqigqUtFKTB0XLWOF7hGj"

@@ -4,7 +4,7 @@
 
 > Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! / 音楽で辿る、2009年放送開始のアニメ「鋼の錬金術師 FULLMETAL ALCHEMIST」の世界。<a href="https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv?si=476b380d14f24147">鋼の錬金術師</a>\(2003年放送開始\)はこちら\(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
 
-108 songs - 4 hr 30 min
+109 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [レイン](https://open.spotify.com/track/4hKUNjXvTRp1Xpv9n4O8IK) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [レイン](https://open.spotify.com/album/1GbrjrBv1o9AHZolbFP9Jw) | 4:16 | 2022-05-26 |  |
 | [光の射す場所](https://open.spotify.com/track/7GtfAidKUjQxf28lBxMt72) | [Ling Yao \(CV:Mamoru Miyano\)](https://open.spotify.com/artist/0SlP61y5P2WrKwJDAUbmv1) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 4:52 | 2022-05-26 |  |
 | [命\~MEI\~](https://open.spotify.com/track/36y7eLCwKI1dlEiNaMgOP4) | [Roy Mustang \(CV:Shinichiro Miki\)](https://open.spotify.com/artist/4YJ87lYZW8VmendkBWO6rZ) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 3:22 | 2022-05-26 |  |
-| [嘘](https://open.spotify.com/track/0ODOmKxO0CKv4DzoP3HHIC) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/4fQMNtjSYRHT1HarzAnqNy) | 3:25 | 2022-05-26 |  |
+| [嘘](https://open.spotify.com/track/0ODOmKxO0CKv4DzoP3HHIC) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/4fQMNtjSYRHT1HarzAnqNy) | 3:25 | 2022-05-26 | 2023-03-18 |
+| [嘘](https://open.spotify.com/track/5hyuqT3PwqSKtH1EUSST20) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/201JmzIdtXjfIM1mhgqSfK) | 3:25 | 2022-12-02 |  |
 | [夢の原石](https://open.spotify.com/track/5MKN8qMkq6jllEnXh8nuVz) | [Edward Elric \(CV:Romi Park\)](https://open.spotify.com/artist/2buz90uVib8YvBaA1Ew8Wt) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 4:19 | 2022-05-26 |  |
 | [瞬間センチメンタル](https://open.spotify.com/track/2CFY24ovop3Ueel7ECzw0Y) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [瞬間センチメンタル](https://open.spotify.com/album/62O4WeE1UZtdtCFrAcjHBP) | 3:46 | 2022-05-26 |  |
 | [空を仰げば](https://open.spotify.com/track/6GJhawyIwPE8FkyuDI5Wdf) | [Winry Rockbell \(CV:Megumi Takamoto\)](https://open.spotify.com/artist/5A67I4O5hr14w5vq98sZp7) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 4:20 | 2022-05-26 |  |

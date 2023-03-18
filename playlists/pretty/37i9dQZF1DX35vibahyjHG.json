@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=312E76uVTZu4eH2WGEQQNw\"> Tyla</a>",
-  "num_followers": 87774,
+  "num_followers": 87804,
   "original_name": "EQUAL Africa ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY2Mzk2MSwwMDAwMDAwMDFiYTJhMmU3YzVlN2JkYzEyOGU0Y2NjYzIzYzg1MjQy",
+  "snapshot_id": "MTY3NzY2Mzk2MSwwMDAwMDAwMDIzZWY5NGRkMDI5MGQ4ZTlkOTc0N2JjZmVmMmQyYjVi",
   "tracks": [
     {
       "added_at": "2023-03-01 09:46:01",
@@ -59,18 +59,22 @@
     {
       "added_at": "2023-03-01 09:46:01",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+        "name": "People (feat. Cian Ducrot) [Remix]",
+        "url": "https://open.spotify.com/album/2iBbNFC5oZdKfqQyiSEfXx"
       },
       "artists": [
         {
           "name": "Libianca",
           "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+      "duration_ms": 184633,
+      "name": "People (feat. Cian Ducrot)",
+      "url": "https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q"
     },
     {
       "added_at": "2023-03-01 09:46:01",

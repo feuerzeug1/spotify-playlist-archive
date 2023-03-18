@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Anarchy",
+        "url": "https://open.spotify.com/album/5jTGJaYpZ8ifetpJAjRQmK"
+      },
+      "artists": [
+        {
+          "name": "MT11",
+          "url": "https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197343,
+      "name": "Anarchy",
+      "url": "https://open.spotify.com/track/7EQr5uQA2EafjldVAV2vkx"
+    },
+    {
+      "album": {
         "name": "Android",
         "url": "https://open.spotify.com/album/4LWlEIlGzCjoru2PaLC8PO"
       },
@@ -352,7 +370,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 261950,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/1hHtStAWuaS1iCBZCdU44x"
@@ -1042,6 +1060,28 @@
       "duration_ms": 201290,
       "name": "heavy metals",
       "url": "https://open.spotify.com/track/4sI100hB4VQQqHQonPq9I2"
+    },
+    {
+      "album": {
+        "name": "Higher (feat. Eso.XO.Supreme)",
+        "url": "https://open.spotify.com/album/5sMgGok0VfV3zg5uhopzXj"
+      },
+      "artists": [
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "name": "Eso.XO.Supreme",
+          "url": "https://open.spotify.com/artist/12VfdgL4i9hoFoaIFdE7qV"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "Higher (feat. Eso.XO.Supreme)",
+      "url": "https://open.spotify.com/track/5SETcigvLiz4rQ3eUjR0k4"
     },
     {
       "album": {
@@ -2632,10 +2672,32 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 169687,
       "name": "Traces Of You",
       "url": "https://open.spotify.com/track/1V0mxw6kWF2edrzAE97I4g"
+    },
+    {
+      "album": {
+        "name": "Traces Of You (Luca Lush Remix)",
+        "url": "https://open.spotify.com/album/22sXlmZEldxRakyvyv6GyW"
+      },
+      "artists": [
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        },
+        {
+          "name": "Luca Lush",
+          "url": "https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323007,
+      "name": "Traces Of You - Luca Lush Remix",
+      "url": "https://open.spotify.com/track/2YfkhjbPbmnkRfXZ2q1cVI"
     },
     {
       "album": {
@@ -2852,7 +2914,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 171428,
       "name": "Wait For You - Radio Edit",
       "url": "https://open.spotify.com/track/1Mge9Dsm61dHkXVQkLY2Es"

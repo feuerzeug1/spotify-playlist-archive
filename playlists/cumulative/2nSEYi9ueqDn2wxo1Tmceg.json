@@ -4003,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/68QR2RcoZoi8dMK0p0gLdm"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285308,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/21sMYVKeuKzBWwSg5uYeVJ"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/1v30M9fQVZntSi3Gz0eSUs"
       },

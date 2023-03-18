@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 375155,
+  "num_followers": 376064,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4Nzc3NywwMDAwMDAwMGYxNDU2NzU5YjViMzJlZDg1YzZkYTZmMzkwZjc0ZGRj",
+  "snapshot_id": "MTY3ODQ4Nzc3NywwMDAwMDAwMDg0NjM2YTUxY2E1MDRhN2VjZDg2NTFlN2YxZjJiMjVk",
   "tracks": [
     {
       "added_at": "2023-03-10 22:36:17",
@@ -119,18 +119,18 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Encore - Live and Direct",
-        "url": "https://open.spotify.com/album/7CGUilfpm6TSrKtNRP43s2"
+        "name": "Forever Faithless - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
       },
       "artists": [
         {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
         }
       ],
-      "duration_ms": 208933,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/2zhGnnDewN4kBsVzbqjBtX"
+      "duration_ms": 208506,
+      "name": "God Is a DJ",
+      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Forever Faithless - The Greatest Hits",
-        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
+        "name": "Encore - Live and Direct",
+        "url": "https://open.spotify.com/album/7CGUilfpm6TSrKtNRP43s2"
       },
       "artists": [
         {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 208506,
-      "name": "God Is a DJ",
-      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
+      "duration_ms": 208933,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/2zhGnnDewN4kBsVzbqjBtX"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -287,30 +287,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "On The Beach",
-        "url": "https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9"
-      },
-      "artists": [
-        {
-          "name": "York",
-          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
-        },
-        {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
-        },
-        {
-          "name": "CRW",
-          "url": "https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "On The Beach - Mauro Picotto's CRW Remix",
-      "url": "https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "Faithless 2.0",
         "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
       },
@@ -335,6 +311,30 @@
       "duration_ms": 518221,
       "name": "Insomnia - Monster Mix",
       "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "On The Beach",
+        "url": "https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9"
+      },
+      "artists": [
+        {
+          "name": "York",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        },
+        {
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+        },
+        {
+          "name": "CRW",
+          "url": "https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "On The Beach - Mauro Picotto's CRW Remix",
+      "url": "https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Carte Blanche (Ilan Bluestone Remix)",
-        "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
-      },
-      "artists": [
-        {
-          "name": "Veracocha",
-          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
-        }
-      ],
-      "duration_ms": 204396,
-      "name": "Carte Blanche - FM Edit",
-      "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "Vocal Trance Hits - The Anthems",
         "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky",
       "url": "https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Carte Blanche (Ilan Bluestone Remix)",
+        "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
+      },
+      "artists": [
+        {
+          "name": "Veracocha",
+          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
+        }
+      ],
+      "duration_ms": 204396,
+      "name": "Carte Blanche - FM Edit",
+      "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
-        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
-      },
-      "artists": [
-        {
-          "name": "Energy 52",
-          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
-        },
-        {
-          "name": "Marco V",
-          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "Caf\u00e9 Del Mar - Marco V Remix Radio Edit",
-      "url": "https://open.spotify.com/track/6z91SyGlPsllxhnG2Aw0Fb"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "Armada Collected: John O'Callaghan",
         "url": "https://open.spotify.com/album/0ji0T5B0uXzJZibt3ccSGq"
       },
@@ -631,22 +611,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Coming On Strong (ReOrder Remix)",
-        "url": "https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3"
+        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
+        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
       },
       "artists": [
         {
-          "name": "Signum",
-          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+          "name": "Energy 52",
+          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
         },
         {
-          "name": "Scott Mac",
-          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
         }
       ],
-      "duration_ms": 199719,
-      "name": "Coming On Strong",
-      "url": "https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb"
+      "duration_ms": 186480,
+      "name": "Caf\u00e9 Del Mar - Marco V Remix Radio Edit",
+      "url": "https://open.spotify.com/track/6z91SyGlPsllxhnG2Aw0Fb"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -663,6 +643,26 @@
       "duration_ms": 217146,
       "name": "Gouryella",
       "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Coming On Strong (ReOrder Remix)",
+        "url": "https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3"
+      },
+      "artists": [
+        {
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+        },
+        {
+          "name": "Scott Mac",
+          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+        }
+      ],
+      "duration_ms": 199719,
+      "name": "Coming On Strong",
+      "url": "https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Bits N Pianos",
-        "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
-      },
-      "artists": [
-        {
-          "name": "SDC",
-          "url": "https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx"
-        }
-      ],
-      "duration_ms": 329337,
-      "name": "Bits N Pianos",
-      "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "C'est Musique (Armin van Buuren Mix)",
         "url": "https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 669685,
       "name": "C'est Musique - Armin van Buuren Mix",
       "url": "https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Bits N Pianos",
+        "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
+      },
+      "artists": [
+        {
+          "name": "SDC",
+          "url": "https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx"
+        }
+      ],
+      "duration_ms": 329337,
+      "name": "Bits N Pianos",
+      "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
     },
     {
       "added_at": "2023-03-10 22:36:17",

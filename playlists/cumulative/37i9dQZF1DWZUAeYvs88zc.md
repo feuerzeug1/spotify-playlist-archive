@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-467 songs - 1 day 2 hr 19 min
+468 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [H8U](https://open.spotify.com/track/39HKP03tQuGicGFs6Usk30) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [H8U](https://open.spotify.com/album/5NtANPKqT1EbX4RV5QMdkX) | 3:24 | 2019-05-26\* | 2021-07-31 |
 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 | 2019-06-25 | 2021-10-27 |
 | [Hailey](https://open.spotify.com/track/1bQ5gQOyzWbPl6TXFuvi8z) | [WRENN](https://open.spotify.com/artist/1mUvCFjlnNilmIebNqKYo8) | [Hailey](https://open.spotify.com/album/1ZJA6YpalHfiMeNIjFKDmo) | 2:47 | 2021-04-15 | 2021-10-23 |
-| [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2021-10-23 |  |
+| [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2021-10-23 | 2023-03-18 |
 | [Happy](https://open.spotify.com/track/0rdE01utHXxJuJ9Zbsmf82) | [Stay Over](https://open.spotify.com/artist/2WYklsnVBJ99Jhou8xbu6m) | [Happy](https://open.spotify.com/album/3b4TarizaktXmuCVDwf3WQ) | 2:06 | 2020-04-15 | 2021-10-27 |
 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 | 2022-01-27 |  |
 | [Happy Anymore](https://open.spotify.com/track/2t9ZK3i4cxA9WZkpvf5up2) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Phobia](https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1) | 3:18 | 2019-06-25 | 2021-10-01 |
@@ -415,6 +415,7 @@
 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 | 2021-11-13 |  |
 | [The Boy Who Cried Love](https://open.spotify.com/track/2NTX4lpTcfl4BnzzX0EHXv) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [The Boy Who Cried Love](https://open.spotify.com/album/4vfxI4Ev5DxHEGHVk2I1ZJ) | 2:40 | 2022-09-02 | 2022-09-17 |
 | [The Crying Game](https://open.spotify.com/track/5XO86rMMh9lHFAa85Y48fL) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [The Pinkprint \(Deluxe Edition\)](https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC) | 4:25 | 2019-06-23 | 2019-08-09 |
+| [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-18 |  |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-07 | 2023-03-13 |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 4:34 | 2023-01-28 |  |
 | [The Mess You Made](https://open.spotify.com/track/4IkXyjNhW4dAAP3cKX0b49) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [The Mess You Made](https://open.spotify.com/album/1yXYk33me3OPes60v24XXe) | 2:50 | 2021-09-20 | 2021-09-21 |

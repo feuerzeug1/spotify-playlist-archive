@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-315 songs - 19 hr 44 min
+317 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Crass](https://open.spotify.com/track/1ltNqlKxSUM9abfYOdL0kA) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Grand National](https://open.spotify.com/album/5ZcDDiQ1rGGFMU4IBn0Zu2) | 2:53 | 2021-12-06 | 2022-07-25 |
 | [Creatures](https://open.spotify.com/track/3fSWvEVmsO5tzT2q8tWQEJ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Creatures](https://open.spotify.com/album/4JoWs1XHwoZ2LFRQOG7YeX) | 3:32 | 2021-12-06 | 2022-07-29 |
 | [Creatures](https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 | 2022-08-25 |  |
-| [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 | 2023-01-19 |  |
+| [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 | 2023-01-19 | 2023-03-18 |
 | [Crow's Perch](https://open.spotify.com/track/5Jy5UwbZvQ7kHFOPXScnvE) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Crow's Perch](https://open.spotify.com/album/0B0Z0UFqsSCUBdM2nKgSVk) | 4:05 | 2021-12-06 | 2022-07-27 |
 | [Cruising](https://open.spotify.com/track/42FoHPbDOZM1qCCCKmEvf2) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Cruising](https://open.spotify.com/album/55fNVmdLsjVNTEE7TQcbGF) | 6:27 | 2021-12-06 | 2022-07-29 |
 | [Daily Routine](https://open.spotify.com/track/3w6YBy7b80Q5pjZKBmy3dP) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Daily Routine](https://open.spotify.com/album/7uzRTehZfg7fKNguCFrsZN) | 4:24 | 2021-12-06 | 2022-07-24 |
@@ -120,7 +120,7 @@
 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 | 2022-02-25 | 2022-07-10 |
 | [Good Time Charlie](https://open.spotify.com/track/3YHEUUYqEYLzInHRNfN4bW) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Good Time Charlie](https://open.spotify.com/album/4S61h0CKciUdMo51bM3SAR) | 2:47 | 2021-12-06 | 2022-07-12 |
 | [Goodnight](https://open.spotify.com/track/4p9oD9628pjRospq8ztiCU) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Goodnight](https://open.spotify.com/album/7u57U9Is8dsIBg91dsq5lr) | 2:37 | 2021-12-06 | 2022-07-25 |
-| [Goodnight](https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 2:37 | 2022-08-25 |  |
+| [Goodnight](https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 2:37 | 2022-08-25 | 2023-03-18 |
 | [Gotta Do More Gotta Be More](https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Gotta Do More Gotta Be More](https://open.spotify.com/album/2OtLneHnXrZ3vjRMHJhjgL) | 2:37 | 2021-12-06 | 2022-07-28 |
 | [Guinness \- Edit](https://open.spotify.com/track/2wp24J3OWiDAw1I6wYJeLz) | [Good Health Good Wealth](https://open.spotify.com/artist/6oaEXmqVM7eQnzva7kHudo) | [Guinness](https://open.spotify.com/album/6pXZApwEcHeN6atzsVz4vg) | 3:28 | 2022-01-20 | 2022-04-18 |
 | [Half Full](https://open.spotify.com/track/6u10BK0FWxt58u6lMobxi5) | [Heavy Lungs](https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo) | [Measure](https://open.spotify.com/album/3zOosGBkqCzJTmC6W2brtt) | 4:19 | 2021-12-06 | 2022-07-26 |
@@ -180,6 +180,7 @@
 | [Machine](https://open.spotify.com/track/5UKFWucPL9JIiPv5oXd5Do) | [Primo!](https://open.spotify.com/artist/2vsgzWoIxqa2qjugu7a1jH) | [Sogni](https://open.spotify.com/album/6wjyemPyv0sq0KS5j64ltw) | 2:36 | 2021-12-06 | 2022-07-16 |
 | [Magic of Meghan](https://open.spotify.com/track/2aLK2WqtkW4pkBh8wH3lUn) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Magic of Meghan](https://open.spotify.com/album/5Hi1UOAuj3BVNEY2k8iiVT) | 3:50 | 2021-12-06 | 2022-07-29 |
 | [Magic of Meghan](https://open.spotify.com/track/7K8SzKEkWzuvK9JU4W6va6) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR) | 3:50 | 2022-06-16 |  |
+| [Make Way](https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Make Way](https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm) | 2:57 | 2023-03-18 |  |
 | [Male Bonding](https://open.spotify.com/track/3Mef8dlql8ngrKhOt7IAoZ) | [The Homesick](https://open.spotify.com/artist/6q5SrkgP73lW6VpQnReiaS) | [Male Bonding](https://open.spotify.com/album/0vrXRQ1v3PAO4HVIJGN5nt) | 5:21 | 2021-12-06 | 2022-07-28 |
 | [Manners](https://open.spotify.com/track/6OFhypC7nf7O2BrBcBRHiw) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [No Taste](https://open.spotify.com/album/6DMgTKIxvkURDu03kPoIrq) | 2:57 | 2021-12-06 | 2022-07-16 |
 | [Miami Lounge](https://open.spotify.com/track/0k6aOvZvxHCvkrngINKWG5) | [Peeping Drexels](https://open.spotify.com/artist/3TNNTRfUlgZFC8cbI4CVYk) | [Miami Lounge](https://open.spotify.com/album/0MWdbibdZXvw1KKca0ZZ6n) | 5:30 | 2021-12-06 | 2022-07-25 |
@@ -202,6 +203,7 @@
 | [No One Ever Talks to Us](https://open.spotify.com/track/6XasRlSqU5nIYhPBe2gNMU) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [No One Ever Talks to Us](https://open.spotify.com/album/4fkO0fyHQExouQOvX8rwxv) | 2:36 | 2022-03-11 | 2022-07-16 |
 | [Nothing Feels Natural](https://open.spotify.com/track/7jFM0wZch8oJVRVQMl2nvV) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Nothing Feels Natural](https://open.spotify.com/album/4Q4PAknSA2wgEY0VPLCqAR) | 3:59 | 2021-12-06 | 2022-07-22 |
 | [NOTICE OF FORECLOSURE](https://open.spotify.com/track/2PCnHuNdckPK468Y3Gkm3a) | [N0V3L](https://open.spotify.com/artist/7hB25IiKPmhATGtFwDbylS) | [NOTICE OF FORECLOSURE](https://open.spotify.com/album/12panx3otfLKaT8Ti0RUS8) | 3:43 | 2021-12-06 | 2022-07-25 |
+| [Nurse!](https://open.spotify.com/track/5EhYdpI1gNIrOCreDQP6Q1) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Nurse!](https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI) | 3:48 | 2023-03-18 |  |
 | [One for Feinberg](https://open.spotify.com/track/0NL7w1fKmgI7DjG1c3SKGZ) | [Sports Coach](https://open.spotify.com/artist/00bLFPoTuEnzgSQZyjw0gU) | [One for Feinberg](https://open.spotify.com/album/46cqpo7CvudGAVI0Mfp8FE) | 1:33 | 2022-03-11 | 2022-07-16 |
 | [One Man No City](https://open.spotify.com/track/1NdJo2IKt1NkVxAQNfZh47) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Human Performance](https://open.spotify.com/album/4RNew41ZeRuoRNg3YAhvpe) | 6:24 | 2022-03-11 | 2022-04-19 |
 | [One Rizla](https://open.spotify.com/track/2ibdYmH7GRHNnUcBa6kbnG) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3A1kutvBmC6czSsSv7aR5E) | 3:34 | 2021-12-06 | 2022-07-28 |

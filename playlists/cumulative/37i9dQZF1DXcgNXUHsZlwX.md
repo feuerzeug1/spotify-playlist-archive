@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-392 songs - 23 hr 10 min
+394 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Californie](https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC) | 3:25 | 2022-07-08 |  |
 | [Californie](https://open.spotify.com/track/7lfazyv2rEYZpwVC5gGxyO) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/6eUYntcnw694NcOd1tEpmT) | 3:25 | 2021-01-15 | 2022-07-29 |
 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 | 2023-03-02 |  |
+| [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-17 |  |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Carry Me \(Acoustic\)](https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv) | 3:19 | 2022-09-09 | 2022-12-17 |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/2eaH5ePewiCADzPBeXfe0C) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Acoustic\)](https://open.spotify.com/album/4eumW3GeJQ6oPqqQO1Ot82) | 3:19 | 2022-12-16 |  |
 | [Cent fois](https://open.spotify.com/track/16JTRfYQaSDfbUXsLB8sWX) | [Michèle O](https://open.spotify.com/artist/6lcg8HLVsKOtnCydhSKMji) | [Cent fois](https://open.spotify.com/album/0dpIM7Tjhz3imVgTinaC9y) | 4:17 | 2022-04-19 | 2022-05-25 |
@@ -125,6 +126,7 @@
 | [Grow Into Love](https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6) | 2:42 | 2021-10-02 | 2022-10-03 |
 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-09-13 |  |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-07-08 | 2022-09-15 |
+| [Guadalupe](https://open.spotify.com/track/3VZsYijc2ZVXqHtCpHdUsu) | [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [Guadalupe](https://open.spotify.com/album/6p928KTAWMrhynOWiVp3y8) | 3:49 | 2023-03-17 |  |
 | [Guérir nos mémoires](https://open.spotify.com/track/12cIWbQApK1vSdi7l3XKZr) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [À tous les vents](https://open.spotify.com/album/2VlQLyEaLdysGBMbMtDdT6) | 3:24 | 2021-09-05 | 2021-09-06 |
 | [Haïku](https://open.spotify.com/track/0fjuWE2tCIVZHrF3xiuAg8) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Haïku](https://open.spotify.com/album/4RfPrdBu7XCODbdgswuWWo) | 3:02 | 2021-01-03\* | 2021-10-09 |
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-02-11 |  |
@@ -247,7 +249,7 @@
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 |  |
 | [Menteuse](https://open.spotify.com/track/5c48Kqk8la8I8EjugIDdrF) | [Andromède](https://open.spotify.com/artist/5h1tsxylgwuGvYdyPOEHQy) | [Andromède](https://open.spotify.com/album/26P6KIVuLYtFNyQGiMnXZx) | 4:01 | 2021-09-13 | 2021-09-24 |
 | [Merci de rien](https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Merci de rien](https://open.spotify.com/album/0DP8QzBD2f8oQESLiukLVE) | 3:11 | 2021-08-14 | 2022-07-25 |
-| [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 | 2022-07-08 |  |
+| [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 | 2022-07-08 | 2023-03-18 |
 | [Mille et un](https://open.spotify.com/track/4zxigPiHkizg6tHTDkC8GW) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Mille et un \- Single](https://open.spotify.com/album/2IIFewmPDob11DbgFCE7kq) | 3:34 | 2021-01-15 | 2022-07-29 |
 | [Mille fois par jour](https://open.spotify.com/track/45oUYmvEEzXwGpT6Zk5hQf) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part 2 \- EP](https://open.spotify.com/album/6zCtp5lmfpLYmvPfSSSBim) | 3:27 | 2021-01-15 | 2022-07-29 |
 | [Mille requiems](https://open.spotify.com/track/5R8pIhrZExMhSN6L1kb4zC) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [2004\-2019 Point Picot](https://open.spotify.com/album/5sNqgXko9G1IC8lIGJ718D) | 3:06 | 2021-01-18 | 2021-11-07 |
@@ -345,7 +347,7 @@
 | [T'aimer est si beau](https://open.spotify.com/track/2QKsAweW504Pv4KgayaKRD) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [T'aimer est si beau](https://open.spotify.com/album/4TTXE3ooJbF4BucR3bCaet) | 7:33 | 2021-06-20 | 2022-01-29 |
 | [Ta robe](https://open.spotify.com/track/0dHKe4bAv3HsL4hVLSzUOH) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Ta robe](https://open.spotify.com/album/3xYtKjDMC9AbC3A2BtE6mt) | 3:29 | 2021-01-03\* | 2021-09-29 |
 | [Tabarnouche](https://open.spotify.com/track/4ATXCgzqPn4YfkNOOCXDlF) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Tabarnouche](https://open.spotify.com/album/3X97tveuhYkqB9H4wVP0lV) | 3:53 | 2021-01-03\* | 2021-09-24 |
-| [Tatouage](https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Tatouage](https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ) | 2:59 | 2021-01-03\* |  |
+| [Tatouage](https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Tatouage](https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ) | 2:59 | 2021-01-03\* | 2023-03-18 |
 | [TDAH](https://open.spotify.com/track/2N1lLLY43Gm7cQyQtnp3TY) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [TDAH](https://open.spotify.com/album/5wXYc1N7JnPmdi5owg4UIh) | 2:47 | 2021-01-03\* | 2021-09-17 |
 | [Te manquer de peu](https://open.spotify.com/track/3TSyCR8MlllxxhvzjIAwSc) | [Mylène Vallée](https://open.spotify.com/artist/2Vegs6QP9dOhRbDW6wKl9T) | [Te manquer de peu](https://open.spotify.com/album/0dTRiq3mA3IFRR8iyANWZc) | 3:32 | 2021-01-21 | 2021-05-08 |
 | [Terre noire](https://open.spotify.com/track/1xHEbSwUjoTbVvWnLvz3gj) | [Dany Nicolas](https://open.spotify.com/artist/4RqDCZuQ8Rr65wpnZn4dTR) | [Terre noire](https://open.spotify.com/album/6XoJAvreDI9mz7vGm751fz) | 3:54 | 2021-04-19 | 2021-05-06 |

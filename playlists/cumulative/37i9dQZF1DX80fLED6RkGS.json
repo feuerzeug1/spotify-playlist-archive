@@ -593,6 +593,28 @@
     },
     {
       "album": {
+        "name": "Blueticks",
+        "url": "https://open.spotify.com/album/4PZ32ERekuiOH4K0QyPyG5"
+      },
+      "artists": [
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Blueticks",
+      "url": "https://open.spotify.com/track/3n9GFwWJZbOHr0bFz62dMm"
+    },
+    {
+      "album": {
         "name": "Bonga Bonga",
         "url": "https://open.spotify.com/album/1KpP5H0yDNiBywnjPMGi5Y"
       },
@@ -2574,7 +2596,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 190985,
       "name": "Madem Wa Nai",
       "url": "https://open.spotify.com/track/7f3J5D674s54ZaMPkSAHbs"
@@ -2726,6 +2748,32 @@
       "duration_ms": 216338,
       "name": "Mapema",
       "url": "https://open.spotify.com/track/14TYFA5QiKRuBZ3fzGhwES"
+    },
+    {
+      "album": {
+        "name": "Mapema Ndio Best",
+        "url": "https://open.spotify.com/album/5qz0x0K2k5b4N8DFjjQPoY"
+      },
+      "artists": [
+        {
+          "name": "Gwaash",
+          "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
+        },
+        {
+          "name": "THEONLYDELO",
+          "url": "https://open.spotify.com/artist/20oN1j6cWOJ2GgnBsN0lye"
+        },
+        {
+          "name": "K4kanali",
+          "url": "https://open.spotify.com/artist/6dgXAgAu8iBRCAEk6Ie2TF"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205891,
+      "name": "Mapema Ndio Best",
+      "url": "https://open.spotify.com/track/5b8caYTRWpbi5I0jKrVah1"
     },
     {
       "album": {
@@ -3114,7 +3162,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 224554,
       "name": "Mzimbiting",
       "url": "https://open.spotify.com/track/0uDiCG0PNkRNc32AjTDDQj"
@@ -3196,6 +3244,32 @@
       "duration_ms": 202657,
       "name": "Nakulombotov - Remix",
       "url": "https://open.spotify.com/track/4bZZENtwTQvFzxi9GqllTR"
+    },
+    {
+      "album": {
+        "name": "Yinga",
+        "url": "https://open.spotify.com/album/2zkSoisn7kPVhKHEBos1sY"
+      },
+      "artists": [
+        {
+          "name": "Iphoolish",
+          "url": "https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp"
+        },
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        },
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227755,
+      "name": "Napenda Wote",
+      "url": "https://open.spotify.com/track/6KqqpWRJtPmgE4GZaQSyje"
     },
     {
       "album": {

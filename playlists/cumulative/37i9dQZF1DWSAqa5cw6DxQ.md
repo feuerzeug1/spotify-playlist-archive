@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-129 songs - 6 hr 26 min
+130 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Beginners Mind](https://open.spotify.com/track/750EM9eXVnU3XeHW945rJv) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [Beginners Mind](https://open.spotify.com/album/7wjigSjvD3ERxDtKS9o7f0) | 3:53 | 2022-02-28 |  |
 | [Behind Your Eyes](https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Behind Your Eyes](https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh) | 3:17 | 2022-02-28 |  |
 | [Beyond Peaceful](https://open.spotify.com/track/0PTqmbNYUtVviUHSVpcHhF) | [Don Eylert](https://open.spotify.com/artist/3vPhTEUkre5n2L7pr8krQA) | [Beyond Peaceful](https://open.spotify.com/album/0braIMpM5FqFaR6nRbdNA7) | 3:06 | 2022-02-28 | 2022-05-27 |
-| [Beyond the Horizon](https://open.spotify.com/track/1i1H08SnaptEAMlZcESXL8) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 2:04 | 2022-02-28 |  |
+| [Beyond the Horizon](https://open.spotify.com/track/1i1H08SnaptEAMlZcESXL8) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 2:04 | 2022-02-28 | 2023-03-18 |
 | [Blue Depths](https://open.spotify.com/track/1rLeCtjTSyVONLUcAen2ZZ) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Blue Depths](https://open.spotify.com/album/44NPPHtkt0LzfAkAqGQoLB) | 3:34 | 2022-12-30 |  |
 | [Canopy](https://open.spotify.com/track/5w0R9CF9qaTfwghKBi6Tb0) | [Cody Wallter](https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L) | [Canopy](https://open.spotify.com/album/6LjRKT71Go9zcqsSxT9FrV) | 3:06 | 2023-01-13 |  |
 | [Changes](https://open.spotify.com/track/4ZhzH1W6DUDPXcXzkqSYrb) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Changes](https://open.spotify.com/album/7MqcHPgnwEyuIzw1zfA2Ol) | 2:41 | 2022-04-08 |  |
@@ -78,6 +78,7 @@
 | [Mind Over Matter](https://open.spotify.com/track/1qOGVdNpsQi00r2IffF9tU) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Mind Over Matter](https://open.spotify.com/album/2b1EFX3Oll9ioHZcJ2Sqj8) | 3:28 | 2022-02-28 |  |
 | [Mind Potential](https://open.spotify.com/track/7ciSUJLpfhwIROe5isZ40b) | [Pale Blue](https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF) | [Mind Potential](https://open.spotify.com/album/0TN86qtasVxZuR4t89VhEM) | 3:20 | 2022-09-30 |  |
 | [mise\-en\-scène](https://open.spotify.com/track/2p0qjcvA9P0OQhL3vaT7BR) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 2:29 | 2022-06-24 |  |
+| [Myself & I](https://open.spotify.com/track/1bA1rj6vbVOip77KgpW2x8) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Myself & I](https://open.spotify.com/album/4BEtTebp6HzWw2R40AvTmr) | 4:13 | 2023-03-17 |  |
 | [Mystery of Life](https://open.spotify.com/track/683DWdGZBYaRVjQwO7v7X5) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 3:03 | 2022-02-28 |  |
 | [Natural Beauty](https://open.spotify.com/track/0YqMuFuT9EWKMFQnZeDlYL) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Natural Beauty](https://open.spotify.com/album/26ZL2DE2ENhMPEJBqbkdxq) | 2:16 | 2022-10-14 |  |
 | [Night Mist](https://open.spotify.com/track/3fbEDklkvxJLKDtOD3OQr0) | [Chloe Wasserberg](https://open.spotify.com/artist/5yn2bigX2NEYuStz4JfS06) | [Night Mist](https://open.spotify.com/album/4zDoev3PzKoANyMBXYM78d) | 2:04 | 2022-02-28 |  |

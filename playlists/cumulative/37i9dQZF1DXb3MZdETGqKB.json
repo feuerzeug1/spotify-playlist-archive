@@ -908,7 +908,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 286360,
       "name": "Family",
       "url": "https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj"
@@ -1667,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Like You Mean It",
+        "url": "https://open.spotify.com/album/3qKgpfBcTIztyYMxoRzwFz"
+      },
+      "artists": [
+        {
+          "name": "Steven Rodriguez",
+          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158213,
+      "name": "Like You Mean It",
+      "url": "https://open.spotify.com/track/27qo8wD02bPb4tbunUm8w8"
+    },
+    {
+      "album": {
         "name": "Log On",
         "url": "https://open.spotify.com/album/1T44hQdjRZwInVBSqUWA0m"
       },
@@ -2220,6 +2238,28 @@
       "duration_ms": 189807,
       "name": "Not the Blues Again",
       "url": "https://open.spotify.com/track/5hfrnLlkK3Q8sRja0GVlXc"
+    },
+    {
+      "album": {
+        "name": "The New Truth",
+        "url": "https://open.spotify.com/album/20uVF4qSvDD7P7LvJ6jDoh"
+      },
+      "artists": [
+        {
+          "name": "Cross Country Driver",
+          "url": "https://open.spotify.com/artist/7yVGyHGB9ZrxNMBZK0mirb"
+        },
+        {
+          "name": "Rhonda Smith",
+          "url": "https://open.spotify.com/artist/2uYKHg4WYpDVVxZVj7gFgN"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232524,
+      "name": "Off the Rails",
+      "url": "https://open.spotify.com/track/42WticpVQhPU1H2seAjX9y"
     },
     {
       "album": {
@@ -3789,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7k94nlPDqq4R5tIq1KuWKP"
+      },
+      "artists": [
+        {
+          "name": "Malina Moye",
+          "url": "https://open.spotify.com/artist/3fPngdGRZMBzFFBf3ql2XK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218595,
+      "name": "Y.A.T.O (You Ain't The One)",
+      "url": "https://open.spotify.com/track/0JXuO3IvoHqhVYvIWyRlNT"
+    },
+    {
+      "album": {
         "name": "Yada Yada",
         "url": "https://open.spotify.com/album/2CbfiGqSkYci5rPVgYRUGk"
       },
@@ -3834,6 +3892,24 @@
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
+    },
+    {
+      "album": {
+        "name": "Your Friday Night",
+        "url": "https://open.spotify.com/album/7MXGchpdm7JEGyoOVNsYht"
+      },
+      "artists": [
+        {
+          "name": "Ries Brothers",
+          "url": "https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201371,
+      "name": "Your Friday Night",
+      "url": "https://open.spotify.com/track/17AXVlBTYsK5YvhTuif0aC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB"

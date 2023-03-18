@@ -2,9 +2,9 @@
 
 ### [Radar España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> Descubre hoy a los artistas de mañana\. Foto: Paula Koops
+> Descubre hoy a los artistas de mañana\. Foto: Yarea
 
-178 songs - 8 hr 43 min
+179 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 | 2022-03-17 | 2022-12-22 |
 | [Muchas gracias por venir](https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Muchas gracias por venir](https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5) | 3:22 | 2023-03-01 |  |
 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 | 2022-02-03 | 2022-07-15 |
-| [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 | 2022-06-06 |  |
+| [Nada ha cambiado](https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [NO ME PASA NADA](https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI) | 2:40 | 2023-03-18 |  |
+| [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 | 2022-06-06 | 2023-03-18 |
 | [Nana](https://open.spotify.com/track/7JxuBqdhe3YgPb0tD7YriS) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Nana](https://open.spotify.com/album/0kUkzTNt3mUlXY321DJBlQ) | 2:02 | 2021-12-31 | 2022-04-01 |
 | [nemo](https://open.spotify.com/track/1bsIAUFEZmpmZHYMhlY6IS) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [nemo](https://open.spotify.com/album/7INKqnKLJRPTLSdt6lf2YD) | 2:43 | 2021-12-31 | 2022-03-18 |
 | [No Limit](https://open.spotify.com/track/0z6ojlCxcIJViynVpq7MUg) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [ThePoing](https://open.spotify.com/artist/25GeI9XfoQKewss8IzQyyO) | [No Limit](https://open.spotify.com/album/6bZBGnZnq8j512ROPGMxZ9) | 3:00 | 2021-12-31 | 2022-02-18 |

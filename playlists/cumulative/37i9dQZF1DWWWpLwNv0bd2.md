@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Vaathi
 
-120 songs - 8 hr 4 min
+121 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 | 2021-11-29 | 2022-07-15 |
 | [Kaadhal En Kaviye \- From "Salmon 3D"](https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Kaadhal En Kaviye \(From "Salmon 3D"\)](https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK) | 5:11 | 2022-06-28 |  |
 | [Kaalathukkum Nee Venum \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/1NoaJoxPKQr9XNLOuKTyNV) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kaalathukkum Nee Venum \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/3RVPCp07qm53ACN2rq6SqP) | 4:53 | 2022-05-06 |  |
+| [Kaathiru \(From "Kannai Nambathey"\)](https://open.spotify.com/track/3KyRRkU2bzI66gB7WDe60U) | [Lakshmikanth M](https://open.spotify.com/artist/6Goy3epqmrsTbPAipjhPKA), [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Kugai Ma Pugazhendhi](https://open.spotify.com/artist/0drxqlpl0GEAG70hggyve0) | [Kaathiru \(From "Kannai Nambathey"\) \- Single](https://open.spotify.com/album/1msmi57etADdwo6LzHlcgE) | 3:49 | 2023-03-16 |  |
 | [Kaathodu Kaathanen \(From "Jail"\)](https://open.spotify.com/track/4tkSvA7zfuhwgHQbEeNEJU) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Aditi Rao Hydari](https://open.spotify.com/artist/147zpWRMJhUudkGSDZ5qJ0) | [Kaathodu Kaathanen \(From "Jail"\)](https://open.spotify.com/album/02MvEPoIlryHGpUoeez6ud) | 5:10 | 2021-11-29 | 2022-06-21 |
 | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2b4nWymybHj38A6XtQijiA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/album/2tWMHOkDRvyWN6yY57limX) | 4:06 | 2021-11-29 | 2022-06-21 |
 | [Kanave Nee Naan](https://open.spotify.com/track/16ASkQZ0cTrSdUYU1TB2nt) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Kannum Kannum Kollaiyadithaal](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 2:04 | 2021-11-29 | 2022-10-19 |

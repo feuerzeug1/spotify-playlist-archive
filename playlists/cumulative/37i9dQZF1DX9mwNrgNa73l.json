@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Dhola",
+        "url": "https://open.spotify.com/album/5QEjYCacgMeNn6JsBWJzxx"
+      },
+      "artists": [
+        {
+          "name": "MASUMA ANWAR",
+          "url": "https://open.spotify.com/artist/55DHZ4eEuBZM0xfX7bCX1H"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271237,
+      "name": "Aa Meda Dhola",
+      "url": "https://open.spotify.com/track/5T7eWVRYVA2FsbLJORHtpO"
+    },
+    {
+      "album": {
         "name": "The Best Of Sabri Brothers & Nusrat Fateh Ali Khan",
         "url": "https://open.spotify.com/album/0JtKMVGy841ydtXY0DxxTz"
       },
@@ -249,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Ali Ali",
+        "url": "https://open.spotify.com/album/3GHXQ0iMm996ZrW1VhWrFb"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223880,
+      "name": "Ali Ali",
+      "url": "https://open.spotify.com/track/67gxJf9SlZiYLjPBtmWNuw"
+    },
+    {
+      "album": {
         "name": "Alif Allah",
         "url": "https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH"
       },
@@ -440,7 +476,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 296262,
       "name": "Allah Hu",
       "url": "https://open.spotify.com/track/6EWDE9xJuEGK4CD9SMnlm9"
@@ -660,6 +696,32 @@
       "duration_ms": 532300,
       "name": "Chaap Tilak",
       "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
+    },
+    {
+      "album": {
+        "name": "Chishti Sanwariya",
+        "url": "https://open.spotify.com/album/0VIxnvXKv1lG59JRtqR5vQ"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akram Qawwal",
+          "url": "https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT"
+        },
+        {
+          "name": "Taimoor Akram",
+          "url": "https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq"
+        },
+        {
+          "name": "Abdul Akram",
+          "url": "https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237142,
+      "name": "Chishti Sanwariya",
+      "url": "https://open.spotify.com/track/7yODrcqs8n3TPc1eXheSPi"
     },
     {
       "album": {
@@ -898,6 +960,24 @@
       "duration_ms": 407112,
       "name": "Haq Ali",
       "url": "https://open.spotify.com/track/4KdVxITCH0jol5Dbq2x68H"
+    },
+    {
+      "album": {
+        "name": "Haq Nama",
+        "url": "https://open.spotify.com/album/5J7Qzd4bmQCqBXuhmhXVyw"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Samie",
+          "url": "https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306494,
+      "name": "Haq Nama",
+      "url": "https://open.spotify.com/track/4h00nIZhd1S6uJDKDpkEKj"
     },
     {
       "album": {
@@ -1436,7 +1516,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200311,
       "name": "Man Kunto Maula",
       "url": "https://open.spotify.com/track/3daJwwrOiGlyDYs6WNomUv"
@@ -2402,7 +2482,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 1206333,
       "name": "Teri Soorat ( Main Sharabi Sharabi )",
       "url": "https://open.spotify.com/track/760aj6eKUUjKcnzt8nhB81"
@@ -2548,6 +2628,24 @@
       "duration_ms": 275200,
       "name": "Ya Ali Tere Sadqe Jawan",
       "url": "https://open.spotify.com/track/6TMHIctlQkhOewask1NBLU"
+    },
+    {
+      "album": {
+        "name": "Ya Ali Ya Ali Haidri Haidri",
+        "url": "https://open.spotify.com/album/7ckz2vdC4h1WI2rlm8y3ik"
+      },
+      "artists": [
+        {
+          "name": "Sahir Ali Bagga",
+          "url": "https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587371,
+      "name": "Ya Ali Ya Ali Haidri Haidri",
+      "url": "https://open.spotify.com/track/3jLQPgPcY78eYpPVpKyVV5"
     },
     {
       "album": {

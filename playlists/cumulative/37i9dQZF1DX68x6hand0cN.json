@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Shikidim",
+        "url": "https://open.spotify.com/album/4nckwHAozyiuAPeiQdaBzC"
+      },
+      "artists": [
+        {
+          "name": "Emil Ros\u00e9",
+          "url": "https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128170,
+      "name": "Shikidim",
+      "url": "https://open.spotify.com/track/3FP6Q4fQWU6nyXVwX5DgMa"
+    },
+    {
+      "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },

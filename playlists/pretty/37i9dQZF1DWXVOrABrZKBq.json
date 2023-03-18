@@ -1,15 +1,43 @@
 {
-  "description": "Le rap francophone est en forme. Photo: Shay",
-  "num_followers": 4466,
+  "description": "Le rap francophone est en forme. Photo: GAULOIS, Ninho",
+  "num_followers": 4498,
   "original_name": "Connexion Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDg3ZjNlNzA0OGYyNWNmNDM2ZmQxOTdmOGNiYzJmZDFh",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDRjMTE4MTY1NjIzNmUyMWY4MTMxNDJmYjU0MDU2OWZh",
   "tracks": [
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "NO L\u00c8CHE \ud83d\udeab\ud83d\udc45 (feat. Fav\u00e9, Kerchak & Leto)",
+        "url": "https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "duration_ms": 194201,
+      "name": "NO L\u00c8CHE",
+      "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -29,23 +57,7 @@
       "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Jolie Go",
-        "url": "https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF"
-      },
-      "artists": [
-        {
-          "name": "Shay",
-          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
-        }
-      ],
-      "duration_ms": 166654,
-      "name": "Jolie Go",
-      "url": "https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Jolie (feat. Ninho)",
         "url": "https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2"
@@ -65,7 +77,39 @@
       "url": "https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Pont Champlain",
+        "url": "https://open.spotify.com/album/1fumWxp522ocJH8odkks3L"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 210296,
+      "name": "Pont Champlain",
+      "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Jolie Go",
+        "url": "https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF"
+      },
+      "artists": [
+        {
+          "name": "Shay",
+          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
+        }
+      ],
+      "duration_ms": 166654,
+      "name": "Jolie Go",
+      "url": "https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "1942",
         "url": "https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm"
@@ -81,7 +125,47 @@
       "url": "https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/5gbcnNg4JK4qaR6BYtdUwv"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/7hGyQqjhVw2LbCr2oZ4rUS"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Qui sait ? (feat. ElGrandeToto)",
+        "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Qui sait ? (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
         "url": "https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE"
@@ -101,7 +185,7 @@
       "url": "https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Harry Potter",
         "url": "https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7"
@@ -125,7 +209,7 @@
       "url": "https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Maybach",
         "url": "https://open.spotify.com/album/2tuankgH55CwSsfXPTcMRu"
@@ -145,7 +229,7 @@
       "url": "https://open.spotify.com/track/2doTFAqat5o4dbFq9qUuLT"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -165,7 +249,7 @@
       "url": "https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Malsain et sauf",
         "url": "https://open.spotify.com/album/32GEpdgSryJ1QSRsvN4EiN"
@@ -181,27 +265,7 @@
       "url": "https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Qui sait ? (feat. ElGrandeToto)",
-        "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Qui sait ? (feat. ElGrandeToto)",
-      "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7"
@@ -221,7 +285,7 @@
       "url": "https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Le calme avant la temp\u00eate",
         "url": "https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp"
@@ -241,7 +305,7 @@
       "url": "https://open.spotify.com/track/0lV7WglmHuWvFMid5KlRPI"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "\u00c0 L'AUBE",
         "url": "https://open.spotify.com/album/3dRIUWKwJ9lTV59OXqtUN8"
@@ -261,7 +325,7 @@
       "url": "https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Coeur De Pirate",
         "url": "https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY"
@@ -277,7 +341,7 @@
       "url": "https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Liens du 100",
         "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
@@ -293,7 +357,7 @@
       "url": "https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Leave Me Alone",
         "url": "https://open.spotify.com/album/0R3iuvokmmnxNOFExxl9us"
@@ -313,7 +377,7 @@
       "url": "https://open.spotify.com/track/6m9iOAk3qIfvpem4MQBOH8"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Ghini",
         "url": "https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu"
@@ -329,7 +393,7 @@
       "url": "https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Ann\u00e9es Sauvages",
         "url": "https://open.spotify.com/album/3zsnpMh0K6pM1Rbo7btDtN"
@@ -349,7 +413,23 @@
       "url": "https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "1.6",
+        "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 167747,
+      "name": "SHADOW BOXING",
+      "url": "https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "M\u00e9lo",
         "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
@@ -365,7 +445,7 @@
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "M\u00e9rit\u00e9",
         "url": "https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk"
@@ -385,7 +465,7 @@
       "url": "https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Genkidama",
         "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
@@ -401,7 +481,7 @@
       "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "M\u00eame pas un grincement",
         "url": "https://open.spotify.com/album/3HRJy5fGgdgrCp8g6tEN8O"
@@ -417,7 +497,7 @@
       "url": "https://open.spotify.com/track/7wNHu6h06KBh20KVYmnRKa"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "AMBER",
         "url": "https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD"
@@ -433,7 +513,7 @@
       "url": "https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "C\u00e9sar",
         "url": "https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28"
@@ -449,7 +529,7 @@
       "url": "https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "D\u00e9cembre",
         "url": "https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns"
@@ -465,7 +545,7 @@
       "url": "https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "L\u2019Amour",
         "url": "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6"
@@ -485,7 +565,7 @@
       "url": "https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Peur (feat. Ziak)",
         "url": "https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR"
@@ -505,27 +585,7 @@
       "url": "https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Telegram",
-        "url": "https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "3 singes",
-      "url": "https://open.spotify.com/track/57JhjU33uXlZtmr2Dsk8TX"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc"
@@ -541,7 +601,7 @@
       "url": "https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -557,7 +617,7 @@
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Hiver \u00e0 Paris",
         "url": "https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA"
@@ -577,7 +637,7 @@
       "url": "https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "L'\u00c9lu",
         "url": "https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i"
@@ -593,7 +653,7 @@
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Black Card",
         "url": "https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc"
@@ -609,27 +669,7 @@
       "url": "https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "KMT",
-        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "FLEURS (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI"
@@ -653,7 +693,7 @@
       "url": "https://open.spotify.com/track/0HCuDi36FfephRRd37HrPd"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "ARR\u00caTEZ-LE ! (Vol.2)",
         "url": "https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy"
@@ -669,7 +709,7 @@
       "url": "https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "BODIES (feat. Damso)",
         "url": "https://open.spotify.com/album/61G5Kmh73wP41ZN0sBdlBB"
@@ -689,27 +729,7 @@
       "url": "https://open.spotify.com/track/1vhGzynTAXJ0MD0gkXPxzX"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Sentenc\u00e9",
-        "url": "https://open.spotify.com/album/0A8VTHR0FqyOwGeiaiuMc7"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        },
-        {
-          "name": "White-B",
-          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
-        }
-      ],
-      "duration_ms": 212436,
-      "name": "Sentenc\u00e9",
-      "url": "https://open.spotify.com/track/3n9VHoMlVJvotkaXLFNqA2"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Tout c'que j'connais",
         "url": "https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "\u00c0 l'abri",
         "url": "https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "SNAKEYEZ",
         "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
@@ -773,23 +793,7 @@
       "url": "https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Hagra, Vol.1",
-        "url": "https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn"
-      },
-      "artists": [
-        {
-          "name": "Izuku",
-          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
-        }
-      ],
-      "duration_ms": 145598,
-      "name": "Filature",
-      "url": "https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Enfant2LaRue Vol. 2",
         "url": "https://open.spotify.com/album/5Hq4ZIoPwHNYCQiDxxUIpG"
@@ -809,7 +813,7 @@
       "url": "https://open.spotify.com/track/6YC6zgdJog4gw0y2IyfRmR"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "QCLTUR",
         "url": "https://open.spotify.com/album/4bHZOMo5sjb7SrSvaevvKy"
@@ -833,7 +837,7 @@
       "url": "https://open.spotify.com/track/1GTwuwkt4hejBcymq849Cg"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "QUARTIERS NORD",
         "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
@@ -857,7 +861,7 @@
       "url": "https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Astronaute",
         "url": "https://open.spotify.com/album/2A41RCTjlR4P888t6OfM89"
@@ -877,7 +881,7 @@
       "url": "https://open.spotify.com/track/7elFP749giV9I0f1LQHeFM"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
@@ -893,7 +897,7 @@
       "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "17%",
         "url": "https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z"
@@ -913,7 +917,7 @@
       "url": "https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Double vision",
         "url": "https://open.spotify.com/album/2gSKjDu2BgrXnrcKryoz1o"

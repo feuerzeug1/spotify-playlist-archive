@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-277 songs - 1 day 1 hr 58 min
+278 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2020-10-09 | 2022-03-11 |
 | [Body and Soul](https://open.spotify.com/track/1yKzcK9jV55JNsf0wQ43tZ) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA) | [Konarski & Standards](https://open.spotify.com/album/2dj69o8yltikLhY0a0afam) | 6:11 | 2022-09-29 |  |
 | [Bosse Zorro](https://open.spotify.com/track/2QgZMS7J44N1cHflkK2are) | [OHOJ](https://open.spotify.com/artist/5oL30GXMiPkJpEQ99Q7Cdh), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Bosse Zorro](https://open.spotify.com/album/6LrpCNNRKvpn0F9sRZ38UY) | 4:07 | 2023-01-12 |  |
+| [But Beautiful](https://open.spotify.com/track/4zrbbrx6AJ5vSltmwj93eX) | [David Ake](https://open.spotify.com/artist/4NxCS4PdhvZcYqSqs0zsa0) | [Green Thumb](https://open.spotify.com/album/0jemo6vMv68syQb1NrTFpY) | 5:17 | 2023-03-16 |  |
 | [Can't Help Loving](https://open.spotify.com/track/4zRweMHazlqCTUe6GvviYf) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Way You Look Tonight](https://open.spotify.com/album/2aKxIghDsEluUXa0LZgrLO) | 3:41 | 2020-10-09 |  |
 | [Canción Contra La Indecisión](https://open.spotify.com/track/75MUAXmFXalRbe44eYPzfG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Canción Contra La Indecisión](https://open.spotify.com/album/6M21ytCR5Bld1vicN8JvQc) | 4:12 | 2020-10-09 | 2022-06-29 |
 | [Canción Y Danza VI](https://open.spotify.com/track/1iNE14jpYWtLoeQitCoYaG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 5:14 | 2020-10-09 | 2022-05-03 |

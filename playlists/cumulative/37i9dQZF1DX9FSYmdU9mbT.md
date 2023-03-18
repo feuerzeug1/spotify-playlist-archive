@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-133 songs - 8 hr 33 min
+134 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Bom\-Senso](https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Racional \(Vol 1\)](https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj) | 5:05 | 2021-12-31 |  |
 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 | 2021-12-31 |  |
 | [Canto de Ossanha](https://open.spotify.com/track/5N8wA5SKIlFk2gtQR7NGqT) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Os Primeiros Anos](https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC) | 2:02 | 2021-12-31 |  |
-| [Caravana](https://open.spotify.com/track/59AqjQSvyD9MIuFV9i9Lmc) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Caravana](https://open.spotify.com/album/5x3MyHjWLUHY8UtxLMwUAh) | 1:50 | 2022-08-26 |  |
+| [Caravana](https://open.spotify.com/track/59AqjQSvyD9MIuFV9i9Lmc) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Caravana](https://open.spotify.com/album/5x3MyHjWLUHY8UtxLMwUAh) | 1:50 | 2022-08-26 | 2023-03-18 |
 | [Carnavália \- Ao Vivo](https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Carnavália \(Ao Vivo\)](https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl) | 4:30 | 2021-12-31 |  |
 | [Casa No Campo \- Remastered 2021](https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis \(Remastered\)](https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je) | 2:51 | 2021-12-31 |  |
 | [Chega de Saudade](https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Rosa Morena](https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq) | 2:01 | 2021-12-31 | 2022-07-29 |
@@ -82,6 +82,7 @@
 | [Lábios Que Beijei](https://open.spotify.com/track/4eCxHYt3VfiffuRSkydhgN) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8) | [Lábios Que Beijei](https://open.spotify.com/album/1wUzUUx7Uush6TxCnkp0AS) | 4:04 | 2021-12-31 | 2022-08-27 |
 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 | 2022-01-20 |  |
 | [Mama África / Brilho de Beleza / Pra Não Dizer Que Não Falei das Flores \- Ao Vivo \| Bônus Track](https://open.spotify.com/track/56QI0cHMqOQRBw4jbNFGZD) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Lazzo Matumbi](https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV), [Seu Pereira](https://open.spotify.com/artist/28pAHiB6AXRv8xAFi6y2cw), [Luizinho Calixto](https://open.spotify.com/artist/5RVxzbhV0agb2TSjCD3Kmk), [Escurinho](https://open.spotify.com/artist/4JPtZ1t3FJ7SjLPEAHQswo), [Michi Ruzitschika](https://open.spotify.com/artist/030OnLWDWctqB2Rx6bBOx1) | [Estado de Poesia \(Ao Vivo\) \(Deluxe Edition\)](https://open.spotify.com/album/3mDS3K8Eg7eCJ3Ny8uJG3J) | 9:30 | 2021-12-31 |  |
+| [Maria Maria](https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Trem Azul](https://open.spotify.com/album/0Jl8gxF0bV3CDB2A01Y30N) | 4:20 | 2023-03-17 |  |
 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 | 2021-12-31 |  |
 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 | 2021-12-31 | 2022-07-29 |
 | [Metamorfose Ambulante](https://open.spotify.com/track/2Yk0HvfTaijA47aM0Fj88u) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | ["Krig\-Ha, Bandolo"](https://open.spotify.com/album/2xRddGxRH0KdDWLNE5b0iu) | 3:51 | 2022-06-24 |  |

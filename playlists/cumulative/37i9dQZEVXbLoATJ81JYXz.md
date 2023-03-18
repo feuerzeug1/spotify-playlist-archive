@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,266 songs - 2 day 17 hr 42 min
+1,267 songs - 2 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [BRODIE](https://open.spotify.com/track/2P2KwUw2Tdhry4DX34WkSQ) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [BRODIE](https://open.spotify.com/album/731Z71rhXYS6ZYR2cmqR2n) | 2:41 | 2022-08-20 | 2022-08-22 |
 | [Brottslingar](https://open.spotify.com/track/5o8lrG703lxW7sxvLzIWhC) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Unge Med Extra Energi](https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T) | 3:03 | 2021-10-23 | 2021-10-24 |
 | [Brände hela lönen](https://open.spotify.com/track/6ro4XzciI1U2JMZd3QfM2u) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Brände hela lönen](https://open.spotify.com/album/3kJ50xZWdFsdZAwnZsZPz2) | 2:45 | 2021-10-01 | 2021-10-04 |
-| [BUBBEL PÅ BALKONGEN](https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn) | 2:46 | 2022-06-25 | 2023-03-14 |
+| [BUBBEL PÅ BALKONGEN](https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn) | 2:46 | 2022-06-25 |  |
 | [Bullet](https://open.spotify.com/track/3DMq9xe5H8TTwi1FQfvcDF) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/132gMGh5RhiR5XC0jkc4nD) | 3:23 | 2022-06-18 | 2022-06-26 |
 | [Bumblebee](https://open.spotify.com/track/4dmSIn2DxtfX1rySnUDamj) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 3:57 | 2021-11-07 | 2021-11-11 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-06 |
@@ -553,6 +553,7 @@
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2022-01-23 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-01-10 | 2022-02-09 |
 | [Inga sorger](https://open.spotify.com/track/1nwjqLgtRYlHOJjLP0a4Y6) | [Loulou LaMotte](https://open.spotify.com/artist/6xEkTJqTsYdjbnj0MJeu3j) | [Inga sorger](https://open.spotify.com/album/0NamttjGk87WrFtm5zqEmp) | 2:53 | 2023-02-06 | 2023-02-08 |
+| [Ingen Annan](https://open.spotify.com/track/29f6emBNZc0WueYCU0Me2O) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ingen Annan](https://open.spotify.com/album/4BdMKdoEQPuCDEz14asIc6) | 2:08 | 2023-03-17 |  |
 | [Ingen annan rör mig som du](https://open.spotify.com/track/6D434uIe6ssDPXbCx9O9Bn) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Ingen annan rör mig som du](https://open.spotify.com/album/6HUWcyVUOcdPTMcqvmX02a) | 3:37 | 2022-10-24 | 2023-02-26 |
 | [Ingen luft mellan oss](https://open.spotify.com/track/0GYIbrTtgj7iLKJJo1ol6c) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Vi](https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX) | 3:16 | 2022-01-22 | 2022-02-15 |
 | [Ingen luft mellan oss](https://open.spotify.com/track/1SOGSI8UPEwBnqG15h6NiC) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Ingen luft mellan oss](https://open.spotify.com/album/50pmFuV7ABGcA6cZz0Cqmt) | 3:16 | 2021-10-31 | 2022-01-23 |
@@ -891,7 +892,7 @@
 | [Qué Te](https://open.spotify.com/track/5CV1M3cMolBFhuXXdcIXmF) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Qué Te](https://open.spotify.com/album/0FI0Ih60ulMByc4uYrW8FH) | 2:41 | 2022-04-16 | 2022-04-18 |
 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 | 2021-09-05 | 2021-09-07 |
 | [Raggarbil](https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Raggarbil](https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn) | 2:15 | 2021-04-03 | 2021-06-01 |
-| [RAGGARBIL](https://open.spotify.com/track/2VhK6oiMVLEMp16Ri3FRqW) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [RAGGARBIL](https://open.spotify.com/album/4OzfP62K5kmYNkBD1yw0nd) | 2:04 | 2023-03-11 |  |
+| [RAGGARBIL](https://open.spotify.com/track/2VhK6oiMVLEMp16Ri3FRqW) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [RAGGARBIL](https://open.spotify.com/album/4OzfP62K5kmYNkBD1yw0nd) | 2:04 | 2023-03-11 | 2023-03-18 |
 | [RAGGARHIMLEN](https://open.spotify.com/track/1gbty36aDBvrkV4Ux8Y20r) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [RAGGARHIMLEN](https://open.spotify.com/album/2YQ2wXQ9xvjCyn62zhA5Zy) | 2:35 | 2023-01-15 | 2023-02-12 |
 | [RAGGEN GÅR](https://open.spotify.com/track/5tq2w7SbOai77pCgdi2hcI) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [RAGGEN GÅR](https://open.spotify.com/album/30p5LHwQPCPkjJMvlFoyOs) | 2:58 | 2023-02-06 |  |
 | [Raindance](https://open.spotify.com/track/2imjyIRZrtnPQFLOSTyJXF) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:43 | 2021-10-03 | 2021-10-04 |
@@ -923,7 +924,7 @@
 | [Rockstars](https://open.spotify.com/track/0LTn3UoaJkL42ltlGwWMxC) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [Anonymous Colonist \(Rockstars Edition\)](https://open.spotify.com/album/5AblHx3VwGHzVkT5Kb6Ac2) | 2:59 | 2022-05-16 | 2022-05-29 |
 | [Rolling in the Deep](https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:48 | 2021-10-19 | 2021-10-23 |
 | [Rom\-Com](https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sweet Life](https://open.spotify.com/album/05qc5AvQy0FFYc3pKLgSS2) | 3:20 | 2021-06-06 | 2021-06-07 |
-| [Royals](https://open.spotify.com/track/7Cxq5B4XJt5FrpU4Uu2BxO) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Royals](https://open.spotify.com/album/526vMx7SZDOiOPxh8RmNCd) | 2:58 | 2023-02-27 |  |
+| [Royals](https://open.spotify.com/track/7Cxq5B4XJt5FrpU4Uu2BxO) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Royals](https://open.spotify.com/album/526vMx7SZDOiOPxh8RmNCd) | 2:58 | 2023-02-27 | 2023-03-18 |
 | [Rubicon](https://open.spotify.com/track/7uhQNPvfYbnt5p8AMZhncY) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:53 | 2022-05-28 | 2022-05-30 |
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-05-09 | 2021-05-10 |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-08-26 | 2022-10-16 |

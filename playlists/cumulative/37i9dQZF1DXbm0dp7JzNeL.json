@@ -27,6 +27,40 @@
     },
     {
       "album": {
+        "name": "The Chopin Project : The Franchomme Legacy",
+        "url": "https://open.spotify.com/album/37ukXSyDBPuOMkSZsxf91F"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Wolfgang Emanuel Schmidt",
+          "url": "https://open.spotify.com/artist/0TKIjTam3WeFSeV2qYrrWf"
+        },
+        {
+          "name": "Jaemin Han",
+          "url": "https://open.spotify.com/artist/1WxvErlQgQm4rDwyhXazOa"
+        },
+        {
+          "name": "Frans Helmerson",
+          "url": "https://open.spotify.com/artist/0dfKYhE2GQaOOS5pYSXnBx"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137693,
+      "name": "24 Pr\u00e9ludes, Op. 28: No. 4 in E Minor (Arr. Franchomme for Cello) [Adapted for 4 Cellos by Matthias Spindler]",
+      "url": "https://open.spotify.com/track/2bHvQDx7KWAWxlopZGZDMo"
+    },
+    {
+      "album": {
         "name": "Romance \u2013 The Piano Music of Clara Schumann",
         "url": "https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE"
       },

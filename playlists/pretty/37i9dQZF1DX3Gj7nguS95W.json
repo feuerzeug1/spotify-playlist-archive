@@ -1,12 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
-  "num_followers": 806395,
+  "num_followers": 806976,
   "original_name": "Is it New Wave?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMDI1NDg5NDk2ZTRhZmIwODNhMDhjNzYwMzZiYjliZGIx",
+  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMDFhNzk2YjQ3NTUxNjgzNGU5N2VjNDYwZTcwYTI1Zjc0",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Special Beat Service (Remastered)",
-        "url": "https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Save It For Later",
-      "url": "https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 239280,
       "name": "Eighties - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Special Beat Service (Remastered)",
+        "url": "https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP"
+      },
+      "artists": [
+        {
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Save It For Later",
+      "url": "https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5"
     },
     {
       "added_at": "2020-01-14 21:16:41",

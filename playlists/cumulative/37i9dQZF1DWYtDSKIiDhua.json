@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: The Weeknd, Ariana Grande",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Usher",
   "name": "mood.",
   "tracks": [
     {
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 172035,
       "name": "Empty Seat",
       "url": "https://open.spotify.com/track/0rrMyO2ZHLhxGTLgAEVWIJ"
@@ -1472,6 +1472,24 @@
       "duration_ms": 192158,
       "name": "Far (feat. Jeff Satur)",
       "url": "https://open.spotify.com/track/3b8x0Bu8Pxwze3op9EwTk2"
+    },
+    {
+      "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
     },
     {
       "album": {
@@ -1872,6 +1890,24 @@
       "duration_ms": 228100,
       "name": "Glass",
       "url": "https://open.spotify.com/track/3kw6y6iKeyVX2JUqwdp7cj"
+    },
+    {
+      "album": {
+        "name": "GLU",
+        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262711,
+      "name": "GLU",
+      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "album": {
@@ -2278,7 +2314,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 158598,
       "name": "Home For My Heart",
       "url": "https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB"
@@ -2684,7 +2720,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 242866,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
@@ -2742,7 +2778,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 245413,
       "name": "Interval Of Us",
       "url": "https://open.spotify.com/track/7LUPtdG13VibC6od6CCnGj"
@@ -3718,7 +3754,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200782,
       "name": "Needy",
       "url": "https://open.spotify.com/track/5kSV5hHWyB7bTzjq7pS9Fi"
@@ -3958,7 +3994,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 235887,
       "name": "Nowhere But Up",
       "url": "https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i"
@@ -4389,6 +4425,28 @@
     },
     {
       "album": {
+        "name": "Please Don't Find Closure (feat. Monica Karina)",
+        "url": "https://open.spotify.com/album/2UiemvjhDoY894zfAmMzD2"
+      },
+      "artists": [
+        {
+          "name": "Kara Chenoa",
+          "url": "https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO"
+        },
+        {
+          "name": "Monica Karina",
+          "url": "https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240176,
+      "name": "Please Don't Find Closure (feat. Monica Karina)",
+      "url": "https://open.spotify.com/track/5FVwHDG5z1BTsHg73HGtWk"
+    },
+    {
+      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -4760,7 +4818,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 185186,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/4pFWcq6v0hEYY65VaxpJiY"
@@ -4960,7 +5018,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 282000,
       "name": "Since I Have A Lover",
       "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
@@ -5066,6 +5124,24 @@
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "album": {
+        "name": "Begin",
+        "url": "https://open.spotify.com/album/0uQM8N2OIq4ZKGhwhYEHo2"
+      },
+      "artists": [
+        {
+          "name": "Jay Lau",
+          "url": "https://open.spotify.com/artist/5Q5cRFXh72YfaeTrJGsBjX"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188129,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/4fpLhoSs1BMmx4ZzTkxZif"
     },
     {
       "album": {
@@ -5196,7 +5272,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 221142,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4hwfJW0NW2sUMVxmYzvBnJ"
@@ -5442,7 +5518,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 184600,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/5FAUwmHyCfhB04I4hhc7DV"
@@ -5730,7 +5806,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200426,
       "name": "time",
       "url": "https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe"
@@ -6360,7 +6436,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 222232,
       "name": "WILL YOU?",
       "url": "https://open.spotify.com/track/5VsvYVSiMIAhZ2O42qBxnS"
@@ -6472,7 +6548,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
@@ -6526,7 +6602,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 148250,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/6zX2iF3aZC26DEtISIcmwh"

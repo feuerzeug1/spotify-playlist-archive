@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 227683,
       "name": "Amaka (feat. Peruzzi)",
       "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 181348,
       "name": "Blues",
       "url": "https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 148981,
       "name": "Closure",
       "url": "https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf"
@@ -601,6 +601,28 @@
     },
     {
       "album": {
+        "name": "Fun for Love",
+        "url": "https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ"
+      },
+      "artists": [
+        {
+          "name": "Davolee",
+          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
+        },
+        {
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "Fun for Love",
+      "url": "https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv"
+    },
+    {
+      "album": {
         "name": "Gentility (feat. Wande Coal)",
         "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
       },
@@ -656,7 +678,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 186026,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6tFDS5LKWQbUFm0vZrhmvO"
@@ -957,6 +979,28 @@
     },
     {
       "album": {
+        "name": "Kilode (In Particular)",
+        "url": "https://open.spotify.com/album/5BlU5AuobL4wUpdlQUANCZ"
+      },
+      "artists": [
+        {
+          "name": "John Networq",
+          "url": "https://open.spotify.com/artist/5SyIdSMJiUxOaA9HXlHH4E"
+        },
+        {
+          "name": "MOONLIGHT AFRIQA",
+          "url": "https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Kilode (In Particular)",
+      "url": "https://open.spotify.com/track/0MCO9Iggfh5eB8N9lx0dvs"
+    },
+    {
+      "album": {
         "name": "Kiss & Tell",
         "url": "https://open.spotify.com/album/1Xm6lGVrbZUsLsIhf9REtp"
       },
@@ -994,6 +1038,28 @@
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
+    },
+    {
+      "album": {
+        "name": "Grit & Lust",
+        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153523,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
     },
     {
       "album": {
@@ -1830,7 +1896,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 133560,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5RCJ9b4Qw6mayhWRDwAjrZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,107 likes - 28 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,116 likes - 28 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 14 | [Freddy's Coming For You](https://open.spotify.com/track/5jYaqMXbUXyUk9VQgOWR4K) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [A Nightmare On Elm Street \(Original Motion Picture Score\)](https://open.spotify.com/album/2zlfecPiJHlK9pBWOQNQVf) | 4:28 |
 | 15 | [Run To The Church](https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Sixth Sense \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI) | 1:21 |
 | 16 | [Main Title](https://open.spotify.com/track/4Rhue1CTPr3n1P3Zs0jPwU) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [Alien](https://open.spotify.com/album/2ubcKYeOHGJ5UHHNBAuaKb) | 4:12 |
-| 17 | [The Shock \- Original](https://open.spotify.com/track/5dBCwVCqra4ld5e0mXKI84) | [Libra](https://open.spotify.com/artist/40TMqq78lcuRecnDO2PaYG) | [Shock](https://open.spotify.com/album/2Za0FtIVPP7xQI1IxyK9NP) | 4:10 |
+| 17 | [The Shock](https://open.spotify.com/track/5dBCwVCqra4ld5e0mXKI84) | [Libra](https://open.spotify.com/artist/40TMqq78lcuRecnDO2PaYG) | [Shock \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Za0FtIVPP7xQI1IxyK9NP) | 4:10 |
 | 18 | [Theme from "Beetlejuice: The Animated Series" by Danny Elfman](https://open.spotify.com/track/1r8fZ2HxjBWDEvs7lqXWAJ) | [Dominik Hauser](https://open.spotify.com/artist/4MTfVjZzx72caVcbCjUK73) | [Theme from "Beetlejuice: The Animated Series" by Danny Elfman](https://open.spotify.com/album/13wjqvHMQ6xDJ0JpEHWvln) | 1:01 |
 | 19 | [Creeper's Tale \(From "Jeepers Creepers"\)](https://open.spotify.com/track/3q7ssMXeWyeoPyTGsqOUpO) | [Bennett Salvay](https://open.spotify.com/artist/1lWGijAqSCPZNmxnq1Yv9O), [Victor Salva](https://open.spotify.com/artist/1BID9hmfIGrMMfjMLPByDU) | [Jeepers Creepers \(Score\)](https://open.spotify.com/album/1tDx9id2MipEJLN5MVYhHk) | 2:42 |
 | 20 | [Down the Pipe](https://open.spotify.com/track/5HhLdKwIy2ZpuX8yjZpWm6) | [David Julyan](https://open.spotify.com/artist/1zkJxFjrO1fE8teyro4C3I) | [The Descent \- Original Film Soundtrack](https://open.spotify.com/album/4vBUedgDbjIGu2El09pwBJ) | 2:54 |

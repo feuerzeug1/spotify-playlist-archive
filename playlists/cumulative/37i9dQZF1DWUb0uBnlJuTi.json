@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 225566,
       "name": "Cherub",
       "url": "https://open.spotify.com/track/6rl1zyb30Edxrhz4QvRDUK"
@@ -2457,6 +2457,28 @@
     },
     {
       "album": {
+        "name": "Longseller Tornado",
+        "url": "https://open.spotify.com/album/0PbYTHm5JRVteBLBDEzNdI"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293013,
+      "name": "Longseller Tornado",
+      "url": "https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK"
+    },
+    {
+      "album": {
         "name": "Looking Back / Paint It Black",
         "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
       },
@@ -2988,6 +3010,24 @@
       "duration_ms": 157333,
       "name": "MXC.MMBL",
       "url": "https://open.spotify.com/track/6Sxnxm8dsA7SSNtT1TVtPK"
+    },
+    {
+      "album": {
+        "name": "Ancient Future",
+        "url": "https://open.spotify.com/album/4mBdaTjzZy9INBg1UcJ9J8"
+      },
+      "artists": [
+        {
+          "name": "Dwight Trible",
+          "url": "https://open.spotify.com/artist/5HzryqCINeBjTh2KnPtWnu"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368215,
+      "name": "My Stomping Ground",
+      "url": "https://open.spotify.com/track/6TpfO1F0nDR2O6tozhliaC"
     },
     {
       "album": {
@@ -3983,6 +4023,32 @@
     },
     {
       "album": {
+        "name": "Feel The Spirit",
+        "url": "https://open.spotify.com/album/3Hg9U218D9EgPrcGGQ3JIQ"
+      },
+      "artists": [
+        {
+          "name": "Lucas de Mulder",
+          "url": "https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ"
+        },
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168330,
+      "name": "Several Times",
+      "url": "https://open.spotify.com/track/229TmM6MFdMfkq57WlxJlI"
+    },
+    {
+      "album": {
         "name": "Shuffle Bubble",
         "url": "https://open.spotify.com/album/5a50Xdrh1DveFXmu9lWI05"
       },
@@ -4098,7 +4164,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 459809,
       "name": "Slow Change",
       "url": "https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0"
@@ -5120,7 +5186,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 176342,
       "name": "The Sun )",
       "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"

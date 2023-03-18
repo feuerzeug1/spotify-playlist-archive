@@ -104,7 +104,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 295333,
       "name": "Amor de mi vida",
       "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
@@ -2114,6 +2114,32 @@
       "duration_ms": 158076,
       "name": "Iron Maiden",
       "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
+    },
+    {
+      "album": {
+        "name": "Stallone",
+        "url": "https://open.spotify.com/album/4InaOHjXVZitzYJ0wYUaI7"
+      },
+      "artists": [
+        {
+          "name": "MxRxGxA",
+          "url": "https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M"
+        },
+        {
+          "name": "Gionni Grano",
+          "url": "https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb"
+        },
+        {
+          "name": "Gionni Gioielli",
+          "url": "https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "John Rambo",
+      "url": "https://open.spotify.com/track/0ZtqnQ7XfuAxHmFSXCJeEl"
     },
     {
       "album": {

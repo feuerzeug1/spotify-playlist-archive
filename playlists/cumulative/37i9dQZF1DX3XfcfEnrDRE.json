@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Between The Joy And The Sorrow - Part 2",
+        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Between The Joy And The Sorrow",
+      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
+    },
+    {
+      "album": {
         "name": "Bless the Broken Road",
         "url": "https://open.spotify.com/album/2MYXaXSh6ADFAo0wKkL1WN"
       },
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 248347,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws"

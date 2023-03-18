@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp?si=PR3NDmcERxS43WJOhOizBA\"> SUPERJAZZCLUB</a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS?si=mWugfQs4RISsLpEMEkQwlw\"> Amaarae</a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -458,6 +458,24 @@
       "duration_ms": 221881,
       "name": "ANCESTORS",
       "url": "https://open.spotify.com/track/0RSDH2CCDTzOZo0UIBiUNM"
+    },
+    {
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/1chFNnjmzacp0xb2uhgn7P"
+      },
+      "artists": [
+        {
+          "name": "H.O.M.A",
+          "url": "https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167992,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/3fPf1NouFIWvxJGZa7O07g"
     },
     {
       "album": {
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 187307,
       "name": "FINAL CHAMPION",
       "url": "https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 157100,
       "name": "Hey! - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP"
@@ -2978,7 +2996,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 199090,
       "name": "I Like",
       "url": "https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF"
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 113684,
       "name": "Isn't Love",
       "url": "https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6"
@@ -3486,7 +3504,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 228118,
       "name": "Kerewa (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/5mU4uP85HnxrmkJLOqVOKs"
@@ -4018,6 +4036,28 @@
       "duration_ms": 210733,
       "name": "Mars!",
       "url": "https://open.spotify.com/track/4WzG4lLHpWdis2seaFARqA"
+    },
+    {
+      "album": {
+        "name": "Subaru Boys : FINAL HEAVEN",
+        "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "MATILDA (feat. Brazy)",
+      "url": "https://open.spotify.com/track/4PdDPRNhKeS1krsLvclPUb"
     },
     {
       "album": {
@@ -4802,7 +4842,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 164571,
       "name": "Party Rider",
       "url": "https://open.spotify.com/track/3IxdNMA8CAdhUqzsKLVa0c"
@@ -5163,6 +5203,24 @@
     },
     {
       "album": {
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+    },
+    {
+      "album": {
         "name": "Retro 1981s",
         "url": "https://open.spotify.com/album/2DVZsdZv6RCEbrG2UzfIVb"
       },
@@ -5262,6 +5320,24 @@
       "duration_ms": 220894,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
+    },
+    {
+      "album": {
+        "name": "s_t_l",
+        "url": "https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206014,
+      "name": "s_t_l",
+      "url": "https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ"
     },
     {
       "album": {
@@ -5742,7 +5818,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 154615,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe"
@@ -6106,7 +6182,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 207750,
       "name": "Table for Two",
       "url": "https://open.spotify.com/track/2ztim2Wblnr9vsbATzyMg2"
@@ -6371,6 +6447,24 @@
     },
     {
       "album": {
+        "name": "Too Early",
+        "url": "https://open.spotify.com/album/2ysvTBST3QhzfQWaAmSKLS"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Too Early",
+      "url": "https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco"
+    },
+    {
+      "album": {
         "name": "Too Good",
         "url": "https://open.spotify.com/album/3tyZSkDg5L8sti6qwxrAs3"
       },
@@ -6466,6 +6560,24 @@
       "duration_ms": 148800,
       "name": "TROUBLE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw"
+    },
+    {
+      "album": {
+        "name": "troublin - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145594,
+      "name": "troublin - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
     },
     {
       "album": {

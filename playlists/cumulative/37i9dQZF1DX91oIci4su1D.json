@@ -3910,7 +3910,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 228750,
       "name": "Forgiven Not Forgotten",
       "url": "https://open.spotify.com/track/3WPkQDALdIsNZ1SY6bn9u2"
@@ -11126,6 +11126,28 @@
       "duration_ms": 180895,
       "name": "Transience",
       "url": "https://open.spotify.com/track/23fz2RgoUzHL3DdnaKccwO"
+    },
+    {
+      "album": {
+        "name": "Transmission (Armin van Buuren Remix)",
+        "url": "https://open.spotify.com/album/7k3gNgTTuM0f9cIRdW8FTP"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152012,
+      "name": "Transmission - Armin van Buuren Remix",
+      "url": "https://open.spotify.com/track/53QLyfbHqEtXK0ys7YW2Q4"
     },
     {
       "album": {

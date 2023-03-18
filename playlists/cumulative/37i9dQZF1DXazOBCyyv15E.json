@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Christine & The Queens",
+  "description": "The home of the best new alternative music. Cover: Art School Girlfriend",
   "name": "The Other List",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 182075,
       "name": "21/04/20",
       "url": "https://open.spotify.com/track/3a6Bj474rn6AGwRGgNBFMp"
+    },
+    {
+      "album": {
+        "name": "27 Club",
+        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214137,
+      "name": "27 Club",
+      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
     },
     {
       "album": {
@@ -552,7 +570,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 323210,
       "name": "A Place To Lie",
       "url": "https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R"
@@ -606,7 +624,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 433916,
       "name": "A&W",
       "url": "https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn"
@@ -704,7 +722,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 265183,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 243354,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 136904,
       "name": "Arbitrary Task",
       "url": "https://open.spotify.com/track/0JasEOAEqbm3vgH0lxMgMW"
@@ -4349,6 +4367,24 @@
     },
     {
       "album": {
+        "name": "Close To The Clouds",
+        "url": "https://open.spotify.com/album/1ds9pStLO5mM2C6OPKmHue"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241913,
+      "name": "Close To The Clouds",
+      "url": "https://open.spotify.com/track/1A8dRRtEaptNIbmpauJQ5E"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr"
       },
@@ -5350,6 +5386,24 @@
       "duration_ms": 163560,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3"
+    },
+    {
+      "album": {
+        "name": "Dangling",
+        "url": "https://open.spotify.com/album/3CVGCgZ770NSXp52pWvAgi"
+      },
+      "artists": [
+        {
+          "name": "VC Pines",
+          "url": "https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168934,
+      "name": "Dangling",
+      "url": "https://open.spotify.com/track/37dySZZK5SUzZbb2wHQRTb"
     },
     {
       "album": {
@@ -10271,6 +10325,24 @@
     },
     {
       "album": {
+        "name": "Hole Heart",
+        "url": "https://open.spotify.com/album/1lKMtQ2zkZGMq96FTe4NA1"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Hole Heart",
+      "url": "https://open.spotify.com/track/2cHEJfLPCYxeq2YpGO5ys3"
+    },
+    {
+      "album": {
         "name": "hollaback bitch (with Shygirl & Channel Tres)",
         "url": "https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5"
       },
@@ -11826,7 +11898,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 220493,
       "name": "It Holds And It Holds",
       "url": "https://open.spotify.com/track/5M7iggZ96oQFV6SVorUcFn"
@@ -11964,6 +12036,24 @@
       "duration_ms": 192528,
       "name": "It's Raining",
       "url": "https://open.spotify.com/track/4B1ytqZbISBTSvTnZ0BxgD"
+    },
+    {
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/68QR2RcoZoi8dMK0p0gLdm"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285308,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/21sMYVKeuKzBWwSg5uYeVJ"
     },
     {
       "album": {
@@ -12166,7 +12256,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 247499,
       "name": "Kandy",
       "url": "https://open.spotify.com/track/1I3YtpyO4auh961y23a1Ia"
@@ -12653,6 +12743,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba"
+    },
+    {
+      "album": {
         "name": "Leash",
         "url": "https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ"
       },
@@ -12704,6 +12812,24 @@
       "duration_ms": 196000,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/0q6BSDsaOryg8o396XTC8g"
+    },
+    {
+      "album": {
+        "name": "Rules of Love & War",
+        "url": "https://open.spotify.com/album/79cboKKu5bMRV8e3BH2mRH"
+      },
+      "artists": [
+        {
+          "name": "Trampolene",
+          "url": "https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Lena Lullaby",
+      "url": "https://open.spotify.com/track/7GrCdQwTCVblDFJhxUawac"
     },
     {
       "album": {
@@ -14180,6 +14306,24 @@
       "duration_ms": 212582,
       "name": "Melrose Meltdown",
       "url": "https://open.spotify.com/track/7kvlIHCMeZyQVG6Fsn10Vf"
+    },
+    {
+      "album": {
+        "name": "Meshuggah",
+        "url": "https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277986,
+      "name": "Meshuggah",
+      "url": "https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex"
     },
     {
       "album": {
@@ -15823,6 +15967,24 @@
     },
     {
       "album": {
+        "name": "Nowhere Game",
+        "url": "https://open.spotify.com/album/3JZkS9acXygfFkIpMhi7o1"
+      },
+      "artists": [
+        {
+          "name": "Patrick Wolf",
+          "url": "https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271080,
+      "name": "Nowhere Game",
+      "url": "https://open.spotify.com/track/3yT6Ho87fAxrvsbys6TGUx"
+    },
+    {
+      "album": {
         "name": "Nu Me Nu Yu",
         "url": "https://open.spotify.com/album/4CuqPBy6rYuJWhNkd8ZBFP"
       },
@@ -16044,7 +16206,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 271656,
       "name": "Oceans Niagara",
       "url": "https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ"
@@ -16562,6 +16724,24 @@
       "duration_ms": 183453,
       "name": "Paris, Texas",
       "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
+    },
+    {
+      "album": {
+        "name": "Parody",
+        "url": "https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "Parody",
+      "url": "https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v"
     },
     {
       "album": {
@@ -18012,7 +18192,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 159616,
       "name": "Rice",
       "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
@@ -18442,6 +18622,24 @@
       "duration_ms": 272065,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/6Oodwo629BxWY8uooHtP64"
+    },
+    {
+      "album": {
+        "name": "Run A Red Light",
+        "url": "https://open.spotify.com/album/1ZTEtG1ccndh87NNstEyZw"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219240,
+      "name": "Run A Red Light",
+      "url": "https://open.spotify.com/track/0blhg7DaKKEp0MaRyYfJEL"
     },
     {
       "album": {
@@ -19023,6 +19221,24 @@
     },
     {
       "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294640,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
+    },
+    {
+      "album": {
         "name": "Selfish Lover",
         "url": "https://open.spotify.com/album/4p0iYN45R6WZLCP03TpbkH"
       },
@@ -19414,7 +19630,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 184069,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/105fEjEgDVFrp4gAtyNJLY"
@@ -20040,7 +20256,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 160680,
       "name": "Someone Up There",
       "url": "https://open.spotify.com/track/2nORt1E3rcZX5CUueWSGgv"
@@ -20954,7 +21170,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 194109,
       "name": "SUGAR DIVE",
       "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
@@ -21272,7 +21488,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 213009,
       "name": "Swampy",
       "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
@@ -21330,7 +21546,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 430187,
       "name": "Sweets & Cursing",
       "url": "https://open.spotify.com/track/31gDKux23LLWzQcd1lcYJJ"
@@ -22106,6 +22322,24 @@
       "duration_ms": 250480,
       "name": "The First Day",
       "url": "https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT"
+    },
+    {
+      "album": {
+        "name": "The Grants",
+        "url": "https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295201,
+      "name": "The Grants",
+      "url": "https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze"
     },
     {
       "album": {
@@ -22908,6 +23142,28 @@
       "duration_ms": 221823,
       "name": "To be honest",
       "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
+    },
+    {
+      "album": {
+        "name": "To Be Yours (feat. Claud)",
+        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211782,
+      "name": "To Be Yours (feat. Claud)",
+      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
       "album": {

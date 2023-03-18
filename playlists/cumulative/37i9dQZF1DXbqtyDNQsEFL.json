@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "Amen (Wo Awie)",
+        "url": "https://open.spotify.com/album/6F5WDYPKrqpkaiyPrdt6J4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335499,
+      "name": "Amen (Wo Awie)",
+      "url": "https://open.spotify.com/track/2ovVSf8euc6wyL4vXIghLA"
+    },
+    {
+      "album": {
         "name": "We Are Fire",
         "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
       },
@@ -152,6 +174,28 @@
       "duration_ms": 599884,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/1rhgCARqlp1XCrnTz66y6Z"
+    },
+    {
+      "album": {
+        "name": "Assurance",
+        "url": "https://open.spotify.com/album/28ykxvEn1X7VE1XjDGNXHv"
+      },
+      "artists": [
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        },
+        {
+          "name": "Afolake",
+          "url": "https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/5LJ0LqhxAmRgqU0OtoxJ4X"
     },
     {
       "album": {
@@ -482,7 +526,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 392608,
       "name": "Edin No (The Name) - Live",
       "url": "https://open.spotify.com/track/2fH4PJrAYlT5kgjSLNZOlf"
@@ -834,7 +878,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 1373616,
       "name": "Have Your Way - Extended Version",
       "url": "https://open.spotify.com/track/03eLLtNoCSQwYBRBqglw2p"

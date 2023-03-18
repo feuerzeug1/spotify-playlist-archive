@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1469395,
+  "num_followers": 1470923,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwOTAzMSwwMDAwMDAwMGZiYzk4OThiNTEwMDBmMzI1Y2MxZmYzYzUzNjMyY2Fl",
+  "snapshot_id": "MTY3NzEwOTAzMSwwMDAwMDAwMGFjYzk2YjYyN2JkNDEzNWIwYjBkNGQ2YjgzOTkwMGNm",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
     },
     {
-      "added_at": "2023-03-16 01:47:47",
+      "added_at": "2023-03-18 00:43:39",
       "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "The Same Old Blood Rush With A New Touch",
-        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
-      },
-      "artists": [
-        {
-          "name": "Cute Is What We Aim For",
-          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "The Curse of Curves",
-      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Say It Like You Mean It",
         "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 258266,
       "name": "The Best Of Me",
       "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "The Same Old Blood Rush With A New Touch",
+        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
+      },
+      "artists": [
+        {
+          "name": "Cute Is What We Aim For",
+          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "The Curse of Curves",
+      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/58Jc2HiAkRzpBQlbknJbtP"
-      },
-      "artists": [
-        {
-          "name": "Anarbor",
-          "url": "https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
@@ -1071,18 +1055,34 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "A Lesson In Romantics",
-        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/58Jc2HiAkRzpBQlbknJbtP"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "Anarbor",
+          "url": "https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/6gxupt6imt0qIdbE8e356n"
+      "duration_ms": 177760,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8"
+    },
+    {
+      "added_at": "2023-03-18 00:43:39",
+      "album": {
+        "name": "Deja Entendu",
+        "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
+      },
+      "artists": [
+        {
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Sic Transit Gloria ... Glory Fades",
+      "url": "https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1101,7 +1101,23 @@
       "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
-      "added_at": "2023-03-16 01:47:47",
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "A Lesson In Romantics",
+        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/6gxupt6imt0qIdbE8e356n"
+    },
+    {
+      "added_at": "2023-03-18 00:43:39",
       "album": {
         "name": "Is a Real Boy",
         "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"
@@ -1115,22 +1131,6 @@
       "duration_ms": 255175,
       "name": "Alive With the Glory of Love",
       "url": "https://open.spotify.com/track/6YEs8KWsFKQmULF5CUOz4n"
-    },
-    {
-      "added_at": "2023-03-16 01:47:47",
-      "album": {
-        "name": "Deja Entendu",
-        "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
-      },
-      "artists": [
-        {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Sic Transit Gloria ... Glory Fades",
-      "url": "https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o"
     },
     {
       "added_at": "2022-08-02 18:47:58",

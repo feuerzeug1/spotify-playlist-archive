@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Co\-curated by <a href="https://open.spotify.com/playlist/37i9dQZF1EFEmM5igE6t5U?si=63b7635077ac4ada">Alicia Keys</a> for International Women's Day.
 
-540 songs - 1 day 5 hr 53 min
+541 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [Guilty Conscience](https://open.spotify.com/track/0w1VK63Lh4ZOAzO0rSc0Ni) | [Ella Fae](https://open.spotify.com/artist/78DwvCbaNtQoQTgXmz56jW) | [Guilty Conscience](https://open.spotify.com/album/0dJTCm2MgEOSzB9JPoGRA4) | 3:01 | 2023-01-04 | 2023-02-02 |
 | [HALF OF THE TIME](https://open.spotify.com/track/38fh5440ElzznYTDvsWYPm) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [OMG I MADE IT](https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp) | 3:59 | 2022-02-02 | 2022-03-09 |
 | [happy for you](https://open.spotify.com/track/46kom4ngIjR8BBRIodwWY4) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the debut farewell album](https://open.spotify.com/album/3iWRmRghXrGibQlzqNkbLQ) | 2:04 | 2022-01-05 | 2022-07-07 |
-| [happy place](https://open.spotify.com/track/3MbiroMG6peCHunxhg7Uvg) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep](https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2) | 3:37 | 2023-03-01 |  |
+| [happy place](https://open.spotify.com/track/11Wc47w3kwfGzCZnH44DT7) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep \(deluxe\)](https://open.spotify.com/album/59i3drfYd0zO4OLECmFCPB) | 3:37 | 2023-03-01 |  |
+| [happy place](https://open.spotify.com/track/3MbiroMG6peCHunxhg7Uvg) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep](https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2) | 3:37 | 2023-03-01 | 2023-03-18 |
 | [hard feelings](https://open.spotify.com/track/5sZyB7g56Oy6bs7WLLHZwU) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:30 | 2022-09-07 | 2022-10-06 |
 | [hating myself in the summer](https://open.spotify.com/track/0W94oSiDJwCViDJ7cg8pRH) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [hating myself in the summer](https://open.spotify.com/album/3qMSTBdlyljwqzzTiP5xV0) | 2:42 | 2022-03-08 | 2022-04-07 |
 | [hating myself in the summer](https://open.spotify.com/track/3Pb372Lorpke7HiBvNaKff) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [twenty something](https://open.spotify.com/album/6BsMfOPu12jc6fnPtHjeSe) | 2:42 | 2022-06-01 | 2022-07-07 |

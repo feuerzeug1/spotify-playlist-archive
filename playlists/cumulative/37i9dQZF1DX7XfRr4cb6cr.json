@@ -964,7 +964,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 204532,
       "name": "Full Av Tomhet",
       "url": "https://open.spotify.com/track/0tOAVxzcetDy2wzrJ0Hmk8"
@@ -2030,6 +2030,24 @@
       "duration_ms": 617500,
       "name": "Moments In Love",
       "url": "https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd"
+    },
+    {
+      "album": {
+        "name": "South of Heaven",
+        "url": "https://open.spotify.com/album/4L2Mnyxrpn2hxO87Gdu44M"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141198,
+      "name": "Moneycomb",
+      "url": "https://open.spotify.com/track/5F7uxeMTy6JwRiBZt6TiDs"
     },
     {
       "album": {
@@ -3288,7 +3306,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 360000,
       "name": "The Smoke In The Photo - Remastered",
       "url": "https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B"
@@ -3716,7 +3734,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 135062,
       "name": "Wasa Stone Trio",
       "url": "https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G"

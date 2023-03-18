@@ -103,6 +103,32 @@
     },
     {
       "album": {
+        "name": "2000X",
+        "url": "https://open.spotify.com/album/3hSuLnaYB9HBgCfX2ApgYo"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        },
+        {
+          "name": "Fobia Kid",
+          "url": "https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta"
+        },
+        {
+          "name": "Dalyb",
+          "url": "https://open.spotify.com/artist/0GZP8QBchHTcjn9jFtLDtK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230703,
+      "name": "2000X",
+      "url": "https://open.spotify.com/track/0KOpZ0Ss2HfsDaIPPGcgLq"
+    },
+    {
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1hgGB8oWJKzhRNPPkrWj5y"
       },
@@ -1028,7 +1054,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 177777,
       "name": "ASI",
       "url": "https://open.spotify.com/track/0uzg5TTKteL3Id1SDZbLF0"
@@ -10430,7 +10456,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 77360,
       "name": "Klub b\u00fdval\u00fdch",
       "url": "https://open.spotify.com/track/5RG6jLFbb40PrBDP5HWxzb"
@@ -13238,7 +13264,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -17476,7 +17502,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 162973,
       "name": "River",
       "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
@@ -21848,7 +21874,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 259030,
       "name": "Vad\u00ed Nevad\u00ed",
       "url": "https://open.spotify.com/track/67vDMMbVmACj9ZOzMfMcx2"

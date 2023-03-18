@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-103 songs - 6 hr 43 min
+104 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Homesick's Shuffle](https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Blues On The South Side](https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC) | 4:14 | 2022-05-25 |  |
 | [Hot and Heavy](https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 1:56 | 2022-05-25 |  |
 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 | 2022-05-25 |  |
+| [If You're Not Mine](https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:23 | 2023-03-17 |  |
 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 | 2022-05-25 |  |
 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/2ukRDdimXaalohB9F4bAXb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 1:34 | 2022-05-25 | 2022-07-28 |
 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 1:34 | 2022-07-29 |  |
@@ -67,7 +68,7 @@
 | [Midnight In Memphis](https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps) | [Curtis Baker & The Bravehearts](https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR) | [Midnight In Memphis](https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60) | 3:07 | 2022-11-24 |  |
 | [Mr\. B.](https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE) | [Tomislav Goluban](https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN), [Boško Petrović](https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA) | [Mr\. B.](https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs) | 6:45 | 2023-03-03 |  |
 | [Night Train](https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Night Train](https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s) | 2:59 | 2022-05-25 |  |
-| [Ode to Lynn Taitt](https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Cindy Cashdollar](https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4) | [Ode to Lynn Taitt](https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h) | 3:01 | 2022-11-24 |  |
+| [Ode to Lynn Taitt](https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Cindy Cashdollar](https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4) | [Ode to Lynn Taitt](https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h) | 3:01 | 2022-11-24 | 2023-03-18 |
 | [Off The Wall](https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 | 2022-05-25 |  |
 | [Okie Dokie Stomp](https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Peacock Recordings: 1949\-1959](https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV) | 2:34 | 2022-05-25 |  |
 | [Overall Junction](https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 8:20 | 2022-05-25 |  |

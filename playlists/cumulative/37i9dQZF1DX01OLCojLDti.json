@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
+      },
+      "artists": [
+        {
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210148,
+      "name": "Free Flight",
+      "url": "https://open.spotify.com/track/2AZuJhYwI8eALfuCsri0IP"
+    },
+    {
+      "album": {
         "name": "Welcome to \u50d5\u3089\u306e\u30bb\u30ab\u30a4 / Go!! \u30ea\u30b9\u30bf\u30fc\u30c8 (\u7b2c1\u8a71\u76e4)",
         "url": "https://open.spotify.com/album/2DNuAnj2LYjDW5A2ueXQWa"
       },
@@ -384,7 +402,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 234946,
       "name": "Memories",
       "url": "https://open.spotify.com/track/6YREr5OQi0Xf8kxxF9wkXp"

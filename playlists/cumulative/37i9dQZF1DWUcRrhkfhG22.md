@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-89 songs - 6 hr 40 min
+90 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [I Can Make Ya](https://open.spotify.com/track/5kkbdQmOMbSReknRRGi72G) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [I Can Make Ya](https://open.spotify.com/album/7nME0SUHAOYMtWxIyAanan) | 3:58 | 2020-09-18 |  |
 | [Imagination](https://open.spotify.com/track/64CJhB3uGmoLnf8x4z5mog) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [All Night Long](https://open.spotify.com/album/6CgKJxu3TjAVV7lyc1CLGi) | 3:05 | 2020-09-18 |  |
 | [Keep Screaming](https://open.spotify.com/track/5QxsgScMCzpN0SwpdJVQqw) | [Madd3e](https://open.spotify.com/artist/6QnSsfZW8okVlHBenG0Nu2) | [Keep Screaming](https://open.spotify.com/album/7KQcBftJPMJb6WOe6FOutC) | 2:53 | 2022-05-06 |  |
+| [Let's Go Together](https://open.spotify.com/track/52A67oeovso5ADtHCR7LJs) | [Bona Bones](https://open.spotify.com/artist/5gW0xZN1FxeI1Wdi1qY3tN) | [Let's Go Together](https://open.spotify.com/album/3ffgb8aHC3sycnVQsgcyaT) | 3:22 | 2023-03-17 |  |
 | [Like a Robot](https://open.spotify.com/track/5gHb5pxavFmxVJwMvQenl2) | [Dogg Master](https://open.spotify.com/artist/7D7OH1u01xndWNoeG153gy), [Busta Brown](https://open.spotify.com/artist/4KagRlTqZ01I5oyFiUcie0) | [Like a Robot](https://open.spotify.com/album/2OdHcVJdxJVtu9lFmjEt3G) | 3:16 | 2020-09-18 |  |
 | [Livin' It Up](https://open.spotify.com/track/1736zC0ecfHYQf0fSOFx1k) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 3:32 | 2020-10-26 |  |
 | [Love Thang \- Long Version](https://open.spotify.com/track/55Q1gdClrnRYk8HnRkUK0m) | [Fredi Grace](https://open.spotify.com/artist/1lDpsgE48uQcfZh6vpj8Fh), [Rhinstone](https://open.spotify.com/artist/53kfXebhQMaddxG1eDbCgp) | [Get On Your Mark \(Expanded Version\)](https://open.spotify.com/album/1CzTtpcgi4LvfR3u02t1gk) | 7:17 | 2020-09-18 |  |

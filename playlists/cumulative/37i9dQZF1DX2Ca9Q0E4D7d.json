@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Binaural Beta Waves",
+        "url": "https://open.spotify.com/album/2V2HmzfobUf8xqE7yPPcQ3"
+      },
+      "artists": [
+        {
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196406,
+      "name": "Beta Ambience 92 + 96 hz",
+      "url": "https://open.spotify.com/track/6s1OXyadYotrzBDzTjfyjY"
+    },
+    {
+      "album": {
         "name": "Textures",
         "url": "https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk"
       },

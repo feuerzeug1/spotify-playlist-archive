@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jake Shears",
-  "num_followers": 79432,
+  "num_followers": 79665,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDU1YjVlYTNhMjZmZDhkZGU0ZWY2ZDM2M2Y5ODZiMDAw",
+  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMDI0YTdhOWUyMGM3ODY2NDMyZGMyNDEwOTc5NzgyNTk0",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -45,6 +45,42 @@
       "url": "https://open.spotify.com/track/0WwJffrixdTk9m74Gr5K1N"
     },
     {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Foreal to Real EP",
+        "url": "https://open.spotify.com/album/4bZCsip7tfhmmcQkPxPOTT"
+      },
+      "artists": [
+        {
+          "name": "Foreal People",
+          "url": "https://open.spotify.com/artist/3HzsfFc9UxQSimCcQw3xIC"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "duration_ms": 444172,
+      "name": "In The Mood To Groove - Dave Lee Extended Mix",
+      "url": "https://open.spotify.com/track/1ZAgfz1nuysUBaqOcpxGG2"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/7pYDdpY6EsjgoWKG22rnqG"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        }
+      ],
+      "duration_ms": 438421,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/7IKT5V9D9pbXzCEjw3465z"
+    },
+    {
       "added_at": "2023-02-17 05:01:00",
       "album": {
         "name": "Songs I Wish I'd Written: Vol. 5",
@@ -59,6 +95,22 @@
       "duration_ms": 264000,
       "name": "Out of Your Mind",
       "url": "https://open.spotify.com/track/6hzfmSXnmXPhOXs6aWH0JC"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Light up on the Weekend",
+        "url": "https://open.spotify.com/album/0VII0KsD4bEWDciyFPmY9T"
+      },
+      "artists": [
+        {
+          "name": "Me & My Toothbrush",
+          "url": "https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Light up on the Weekend",
+      "url": "https://open.spotify.com/track/1QMKUF63vVQQxrs2JRADnw"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -77,6 +129,46 @@
       "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
     },
     {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Ticket to the Moon",
+        "url": "https://open.spotify.com/album/5PuxGOFsboXuUmD8X7jShz"
+      },
+      "artists": [
+        {
+          "name": "Carvel'",
+          "url": "https://open.spotify.com/artist/0I4uy2IXjgZo96j10CpaMf"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "Ticket to the Moon",
+      "url": "https://open.spotify.com/track/1fXfLc7IUxBFUXWz63R7qy"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "I'm Ready",
+        "url": "https://open.spotify.com/album/2JkxOn5bY1Uamzo82VpHCD"
+      },
+      "artists": [
+        {
+          "name": "Flamingo Cartel",
+          "url": "https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D"
+        },
+        {
+          "name": "DJ TARO",
+          "url": "https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo"
+        },
+        {
+          "name": "Zorina",
+          "url": "https://open.spotify.com/artist/72olVPy3d6dn6ELACg30UG"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/04TdG6iigOntS4dyQHuxwY"
+    },
+    {
       "added_at": "2023-03-10 05:01:00",
       "album": {
         "name": "Love Like That",
@@ -91,6 +183,26 @@
       "duration_ms": 198386,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/4SeRgGadREC8IIbRuhs6Rd"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Ride Away",
+        "url": "https://open.spotify.com/album/735E1oxxzqMBQ8mxL2ZGf1"
+      },
+      "artists": [
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        },
+        {
+          "name": "Praa",
+          "url": "https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Only Direction",
+      "url": "https://open.spotify.com/track/7vfIujNURf69jVWWTfxu3N"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -1301,22 +1413,6 @@
       "url": "https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "r u sure?",
-        "url": "https://open.spotify.com/album/16S9K4WiAG8JTcq4fbGU63"
-      },
-      "artists": [
-        {
-          "name": "moanday",
-          "url": "https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "too good to be true",
-      "url": "https://open.spotify.com/track/3fdpFnoBfov64278JqhDHX"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Circumstance (The Remixes)",
@@ -1537,30 +1633,6 @@
       "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Try Again",
-        "url": "https://open.spotify.com/album/73TY0JHIcJrLAvpgppmTQs"
-      },
-      "artists": [
-        {
-          "name": "JKriv",
-          "url": "https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K"
-        },
-        {
-          "name": "The Phenomenal Handclap Band",
-          "url": "https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 245286,
-      "name": "Try Again - Single Edit",
-      "url": "https://open.spotify.com/track/1V3roFh4ZJRPIJekw9Y78R"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Alegr\u00eda (Franc Moody Remix)",
@@ -1635,26 +1707,6 @@
       "duration_ms": 181285,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Stop (Soulpersona 'Red Light' Remix)",
-        "url": "https://open.spotify.com/album/3VRjmxJeIugxi2wclgXU9O"
-      },
-      "artists": [
-        {
-          "name": "Princess Freesia",
-          "url": "https://open.spotify.com/artist/7KGXDaB3Tmfz0Fpa74qnER"
-        },
-        {
-          "name": "Soulpersona",
-          "url": "https://open.spotify.com/artist/4SOCuwOpa0FUmQ57i9C362"
-        }
-      ],
-      "duration_ms": 272544,
-      "name": "Stop - Soulpersona 'Red Light' Remix",
-      "url": "https://open.spotify.com/track/2iDvUs9u03xKp7bxVaaOeV"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1777,30 +1829,6 @@
       "url": "https://open.spotify.com/track/4r2X6g6gOiHBCaOOZJbdw7"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 206636,
-      "name": "Dance Around It (feat. Brandi Carlile & Sheryl Crow)",
-      "url": "https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "Imagine You",
@@ -1855,42 +1883,6 @@
       "duration_ms": 175087,
       "name": "Fall For You",
       "url": "https://open.spotify.com/track/3zfBJlugaINCF6UyRiVg2J"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 220550,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Queen (Cool Company Remix)",
-        "url": "https://open.spotify.com/album/1UOeukefSXVZIOA4s8qt3O"
-      },
-      "artists": [
-        {
-          "name": "Magic City Hippies",
-          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
-        },
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "Queen - Cool Company Remix",
-      "url": "https://open.spotify.com/track/0AgZmFOM3Yq0Zok6OlvHve"
     }
   ],
   "unique_name": "Nu-Disco",

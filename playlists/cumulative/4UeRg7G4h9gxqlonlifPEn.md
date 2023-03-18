@@ -4,7 +4,7 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Harold
 
-210 songs - 9 hr 51 min
+213 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 | 2022-08-05 |  |
 | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne) | 2:51 | 2022-11-18 |  |
 | [ANXIETY](https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ANXIETY](https://open.spotify.com/album/4urAq6KDiVLZjNGofhWQKm) | 2:16 | 2022-06-03 | 2022-09-17 |
+| [Bacc Like I Never Left](https://open.spotify.com/track/28UHFrXxU6V6J2Wh2Bp3gQ) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Bacc Like I Never Left](https://open.spotify.com/album/7o86mmziw5xMO0oIO3KGaB) | 2:35 | 2023-03-17 |  |
 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5) | 1:46 | 2022-06-03 | 2022-08-06 |
 | [Bag Talk](https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bag Talk](https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5) | 2:27 | 2022-10-28 |  |
 | [Bassline](https://open.spotify.com/track/1Mxxb2DvCDdLvNqaHEzzpD) | [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [Bassline](https://open.spotify.com/album/0qInLMG7pD2429GUes51aT) | 3:00 | 2022-06-03 | 2023-02-18 |
@@ -59,6 +60,7 @@
 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-06-03 |  |
 | [Damn \(feat\. G Herbo\)](https://open.spotify.com/track/7Dy1LrsEmooLc39o5bSk7k) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Damn \(feat\. G Herbo\)](https://open.spotify.com/album/6qlLwfmIfkvJjCiEiLiUgI) | 3:37 | 2022-11-18 |  |
 | [Danger](https://open.spotify.com/track/471FWaPy9XscLiSggofiOp) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3) | [Danger](https://open.spotify.com/album/24ZUzBMda4Xpn3FdsM3V2G) | 2:03 | 2022-12-02 |  |
+| [Danny Phantom](https://open.spotify.com/track/35j3snzXeXVqDiRQf1cmeg) | [Teflon Zay](https://open.spotify.com/artist/3AFIv9mCacdqjnxIebQhbS) | [Danny Phantom](https://open.spotify.com/album/4PwL5Hd7azNTCfARLXI3f7) | 3:27 | 2023-03-17 |  |
 | [Demons](https://open.spotify.com/track/7ai0VlJiTZXqIKRlgrx7zi) | [Lil 1 DTE](https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn) | [Demons](https://open.spotify.com/album/7uVVW3UQWcHg3o5X2vqd5R) | 2:11 | 2022-07-15 |  |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-06-03 | 2023-03-04 |
 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 | 2022-10-14 |  |
@@ -125,6 +127,7 @@
 | [Man Down](https://open.spotify.com/track/2XR0Ou0pDaQ2bmVMsG90qe) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Man Down](https://open.spotify.com/album/09m8euGboz6XzRCjsf9ezz) | 2:57 | 2022-06-03 | 2022-09-17 |
 | [Margiela Witch \(feat\. Riot Angel\)](https://open.spotify.com/track/2tA8XgdDVUnCJbLNq978JO) | [Murda B](https://open.spotify.com/artist/4HuE6dCutt16fdrJiA2uqr), [Riot Angel](https://open.spotify.com/artist/1o0cs4V17ol8ElH8a2uqsI) | [Margiela Witch \(feat\. Riot Angel\)](https://open.spotify.com/album/2C5XYLPcwQrRkanRU4KvdN) | 2:11 | 2023-02-17 |  |
 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 3:45 | 2022-06-03 | 2022-10-15 |
+| [Miss My Dawgs](https://open.spotify.com/track/2awqTMCDHNsjjCTmyZMbzC) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Miss My Dawgs](https://open.spotify.com/album/2psNSLTl3ybgpka3Hk712V) | 3:12 | 2023-03-17 |  |
 | [MORE THAN FRIENDS](https://open.spotify.com/track/3woWtzkN6KKSfX7VBW6nDg) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:18 | 2022-07-29 |  |
 | [Motions](https://open.spotify.com/track/0cyHAFeqh5Y0YkXNqnURJP) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ) | [Motions](https://open.spotify.com/album/5X9AtdHgN06oY40tSnV2b8) | 2:09 | 2022-06-03 | 2023-02-18 |
 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 | 2022-09-16 |  |

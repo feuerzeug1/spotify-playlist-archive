@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-266 songs - 15 hr 38 min
+267 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Dracula Swing \- Swahn Remix](https://open.spotify.com/track/37i6PdvL2KGTgKojmNAFWM) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc), [Swahn](https://open.spotify.com/artist/2pkSQjanu8QgmGBLFvqEri) | [Electro Speakeasy Club, Vol\. 1 \(Mixed by Dr Cat\)](https://open.spotify.com/album/3g3iI6wvPoaG0xZQNI4fs2) | 7:19 | 2022-10-12 | 2022-11-08 |
 | [Empires](https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY) | [It Flew By](https://open.spotify.com/album/3PwKRBTI8qZfij6rcT7bP2) | 3:10 | 2020-10-30 |  |
 | [Empires](https://open.spotify.com/track/7BilkHwC8zy0Mv67wsGiUM) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY) | [It Flew By](https://open.spotify.com/album/5XFucNk2gXgSbcQbuzgOW5) | 3:10 | 2020-10-30 | 2022-07-29 |
-| [End of the World Party](https://open.spotify.com/track/3fHEXWt9o5xQSTINggTtrm) | [Nestor Kéa](https://open.spotify.com/artist/7oWKh4R1VZ1jXgka3iXgpo) | [Les Oiseaux Scratchent Pour Mourir](https://open.spotify.com/album/7mvRmeLqeW3w8moijO2bQ8) | 2:47 | 2022-11-07 |  |
+| [End of the World Party](https://open.spotify.com/track/3fHEXWt9o5xQSTINggTtrm) | [Nestor Kéa](https://open.spotify.com/artist/7oWKh4R1VZ1jXgka3iXgpo) | [Les Oiseaux Scratchent Pour Mourir](https://open.spotify.com/album/7mvRmeLqeW3w8moijO2bQ8) | 2:47 | 2022-11-07 | 2023-03-18 |
 | [Evil](https://open.spotify.com/track/29DlkdM6lBrxTl1NkbTphy) | [The Vaude Villainz](https://open.spotify.com/artist/6oep99RRsuJSNN1Hw5g3sR) | [Voodoo Swing](https://open.spotify.com/album/3KX6WYtBTm0826dMFTplPE) | 3:40 | 2022-10-12 | 2022-11-08 |
 | [Extra Fries](https://open.spotify.com/track/556y7EL1trkqGtevzn8684) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Merry\-Go\-Round\-And\-Round](https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd) | 2:00 | 2022-09-02 |  |
 | [Fallen World](https://open.spotify.com/track/43JHup1dQxUg6csXXFXXqH) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a), [Kumiho](https://open.spotify.com/artist/4t0HSuBBnJfGBkQe4cAaCm) | [Fallen World](https://open.spotify.com/album/16zC5JX98ONcA99BQYDNgG) | 3:48 | 2020-10-30 |  |
@@ -218,6 +218,7 @@
 | [Superhero \- Original Mix](https://open.spotify.com/track/6kWxGDy6M6IBoUphdmYTSq) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn) | [Superhero](https://open.spotify.com/album/6v3ulVHcqgaI7Rc4Houepz) | 5:27 | 2020-10-30 | 2022-07-29 |
 | [Swag Bag](https://open.spotify.com/track/0u7gdux7Ft6P69Uyj0pa4a) | [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN), [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [Electro Carousel Club Night \(Selected by Dr Cat\)](https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm) | 4:25 | 2020-10-30 |  |
 | [Sweet Dreams](https://open.spotify.com/track/4qGh4pp8kcRcSZ4fvBhQ4M) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Varrick Frost](https://open.spotify.com/artist/294JUMftLLs3Ezkc77s9WV), [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy) | [Sweet Dreams \(Electro Swing\)](https://open.spotify.com/album/56buYMPiuZZsRkcDuCC93d) | 3:09 | 2022-10-12 | 2022-11-08 |
+| [Swing Delusion](https://open.spotify.com/track/4Xv0OEuS4178t2vEVzdDQO) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF), [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2) | [Wild & Groovy](https://open.spotify.com/album/66tlY8Lw40KgqtOKPAz3Ej) | 3:32 | 2023-03-17 |  |
 | [Swing in Spring \- Betty Booom Remix](https://open.spotify.com/track/6vO3EyfktDjOkCQPu9V4Ok) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Offbeat](https://open.spotify.com/artist/12KL2KtHU30NBJFMJSZZvA), [Nina Zeitlin](https://open.spotify.com/artist/4YRO8W8k2IdbUMNOgIfCSL), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Swing in Spring \(Betty Booom Remix\)](https://open.spotify.com/album/2VSca5LgyZPnQXNBa9Gc5J) | 2:54 | 2021-04-16 |  |
 | [Swing It Like Roger](https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Bend the Rules](https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK) | 3:16 | 2020-10-30 | 2023-03-11 |
 | [Take It Easy](https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5) | [Carola Jasmins](https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo) | [Electro Carousel Club Night \(Selected by Dr Cat\)](https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm) | 3:20 | 2020-10-30 |  |

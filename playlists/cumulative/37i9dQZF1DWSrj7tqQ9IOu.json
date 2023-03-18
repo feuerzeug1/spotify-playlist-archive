@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Christine and the Queens",
+  "description": "The best French indie tracks right now. Cover: Emma Hoet",
   "name": "Made in France",
   "tracks": [
     {
@@ -428,7 +428,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 172509,
       "name": "BB toi & moi",
       "url": "https://open.spotify.com/track/1CyELRjfViP1ihdN8i0GKI"
@@ -2265,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "Dans cent ans",
+        "url": "https://open.spotify.com/album/5GbVEUDKSF372hQLZMcbUb"
+      },
+      "artists": [
+        {
+          "name": "Flavien Berger",
+          "url": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/0EReTW8JFj00nBZszTFivN"
+    },
+    {
+      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/1qMUT2E2k5Ri7Haqrgq9IB"
       },
@@ -2334,6 +2352,24 @@
       "duration_ms": 174706,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5ecCBIKQYag4emCVBAPcBX"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9t\u00e9o Mirage",
+          "url": "https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181712,
+      "name": "Kic\u00e9Kic\u00e9",
+      "url": "https://open.spotify.com/track/2MPZECEDHleHucVAsDdeoD"
     },
     {
       "album": {
@@ -2522,7 +2558,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 198133,
       "name": "La joie",
       "url": "https://open.spotify.com/track/68Z6eIQNstXk0SZRfAbqM1"
@@ -2670,7 +2706,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 187291,
       "name": "La vieille maison",
       "url": "https://open.spotify.com/track/2VeWiX4VpEh5FlSqAI8ZxH"
@@ -2728,6 +2764,24 @@
       "duration_ms": 190866,
       "name": "Last September",
       "url": "https://open.spotify.com/track/6yJKFbODJ05XHX9EwvtWYA"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba"
     },
     {
       "album": {
@@ -3430,7 +3484,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 216466,
       "name": "M\u00e9lodie (with DORA)",
       "url": "https://open.spotify.com/track/0t2zRI2lKyJOLsVqAVL6qi"
@@ -5036,7 +5090,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 223905,
       "name": "Toupies",
       "url": "https://open.spotify.com/track/2OjATTlZrAxGtQVQjec1Kj"
@@ -5166,6 +5220,24 @@
       "duration_ms": 192979,
       "name": "Un coup de g\u00e9nie",
       "url": "https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6"
+    },
+    {
+      "album": {
+        "name": "Un jour ou deux",
+        "url": "https://open.spotify.com/album/03WZecSeLD4y8Dn4FB74X0"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205548,
+      "name": "Un jour ou deux",
+      "url": "https://open.spotify.com/track/1S3FS1rQ8EOoA3MhLVjhxO"
     },
     {
       "album": {
@@ -5336,6 +5408,24 @@
       "duration_ms": 255302,
       "name": "Voices In Your Head",
       "url": "https://open.spotify.com/track/4HBWcKtybdLFvFQpE2kQuy"
+    },
+    {
+      "album": {
+        "name": "Walking On the Line",
+        "url": "https://open.spotify.com/album/0IzRb9JqkitCfJaayIBkf4"
+      },
+      "artists": [
+        {
+          "name": "Later.",
+          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278357,
+      "name": "Walking On the Line",
+      "url": "https://open.spotify.com/track/11TRPmEZ4xhgwPpBOb19bu"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by a number of our ambassadors for International Women\u2019s Day. Cover: Jamala.",
-  "num_followers": 876385,
+  "num_followers": 876302,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI2ODA0MywwMDAwMDAwMGE4ZTQzMDFmY2ZkNzVjMGQ4MDc4OTY0MTM4YTY3ZGEx",
+  "snapshot_id": "MTY3ODI2ODA0MywwMDAwMDAwMGZlZDllODI4M2M0ZDc5MzI0OTcwYjE4NDQ2YWY5YmEw",
   "tracks": [
     {
       "added_at": "2023-03-05 05:00:00",
@@ -195,22 +195,6 @@
       "duration_ms": 174801,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -475,22 +459,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "A Woman's Worth",
-      "url": "https://open.spotify.com/track/1NRorokmYEtr1koWybvaE4"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "Prologue : Love",
         "url": "https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 282680,
       "name": "Bad",
       "url": "https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "A Woman's Worth",
+      "url": "https://open.spotify.com/track/1NRorokmYEtr1koWybvaE4"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -575,22 +559,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/7kWuhKieZArg50eaH8PKXJ"
-      },
-      "artists": [
-        {
-          "name": "CATT",
-          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
-        }
-      ],
-      "duration_ms": 243870,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/1YlDncsZulH1XolY0zDOUL"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "Things Aren't Nice In Paradise",
         "url": "https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz"
       },
@@ -603,6 +571,22 @@
       "duration_ms": 191788,
       "name": "Things Aren't Nice In Paradise",
       "url": "https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/7kWuhKieZArg50eaH8PKXJ"
+      },
+      "artists": [
+        {
+          "name": "CATT",
+          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
+        }
+      ],
+      "duration_ms": 243870,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/1YlDncsZulH1XolY0zDOUL"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -727,6 +711,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "All We Wanna Do",
+        "url": "https://open.spotify.com/album/6iiozkGWIugAbJL9wy3Bso"
+      },
+      "artists": [
+        {
+          "name": "Valeria Stoica",
+          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+        }
+      ],
+      "duration_ms": 186669,
+      "name": "All We Wanna Do",
+      "url": "https://open.spotify.com/track/3PZN1KTfFyZ3ZG4IvsVVvH"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "KOLIR",
         "url": "https://open.spotify.com/album/5g2VoLcAYrIdz1SDDBgmle"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Majhail",
-        "url": "https://open.spotify.com/album/50XooNqT3gwRIsGEXaifSf"
-      },
-      "artists": [
-        {
-          "name": "Barbie Maan",
-          "url": "https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat"
-        }
-      ],
-      "duration_ms": 217402,
-      "name": "Majhail",
-      "url": "https://open.spotify.com/track/0Zg0M6BuusAQHHTmWgaHFD"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "A Beautiful Noise",
         "url": "https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
+        "name": "Majhail",
+        "url": "https://open.spotify.com/album/50XooNqT3gwRIsGEXaifSf"
+      },
+      "artists": [
+        {
+          "name": "Barbie Maan",
+          "url": "https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat"
+        }
+      ],
+      "duration_ms": 217402,
+      "name": "Majhail",
+      "url": "https://open.spotify.com/track/0Zg0M6BuusAQHHTmWgaHFD"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
         "name": "Reina de la Canci\u00f3n Latina",
         "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
@@ -815,38 +815,6 @@
       "duration_ms": 165213,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
-        "name": "All We Wanna Do",
-        "url": "https://open.spotify.com/album/6iiozkGWIugAbJL9wy3Bso"
-      },
-      "artists": [
-        {
-          "name": "Valeria Stoica",
-          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
-        }
-      ],
-      "duration_ms": 186669,
-      "name": "All We Wanna Do",
-      "url": "https://open.spotify.com/track/3PZN1KTfFyZ3ZG4IvsVVvH"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
-        "name": "SBAGLIATA ASCENDENTE LEONE (OFFICIAL SOUNDTRACK)",
-        "url": "https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P"
-      },
-      "artists": [
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        }
-      ],
-      "duration_ms": 206020,
-      "name": "Sbagliata Ascendente Leone - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -867,6 +835,22 @@
       "duration_ms": 131199,
       "name": "Malas Lenguas",
       "url": "https://open.spotify.com/track/1bLyqRntlR5BTcFvhcQOuO"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "SBAGLIATA ASCENDENTE LEONE (OFFICIAL SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "duration_ms": 206020,
+      "name": "Sbagliata Ascendente Leone - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -907,22 +891,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Mooier Als Je Lacht",
-        "url": "https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 218499,
-      "name": "Mooier Als Je Lacht",
-      "url": "https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "kung nag-aatubili",
         "url": "https://open.spotify.com/album/0pjg8cFcbZyXiMnYLUx927"
       },
@@ -935,6 +903,22 @@
       "duration_ms": 231605,
       "name": "kung nag-aatubili",
       "url": "https://open.spotify.com/track/6sDrozuLsdLbePAesxDvNy"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Mooier Als Je Lacht",
+        "url": "https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Mooier Als Je Lacht",
+      "url": "https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -987,22 +971,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "O quarto (fado Pagem)",
-        "url": "https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ"
-      },
-      "artists": [
-        {
-          "name": "Carminho",
-          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "O quarto (fado Pagem)",
-      "url": "https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "All Hail the Queen",
         "url": "https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv"
       },
@@ -1023,18 +991,18 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Halluzinationen",
-        "url": "https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i"
+        "name": "O quarto (fado Pagem)",
+        "url": "https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ"
       },
       "artists": [
         {
-          "name": "Sophie Hunger",
-          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
+          "name": "Carminho",
+          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Everything Is Good",
-      "url": "https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb"
+      "duration_ms": 200000,
+      "name": "O quarto (fado Pagem)",
+      "url": "https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1055,18 +1023,18 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "as long as you're there",
-        "url": "https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig"
+        "name": "Halluzinationen",
+        "url": "https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i"
       },
       "artists": [
         {
-          "name": "SHN",
-          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
+          "name": "Sophie Hunger",
+          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
         }
       ],
-      "duration_ms": 207200,
-      "name": "as long as you're there",
-      "url": "https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4"
+      "duration_ms": 180253,
+      "name": "Everything Is Good",
+      "url": "https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1087,22 +1055,18 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Paracas Cavernas",
-        "url": "https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk"
+        "name": "as long as you're there",
+        "url": "https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig"
       },
       "artists": [
         {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        },
-        {
-          "name": "Tessa Ia",
-          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+          "name": "SHN",
+          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
         }
       ],
-      "duration_ms": 268011,
-      "name": "Paracas Cavernas",
-      "url": "https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5"
+      "duration_ms": 207200,
+      "name": "as long as you're there",
+      "url": "https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1135,6 +1099,26 @@
       "duration_ms": 240186,
       "name": "Praias desertas",
       "url": "https://open.spotify.com/track/7gZ23X1e0zDNTZ8Z8UAvcu"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Paracas Cavernas",
+        "url": "https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        }
+      ],
+      "duration_ms": 268011,
+      "name": "Paracas Cavernas",
+      "url": "https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1195,22 +1179,6 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Build A Home",
-        "url": "https://open.spotify.com/album/22BcyhsuaGOMfG2OWs1ZVt"
-      },
-      "artists": [
-        {
-          "name": "shazza",
-          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
-        }
-      ],
-      "duration_ms": 237270,
-      "name": "Build A Home",
-      "url": "https://open.spotify.com/track/2N2pNJbvZNvNMEC0mlgr4k"
-    },
-    {
-      "added_at": "2023-03-05 05:00:00",
-      "album": {
         "name": "Tangise Sarangan",
         "url": "https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB"
       },
@@ -1227,18 +1195,18 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Roshe",
-        "url": "https://open.spotify.com/album/6IcI3XoZIkJvJlTR7RQ3Ch"
+        "name": "Build A Home",
+        "url": "https://open.spotify.com/album/22BcyhsuaGOMfG2OWs1ZVt"
       },
       "artists": [
         {
-          "name": "Zeb Bangash",
-          "url": "https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24"
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
         }
       ],
-      "duration_ms": 472367,
-      "name": "Roshe",
-      "url": "https://open.spotify.com/track/4Ar7mEFWCQVg1keCZfGtqL"
+      "duration_ms": 237270,
+      "name": "Build A Home",
+      "url": "https://open.spotify.com/track/2N2pNJbvZNvNMEC0mlgr4k"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1263,18 +1231,18 @@
     {
       "added_at": "2023-03-05 05:00:00",
       "album": {
-        "name": "Yoklu\u011funun Ger\u00e7e\u011fi",
-        "url": "https://open.spotify.com/album/4LzORgKHZ3u3NS0jYZYxOS"
+        "name": "Roshe",
+        "url": "https://open.spotify.com/album/6IcI3XoZIkJvJlTR7RQ3Ch"
       },
       "artists": [
         {
-          "name": "Melis Karaduman",
-          "url": "https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG"
+          "name": "Zeb Bangash",
+          "url": "https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24"
         }
       ],
-      "duration_ms": 177073,
-      "name": "Yoklu\u011funun Ger\u00e7e\u011fi",
-      "url": "https://open.spotify.com/track/1JChkr6F2KvGzddhWNIR4Y"
+      "duration_ms": 472367,
+      "name": "Roshe",
+      "url": "https://open.spotify.com/track/4Ar7mEFWCQVg1keCZfGtqL"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1291,6 +1259,22 @@
       "duration_ms": 160960,
       "name": "Hola Impostora",
       "url": "https://open.spotify.com/track/5MdDNCg76PKSzrKeKI68wf"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Yoklu\u011funun Ger\u00e7e\u011fi",
+        "url": "https://open.spotify.com/album/4LzORgKHZ3u3NS0jYZYxOS"
+      },
+      "artists": [
+        {
+          "name": "Melis Karaduman",
+          "url": "https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG"
+        }
+      ],
+      "duration_ms": 177073,
+      "name": "Yoklu\u011funun Ger\u00e7e\u011fi",
+      "url": "https://open.spotify.com/track/1JChkr6F2KvGzddhWNIR4Y"
     },
     {
       "added_at": "2023-03-05 05:00:00",
@@ -1387,6 +1371,22 @@
       "duration_ms": 200000,
       "name": "\u00bfY T\u00fa Qu\u00e9 Esperas?",
       "url": "https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ"
+    },
+    {
+      "added_at": "2023-03-05 05:00:00",
+      "album": {
+        "name": "Living My Life",
+        "url": "https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 357866,
+      "name": "Nipple To The Bottle",
+      "url": "https://open.spotify.com/track/0DhpUlPutqrpTPnu5qNeSc"
     }
   ],
   "unique_name": "EQUAL Global",

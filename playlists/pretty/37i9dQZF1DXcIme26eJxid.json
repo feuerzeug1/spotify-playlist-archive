@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 83768,
+  "num_followers": 83882,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMGU0NjljNGFmZGZiODM3YzA1OTYzMTRjNzk2MjkxZjEw",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMGQ3MTYxZjliYWUyNTg3YjFmOTJlODI1NjEzMzU0OGMz",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT"
     },
     {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Horizon Unlimted",
+        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
+      },
+      "artists": [
+        {
+          "name": "Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "Orere-Elejigbo",
+      "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
+    },
+    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Guz Hits",
@@ -361,20 +377,36 @@
       "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
+      "added_at": "2020-04-07 09:19:20",
       "album": {
-        "name": "Horizon Unlimted",
-        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
       "artists": [
         {
-          "name": "Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 256306,
-      "name": "Orere-Elejigbo",
-      "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
+      "duration_ms": 265773,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -391,22 +423,6 @@
       "duration_ms": 339253,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
-    },
-    {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -439,22 +455,6 @@
       "duration_ms": 638227,
       "name": "In Your Eyes - Live",
       "url": "https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12"
-    },
-    {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -559,22 +559,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "I Like Your Style",
-        "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
-      },
-      "artists": [
-        {
-          "name": "Tony Wilson",
-          "url": "https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "I Like Your Style",
-      "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "The Best Of The Black President 2",
         "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 793200,
       "name": "Expensive Shit",
       "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "I Like Your Style",
+        "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
+      },
+      "artists": [
+        {
+          "name": "Tony Wilson",
+          "url": "https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "I Like Your Style",
+      "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
     },
     {
       "added_at": "2020-04-07 09:19:20",

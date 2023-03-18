@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 261562,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
@@ -2046,6 +2046,24 @@
       "duration_ms": 217151,
       "name": "Foolish Heart",
       "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
+    },
+    {
+      "album": {
+        "name": "For the Cool in You",
+        "url": "https://open.spotify.com/album/1J8nWBTEHq9puOzkK5Dnly"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "For the Cool in You",
+      "url": "https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY"
     },
     {
       "album": {
@@ -3053,6 +3071,28 @@
     },
     {
       "album": {
+        "name": "After We Play",
+        "url": "https://open.spotify.com/album/0L3ooONQFTNJE0pHJ0nicF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Britt",
+          "url": "https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F"
+        },
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265880,
+      "name": "Let's Do This (feat. Nils)",
+      "url": "https://open.spotify.com/track/6bN74FIVQm0XStVqsQjRjU"
+    },
+    {
+      "album": {
         "name": "Let's Get Away",
         "url": "https://open.spotify.com/album/2f4lnLE1UudhW93l083HXY"
       },
@@ -3144,6 +3184,32 @@
       "duration_ms": 260746,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
+    },
+    {
+      "album": {
+        "name": "Light Within (feat. Lashawn D. Gary and Dave McMurray)",
+        "url": "https://open.spotify.com/album/1SFrUYKE6Zlk8gzac3aRSZ"
+      },
+      "artists": [
+        {
+          "name": "Jeff Canady",
+          "url": "https://open.spotify.com/artist/0Oa1kpHHpgTQaxQ9dZUKAI"
+        },
+        {
+          "name": "LaShawn D. Gary",
+          "url": "https://open.spotify.com/artist/0nzXlRRHKYsEIn6zAmmCvq"
+        },
+        {
+          "name": "Dave McMurray",
+          "url": "https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255268,
+      "name": "Light Within (feat. LaShawn D. Gary and Dave McMurray)",
+      "url": "https://open.spotify.com/track/3v0OEwQsVjR5Rx2ESj5dSk"
     },
     {
       "album": {
@@ -3518,7 +3584,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 264640,
       "name": "Movin' N Groovin",
       "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
@@ -4182,7 +4248,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 249262,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"

@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-156 songs - 8 hr 22 min
+158 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Crazy Love \- Acoustic](https://open.spotify.com/track/5OnYymymXaoxjTEEOjqcae) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Crazy Love \(Acoustic\)](https://open.spotify.com/album/7hKQ20375hBvYSKqoLpjG4) | 3:07 | 2022-09-03 | 2023-01-28 |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2019-10-13 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/15ITqJqQ7f3EW9HmSQnzR4) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/0ldEDXECSxV2KJrwScStqq) | 2:59 | 2021-10-01 |  |
+| [Daydream Believer \- Acoustic](https://open.spotify.com/track/2tq6QHha0InhddKVEbfHiy) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Daydream Believer \(Acoustic\)](https://open.spotify.com/album/3qwvjINzC7FN11ZRxVwmsE) | 2:13 | 2023-03-17 |  |
 | [Dignity \- Acoustic](https://open.spotify.com/track/6WaOpI5POr5KaIFiOTIb1E) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Dignity \(Acoustic\)](https://open.spotify.com/album/79Dxyo0UTmGpOn14wgQWDM) | 2:53 | 2021-05-28 |  |
 | [Don't Speak \- Acoustic](https://open.spotify.com/track/5x3YOV6iWvn4fe76r6uu61) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Don't Speak \(Acoustic\)](https://open.spotify.com/album/5j7PmYcdv8uHKESf2Byzdy) | 2:20 | 2019-10-13 |  |
 | [Don't Stop Believin' \- Acoustic](https://open.spotify.com/track/2YB9lhvzoCxdyplFqrkCCh) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Don't Stop Believin' \(Acoustic\)](https://open.spotify.com/album/1HMNMxNhkhxdgQyxnfttoO) | 3:35 | 2021-04-05 |  |
@@ -113,6 +114,7 @@
 | [Perfect Strangers \- Acoustic](https://open.spotify.com/track/10g2KYRNWnxFLfjIqMTRyV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers \(Acoustic\)](https://open.spotify.com/album/3q6OSra2h56Q7YMHNgZr3P) | 3:11 | 2019-10-13 |  |
 | [Photograph \(feat\. Bea Miller\)](https://open.spotify.com/track/6Pbh08Uo0o51ha2JOW8KtE) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Collaborations, Vol\. 3](https://open.spotify.com/album/23tEU9zTAsxwR2fbY2dT8K) | 4:20 | 2019-10-13 |  |
 | [Picking Up the Pieces \- Acoustic Version](https://open.spotify.com/track/4f13aRetwXvYfiALLZyQg0) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Picking Up The Pieces](https://open.spotify.com/album/27e00D6FS96O5rXpcn06CJ) | 3:45 | 2019-10-13 |  |
+| [Pointless \- Acoustic](https://open.spotify.com/track/6Lv2VsZijTj0x6BmMk30CR) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Pointless \(Acoustic\)](https://open.spotify.com/album/2sHjB2UBTgSAOCHocUagmz) | 3:29 | 2023-03-17 |  |
 | [Rather Be](https://open.spotify.com/track/0Z0gcy8fZUhsyPCgrPJwHo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/5og5ncNgq9dH4JBauZyCBs) | 4:07 | 2019-10-13 |  |
 | [Ring of Fire \- Acoustic](https://open.spotify.com/track/0MwVyvX8zBCFzLxSD0typJ) | [Retreat](https://open.spotify.com/artist/5j5G6aCjRNizjNQKjf2PTB) | [Ring of Fire \(Acoustic\)](https://open.spotify.com/album/5C8Z4XQ2mBq5WIlOeXlN1v) | 3:05 | 2019-11-16 |  |
 | [Rise Up \- Acoustic](https://open.spotify.com/track/1qmCoha1HrkCVInVnfhpPC) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Rise Up \(Acoustic\)](https://open.spotify.com/album/1QC3l2jIGCX0FeIXZgIgLW) | 3:16 | 2021-09-24 |  |
@@ -133,7 +135,7 @@
 | [Sweet Child O' Mine \- Acoustic](https://open.spotify.com/track/1VZmEl9wmuteCBAqkyFttF) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Child O' Mine \(Acoustic\)](https://open.spotify.com/album/75TC3uieZuC99RUFzZazo2) | 2:58 | 2020-08-08 | 2022-07-23 |
 | [Sweet Dreams \(Are Made of This\) \- Acoustic](https://open.spotify.com/track/4QnF8CePWPb4k2imP90Q1Z) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Sweet Dreams \(Are Made of This\) \[Acoustic\]](https://open.spotify.com/album/1hAOKALlbJeuanzRCMTcBE) | 2:43 | 2023-01-20 | 2023-02-11 |
 | [Symphony \(feat\. Zara Larsson\) \- Acoustic Version](https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\) \[Acoustic\]](https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0) | 3:36 | 2019-10-13 |  |
-| [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/5ZprRG6q2boxa5Ypa3u6Hp) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/2MfAsqckmrxIssTdeReizP) | 3:31 | 2023-01-13 |  |
+| [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/5ZprRG6q2boxa5Ypa3u6Hp) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/2MfAsqckmrxIssTdeReizP) | 3:31 | 2023-01-13 | 2023-03-18 |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/6g2Fiqf2HGj1oag2wbeWCI) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/26FVlm5oL62SgHxc0MZmcE) | 3:26 | 2021-12-12 | 2022-06-18 |
 | [The Best \- Acoustic](https://open.spotify.com/track/7MkQ4oVMEsF3boi4hsajDG) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [The Best \(Acoustic\)](https://open.spotify.com/album/0zydjTR0i385HRexojYc5s) | 3:38 | 2020-08-08 |  |
 | [There She Goes \- Acoustic](https://open.spotify.com/track/3nDEkIX8lfi4rg62XaDM0O) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5rNQUran1E5UllSg6uqI4Y) | 2:54 | 2021-10-01 | 2022-07-16 |

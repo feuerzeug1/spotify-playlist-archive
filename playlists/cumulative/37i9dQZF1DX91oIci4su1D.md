@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-570 songs - 1 day 11 hr 4 min
+571 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Forests](https://open.spotify.com/track/6ZHmoAgOoGjb4HzEBqTzsL) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV) | [Forests](https://open.spotify.com/album/5P5FEpvLLANtp0hcIFyXAH) | 3:14 | 2023-02-24 |  |
 | [Forever](https://open.spotify.com/track/4C6uD2tR7wwLoR1KIgk7Hb) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Forever](https://open.spotify.com/album/3v8q4sJs2qAGUqCmyjkb6M) | 2:55 | 2021-12-17 | 2022-03-12 |
 | [Forever \- ReOrder Remix](https://open.spotify.com/track/3mLO9dgG0FJIThfk0mJhZV) | [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [Forever \(ReOrder Remix\)](https://open.spotify.com/album/7iyCfXKiGypOsJ9n3QAeNB) | 3:34 | 2022-09-30 |  |
-| [Forgiven Not Forgotten](https://open.spotify.com/track/3WPkQDALdIsNZ1SY6bn9u2) | [Armage](https://open.spotify.com/artist/5osCJde09pUw1QmfuhX4Fb), [Tiff Lacey](https://open.spotify.com/artist/6wmyaMNIjZ26DmwgQDWKoE) | [Forgiven Not Forgotten](https://open.spotify.com/album/1AVr7oXAZMBisRjZWiM4dU) | 3:48 | 2023-02-24 |  |
+| [Forgiven Not Forgotten](https://open.spotify.com/track/3WPkQDALdIsNZ1SY6bn9u2) | [Armage](https://open.spotify.com/artist/5osCJde09pUw1QmfuhX4Fb), [Tiff Lacey](https://open.spotify.com/artist/6wmyaMNIjZ26DmwgQDWKoE) | [Forgiven Not Forgotten](https://open.spotify.com/album/1AVr7oXAZMBisRjZWiM4dU) | 3:48 | 2023-02-24 | 2023-03-18 |
 | [Freak Of The Week](https://open.spotify.com/track/6ftO5bAiMPsUcRs6fgKWfW) | [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [Freak Of The Week](https://open.spotify.com/album/6tMyIEtJXxEwcyn6lwRh7R) | 3:24 | 2023-01-13 |  |
 | [Free Souls \- Ben van Gosh Radio Remix](https://open.spotify.com/track/5ZfnLl8eUqclVeeWEuVFKf) | [Rino da Silva](https://open.spotify.com/artist/2ibnhSzey2ccuc6zK2RnaX), [Dj JayCan](https://open.spotify.com/artist/5o0TswhbXTxETEku1LykPI), [Ben van Gosh](https://open.spotify.com/artist/5WxMepclqVugrypST9F5UE) | [Free Souls](https://open.spotify.com/album/6b1TRUDeZcu9k6BGlf7xWt) | 3:52 | 2022-02-04 | 2022-07-19 |
 | [Freefall](https://open.spotify.com/track/14Sem72fs33QFbUXoPohIA) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [The Archive, Pt\. 1](https://open.spotify.com/album/30qXKFOhZgZak8pwONu1Cl) | 2:56 | 2022-07-15 |  |
@@ -528,6 +528,7 @@
 | [Torture](https://open.spotify.com/track/0nozR3GQJtFFjbEXQ1hGvy) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Mira Feder](https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL) | [Torture](https://open.spotify.com/album/5QY3N522X0F33GXdGnMAoo) | 3:11 | 2022-04-08 |  |
 | [Touch The Sky](https://open.spotify.com/track/2XbWo6a2g3MhkXsJyesWjG) | [Inrayzex](https://open.spotify.com/artist/2OQGGn8Wi28QOTks6NroWf), [MALENE](https://open.spotify.com/artist/4C65Z3y8cZMzGj3XHRi3E1) | [Suanda Music Radio Top 20 \(April 2022\)](https://open.spotify.com/album/1L5cntE7pAd1TscuYqBuwk) | 2:55 | 2022-04-22 | 2023-03-05 |
 | [Transience](https://open.spotify.com/track/23fz2RgoUzHL3DdnaKccwO) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Transience](https://open.spotify.com/album/2JMJaKZdIZN3SIbQP26L2C) | 3:00 | 2022-05-27 |  |
+| [Transmission \- Armin van Buuren Remix](https://open.spotify.com/track/53QLyfbHqEtXK0ys7YW2Q4) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Transmission \(Armin van Buuren Remix\)](https://open.spotify.com/album/7k3gNgTTuM0f9cIRdW8FTP) | 2:32 | 2023-03-17 |  |
 | [Trinity](https://open.spotify.com/track/3coUc3wYNcJiufDDoGKhBZ) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Trinity](https://open.spotify.com/album/19fNo924Pc2EPF0N7LbfHi) | 3:18 | 2022-04-15 | 2022-05-12 |
 | [Trust You](https://open.spotify.com/track/69put4h88TnxaArojbc15b) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Leon Bolier](https://open.spotify.com/artist/4iqg3LlZiqAElJOXJtC11H), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc) | [Trust You](https://open.spotify.com/album/02Cc7jp5gajM4TIXaFlUAL) | 3:14 | 2021-12-17 | 2022-01-08 |
 | [Ultrasonic \- Maarten de Jong Remix](https://open.spotify.com/track/3FOVlKA27vbAj8OWb8ukiY) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Ultrasonic \(Maarten de Jong Remix\)](https://open.spotify.com/album/4jmtDrE4oy8oIHuE6XbcBT) | 2:41 | 2023-02-10 |  |

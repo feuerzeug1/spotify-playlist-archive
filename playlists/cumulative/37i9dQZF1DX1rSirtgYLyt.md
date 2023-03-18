@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-115 songs - 8 hr 35 min
+116 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [House Of The Rising Sun](https://open.spotify.com/track/5mv7gXwH5qYChfwISnOx94) | [Roxy Perry](https://open.spotify.com/artist/5oFeTjmgNvB17ju7pOT7Tf) | [Back In Bluesville](https://open.spotify.com/album/1YocQJ1WyxCQ7bSCPg2A6N) | 5:02 | 2022-06-24 |  |
 | [I Ain't Superstitious \- 2005 Remaster](https://open.spotify.com/track/7n7k2SsZKMUUQms4ZxTk34) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/1rRm5wc5lBtycx5xlY3848) | 5:02 | 2023-01-12 |  |
 | [I Can't Quit You Baby \- 1990 Remaster](https://open.spotify.com/track/62QInSlXQI11BR9ycVWjd6) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 4:42 | 2023-01-12 |  |
+| [I Can't Stop Lovin'](https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ) | [I Can't Stop Lovin'](https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb) | 3:17 | 2023-03-16 |  |
 | [I Can't Stop Loving You](https://open.spotify.com/track/2ngkSsDjbKRxovWkMfjBUk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [That's What I Say](https://open.spotify.com/album/6B6Legr1T9aMiMxL55SZnK) | 4:47 | 2022-07-08 |  |
 | [I Can't Stop Loving You](https://open.spotify.com/track/46EtkT78WNyuQQtNGRguCb) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [That's What I Say \(Int'l Online/Yahoo Exclusive\)](https://open.spotify.com/album/6IgHB6OSrcG3KNWCVknhjy) | 4:48 | 2022-06-24 | 2022-07-29 |
 | [I Got The Same Old Blues](https://open.spotify.com/track/1PmPNn8lpamGGWbgVyFrX1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:02 | 2022-06-24 | 2022-07-29 |

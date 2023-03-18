@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Navy Kenzo",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mavokali",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 188181,
       "name": "Love (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200000,
       "name": "Manzese",
       "url": "https://open.spotify.com/track/3YShLver8yW2GFaVyyo53s"
@@ -2424,6 +2424,24 @@
       "duration_ms": 180978,
       "name": "Mwambieni",
       "url": "https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9"
+    },
+    {
+      "album": {
+        "name": "Mwanamke Imara",
+        "url": "https://open.spotify.com/album/22dlh8nWX6o7WKcqZ7ZQpE"
+      },
+      "artists": [
+        {
+          "name": "Lady Jaydee",
+          "url": "https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225462,
+      "name": "Mwanamke Imara",
+      "url": "https://open.spotify.com/track/3lAc6ayKZdvtMLrhjla6hd"
     },
     {
       "album": {
@@ -2890,6 +2908,24 @@
       "duration_ms": 181276,
       "name": "Nidhibiti",
       "url": "https://open.spotify.com/track/6Zo7ymeK6BQOJ8Jf6gZeVJ"
+    },
+    {
+      "album": {
+        "name": "Nihurumie",
+        "url": "https://open.spotify.com/album/6vtfyP6w25wF0dlQuMXb4k"
+      },
+      "artists": [
+        {
+          "name": "killy",
+          "url": "https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179407,
+      "name": "Nihurumie",
+      "url": "https://open.spotify.com/track/1SLVICOLKLKlkMf2v88TpO"
     },
     {
       "album": {
@@ -3373,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Pwi Pwi",
+        "url": "https://open.spotify.com/album/3Pbtdd5ArfOYHr73MIChnX"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Pwi Pwi",
+      "url": "https://open.spotify.com/track/2mLo2SWYWjzXfC2mqvJoVY"
+    },
+    {
+      "album": {
         "name": "Rara",
         "url": "https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK"
       },
@@ -3778,7 +3832,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 167999,
       "name": "Tamu",
       "url": "https://open.spotify.com/track/1RQIkjqlcOedo5V3XuVz4p"

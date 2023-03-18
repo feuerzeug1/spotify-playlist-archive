@@ -4,7 +4,7 @@
 
 > Comforting Blues to warm the soul when there’s no point going outside.
 
-105 songs - 7 hr 5 min
+106 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Luedella](https://open.spotify.com/track/7mnqNjYnZ8V1R7PhM7ZlNC) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:54 | 2022-05-25 |  |
 | [Make It Rain](https://open.spotify.com/track/0P1KkEJ2Po1qsK5HfP39wo) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Make It Rain](https://open.spotify.com/album/19oYKgecHcGwzChitj9GEJ) | 6:41 | 2022-05-25 | 2022-07-29 |
 | [Make It Rain](https://open.spotify.com/track/4AN5PLmDotMbZb6fyiry2l) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Make It Rain](https://open.spotify.com/album/0fYJkNv3BIy4uKhsaDWpdT) | 6:59 | 2022-05-25 | 2022-07-29 |
+| [Mean Blues](https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz) | [Floyd Lee & His Mean Blues Band](https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg) | [The Amogla Sessions, Vol\. 1](https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ) | 4:59 | 2023-03-16 |  |
 | [Melancholy](https://open.spotify.com/track/7ovcofZ0IabtMg7VbJOKEA) | [Louis Armstrong Hot Seven](https://open.spotify.com/artist/0hlD91RtAP8xri39Ms1Mlx) | [The Complete Hot Five And Hot Seven Recordings Volume 2](https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v) | 3:00 | 2022-07-28 |  |
 | [Monday Morning Blues](https://open.spotify.com/track/18HGARlDFstYN6JHCYVJNB) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Rediscovered](https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p) | 3:57 | 2022-07-28 |  |
 | [Money Tree Blues](https://open.spotify.com/track/5hlgMJT2A4DTGmrvoFEO73) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 2:42 | 2022-05-25 |  |

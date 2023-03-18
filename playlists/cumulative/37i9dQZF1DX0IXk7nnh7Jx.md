@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Forrest Frank
 
-275 songs - 17 hr 12 min
+276 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Call Me Thomas](https://open.spotify.com/track/2xjUmMZdlDWYKFiAcXLrSB) | [Tina Boonstra](https://open.spotify.com/artist/2H6LfNrRiHP6J007Cgol35) | [Call Me Thomas](https://open.spotify.com/album/1ij4ME2R2V8LB85F8NGjcP) | 4:31 | 2023-02-24 | 2023-03-16 |
 | [Captive](https://open.spotify.com/track/2f3EkdJtuokX2L85cK0yOz) | [Clemency](https://open.spotify.com/artist/5fuNHncNSPS8kNTSDzxlvJ) | [Captive](https://open.spotify.com/album/1xo0esdUHZWjuVzInMGm27) | 3:03 | 2020-12-18 | 2022-06-23 |
 | [cast \(get better\)](https://open.spotify.com/track/57ujX4LPYjK8kPkSLiBwl7) | [ØM\-53](https://open.spotify.com/artist/2n2zrJvvOxdEIdumy0FrwA) | [cast \(get better\)](https://open.spotify.com/album/2SKthw3FGVjNnFgBfiaTF7) | 2:57 | 2023-02-19 |  |
-| [Changes \- Guitarmix](https://open.spotify.com/track/1lq3tG50UFLWpmbFostGPS) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Changes \(Guitarmix\)](https://open.spotify.com/album/4etzZKMzM0fhK5oyrnHyxo) | 2:30 | 2023-02-19 |  |
+| [Changes \- Guitarmix](https://open.spotify.com/track/1lq3tG50UFLWpmbFostGPS) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Changes \(Guitarmix\)](https://open.spotify.com/album/4etzZKMzM0fhK5oyrnHyxo) | 2:30 | 2023-02-19 | 2023-03-18 |
 | [Changing](https://open.spotify.com/track/3J8anA9EbYJqXlJqaisAdN) | [Pauline Zoe Park](https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T) | [Changing](https://open.spotify.com/album/64N5jJtHEd3aVePrdMr8kV) | 3:45 | 2023-02-19 |  |
 | [Chariots \- Live](https://open.spotify.com/track/0lucLOAYQB0gpxARVqH7Mz) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Chariots \(Live\)](https://open.spotify.com/album/219sQ1lUO7Yxg8pFDNIn58) | 6:22 | 2023-02-19 | 2023-03-01 |
 | [Chariots \- Live](https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Barbarians \(Live\)](https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo) | 6:22 | 2023-02-24 |  |
@@ -236,6 +236,7 @@
 | [Take Your Time](https://open.spotify.com/track/7EvHpaw8rCjbSpUp4qfu3F) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Take Your Time](https://open.spotify.com/album/0fyB1lP54sr5PHXzFwWVqt) | 3:19 | 2023-02-19 |  |
 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 | 2023-02-24 | 2023-03-12 |
 | [Telephone](https://open.spotify.com/track/7eL7RLdVokaOBzjfIs5zMH) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Telephone](https://open.spotify.com/album/5S0PU8GSg4yQdvrwZPllC0) | 3:01 | 2020-12-18 | 2022-07-29 |
+| [Thankful](https://open.spotify.com/track/69q1KdBZVBregb4xdX8XmL) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Thankful](https://open.spotify.com/album/0wGBYAIS4m9j1wDX4RCbyG) | 3:14 | 2023-03-18 |  |
 | [THAT'S WHAT I BELIEVE](https://open.spotify.com/track/4axmmCsHDChtKd2JdnD3OL) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [THAT'S WHAT I BELIEVE](https://open.spotify.com/album/0qKj76842Qf6U8uFYD8KZW) | 4:22 | 2023-02-19 |  |
 | [That's What I Call Free](https://open.spotify.com/track/3siXfTF5Czys5WTvyeYMSY) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [Songs of the Silent Years](https://open.spotify.com/album/26yAYOcyHYielXh4JTlubc) | 3:51 | 2020-12-18 | 2022-07-29 |
 | [The Gate](https://open.spotify.com/track/3YCgFhmzxGnGCdtUxGVjB8) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Brandon Hampton](https://open.spotify.com/artist/5dC9jxV6hFvZpUmxvEKyQQ) | [The Gate](https://open.spotify.com/album/5HS7KRUKIhfyTL5CKaiQbz) | 5:44 | 2023-02-24 |  |

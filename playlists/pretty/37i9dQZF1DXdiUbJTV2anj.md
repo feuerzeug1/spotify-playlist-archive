@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Scowl
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,441 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,693 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 48 | [Lice](https://open.spotify.com/track/7i7eU2wx577tHLW2Vt1EWI) | [Corker](https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64) | [Lice](https://open.spotify.com/album/5lEWhmhXFXiMH9O6Wu27aD) | 2:26 |
 | 49 | [Paint It In Blood](https://open.spotify.com/track/1njkMdwveFsnqghHpiBGvd) | [The Tryals](https://open.spotify.com/artist/3BTVFfo4K9ilLQ3vhLBbbs) | [Paint It In Blood](https://open.spotify.com/album/5RlGa3MNRVfH1RyKX2exvt) | 3:08 |
 | 50 | [Anathema](https://open.spotify.com/track/1oLHIkHzNipzkouaBClSdl) | [Evilgloom](https://open.spotify.com/artist/1cJ8mgIFVHt86l9J90pkBa) | [Addictions](https://open.spotify.com/album/4Cfplm19oERf2huyJwaKGJ) | 3:21 |
-| 51 | [just like me](https://open.spotify.com/track/1RWXx2SsAE99IxaYtr7b0h) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [just like me \(slowed + reverb\)](https://open.spotify.com/album/2Vw8K8NvfZhMj86expwS2O) | 2:29 |
+| 51 | [just like me](https://open.spotify.com/track/1RWXx2SsAE99IxaYtr7b0h) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [just like me](https://open.spotify.com/album/2Vw8K8NvfZhMj86expwS2O) | 2:29 |
 | 52 | [Into My Ignorance](https://open.spotify.com/track/4jw0Zicq5fdRoPFHwg3Cog) | [Making Blind Eyes See](https://open.spotify.com/artist/1K3FeAWa6Rp0ZJmNMceaqz) | [Into My Ignorance](https://open.spotify.com/album/5bsCD3espS9ASeKv1tiC4B) | 3:55 |
 | 53 | [Cathedrals of Blood \(Twilight of the Idols\)](https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Enveloping Absurdity](https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy) | 4:15 |
 | 54 | [Find You Soon](https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Find You Soon](https://open.spotify.com/album/3Fqxh98P2BAz1S5DzHDi1L) | 4:23 |

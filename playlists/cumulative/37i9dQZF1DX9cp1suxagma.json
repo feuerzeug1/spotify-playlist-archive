@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Manuel Medrano y Juliana",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Mike Bah\u00eda y Greeicy",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -168,6 +168,28 @@
       "duration_ms": 190186,
       "name": "Amor Secreto",
       "url": "https://open.spotify.com/track/7qdmZauyoana6fBNjcyj5O"
+    },
+    {
+      "album": {
+        "name": "29:56",
+        "url": "https://open.spotify.com/album/537tRWbun6NLMqSrvLb9Rl"
+      },
+      "artists": [
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        },
+        {
+          "name": "Mayra S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217805,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7tcZXVCBzWYqoL5xlW35yc"
     },
     {
       "album": {
@@ -382,7 +404,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 195552,
       "name": "C\u00e1mara Lenta",
       "url": "https://open.spotify.com/track/2Ur0FiCEof5GoKsZDR9eyR"
@@ -662,7 +684,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 178373,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/3vytOevJomYPaAZM2OXwn5"
@@ -1119,6 +1141,28 @@
     },
     {
       "album": {
+        "name": "Mi Pecadito",
+        "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197076,
+      "name": "Mi Pecadito",
+      "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
+    },
+    {
+      "album": {
         "name": "Mundos Aparte",
         "url": "https://open.spotify.com/album/1X6UZEiG0dCcwaz8n0gUMO"
       },
@@ -1512,7 +1556,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 213186,
       "name": "Si Me Das Tu Amor",
       "url": "https://open.spotify.com/track/1O34fFJyV7djSqRtOuRSVh"
@@ -1797,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Tengo Que Partir",
+        "url": "https://open.spotify.com/album/62kKOrrZQoLgYooL5dmDh3"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "Tengo Que Partir",
+      "url": "https://open.spotify.com/track/5NP1C17UB2I1UN2a9Tkx2o"
+    },
+    {
+      "album": {
         "name": "Tu Apodo",
         "url": "https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q"
       },
@@ -1892,7 +1954,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 164440,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
@@ -2078,6 +2140,24 @@
       "duration_ms": 206573,
       "name": "Ya Para Qu\u00e9",
       "url": "https://open.spotify.com/track/7HCZWKJmHITV7Pt5YTQDcL"
+    },
+    {
+      "album": {
+        "name": "Yo Primero",
+        "url": "https://open.spotify.com/album/1QLxtuYX7Ojojm8I5zmLmI"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165933,
+      "name": "Yo Primero",
+      "url": "https://open.spotify.com/track/3I4rvoB4ih3URCTdIpWmFt"
     },
     {
       "album": {

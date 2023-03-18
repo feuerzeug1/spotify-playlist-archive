@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/10PPheokdPIsvkQngOp0gr"
+      },
+      "artists": [
+        {
+          "name": "Numasbala",
+          "url": "https://open.spotify.com/artist/0AcapFfxUCOQ7vUZaZMXgw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234708,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/4Q59vOpIKQBQfwu5ZJylDy"
+    },
+    {
+      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
@@ -1981,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "A Granel",
+        "url": "https://open.spotify.com/album/6CKsx5QNiqfy5CARz3EON2"
+      },
+      "artists": [
+        {
+          "name": "A Granel",
+          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259591,
+      "name": "El gilipollas",
+      "url": "https://open.spotify.com/track/4hXP4wtmGMsFVo3T8xUOyW"
+    },
+    {
+      "album": {
         "name": "Bajo Palabra",
         "url": "https://open.spotify.com/album/0P6fdBVXRIYsx3HSCCd6ct"
       },
@@ -2429,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Fuego y Dinamita",
+        "url": "https://open.spotify.com/album/6SihKlRRUhQriO0IBPDHSh"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220511,
+      "name": "Fuego y Dinamita",
+      "url": "https://open.spotify.com/track/4lRuT1p6PgZTOrx4E96lzB"
+    },
+    {
+      "album": {
         "name": "The Aggrolites",
         "url": "https://open.spotify.com/album/6kvCoBX2EuVuDtyAdslFUu"
       },
@@ -2512,7 +2566,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 198026,
       "name": "Gangsters",
       "url": "https://open.spotify.com/track/1tAzoawH1KwFX3ab17YH1K"
@@ -3602,7 +3656,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 168138,
       "name": "Laisse tomber les filles",
       "url": "https://open.spotify.com/track/1yU2pk9438og3OqAeBNuso"
@@ -3826,7 +3880,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 229442,
       "name": "LOVELY",
       "url": "https://open.spotify.com/track/2p6nat27bxB2AMzlthwCCl"
@@ -3942,7 +3996,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 158186,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3dEFrNH3fSFze0taMtPJtJ"
@@ -4492,7 +4546,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 166836,
       "name": "Mount Zion",
       "url": "https://open.spotify.com/track/3dRQPqMedGjXD2uc4N1f09"
@@ -4824,7 +4878,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 143906,
       "name": "Night Train to Moscow",
       "url": "https://open.spotify.com/track/2BX80uJdAmllD0BP8MKK98"
@@ -5986,7 +6040,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 201642,
       "name": "R\u00e9szeg",
       "url": "https://open.spotify.com/track/21AWMfngLGi5gL8mrpMcJm"
@@ -6038,7 +6092,7 @@
           "url": "https://open.spotify.com/artist/5YPbaDdZM54WBEk1ln0Xcq"
         }
       ],
-      "date_added": "2023-03-11",
+      "date_added": "2023-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 134500,
@@ -6292,7 +6346,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 235602,
       "name": "Seamos m\u00e1s que amigos - Remastered",
       "url": "https://open.spotify.com/track/217Vkz8qvDOtpjqFrIENok"
@@ -6678,7 +6732,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 204480,
       "name": "Ska Skank Down the Party",
       "url": "https://open.spotify.com/track/2y8Qnis1wrEUtPyMsXlicf"
@@ -6696,7 +6750,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 156506,
       "name": "Skabio - Remasterized 2001",
       "url": "https://open.spotify.com/track/5DQcXVqGmYjQHGQ3ffKjcJ"
@@ -7880,7 +7934,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 202000,
       "name": "Too Good to Be True",
       "url": "https://open.spotify.com/track/567ijwi5g3tpolJYg7Zdv7"
@@ -7898,7 +7952,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 188733,
       "name": "Too Much Information",
       "url": "https://open.spotify.com/track/0SnMkgqpYimCtOmiId16SS"
@@ -8508,7 +8562,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 216372,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Nyb7h0LAxXqkqqhbCsaz0"

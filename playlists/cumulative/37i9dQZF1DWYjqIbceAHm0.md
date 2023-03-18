@@ -4,13 +4,14 @@
 
 > Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! \(JTBC의 글로벌 아이돌 오디션 '피크타임'의 사운드 트랙과 독점 미공개 영상들을 만나보세요!\)
 
-23 songs - 1 hr 2 min
+25 songs - 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12:30](https://open.spotify.com/track/1zWHJqSRlyXOIpxmvhLKhF) | [TEAM 15:00](https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn) | [PEAK TIME \- 1 Round <Rival match> Pt.2](https://open.spotify.com/album/6ccuc2PTwaIdohch6Cam0K) | 3:00 | 2023-03-10 |  |
 | [BANG!](https://open.spotify.com/track/2jdI7mFoybIVPo4ALN7w63) | [TEAM 8:00](https://open.spotify.com/artist/18dzwxwxMH7ZUrW6ILGFRc) | [PEAK TIME \- 1 Round <Rival match> Pt.2](https://open.spotify.com/album/6ccuc2PTwaIdohch6Cam0K) | 2:25 | 2023-03-10 |  |
 | [Beautiful](https://open.spotify.com/track/3oTqTIaSQw1A7pPabZLwtw) | [TEAM 15:00](https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:39 | 2023-02-16 |  |
+| [Behind You](https://open.spotify.com/track/4mctihpby0FE4YlG26eFgc) | [Vocal B Unit](https://open.spotify.com/artist/33X2dzv4Dv0qTVYSaYoJVS) | [PEAK TIME \- 2Round <Union match>Pt.2](https://open.spotify.com/album/3uTbsS82hqYxpmf0dAWTLY) | 3:01 | 2023-03-16 |  |
 | [BOOMERANG](https://open.spotify.com/track/2RzArAk9SebsfvGsDYqIbH) | [TEAM 1:00](https://open.spotify.com/artist/3kvzKuX7plRFwpdq5uTNGx) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:24 | 2023-02-16 |  |
 | [BTD \(Before The Dawn\)](https://open.spotify.com/track/3ne82NJ7MhkoxtbjDGhsnS) | [TEAM 10:00](https://open.spotify.com/artist/6NdafHpJaUBRRSjQukavNJ) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:05 | 2023-02-16 |  |
 | [FEVER](https://open.spotify.com/track/3hTZba78tfUUkLmqznISeP) | [TEAM 20:00](https://open.spotify.com/artist/27N5dZt4aw2s3RDCaV5XWf) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:35 | 2023-02-16 |  |
@@ -27,6 +28,7 @@
 | [Shangri\-La](https://open.spotify.com/track/4eGfwECVEMiEJYlLwAQzzu) | [KINGDOM](https://open.spotify.com/artist/6bYUblIvqIJ0smCP0EWogn) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:25 | 2023-02-16 |  |
 | [Shine](https://open.spotify.com/track/6LA7jsaedQXehK60jarEuu) | [TEAM 23:00](https://open.spotify.com/artist/3MkfOOCUo4pqJzdZv6YzrN) | [PEAK TIME \- 1Round <Rival match>Pt.1](https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB) | 2:48 | 2023-02-23 |  |
 | [TAING TAING TAING](https://open.spotify.com/track/3VdYMqC6R6gGm2diiEOUTd) | [Rap B Unit](https://open.spotify.com/artist/1psbejooT9jqUKUcXdCkWb) | [PEAK TIME \- 2Round <Union match> Pt.1](https://open.spotify.com/album/4TSFzktISNsCCWURiE7MKc) | 3:12 | 2023-03-12 |  |
+| [Time of Our Life](https://open.spotify.com/track/4lPq0t2yWlIpRuURifAdJi) | [Vocal A Unit](https://open.spotify.com/artist/3Dom1R1u7Jbn8VSuiFDjx6) | [PEAK TIME \- 2Round <Union match>Pt.2](https://open.spotify.com/album/3uTbsS82hqYxpmf0dAWTLY) | 2:49 | 2023-03-16 |  |
 | [Very Good](https://open.spotify.com/track/7JczxlJf6JYDQ8I0W02M0X) | [TEAM 21:00](https://open.spotify.com/artist/6QyGUa0TOtPvRpgXZl3kj5) | [PEAK TIME \- 1Round <Rival match>Pt.1](https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB) | 2:37 | 2023-02-23 |  |
 | [Victory Song](https://open.spotify.com/track/4ljZRhdhJhAMLCS2BNuakN) | [TEAM 4:00](https://open.spotify.com/artist/43IAe1WtPCxgYCaRSmuP3U) | [PEAK TIME \- 1Round <Rival match>Pt.1](https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB) | 2:59 | 2023-02-23 |  |
 | [Way Back Home](https://open.spotify.com/track/03gv7SwS0qm9dCfuuKgBYv) | [Vocal C Unit](https://open.spotify.com/artist/08CajDfHSx3HVYfOxteGSX) | [PEAK TIME \- 2Round <Union match> Pt.1](https://open.spotify.com/album/4TSFzktISNsCCWURiE7MKc) | 3:01 | 2023-03-12 |  |

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Brasil](https://open.spotify.com/playlist/37i9dQZF1DX5R53BjnKBjk)
 
-> Uma seleção de novos artistas da cena brasileira que você precisa conhecer!  Foto: THAIS / Arte: Isu Kim
+> Uma seleção de novos artistas da cena brasileira que você precisa conhecer!  Foto: RAY / Arte: Isu Kim
 
-268 songs - 13 hr 51 min
+269 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Como É Que Faz](https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx) | [Dogge](https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF) | [Como É Que Faz](https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e) | 2:40 | 2022-09-23 |  |
 | [Consequências](https://open.spotify.com/track/6KUbYGwejSwepQzD4yZ4vJ) | [Anum Preto](https://open.spotify.com/artist/01zIROcqWjGFgVJxYGxq9O) | [Anum Preto](https://open.spotify.com/album/4EXJxigpLtRwP5IIVSuK5M) | 3:55 | 2022-01-07 | 2022-09-24 |
 | [Culpa do Verão](https://open.spotify.com/track/0qTetrLWuQP3C5d0eYHxuk) | [Bella Mattar](https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3) | [A Rua e Seus Encantos](https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic) | 2:46 | 2022-08-26 | 2022-12-10 |
-| [Céu e Mar](https://open.spotify.com/track/2QAWqrdJaqgphSCjpCw5wJ) | [Matheus Bala](https://open.spotify.com/artist/73KUS3ICvdkM4spMDQKYYC) | [Céu e Mar](https://open.spotify.com/album/5CZBlQZa5Iw3dwHJ7Tabxw) | 2:12 | 2022-12-02 |  |
+| [Céu e Mar](https://open.spotify.com/track/2QAWqrdJaqgphSCjpCw5wJ) | [Matheus Bala](https://open.spotify.com/artist/73KUS3ICvdkM4spMDQKYYC) | [Céu e Mar](https://open.spotify.com/album/5CZBlQZa5Iw3dwHJ7Tabxw) | 2:12 | 2022-12-02 | 2023-03-18 |
 | [Da Vida](https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6) | [Márcio Lugó](https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM), [Hugo Branquinho](https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs) | [Da Vida](https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb) | 3:00 | 2022-07-22 | 2022-10-29 |
 | [Deixa Pra Lá](https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ) | [Verdan](https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y) | [Deixa Pra Lá](https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt) | 2:32 | 2022-09-30 |  |
 | [Delírio](https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Estou Aqui](https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr) | 3:47 | 2022-12-02 | 2023-01-28 |
@@ -149,6 +149,7 @@
 | [meu bem, meu bem](https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [meu bem, meu bem](https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU) | 2:48 | 2022-09-02 |  |
 | [Meu Foco](https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [AUGE](https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ) | 3:14 | 2022-07-29 | 2022-11-26 |
 | [Meu Lado da História](https://open.spotify.com/track/5kFyrAvheuFhikFnt94ZJX) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Meu Lado da História](https://open.spotify.com/album/5YH8uZvTacXAtFXCH3RjKM) | 2:25 | 2022-01-28 | 2022-03-26 |
+| [Meu Mantra pra Te Esquecer](https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Meu Mantra pra Te Esquecer](https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn) | 3:53 | 2023-03-18 |  |
 | [Meu Mundo](https://open.spotify.com/track/7n8TcUtlwDE3uPuBMVDfPL) | [Izaki Lima](https://open.spotify.com/artist/33KnzfUaoOX9QPrF4Fy6s2) | [Meu Mundo](https://open.spotify.com/album/004cQK4QWSIdxRQNyvhkck) | 3:54 | 2022-10-14 | 2022-12-10 |
 | [moça, veja bem](https://open.spotify.com/track/114lB3tT536isbSrvU9h94) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/22lanaZBTPz6Ya0rZQZIjZ) | 4:38 | 2022-01-07 | 2022-07-29 |
 | [moça, veja bem](https://open.spotify.com/track/2QeUAohcBgrtawcQSybt8I) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/0JvXCZpHR706YVvpafApFh) | 4:38 | 2022-07-22 | 2022-09-24 |

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-516 songs - 1 day 13 hr 19 min
+517 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Alone Tonight \- 2007 Remaster](https://open.spotify.com/track/4ZdFTSdAmsoivF6pcM9Isz) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Duke](https://open.spotify.com/album/1FFpEn1rjlucjU5L5JXggy) | 3:57 | 2020-12-08 | 2022-05-25 |
 | [Alone with You \- 2014 Remaster](https://open.spotify.com/track/0cK7vBvgmRQVJpqgNwehch) | [Sunnyboys](https://open.spotify.com/artist/6sAh1RUpXblYP320gZ91LC) | [Sunnyboys \(Expanded Edition\)](https://open.spotify.com/album/3avNYPQrtAxtqlBRrw9wJo) | 3:58 | 2020-12-08 |  |
 | [Always with Me, Always with You](https://open.spotify.com/track/0NNep3grWO95CVGp04gMM4) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [Surfing With The Alien](https://open.spotify.com/album/4SFG7APMZeeM97ixKPoQuk) | 3:22 | 2020-12-08 |  |
-| [April Skies](https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Darklands \(Expanded Version\)](https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu) | 3:59 | 2020-12-08 |  |
+| [April Skies](https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Darklands \(Expanded Version\)](https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu) | 3:59 | 2020-12-08 | 2023-03-18 |
 | [Arizona \- 2015 Remaster](https://open.spotify.com/track/7nxWyESqNdGgLyoPPis1PW) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 3:56 | 2020-12-08 | 2022-07-25 |
 | [Armageddon It \- Remastered 2017](https://open.spotify.com/track/16MQZkAIAAtI4X5NuiEwuq) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:22 | 2020-12-08 |  |
 | [As The World Falls Down](https://open.spotify.com/track/2elAyF0DLb10MWj76pU6pP) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Labyrinth \(From The Original Soundtrack Of The Jim Henson Film\)](https://open.spotify.com/album/6cvdkUIC4IdBypl9L5Ae74) | 4:50 | 2020-12-08 |  |
@@ -391,6 +391,7 @@
 | [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 | 2020-12-08 |  |
 | [Son Of Alerik](https://open.spotify.com/track/2dNaODA8kNiR6oAJnDs6wM) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 10:02 | 2020-12-08 | 2022-07-23 |
 | [Spirit in the Sky](https://open.spotify.com/track/097Tr8QiDLiTQlEoLI96AP) | [Doctor & The Medics](https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr) | [Laughing At the Pieces](https://open.spotify.com/album/0O2LDqpLcWUxONhKfvRK1g) | 3:28 | 2020-12-08 | 2023-02-08 |
+| [Spirit in the Sky](https://open.spotify.com/track/52jOr9c1lYG6dL4q1AB2zH) | [Doctor & The Medics](https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr) | [Laughing at the Pieces](https://open.spotify.com/album/2NDZDUpczDw9KbMiAM3Ecp) | 3:28 | 2022-11-17 |  |
 | [Stand and Deliver](https://open.spotify.com/track/316haK20RCKR5rVlAslpnL) | [Adam & The Ants](https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r) | [Rock Classics Vol\. 2](https://open.spotify.com/album/0AytEkdDqOZplIgzexz6Lg) | 3:09 | 2020-12-08 | 2022-07-23 |
 | [Start!](https://open.spotify.com/track/4svNZgdVZNtpWKbb7nsaLs) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 2:29 | 2020-12-08 |  |
 | [Sticky Sweet](https://open.spotify.com/track/5b8gBMMZcKWAYNo0w8q4fe) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 3:51 | 2020-12-08 | 2022-07-27 |

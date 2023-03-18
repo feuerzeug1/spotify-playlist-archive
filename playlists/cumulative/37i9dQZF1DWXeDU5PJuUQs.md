@@ -2,7 +2,7 @@
 
 ### [Vivo de Cumbia](https://open.spotify.com/playlist/37i9dQZF1DWXeDU5PJuUQs)
 
-> Unas buenas cumbias con el calor de la gente! <br/>Foto: Los Palmeras & Axel.
+> Unas buenas cumbias con el calor de la gente! <br/>Foto: Onda Sabanera & Ke Personajes.
 
 126 songs - 8 hr 23 min
 

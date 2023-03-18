@@ -920,7 +920,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 125298,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/2nwLHppShziXpR18WF5z9k"
@@ -1958,6 +1958,24 @@
       "duration_ms": 285860,
       "name": "IM GONE",
       "url": "https://open.spotify.com/track/1SYNgyiVRZEBhV0P4YFBk8"
+    },
+    {
+      "album": {
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285860,
+      "name": "IM GONE",
+      "url": "https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0"
     },
     {
       "album": {

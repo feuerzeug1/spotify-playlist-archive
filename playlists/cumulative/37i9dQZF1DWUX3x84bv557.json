@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Snelle op de cover van d\u00e9 Nederpop playlist",
+  "description": "Vincent Vissers & Jairzinho op de cover van d\u00e9 Nederpop playlist",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Als Je Haar Ziet",
+        "url": "https://open.spotify.com/album/6cAw10hJOgG4ovnIsikgl5"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259519,
+      "name": "Als Je Haar Ziet",
+      "url": "https://open.spotify.com/track/60JWfBfFzHeZWoQBE6rLwW"
+    },
+    {
+      "album": {
         "name": "Fouten Kun Je Leren",
         "url": "https://open.spotify.com/album/4JTWSjMzPpl0uDtd40iE6o"
       },
@@ -244,7 +262,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 151475,
       "name": "Altijd Tijd",
       "url": "https://open.spotify.com/track/3ajh68l4VNpxSIMxYjeceJ"
@@ -421,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/5oPOBewtDHaokf2ApJPkNX"
+      },
+      "artists": [
+        {
+          "name": "Xerxes",
+          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165441,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/5TWAZg0WxDZxFkd3OqIzW1"
+    },
+    {
+      "album": {
         "name": "Camera",
         "url": "https://open.spotify.com/album/5Cv9zHrHO15rMIkDGEAiwp"
       },
@@ -584,7 +620,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 130321,
       "name": "Dief In De Nacht",
       "url": "https://open.spotify.com/track/2tT91bCBuWgFiolKC7TqH5"
@@ -606,7 +642,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 182662,
       "name": "Doodsbang",
       "url": "https://open.spotify.com/track/5CLWh2VzaJwNyfxNBMYEb7"
@@ -870,6 +906,28 @@
       "duration_ms": 177546,
       "name": "Hier Blijft Het Bij",
       "url": "https://open.spotify.com/track/3oaANXjWB9RjSAvFFXpwhb"
+    },
+    {
+      "album": {
+        "name": "Online/Offline (Deluxe)",
+        "url": "https://open.spotify.com/album/2uqrR2tkqMm6F5AdQIPlui"
+      },
+      "artists": [
+        {
+          "name": "Younes",
+          "url": "https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw"
+        },
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Hoop - Bonus Track",
+      "url": "https://open.spotify.com/track/7G7HyrEcu4KqiVAgAaAXOr"
     },
     {
       "album": {
@@ -1177,6 +1235,28 @@
     },
     {
       "album": {
+        "name": "Leidseplein (feat. KATNUF)",
+        "url": "https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161831,
+      "name": "Leidseplein (feat. KATNUF)",
+      "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
+    },
+    {
+      "album": {
         "name": "Lentesneeuw",
         "url": "https://open.spotify.com/album/4TTe9Cik1Vu39LxoVUAONF"
       },
@@ -1306,7 +1386,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 243332,
       "name": "Met Jou Kan Ik Het Aan",
       "url": "https://open.spotify.com/track/6Zdqcxtwx0TwkXhs7LwIru"
@@ -1328,7 +1408,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 167684,
       "name": "Meteoriet",
       "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
@@ -1572,7 +1652,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 147236,
       "name": "Nooit Meer Spijt",
       "url": "https://open.spotify.com/track/2h6HTbs5OeIyxsUa6kUeAL"
@@ -1648,7 +1728,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 170348,
       "name": "Online",
       "url": "https://open.spotify.com/track/64r0yTL6Tinak5LjCOUpxG"
@@ -1724,10 +1804,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 182189,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5II9sxBAPumEcpYQ3azCcT"
+    },
+    {
+      "album": {
+        "name": "Rood Licht",
+        "url": "https://open.spotify.com/album/4rbf6xcKq8hya8XBAw9PWi"
+      },
+      "artists": [
+        {
+          "name": "ZWIJMEL",
+          "url": "https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189215,
+      "name": "Rood Licht",
+      "url": "https://open.spotify.com/track/26zU9nsY6hlPUAjb4PsRsb"
     },
     {
       "album": {
@@ -1840,7 +1938,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 203437,
       "name": "Stiekem",
       "url": "https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em"
@@ -1876,7 +1974,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 160167,
       "name": "Stil In De Stad",
       "url": "https://open.spotify.com/track/3zKok5SsKBwSdM1kfedrga"
@@ -1898,6 +1996,24 @@
       "duration_ms": 174730,
       "name": "Stilte",
       "url": "https://open.spotify.com/track/1DbUqQsA59SdJ2bJbreuLN"
+    },
+    {
+      "album": {
+        "name": "Te Goed Om Waar Te Zijn",
+        "url": "https://open.spotify.com/album/2mRv3JeT8QvCy44FknVLqF"
+      },
+      "artists": [
+        {
+          "name": "Sherefa Yorks",
+          "url": "https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169282,
+      "name": "Te Goed Om Waar Te Zijn",
+      "url": "https://open.spotify.com/track/5xROc7yMnVnPBuGw9bTCTK"
     },
     {
       "album": {
@@ -1995,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Tranen Om Te Lachen",
+        "url": "https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp"
+      },
+      "artists": [
+        {
+          "name": "Van Den Hil",
+          "url": "https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164045,
+      "name": "Tranen Om Te Lachen",
+      "url": "https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr"
+    },
+    {
+      "album": {
         "name": "Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag",
         "url": "https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS"
       },
@@ -2024,7 +2158,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 182197,
       "name": "Vallen",
       "url": "https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j"
@@ -2042,7 +2176,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 225152,
       "name": "Vallen en Weer Opstaan",
       "url": "https://open.spotify.com/track/4jkmmV57x7CY8K4f0wKbi3"
@@ -2060,7 +2194,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 171651,
       "name": "Van Goed Naar Beter",
       "url": "https://open.spotify.com/track/0nfFsJLVTNTNFAPn7L8THP"
@@ -2264,7 +2398,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 240562,
       "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
       "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
@@ -2286,6 +2420,24 @@
       "duration_ms": 176842,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/4pGud1eTrk6mWSOUw33u9o"
+    },
+    {
+      "album": {
+        "name": "Zij Heeft Alles",
+        "url": "https://open.spotify.com/album/69jSlMa042sypmsAS7rORE"
+      },
+      "artists": [
+        {
+          "name": "Marc Floor",
+          "url": "https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183598,
+      "name": "Zij Heeft Alles",
+      "url": "https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa"
     },
     {
       "album": {

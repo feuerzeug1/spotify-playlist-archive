@@ -324,6 +324,24 @@
     {
       "album": {
         "name": "Blue V2",
+        "url": "https://open.spotify.com/album/3VNVRVg1cYW4U7wIB03o7P"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144047,
+      "name": "Blue V2",
+      "url": "https://open.spotify.com/track/3AOhQ6KDL6CY19qw2D0aOR"
+    },
+    {
+      "album": {
+        "name": "Blue V2",
         "url": "https://open.spotify.com/album/5At4juaXQVGzBMhRwMQ2Co"
       },
       "artists": [
@@ -334,7 +352,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 144048,
       "name": "Blue V2",
       "url": "https://open.spotify.com/track/0EbqWgge7ZFah2OWg7zMcT"

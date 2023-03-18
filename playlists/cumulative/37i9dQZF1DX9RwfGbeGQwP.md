@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,148 songs - 1 day 19 hr 16 min
+1,152 songs - 1 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [cheydinhal](https://open.spotify.com/track/1LZn2Iumd6EBPa16SxZmgg) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/5qkawH5rfKsYEwTXWMRDeP) | 2:05 | 2022-09-16 | 2022-10-15 |
 | [cheydinhal](https://open.spotify.com/track/3xMf7Kna90OQykFAxTyq5z) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/2V0IXWAztq41O6rS4s4Yka) | 2:05 | 2022-01-27 | 2022-09-20 |
 | [Chick](https://open.spotify.com/track/0WzdK813v8tzO8uUgT2rYf) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Chick](https://open.spotify.com/album/49TwMqSw5ixwMy6zSdfjw6) | 2:46 | 2022-12-09 |  |
+| [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-16 |  |
 | [Chillin'](https://open.spotify.com/track/5QasMxBFqYtWjljLCm7SR4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr), [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Chillin'](https://open.spotify.com/album/2erNlAiEBMmBNE9addE9bK) | 2:28 | 2022-04-08 | 2022-10-15 |
 | [Chilling by the lake](https://open.spotify.com/track/3ZtI3F9EqlIfgDmtdlVJXb) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Adam Dejnarowicz](https://open.spotify.com/artist/7HWiJb3mzF3vnEYs0wIBdJ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Chilling by the lake](https://open.spotify.com/album/57vXUREWBWEtyRkhDX17SV) | 2:08 | 2022-10-08 |  |
 | [Chillpill](https://open.spotify.com/track/4WAL1RcMM1MUlSxLntpHjF) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Pysig](https://open.spotify.com/album/0dQVTWnBsV7WJLDQhKow4d) | 2:42 | 2022-12-16 |  |
@@ -226,6 +227,7 @@
 | [Coral Sea](https://open.spotify.com/track/2oFYTpXSwprSjZUflMnOZn) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Coral Sea](https://open.spotify.com/album/3PIyYWe2rAaqEVruPOCewu) | 1:41 | 2022-09-09 | 2022-11-06 |
 | [Corazon](https://open.spotify.com/track/0BkzlSXlxzwzTxQavTToIh) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [SUPPER TRANKKI](https://open.spotify.com/artist/2LDeDIeSKH7tJZ8LLQEm07) | [Corazon](https://open.spotify.com/album/3mtVBJH7Zx4HWByGVTObsJ) | 2:02 | 2022-08-05 | 2022-12-17 |
 | [Cortado](https://open.spotify.com/track/2IC07xMcGWjB24kqdE4zKv) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Cortado](https://open.spotify.com/album/3srIiBTKqMYAjA0bL9dtu4) | 1:39 | 2022-11-25 |  |
+| [Cozy Jazz](https://open.spotify.com/track/03NvFoQqVypUOifssBl0JC) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Cozy Jazz](https://open.spotify.com/album/3CF3bR4wY1w9tktFA2Fj73) | 1:36 | 2023-03-16 |  |
 | [Crab Cake](https://open.spotify.com/track/0AoHfH1gDhbpqVaVRQnnu4) | [Moon Boi Beats](https://open.spotify.com/artist/7kZ195AkdNG4enyC5QQ5E1) | [Sunrise](https://open.spotify.com/album/7IegiQLGEaX6v1ICmYtZGg) | 1:57 | 2022-04-22 | 2022-11-26 |
 | [Creme De La Creme](https://open.spotify.com/track/5q3ixgSPx7VC5pC2O1CnQe) | [G O L](https://open.spotify.com/artist/5UnjO9XLvCeBWIP1fiOden) | [Creme De La Creme](https://open.spotify.com/album/7rbmVzwB6iBNmLkMGoUmr3) | 2:15 | 2022-01-27 | 2022-07-01 |
 | [Criada Muda](https://open.spotify.com/track/2XH3VT6CZkXTv903hE7oE4) | [Reflejitos](https://open.spotify.com/artist/6Wa63VdHO4nX4IgCAXrd3W) | [Criada Muda](https://open.spotify.com/album/4DGFRbuAmGvd4HkEIrHKKj) | 3:06 | 2022-07-29 |  |
@@ -355,6 +357,7 @@
 | [Flowers, a snail & insects](https://open.spotify.com/track/7DULILmYwre0P5BvZRU9uy) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Flowers, a snail & insects](https://open.spotify.com/album/5sb5ksvhXh2qGwvFQdAYs4) | 2:20 | 2023-01-06 |  |
 | [Fluffy Clouds](https://open.spotify.com/track/4qgukC6nHow6ykuFCVvfxM) | [Ikioma](https://open.spotify.com/artist/5abWpSIsMg0CLqe7APDP9y) | [Coffee Break](https://open.spotify.com/album/1eCsmBBeWfstJGqtrxBeX0) | 1:53 | 2022-01-27 | 2022-05-27 |
 | [Fluffy White Clouds](https://open.spotify.com/track/2IDZCu8wc18XPTVBR9FToF) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [De Nada](https://open.spotify.com/album/2KQ8Qq9xZismI1yYYTTrNi) | 2:58 | 2022-10-28 | 2023-02-25 |
+| [Flying Away](https://open.spotify.com/track/7zckDVftCAoW2NeuEp9Qvc) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Flying Away](https://open.spotify.com/album/6HybhwMgx3nwXFk5qEoNhG) | 1:39 | 2023-03-16 |  |
 | [Flying Dreams](https://open.spotify.com/track/62bePphA3RaOww3GuDtq6c) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Flying Dreams](https://open.spotify.com/album/0HPhtKf6LJOgEpuGro9czt) | 2:37 | 2022-12-16 |  |
 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 | 2022-01-27 | 2022-07-08 |
 | [folks on the hill](https://open.spotify.com/track/3hN7Pz2yb7LkKPvbgFjoE9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 7](https://open.spotify.com/album/68ZfEDS3HexVA552oFG42S) | 1:27 | 2023-01-13 |  |
@@ -368,7 +371,7 @@
 | [Forest Life](https://open.spotify.com/track/68ZIOt33K90kdFTRiHNu9W) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Forest Life](https://open.spotify.com/album/39yEiqCwXRptzr1VVRLMo6) | 1:50 | 2022-01-27 | 2022-06-10 |
 | [forest woman](https://open.spotify.com/track/5rzNLxuDRBgp4JImewDnAC) | [!Noj](https://open.spotify.com/artist/4AC0ibnAApmxIw1MEFLKyW) | [forest woman](https://open.spotify.com/album/4cO8EseRlsFS2yc5nPxMbl) | 2:08 | 2022-11-11 | 2023-03-09 |
 | [Forgotten Lands](https://open.spotify.com/track/6mLacmXHVhMYntonD5ckR6) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Forgotten Lands](https://open.spotify.com/album/6ykUoEEX0ACKOeoHCRB5Re) | 2:25 | 2022-11-11 |  |
-| [formula too complex](https://open.spotify.com/track/5hje2hLvJnZaWwZX691Kb7) | [next without for](https://open.spotify.com/artist/6fJ41pCfWP0xVKvxfQcjbU) | [formula too complex](https://open.spotify.com/album/12VmmoSnPwngumo6RjvTPe) | 1:46 | 2022-06-10 |  |
+| [formula too complex](https://open.spotify.com/track/5hje2hLvJnZaWwZX691Kb7) | [next without for](https://open.spotify.com/artist/6fJ41pCfWP0xVKvxfQcjbU) | [formula too complex](https://open.spotify.com/album/12VmmoSnPwngumo6RjvTPe) | 1:46 | 2022-06-10 | 2023-03-18 |
 | [Fortran](https://open.spotify.com/track/2gNoc9XvLMECTErBk7YKmJ) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Fortran](https://open.spotify.com/album/3aH1cRGxgAAZKlDmUCdAfB) | 3:16 | 2022-08-05 |  |
 | [Forty Winks](https://open.spotify.com/track/6ziC95AXSfHpzieMwruS2P) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX) | [Forty Winks](https://open.spotify.com/album/3HVV3I4Z82zV6CJRIQ8h33) | 3:25 | 2022-05-13 | 2022-11-26 |
 | [Free](https://open.spotify.com/track/4OyKGxXkpoW7jtm0lZKLUc) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Free](https://open.spotify.com/album/6pG5ZUYAjeEjTNrU1SUsKt) | 2:07 | 2022-10-15 |  |
@@ -1126,6 +1129,7 @@
 | [Who's World Is This?](https://open.spotify.com/track/6dL7z10QINju4SHT3O3cxC) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Who's World Is This](https://open.spotify.com/album/19Hp7di22vmwP4DrX1y6ex) | 2:36 | 2022-05-13 | 2022-11-26 |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-01-27 | 2022-10-29 |
 | [Window Camping](https://open.spotify.com/track/5WexdSeiaYKjHkPy1lcos9) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [ROOM7](https://open.spotify.com/album/4v6m1ay44BiT0DBFBGljgu) | 2:03 | 2022-01-27 | 2022-06-10 |
+| [Window Shopping in Tokyo](https://open.spotify.com/track/00ufVBit2H8lLif3nD6QDj) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Window Shopping in Tokyo](https://open.spotify.com/album/43DPCU4944DtLnuJrahPqg) | 3:14 | 2023-03-16 |  |
 | [Windows Down Please](https://open.spotify.com/track/0PvlcijhpAcsJt0a0sv48p) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Windows Down Please](https://open.spotify.com/album/27NSyKkHjFnOoTyBH7rBKA) | 2:03 | 2023-02-17 |  |
 | [windowsill.](https://open.spotify.com/track/6g8WlgW1divhDIY4arP8t3) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [windowsill.](https://open.spotify.com/album/6GGkqL4vnSG0qJIHSpxfrM) | 2:14 | 2022-04-15 | 2022-11-12 |
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-01-27 | 2022-09-03 |

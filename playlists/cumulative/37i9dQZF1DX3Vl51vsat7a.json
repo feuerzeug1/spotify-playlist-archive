@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 146813,
       "name": "Breddaz",
       "url": "https://open.spotify.com/track/2f3Mn7wQBLthtljAg3pNtj"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 112000,
       "name": "Ghetto Tekkno",
       "url": "https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 235413,
       "name": "Mach kaputt",
       "url": "https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh"
@@ -1864,6 +1864,24 @@
       "duration_ms": 163909,
       "name": "Make You Scream",
       "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
+    },
+    {
+      "album": {
+        "name": "Mandala",
+        "url": "https://open.spotify.com/album/4dnEXvpTeEzyaN9zrk5hNX"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121630,
+      "name": "Mandala",
+      "url": "https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu"
     },
     {
       "album": {
@@ -2199,6 +2217,28 @@
     },
     {
       "album": {
+        "name": "Panikwei\u00df",
+        "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170016,
+      "name": "Panikwei\u00df",
+      "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
+    },
+    {
+      "album": {
         "name": "Complex Happenings Reduced To A Simple Design",
         "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
       },
@@ -2258,6 +2298,24 @@
       "duration_ms": 137647,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q"
+    },
+    {
+      "album": {
+        "name": "Somebody EP",
+        "url": "https://open.spotify.com/album/5pU5K5SdRh93tZ7gOrJ2s7"
+      },
+      "artists": [
+        {
+          "name": "Kellerkind",
+          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386193,
+      "name": "Physical Aspects Of Disco",
+      "url": "https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv"
     },
     {
       "album": {
@@ -2668,6 +2726,28 @@
       "duration_ms": 346298,
       "name": "STAINS",
       "url": "https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT"
+    },
+    {
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/2xSEFShNJW2V7g9nq5eSMp"
+      },
+      "artists": [
+        {
+          "name": "2LADE",
+          "url": "https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W"
+        },
+        {
+          "name": "Slimka",
+          "url": "https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213548,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4Xc2s9nE10G9kAGNQWneSp"
     },
     {
       "album": {
@@ -3096,7 +3176,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 401501,
       "name": "Walls Around Me",
       "url": "https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 347600,
       "name": "1542",
       "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "album": {
         "name": "Better When We're Close",
         "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
@@ -612,7 +630,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 195000,
       "name": "Big Night",
       "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
@@ -1018,7 +1036,7 @@
           "url": "https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3"
         }
       ],
-      "date_added": "2023-03-01",
+      "date_added": "2023-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 306863,
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 216000,
       "name": "Cumbia Espectro",
       "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
@@ -2691,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Mi Gran Dolor",
+        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254908,
+      "name": "Mi Gran Dolor",
+      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
+    },
+    {
+      "album": {
         "name": "Mi Monta\u00f1a (Lagartijeando Remix)",
         "url": "https://open.spotify.com/album/3IobgScP4JgtJ9KPVo78eI"
       },
@@ -3754,7 +3790,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 251428,
       "name": "Regresar (Vibes4YourSoul Remix)",
       "url": "https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w"
@@ -4212,6 +4248,28 @@
       "duration_ms": 226623,
       "name": "Sono Come Sono",
       "url": "https://open.spotify.com/track/1F3tfdSF72hS1X3PSrwC5X"
+    },
+    {
+      "album": {
+        "name": "Soy la lluvia",
+        "url": "https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Vicky Ripa",
+          "url": "https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327912,
+      "name": "Soy la lluvia",
+      "url": "https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r"
     },
     {
       "album": {
@@ -4862,6 +4920,28 @@
       "duration_ms": 315280,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/30iCh43omsKboQwN3OEd3Z"
+    },
+    {
+      "album": {
+        "name": "Dj friendly",
+        "url": "https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        },
+        {
+          "name": "Vazl\u00e1",
+          "url": "https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234900,
+      "name": "V\u00e1monos - Vazl\u00e1 Remix",
+      "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
     },
     {
       "album": {

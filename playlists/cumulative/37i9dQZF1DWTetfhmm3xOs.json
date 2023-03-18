@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Soul Sanctuary",
+        "url": "https://open.spotify.com/album/7vsIKloIvCCSEKAssTlBkH"
+      },
+      "artists": [
+        {
+          "name": "Phanari",
+          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "Soul Sanctuary",
+      "url": "https://open.spotify.com/track/0F0D6AJURYa1gLkMuaClSc"
+    },
+    {
+      "album": {
         "name": "Spirituality",
         "url": "https://open.spotify.com/album/28DSzeC4i0k8acoKV8Dhb2"
       },

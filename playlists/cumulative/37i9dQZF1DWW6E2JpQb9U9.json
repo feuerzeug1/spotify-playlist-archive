@@ -349,6 +349,28 @@
     },
     {
       "album": {
+        "name": "En Vivo!",
+        "url": "https://open.spotify.com/album/4y7wPjrjgxtdhH1VpOXspb"
+      },
+      "artists": [
+        {
+          "name": "Epumer Machi Judurcha",
+          "url": "https://open.spotify.com/artist/4aDr31yJG2e1mvE4XWewV7"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365108,
+      "name": "Alas de la ma\u00f1ana - En Vivo",
+      "url": "https://open.spotify.com/track/7lWx5K7p3H3uytmaVRil0K"
+    },
+    {
+      "album": {
         "name": "Doble A en Vivo en Estudio Ion",
         "url": "https://open.spotify.com/album/6YCbgM69mjWHhmj0Y5q8zL"
       },
@@ -1028,6 +1050,24 @@
       "duration_ms": 236802,
       "name": "Chino",
       "url": "https://open.spotify.com/track/2itM9PP3LGo6DgyJpBY4JX"
+    },
+    {
+      "album": {
+        "name": "Colgado de la luna (En vivo El Sol 2, abril 1998)",
+        "url": "https://open.spotify.com/album/0w8Lpf5B1qVbRid4BFMCWo"
+      },
+      "artists": [
+        {
+          "name": "Ariel Rot",
+          "url": "https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255960,
+      "name": "Colgado de la luna - En vivo El Sol 2, abril 1998",
+      "url": "https://open.spotify.com/track/4gPtmKoWB6X7vXxLn3Dhcf"
     },
     {
       "album": {
@@ -2740,7 +2780,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 414120,
       "name": "Marad\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH"
@@ -3860,7 +3900,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 331453,
       "name": "Sacrificio y Rock and Roll",
       "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"

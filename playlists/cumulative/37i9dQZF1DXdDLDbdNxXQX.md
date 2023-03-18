@@ -4,7 +4,7 @@
 
 > Sing along with Thomas & Friends!
 
-40 songs - 1 hr 27 min
+43 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Enda Ulale](https://open.spotify.com/track/7JrS2AxPCICTCJ4bztWN3M) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Big World! Big Adventures! the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5V3rouxWWLl52CDEfAycak) | 0:50 | 2022-03-18 |  |
 | [Every Cloud Has a Silver Lining](https://open.spotify.com/track/7FNViZwBBXthnGPdsrCgkC) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas' Songs & Roundhouse Rhythms](https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v) | 3:00 | 2022-03-18 |  |
 | [Every Day's A Special Day](https://open.spotify.com/track/56TiBDsoZDMGuu18WqURhb) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 2:10 | 2022-03-18 |  |
+| [Feel the Hush](https://open.spotify.com/track/2MdhS24ejaTguVkMtJ1NeN) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [All Aboard \(Songs From Season 26\)](https://open.spotify.com/album/4kcU5WG4lApZ6JXFUj4oH6) | 2:00 | 2023-03-17 |  |
 | [Free and Easy](https://open.spotify.com/track/2821w1cSGMHQ3r2eb7Vx4m) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Big World! Big Adventures! the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5V3rouxWWLl52CDEfAycak) | 2:47 | 2022-03-18 |  |
 | [Go, Go Thomas](https://open.spotify.com/track/5ExvsvyrHJLSaFih8inGVT) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 2:10 | 2022-03-18 |  |
 | [Gone Fishing](https://open.spotify.com/track/5zDn4p16W73jTR1EYJIFLF) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas' Songs & Roundhouse Rhythms](https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v) | 3:00 | 2022-03-18 |  |
@@ -37,6 +38,7 @@
 | [Sir Topham Hatt](https://open.spotify.com/track/5J026z1CPObMFQfLzPQcSD) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas' Songs & Roundhouse Rhythms](https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v) | 3:02 | 2022-03-18 |  |
 | [Sounds \(The Sound Song\)](https://open.spotify.com/track/3Pahvt7EYavkLIxrM2G9Sg) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Meet the Steam Team!](https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd) | 3:09 | 2022-03-18 |  |
 | [Steam, Rattle & Roll](https://open.spotify.com/track/4BiELPE8w8vqZWkYPN15yh) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Steam, Rattle & Roll Thomas](https://open.spotify.com/album/63uEoErqlbuB1LkhcbEQkX) | 0:57 | 2022-03-18 |  |
+| [The World Has a Mind of Its Own](https://open.spotify.com/track/52pNuMtZreeK6hs5f2HzId) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [All Aboard \(Songs From Season 26\)](https://open.spotify.com/album/4kcU5WG4lApZ6JXFUj4oH6) | 2:06 | 2023-03-17 |  |
 | [There's A Job for Everyone](https://open.spotify.com/track/4KVBIanmzauQB2Rv76zcFP) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Meet the Steam Team!](https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd) | 3:07 | 2022-03-18 |  |
 | [Thomas Theme \(Reprise\)](https://open.spotify.com/track/2mQVahe9gsumDmr67neUzb) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas' Songs & Roundhouse Rhythms](https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v) | 0:30 | 2022-03-18 |  |
 | [Thomas Theme Lullaby](https://open.spotify.com/track/0A6j4xUMaDvq2wyKFr6eVG) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Lullabies](https://open.spotify.com/album/2jn7Dn8YT6cwuR5Kyh5Xez) | 1:39 | 2022-03-18 |  |
@@ -48,5 +50,6 @@
 | [Where in the World is Thomas?](https://open.spotify.com/track/0MGdbMuKkrysQ4VVq57vfg) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Big World! Big Adventures! the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5V3rouxWWLl52CDEfAycak) | 3:11 | 2022-03-18 |  |
 | [You Can Only Be You](https://open.spotify.com/track/7pXeGRaQCxZXctU6UPHNiD) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Meet the Steam Team!](https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd) | 2:31 | 2022-03-18 |  |
 | [You Can Only Be You Lullaby](https://open.spotify.com/track/7oiuM1m1aQhlfeVcdGMrvg) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Lullabies](https://open.spotify.com/album/2jn7Dn8YT6cwuR5Kyh5Xez) | 2:16 | 2022-03-18 |  |
+| [You Can't Stop Me](https://open.spotify.com/track/3KrHDf3hq91kveXG2jtADK) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [All Aboard \(Songs From Season 26\)](https://open.spotify.com/album/4kcU5WG4lApZ6JXFUj4oH6) | 1:54 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

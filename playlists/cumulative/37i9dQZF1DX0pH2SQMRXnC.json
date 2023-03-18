@@ -931,6 +931,32 @@
     },
     {
       "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196576,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
+    },
+    {
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/7fb89VYTdbaymChs5cJ0FI"
       },
@@ -4495,6 +4521,24 @@
     },
     {
       "album": {
+        "name": "Heart On Fire",
+        "url": "https://open.spotify.com/album/2klKsbqt3GHjUSDekdotrL"
+      },
+      "artists": [
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/6tv7rh2WOO6WEbzYI9aUYd"
+    },
+    {
+      "album": {
         "name": "Hellraiser",
         "url": "https://open.spotify.com/album/2ZCAMFZH543dHiGCNRsp4J"
       },
@@ -4872,7 +4916,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 295646,
       "name": "Hurricane - Radio Edit",
       "url": "https://open.spotify.com/track/3kLqJ09xramYW9I9gAXTWl"
@@ -5026,6 +5070,24 @@
       "duration_ms": 244133,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
+    },
+    {
+      "album": {
+        "name": "Impact",
+        "url": "https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219870,
+      "name": "Impact",
+      "url": "https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH"
     },
     {
       "album": {
@@ -5634,7 +5696,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 229940,
       "name": "Killer",
       "url": "https://open.spotify.com/track/6jOnJuuHrAo8TER3UhfVsN"
@@ -7058,7 +7120,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 227991,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/6le1LT9NtaUlQ22aITOM7g"
@@ -7728,7 +7790,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 186847,
       "name": "PLANET CIRCUS",
       "url": "https://open.spotify.com/track/3kmBBUhJCU91GchndjzIc8"
@@ -8999,6 +9061,24 @@
     },
     {
       "album": {
+        "name": "Sky Fall",
+        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215225,
+      "name": "Sky Fall",
+      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
+    },
+    {
+      "album": {
         "name": "Slaves To The System",
         "url": "https://open.spotify.com/album/4t7GX4zaobtye1dT4oJ1L3"
       },
@@ -10198,7 +10278,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 333223,
       "name": "The Reawakening (Qlimax 2021 Anthem)",
       "url": "https://open.spotify.com/track/1B2FQ2tntp1udaUuHd5XUB"
@@ -10220,7 +10300,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 153870,
       "name": "The Remedy",
       "url": "https://open.spotify.com/track/31q4Bx8xOt4bdSHZnV7kvF"
@@ -11075,6 +11155,28 @@
     },
     {
       "album": {
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
+      },
+      "artists": [
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        },
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"
+    },
+    {
+      "album": {
         "name": "Vacant Eyes",
         "url": "https://open.spotify.com/album/2jiCBN2jaaYCTWEvOLloY3"
       },
@@ -11868,7 +11970,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 167072,
       "name": "YRML 2K20",
       "url": "https://open.spotify.com/track/0gakxtyAQxCAQ9h7PiUpKu"

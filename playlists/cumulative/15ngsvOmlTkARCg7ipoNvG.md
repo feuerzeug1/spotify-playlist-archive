@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-876 songs - 20 hr 23 min
+878 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Love and Faith](https://open.spotify.com/track/7hI3HBjv3yg90gImmmeMV5) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:20 | 2022-01-12 |  |
 | [Love Appears](https://open.spotify.com/track/0JIdu4qhTbZSrX3ZyQvYbd) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Nightfall](https://open.spotify.com/album/2ZqMA0BErQjA4p7pjJsCYJ) | 1:26 | 2022-01-15 |  |
 | [Love Forever](https://open.spotify.com/track/0widsekq0eRIkeXzXRtn9r) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Love Forever](https://open.spotify.com/album/12lwYFzQThMGnQQk14D7jp) | 1:02 | 2022-07-22 |  |
+| [Love In My Dreams](https://open.spotify.com/track/1uCK2f0Ytg2BEFExDwaOkm) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Love In My Dreams](https://open.spotify.com/album/3u2t9Au12RDnw3DWNNujRp) | 1:00 | 2023-03-16 |  |
 | [Love In The Light](https://open.spotify.com/track/07FVrAmSsMY47qZzsUCW1o) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space](https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM) | 1:03 | 2022-02-03 |  |
 | [Love In Waves](https://open.spotify.com/track/1RykpvkLxvNElbBwWNuf3p) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Liminal Space](https://open.spotify.com/album/1tE3wozeYnHIJVPQeCURK3) | 1:02 | 2022-04-20 |  |
 | [Loving In The Light](https://open.spotify.com/track/3whulguc6rUnuicUrNxYMC) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Inner Calling](https://open.spotify.com/album/6jz7Ss9WTWOTMh7hGZikzy) | 1:03 | 2022-02-24 |  |
@@ -735,6 +736,7 @@
 | [Stillness In Water](https://open.spotify.com/track/1tUmii8Tiu6jpuXVrjcNjy) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Inspiring Wonder](https://open.spotify.com/album/5GaqAoc0gAzImOql9eWKVF) | 1:03 | 2022-02-19 |  |
 | [Summer Eclipse](https://open.spotify.com/track/5BUrc7LkJcFBEqx3IKDESd) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Liminal Space](https://open.spotify.com/album/1tE3wozeYnHIJVPQeCURK3) | 1:03 | 2022-04-20 |  |
 | [Summer Gratitude](https://open.spotify.com/track/4mXLufP5eOpNdihDYm44Zv) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Rising Light](https://open.spotify.com/album/0htQDvvGMdICGa3gM2Z8be) | 1:01 | 2022-04-30 |  |
+| [Summer Morning](https://open.spotify.com/track/6q6ybnxJtpFS9UtYoLk8gl) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Summer Morning](https://open.spotify.com/album/20UwbEUICL1S6w8mvg0sB4) | 1:00 | 2023-03-16 |  |
 | [Summer Solace](https://open.spotify.com/track/7Jx3UUDNtUetiF97CYeIfQ) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Summer Solace](https://open.spotify.com/album/7tpHqEx2guugAqnOl9ELto) | 1:02 | 2022-08-15 |  |
 | [Summer Stargazing](https://open.spotify.com/track/7w5GDItNiC1Ezch9wcafkg) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:42 | 2022-01-12 |  |
 | [Summit](https://open.spotify.com/track/3oN5IefFWCo7SN3WorWX4w) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Cello Ambience](https://open.spotify.com/album/3d4A1XQAVvCZhzFnBGV4Kt) | 1:23 | 2022-01-12 |  |

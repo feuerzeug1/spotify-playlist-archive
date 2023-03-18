@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=lbOt-CVZT82--_qr7nn_gA\">Loatinover Pounds</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv?si=48t97hKpSgytRvF0wHAg5Q\">YoungstaCPT</a> and <a href=\"https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq?si=ktReMoU6SOaAg6oUfSdIXg\">M1llionz</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 126593,
       "name": "Blue Shell",
       "url": "https://open.spotify.com/track/6sCljP7sOQfhphYlyol5KP"
@@ -3724,7 +3724,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 222705,
       "name": "Gwan (feat. Maglera Doe Boy)",
       "url": "https://open.spotify.com/track/457nxkch48VCfRKAEi0cBA"
@@ -7791,6 +7791,28 @@
     },
     {
       "album": {
+        "name": "Senyeha",
+        "url": "https://open.spotify.com/album/42LuGB4e3PN95eNHmREkR1"
+      },
+      "artists": [
+        {
+          "name": "AirDee",
+          "url": "https://open.spotify.com/artist/1aV75Pym2yLDDrpsiiCB4N"
+        },
+        {
+          "name": "VenusRaps",
+          "url": "https://open.spotify.com/artist/3GZOYqox0oGHqmLQVijPye"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182085,
+      "name": "Senyeha",
+      "url": "https://open.spotify.com/track/3yqV0Dt2IFxzTOb2edCbNr"
+    },
+    {
+      "album": {
         "name": "Serious (Street Remix)",
         "url": "https://open.spotify.com/album/4rAKZhjVY8leXYaOV47ctZ"
       },
@@ -8430,7 +8452,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 256153,
       "name": "Song Of The Year",
       "url": "https://open.spotify.com/track/63pa2a0znDIGmWdlkBPNCQ"
@@ -9324,7 +9346,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 211762,
       "name": "Thiba",
       "url": "https://open.spotify.com/track/0hu7GcuM613Ez6y0JvGmPV"
@@ -10236,6 +10258,24 @@
       "duration_ms": 170586,
       "name": "What's Next?",
       "url": "https://open.spotify.com/track/024tMkSQ7R5y0DVZ5CambR"
+    },
+    {
+      "album": {
+        "name": "REVENGE IS SWEET",
+        "url": "https://open.spotify.com/album/3KhVnTxQrHxJZsEzJxrUjw"
+      },
+      "artists": [
+        {
+          "name": "Jay Jody",
+          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120561,
+      "name": "WHAT'S THE WEST THAT COULD HAPPEN",
+      "url": "https://open.spotify.com/track/6VncIH28yfPz8GeL89E0hA"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Nico Kyni
+> Il meglio dell'R&B italiano\. Cover: Orlvndo
 
-283 songs - 14 hr 0 min
+286 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,9 +61,11 @@
 | [confessioni](https://open.spotify.com/track/6DDjZYfWPO9f9wd5B8F9RO) | [Elea](https://open.spotify.com/artist/4zTIQEV02QCXtgDd9XFvz3), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn) | [confessioni](https://open.spotify.com/album/4SXQ82iVI2XZSRjn16qKrz) | 2:59 | 2022-05-05 | 2022-09-09 |
 | [Corpi astrali](https://open.spotify.com/track/4yUVZ9AwqvuWOzpJtXScuW) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0), [Nubula](https://open.spotify.com/artist/7bGSYDi7LmU5F1wx8ITzIk) | [Corpi astrali](https://open.spotify.com/album/27V0XvfNzIv9eOF4IYT4sp) | 3:05 | 2022-06-30 | 2023-01-27 |
 | [Cos'è una regola](https://open.spotify.com/track/4hZat4zoX4ghX3da67nYfl) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Cos'è una regola](https://open.spotify.com/album/1dxJEVmp2GsAC2guij4tJW) | 3:20 | 2022-05-05 | 2022-09-09 |
+| [Cosa rimane](https://open.spotify.com/track/1e3bCZEi7yYs9rEnkOUzxL) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [AD MAIORA](https://open.spotify.com/album/56w0hv0t2fESIzA8Zv3LMS) | 3:25 | 2023-03-16 |  |
 | [Così](https://open.spotify.com/track/6a8R1ynqMFc6BFOeulmRRF) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw) | [Così](https://open.spotify.com/album/4xA1F2laLObcuaFPjSfCaY) | 2:07 | 2022-11-03 | 2022-12-02 |
 | [Cult](https://open.spotify.com/track/0LJI0x54X29TStopw2PzFG) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [Cult](https://open.spotify.com/album/2E7kATBLAHZJFnmOWZhjH8) | 2:45 | 2022-05-05 | 2022-09-30 |
 | [Cura Di Me](https://open.spotify.com/track/12Gayc39zYtD4gqUbG9IGv) | [Nibirv](https://open.spotify.com/artist/6pG1ZVFN8KaauXU1ECwmC6) | [Cura Di Me](https://open.spotify.com/album/38dcAryFiy9oNIwCeFFnHS) | 3:29 | 2022-09-29 | 2023-02-03 |
+| [CuraMi](https://open.spotify.com/track/0nREprhuyJLfKN70qkj4M9) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [CuraMi](https://open.spotify.com/album/6hAQFMzyok7QGYRyBS9Z3H) | 2:24 | 2023-03-16 |  |
 | [DARK DRAGONITE \(feat\. Missey\)](https://open.spotify.com/track/5S6J3X4G1ulSJyM5D0EUp9) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 2:48 | 2022-06-30 | 2022-12-02 |
 | [Decidere non so](https://open.spotify.com/track/6rc32OHe3Wv0SbZoRRwm4P) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Decidere non so](https://open.spotify.com/album/79TXfRYQUMRcUqwwuj5nYk) | 3:20 | 2023-01-26 | 2023-03-10 |
 | [DIAMANTI](https://open.spotify.com/track/6S3Q6qeGe0DFTDYvO5ZetR) | [francesca moretti](https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX) | [DIAMANTI](https://open.spotify.com/album/1xHqLNfHuyCFfuDYy2D2wi) | 3:16 | 2022-07-07 | 2022-09-16 |
@@ -123,7 +125,7 @@
 | [Io sono in paranoia](https://open.spotify.com/track/4TvvAnvrvyQmdJgv7FASaF) | [L'Alba](https://open.spotify.com/artist/1MZ9OluQIQngTfG27rhOcj), [Saffi](https://open.spotify.com/artist/33DnVEwpiJGyHynUdQR0VR), [Yako](https://open.spotify.com/artist/5R2zIsjbgxycc2BH8BPFV8) | [Io sono in paranoia](https://open.spotify.com/album/7sEJpEQ8zRtMwv7AD5ujVE) | 2:16 | 2022-06-23 | 2022-09-09 |
 | [Ion](https://open.spotify.com/track/1YmNkL6FHnO8GgpN2HqWaS) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 3:25 | 2022-05-26 | 2022-07-29 |
 | [Jeans Appeal](https://open.spotify.com/track/0SnJuW9iXV3s2nTgGN31Nb) | [Merrick](https://open.spotify.com/artist/5msEesooT4udZUDKyp8SPe) | [Jeans Appeal](https://open.spotify.com/album/78dWDklJ4ITsnQ14SIEojh) | 3:05 | 2022-06-23 | 2022-11-25 |
-| [Just Eat](https://open.spotify.com/track/18liqHUDCbL57MpWreIwOa) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Just Eat](https://open.spotify.com/album/7niPoJYBWsZBlQLp997fLQ) | 3:08 | 2023-01-19 |  |
+| [Just Eat](https://open.spotify.com/track/18liqHUDCbL57MpWreIwOa) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Just Eat](https://open.spotify.com/album/7niPoJYBWsZBlQLp997fLQ) | 3:08 | 2023-01-19 | 2023-03-18 |
 | [Karma](https://open.spotify.com/track/0aHzuh1etGgRDpK4enI5T0) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Karma](https://open.spotify.com/album/6a608NAL2SvP3U6uI4WQpF) | 2:37 | 2022-05-26 | 2022-12-02 |
 | [Katábasis](https://open.spotify.com/track/4oB1ITrhWrneUtt96y7eVZ) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Katábasis](https://open.spotify.com/album/0pS2dH0gx79Nw8z2BbJGZD) | 3:38 | 2022-11-17 | 2023-02-03 |
 | [Kelly](https://open.spotify.com/track/0J5rO7iKSFzzYfBLd0Xu86) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:44 | 2022-11-24 | 2023-03-10 |
@@ -153,6 +155,7 @@
 | [Lui](https://open.spotify.com/track/2CA7x4w6ozAUZFHChxcyxt) | [Greeyce](https://open.spotify.com/artist/2jEpqbBVGFfzmXn51dDqMe), [Yazee](https://open.spotify.com/artist/7CYwuhZwBcxavIrRhnZxQc) | [Lui](https://open.spotify.com/album/1bIh6pQCJh7OBIWpqtQDZd) | 2:36 | 2022-11-03 | 2023-02-03 |
 | [LUNA](https://open.spotify.com/track/0Ui2KA71Iq5GkXRBFdsRRz) | [G\-laspada](https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW) | [LUNA](https://open.spotify.com/album/56yCmEHMUqwexcSVetMyQn) | 2:58 | 2022-08-05 | 2023-01-27 |
 | [Luna](https://open.spotify.com/track/2oh3jT73AcCwKxaTXs5dRl) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [SANTO BLUE](https://open.spotify.com/artist/5sV954iubTAhghPdzITK5v) | [Luna](https://open.spotify.com/album/6kB1K9IzbiWjeqVOTazV1f) | 3:15 | 2022-11-24 | 2023-02-03 |
+| [Luna Piena](https://open.spotify.com/track/2ecfmSG3PujmDgWvoM1Ek0) | [APOLLO QUATTRO](https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8) | [Luna Piena](https://open.spotify.com/album/6FMLzFO8d3rsLrow6teojH) | 2:58 | 2023-03-16 |  |
 | [LUNA PIENA](https://open.spotify.com/track/1vMT9Z9htsxNV0SN0wOBxc) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [LUNA PIENA](https://open.spotify.com/album/4gRWXqlRRgjB1RV3u0Eqyi) | 2:46 | 2023-01-12 | 2023-02-24 |
 | [Luna piena](https://open.spotify.com/track/0HfcmSX7h8V988x2ik3FuN) | [Martina Difonte](https://open.spotify.com/artist/3qiGojLCrw73AjXA4jqRyQ) | [Luna piena](https://open.spotify.com/album/4ZupD1U6aOIN46ZK8ocWVw) | 2:30 | 2022-07-14 | 2023-01-13 |
 | [Lunatica](https://open.spotify.com/track/5u7C2wWsB5iALTL6v4HNJs) | [Sofia Nuccio](https://open.spotify.com/artist/2yTbgDLtrIA7MFMoDFViVi) | [Lunatica](https://open.spotify.com/album/76Baf3jjsQ5NsoxQGPiim6) | 3:19 | 2022-05-05 | 2022-08-26 |
@@ -162,7 +165,7 @@
 | [Mariposa](https://open.spotify.com/track/7lQ4yvORROiXuznj1ZoTOP) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Mariposa](https://open.spotify.com/album/2OZ46QQ4k72Hsy15w4Lvsl) | 3:36 | 2022-10-27 | 2023-02-03 |
 | [Mercurio](https://open.spotify.com/track/4V5DQ7DcZgmS5dW9bFCSac) | [Jacopo Planet](https://open.spotify.com/artist/4poKX0fRYCGvuffNIj2f5f) | [Mercurio](https://open.spotify.com/album/5GeDTicAnATrr6MpgBRwCI) | 2:35 | 2022-09-29 | 2022-12-02 |
 | [Midnight](https://open.spotify.com/track/38zBWUqKuUgXRgP7xIvE2s) | [Naomi](https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB) | [Midnight](https://open.spotify.com/album/6FyyqpFQV4ozDqKwzgT3cI) | 2:48 | 2023-01-26 |  |
-| [Moment](https://open.spotify.com/track/5HDTDiCbhdH91dqtvfgexa) | [bluāstro](https://open.spotify.com/artist/4u0dzk3uwHVSzmPr92CueC) | [Moment](https://open.spotify.com/album/71rtcVmZhPgHZK3lGXCP8y) | 3:09 | 2023-02-23 |  |
+| [Moment](https://open.spotify.com/track/5HDTDiCbhdH91dqtvfgexa) | [bluāstro](https://open.spotify.com/artist/4u0dzk3uwHVSzmPr92CueC) | [Moment](https://open.spotify.com/album/71rtcVmZhPgHZK3lGXCP8y) | 3:09 | 2023-02-23 | 2023-03-18 |
 | [Monodose](https://open.spotify.com/track/4Doceb3PbB1O4Rdijrn2Qp) | [Chiara Ranieri](https://open.spotify.com/artist/3I0mGLOlyKCXxPSUD26Eu6) | [Monodose](https://open.spotify.com/album/2RrqdXnY3YzsJAQif4JcW7) | 2:47 | 2022-06-30 | 2022-07-15 |
 | [Morsi](https://open.spotify.com/track/5k0bWnsm97QQQHuMs0wIvG) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [Morsi](https://open.spotify.com/album/2rZEMo1uGjBPEOnMCCL1GP) | 3:29 | 2022-08-11 | 2022-08-26 |
 | [NAMASTE](https://open.spotify.com/track/1WQoZPJuSkENMK0ddTUbtw) | [Sir](https://open.spotify.com/artist/7IPFl9kGGBOSG9uQw5tQIg) | [NAMASTE](https://open.spotify.com/album/0qdR71s2AaRSxFnmIcCXM8) | 1:57 | 2022-09-22 | 2023-01-27 |
@@ -287,7 +290,7 @@
 | [Vieni con me](https://open.spotify.com/track/7yAJfH5ZGi6FYYNVFoRif8) | [MARA J](https://open.spotify.com/artist/4AHUyFStTFR9V7kVC09b5j) | [Vieni con me](https://open.spotify.com/album/6dRU6IthL0vQcaL6OUcAgi) | 3:12 | 2022-06-09 | 2022-07-29 |
 | [Vienna](https://open.spotify.com/track/53KrUxwMNVHjLILF1jyAfn) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Vienna](https://open.spotify.com/album/3FP4ojnhOoKc2GKj5L85yu) | 2:37 | 2022-06-02 | 2022-07-29 |
 | [Volevo Portarti Al Mare](https://open.spotify.com/track/0GXIWEkfHN5RE3G9Y67bqr) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Volevo Portarti Al Mare](https://open.spotify.com/album/0KIp2ubNGwlo2H9DDpegfV) | 3:17 | 2022-05-26 |  |
-| [WHY U NAKED?](https://open.spotify.com/track/5Tjs43LYIKEdlLU7EXlM7Q) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [WHY U NAKED?](https://open.spotify.com/album/6lzxkrJYYDItv1ASIKavBN) | 2:35 | 2022-10-27 |  |
+| [WHY U NAKED?](https://open.spotify.com/track/5Tjs43LYIKEdlLU7EXlM7Q) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [WHY U NAKED?](https://open.spotify.com/album/6lzxkrJYYDItv1ASIKavBN) | 2:35 | 2022-10-27 | 2023-03-18 |
 | [x averti](https://open.spotify.com/track/3tThvTQnw9UiMiYQFU3GwC) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [x averti](https://open.spotify.com/album/2uw9IwbZRJwsAZj1Jx8hUu) | 3:00 | 2022-05-12 | 2022-11-11 |
 | [Yakuza](https://open.spotify.com/track/6Q4I5oIDhnRwNhbLwW7dN1) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:43 | 2023-01-19 |  |
 | [ZERO PIANI](https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [CATRAME](https://open.spotify.com/album/7hdFnnjccKNalbYJbnwO8i) | 3:06 | 2022-06-30 | 2022-09-30 |

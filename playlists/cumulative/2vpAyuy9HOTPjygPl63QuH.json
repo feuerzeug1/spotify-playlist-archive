@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Badman (Local Singles Remix)",
+        "url": "https://open.spotify.com/album/5MAsDqZnXGDPxkf55c0UDo"
+      },
+      "artists": [
+        {
+          "name": "Eldeanyo",
+          "url": "https://open.spotify.com/artist/3EkEijMYyNbjtWkzClnMbd"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Badman - Local Singles Remix",
+      "url": "https://open.spotify.com/track/1vNLe8YOY2YGcqbLiLG45a"
+    },
+    {
+      "album": {
         "name": "Badman Sound",
         "url": "https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR"
       },
@@ -1346,6 +1364,24 @@
       "duration_ms": 188709,
       "name": "Believe (feat. Goodboys)",
       "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
+    },
+    {
+      "album": {
+        "name": "Believe In Music",
+        "url": "https://open.spotify.com/album/0Ylixg5nZtbN9HCeRdxb3n"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Believe In Music",
+      "url": "https://open.spotify.com/track/3xZcJMwrpm65gGTfA3ngL1"
     },
     {
       "album": {
@@ -1836,7 +1872,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 208869,
       "name": "Bumpin'",
       "url": "https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl"
@@ -3883,6 +3919,46 @@
     },
     {
       "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243125,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE"
+    },
+    {
+      "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/7F1GCP5HnR0QRSd67H0nzH"
+      },
+      "artists": [
+        {
+          "name": "DOUG!",
+          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
+        },
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209536,
+      "name": "El Amor",
+      "url": "https://open.spotify.com/track/26LoKxqANCxvLm0Kci5hQR"
+    },
+    {
+      "album": {
         "name": "El Banco",
         "url": "https://open.spotify.com/album/3nyjt7NCHr7SHm8fhzlUvH"
       },
@@ -4306,7 +4382,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 156218,
       "name": "Everything You Have Done - Meduza Edit",
       "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
@@ -5244,7 +5320,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 309921,
       "name": "Future",
       "url": "https://open.spotify.com/track/3raQAaDeWucnLtoOvVpEea"
@@ -5324,7 +5400,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200744,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX"
@@ -5382,7 +5458,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 212887,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/2Qv0e96tKykDDPYtqGMcAx"
@@ -5822,7 +5898,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 176392,
       "name": "Got What U Need (feat. MELLY OHH)",
       "url": "https://open.spotify.com/track/5udjRtxA0Ivt0wt8Kz5lSG"
@@ -5840,7 +5916,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 176929,
       "name": "Gotta Be Real",
       "url": "https://open.spotify.com/track/1m5xlssT6mhlw9OtsuXUBn"
@@ -5902,7 +5978,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 165000,
       "name": "Greaze",
       "url": "https://open.spotify.com/track/2Mf6e9o1yxrhocMiC4wdKn"
@@ -7078,7 +7154,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 145872,
       "name": "In My Room (feat. SHELLS)",
       "url": "https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy"
@@ -7100,6 +7176,28 @@
       "duration_ms": 193809,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/1LX0J6oKsraPm6kWwRObzR"
+    },
+    {
+      "album": {
+        "name": "In The Dark (Remixes)",
+        "url": "https://open.spotify.com/album/1diiV6GiJOftAXHzgL7uy7"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        },
+        {
+          "name": "AIMMIA",
+          "url": "https://open.spotify.com/artist/3ORadKGfvLXgYQ8xv5D2jV"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "In The Dark - AIMMIA Remix",
+      "url": "https://open.spotify.com/track/2yRsW0gmoWU2vmWLNryoDm"
     },
     {
       "album": {
@@ -7592,7 +7690,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 168661,
       "name": "Keep On Makin' Me Hot",
       "url": "https://open.spotify.com/track/3EnWQighBgTAiGn5Dme7bD"
@@ -7925,6 +8023,28 @@
     },
     {
       "album": {
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
+    },
+    {
+      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/4Ib0JU8qN332l7Rg3pnhCq"
       },
@@ -8020,7 +8140,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 286875,
       "name": "Le Monde de Demain",
       "url": "https://open.spotify.com/track/01NkMTGIYbAu4CnzynNBYJ"
@@ -8460,7 +8580,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 171706,
       "name": "Loca People",
       "url": "https://open.spotify.com/track/2zCKkNNk40s01xY0to217Y"
@@ -9078,6 +9198,24 @@
       "duration_ms": 207692,
       "name": "Mami - SOSA Remix",
       "url": "https://open.spotify.com/track/3BelLDoNYxRWMJQ8fImu55"
+    },
+    {
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
     },
     {
       "album": {
@@ -9919,6 +10057,24 @@
     },
     {
       "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/6HhnVSqCJBbjrs5quhHyz4"
+      },
+      "artists": [
+        {
+          "name": "Gaba",
+          "url": "https://open.spotify.com/artist/6uPDwlTytGAzI42bG23K5I"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266880,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1A2wzcrv8FE2BNa6FqHONI"
+    },
+    {
+      "album": {
         "name": "Needed You",
         "url": "https://open.spotify.com/album/1X5CtMn05KqopDrpcyaX0M"
       },
@@ -10046,7 +10202,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 188915,
       "name": "New Bottega",
       "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
@@ -12527,6 +12683,24 @@
     },
     {
       "album": {
+        "name": "Rio de Janeiro",
+        "url": "https://open.spotify.com/album/03LtDOlCIBX8yisBimsuCh"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258897,
+      "name": "Rio de Janeiro",
+      "url": "https://open.spotify.com/track/5PTqJIlaVnauL2CDy2FChV"
+    },
+    {
+      "album": {
         "name": "Rio Rio (feat. Martina Camargo)",
         "url": "https://open.spotify.com/album/2lLotYOtvUOqdVCzor6XNZ"
       },
@@ -13891,6 +14065,24 @@
     },
     {
       "album": {
+        "name": "Superlicious",
+        "url": "https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Superlicious",
+      "url": "https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm"
+    },
+    {
+      "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y"
       },
@@ -14038,6 +14230,24 @@
       "duration_ms": 167244,
       "name": "Systems",
       "url": "https://open.spotify.com/track/0YQNYbRsnyQRidGJVqhegH"
+    },
+    {
+      "album": {
+        "name": "T.F.C.",
+        "url": "https://open.spotify.com/album/0W8dOcmOLqtPv79RzaUWIT"
+      },
+      "artists": [
+        {
+          "name": "FREAK ON",
+          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187619,
+      "name": "T.F.C.",
+      "url": "https://open.spotify.com/track/4kDuFLglikZPQXUMfmWj1F"
     },
     {
       "album": {
@@ -14631,6 +14841,24 @@
     },
     {
       "album": {
+        "name": "The Get Down",
+        "url": "https://open.spotify.com/album/0p8a0p2OQ0wgoC0HM2JSly"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197804,
+      "name": "The Get Down",
+      "url": "https://open.spotify.com/track/0wR44bHHxiwQILuQeNmK2M"
+    },
+    {
+      "album": {
         "name": "The Inside",
         "url": "https://open.spotify.com/album/1qu4VgY15fuhhdY2HOzeek"
       },
@@ -14908,7 +15136,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200625,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/5l8Ilpn3w5tszqeJxxn6bF"
@@ -15174,7 +15402,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 262500,
       "name": "Tina",
       "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
@@ -15962,7 +16190,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 217419,
       "name": "Volante",
       "url": "https://open.spotify.com/track/4NhxwuW21OCOJ1O2T91bTY"
@@ -15980,7 +16208,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 213800,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
@@ -16734,7 +16962,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 159706,
       "name": "Will You For Love",
       "url": "https://open.spotify.com/track/65jOK700VHTlb4AeCQnCld"
@@ -16774,7 +17002,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 113769,
       "name": "Within A Groove",
       "url": "https://open.spotify.com/track/5xSPIigyW9z5YGeiSvuGGA"
@@ -17092,6 +17320,24 @@
       "duration_ms": 217142,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/4TaEDUmbRR4t69Z7RwoWmQ"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/2hDT8orOLKA8uFP12x5BDM"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177235,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/20bLpH2CElIpgse5pScosv"
     },
     {
       "album": {

@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Einstein",
+        "url": "https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135744,
+      "name": "Einstein",
+      "url": "https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ"
+    },
+    {
+      "album": {
         "name": "Element (Remix) [feat. Flo Milli]",
         "url": "https://open.spotify.com/album/2J48yzicpveqFUaKRWWkq1"
       },

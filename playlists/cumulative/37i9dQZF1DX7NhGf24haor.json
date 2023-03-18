@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "AI",
+        "url": "https://open.spotify.com/album/6NQLEbhWWjFprdGgw4BvFn"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230781,
+      "name": "AI",
+      "url": "https://open.spotify.com/track/3URzoaqWmyEHokARgdIz86"
+    },
+    {
+      "album": {
         "name": "All Of The Lights",
         "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
       },
@@ -209,7 +227,7 @@
         },
         {
           "name": "Overdrive",
-          "url": "https://open.spotify.com/artist/46b88pEZFVY4aBSqG9sne6"
+          "url": "https://open.spotify.com/artist/4WGGHN3xUu9mhDObu3Oqhp"
         },
         {
           "name": "Und3rsound",
@@ -430,6 +448,24 @@
       "duration_ms": 127503,
       "name": "Bounce B#tch",
       "url": "https://open.spotify.com/track/0tzNc4vPi7YujhPEl0lVCO"
+    },
+    {
+      "album": {
+        "name": "Bowy (The World Is Yours)",
+        "url": "https://open.spotify.com/album/20FHllcZJkMAIsUSKnESEb"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Bowy (The World Is Yours)",
+      "url": "https://open.spotify.com/track/14sNEXdQWD74CkF5GTLd8l"
     },
     {
       "album": {
@@ -1131,6 +1167,36 @@
     },
     {
       "album": {
+        "name": "Extermination",
+        "url": "https://open.spotify.com/album/3vUGIIfrVYyINWr0M9ZEEq"
+      },
+      "artists": [
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
+        },
+        {
+          "name": "Sickddellz",
+          "url": "https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222875,
+      "name": "Extermination",
+      "url": "https://open.spotify.com/track/6TVUZrDHsqpIO9a1VCX7oQ"
+    },
+    {
+      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1cYXPySEhgusZvhAwRhfBr"
       },
@@ -1455,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "GO CRAZY",
+        "url": "https://open.spotify.com/album/7AEJANjaK2swT6fbi1VSVr"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "GO CRAZY",
+      "url": "https://open.spotify.com/track/4lj6c7zEcP6M03gjnybbzj"
+    },
+    {
+      "album": {
         "name": "Go Down Low",
         "url": "https://open.spotify.com/album/7tWUHSKe7LYJGSNT1NFLTb"
       },
@@ -1722,7 +1806,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 158713,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/4yjYEW0FRkMbQxSUd5BVSw"
@@ -2097,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Into Ecstasy",
+        "url": "https://open.spotify.com/album/35sHRlNmi8fHRpKSBvHew5"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Into Ecstasy",
+      "url": "https://open.spotify.com/track/20vPjvIzwKbrldAAuHcTwc"
+    },
+    {
+      "album": {
         "name": "It's All About The Music",
         "url": "https://open.spotify.com/album/3vvCMAOokrJox7Qovt9Vte"
       },
@@ -2445,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "Lost In The Music",
+        "url": "https://open.spotify.com/album/6XOcQjC94fgoypqcuXcjdE"
+      },
+      "artists": [
+        {
+          "name": "Technikore",
+          "url": "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+        },
+        {
+          "name": "Suae",
+          "url": "https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196294,
+      "name": "Lost In The Music",
+      "url": "https://open.spotify.com/track/0jN59wksahhmhRcxJY2f46"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/6PWwonomZj1P3ldfPAZNnK"
       },
@@ -2508,7 +2632,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 191250,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7kaAuxCzuAb2v8z2zKKfOh"
@@ -2666,6 +2790,36 @@
       "duration_ms": 189868,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/4IS0ROMGe8EmlKRaIfxsOm"
+    },
+    {
+      "album": {
+        "name": "Marble (Marc Blou Remix)",
+        "url": "https://open.spotify.com/album/3spdRAdTkREkDVLdtBKzbM"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Shockz",
+          "url": "https://open.spotify.com/artist/2MPHwCi6dWYhq00yEiOuI2"
+        },
+        {
+          "name": "Marc Blou",
+          "url": "https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19"
+        },
+        {
+          "name": "Rebecca Helena",
+          "url": "https://open.spotify.com/artist/76i2ylWmcnDTx38Va7Mwzr"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207230,
+      "name": "Marble - Marc Blou Remix",
+      "url": "https://open.spotify.com/track/68D3lp57w0TBdJd8Z64Exi"
     },
     {
       "album": {
@@ -2837,6 +2991,32 @@
     },
     {
       "album": {
+        "name": "My Radio 2k23 (Earsquaker Remix)",
+        "url": "https://open.spotify.com/album/2BvU5bp5ox0XcMPGvdJDuL"
+      },
+      "artists": [
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        },
+        {
+          "name": "Enerdizer",
+          "url": "https://open.spotify.com/artist/0i9lZhnRq7hBiK9FQRqrUC"
+        },
+        {
+          "name": "Earsquaker",
+          "url": "https://open.spotify.com/artist/76bxY8Zg5tjHCWkuRAbOFT"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "My Radio 2k23 - Earsquaker Remix",
+      "url": "https://open.spotify.com/track/1HGMfxfCV6PHx7F1rAl7Xu"
+    },
+    {
+      "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/6twbJ6MrK36i8nTNpEuzPU"
       },
@@ -2914,7 +3094,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 143592,
       "name": "Never Gonna Stop",
       "url": "https://open.spotify.com/track/4qQeJHebvYHbKghDz8ygEJ"
@@ -3345,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "Rave Zone",
+        "url": "https://open.spotify.com/album/3qyQqX2m9Iaof3srqzJPKe"
+      },
+      "artists": [
+        {
+          "name": "Boray",
+          "url": "https://open.spotify.com/artist/1tC69g1QLo1PvMg0vki9bY"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188007,
+      "name": "Rave Zone",
+      "url": "https://open.spotify.com/track/3Z7LM2aHNGYY15h0escHhx"
+    },
+    {
+      "album": {
         "name": "Rawstyle Factory",
         "url": "https://open.spotify.com/album/4bjX5eVqSjwJjarWksQeVu"
       },
@@ -3364,6 +3562,50 @@
       "duration_ms": 202500,
       "name": "Rawstyle Factory",
       "url": "https://open.spotify.com/track/16oYDemK8tkSol1OYQKF85"
+    },
+    {
+      "album": {
+        "name": "Ready For Lift Off (Official REBiRTH Festival 2023 Anthem)",
+        "url": "https://open.spotify.com/album/1ckcNvmYtXfZ5e87cx9OqZ"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176339,
+      "name": "Ready For Lift Off - Official REBiRTH Festival 2023 Anthem",
+      "url": "https://open.spotify.com/track/31cqlvoZi1O7QsaVgLEcja"
+    },
+    {
+      "album": {
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/5c1miQshKBEz9MGtviYMHU"
+      },
+      "artists": [
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        },
+        {
+          "name": "Slenderino",
+          "url": "https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb"
+        },
+        {
+          "name": "Dimmalou",
+          "url": "https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182710,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/6WkMCi8yZNfz8NT8h7Z7GR"
     },
     {
       "album": {
@@ -3426,6 +3668,28 @@
       "duration_ms": 193935,
       "name": "Reload",
       "url": "https://open.spotify.com/track/4JtZZirJC8opB7spHe213P"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/61vC5e6A8QeCllYMjkMoNE"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Bonka",
+          "url": "https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202935,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/3Vjj1wlRePg7RTXegdtmP4"
     },
     {
       "album": {
@@ -3711,6 +3975,24 @@
     },
     {
       "album": {
+        "name": "Say Ho!",
+        "url": "https://open.spotify.com/album/0d0sjMwYANAiJaBn1xGALO"
+      },
+      "artists": [
+        {
+          "name": "ANDY SVGE",
+          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Say Ho!",
+      "url": "https://open.spotify.com/track/49lMQCVMAxgc6yz6VJx2ai"
+    },
+    {
+      "album": {
         "name": "Shabaka (A Wasteland Anthem) [VIP]",
         "url": "https://open.spotify.com/album/014MMy5nzIpwzAmHnXDS6C"
       },
@@ -3850,7 +4132,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 172171,
       "name": "Spieglein, Spieglein",
       "url": "https://open.spotify.com/track/6Y5WlgXJj7EUuMwzb581b1"
@@ -4190,7 +4472,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200800,
       "name": "The Game - Dr. Rude & Lunaticz Remix",
       "url": "https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj"
@@ -4505,6 +4787,28 @@
     },
     {
       "album": {
+        "name": "Tidal Waves",
+        "url": "https://open.spotify.com/album/0nRkuym4gjCrRZg2LqNxuy"
+      },
+      "artists": [
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        },
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198576,
+      "name": "Tidal Waves",
+      "url": "https://open.spotify.com/track/0FNhYgDZSCFY1JfXYyHXJD"
+    },
+    {
+      "album": {
         "name": "Tik Tak",
         "url": "https://open.spotify.com/album/5fUACdDq5oVVICS4qKlSQ8"
       },
@@ -4776,7 +5080,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 139200,
       "name": "U x I",
       "url": "https://open.spotify.com/track/6L4tKCGj8dNQd1H2zNTi5n"

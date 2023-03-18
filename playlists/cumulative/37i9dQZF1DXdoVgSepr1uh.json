@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Argentina en la casa! Foto: Yami Safdie.",
+  "description": "Argentina en la casa! Foto: Salastkbron.",
   "name": "Reggaet\u00f3n Argentino",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 258638,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 187569,
       "name": "BANDIDA",
       "url": "https://open.spotify.com/track/579JvpCcewz3IBcbv9ea8e"
@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "ESPERO",
+        "url": "https://open.spotify.com/album/5DwV6ipYSjaP8Q4M0T5e5o"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200224,
+      "name": "ESPERO",
+      "url": "https://open.spotify.com/track/1wy5Gw79M9973w36dMZcuH"
+    },
+    {
+      "album": {
         "name": "Esto Reci\u00e9n Empieza",
         "url": "https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU"
       },
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 129130,
       "name": "Kitty",
       "url": "https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy"

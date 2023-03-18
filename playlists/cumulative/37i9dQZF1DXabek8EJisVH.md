@@ -4,7 +4,7 @@
 
 > Soothing ambient and Hang to gently focus the mind.
 
-97 songs - 6 hr 31 min
+98 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Swing](https://open.spotify.com/track/4z2i0TktkIk8WNNC8YuDAC) | [Dante Bucci](https://open.spotify.com/artist/7qJmBv91xsvhygHVtGLu72) | [Kinesthesia](https://open.spotify.com/album/4rEPvSbB1RhFTIOpmMxJFo) | 2:15 | 2022-03-03 |  |
 | [Tank Drum Essence](https://open.spotify.com/track/1rDL7N0X0hMn615FKcoCUe) | [Hang Drum Player](https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb) | [Transcendence](https://open.spotify.com/album/64P6simDppkDLl2Wzx6iPh) | 2:08 | 2022-06-29 |  |
 | [Tank Drum Essence](https://open.spotify.com/track/6ovTtaokNAxG6R8uLeNe9x) | [Hang Drum Player](https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb) | [Transcendence](https://open.spotify.com/album/38LjiEzUko7i5hXFXNOvG4) | 2:08 | 2022-03-03 | 2022-07-29 |
+| [The Hijjaz](https://open.spotify.com/track/39fc1zEWJ7IGiayn0oNG62) | [SoulPan](https://open.spotify.com/artist/55TPaWQiFcIRFc6bAAWiO5) | [The Hijjaz](https://open.spotify.com/album/4kBLmUfi5LiczLHZ9H7KTJ) | 1:23 | 2023-03-17 |  |
 | [The Mountains Within](https://open.spotify.com/track/5tlJypzaF9RBrZp4gGavf4) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 5:44 | 2022-08-25 |  |
 | [The Secret Kissing of the Sun and Moon](https://open.spotify.com/track/1xTMo9M0UWSarnMlRBCXXe) | [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Luminous Emptiness](https://open.spotify.com/album/7rSjXLmVEIKwvMHWuw7EBO) | 8:57 | 2022-03-03 |  |
 | [Thingless Things](https://open.spotify.com/track/0yCUFoLB1BY4QnTHlzz2Xl) | [Hang Drum Massive](https://open.spotify.com/artist/3lpZeqTTNu13wr7duqX8zb) | [As It Is Once Agian](https://open.spotify.com/album/0CcIsCt2Uner6Cnw8aVXmC) | 6:14 | 2022-03-03 |  |

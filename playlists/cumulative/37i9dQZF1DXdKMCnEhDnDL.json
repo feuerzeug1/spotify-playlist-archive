@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Blijf Nog Even",
+        "url": "https://open.spotify.com/album/51tulVCxklGWd6DXqAtmIZ"
+      },
+      "artists": [
+        {
+          "name": "Irene Hin",
+          "url": "https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225019,
+      "name": "Blijf Nog Even",
+      "url": "https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S"
+    },
+    {
+      "album": {
         "name": "Blijven Rijden",
         "url": "https://open.spotify.com/album/1y2ecqD1oA6JSDRfMHBNPV"
       },
@@ -450,7 +468,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 173283,
       "name": "Bon Gepakt",
       "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"

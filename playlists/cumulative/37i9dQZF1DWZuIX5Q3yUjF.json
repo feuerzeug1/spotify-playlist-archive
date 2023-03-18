@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Nico Kyni",
+  "description": "Il meglio dell'R&B italiano. Cover: Orlvndo",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "AD MAIORA",
+        "url": "https://open.spotify.com/album/56w0hv0t2fESIzA8Zv3LMS"
+      },
+      "artists": [
+        {
+          "name": "Orlvndo",
+          "url": "https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205219,
+      "name": "Cosa rimane",
+      "url": "https://open.spotify.com/track/1e3bCZEi7yYs9rEnkOUzxL"
+    },
+    {
+      "album": {
         "name": "Cos\u00ec",
         "url": "https://open.spotify.com/album/4xA1F2laLObcuaFPjSfCaY"
       },
@@ -1078,6 +1096,24 @@
       "duration_ms": 209032,
       "name": "Cura Di Me",
       "url": "https://open.spotify.com/track/12Gayc39zYtD4gqUbG9IGv"
+    },
+    {
+      "album": {
+        "name": "CuraMi",
+        "url": "https://open.spotify.com/album/6hAQFMzyok7QGYRyBS9Z3H"
+      },
+      "artists": [
+        {
+          "name": "cura",
+          "url": "https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144406,
+      "name": "CuraMi",
+      "url": "https://open.spotify.com/track/0nREprhuyJLfKN70qkj4M9"
     },
     {
       "album": {
@@ -2262,7 +2298,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 188000,
       "name": "Just Eat",
       "url": "https://open.spotify.com/track/18liqHUDCbL57MpWreIwOa"
@@ -2835,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "Luna Piena",
+        "url": "https://open.spotify.com/album/6FMLzFO8d3rsLrow6teojH"
+      },
+      "artists": [
+        {
+          "name": "APOLLO QUATTRO",
+          "url": "https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Luna Piena",
+      "url": "https://open.spotify.com/track/2ecfmSG3PujmDgWvoM1Ek0"
+    },
+    {
+      "album": {
         "name": "LUNA PIENA",
         "url": "https://open.spotify.com/album/4gRWXqlRRgjB1RV3u0Eqyi"
       },
@@ -3008,7 +3062,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 189041,
       "name": "Moment",
       "url": "https://open.spotify.com/track/5HDTDiCbhdH91dqtvfgexa"
@@ -5470,7 +5524,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 155368,
       "name": "WHY U NAKED?",
       "url": "https://open.spotify.com/track/5Tjs43LYIKEdlLU7EXlM7Q"

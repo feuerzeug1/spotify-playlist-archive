@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-206 songs - 13 hr 2 min
+207 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |
 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 | 2023-03-07 |  |
 | [Catin Latin](https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Very Best Of Dave Pike \(The Latin Jazz Legend\)](https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6) | 4:49 | 2021-12-09 | 2022-07-29 |
-| [Cattin' Latin](https://open.spotify.com/track/2U5ceAAb10OELgDJ8YVuxl) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Carnival Samba](https://open.spotify.com/album/2sK8QxfxxHE6ky4OVuXLsz) | 4:47 | 2023-03-07 |  |
+| [Cattin' Latin](https://open.spotify.com/track/2U5ceAAb10OELgDJ8YVuxl) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Carnival Samba](https://open.spotify.com/album/2sK8QxfxxHE6ky4OVuXLsz) | 4:47 | 2023-03-07 | 2023-03-18 |
 | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 | 2021-12-09 |  |
 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 | 2021-12-09 |  |
 | [Ché Ché Colé](https://open.spotify.com/track/5qpaGx8k2HKYzOqfYjTiwM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Año Nuevo, Vida Nueva](https://open.spotify.com/album/5mUkfaaM8ioUFphoF0ewKE) | 3:27 | 2022-08-31 | 2022-11-14 |
@@ -155,6 +155,7 @@
 | [Porro Maracatu](https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [LADAMA](https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6) | 3:46 | 2022-01-01 |  |
 | [Pra Manha](https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Songs From The Tin](https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl) | 6:13 | 2022-01-01 |  |
 | [Pra Manha](https://open.spotify.com/track/2d9qr42YiIJ4EXebh7PSFz) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Late Night Tales: Another Late Night \- Zero 7 \[Remastered\] \(Remastered Version\)](https://open.spotify.com/album/3RHjlzQbBixfj7mgmLDbFM) | 6:13 | 2022-01-01 | 2022-07-25 |
+| [Price of Life](https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 3:44 | 2023-03-07 |  |
 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 | 2021-12-09 | 2023-03-08 |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/3t9LQp3NX9956wJJk4pGF6) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Que Te Vaya Bonito](https://open.spotify.com/album/6jXqFKL1GePpeDxcpK9cPr) | 3:20 | 2021-12-09 | 2022-07-29 |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:20 | 2022-01-01 |  |

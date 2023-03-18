@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 230826,
       "name": "anxi\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/1HYiZbH7QTKfOUe9AmvbJr"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 299253,
       "name": "Conversation Piece",
       "url": "https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1"
@@ -1142,14 +1142,6 @@
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
         }
       ],
       "date_added": "2022-12-06",
@@ -1233,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "The Sweet Sound of You",
+        "url": "https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297720,
+      "name": "The Sweet Sound of You",
+      "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
+    },
+    {
+      "album": {
         "name": "Tomorrow (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ShjDdzaBsJnc0ke9IysmB"
       },
@@ -1284,6 +1294,24 @@
       "duration_ms": 154403,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/1Bb8NUOSX6jEdjLtR5TEuQ"
+    },
+    {
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577199,
+      "name": "Venice Bitch",
+      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
     },
     {
       "album": {

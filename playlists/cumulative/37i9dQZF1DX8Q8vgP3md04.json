@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "Alena",
+        "url": "https://open.spotify.com/album/0IlHmRP1rWcPy2oSwrroz0"
+      },
+      "artists": [
+        {
+          "name": "Bisrat Surafel",
+          "url": "https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Alena",
+      "url": "https://open.spotify.com/track/2L4yROkUCTqOxGAE7i6kst"
+    },
+    {
+      "album": {
         "name": "Tikur Anbessa",
         "url": "https://open.spotify.com/album/00p6FsZcNMhNMjJu3cc5p8"
       },
@@ -104,6 +122,24 @@
       "duration_ms": 309013,
       "name": "Altelashim",
       "url": "https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC"
+    },
+    {
+      "album": {
+        "name": "Qitsbet",
+        "url": "https://open.spotify.com/album/0Cml7FJiuQWF4aaPrhBV5Y"
+      },
+      "artists": [
+        {
+          "name": "Sami Dan",
+          "url": "https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252300,
+      "name": "Amsaya",
+      "url": "https://open.spotify.com/track/5fMFrjOkltUkTKPlV7qtRM"
     },
     {
       "album": {
@@ -183,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Baby I Like You",
+        "url": "https://open.spotify.com/album/7CqSOctRr8f69vJ0tf6Guf"
+      },
+      "artists": [
+        {
+          "name": "Mikael",
+          "url": "https://open.spotify.com/artist/6I5gAHP6D7Hq1nmwcJXRdK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Baby I Like You",
+      "url": "https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN"
+    },
+    {
+      "album": {
         "name": "Wegegta",
         "url": "https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R"
       },
@@ -238,6 +292,24 @@
       "duration_ms": 245934,
       "name": "Bayish",
       "url": "https://open.spotify.com/track/576KoTxxx3Ap5jOMU9AO0T"
+    },
+    {
+      "album": {
+        "name": "Bel Jalo",
+        "url": "https://open.spotify.com/album/0sjuqGgb39JZ2CQf29uIfg"
+      },
+      "artists": [
+        {
+          "name": "Selamawit Yohannes",
+          "url": "https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Bel Jalo",
+      "url": "https://open.spotify.com/track/06ieYukIv45hDz1gaGQCUP"
     },
     {
       "album": {
@@ -313,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Chaw Tilina",
+        "url": "https://open.spotify.com/album/2lN05SxdWxOx6sfhP0vTDQ"
+      },
+      "artists": [
+        {
+          "name": "Esubalew Yetayew",
+          "url": "https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Chaw Tilina",
+      "url": "https://open.spotify.com/track/5imDrGjz7SeqJadNh8Iryl"
+    },
+    {
+      "album": {
         "name": "Checheho",
         "url": "https://open.spotify.com/album/3hbNRs65PT6F0HoTIF1Ziv"
       },
@@ -324,7 +414,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 369440,
       "name": "Checheho",
       "url": "https://open.spotify.com/track/3B3YUcoMB8CmXOuKT3z1WD"
@@ -382,6 +472,24 @@
       "duration_ms": 386429,
       "name": "Debzezesh",
       "url": "https://open.spotify.com/track/5nUbqoz7j9btdIZkkuJL5a"
+    },
+    {
+      "album": {
+        "name": "DEJARME LLEVAR",
+        "url": "https://open.spotify.com/album/0ZOP15lhHm3J6hdNPhu23A"
+      },
+      "artists": [
+        {
+          "name": "Nadlyn",
+          "url": "https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "DEJARME LLEVAR",
+      "url": "https://open.spotify.com/track/0TCzFRMCWyMbu9kkwpEtak"
     },
     {
       "album": {
@@ -472,6 +580,28 @@
       "duration_ms": 329720,
       "name": "Endet Lichal",
       "url": "https://open.spotify.com/track/1o7uMGTxPvKVsS8H5g8kEw"
+    },
+    {
+      "album": {
+        "name": "Eregnaye",
+        "url": "https://open.spotify.com/album/5txMikXdaVUvDjzmOAuMe9"
+      },
+      "artists": [
+        {
+          "name": "Rahel Getu",
+          "url": "https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ"
+        },
+        {
+          "name": "Girma Tefera",
+          "url": "https://open.spotify.com/artist/1dmAk6wk38badxBpqhLfM6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "Eregnaye",
+      "url": "https://open.spotify.com/track/7ypVDpwS7wfIss9W8F3kZK"
     },
     {
       "album": {
@@ -576,7 +706,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 245113,
       "name": "Geriye",
       "url": "https://open.spotify.com/track/0RpIZYbiYCUhct3IID6Ty2"
@@ -630,7 +760,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 270838,
       "name": "Gudaye Nesh",
       "url": "https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs"
@@ -724,7 +854,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 294733,
       "name": "Kenat Wediya",
       "url": "https://open.spotify.com/track/4iKrEZyjF2JcC5AukB2rBF"
@@ -803,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Lambang Cinta",
+        "url": "https://open.spotify.com/album/3GAZG0wCgrnV3zUYTMgScm"
+      },
+      "artists": [
+        {
+          "name": "Richado",
+          "url": "https://open.spotify.com/artist/7CekyK8qNxqe1vxMsnoXpJ"
+        },
+        {
+          "name": "Yohana",
+          "url": "https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288287,
+      "name": "Lambang Cinta",
+      "url": "https://open.spotify.com/track/6NR2ym3cncgTXZRgMEadEX"
+    },
+    {
+      "album": {
         "name": "Lijay",
         "url": "https://open.spotify.com/album/6Q5i8LyFcC7rxILCKqXZ3N"
       },
@@ -840,7 +992,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 324608,
       "name": "Lijay",
       "url": "https://open.spotify.com/track/38F1nH0CSPLuWYJXa2GWzl"
@@ -952,7 +1104,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 195000,
       "name": "Mengedegna",
       "url": "https://open.spotify.com/track/6FLzUgglQPqA78lKior10y"
@@ -1112,7 +1264,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 259368,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/0InSfY3vAN0dcy7MiyxdSM"
@@ -1184,7 +1336,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 302639,
       "name": "Tefa Yemileyen",
       "url": "https://open.spotify.com/track/7FTywuxqZm5nFhoZGP0xn2"
@@ -1317,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "Vol \u136b",
+        "url": "https://open.spotify.com/album/7yRKIIpvDsYHAseBHnon8z"
+      },
+      "artists": [
+        {
+          "name": "Nhatty Man",
+          "url": "https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Wetat",
+      "url": "https://open.spotify.com/track/4bmybzAerSejzAKr5KTJCj"
+    },
+    {
+      "album": {
         "name": "Kal Bekal",
         "url": "https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l"
       },
@@ -1328,7 +1498,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 275356,
       "name": "Yebet Sira",
       "url": "https://open.spotify.com/track/7uhafRBxioI4l74qEluOo6"
@@ -1364,7 +1534,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 291781,
       "name": "Yebleniloo",
       "url": "https://open.spotify.com/track/5Jl2tQyJUmFJRcdAtLrbfo"
@@ -1404,6 +1574,24 @@
       "duration_ms": 260847,
       "name": "Ykomal Woy",
       "url": "https://open.spotify.com/track/3cREJgXBNWJUh86DXq8T1M"
+    },
+    {
+      "album": {
+        "name": "YOU GOT ME LIKE",
+        "url": "https://open.spotify.com/album/61ocn0mmY1LmggaCxqq89M"
+      },
+      "artists": [
+        {
+          "name": "Nadlyn",
+          "url": "https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "YOU GOT ME LIKE",
+      "url": "https://open.spotify.com/track/33irahuIeYwrWIwdB515O9"
     },
     {
       "album": {

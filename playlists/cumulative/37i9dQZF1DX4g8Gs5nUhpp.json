@@ -870,8 +870,8 @@
       },
       "artists": [
         {
-          "name": "RPT Gonzo",
-          "url": "https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF"
+          "name": "Gonzo",
+          "url": "https://open.spotify.com/artist/3IYeC0G8TDXtqYwhXlZJDt"
         },
         {
           "name": "L\u00ea Hi\u1ebfu",
@@ -2544,6 +2544,28 @@
       "duration_ms": 234399,
       "name": "Th\u1ea5y Ch\u01b0a",
       "url": "https://open.spotify.com/track/4CjJf5bzvv5ZuLf2FJqlWY"
+    },
+    {
+      "album": {
+        "name": "Th\u1ecb M\u1ea7u",
+        "url": "https://open.spotify.com/album/4cS8GtTlS8Q5SKrITbIvVB"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0 Minzy",
+          "url": "https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8"
+        },
+        {
+          "name": "Masew",
+          "url": "https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205397,
+      "name": "Th\u1ecb M\u1ea7u",
+      "url": "https://open.spotify.com/track/2Nwi8X3bmgKU1zMQUsDTah"
     },
     {
       "album": {

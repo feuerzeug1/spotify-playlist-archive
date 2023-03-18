@@ -1,12 +1,12 @@
 {
   "description": "Disfrutemos del amor en los tiempos del rock.",
-  "num_followers": 105680,
+  "num_followers": 105983,
   "original_name": "Rocanlovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2MDYzMCwwMDAwMDAwMGE3M2MwZWQ0N2Q1YTMyYTJkODE5Y2ExNWQxYjU0Mzgz",
+  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGE3NzkwOGI2Y2U3Njc2M2I4OGFkMzllNWNjZTMyODQ0",
   "tracks": [
     {
       "added_at": "2023-03-10 15:03:50",
@@ -71,6 +71,22 @@
       "duration_ms": 203626,
       "name": "Love",
       "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Acelerar",
+        "url": "https://open.spotify.com/album/0FMudSMcFuKShSYkXAApP3"
+      },
+      "artists": [
+        {
+          "name": "Ross J. Rodrigo",
+          "url": "https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "Acelerar",
+      "url": "https://open.spotify.com/track/1hP1iHCGOaA9GraLDeBt2O"
     },
     {
       "added_at": "2023-03-03 06:00:00",

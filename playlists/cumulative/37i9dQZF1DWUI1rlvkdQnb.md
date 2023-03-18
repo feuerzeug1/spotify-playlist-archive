@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-162 songs - 8 hr 38 min
+164 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Huitussi](https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Huitussi](https://open.spotify.com/album/64u7zy3JliXzjqK9T3H4Zd) | 2:57 | 2021-12-10 |  |
 | [I'm Sorry](https://open.spotify.com/track/6bmyYlH5GVcYz6bJwurxxp) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [At First Light](https://open.spotify.com/album/6uuGLuTGd67p87E63DA8J5) | 2:10 | 2021-12-10 | 2022-07-29 |
 | [I'm Sorry](https://open.spotify.com/track/7rVVerTSC0AqlnWkB1AqJS) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [At First Light](https://open.spotify.com/album/7j0q8lAzQtUNdcfLgyoQU0) | 2:10 | 2022-06-29 | 2022-10-22 |
+| [Illusions](https://open.spotify.com/track/3Zfw44YYpZiwITTuVvrDj8) | [Gravitons](https://open.spotify.com/artist/2VlCnCbs8J939zLt0dB5RF) | [Illusions](https://open.spotify.com/album/4ftcHfbpNS7KKIEEnNhjJD) | 2:56 | 2023-03-17 |  |
 | [In a Charming Dream](https://open.spotify.com/track/3TizifrzD8kqNPVej7OgIu) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:04 | 2021-12-10 |  |
 | [In The Balance](https://open.spotify.com/track/2o7KYR9AdglkUTLh3Vdod1) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Anew](https://open.spotify.com/album/6gTK7SLCG5JAxFLKvghEiu) | 2:06 | 2023-03-03 |  |
 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 | 2021-12-10 |  |
@@ -138,6 +139,7 @@
 | [Sense of Peace](https://open.spotify.com/track/2gjP5Kqd1L7WN0jWmbrL5e) | [Keanna Elsdon](https://open.spotify.com/artist/7aCTQb9ffSuNsbwJJbpxz3) | [Sense of Peace](https://open.spotify.com/album/1HcOJv7VSB3YeDJG0vTeqO) | 2:24 | 2021-12-10 |  |
 | [Showstopper](https://open.spotify.com/track/2zIcVl9zWEYmYXQHA14SGz) | [Semi Sphere](https://open.spotify.com/artist/1cTlMGKyJ6rAlPDTX3AKLU) | [Showstopper](https://open.spotify.com/album/43Ex3NtMg3QFmlvanuM8yE) | 2:39 | 2021-12-10 |  |
 | [Sigiriya](https://open.spotify.com/track/11tgd8lU2eFk0DNqMTEqtT) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Sigiriya](https://open.spotify.com/album/5g8sBXRvCTBMo1WKcvny1f) | 2:48 | 2021-12-10 |  |
+| [Sigur](https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Sigur](https://open.spotify.com/album/5cpKYQ6H4dPM4RNArtaR0l) | 2:56 | 2023-03-17 |  |
 | [Silver Lines](https://open.spotify.com/track/1ytKEjrWSIUGWqdYuIn74F) | [Jane Deliah](https://open.spotify.com/artist/3sWzxP1XwTIvyyQpz9sZXM) | [Mercury](https://open.spotify.com/album/6ZdtsFFTfV3LXvRHJsnF9M) | 2:41 | 2021-12-10 |  |
 | [Skyjum](https://open.spotify.com/track/5UWXwaQAf0IADjmS2auqNj) | [Catedral Infinita](https://open.spotify.com/artist/4ZHk7eCeQ5Q4o4wWvxq26r) | [Skyjum](https://open.spotify.com/album/5KjQoy7EkLWickNQz3FCAj) | 2:46 | 2022-11-11 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-10 |  |

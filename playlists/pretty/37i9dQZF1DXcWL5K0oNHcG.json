@@ -1,6 +1,6 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Olivia Khoury Artwork: Joy Yamusangie",
-  "num_followers": 41557,
+  "num_followers": 41833,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
@@ -1432,12 +1432,12 @@
       },
       "artists": [
         {
-          "name": "Ze in the Clouds",
-          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
-        },
-        {
           "name": "LNDFK",
           "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
+        },
+        {
+          "name": "Ze in the Clouds",
+          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
         }
       ],
       "duration_ms": 185069,

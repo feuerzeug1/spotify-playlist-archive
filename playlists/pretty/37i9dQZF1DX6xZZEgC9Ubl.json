@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: BONES",
-  "num_followers": 1450480,
+  "num_followers": 1451527,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwOTYwOCwwMDAwMDAwMGNlODA5NzViODYxZjFhNTY2MjFjMDM2N2Q0ZjhlOTQ0",
+  "snapshot_id": "MTY3OTA3MjY4OSwwMDAwMDAwMDVlNjdkNjE1NWY2NTFiOTVhYWI3NTU0ZGY3ODMwYzUz",
   "tracks": [
     {
       "added_at": "2023-03-13 17:25:18",
@@ -45,22 +45,6 @@
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "XXI",
-        "url": "https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n"
-      },
-      "artists": [
-        {
-          "name": "One Hope",
-          "url": "https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj"
-        }
-      ],
-      "duration_ms": 210807,
-      "name": "once upon a time",
-      "url": "https://open.spotify.com/track/0PULY7AIDcZ2LMjXc9oUay"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "Romantic Homicide",
@@ -91,6 +75,22 @@
       "duration_ms": 146640,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "XXI",
+        "url": "https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n"
+      },
+      "artists": [
+        {
+          "name": "One Hope",
+          "url": "https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj"
+        }
+      ],
+      "duration_ms": 210807,
+      "name": "once upon a time",
+      "url": "https://open.spotify.com/track/0PULY7AIDcZ2LMjXc9oUay"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
     },
     {
+      "added_at": "2023-03-18 01:07:23",
+      "album": {
+        "name": "Ghostrider (Clean)",
+        "url": "https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u2019S REVENGE",
+          "url": "https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt"
+        }
+      ],
+      "duration_ms": 132712,
+      "name": "Ghostrider",
+      "url": "https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT"
+    },
+    {
       "added_at": "2022-12-14 15:14:02",
       "album": {
         "name": "Antarctica",
@@ -157,22 +173,6 @@
       "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Upset",
-        "url": "https://open.spotify.com/album/0gp185gn4jfzQIZkoKGDOk"
-      },
-      "artists": [
-        {
-          "name": "CHRIS RAIN",
-          "url": "https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Upset",
-      "url": "https://open.spotify.com/track/54WI3cLupfyM0BN9Jshsta"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "Enough",
@@ -187,38 +187,6 @@
       "duration_ms": 185266,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "HURT SO BAD",
-        "url": "https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
-        }
-      ],
-      "duration_ms": 154982,
-      "name": "HURT SO BAD",
-      "url": "https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK"
-    },
-    {
-      "added_at": "2022-12-14 15:14:02",
-      "album": {
-        "name": "Thousand Miles",
-        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 164781,
-      "name": "Thousand Miles",
-      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -247,6 +215,38 @@
       "duration_ms": 120546,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN"
+    },
+    {
+      "added_at": "2022-12-14 15:14:02",
+      "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Dead and Cold",
+        "url": "https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU"
+      },
+      "artists": [
+        {
+          "name": "SadBoyProlific",
+          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
+        }
+      ],
+      "duration_ms": 89624,
+      "name": "Dead and Cold",
+      "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Dead and Cold",
-        "url": "https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU"
-      },
-      "artists": [
-        {
-          "name": "SadBoyProlific",
-          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
-        }
-      ],
-      "duration_ms": 89624,
-      "name": "Dead and Cold",
-      "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "NUMB",
+        "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "right here",
         "url": "https://open.spotify.com/album/4UDIkdymlERIIdW744hTmY"
       },
@@ -349,38 +349,6 @@
       "url": "https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Cherry Blossoms",
-        "url": "https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI"
-      },
-      "artists": [
-        {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
-        }
-      ],
-      "duration_ms": 138367,
-      "name": "Cherry Blossoms",
-      "url": "https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "NUMB",
-        "url": "https://open.spotify.com/album/5KVfexccg4jLnnmbHfJZn0"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "ALL GIRLS ARE THE SAME",
@@ -395,6 +363,22 @@
       "duration_ms": 121949,
       "name": "ALL GIRLS ARE THE SAME",
       "url": "https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Cherry Blossoms",
+        "url": "https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI"
+      },
+      "artists": [
+        {
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+        }
+      ],
+      "duration_ms": 138367,
+      "name": "Cherry Blossoms",
+      "url": "https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -431,22 +415,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 227527,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "i walk this earth all by myself",
         "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
@@ -459,6 +427,22 @@
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 227527,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -515,6 +499,22 @@
       "duration_ms": 154893,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Kids Are Growing Up (Part 1)",
+        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 121369,
+      "name": "Kids Are Growing Up (Part 1)",
+      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -577,38 +577,6 @@
       "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Kids Are Growing Up (Part 1)",
-        "url": "https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 121369,
-      "name": "Kids Are Growing Up (Part 1)",
-      "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
-    },
-    {
-      "added_at": "2022-12-16 17:00:00",
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 124558,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "fools (can't help falling in love) (feat. Sody)",
@@ -631,6 +599,46 @@
       "duration_ms": 165029,
       "name": "fools (can't help falling in love) (feat. Sody)",
       "url": "https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom"
+    },
+    {
+      "added_at": "2022-12-16 17:00:00",
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 124558,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
+      "url": "https://open.spotify.com/track/29t9XYOV65fFXiVzFFJgHH"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -695,22 +703,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "dream girl",
-        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
-      },
-      "artists": [
-        {
-          "name": "8percent",
-          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
-        }
-      ],
-      "duration_ms": 87408,
-      "name": "dream girl",
-      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "NEGATIVE",
         "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
@@ -727,6 +719,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "dream girl",
+        "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
+      },
+      "artists": [
+        {
+          "name": "8percent",
+          "url": "https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK"
+        }
+      ],
+      "duration_ms": 87408,
+      "name": "dream girl",
+      "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Fighting Demons (Deluxe)",
         "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
@@ -739,30 +747,6 @@
       "duration_ms": 231220,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
-      "url": "https://open.spotify.com/track/29t9XYOV65fFXiVzFFJgHH"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -803,22 +787,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "why am i crying",
         "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
       },
@@ -835,6 +803,22 @@
       "duration_ms": 204659,
       "name": "Letter to Jarad",
       "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -981,22 +965,6 @@
       "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "God Mom",
@@ -1011,6 +979,22 @@
       "duration_ms": 123200,
       "name": "North Star",
       "url": "https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Hiding in the Dark",
         "url": "https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN"
       },
@@ -1167,6 +1135,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 163260,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/7l4mdOTSYwOayDaHc3s0PV"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Childhood Dreams",
         "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "It Was Fun While It Lasted",
-        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 163260,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/7l4mdOTSYwOayDaHc3s0PV"
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Proud of Myself",
+        "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
+      },
+      "artists": [
+        {
+          "name": "Lil Xxel",
+          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "Proud of Myself",
+      "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "MIXED EMOTIONS",
         "url": "https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 115263,
       "name": "Violets",
       "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Proud of Myself",
-        "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
-      },
-      "artists": [
-        {
-          "name": "Lil Xxel",
-          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "Proud of Myself",
-      "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1377,22 +1361,6 @@
       "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "UDNTLUVME",
-        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
-      },
-      "artists": [
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "UDNTLUVME",
-      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "EP",
@@ -1407,6 +1375,26 @@
       "duration_ms": 150702,
       "name": "Sad Nibba Hours",
       "url": "https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Suicidal",
+        "url": "https://open.spotify.com/album/7dHziBjY45s0iXOif1Z7xc"
+      },
+      "artists": [
+        {
+          "name": "Wett Brain",
+          "url": "https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K"
+        },
+        {
+          "name": "Tommy Ice",
+          "url": "https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z"
+        }
+      ],
+      "duration_ms": 142988,
+      "name": "Suicidal",
+      "url": "https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1433,24 +1421,20 @@
       "url": "https://open.spotify.com/track/103iTEPJwc4MththlvRakh"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Suicidal",
-        "url": "https://open.spotify.com/album/7dHziBjY45s0iXOif1Z7xc"
+        "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
       },
       "artists": [
         {
-          "name": "Wett Brain",
-          "url": "https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K"
-        },
-        {
-          "name": "Tommy Ice",
-          "url": "https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z"
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
         }
       ],
-      "duration_ms": 142988,
-      "name": "Suicidal",
-      "url": "https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp"
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
     },
     {
       "added_at": "2022-10-28 16:05:00",
@@ -1641,6 +1625,26 @@
       "url": "https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "YellowStone",
+        "url": "https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        },
+        {
+          "name": "Eddy Baker",
+          "url": "https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6"
+        }
+      ],
+      "duration_ms": 189309,
+      "name": "YellowStone",
+      "url": "https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Can't Leave",
@@ -1671,26 +1675,6 @@
       "duration_ms": 161927,
       "name": "VACANT",
       "url": "https://open.spotify.com/track/2CxTUwmFIMzGfkxVLVQiFJ"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "YellowStone",
-        "url": "https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        },
-        {
-          "name": "Eddy Baker",
-          "url": "https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6"
-        }
-      ],
-      "duration_ms": 189309,
-      "name": "YellowStone",
-      "url": "https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1759,6 +1743,22 @@
       "duration_ms": 177835,
       "name": "V12 (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "I JUST FKN HATE YOU NOW",
+        "url": "https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+        }
+      ],
+      "duration_ms": 112692,
+      "name": "I JUST FKN HATE YOU NOW",
+      "url": "https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W"
     }
   ],
   "unique_name": "tear drop",

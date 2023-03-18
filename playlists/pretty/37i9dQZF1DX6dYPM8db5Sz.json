@@ -1,44 +1,44 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt?si=-YZjTk9jS-y1URdyCD7Paw\">Majozi</a>",
-  "num_followers": 5630,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54?si=XY6tsMJ4S3GRQ5-2UUeVPw\">Thabo Krouwkam</a>",
+  "num_followers": 5649,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODU2MzA2MSwwMDAwMDAwMDFiYjA3Zjc0NTFkZGM2ZDMyZjg4NWQ5NmZmNGZkMTA0",
+  "snapshot_id": "MTY3OTAwMzk0MCwwMDAwMDAwMDkxODgxODc3M2I4YmM1NzRiYTUzMTYzM2ZlZTU3NmY1",
   "tracks": [
     {
-      "added_at": "2023-03-09 21:59:00",
+      "added_at": "2023-03-16 21:59:00",
       "album": {
-        "name": "Safe In The Sound",
-        "url": "https://open.spotify.com/album/3JqGxFavm15jJRLmePzGve"
+        "name": "Meet me in the middle",
+        "url": "https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq"
       },
       "artists": [
         {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+          "name": "Thabo Krouwkam",
+          "url": "https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54"
         }
       ],
-      "duration_ms": 214090,
-      "name": "Safe In The Sound",
-      "url": "https://open.spotify.com/track/5o7Kgx1yYAV5mVTAlKToCS"
+      "duration_ms": 186367,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/77krcHfId85O4se7W5HpTY"
     },
     {
-      "added_at": "2023-03-09 21:59:00",
+      "added_at": "2023-03-16 21:59:00",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 197779,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
+      "duration_ms": 245281,
+      "name": "Borrow Trouble",
+      "url": "https://open.spotify.com/track/4lyKe6602fEaFpwMFYGPc2"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -93,20 +93,20 @@
       "url": "https://open.spotify.com/track/0fmegVXiAaQ2pGgKsZUEZB"
     },
     {
-      "added_at": "2023-03-09 21:59:00",
+      "added_at": "2023-03-16 21:59:00",
       "album": {
-        "name": "ALL I GOT",
-        "url": "https://open.spotify.com/album/2kPLJYUX6MoKvRLXhNTue2"
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/770No61AWG74gR1xQaRYzL"
       },
       "artists": [
         {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
         }
       ],
-      "duration_ms": 194167,
-      "name": "ALL I GOT",
-      "url": "https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh"
+      "duration_ms": 212818,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-03-09 21:59:00",
       "album": {
+        "name": "ALL I GOT",
+        "url": "https://open.spotify.com/album/2kPLJYUX6MoKvRLXhNTue2"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 194167,
+      "name": "ALL I GOT",
+      "url": "https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh"
+    },
+    {
+      "added_at": "2023-03-09 21:59:00",
+      "album": {
         "name": "Standing In Our Way (Edit)",
         "url": "https://open.spotify.com/album/4B7BKQ4tJ04f8avFQqek4A"
       },
@@ -203,6 +219,22 @@
       "duration_ms": 205847,
       "name": "Standing In Our Way - Edit",
       "url": "https://open.spotify.com/track/5LLnCilV4qlbYRFuNGYljJ"
+    },
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Rose-tinted",
+        "url": "https://open.spotify.com/album/7vt8yiAAlJKzHujypyDa1Y"
+      },
+      "artists": [
+        {
+          "name": "Ross Learmonth",
+          "url": "https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Rose-tinted",
+      "url": "https://open.spotify.com/track/6etwIyuLOsMobfxRdCWuru"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -219,6 +251,22 @@
       "duration_ms": 212373,
       "name": "Like a Brother",
       "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
+    },
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/3nw8WU1ZFdsdguO8xzspPt"
+      },
+      "artists": [
+        {
+          "name": "Purboxx",
+          "url": "https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9"
+        }
+      ],
+      "duration_ms": 200270,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3K2iZ52YBqQz2f2srcAixn"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -293,6 +341,22 @@
       "url": "https://open.spotify.com/track/3fjEy2DBm2qiQbqr59yrIT"
     },
     {
+      "added_at": "2023-03-09 21:59:00",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 197779,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
+    },
+    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "House Song",
@@ -307,6 +371,22 @@
       "duration_ms": 294189,
       "name": "House Song",
       "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
+    },
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Porcelain Boy",
+        "url": "https://open.spotify.com/album/4DrTMQ7ONjyt4VW1rHfDgy"
+      },
+      "artists": [
+        {
+          "name": "SunMan",
+          "url": "https://open.spotify.com/artist/764M3FNYq1z8yMJfIDi3x1"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Porcelain Boy",
+      "url": "https://open.spotify.com/track/6pXNKxrMeKRsvqs1GYS5iE"
     },
     {
       "added_at": "2023-02-23 21:59:00",
@@ -403,6 +483,38 @@
       "duration_ms": 218800,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
+    },
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Midnight Fox",
+        "url": "https://open.spotify.com/album/0Q7PFHDECYVt4TnVal5Kg8"
+      },
+      "artists": [
+        {
+          "name": "STRONZA",
+          "url": "https://open.spotify.com/artist/2MKJYsXACT5aTvtNn1MmDs"
+        }
+      ],
+      "duration_ms": 281103,
+      "name": "Midnight Fox",
+      "url": "https://open.spotify.com/track/6fot9PD8atqMvbeeOhwamA"
+    },
+    {
+      "added_at": "2023-03-09 21:59:00",
+      "album": {
+        "name": "Safe In The Sound",
+        "url": "https://open.spotify.com/album/3JqGxFavm15jJRLmePzGve"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "Safe In The Sound",
+      "url": "https://open.spotify.com/track/5o7Kgx1yYAV5mVTAlKToCS"
     },
     {
       "added_at": "2023-02-23 21:59:00",
@@ -617,22 +729,6 @@
       "url": "https://open.spotify.com/track/6xNgvBfK5Wf2Ft9LKdpY98"
     },
     {
-      "added_at": "2023-02-23 21:59:00",
-      "album": {
-        "name": "Trouble (Radio Remix)",
-        "url": "https://open.spotify.com/album/1ZbJRgqfXY6Ydu28mX7DIn"
-      },
-      "artists": [
-        {
-          "name": "Tuelo",
-          "url": "https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi"
-        }
-      ],
-      "duration_ms": 160728,
-      "name": "Trouble - Radio Remix",
-      "url": "https://open.spotify.com/track/3b1CgbC7s0TQ07ew2c2aaX"
-    },
-    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "This World Couldn\u2019t See Us",
@@ -747,22 +843,6 @@
       "duration_ms": 187714,
       "name": "Precious Bones",
       "url": "https://open.spotify.com/track/5rpsHM3MTRdnbg0aUS1ug1"
-    },
-    {
-      "added_at": "2023-02-09 21:59:00",
-      "album": {
-        "name": "Paper Crown",
-        "url": "https://open.spotify.com/album/2wF8bjc8BojLDiuWm3DNKN"
-      },
-      "artists": [
-        {
-          "name": "Lenoy Barkai",
-          "url": "https://open.spotify.com/artist/5QFw3kKvmR91Rki5sRRmPP"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "2 Old Dogs",
-      "url": "https://open.spotify.com/track/6ACEwvi5FKRLxfS1t9T9uh"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -897,22 +977,6 @@
       "url": "https://open.spotify.com/track/34miboJFpjvXcByUVTWGpC"
     },
     {
-      "added_at": "2023-02-09 21:59:00",
-      "album": {
-        "name": "Halcyon Days",
-        "url": "https://open.spotify.com/album/7MJFN5eNvnS74BdUIy3sO2"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 120078,
-      "name": "Just Fine",
-      "url": "https://open.spotify.com/track/2bnEKLupfbkcYVG708qmSf"
-    },
-    {
       "added_at": "2023-01-12 21:59:00",
       "album": {
         "name": "Raise Me Up",
@@ -963,22 +1027,6 @@
       "duration_ms": 339685,
       "name": "Talk Around",
       "url": "https://open.spotify.com/track/2ftX9egMnZAATxMxq1bn9p"
-    },
-    {
-      "added_at": "2022-11-24 21:59:00",
-      "album": {
-        "name": "Saviour Complex",
-        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
-      },
-      "artists": [
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Saviour Complex",
-      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -1073,26 +1121,6 @@
       "url": "https://open.spotify.com/track/7zltIKDQN6TMoERha3MiXo"
     },
     {
-      "added_at": "2023-02-02 21:59:00",
-      "album": {
-        "name": "i don't reply",
-        "url": "https://open.spotify.com/album/2j3CSAkyjU62aBogjlm277"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        },
-        {
-          "name": "Sophie Cates",
-          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
-        }
-      ],
-      "duration_ms": 168845,
-      "name": "i don't reply",
-      "url": "https://open.spotify.com/track/3CyCZZGuBCjir82ta1bkii"
-    },
-    {
       "added_at": "2023-01-26 21:59:00",
       "album": {
         "name": "Countryside",
@@ -1123,22 +1151,6 @@
       "duration_ms": 290786,
       "name": "noba bangathini",
       "url": "https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP"
-    },
-    {
-      "added_at": "2023-01-26 21:59:00",
-      "album": {
-        "name": "fa\u00e7ade",
-        "url": "https://open.spotify.com/album/79vl4afRpt6VNGoHRFaUfP"
-      },
-      "artists": [
-        {
-          "name": "gerald kent",
-          "url": "https://open.spotify.com/artist/4deC9GQfMqj9MpuG0jA2un"
-        }
-      ],
-      "duration_ms": 194383,
-      "name": "pink & blue",
-      "url": "https://open.spotify.com/track/0fVfYsnBOunr5mX1mViBQt"
     },
     {
       "added_at": "2023-01-26 21:59:00",
@@ -1207,22 +1219,6 @@
       "duration_ms": 167841,
       "name": "lalala",
       "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
-        "name": "Head Start (Fresh Start)",
-        "url": "https://open.spotify.com/album/5HIe6iAa0joluCQmVuajkI"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Head Start - Fresh Start",
-      "url": "https://open.spotify.com/track/62NHaoO0JcLD0EpD38HYgg"
     },
     {
       "added_at": "2023-01-12 21:59:00",

@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Kingdom Will Come",
+        "url": "https://open.spotify.com/album/1bxTScZjdZih4Fsvp8d5V5"
+      },
+      "artists": [
+        {
+          "name": "Beware Of Darkness",
+          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298751,
+      "name": "Kingdom Will Come",
+      "url": "https://open.spotify.com/track/0qGYwQLrvI5qSIf5GRTGZm"
+    },
+    {
+      "album": {
         "name": "Little Liars",
         "url": "https://open.spotify.com/album/2lySeBntwop5obrKfYEXl6"
       },

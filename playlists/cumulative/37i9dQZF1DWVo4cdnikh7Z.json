@@ -1499,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Bikili (From \"Pichaikkaran 2\")",
+        "url": "https://open.spotify.com/album/6ZjmelujZY2C5bHzs7DQhD"
+      },
+      "artists": [
+        {
+          "name": "Vijay Antony",
+          "url": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238291,
+      "name": "Bikili",
+      "url": "https://open.spotify.com/track/4p1IRIy1G20NuFi8HBc3Lb"
+    },
+    {
+      "album": {
         "name": "Prince (Tamil)",
         "url": "https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA"
       },
@@ -1610,6 +1628,24 @@
       "duration_ms": 253951,
       "name": "Bramman - From \"Ghosty\"",
       "url": "https://open.spotify.com/track/2mqBxuJyKRV0tHUUXgodVe"
+    },
+    {
+      "album": {
+        "name": "Ghosty (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5BqzmInqcQCUoXsklZvune"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253951,
+      "name": "Bramman - From \"Ghosty\"",
+      "url": "https://open.spotify.com/track/3XWSZSlxS1ImAJY9Ji117q"
     },
     {
       "album": {
@@ -3945,6 +3981,32 @@
     },
     {
       "album": {
+        "name": "Kaathiru (From \"Kannai Nambathey\") - Single",
+        "url": "https://open.spotify.com/album/1msmi57etADdwo6LzHlcgE"
+      },
+      "artists": [
+        {
+          "name": "Lakshmikanth M",
+          "url": "https://open.spotify.com/artist/6Goy3epqmrsTbPAipjhPKA"
+        },
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Kugai Ma Pugazhendhi",
+          "url": "https://open.spotify.com/artist/0drxqlpl0GEAG70hggyve0"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229166,
+      "name": "Kaathiru (From \"Kannai Nambathey\")",
+      "url": "https://open.spotify.com/track/3KyRRkU2bzI66gB7WDe60U"
+    },
+    {
+      "album": {
         "name": "Kaathu Vaakula Rendu (From \"Kaathuvaakula Rendu Kaadhal\")",
         "url": "https://open.spotify.com/album/5Ps3UUNqlXixkmTdoKmnZY"
       },
@@ -4712,6 +4774,28 @@
       "duration_ms": 232513,
       "name": "Kannukkulle (From \"Sita Ramam (Tamil)\")",
       "url": "https://open.spotify.com/track/4WDya8Mau5wuqLnaNr2Ct0"
+    },
+    {
+      "album": {
+        "name": "Thookudurai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74cpYQbbAvuyXNW0iLsiRF"
+      },
+      "artists": [
+        {
+          "name": "K.S. Manoj",
+          "url": "https://open.spotify.com/artist/5EOm6XJbeCNNY41VuD3lxB"
+        },
+        {
+          "name": "Ken",
+          "url": "https://open.spotify.com/artist/6uYgB2FmDEimp0hJJouph1"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Kannum Kannum",
+      "url": "https://open.spotify.com/track/2MVK021s78vXqWXTucOvHV"
     },
     {
       "album": {
@@ -6997,6 +7081,28 @@
     },
     {
       "album": {
+        "name": "Thookudurai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74cpYQbbAvuyXNW0iLsiRF"
+      },
+      "artists": [
+        {
+          "name": "K.S. Manoj",
+          "url": "https://open.spotify.com/artist/5EOm6XJbeCNNY41VuD3lxB"
+        },
+        {
+          "name": "Seenu",
+          "url": "https://open.spotify.com/artist/3jh8GRVW21JExPQkz0CigQ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Naathu Yeiyaadhu",
+      "url": "https://open.spotify.com/track/1SYFByavsrXyCFIAaYLoVe"
+    },
+    {
+      "album": {
         "name": "RRR",
         "url": "https://open.spotify.com/album/6YYSjBGYBDtc5km4NeMHL0"
       },
@@ -7302,7 +7408,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200138,
-      "name": "Nenjaaliyae",
+      "name": "Nenjaaliye",
       "url": "https://open.spotify.com/track/6E93ERiJMfW7WGYPtPR4MN"
     },
     {
@@ -11203,6 +11309,28 @@
     },
     {
       "album": {
+        "name": "THUNAI VARUVEN",
+        "url": "https://open.spotify.com/album/2ohSAvOqBy5asjjw4lDQtn"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "THUNAI VARUVEN",
+      "url": "https://open.spotify.com/track/4oZmlHf9XmEJkTCjdM2S0i"
+    },
+    {
+      "album": {
         "name": "Title Song (From \"Gangster Gangaraju\")",
         "url": "https://open.spotify.com/album/0wtXE53MfEq9gvCG79Qd3G"
       },
@@ -11596,6 +11724,28 @@
       "duration_ms": 247086,
       "name": "Unakkum Enakkum (From \"Varnashramam\")",
       "url": "https://open.spotify.com/track/1l663kZ3kETOFbo2X9pLqB"
+    },
+    {
+      "album": {
+        "name": "Thookudurai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74cpYQbbAvuyXNW0iLsiRF"
+      },
+      "artists": [
+        {
+          "name": "K.S. Manoj",
+          "url": "https://open.spotify.com/artist/5EOm6XJbeCNNY41VuD3lxB"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198787,
+      "name": "Unemployed Anthem",
+      "url": "https://open.spotify.com/track/2yKjvtj2qdrfvb8tSxDuXR"
     },
     {
       "album": {

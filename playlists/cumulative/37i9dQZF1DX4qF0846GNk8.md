@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> كوفر: الصواريخ مع أبو الأنوار
 
-132 songs - 8 hr 7 min
+133 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Tarsh](https://open.spotify.com/track/5iuZ87tYtYAfd4VkuzN4Zl) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Ordne](https://open.spotify.com/artist/6eEgtjJ64JAlgjqyBPzkqH) | [Tarsh](https://open.spotify.com/album/30watsIksrxiSzUcTLC1FE) | 2:43 | 2021-12-16 |  |
 | [Weyyak](https://open.spotify.com/track/1hCT1bsFmcuqi9HRP1ilf0) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [Weyyak](https://open.spotify.com/album/4Hy7xGPu9rQ3qSv6dWNrym) | 2:54 | 2021-12-16 | 2022-07-31 |
 | [إحلويتي](https://open.spotify.com/track/6jr1OcQ7lF6gyNVAupJ97z) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [إحلويتي](https://open.spotify.com/album/6zlU10l2gCp6QfdKKL49Sq) | 2:48 | 2022-10-27 | 2023-02-01 |
-| [احلي واحدة](https://open.spotify.com/track/5zPoA6xtqHtm7nfVzNy7rf) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [احلي واحدة](https://open.spotify.com/album/2LdxWsXOsPVsknLFbXX2YH) | 3:03 | 2022-10-16 |  |
+| [احلي واحدة](https://open.spotify.com/track/5zPoA6xtqHtm7nfVzNy7rf) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [احلي واحدة](https://open.spotify.com/album/2LdxWsXOsPVsknLFbXX2YH) | 3:03 | 2022-10-16 | 2023-03-18 |
 | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/track/1EMaJKcQU0qjNyLEUQZIIg) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N) | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/album/6D9STyIeYzS4NuZrqTHuEX) | 5:24 | 2022-07-30 |  |
 | [اخرس عمك جالك](https://open.spotify.com/track/7xY05LQHDQJFxvZrEzStsY) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [اخرس عمك جالك](https://open.spotify.com/album/6FaNLCBZEMml6pu9shmRPc) | 5:44 | 2022-02-01 | 2022-07-29 |
 | [ازاى تتساو بيا](https://open.spotify.com/track/191eHjlFxHTFTbYmmd1vJ4) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [ازاى تتساو بيا](https://open.spotify.com/album/6Nh5cETpD4ej0JSmgM9GUy) | 4:36 | 2023-01-03 |  |
@@ -77,6 +77,7 @@
 | [شيماء](https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX) | [يوسف سوسته](https://open.spotify.com/artist/5jpOJNLKX0WO5HD5Ku8FiD) | [شيماء](https://open.spotify.com/album/1iyn88en2SMsBTW6JEUMmf) | 2:04 | 2021-12-16 | 2022-07-20 |
 | [صاحبي من غبائه](https://open.spotify.com/track/3RLpfYSIQlW1YI6bIexpUy) | [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [صاحبي من غبائه](https://open.spotify.com/album/1K9oCdpNQGZfDGDvHzLEbb) | 4:09 | 2021-12-16 | 2022-02-17 |
 | [صحي الاخصام بطلقه](https://open.spotify.com/track/3m8UZ8AmSXJtHWeQnvXWXs) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [صحي الاخصام بطلقه](https://open.spotify.com/album/383dd0IEiY5nmbSVSGbE7m) | 4:29 | 2021-12-16 | 2023-02-08 |
+| [صحي كوكب الارض بطلقه](https://open.spotify.com/track/3mCb5WZoHBniD8ZaR9uACn) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [صحي كوكب الارض بطلقه](https://open.spotify.com/album/2jPqDPQRfPQVfVgtiD9i8T) | 3:32 | 2023-03-16 |  |
 | [صفر ال100](https://open.spotify.com/track/3VKgHKylG3VGtaNIM7Zlth) | [معاذ موزه](https://open.spotify.com/artist/7B3VtrwB07N9ACvSe4kvU5), [عبده مزيكا](https://open.spotify.com/artist/5OHrGnmO6heI529Aifqv4t), [ياسين ابوالدهب](https://open.spotify.com/artist/19pIbGh4mMQWjWAZPgZGuB) | [صفر ال100](https://open.spotify.com/album/6PmGjqdY5AM5aghwI41rWb) | 3:09 | 2021-12-16 | 2022-03-31 |
 | [طخ طخ انا الطخطوخ](https://open.spotify.com/track/3smY1fF2RinJwhaxGToDSh) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طخ طخ انا الطخطوخ](https://open.spotify.com/album/64o8RrttINtiwfUcCXMMMv) | 5:51 | 2021-12-16 | 2022-07-29 |
 | [طخ طخ انا الطخطوخ](https://open.spotify.com/track/6stW4DuSMCxC7BNcVlF8yV) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طخ طخ انا الطخطوخ](https://open.spotify.com/album/6l7ow81eOmAlhtTwy6U7cQ) | 5:51 | 2022-07-19 |  |

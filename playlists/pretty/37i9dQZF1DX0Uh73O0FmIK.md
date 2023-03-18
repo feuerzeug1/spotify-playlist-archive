@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,313 likes - 70 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,876 likes - 70 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 47 | [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 |
 | 48 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
 | 49 | [Le perv](https://open.spotify.com/track/1coJ1H1FiEZG93naXkOsNF) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN) | 4:16 |
-| 50 | [Ocean Death](https://open.spotify.com/track/2CPeOsbTPnJibSwVo3zLrz) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Ocean Death](https://open.spotify.com/album/4iU3Ro1wRrnZ1lfOIrV4jG) | 5:29 |
+| 50 | [Ocean Death](https://open.spotify.com/track/4nEJ4O435WvJvgZKdOPWMM) | [Will Wiesenfeld](https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Ocean Death](https://open.spotify.com/album/5wE7sv4eXjQ3vHGl8FROG0) | 5:29 |
 | 51 | [22:39](https://open.spotify.com/track/5PDKajOvt9yMVCsgQhYcMn) | [Danger](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi) | [Origins](https://open.spotify.com/album/3rdxpRfZCqsth5EPDnUkaY) | 4:12 |
 | 52 | [Luv Deluxe](https://open.spotify.com/track/6NFVMrNI3mHeFSAwdbAYfU) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [A Million Miles from Home](https://open.spotify.com/album/4atwagTKLpazdKchxdJEnI) | 4:33 |
 | 53 | [redruM](https://open.spotify.com/track/5C6qZsPITmCq3WuhQDEy5e) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Valley of Shadow](https://open.spotify.com/album/56wIQDfpZPfpSHoSNreaIY) | 4:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 69 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 |
 | 70 | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/track/65oGVYJfdT6mYIdmmb6q3c) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/album/63SwZU3t9Bqb45SVWoPprT) | 4:23 |
 
-Snapshot ID: `MTY3NTI2NjA4NCwwMDAwMDAwMGQzZGY0MzdhMWEwNDkxMTBlZGNjY2MyZmIyNzM5MmVi`
+Snapshot ID: `MTY3NTI2NjA4NCwwMDAwMDAwMDQwOWFjNDMzMDNlNzU2OWM5ODk2OWQxMDliYjZmYTA4`

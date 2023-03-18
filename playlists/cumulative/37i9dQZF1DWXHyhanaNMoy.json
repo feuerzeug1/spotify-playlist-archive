@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Alleen maar motion en good vibes. Cover: 2mochh",
+  "description": "Alleen maar motion en good vibes. Cover: Bryan Mg",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 154288,
       "name": "AAN ME ZIT",
       "url": "https://open.spotify.com/track/5OtzCqQOuVWqAkn9DpgSGF"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 140377,
       "name": "Ai Ai Ai",
       "url": "https://open.spotify.com/track/0O1aOVz2AHByG9fM5ggg9W"
@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/27txhnT0TfhJ7a5p0ql8CN"
       },
@@ -670,6 +692,28 @@
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/78jSrI5Csd5bmQEqEyIJOA"
+      },
+      "artists": [
+        {
+          "name": "SXTEEN",
+          "url": "https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg"
+        },
+        {
+          "name": "Pearl Ramos",
+          "url": "https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/2C5ria7rY3eg2JUbX2k2MY"
     },
     {
       "album": {
@@ -2452,7 +2496,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 136615,
       "name": "Deze Is Down (feat. Alessio)",
       "url": "https://open.spotify.com/track/20cjwvKsa3aHrG6redo3xl"
@@ -2692,6 +2736,24 @@
       "duration_ms": 104357,
       "name": "Drunk in Love (Henny)",
       "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
+    },
+    {
+      "album": {
+        "name": "Dyscalculie",
+        "url": "https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk"
+      },
+      "artists": [
+        {
+          "name": "Maks",
+          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93509,
+      "name": "Dyscalculie",
+      "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
     },
     {
       "album": {
@@ -3271,6 +3333,28 @@
     },
     {
       "album": {
+        "name": "Geen ID",
+        "url": "https://open.spotify.com/album/6sF5kPiELI0drdugzP41iR"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Saaff",
+          "url": "https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Geen ID",
+      "url": "https://open.spotify.com/track/3RvZ5mxHFiVZYCpTT4rPjx"
+    },
+    {
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/5khvTZOuqSQm1VXPmP7Mrx"
       },
@@ -3351,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "Go Down Low",
+        "url": "https://open.spotify.com/album/36aVtRLotdKZtWiwqGiLWx"
+      },
+      "artists": [
+        {
+          "name": "Toobss",
+          "url": "https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137430,
+      "name": "Go Down Low",
+      "url": "https://open.spotify.com/track/7bJuZfhJS7WgP5OgHKuD28"
+    },
+    {
+      "album": {
         "name": "Good Girls",
         "url": "https://open.spotify.com/album/321080p33tt05xgRoJHEov"
       },
@@ -3414,7 +3516,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 142009,
       "name": "Gymnastic",
       "url": "https://open.spotify.com/track/0BEJH3Z1ssdYqAQmWttViM"
@@ -5034,7 +5136,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 137023,
       "name": "Links, Rechts",
       "url": "https://open.spotify.com/track/1QFD1ESWaOg3HMsOXeANqw"
@@ -6165,6 +6267,36 @@
     },
     {
       "album": {
+        "name": "Niks Persoonlijks",
+        "url": "https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH"
+      },
+      "artists": [
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "DJEZJA",
+          "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
+        },
+        {
+          "name": "Blacka",
+          "url": "https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162291,
+      "name": "Niks Persoonlijks",
+      "url": "https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc"
+    },
+    {
+      "album": {
         "name": "No Drama",
         "url": "https://open.spotify.com/album/4GPQ1sTjYKBVSpU4ZkMjoB"
       },
@@ -6488,6 +6620,24 @@
       "duration_ms": 140571,
       "name": "Omoge",
       "url": "https://open.spotify.com/track/2WmlrdRYXJwtvsStaLhdEa"
+    },
+    {
+      "album": {
+        "name": "Omonefe",
+        "url": "https://open.spotify.com/album/6mwE7xX4eI5FdUui38SxlG"
+      },
+      "artists": [
+        {
+          "name": "Rhema & Bethel",
+          "url": "https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162777,
+      "name": "Omonefe",
+      "url": "https://open.spotify.com/track/6MZrNKlgyPHcIG5vhiLfqz"
     },
     {
       "album": {
@@ -6892,7 +7042,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 204695,
       "name": "Paro",
       "url": "https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi"
@@ -7296,7 +7446,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 144988,
       "name": "Reload",
       "url": "https://open.spotify.com/track/67erDOXoomBqQebPnpZayQ"
@@ -7344,7 +7494,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 144000,
       "name": "Robotica (Remix) [feat. Kilate Tesla, Ozin & Riverali]",
       "url": "https://open.spotify.com/track/2pBfF9Prcj3RTrsS8NyMJd"
@@ -7636,7 +7786,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 128170,
       "name": "Shikidim",
       "url": "https://open.spotify.com/track/3FP6Q4fQWU6nyXVwX5DgMa"
@@ -7676,7 +7826,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 154000,
       "name": "Short up Shorts",
       "url": "https://open.spotify.com/track/15DxGcmXWDZhaFUyz1Kh1y"
@@ -7924,7 +8074,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 174063,
       "name": "Stars",
       "url": "https://open.spotify.com/track/62pSIMezFKYK2UxQHmCE4g"
@@ -7994,7 +8144,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 206527,
       "name": "Stunten",
       "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
@@ -8152,6 +8302,24 @@
       "duration_ms": 172075,
       "name": "System",
       "url": "https://open.spotify.com/track/19VFcHFyE47v1bw6ZsKbzF"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/0ecNuV7lqmzkJEtefDTZIA"
+      },
+      "artists": [
+        {
+          "name": "Flori del Pino",
+          "url": "https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7DnMM03KPW8LQhkrjyG5ED"
     },
     {
       "album": {
@@ -8450,7 +8618,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 115200,
       "name": "TIKI TAKA",
       "url": "https://open.spotify.com/track/500ylZ1s9XBrdW6m8kceQb"
@@ -9099,6 +9267,24 @@
     },
     {
       "album": {
+        "name": "Wauw",
+        "url": "https://open.spotify.com/album/4wscODUSYEc96oSL7N7GOU"
+      },
+      "artists": [
+        {
+          "name": "Jeriel",
+          "url": "https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162928,
+      "name": "Wauw",
+      "url": "https://open.spotify.com/track/0ktHq4CUjQwvqanG7VpFe9"
+    },
+    {
+      "album": {
         "name": "Wayih",
         "url": "https://open.spotify.com/album/79GpxYlZSA5n0YP0wizwQu"
       },
@@ -9346,6 +9532,24 @@
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
+    },
+    {
+      "album": {
+        "name": "Zak Dat",
+        "url": "https://open.spotify.com/album/2e97520RBGJDlXyXYw8viT"
+      },
+      "artists": [
+        {
+          "name": "Jacq B",
+          "url": "https://open.spotify.com/artist/2Rd0yxydAq7hBWjbsuW8aF"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188139,
+      "name": "Zak Dat",
+      "url": "https://open.spotify.com/track/4S95ERtdulZdDr8dS9pRGZ"
     },
     {
       "album": {

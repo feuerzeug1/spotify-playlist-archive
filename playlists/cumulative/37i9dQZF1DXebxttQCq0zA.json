@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Atardecer",
+        "url": "https://open.spotify.com/album/7gWbzktLiCpdEobiUn9vvS"
+      },
+      "artists": [
+        {
+          "name": "Salina Cardenas",
+          "url": "https://open.spotify.com/artist/3UJgE628TwNqsowj6m4m4k"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Atardecer",
+      "url": "https://open.spotify.com/track/1Jn5Id1Yn99AGGZ4dHqloo"
+    },
+    {
+      "album": {
         "name": "Lost Tales",
         "url": "https://open.spotify.com/album/1rSfn4Fgame8VjA4vb7HjX"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 138666,
       "name": "Distant Oceans",
       "url": "https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT"
@@ -3473,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Placidity",
+        "url": "https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS"
+      },
+      "artists": [
+        {
+          "name": "Maddox JR",
+          "url": "https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "Nothing else mattered",
+      "url": "https://open.spotify.com/track/1LRjbCFrOBUQ9L1Ot4xuIO"
+    },
+    {
+      "album": {
         "name": "Prana",
         "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
       },
@@ -5486,6 +5522,24 @@
       "duration_ms": 233955,
       "name": "Transcendence",
       "url": "https://open.spotify.com/track/4E1jg7m6rq4ofqfoKQ16LN"
+    },
+    {
+      "album": {
+        "name": "Troposphere",
+        "url": "https://open.spotify.com/album/55t5QaPrHAaRr1xWgYeowG"
+      },
+      "artists": [
+        {
+          "name": "Deruinga",
+          "url": "https://open.spotify.com/artist/4QdAxJ3cHi44C5QmSf1yeo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177213,
+      "name": "Troposphere",
+      "url": "https://open.spotify.com/track/57HE45Js8hYKiXsVDdDi7U"
     },
     {
       "album": {

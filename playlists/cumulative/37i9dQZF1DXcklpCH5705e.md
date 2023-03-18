@@ -4,7 +4,7 @@
 
 > 經得起時間考驗嘅歌曲，無論新版、舊歌一樣好聽！
 
-93 songs - 6 hr 11 min
+95 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE), [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/album/0ModZiFlJ4homzkNeuRATU) | 5:27 | 2022-03-10 | 2023-02-03 |
 | [暗湧 \- 電影"愈快樂愈墮落"歌曲](https://open.spotify.com/track/51qJSDTQiyP2BNsAKRcRo2) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [廿一世紀精選](https://open.spotify.com/album/1YOynn6PjM1NnCnBRLuv2S) | 3:49 | 2023-02-02 |  |
 | [月亮代表我的心 \(《華燈初上》主題曲\)](https://open.spotify.com/track/0Q02NWqQL5m4m8jkp3zsSy) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [月亮代表我的心](https://open.spotify.com/album/5EpcaGPuWiDZ2zmqOy5JaJ) | 3:47 | 2022-03-10 | 2023-02-03 |
+| [有誰共鳴](https://open.spotify.com/track/6WeK60Z3tB1VdEONdBWfmq) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [有誰共鳴](https://open.spotify.com/album/6p1lJXhCHRZDygLpQORcVK) | 3:12 | 2023-03-16 |  |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-03-10 | 2023-02-03 |
 | [每天愛你多一些](https://open.spotify.com/track/6netQHYLJxJfWXHYnvOEJA) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [4 In Love](https://open.spotify.com/album/1LQlxBcbxarDHZfS04TrxR) | 4:18 | 2023-02-02 |  |
 | [活著](https://open.spotify.com/track/711bVTOFjmjte4eNXzcbc7) | [Charlene Choi](https://open.spotify.com/artist/6wBoKKHhGDrxVtp6XMFpIP) | [Blooming](https://open.spotify.com/album/3Qxf3z5G8hMBacGhEzeMjL) | 3:32 | 2023-02-02 |  |
@@ -91,6 +92,7 @@
 | [著地 \(劇集《男排女將》主題曲\)](https://open.spotify.com/track/18EQCFmlUF3N33s2KHYLcV) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [著地 \(劇集《男排女將》主題曲\)](https://open.spotify.com/album/1Tes4fMM6e2DMXgp6wqhHL) | 4:04 | 2022-03-10 | 2023-02-03 |
 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2022-03-10 | 2023-02-03 |
 | [路過蜻蜓](https://open.spotify.com/track/4Uhq40fGrEwKEHxzQQajTY) | [Sandy Lam](https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 4:51 | 2023-02-02 |  |
+| [追](https://open.spotify.com/track/3uHE0cVFDFDORAVhwLqL4p) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [追](https://open.spotify.com/album/6sGJi4077dMoVi362niYP5) | 5:13 | 2023-03-16 |  |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2022-03-10 | 2023-02-03 |
 | [遲了悔改 \- ViuTV電視劇《太平紋身店》主題曲](https://open.spotify.com/track/0Os0RD1apkQsWOeF2cV5w2) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [遲了悔改 \(ViuTV電視劇《太平紋身店》主題曲\)](https://open.spotify.com/album/76CJR7OqDn0eP3YhY2efl8) | 4:24 | 2022-03-10 | 2023-02-03 |
 | [陀飛輪](https://open.spotify.com/track/4Tsh6vIHx44NpJYwAnGPjj) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [無臉人音樂會@台北大河岸](https://open.spotify.com/album/2kutcuDK3bdEmFd7tHuHWg) | 4:52 | 2023-02-02 |  |

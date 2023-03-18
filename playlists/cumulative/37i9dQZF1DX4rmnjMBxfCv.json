@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Dance and electronic Arabic songs. Cover: Obeidmusic, Pamela Antoun.",
+  "description": "Dance and electronic Arabic songs. Cover: A Loop.",
   "name": "mint \u0646\u0639\u0646\u0639",
   "tracks": [
     {
@@ -1386,6 +1386,28 @@
       "duration_ms": 123750,
       "name": "Ohebuka Raghman - Always April Remix",
       "url": "https://open.spotify.com/track/6TMz1cbXzWFk5WA9oKwNQl"
+    },
+    {
+      "album": {
+        "name": "Omry Maak",
+        "url": "https://open.spotify.com/album/1AqaW9SMNszibKJ78X2Kq9"
+      },
+      "artists": [
+        {
+          "name": "A Loop",
+          "url": "https://open.spotify.com/artist/50RtnCeYKbJzZ88uW3vKAq"
+        },
+        {
+          "name": "ABDULLA JAMAL",
+          "url": "https://open.spotify.com/artist/5UQzJpN8efHoCHqRxI2nmo"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197519,
+      "name": "Omry Maak",
+      "url": "https://open.spotify.com/track/19aRbRcZzJTm1RbJWqMXb7"
     },
     {
       "album": {

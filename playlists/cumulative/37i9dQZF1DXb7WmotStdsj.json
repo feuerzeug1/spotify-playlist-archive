@@ -735,6 +735,28 @@
     },
     {
       "album": {
+        "name": "El 3achk S3ib",
+        "url": "https://open.spotify.com/album/2V49uoeC49aaRrRRT7tVw5"
+      },
+      "artists": [
+        {
+          "name": "Cheba Manel",
+          "url": "https://open.spotify.com/artist/2gf81e1DwyMQ4TbmPgM8Qs"
+        },
+        {
+          "name": "Kader Zakzouk",
+          "url": "https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236785,
+      "name": "El 3achk S3ib",
+      "url": "https://open.spotify.com/track/0waRpeDDFkMZooRQtr3bOa"
+    },
+    {
+      "album": {
         "name": "EL KHAYNA",
         "url": "https://open.spotify.com/album/7F80CSWX5JAlPQ7ryWVt9x"
       },
@@ -2134,7 +2156,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 280555,
       "name": "Nedabzou Sur Les Nerfs",
       "url": "https://open.spotify.com/track/0lEc7oxWZiZqF6tFvKoalb"
@@ -2282,7 +2304,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 332746,
       "name": "Sahr Lyali",
       "url": "https://open.spotify.com/track/3cXIVHqz1kQBAkih5IrE3r"
@@ -2532,6 +2554,28 @@
       "duration_ms": 359942,
       "name": "Yekedbou w ynagrou - Ysahbou w ydouro",
       "url": "https://open.spotify.com/track/3UYsJqg7fTmOzuxNj1P8wk"
+    },
+    {
+      "album": {
+        "name": "Zadma w Sayi",
+        "url": "https://open.spotify.com/album/5f73BUqCz6mZ1mysN4gSFo"
+      },
+      "artists": [
+        {
+          "name": "Cheb Hichem TGV",
+          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
+        },
+        {
+          "name": "Cheb Mirou",
+          "url": "https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395625,
+      "name": "Zadma w Sayi",
+      "url": "https://open.spotify.com/track/2H1voC89zdPWZsFw3slhXX"
     },
     {
       "album": {

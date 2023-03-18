@@ -354,7 +354,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 284029,
       "name": "Clear The Frequency",
       "url": "https://open.spotify.com/track/6osRDw4VDDEiNP7xidJHQi"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 206378,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/0Qnd2pMkw6a1UJIBFwwhr6"
@@ -1224,6 +1224,54 @@
       "duration_ms": 151968,
       "name": "Nothing on me",
       "url": "https://open.spotify.com/track/5rUYXNXWLrHo8qBottDDoY"
+    },
+    {
+      "album": {
+        "name": "Yinga",
+        "url": "https://open.spotify.com/album/2zkSoisn7kPVhKHEBos1sY"
+      },
+      "artists": [
+        {
+          "name": "Iphoolish",
+          "url": "https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp"
+        },
+        {
+          "name": "Katapilla",
+          "url": "https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET"
+        },
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198531,
+      "name": "Nyo",
+      "url": "https://open.spotify.com/track/55xiKBMDGv7Bs3X1lF8rAj"
+    },
+    {
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/2QHZSAvZP2BrdSihBNXMLu"
+      },
+      "artists": [
+        {
+          "name": "Jonathan May",
+          "url": "https://open.spotify.com/artist/3T4VUy3b6j4k7Xuvu5t6mk"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224284,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/66namJgY7uCzejV0yixkzy"
     },
     {
       "album": {

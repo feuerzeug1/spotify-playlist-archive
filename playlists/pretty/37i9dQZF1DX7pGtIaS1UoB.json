@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 88711,
+  "num_followers": 88754,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY5Njg1MSwwMDAwMDAwMDBmN2I5NWIzMjMwMzljNjIzMWMzN2Y2NTA3MmQyYzE2",
+  "snapshot_id": "MTY3ODY5Njg1MSwwMDAwMDAwMGQ5MTRlMGFjODUwZDllYzBjODhkZWE5NDVjNzhkOGJk",
   "tracks": [
     {
       "added_at": "2023-03-13 08:40:51",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-03-13 08:40:51",
       "album": {
-        "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7",
-        "url": "https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT"
-      },
-      "artists": [
-        {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
-        },
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 186014,
-      "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7 feat. \u97cb\u79ae\u5b89",
-      "url": "https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin"
-    },
-    {
-      "added_at": "2023-03-13 08:40:51",
-      "album": {
         "name": "Fall in Love",
         "url": "https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 201150,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG"
+    },
+    {
+      "added_at": "2023-03-13 08:40:51",
+      "album": {
+        "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7",
+        "url": "https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        },
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 186014,
+      "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7 feat. \u97cb\u79ae\u5b89",
+      "url": "https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin"
     },
     {
       "added_at": "2023-03-13 08:40:51",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-13 08:40:51",
       "album": {
-        "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
-      },
-      "artists": [
-        {
-          "name": "\u9ec3\u5ba3",
-          "url": "https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL"
-        }
-      ],
-      "duration_ms": 248629,
-      "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c"
-    },
-    {
-      "added_at": "2023-03-13 08:40:51",
-      "album": {
         "name": "the way you wanna be",
         "url": "https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 208998,
       "name": "\u7b2c\u4e00\u9ed8\u5951 (\u7535\u89c6\u5267 \u300a\u4f60\u5fae\u7b11\u65f6\u5f88\u7f8e\u300b \u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy"
+    },
+    {
+      "added_at": "2023-03-13 08:40:51",
+      "album": {
+        "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u5ba3",
+          "url": "https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL"
+        }
+      ],
+      "duration_ms": 248629,
+      "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c"
     },
     {
       "added_at": "2023-03-13 08:40:51",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-13 08:40:51",
       "album": {
-        "name": "\u8ffd\u5149\u8005",
-        "url": "https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW"
-      },
-      "artists": [
-        {
-          "name": "Ariel Tsai",
-          "url": "https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "\u8ffd\u5149\u8005",
-      "url": "https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p"
-    },
-    {
-      "added_at": "2023-03-13 08:40:51",
-      "album": {
         "name": "\u60e1\u4f5c\u5287\u4e4b\u543b",
         "url": "https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 239000,
       "name": "Only Have Feelings For You",
       "url": "https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT"
+    },
+    {
+      "added_at": "2023-03-13 08:40:51",
+      "album": {
+        "name": "\u8ffd\u5149\u8005",
+        "url": "https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW"
+      },
+      "artists": [
+        {
+          "name": "Ariel Tsai",
+          "url": "https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "\u8ffd\u5149\u8005",
+      "url": "https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p"
     },
     {
       "added_at": "2023-03-13 08:40:51",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-13 08:40:51",
       "album": {
-        "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
-        "url": "https://open.spotify.com/album/6cuddwe4icENbr7R6NvtIt"
-      },
-      "artists": [
-        {
-          "name": "\u9648\u4e00\u5f64",
-          "url": "https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
-      "url": "https://open.spotify.com/track/0yyYSJBeXYNGa7TSgB8TJ7"
-    },
-    {
-      "added_at": "2023-03-13 08:40:51",
-      "album": {
         "name": "\u76f4\u7403\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 226666,
       "name": "\u76f4\u7403\u6d6a\u6f2b",
       "url": "https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz"
+    },
+    {
+      "added_at": "2023-03-13 08:40:51",
+      "album": {
+        "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
+        "url": "https://open.spotify.com/album/6cuddwe4icENbr7R6NvtIt"
+      },
+      "artists": [
+        {
+          "name": "\u9648\u4e00\u5f64",
+          "url": "https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
+      "url": "https://open.spotify.com/track/0yyYSJBeXYNGa7TSgB8TJ7"
     },
     {
       "added_at": "2023-03-13 08:40:51",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-13 08:40:51",
       "album": {
-        "name": "\u6efe\u77f3\u9999\u6e2f\u9ec3\u91d1\u5341\u5e74-\u4efb\u8ce2\u9f4a\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL"
-      },
-      "artists": [
-        {
-          "name": "Richie Jen",
-          "url": "https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "\u5c0d\u9762\u7684\u5973\u5b69\u770b\u904e\u4f86",
-      "url": "https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg"
-    },
-    {
-      "added_at": "2023-03-13 08:40:51",
-      "album": {
         "name": "\u5728\u6211\u5011\u7684\u661f\u7403\u773c\u6dda\u4e0d\u8d85\u904e\u4e09\u79d2",
         "url": "https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 209786,
       "name": "\u5728\u6211\u5011\u7684\u661f\u7403\u773c\u6dda\u4e0d\u8d85\u904e\u4e09\u79d2",
       "url": "https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy"
+    },
+    {
+      "added_at": "2023-03-13 08:40:51",
+      "album": {
+        "name": "\u6efe\u77f3\u9999\u6e2f\u9ec3\u91d1\u5341\u5e74-\u4efb\u8ce2\u9f4a\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL"
+      },
+      "artists": [
+        {
+          "name": "Richie Jen",
+          "url": "https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "\u5c0d\u9762\u7684\u5973\u5b69\u770b\u904e\u4f86",
+      "url": "https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg"
     },
     {
       "added_at": "2023-03-13 08:40:51",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-03-13 08:40:51",
       "album": {
-        "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 (HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2)",
-        "url": "https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t"
+        "name": "\u5929\u6c14\u9884\u62a5",
+        "url": "https://open.spotify.com/album/6UusQKiwOoG9pUQZkzUpGA"
       },
       "artists": [
         {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+          "name": "Cindy\u5927\u87e0\u6843\u5b50",
+          "url": "https://open.spotify.com/artist/4smFNl33CX73ssmIQk8PqI"
         }
       ],
-      "duration_ms": 204291,
-      "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 - HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2",
-      "url": "https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y"
+      "duration_ms": 171639,
+      "name": "\u5929\u6c14\u9884\u62a5",
+      "url": "https://open.spotify.com/track/50SGE9aLTkKSDrItBB2Ob4"
     },
     {
       "added_at": "2023-03-13 08:40:51",
@@ -1199,34 +1199,18 @@
     {
       "added_at": "2023-03-13 08:40:51",
       "album": {
-        "name": "\u5929\u6c14\u9884\u62a5",
-        "url": "https://open.spotify.com/album/6UusQKiwOoG9pUQZkzUpGA"
+        "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 (HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2)",
+        "url": "https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t"
       },
       "artists": [
         {
-          "name": "Cindy\u5927\u87e0\u6843\u5b50",
-          "url": "https://open.spotify.com/artist/4smFNl33CX73ssmIQk8PqI"
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
         }
       ],
-      "duration_ms": 171639,
-      "name": "\u5929\u6c14\u9884\u62a5",
-      "url": "https://open.spotify.com/track/50SGE9aLTkKSDrItBB2Ob4"
-    },
-    {
-      "added_at": "2023-03-13 08:40:51",
-      "album": {
-        "name": "\u6211\u8981\u62b1\u7740\u4f60",
-        "url": "https://open.spotify.com/album/6osbNpRabdMYaHr9Vux8aR"
-      },
-      "artists": [
-        {
-          "name": "\u8d3a\u5b50\u73b2",
-          "url": "https://open.spotify.com/artist/6zX8snAvqQTiIVrbh946vt"
-        }
-      ],
-      "duration_ms": 199591,
-      "name": "\u6211\u8981\u62b1\u7740\u4f60",
-      "url": "https://open.spotify.com/track/6dgSlOAIjBmXyDjNBlNFLk"
+      "duration_ms": 204291,
+      "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 - HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2",
+      "url": "https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y"
     },
     {
       "added_at": "2023-03-13 08:40:51",
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-03-13 08:40:51",
       "album": {
-        "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
-        "url": "https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF"
+        "name": "\u6211\u8981\u62b1\u7740\u4f60",
+        "url": "https://open.spotify.com/album/6osbNpRabdMYaHr9Vux8aR"
       },
       "artists": [
         {
-          "name": "\u7126\u9081\u5947",
-          "url": "https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH"
+          "name": "\u8d3a\u5b50\u73b2",
+          "url": "https://open.spotify.com/artist/6zX8snAvqQTiIVrbh946vt"
         }
       ],
-      "duration_ms": 250857,
-      "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
-      "url": "https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz"
+      "duration_ms": 199591,
+      "name": "\u6211\u8981\u62b1\u7740\u4f60",
+      "url": "https://open.spotify.com/track/6dgSlOAIjBmXyDjNBlNFLk"
     },
     {
       "added_at": "2023-03-13 08:40:51",
@@ -1283,22 +1267,38 @@
     {
       "added_at": "2023-03-13 08:40:51",
       "album": {
-        "name": "Gentle Bones",
-        "url": "https://open.spotify.com/album/4BEjRqKkO7zvPO6GXCDcIM"
+        "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
+        "url": "https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        },
-        {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+          "name": "\u7126\u9081\u5947",
+          "url": "https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH"
         }
       ],
-      "duration_ms": 144846,
-      "name": "\u4e00\u5929\u52a0\u9ede\u611b (feat. Karencici)",
-      "url": "https://open.spotify.com/track/0yuyPYhkkHYlBKwrPi6MZk"
+      "duration_ms": 250857,
+      "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
+      "url": "https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz"
+    },
+    {
+      "added_at": "2023-03-13 08:40:51",
+      "album": {
+        "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        },
+        {
+          "name": "Xiao Yu",
+          "url": "https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA"
+        }
+      ],
+      "duration_ms": 273950,
+      "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

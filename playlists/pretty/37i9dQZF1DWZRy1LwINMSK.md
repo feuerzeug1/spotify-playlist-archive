@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Julianno Sosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,531 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,634 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 79 | [Ando en Un Makinon](https://open.spotify.com/track/33SWIXYKpg0ZSwRQIVPu0S) | [Lil Geremi](https://open.spotify.com/artist/3nHsN7Leho58wo1RveLfzZ) | [Ando en Un Makinon](https://open.spotify.com/album/2AI7oCqG0otXcvTc5dKjBC) | 2:45 |
 | 80 | [Aborrecio](https://open.spotify.com/track/3ADriUpeN2lGE8tfcAr1oP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Nikxz](https://open.spotify.com/artist/1hQJhlI1r2oa893f8N6wcg) | [Aborrecio](https://open.spotify.com/album/3mvr64wBs7lsr2jwzwlWKR) | 4:02 |
 | 81 | [MaMa](https://open.spotify.com/track/3bOawk8qClklX3sEhefu96) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [SIN PRONTUARIO](https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx) | 2:24 |
-| 82 | [Blue V2](https://open.spotify.com/track/0EbqWgge7ZFah2OWg7zMcT) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/5At4juaXQVGzBMhRwMQ2Co) | 2:24 |
+| 82 | [Blue V2](https://open.spotify.com/track/3AOhQ6KDL6CY19qw2D0aOR) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/3VNVRVg1cYW4U7wIB03o7P) | 2:24 |
 | 83 | [Surprise \(feat\. Polimá Westcoast\)](https://open.spotify.com/track/4CFCEImu0SbRkH4WaFFK6H) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Surprise \(feat\. Polimá Westcoast\)](https://open.spotify.com/album/5IliKcYtvrJx1tuVN7b8KP) | 3:34 |
 | 84 | [Instinto](https://open.spotify.com/track/2AK5fEIhlG6Od3P3gPxtZP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Instinto](https://open.spotify.com/album/5c5huROnywDnMjJhSr2vIh) | 2:34 |
 | 85 | [Make It, Booty Clap](https://open.spotify.com/track/1QlIbbjXAkUJ9uihQEA3aw) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [Make It, Booty Clap](https://open.spotify.com/album/3seCCQys8oPrvOlfDVakP7) | 2:40 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 89 | [Juegos de Matel \(feat\. El Menor y El Barto\)](https://open.spotify.com/track/6vdBpuktDTX4Y7JPAxgTNF) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [El Menor](https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Juegos de Matel \(feat\. El Menor y El Barto\)](https://open.spotify.com/album/6N3LPbmSG9D6Of82jugIPN) | 3:59 |
 | 90 | [Te Vas](https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [L.O.V.E.](https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I) | 1:58 |
 
-Snapshot ID: `MTY3ODQxNzIwMCwwMDAwMDAwMDVlZGU3ZTc5ZGQ4MjQ3NjZiMTAxNGRjZDc2YjM4MDQy`
+Snapshot ID: `MTY3ODQxNzIwMCwwMDAwMDAwMDg5MDY2OWM2MjdmYTNhZmE4MGFhNmI3OWNlNDIxZTc0`

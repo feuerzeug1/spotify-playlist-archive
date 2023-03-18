@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Ana Andrzejewska \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,379 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,381 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 33 | [Małe białe kółko](https://open.spotify.com/track/6TxwEvp74SsgW7jbjLXfKa) | [Dorośli](https://open.spotify.com/artist/2Q3KG5vxKeQvV906XhcjtN) | [Małe białe kółko](https://open.spotify.com/album/5pN5jK2OvJrfVTBQ1PW7vA) | 3:18 |
 | 34 | [Pozory](https://open.spotify.com/track/5R3l7YffMQoTjGYsVpSUvI) | [Sandra Mika](https://open.spotify.com/artist/1dMHer5zjPgHylBGcYVkB0) | [Pozory](https://open.spotify.com/album/1Yoy3aslWzrlPc6hAB3BIZ) | 3:21 |
 | 35 | [Niedozobaczenia](https://open.spotify.com/track/2GFGNk14vyWUH37eMABDef) | [WASABI](https://open.spotify.com/artist/1QxIlFrNIgR1H1p2d3ML6t) | [Niedozobaczenia](https://open.spotify.com/album/2Zzs1FWgJrvrXrWkhNlbSu) | 2:58 |
-| 36 | [Plaża POLAROID](https://open.spotify.com/track/4xaN6nVv83vM5i8Nia940O) | [TEN TONYE](https://open.spotify.com/artist/1uUB3v1D4cFV9P2KB7DivA), [smxk](https://open.spotify.com/artist/5WcSfXZgCbrZM1VyT46KwW) | [Plaża POLAROID](https://open.spotify.com/album/7y9mfqbtBp1A19PJUshv0Y) | 3:38 |
+| 36 | [Plaża POLAROID](https://open.spotify.com/track/4xaN6nVv83vM5i8Nia940O) | [TEN TONYE](https://open.spotify.com/artist/1uUB3v1D4cFV9P2KB7DivA), [Mori Flore](https://open.spotify.com/artist/4oUH0jd3TAxfusGNIF1J3C) | [Plaża POLAROID](https://open.spotify.com/album/7y9mfqbtBp1A19PJUshv0Y) | 3:38 |
 | 37 | [Po 12](https://open.spotify.com/track/1uz3rhcQzL8TubTUu0x31P) | [AVEIRA](https://open.spotify.com/artist/43svwgNCwnxmv3rVRadlhh) | [Po 12](https://open.spotify.com/album/5a5KsZt1g8UIgmRqwUVlTq) | 2:49 |
 | 38 | [booth](https://open.spotify.com/track/6ZM7k71ZcoEBqaIM4wN71a) | [emxs](https://open.spotify.com/artist/4jVLEMYFTbRudXI8gpqICo) | [booth](https://open.spotify.com/album/413qPnyeHULyFKFTRvxsGa) | 2:27 |
 | 39 | [TO CO JARA MNIE](https://open.spotify.com/track/2OsfFbIrC5EIw6ok1Pm92s) | [PePe](https://open.spotify.com/artist/662mYqK8NSv9h2bHVPMw2T) | [TO CO JARA MNIE](https://open.spotify.com/album/002vMmTlw7XrnQ0MzfNFiD) | 3:16 |

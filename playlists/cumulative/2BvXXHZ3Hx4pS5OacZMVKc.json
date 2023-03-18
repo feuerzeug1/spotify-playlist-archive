@@ -1839,6 +1839,28 @@
     },
     {
       "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/4ZF80hXHTGvFwFDa9wyOIL"
+      },
+      "artists": [
+        {
+          "name": "Cesqeaux",
+          "url": "https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/5J5lXkB6oycwehvBJBmaUc"
+    },
+    {
+      "album": {
         "name": "Give Up On You",
         "url": "https://open.spotify.com/album/3fWEMGfQhcEp7rm0A2V5Ni"
       },
@@ -3586,6 +3608,24 @@
       "duration_ms": 150476,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3IyziM0cSPmHfTLH3dB8Dw"
+    },
+    {
+      "album": {
+        "name": "PSYCHOPATHIC",
+        "url": "https://open.spotify.com/album/4vnHN3hA7BbQ7KUAafUG03"
+      },
+      "artists": [
+        {
+          "name": "ANGELPLAYA",
+          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148969,
+      "name": "PSYCHOPATHIC",
+      "url": "https://open.spotify.com/track/4AnxczKtQaEjTO4fQpOdXd"
     },
     {
       "album": {

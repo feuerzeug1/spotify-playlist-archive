@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 156235,
       "name": "(incontrolable)",
       "url": "https://open.spotify.com/track/5fpiMcL81I9166vrKkKTBJ"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Corazon de Tango",
       "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 212019,
       "name": "La Reina del Adi\u00f3s",
       "url": "https://open.spotify.com/track/0Kxc35nEHZ4G42YFcvvzL1"
@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 294200,
       "name": "Palabras Para Julia",
       "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 400480,
       "name": "Por verte sonre\u00edr",
       "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
@@ -3524,7 +3524,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 215831,
       "name": "P\u00e1jaros de Desv\u00e1n",
       "url": "https://open.spotify.com/track/3zCKtvltc5c52y7ARFSJ2N"
@@ -3886,7 +3886,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 391139,
       "name": "Sin Soluci\u00f3n",
       "url": "https://open.spotify.com/track/5tKWCX8jm8Bms1tCRtgGxz"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 296400,
       "name": "Todo Tiene Su Fin",
       "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
@@ -4110,7 +4110,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 142923,
       "name": "Todos los peligros me conocen",
       "url": "https://open.spotify.com/track/4oNQQtQ8NPMaesW2dQiXp8"
@@ -4222,6 +4222,28 @@
       "duration_ms": 259918,
       "name": "Una Noche Sin Ti",
       "url": "https://open.spotify.com/track/3oUITstGqQVTlFyF32H1Un"
+    },
+    {
+      "album": {
+        "name": "Urgente",
+        "url": "https://open.spotify.com/album/67ni11vAsCYVVuZgPkeigJ"
+      },
+      "artists": [
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        },
+        {
+          "name": "DePedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259489,
+      "name": "Urgente",
+      "url": "https://open.spotify.com/track/6skMg3jxXmP2rYp5k7IIcY"
     },
     {
       "album": {

@@ -1046,10 +1046,32 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 222500,
       "name": "Each Other",
       "url": "https://open.spotify.com/track/1UxoikqGrtU13hhUWdK9IW"
+    },
+    {
+      "album": {
+        "name": "You Will Be Fine",
+        "url": "https://open.spotify.com/album/6ufZebDKqcDJfQyMkkDh9z"
+      },
+      "artists": [
+        {
+          "name": "SIROJ",
+          "url": "https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv"
+        },
+        {
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Each Other",
+      "url": "https://open.spotify.com/track/5527KNwYQWSlCO2xvNZuYl"
     },
     {
       "album": {
@@ -4112,6 +4134,28 @@
       "duration_ms": 198437,
       "name": "Summer Blues",
       "url": "https://open.spotify.com/track/71mrqChmbDeuUARpuT3SdV"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209060,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1"
     },
     {
       "album": {

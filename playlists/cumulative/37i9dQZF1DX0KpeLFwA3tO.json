@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Sleaford Mods",
+  "description": "The best new music from the wide world of punk. Cover: Magnolia Park",
   "name": "All New Punk",
   "tracks": [
     {
@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197660,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
+    },
+    {
+      "album": {
         "name": "ALL ALONE",
         "url": "https://open.spotify.com/album/1xG0E0EfVuY6TSceHEPoEc"
       },
@@ -900,8 +918,8 @@
       },
       "artists": [
         {
-          "name": "\u30cb\u30fc\u30cf\u30aa!!!!",
-          "url": "https://open.spotify.com/artist/1B0p5xXIIfJNKC5rzbN3To"
+          "name": "ni-hao!!!!",
+          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
         }
       ],
       "date_added": "2023-03-10",
@@ -978,7 +996,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 201320,
       "name": "Are We Still Alive?",
       "url": "https://open.spotify.com/track/5RHMsPHn8wi5XQeIUX8tge"
@@ -1326,6 +1344,24 @@
       "duration_ms": 182580,
       "name": "Bad Influence",
       "url": "https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8"
+    },
+    {
+      "album": {
+        "name": "The Blue EP",
+        "url": "https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215147,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq"
     },
     {
       "album": {
@@ -1998,7 +2034,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 240002,
       "name": "Bookie's Dirtbag",
       "url": "https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx"
@@ -2417,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194227,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR"
+    },
+    {
+      "album": {
         "name": "Can We Stop Trying to Win?",
         "url": "https://open.spotify.com/album/3Q8gE5VrnQ8Pqp680pRl0M"
       },
@@ -2584,7 +2638,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
@@ -3092,7 +3146,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 189072,
       "name": "Cool Blue",
       "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
@@ -3424,7 +3478,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 169045,
       "name": "Dark Blue",
       "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
@@ -3450,6 +3504,24 @@
       "duration_ms": 119215,
       "name": "Date With Death",
       "url": "https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU"
+    },
+    {
+      "album": {
+        "name": "Daylight Robbery",
+        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
+      },
+      "artists": [
+        {
+          "name": "Boy Bleach",
+          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "Daylight Robbery",
+      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
     },
     {
       "album": {
@@ -4476,7 +4548,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 178613,
       "name": "End of The Line",
       "url": "https://open.spotify.com/track/1bm2iagFnM4GmXJUrDlK85"
@@ -4708,6 +4780,24 @@
       "duration_ms": 240533,
       "name": "F.L.F.U.",
       "url": "https://open.spotify.com/track/2Vh5khmfrno2b4kZNcyEi5"
+    },
+    {
+      "album": {
+        "name": "Facedown",
+        "url": "https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151268,
+      "name": "Facedown",
+      "url": "https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO"
     },
     {
       "album": {
@@ -5180,6 +5270,24 @@
       "duration_ms": 229868,
       "name": "Found",
       "url": "https://open.spotify.com/track/5otlV876xC9h8VjfBHgb0g"
+    },
+    {
+      "album": {
+        "name": "Freak of Nature",
+        "url": "https://open.spotify.com/album/7cZIfS1Hgfj7VZNpxSdh0I"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202889,
+      "name": "Freak Of Nature",
+      "url": "https://open.spotify.com/track/7pSVMU67bsp5tw70GTssYO"
     },
     {
       "album": {
@@ -6178,7 +6286,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 154285,
       "name": "happy",
       "url": "https://open.spotify.com/track/0WU4mmKKbJBlokqfwUvGHv"
@@ -6767,6 +6875,24 @@
     },
     {
       "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/1DUB2TNAvBF8WMBvd2kUdr"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kruger & The Lost Boys",
+          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286160,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/1eRAZZelizJPQkksU0oEux"
+    },
+    {
+      "album": {
         "name": "hurricane",
         "url": "https://open.spotify.com/album/6KrlbTeMwlqpaH0aAA18bW"
       },
@@ -7070,7 +7196,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 197819,
       "name": "I Think I Might Be Weird",
       "url": "https://open.spotify.com/track/36iHfsPrF4D3pcZJQfXeya"
@@ -7474,7 +7600,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 283187,
       "name": "It Ain't Enough",
       "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
@@ -8012,6 +8138,24 @@
       "duration_ms": 147186,
       "name": "Kind Love",
       "url": "https://open.spotify.com/track/0geKAq5A4DXDiOmDtiGKL4"
+    },
+    {
+      "album": {
+        "name": "Klepto",
+        "url": "https://open.spotify.com/album/2HbuKoMJopqTTcsIWfL8R6"
+      },
+      "artists": [
+        {
+          "name": "Ultra Q",
+          "url": "https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174080,
+      "name": "Klepto",
+      "url": "https://open.spotify.com/track/21vQOaYR054uPJgsmBFgsd"
     },
     {
       "album": {
@@ -9008,6 +9152,32 @@
       "duration_ms": 144493,
       "name": "Lucky Tiger",
       "url": "https://open.spotify.com/track/6t1EdtEDYhXnGi8rBnnxJ6"
+    },
+    {
+      "album": {
+        "name": "MADHATTAN",
+        "url": "https://open.spotify.com/album/4l9rowUxTu47lnDjI8TDs8"
+      },
+      "artists": [
+        {
+          "name": "Punkband",
+          "url": "https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos"
+        },
+        {
+          "name": "The OBGMs",
+          "url": "https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI"
+        },
+        {
+          "name": "DENZ JUNIOR",
+          "url": "https://open.spotify.com/artist/6hiy2sLG05CnoB3Kv7Qeox"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119333,
+      "name": "MADHATTAN",
+      "url": "https://open.spotify.com/track/7kGuKjgZvyPTJKwHgnvPw5"
     },
     {
       "album": {
@@ -11695,6 +11865,24 @@
     },
     {
       "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/3IO5mTpE7yvDazc5JrFz21"
+      },
+      "artists": [
+        {
+          "name": "Attic Stories",
+          "url": "https://open.spotify.com/artist/6WLBHcOEiXfOt5mrREFth2"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218319,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/4t2UN0fnbOyWc3cDb5OF1S"
+    },
+    {
+      "album": {
         "name": "Psychic Jailbreak",
         "url": "https://open.spotify.com/album/7F6T5FVHm85JoyTLeEqoLh"
       },
@@ -11710,6 +11898,24 @@
       "duration_ms": 184186,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/2g6620bsDen0mF2akn1Nmm"
+    },
+    {
+      "album": {
+        "name": "RADIATION",
+        "url": "https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144238,
+      "name": "RADIATION",
+      "url": "https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p"
     },
     {
       "album": {
@@ -12027,6 +12233,24 @@
     },
     {
       "album": {
+        "name": "Machine Like Me",
+        "url": "https://open.spotify.com/album/4x2GpmhAYeqG0kQ6mkHt76"
+      },
+      "artists": [
+        {
+          "name": "Nuha Ruby Ra",
+          "url": "https://open.spotify.com/artist/6tqTRVcajCVWmibmempM9m"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339120,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/4tHLpL9O5fxa2scH2yXNvb"
+    },
+    {
+      "album": {
         "name": "Rituals",
         "url": "https://open.spotify.com/album/1QdOWZwkFlhorkyuaTarf4"
       },
@@ -12118,6 +12342,24 @@
       "duration_ms": 199198,
       "name": "Ruin My Life (feat. Deryck Whibley)",
       "url": "https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH"
+    },
+    {
+      "album": {
+        "name": "Head Shrunk / Sad Dumb Game",
+        "url": "https://open.spotify.com/album/7ikoCgdYh59PwvS3T1BliZ"
+      },
+      "artists": [
+        {
+          "name": "Single Mothers",
+          "url": "https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Sad Dumb Game",
+      "url": "https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD"
     },
     {
       "album": {
@@ -13086,7 +13328,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 231968,
       "name": "Six-Pack",
       "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
@@ -13282,6 +13524,24 @@
       "duration_ms": 187029,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/0TE9FwyzhIIfJPWwysf31s"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/6iSuKcWNLHhSgiTBJutDsN"
+      },
+      "artists": [
+        {
+          "name": "Samiam",
+          "url": "https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151733,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/2HbrIFwmGjKDI2sRaA64hx"
     },
     {
       "album": {
@@ -13971,6 +14231,28 @@
     },
     {
       "album": {
+        "name": "Swerve (Rockzilla Remix)",
+        "url": "https://open.spotify.com/album/0EXIrUBZVRPGOxPY43AUfA"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167831,
+      "name": "Swerve - Rockzilla Remix",
+      "url": "https://open.spotify.com/track/2nUicn7YuS1bo2DqgELtj0"
+    },
+    {
+      "album": {
         "name": "Swing (In A Dream)",
         "url": "https://open.spotify.com/album/1uSQuGB8cvILkiYZzrH3IT"
       },
@@ -14358,7 +14640,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 155562,
       "name": "Tell Me I\u2019m Alive",
       "url": "https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt"
@@ -15052,7 +15334,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 166022,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/4e7SS7u3ejEiQsbY7X59n1"
@@ -15294,7 +15576,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 141671,
       "name": "Tom in 03",
       "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
@@ -15670,7 +15952,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 203746,
       "name": "Uncertain Joys",
       "url": "https://open.spotify.com/track/27yMT64bCRQwD5hsLFd7ks"
@@ -16424,7 +16706,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 146594,
       "name": "WHITE FLAG",
       "url": "https://open.spotify.com/track/76RnmXcVhLlQQaxL3NfLIe"

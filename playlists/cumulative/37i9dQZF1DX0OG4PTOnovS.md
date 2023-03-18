@@ -4,7 +4,7 @@
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-69 songs - 4 hr 2 min
+70 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [How Great Is Our God](https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 4:00 | 2021-12-17 |  |
 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:06 | 2021-12-17 |  |
 | [I Give You My Hallelujah](https://open.spotify.com/track/6vomjYKQDMDa4rssVj60iK) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Can You Believe It!?](https://open.spotify.com/album/1fsVpCIerFhDqPnwQEABi0) | 3:12 | 2021-12-17 |  |
+| [I've Got the Joy, Joy, Joy, Joy, Down in My Heart](https://open.spotify.com/track/5DHpa8AgOCpGwijMCSxzxc) | [Music For All](https://open.spotify.com/artist/7csP0c8NuKpoJSAeMOT8rI) | [I've Got the Joy, Joy, Joy, Joy, Down in My Heart](https://open.spotify.com/album/4I6sg7EnrmVCNg7ZNpZr1R) | 1:41 | 2023-03-17 |  |
 | [It All Starts In My Brain](https://open.spotify.com/track/0SOaCOYoYn4mBy4NUSCpSe) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF), [Funny Man Dan](https://open.spotify.com/artist/5GbgoLqaCZMn0AKHMbc6sJ) | [Songs Of Some Silliness](https://open.spotify.com/album/5mv36wjykVxgYKblk2KLRJ) | 1:37 | 2021-12-17 |  |
 | [Jesus Loves Me](https://open.spotify.com/track/29YSih94JCET2h8VCiWK4J) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 4:00 | 2021-12-17 |  |
 | [Jesus Loves Me Remix](https://open.spotify.com/track/5cXkFiTkIoYav8aRyfbzIT) | [Orange Kids Music](https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu) | [Jesus Loves Me Remix](https://open.spotify.com/album/0cGGD6Uu584X695dsiUANu) | 2:07 | 2021-12-17 |  |

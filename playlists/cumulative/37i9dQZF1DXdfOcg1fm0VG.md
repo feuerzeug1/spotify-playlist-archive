@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-144 songs - 8 hr 18 min
+145 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Préludes / Book 1, L\. 117 \- Arr\. Dan Golding: Minstrels](https://open.spotify.com/track/5PjcWKOgKS9eclq2J0uJV5) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Dan Golding](https://open.spotify.com/artist/6yL1j20yrcLtfc8Fb9a4hM) | [Untitled Goose Game \(Original Soundtrack\)](https://open.spotify.com/album/7y8Ihc6D0V71csR3xP8uAj) | 2:27 | 2021-12-15 | 2022-03-15 |
 | [Quiet Water](https://open.spotify.com/track/0gt76DuMx7F3UZJPg7jcC5) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:32 | 2023-03-14 |  |
 | [Rift Apart](https://open.spotify.com/track/4MJ5RyJXc0COLaoeBxvgpw) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb), [Wataru Hokoyama](https://open.spotify.com/artist/6UZmaOjwzTSWYflEx9LFX6) | [Ratchet & Clank: Rift Apart \(Original Soundtrack\)](https://open.spotify.com/album/4Dq65Lwt50IB0eAKuT10nC) | 3:19 | 2021-12-15 |  |
+| [Ryas' Theme](https://open.spotify.com/track/7Aob4PraD6KWsJX7KB6gkm) | [Alistair Kerley](https://open.spotify.com/artist/34ABTloDcLIblFcNvro2S0) | [Horizon Call of the Mountain \(Official Soundtrack\)](https://open.spotify.com/album/45yWDK1rkyOp7B2l7zgFvt) | 3:32 | 2023-03-17 |  |
 | [Saber's Edge \(Final Fantasy XIII\)](https://open.spotify.com/track/6yt8SuNkqup43idePXmKt2) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds V: More Music from Final Fantasy](https://open.spotify.com/album/2GsWyD8lhE7lOjRSbqQPLD) | 4:15 | 2021-12-15 | 2022-07-16 |
 | [Save Room](https://open.spotify.com/track/3zudlPMpi7uCXuaAQiyd9D) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 0:41 | 2021-12-15 |  |
 | [Shadow of the Colossus®](https://open.spotify.com/track/7azgc6j5E6XhEDAfwW3Zrr) | [Video Games Live](https://open.spotify.com/artist/6dZAVi5PugDwlAnH8KMEGl) | [Level 3](https://open.spotify.com/album/2KHrrZCAkI8HOIJpOqLzET) | 3:02 | 2021-12-15 |  |

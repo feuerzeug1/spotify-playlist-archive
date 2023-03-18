@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 
 > A playlist for your Arab hipster starter kit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,762 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,904 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 32 | [Bisaraha](https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 4:13 |
 | 33 | [El Bahr Azra](https://open.spotify.com/track/5qVUVHTb3sUpCaE8UTKJ6s) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 5:58 |
 | 34 | [Al Hadaoui](https://open.spotify.com/track/6mqaAZrhthluQssopSQcNm) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/7Kr00uukmurII2uV76igym) | 4:03 |
-| 35 | [El Donia Risha F Hawa](https://open.spotify.com/track/5zPaNHm3D7H4k6CnMM1EUD) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Sherine Abdo](https://open.spotify.com/artist/4iDYjt667N6FZQVkT4WSZf) | [El Donia Risha F Hawa](https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5) | 3:05 |
-| 36 | [Gonon El Desco](https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI) | [Ezzat Abou Ouf](https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN) | [Gonon El Desco](https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3) | 4:01 |
+| 35 | [Gonon El Desco](https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI) | [Ezzat Abou Ouf](https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN) | [Gonon El Desco](https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3) | 4:01 |
+| 36 | [El Donia Risha F Hawa](https://open.spotify.com/track/5zPaNHm3D7H4k6CnMM1EUD) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Sherine Abdo](https://open.spotify.com/artist/4iDYjt667N6FZQVkT4WSZf) | [El Donia Risha F Hawa](https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5) | 3:05 |
 | 37 | [Al Mursal \(The Messenger\)](https://open.spotify.com/track/30QMkmrxQGVuTtPqPOFihu) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 11:35 |
 | 38 | [Asef Gedan](https://open.spotify.com/track/0a8tkQX6eTRl01NrT9AonE) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 4:05 |
 | 39 | [Eujoaideen](https://open.spotify.com/track/5kFQG6TjztZKpfeiNEpH1a) | [The Scorpios](https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe) | [The Scorpios](https://open.spotify.com/album/6UstlaUrqOXYkcqwfmFRG4) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 49 | [Mashena](https://open.spotify.com/track/5Fzmt3N3XnD3VhRE3XuQ6U) | [The Scorpios](https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe) | [Mashena](https://open.spotify.com/album/4X7Qt6Q6GudCAPGwycE6nt) | 3:09 |
 | 50 | [Albaki](https://open.spotify.com/track/1Ug0d2vHuOUL08MLZSMu8h) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/7Kr00uukmurII2uV76igym) | 7:06 |
 
-Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMDU2NDMzZDllZjk0MWY0YjE4NGM1MGM1MDIwODc1ZmJh`
+Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMGRlYzA2ZWQ5MjIzNGM4ZTg2YTFhMWYwZTU3ZWVkMGUy`

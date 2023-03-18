@@ -4,7 +4,7 @@
 
 > Re\-live the glory of Ambient from the 1990s.
 
-85 songs - 8 hr 24 min
+87 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Elemental Trigger](https://open.spotify.com/track/0DiCvcIVLY6QFywmplnFM6) | [B\. Lustmord](https://open.spotify.com/artist/017eqDZ4BqpQBzNvrs9TJJ), [Robert Rich](https://open.spotify.com/artist/3ux92I3CgfnhgLyYNsXIwZ) | [Stalker](https://open.spotify.com/album/5ahSHZWxt6rDEqBc3oF3Eh) | 6:07 | 2021-12-23 |  |
 | [Endless Summer NAMM](https://open.spotify.com/track/1BvQgJUVl1hw3oLoK11X7o) | [Microstoria](https://open.spotify.com/artist/37vFoBr4FfZLnc7JbxN4e2) | [Snd](https://open.spotify.com/album/26qXjNdhGYTrclXu7PbvKu) | 4:39 | 2021-12-23 | 2022-03-11 |
 | [Falling Away](https://open.spotify.com/track/0IFgqqaHpBDTcHFBA43z6G) | [Jeff Greinke](https://open.spotify.com/artist/3g94tTUOoqf4IweFjbAA30) | [Lost Terrain](https://open.spotify.com/album/2ByS4Re6ViTadx6HsPaPx5) | 7:03 | 2021-12-23 |  |
+| [Farger Rundt Hvitt](https://open.spotify.com/track/5ua8A3ILQrxxset2jOJhle) | [Phonophani](https://open.spotify.com/artist/5CaaxBjVUCIg3mTwOyfQMW) | [Phonophani](https://open.spotify.com/album/4UJHCHLHkTkZ8JORmO0HYQ) | 4:18 | 2023-03-17 |  |
 | [Garden Recalled](https://open.spotify.com/track/0gpKR0EMqUvz9IHe2coSwj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Spinner](https://open.spotify.com/album/2Vknz1aNeu8ntZdTxwHZyo) | 3:21 | 2022-12-30 |  |
 | [Garden Recalled](https://open.spotify.com/track/2pGkBtX5wp67XM8RqU77ar) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Spinner \[Expanded Edition\]](https://open.spotify.com/album/7JQTEkhfjqaiQuRl4hYb5W) | 3:21 | 2021-12-23 | 2023-02-02 |
 | [Hagoromo](https://open.spotify.com/track/1OAauBqF32EtJHTVsd12Zv) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 3:52 | 2021-12-23 |  |
@@ -48,11 +49,12 @@
 | [Joyriding III](https://open.spotify.com/track/6iArrdSIfnOT7PA7ohxdqZ) | [Bedouin Ascent](https://open.spotify.com/artist/69rm1lAHokysa2NBh4ZwV0) | [Virtual Dreams: Ambient Explorations In The House & Techno Age, 1993\-1997](https://open.spotify.com/album/11GgRVmpjBJNVRPjNPQQTQ) | 2:00 | 2021-12-23 |  |
 | [Königsforst 4](https://open.spotify.com/track/5MuALdhNK3zg1u8nvrMPv7) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Königsforst](https://open.spotify.com/album/250sWScTPsQKWAY9s7Oufy) | 6:30 | 2021-12-23 |  |
 | [Laika](https://open.spotify.com/track/7zFv2VmCMIQR2S9bTJ5KEY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 14:34 | 2021-12-23 |  |
+| [Landscape of Watermill](https://open.spotify.com/track/53hib0jvi2IwcrHuOJPgG2) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Gaia](https://open.spotify.com/album/1w0K1wopsGPYTArqdmilZe) | 3:29 | 2023-03-17 |  |
 | [Lanzarote](https://open.spotify.com/track/328Dtn2EjoTCPuULdZGmod) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 8:39 | 2021-12-23 | 2023-02-02 |
 | [Lanzarote](https://open.spotify.com/track/4m3PCeereQNS2gm7jGiS1P) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 8:39 | 2022-12-30 |  |
 | [Longing for Daydreams](https://open.spotify.com/track/0lPoWjJaNfHm16girMZV7v) | [Holger Czukay](https://open.spotify.com/artist/58nPlJ5CNYu0nGLOuE1Uuk) | [Moving Pictures](https://open.spotify.com/album/2e8sm7FQGeZYHWEUVS5SbY) | 5:22 | 2022-05-27 |  |
 | [Longing for Daydreams](https://open.spotify.com/track/3eMaSyw62uUrKDO9OvvDPK) | [Holger Czukay](https://open.spotify.com/artist/58nPlJ5CNYu0nGLOuE1Uuk) | [Moving Pictures](https://open.spotify.com/album/4gfW4tGcxI80enNnTt1JBz) | 5:22 | 2021-12-23 | 2022-07-29 |
-| [Love Theme from Twin Peaks \- Instrumental](https://open.spotify.com/track/6WSB31O8sxrhly3HNfOEzF) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Soundtrack From Twin Peaks](https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX) | 5:04 | 2021-12-23 |  |
+| [Love Theme from Twin Peaks \- Instrumental](https://open.spotify.com/track/6WSB31O8sxrhly3HNfOEzF) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Soundtrack From Twin Peaks](https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX) | 5:04 | 2021-12-23 | 2023-03-18 |
 | [Lullaby](https://open.spotify.com/track/4AeNCT0EyQjqpG40qP84sW) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu), [Tim Floyd](https://open.spotify.com/artist/6kq8fkuEqOfcqZhUHa69KG) | [Drift](https://open.spotify.com/album/1ZP8ZRPWDYfj6aGWtJua11) | 6:53 | 2021-12-23 |  |
 | [Madison](https://open.spotify.com/track/5Btgc68US7H8c9AWGaWyo5) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [Music for Nitrous Oxide](https://open.spotify.com/album/0M1g1pY65GnVJSV7uJs43Y) | 9:28 | 2021-12-23 |  |
 | [Manunkind](https://open.spotify.com/track/09RfsvgnYdiYXLS1QwE6x6) | [Coil](https://open.spotify.com/artist/37KB5e6cGsN1AQAB9Omm1U) | [ELpH vs Coil : Worship The Glitch](https://open.spotify.com/album/0kvYAjnNNXi3i94abGZq73) | 1:23 | 2021-12-23 | 2022-07-29 |
@@ -63,7 +65,7 @@
 | [Night Devotion](https://open.spotify.com/track/5elyZ0NvsnePQ2bHzZHbjn) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Suspended Memories](https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6), [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Forgotten Gods](https://open.spotify.com/album/5zHP5vjdv8V7bUYKW7w9zW) | 8:51 | 2021-12-23 |  |
 | [Night\-Blooming](https://open.spotify.com/track/1E3bvx82Sy1im1UyWX1uel) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/6Hv4N99ZepwCn74FU6L4Ie) | 8:28 | 2021-12-23 |  |
 | [Opening](https://open.spotify.com/track/7zlQOoectwIdD96oPLDveN) | [A Produce](https://open.spotify.com/artist/0BtlYa6Mov8Ike1JmPE1dt) | [Reflect Like A Mirror, Respond Like An Echo](https://open.spotify.com/album/5xecJxSkuzwT2DruccuBIN) | 2:30 | 2021-12-23 |  |
-| [Order of Disappearance](https://open.spotify.com/track/2P5sl2JH1eLdWJVdTScoQO) | [Phonophani](https://open.spotify.com/artist/5CaaxBjVUCIg3mTwOyfQMW) | [Phonophani](https://open.spotify.com/album/4UJHCHLHkTkZ8JORmO0HYQ) | 5:09 | 2021-12-23 |  |
+| [Order of Disappearance](https://open.spotify.com/track/2P5sl2JH1eLdWJVdTScoQO) | [Phonophani](https://open.spotify.com/artist/5CaaxBjVUCIg3mTwOyfQMW) | [Phonophani](https://open.spotify.com/album/4UJHCHLHkTkZ8JORmO0HYQ) | 5:09 | 2021-12-23 | 2023-03-18 |
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2021-12-23 |  |
 | [Phaze](https://open.spotify.com/track/6BA4U2AJ2So49LRolXPuLI) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu), [Tim Floyd](https://open.spotify.com/artist/6kq8fkuEqOfcqZhUHa69KG) | [Drift](https://open.spotify.com/album/1ZP8ZRPWDYfj6aGWtJua11) | 1:30 | 2021-12-23 |  |
 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2021-12-23 |  |

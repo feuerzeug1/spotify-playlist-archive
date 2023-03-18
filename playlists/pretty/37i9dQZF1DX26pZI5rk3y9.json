@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 3936,
+  "num_followers": 3952,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDQxZDM2OWFmZTk0NjA1MGVlYzc1MTEzYjViOTkwNTVm",
+  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDU1YzJmYjg4ZjIyMTI0ODM0ZTI3OWVkOGNlMTMzMjcy",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/47kPRfB3tVR0LWiY2QTSog"
     },
     {
+      "added_at": "2023-03-18 01:21:16",
+      "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/70uWPKRSwkmkYO2s33tzZP"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 323280,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/6TU5CaJ68BaVZ2BLvhgOmO"
+    },
+    {
       "added_at": "2022-12-02 14:28:08",
       "album": {
         "name": "Taj Mahal",
@@ -427,22 +443,6 @@
       "duration_ms": 156533,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/3EaFV7yFZiTlaJrxDTVTfh"
-    },
-    {
-      "added_at": "2023-03-16 01:27:13",
-      "album": {
-        "name": "Ridin'",
-        "url": "https://open.spotify.com/album/70uWPKRSwkmkYO2s33tzZP"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 323280,
-      "name": "Ridin'",
-      "url": "https://open.spotify.com/track/6TU5CaJ68BaVZ2BLvhgOmO"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Too Bad Jim",
-        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
         "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 153759,
       "name": "Little By Little (I'm Losing You)",
       "url": "https://open.spotify.com/track/25vYkkypWmtzS88Podza8X"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Too Bad Jim",
+        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Barbecue Bob Vol. 1 (1927 - 1928)",
-        "url": "https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31"
-      },
-      "artists": [
-        {
-          "name": "Barbecue Bob",
-          "url": "https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ"
-        }
-      ],
-      "duration_ms": 192914,
-      "name": "Barbecue Blues",
-      "url": "https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Lead Belly: The Smithsonian Folkways Collection",
         "url": "https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 152700,
       "name": "Pigmeat",
       "url": "https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Barbecue Bob Vol. 1 (1927 - 1928)",
+        "url": "https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31"
+      },
+      "artists": [
+        {
+          "name": "Barbecue Bob",
+          "url": "https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ"
+        }
+      ],
+      "duration_ms": 192914,
+      "name": "Barbecue Blues",
+      "url": "https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
-        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
-      },
-      "artists": [
-        {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "Blue Monday - Remastered",
-      "url": "https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "In London",
         "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 148093,
       "name": "Wet Hayshark",
       "url": "https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
+        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
+      },
+      "artists": [
+        {
+          "name": "Smiley Lewis",
+          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Blue Monday - Remastered",
+      "url": "https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Atomic Cocktail - Legendary Slim Gaillard",
-        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
-      },
-      "artists": [
-        {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Scotchin' with Soda",
-      "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Lucille Bogan (Bessie Jackson) Vol. 3 (1934-1935)",
         "url": "https://open.spotify.com/album/4BrGdafBB8CAnhsAtDbs0i"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 162664,
       "name": "Barbecue Blues",
       "url": "https://open.spotify.com/track/6PsX6nmpsOFR0jjLyEzmPZ"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Atomic Cocktail - Legendary Slim Gaillard",
+        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
+      },
+      "artists": [
+        {
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Scotchin' with Soda",
+      "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Greatest Country Blues",
-        "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
+        "name": "Presenting Smiley Lewis",
+        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
       },
       "artists": [
         {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+          "name": "Smiley Lewis",
+          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
         }
       ],
-      "duration_ms": 142933,
-      "name": "Robbie-Doby Boogie",
-      "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
+      "duration_ms": 145000,
+      "name": "Gumbo Blues",
+      "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Presenting Smiley Lewis",
-        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
+        "name": "Greatest Country Blues",
+        "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
       },
       "artists": [
         {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Gumbo Blues",
-      "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
+      "duration_ms": 142933,
+      "name": "Robbie-Doby Boogie",
+      "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
     },
     {
       "added_at": "2022-12-02 14:28:08",

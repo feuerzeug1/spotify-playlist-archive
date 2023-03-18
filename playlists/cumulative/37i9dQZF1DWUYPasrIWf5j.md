@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-114 songs - 6 hr 28 min
+119 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,11 +28,13 @@
 | [Come On Get Higher](https://open.spotify.com/track/1kyWVfQ7VVJqyZ05gSUhQ0) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:37 | 2022-05-20 |  |
 | [Count On Me](https://open.spotify.com/track/49mGPurzHvCPjiLTTEsc7G) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [This Is Home](https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa) | 3:30 | 2022-08-03 |  |
 | [Creep](https://open.spotify.com/track/1e9ByTDUpTepe8OFCoSVaT) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wonderwall](https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG) | 4:04 | 2022-07-01 |  |
+| [Dancing in the Moonlight](https://open.spotify.com/track/0U4g8JspZmDlnI9MrBQ9IT) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Time After Time](https://open.spotify.com/album/6zh95laZ5y3hv6nwCTJF4r) | 3:07 | 2023-03-16 |  |
 | [deja vu](https://open.spotify.com/track/64aF6PQkTQMaXmOaMZxIf3) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [deja vu](https://open.spotify.com/album/1G3g26T1M3R0rK7QWBKei6) | 3:35 | 2022-12-01 |  |
 | [Despacito](https://open.spotify.com/track/6BhpS9x9Sy1GPcfpl9noHW) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits, Vol\. 7](https://open.spotify.com/album/1uSFwBlRRHwIQETrBhnr7I) | 3:53 | 2022-05-20 |  |
 | [Don't Start Now \- Ukulele Version](https://open.spotify.com/track/12v4asulImAdU8BagKjivV) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele 2020 Hits! \(Ukulele Version\)](https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk) | 3:01 | 2022-05-20 |  |
 | [Don't Worry Be Happy](https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 5:22 | 2022-05-20 |  |
 | [Dream a Little Dream](https://open.spotify.com/track/1LMOBk8uRCJm53pOPkYMsp) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:31 | 2022-05-20 |  |
+| [Driver's License](https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Driver's License](https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl) | 3:52 | 2023-03-16 |  |
 | [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 | 2022-05-20 |  |
 | [Glimpse of Us](https://open.spotify.com/track/3UCsK9DYrSd6Qn4oQ9cRq1) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:32 | 2022-12-01 |  |
 | [Hakuna Matata \- Ukulele](https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 2:47 | 2022-05-20 |  |
@@ -42,6 +44,7 @@
 | [Hey There Delilah](https://open.spotify.com/track/1x2hzBT4Sk9PNXj9OjhJdU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:14 | 2022-05-20 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/3kPyNj8KefD3VbaJtmqWVS) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:03 | 2022-05-20 |  |
 | [I Ain't Worried](https://open.spotify.com/track/3mdgqNgANH7bLqaFDa1rKG) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Señorita](https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK) | 2:32 | 2022-12-01 |  |
+| [I Want It That Way](https://open.spotify.com/track/0QkiEOuLDZguBZDorRna6t) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [True Colors](https://open.spotify.com/album/5C2bi9rLxNWpOI2Tv22GKt) | 3:39 | 2023-03-16 |  |
 | [I'm Like A Bird](https://open.spotify.com/track/6xWOpaygdUpc556o1GQNM1) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Hey There Delilah](https://open.spotify.com/album/3rMN8ZoPC2D8N2F4CjcHVb) | 3:52 | 2022-05-20 |  |
 | [I'm Yours](https://open.spotify.com/track/6R5e0W5LUy23G7wEAaCcyJ) | [Dennis Lookman](https://open.spotify.com/artist/6PuM7Jj4nf4b20oyrbBg2h) | [Ukelele Moments](https://open.spotify.com/album/2imt754FShtqbVcAyALgbq) | 4:23 | 2022-05-20 |  |
 | [Imagine](https://open.spotify.com/track/5QwJtbZbdQxPnKR7CAXtyO) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Imagine](https://open.spotify.com/album/5uZvfWL9waxif9bt1CaCU1) | 3:04 | 2022-07-01 |  |
@@ -109,7 +112,9 @@
 | [Thinking out Loud \- Ukulele Version](https://open.spotify.com/track/5vGoHkL7i3BFor4BzkmgUf) | [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Thinking out Loud \(Ukulele Version\)](https://open.spotify.com/album/1tLqdPFJvI4GiAgAv1TQBh) | 4:35 | 2022-05-20 |  |
 | [This Is Home](https://open.spotify.com/track/3IMXuDKy3jPJoPmV8yWJY9) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [This Is Home](https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa) | 3:47 | 2022-08-03 |  |
 | [Three Little Birds \- Ukulele Version](https://open.spotify.com/track/2kCMqR9YzN0WlPFqUdSkiC) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele Renditions of Summer Classic Hits! \(Ukulele Version\)](https://open.spotify.com/album/70F59XAmAhAwfdCn4usM0l) | 3:01 | 2022-05-20 |  |
+| [Time After Time](https://open.spotify.com/track/1EBzaoMAUiuWmL0lxDfn5C) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Time After Time](https://open.spotify.com/album/6zh95laZ5y3hv6nwCTJF4r) | 4:15 | 2023-03-16 |  |
 | [Time of the Season](https://open.spotify.com/track/1pQkECzXZXYef46QwzKU8z) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Stand By Me](https://open.spotify.com/album/0VFco39u9Q1HnS5adiknEP) | 3:22 | 2022-07-01 |  |
+| [True Colors](https://open.spotify.com/track/1ckI32DhLPvHnMNBihiLB4) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [True Colors](https://open.spotify.com/album/5C2bi9rLxNWpOI2Tv22GKt) | 3:38 | 2023-03-16 |  |
 | [Until I Found You](https://open.spotify.com/track/1UpsDYHk9Wuwa93WTSTtG3) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Until I Found You](https://open.spotify.com/album/5OcKOXmqT3D3LYhHPSsK03) | 2:57 | 2022-12-01 |  |
 | [Upside Down](https://open.spotify.com/track/2ceP1Xn0blgkm4lF2ZSztF) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pleasant Uke](https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm) | 3:03 | 2022-05-20 |  |
 | [Waterloo Sunset](https://open.spotify.com/track/6MjhsQAxVzHCwhXkql67ZR) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Waterloo Sunset](https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI) | 3:30 | 2022-05-20 |  |

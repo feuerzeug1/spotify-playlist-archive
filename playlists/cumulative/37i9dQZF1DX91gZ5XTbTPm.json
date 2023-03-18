@@ -1205,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "Boom Pt. 2 (feat. Latto)",
+        "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Boom Pt. 2 (feat. Latto)",
+      "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
+    },
+    {
+      "album": {
         "name": "Bop Stick",
         "url": "https://open.spotify.com/album/6XHn3lHmjIZia6TKIPO2qX"
       },
@@ -1716,7 +1738,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 111020,
       "name": "Creepers",
       "url": "https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC"
@@ -2208,7 +2230,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 170360,
       "name": "Flavors",
       "url": "https://open.spotify.com/track/6ffUQiIPOH1LkWrgWXIx7I"
@@ -2704,6 +2726,24 @@
       "duration_ms": 114580,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/0SCbpbPIjHh90v4hsp8ohl"
+    },
+    {
+      "album": {
+        "name": "GOMD",
+        "url": "https://open.spotify.com/album/6vTsqrGv80CCBH5b2rGMJS"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171872,
+      "name": "GOMD",
+      "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
     },
     {
       "album": {
@@ -3460,6 +3500,28 @@
       "duration_ms": 183829,
       "name": "India Me",
       "url": "https://open.spotify.com/track/3WWky2z2RbCuWmMJHJL5Rc"
+    },
+    {
+      "album": {
+        "name": "Insubordination",
+        "url": "https://open.spotify.com/album/4xPjb8cJKvMyuWBXBYz602"
+      },
+      "artists": [
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        },
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243352,
+      "name": "Insubordination",
+      "url": "https://open.spotify.com/track/2geW0ZSZzuJYzlyi95kAl9"
     },
     {
       "album": {
@@ -4424,6 +4486,24 @@
       "duration_ms": 145866,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/3bAmJS0k2yQsNLEouw4B9d"
+    },
+    {
+      "album": {
+        "name": "DC Dahmer",
+        "url": "https://open.spotify.com/album/5V8t1NiBX31tLIV3MRd4cB"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221831,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/2vIBxrS00rAslgAhL4mqHY"
     },
     {
       "album": {
@@ -6584,7 +6664,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 174682,
       "name": "SRT",
       "url": "https://open.spotify.com/track/2xcQO4qMx28LpZM1Lwc1Ev"
@@ -6946,7 +7026,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 147745,
       "name": "Tally (with Denzel Curry)",
       "url": "https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo"

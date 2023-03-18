@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-664 songs - 1 day 11 hr 49 min
+665 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Born For This Bullshit \(feat\. Sad13\)](https://open.spotify.com/track/6FwhbeCYKzSvg4Gf5fvFOM) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg) | [Born For This Bullshit \(feat\. Sad13\)](https://open.spotify.com/album/3HrbnJr4QUgy5qoO2hlPId) | 3:55 | 2021-09-28 |  |
 | [Both](https://open.spotify.com/track/6J6TFz0DLTFLo8UYzlvn6W) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Both](https://open.spotify.com/album/5YTvBNv5uzfxHgs4lS0xTc) | 3:23 | 2019-08-27\* | 2019-11-11 |
 | [boy with the winfields and the wild heart](https://open.spotify.com/track/53cDF0zooPX6Nb1SJJI9Vv) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [boy with the winfields and the wild heart](https://open.spotify.com/album/0N27tWwo0wBF1q2GWI6zju) | 4:12 | 2019-10-18 | 2021-05-12 |
+| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-17 |  |
 | [BRB](https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Isolation Tapes](https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI) | 3:30 | 2020-05-01 | 2021-05-12 |
 | [BRB \(feat\. Pink Sweat$\)](https://open.spotify.com/track/3cIYfp1jvO622pUW5zaeEF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [BRB \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6MDVwRIC8PaZFkggzSFBso) | 3:38 | 2020-07-24 | 2021-05-12 |
 | [Break](https://open.spotify.com/track/36kIYxNoFwQn8hurOf62mK) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Break](https://open.spotify.com/album/7eOnQ0iEjNVGE5VmWEe8FQ) | 3:23 | 2020-07-18 | 2021-05-12 |

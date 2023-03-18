@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "eastland",
+        "url": "https://open.spotify.com/album/69pW4fHseYnndFdNNJY0de"
+      },
+      "artists": [
+        {
+          "name": "papi.",
+          "url": "https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "eastland",
+      "url": "https://open.spotify.com/track/78BP00AkPTQmPP0nAwRNDw"
+    },
+    {
+      "album": {
         "name": "Electric Moon",
         "url": "https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6"
       },
@@ -3426,6 +3444,24 @@
       "duration_ms": 111420,
       "name": "tiny tune",
       "url": "https://open.spotify.com/track/51N4rxKZOIaGLFmHXGpgXB"
+    },
+    {
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/11GzkHPryPuxFEYlvIGW1k"
+      },
+      "artists": [
+        {
+          "name": "Deeter K",
+          "url": "https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144864,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/3XhyzrslQ0Nrm6RXegl520"
     },
     {
       "album": {

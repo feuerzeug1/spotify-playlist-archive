@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 161749,
       "name": "Inimigo do Fim",
       "url": "https://open.spotify.com/track/1s1yGD3leGjhzNZb8A4F0x"
@@ -2873,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "Moletom",
+        "url": "https://open.spotify.com/album/6BqKpBwX2jUAXAi09lcOeJ"
+      },
+      "artists": [
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Moletom",
+      "url": "https://open.spotify.com/track/75c80jJ4IAuFvcItfJFR6Q"
+    },
+    {
+      "album": {
         "name": "MoonLight",
         "url": "https://open.spotify.com/album/3pnMKNlvDhfr2rEblv9v9u"
       },
@@ -3338,7 +3356,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 136548,
       "name": "Oi, n\u00e9?",
       "url": "https://open.spotify.com/track/0eGXGFN0LGUe91bc8MNeO9"
@@ -4004,6 +4022,36 @@
       "duration_ms": 167090,
       "name": "Rei de Gelo",
       "url": "https://open.spotify.com/track/0qW5Y9jLq21f6FqqsSfaPD"
+    },
+    {
+      "album": {
+        "name": "Renc Renc",
+        "url": "https://open.spotify.com/album/1RX2yNcGNWhzUDDjWNZPh0"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Killua",
+          "url": "https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo"
+        },
+        {
+          "name": "John Bxd",
+          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129940,
+      "name": "Renc Renc",
+      "url": "https://open.spotify.com/track/2vE3ClZBk18Cyh0l31oTMs"
     },
     {
       "album": {
@@ -4996,6 +5044,28 @@
       "duration_ms": 125100,
       "name": "Viramos Estranhos",
       "url": "https://open.spotify.com/track/3zjjUXEtDpqWPhWSXSzoOp"
+    },
+    {
+      "album": {
+        "name": "Viramos Estranhos 2",
+        "url": "https://open.spotify.com/album/3jxMiWrXTNtBwsb9cSQWb5"
+      },
+      "artists": [
+        {
+          "name": "A$TRO BOY",
+          "url": "https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE"
+        },
+        {
+          "name": "Zaini",
+          "url": "https://open.spotify.com/artist/7xamWP0cGZeLRBBeNybzZk"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165694,
+      "name": "Viramos Estranhos 2",
+      "url": "https://open.spotify.com/track/1RcVVFY01fcyGjn2biXsgO"
     },
     {
       "album": {

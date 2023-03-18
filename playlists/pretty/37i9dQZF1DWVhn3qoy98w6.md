@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Grande Amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,794 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,813 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 4 | [fue lo mejor](https://open.spotify.com/track/21pm6QRa8PtVQHTpG5eO1u) | [After Tommy](https://open.spotify.com/artist/3HpKdarqsHASs1kRv1uENZ) | [fue lo mejor](https://open.spotify.com/album/3pnmPdEHRMU1s0i8lqDm1k) | 4:02 |
 | 5 | [Géminis Y Sagitario](https://open.spotify.com/track/0vk3QdsHtqC7RULLmkeZ7E) | [Amor Butano](https://open.spotify.com/artist/1obBP2Y8LklbJCXIbVD74p) | [Géminis Y Sagitario](https://open.spotify.com/album/5zvcSyeTG5lc2bn1Q0CUBo) | 3:01 |
 | 6 | [Refugio](https://open.spotify.com/track/6YJLbtDIh3EchvQThsqFe6) | [Niños Luchando](https://open.spotify.com/artist/32ssrEXNswpY4dF56WYYZl) | [Refugio](https://open.spotify.com/album/0XCEsrMhctoxAk12h0lHb1) | 3:48 |
-| 7 | [SUPERMARIO](https://open.spotify.com/track/6fwUrBcaWOucX2czY6vici) | [shadi](https://open.spotify.com/artist/3csMcrQZxcD3YsQhmdQSzV) | [SUPERMARIO](https://open.spotify.com/album/4khwPW6DOhLRfV75H4Ja0H) | 2:36 |
+| 7 | [SUPER MARIO](https://open.spotify.com/track/6fwUrBcaWOucX2czY6vici) | [shadi](https://open.spotify.com/artist/3csMcrQZxcD3YsQhmdQSzV) | [SUPER MARIO](https://open.spotify.com/album/4khwPW6DOhLRfV75H4Ja0H) | 2:36 |
 | 8 | [Sense Retorn](https://open.spotify.com/track/491qvkwZDnDveb8OKsrmSA) | [Iglú](https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO) | [Sense Retorn](https://open.spotify.com/album/32TTjfyzwYGkuNSaEodRll) | 3:21 |
 | 9 | [Solo Soy](https://open.spotify.com/track/5u7supdaN4pQdHs2kChVee) | [GARCÍA Picasso](https://open.spotify.com/artist/7bmCrd2Hv5prpHeyTbGx0L) | [Solo Soy](https://open.spotify.com/album/08PLJHQtJlNni1qK13oYkI) | 3:41 |
 | 10 | [Revés](https://open.spotify.com/track/4K9YLobCMsY9p59jKoOieB) | [Halley](https://open.spotify.com/artist/4v9zst7kVftfvbKuKAfBhq), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Revés](https://open.spotify.com/album/1Nzgg3dLNAuQqaJh7LvUw3) | 2:45 |

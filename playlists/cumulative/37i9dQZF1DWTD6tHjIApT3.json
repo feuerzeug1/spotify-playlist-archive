@@ -3359,6 +3359,32 @@
     },
     {
       "album": {
+        "name": "JUNK or GEM",
+        "url": "https://open.spotify.com/album/4ihrJ3Tvoa5puJ8a8UKeUI"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Haruko Nagaya",
+          "url": "https://open.spotify.com/artist/5P8drcKYuRizuKKXgUdPO8"
+        },
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273766,
+      "name": "Etude of Adolescence",
+      "url": "https://open.spotify.com/track/1e7GAbiLvMNCyoo8j8ZBpr"
+    },
+    {
+      "album": {
         "name": "Etude of Adolescence",
         "url": "https://open.spotify.com/album/3a5OH0xdi3iWVV7a7rXgpR"
       },
@@ -3378,7 +3404,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 273766,
       "name": "Etude of Adolescence",
       "url": "https://open.spotify.com/track/3DvIKEAVYG5oD4PaQC0IRk"
@@ -7301,6 +7327,28 @@
     },
     {
       "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/4hdRFduT29SvN8VGPhEzBM"
+      },
+      "artists": [
+        {
+          "name": "Celeina Ann",
+          "url": "https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw"
+        },
+        {
+          "name": "Foux",
+          "url": "https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/0UojKdaPtcnw7DDh9R33tX"
+    },
+    {
+      "album": {
         "name": "MIU",
         "url": "https://open.spotify.com/album/61FMY9vYheCQCzwx2SgExu"
       },
@@ -9394,7 +9442,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 237746,
       "name": "SEVENTH HEAVEN",
       "url": "https://open.spotify.com/track/6YK1jSYfYeUZybhXRnPKna"
@@ -10584,6 +10632,28 @@
       "duration_ms": 233920,
       "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
+    },
+    {
+      "album": {
+        "name": "Sweet Escape (feat. RAENE)",
+        "url": "https://open.spotify.com/album/3qhwaCo1QY2898oye3nAtj"
+      },
+      "artists": [
+        {
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "RAENE",
+          "url": "https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205185,
+      "name": "Sweet Escape - feat. RAENE",
+      "url": "https://open.spotify.com/track/6O4hhUbrwqobHXPNb0xmJK"
     },
     {
       "album": {
@@ -13680,6 +13750,24 @@
       "duration_ms": 349317,
       "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b...",
       "url": "https://open.spotify.com/track/1RYHnW7xtqHLtQgylkeVB2"
+    },
+    {
+      "album": {
+        "name": "\u3069\u3046\u305b\u306a\u3089",
+        "url": "https://open.spotify.com/album/1IynaW4ycIqWiKs9u5IGId"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u54c1\u7460\u9999",
+          "url": "https://open.spotify.com/artist/2g0GsRYLm3PyW8QWLSqwZn"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166966,
+      "name": "\u3069\u3046\u305b\u306a\u3089",
+      "url": "https://open.spotify.com/track/3DR0n6s6j44UpU4HxmZKu5"
     },
     {
       "album": {
@@ -18368,7 +18456,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
@@ -19380,7 +19468,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 285306,
       "name": "\u63a5\u543b (feat. \u3072\u304b\u308a & MELRAW)",
       "url": "https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR"

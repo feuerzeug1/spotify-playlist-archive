@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-357 songs - 20 hr 34 min
+358 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Learn From It](https://open.spotify.com/track/2CqfyB7PQznYxHNSmmF6lE) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Learn From It](https://open.spotify.com/album/7vFiXBUWlapCxGcKni9vh0) | 2:59 | 2022-05-13 | 2022-07-29 |
 | [Leave The Night On](https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:12 | 2019-06-21 | 2022-04-18 |
 | [Let Me See Ya Girl](https://open.spotify.com/track/3y1t2sEahs8idFz2tiYNPO) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:07 | 2020-06-12 | 2021-01-15 |
-| [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 | 2019-06-21 |  |
+| [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 | 2019-06-21 | 2023-03-18 |
 | [Livin' Our Love Song](https://open.spotify.com/track/5NhZkLMccDVhxocmVHDu4G) | [Jason Michael Carroll](https://open.spotify.com/artist/6vgqbvuLEUcrg7SB1kRTYE) | [Waitin' In The Country](https://open.spotify.com/album/30g7ojYHNfNNJVmViRxd5O) | 3:51 | 2019-06-23 | 2021-10-14 |
 | [Livin' The Dream](https://open.spotify.com/track/4lEFOQiVlXsC8nejwMDQpG) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Spark](https://open.spotify.com/album/6jUadvmd8sF6uU4lF2E8Ho) | 3:07 | 2021-10-12 | 2022-04-12 |
 | [Lonely Call](https://open.spotify.com/track/2Wj1AZdBPMA1mkuuoTfOPg) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:44 | 2019-06-25 | 2022-04-19 |
@@ -242,6 +242,7 @@
 | [Ride \(feat\. Macy Maloy\)](https://open.spotify.com/track/1CoOHJAHtKEDnUBrp3nKAB) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Macy Maloy](https://open.spotify.com/artist/5JhkYX4FCP6FRmxrGEQoda) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0) | 4:01 | 2019-06-23 | 2020-02-06 |
 | [Right Girl Wrong Time](https://open.spotify.com/track/1ZzUE9vPvsVMCNu2e7OepO) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Right Girl Wrong Time](https://open.spotify.com/album/7rimqdFFxMEBQYjyiTAXHW) | 3:42 | 2019-06-25 | 2021-10-11 |
 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 | 2019-06-23 | 2022-06-09 |
+| [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2023-03-16 |  |
 | [Roll All Night](https://open.spotify.com/track/3XiXmvA4lX3UxVgPmPrLah) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [Roll All Night](https://open.spotify.com/album/5f1wim1kBVZ2JCJgWcVa6N) | 4:11 | 2019-10-26 | 2022-04-18 |
 | [Roll With It](https://open.spotify.com/track/7bNX2Fgb4MjPrYbkHaCNwV) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Easton Corbin](https://open.spotify.com/album/7I6ulIzRMJ8Bmz5rFBAvpA) | 3:27 | 2019-10-26 | 2022-04-20 |
 | [Round Here Buzz](https://open.spotify.com/track/52ioLaTnO2J7BWY8UN2n9D) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 3:34 | 2019-06-22 | 2022-04-21 |

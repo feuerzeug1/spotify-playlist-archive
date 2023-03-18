@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-704 songs - 1 day 14 hr 31 min
+705 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Fallaway](https://open.spotify.com/track/1eDKRyIAKtoRmrO9gJ6PFv) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Fallaway](https://open.spotify.com/album/0XXHhKf7JUTkgKnxUDNcA2) | 3:44 | 2022-01-14 | 2022-09-15 |
 | [Fallen](https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Fallen](https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj) | 3:30 | 2022-09-15 | 2023-02-22 |
 | [Fallen](https://open.spotify.com/track/541X1Kd0KzOLxspM1T8fiv) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [LOGOS](https://open.spotify.com/album/6JHtjrlVhzMjXtP5ZLjPDP) | 3:30 | 2022-11-10 |  |
+| [Falling](https://open.spotify.com/track/0G79CSNwUGMEGoJ8Fq3ASb) | [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Half Dead](https://open.spotify.com/artist/3UCmNuv4IPdb6HdPi1l0Au), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Falling](https://open.spotify.com/album/7agisGTHdMZPtBlQgAuRSR) | 3:04 | 2023-03-17 |  |
 | [Falling](https://open.spotify.com/track/4WA4jmG98kErhzC9oNf8Sx) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Meo](https://open.spotify.com/artist/76NT4gVXCYbuQeWAEb2nlY) | [Falling](https://open.spotify.com/album/3egBGUjSyvUQ3TpoYpy7uP) | 2:29 | 2022-02-12 |  |
 | [FALLING](https://open.spotify.com/track/0YzNxZ9TbNNoj83aVDMEFM) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [Rxl](https://open.spotify.com/artist/6Bi1y0jGmBzmeMRGiDjwjm) | [FALLING](https://open.spotify.com/album/6m2F75Tg6uJjTCS00PwYr1) | 2:45 | 2022-05-25 | 2022-07-09 |
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-02-09 | 2022-03-19 |

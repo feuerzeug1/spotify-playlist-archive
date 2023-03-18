@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/1t2lMi1AXxPMo8bbCjaa3g"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199453,
+      "name": "100 or Nun (feat. Tony Shhnow)",
+      "url": "https://open.spotify.com/track/0U6ZKypkSptN2Zlhtkbvj6"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -348,7 +370,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 163310,
       "name": "Already Know",
       "url": "https://open.spotify.com/track/1ULXtm9lperZGjyVW8IYyB"
@@ -1716,7 +1738,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 183931,
       "name": "Free Agency",
       "url": "https://open.spotify.com/track/7tJOSbWE58Tk9dF3S0YsYz"
@@ -2328,6 +2350,28 @@
       "duration_ms": 194208,
       "name": "I Am",
       "url": "https://open.spotify.com/track/5VlZvuR3Ja1l2T3ZJNeaUK"
+    },
+    {
+      "album": {
+        "name": "Lil Pump 2",
+        "url": "https://open.spotify.com/album/1ly2H0S0Ru5gJ2yvZZ18Uv"
+      },
+      "artists": [
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/3jL2NEybvvgwpepnbF1bAN"
     },
     {
       "album": {
@@ -2986,6 +3030,24 @@
       "duration_ms": 246333,
       "name": "Love & War (feat. Queen Naija) - Remix",
       "url": "https://open.spotify.com/track/0empuybajOILWSMGYGDoPF"
+    },
+    {
+      "album": {
+        "name": "Help Is On The Way (Deluxe)",
+        "url": "https://open.spotify.com/album/6AB9OOUQJaPhZWADvpu5ab"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214431,
+      "name": "Love Died",
+      "url": "https://open.spotify.com/track/4ZcOJracZ42iM1lbffdtUI"
     },
     {
       "album": {
@@ -5196,7 +5258,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 157800,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"

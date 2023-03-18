@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Israel Salazar
 
-102 songs - 7 hr 39 min
+103 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Apenas um Rascunho \(feat\. Eli Soares\)](https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV) | 3:42 | 2022-09-02 |  |
 | [Aprender Com a Vida \- Piano e Voz](https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Aprender Com a Vida \(Piano e Voz\)](https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL) | 4:18 | 2022-10-28 |  |
 | [Aprender Com a Vida \- Piano e Voz](https://open.spotify.com/track/27KUBPN9Vja3WlsZsNNvj0) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Aprender Com a Vida \(Piano e Voz\)](https://open.spotify.com/album/6RS8eJ68iNTDvm55Q0nLAs) | 4:18 | 2022-09-02 | 2022-11-13 |
+| [Aquietai\-Vos](https://open.spotify.com/track/2VBDls6vI3bGPsfvps2ljx) | [Melissa Barcelos](https://open.spotify.com/artist/7IA37SdSZ1CegKmhRJU0DS), [Riane Junqueira](https://open.spotify.com/artist/4bJ1wkkofxsCiEDIJbuV5L), [Gissela](https://open.spotify.com/artist/6EPIb2nFrVqIo1P97F8Pqg), [Karin Kiefer](https://open.spotify.com/artist/5Sh7BHKzQNqHS2fZSqx9SD) | [Aquietai\-Vos](https://open.spotify.com/album/7ypLACXVeUY5STP2OC1lKm) | 4:04 | 2023-03-17 |  |
 | [Até o Fim](https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Até o Fim](https://open.spotify.com/album/1adgtw24sgeeH5kEWz2Yyv) | 3:45 | 2022-09-02 | 2023-02-25 |
-| [Até Que Tu Sejas o Primeiro \- Acústico](https://open.spotify.com/track/1JiUNbAkkAtmCQLuKcdGSc) | [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao), [Arco e Flecha](https://open.spotify.com/artist/2MnCgdwSL1ujfSHwIvjjmm) | [Acústico, Vol\. 2](https://open.spotify.com/album/0OcToYPbbdIO4d6p7SJZ2n) | 6:26 | 2022-09-02 |  |
+| [Até Que Tu Sejas o Primeiro \- Acústico](https://open.spotify.com/track/1JiUNbAkkAtmCQLuKcdGSc) | [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao), [Arco e Flecha](https://open.spotify.com/artist/2MnCgdwSL1ujfSHwIvjjmm) | [Acústico, Vol\. 2](https://open.spotify.com/album/0OcToYPbbdIO4d6p7SJZ2n) | 6:26 | 2022-09-02 | 2023-03-18 |
 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 | 2022-09-02 |  |
 | [Calvário \- Acústico](https://open.spotify.com/track/1iDULS2J3cedW8dNWk0XXX) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k), [Priscila Olly](https://open.spotify.com/artist/5hK2DFyP32D2bS9oQzbwzy) | [Calvário \(Acústico\)](https://open.spotify.com/album/4hqJjhLBxT06bavOHts4ei) | 5:32 | 2022-09-02 | 2022-10-01 |
 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 | 2022-09-02 |  |

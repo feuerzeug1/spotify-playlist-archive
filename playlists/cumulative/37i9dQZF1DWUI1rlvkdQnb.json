@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/4ftcHfbpNS7KKIEEnNhjJD"
+      },
+      "artists": [
+        {
+          "name": "Gravitons",
+          "url": "https://open.spotify.com/artist/2VlCnCbs8J939zLt0dB5RF"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176415,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/3Zfw44YYpZiwITTuVvrDj8"
+    },
+    {
+      "album": {
         "name": "In a Charming Dream",
         "url": "https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk"
       },
@@ -2342,6 +2360,24 @@
       "duration_ms": 168000,
       "name": "Sigiriya",
       "url": "https://open.spotify.com/track/11tgd8lU2eFk0DNqMTEqtT"
+    },
+    {
+      "album": {
+        "name": "Sigur",
+        "url": "https://open.spotify.com/album/5cpKYQ6H4dPM4RNArtaR0l"
+      },
+      "artists": [
+        {
+          "name": "Rufus Odobata",
+          "url": "https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Sigur",
+      "url": "https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ"
     },
     {
       "album": {

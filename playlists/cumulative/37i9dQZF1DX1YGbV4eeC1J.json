@@ -698,7 +698,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 235883,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/75A2GOq6uxZsdkJGPRU5FH"
@@ -854,6 +854,24 @@
       "duration_ms": 200130,
       "name": "Naoa",
       "url": "https://open.spotify.com/track/5mqvQK9sfEM9oVV4FCipjs"
+    },
+    {
+      "album": {
+        "name": "Napendwa",
+        "url": "https://open.spotify.com/album/7uSvaZCFzAnZTxSuLcUu4O"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Napendwa",
+      "url": "https://open.spotify.com/track/6ThP7PzsOKFqMdJze74nxh"
     },
     {
       "album": {

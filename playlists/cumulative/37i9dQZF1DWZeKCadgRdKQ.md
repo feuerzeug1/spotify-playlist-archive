@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-557 songs - 1 day 6 hr 58 min
+561 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Cabin Jam](https://open.spotify.com/track/3McFNMvwAOUOCM83wyTpUr) | [Sad Monologue](https://open.spotify.com/artist/7KnsxDkw3XMYwgbxrCUkfB) | [Cabin Jam](https://open.spotify.com/album/0AE1Qc4Zb6FFNapqOxKppm) | 3:12 | 2020-10-10 | 2021-09-14 |
 | [Calm Wilderness](https://open.spotify.com/track/44Co96UhNfnq258r2VybLE) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Calm Wilderness](https://open.spotify.com/album/7zWm20YukYUpew9NhEmfLN) | 3:51 | 2019-09-14 | 2021-11-19 |
 | [Candlelight](https://open.spotify.com/track/1r6k36czq5ojyYadBcHZmp) | [Reed Goff](https://open.spotify.com/artist/1uKH4Zay4PN2JmUTFRAZIt) | [Candlelight](https://open.spotify.com/album/2HonNBFnB2LhfwJ6Zy7MWD) | 2:04 | 2019-06-19\* | 2021-09-14 |
+| [Canvas](https://open.spotify.com/track/7wjaxqy8HJOMfX1qoZNdTZ) | [Philó](https://open.spotify.com/artist/4Fa4skLUM0AQbzqOqknYbS) | [Canvas](https://open.spotify.com/album/605vahHBubym41BAEumJz5) | 2:36 | 2023-03-17 |  |
 | [Castles High, Marble Bright](https://open.spotify.com/track/4Yob5qJ8ZZWXbvtvLoAMMU) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Castles High, Marble Bright](https://open.spotify.com/album/2naFg4XWh3or9sRiTGA2BX) | 8:53 | 2019-05-26\* | 2019-06-19 |
 | [Catch a Breath](https://open.spotify.com/track/4XVFa7MhMILscQRd2MmreO) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Catch a Breath](https://open.spotify.com/album/2PPerclhpHwTZ08iASsku1) | 3:36 | 2022-01-28 |  |
 | [Catching Fireflies](https://open.spotify.com/track/7f50pSASvBKK8aNR4IiSKp) | [The Soul's Release](https://open.spotify.com/artist/16SfNGKDSxXGOzIkFH7SEI) | [Where the Trees Are Painted White \- EP](https://open.spotify.com/album/7rRN14zlGaBlArcZ1Vl3RS) | 5:47 | 2019-05-26\* | 2019-06-19 |
@@ -225,6 +226,7 @@
 | [I Can Almost See You](https://open.spotify.com/track/0jVy0Y3QEtUKsrIHAZuR45) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice...Trying to Stop an Echo](https://open.spotify.com/album/1xGZ70dEsN8UyiXvcXWwHI) | 4:13 | 2019-05-26\* | 2019-06-19 |
 | [I Don't Trust That Bird of Prey](https://open.spotify.com/track/33gVbwdqw7aRX0Y2zM7qm3) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Requiescence](https://open.spotify.com/album/3bhAl8RnnUNyNz53wlqOLf) | 3:30 | 2019-11-01 | 2021-09-04 |
 | [I'll Be Around](https://open.spotify.com/track/4I5kQyAYTvwHEIiZIP8B2j) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fade](https://open.spotify.com/album/7cReNgYN2wNYsj78NB67ut) | 4:47 | 2019-05-26\* | 2019-06-19 |
+| [Icicles](https://open.spotify.com/track/7Cr1H2QTtm9KXobncJOkJF) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [Icicles](https://open.spotify.com/album/1vZJgzMPXGWJ5P5MIlUeE9) | 2:26 | 2023-03-17 |  |
 | [If I'd Have Known It Was The Last \(Second Position\)](https://open.spotify.com/track/3tGdrKXDO9hZV0f0XDh66O) | [Codes In The Clouds](https://open.spotify.com/artist/4VOAFlRzmQTqXTpLzHq0Hl) | [As The Spirit Wanes](https://open.spotify.com/album/3FIQ6BRdkWHmc92J7WBFKE) | 1:52 | 2019-05-26\* | 2021-09-03 |
 | [If You Believe](https://open.spotify.com/track/0QurRfrHz1RGbdPpTx7lLV) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Unification](https://open.spotify.com/album/2amvCJnF3F5sK6Bzooovgx) | 3:03 | 2020-08-07 | 2022-11-18 |
 | [Igelstorp](https://open.spotify.com/track/4Q2ZHTihHxJc25u0SbiImn) | [Fellows](https://open.spotify.com/artist/28MgNka3kDQyWxvuoGDo3o) | [Igelstorp](https://open.spotify.com/album/4tudKeSVJOev0r0O9mdSCV) | 4:30 | 2019-05-26\* | 2019-06-19 |
@@ -407,6 +409,7 @@
 | [Selfless](https://open.spotify.com/track/06rxdrloI554XAu02s1RaM) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Selfless](https://open.spotify.com/album/3IraToCy1gXM0Si13GErD1) | 3:00 | 2019-06-27 | 2020-06-19 |
 | [Send Receive](https://open.spotify.com/track/0zr06uBGWB6tP7m3N2lqxS) | [Niklas Aman](https://open.spotify.com/artist/02SAEsjN1Earr0FuRedpw1) | [Train](https://open.spotify.com/album/3fuXejpInpueYT3XFnxjBW) | 3:58 | 2019-05-26\* | 2019-06-19 |
 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 | 2019-05-26\* | 2019-08-13 |
+| [Sharing is Caring](https://open.spotify.com/track/09o3Sp5xVj63YQIoMmPHad) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Sharing is Caring](https://open.spotify.com/album/6mxT3VfuMlWpvg2vryCBLI) | 2:11 | 2023-03-17 |  |
 | [Shifts Of Light](https://open.spotify.com/track/0KN1zd8K3MTPQyix892mCf) | [Avery Young](https://open.spotify.com/artist/1Uc5aI4Mz5c9SPUEjUga29) | [Still Waters](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 4:21 | 2019-06-27 | 2022-03-05 |
 | [Shimmer](https://open.spotify.com/track/2q9NIEbISG7bz75Ofb3FWE) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Third Place](https://open.spotify.com/album/5ch7UKRAKaXctfrbyYGVDD) | 3:32 | 2019-05-26\* | 2020-01-09 |
 | [Signaling Through The Flames](https://open.spotify.com/track/2GS6isvr1UVSIhvjBLX925) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The Best of The American Dollar](https://open.spotify.com/album/5x69rnsPKmHQopn2sDM5OX) | 5:18 | 2019-05-26\* | 2019-06-19 |
@@ -443,6 +446,7 @@
 | [Strangeworks](https://open.spotify.com/track/0ADfdoBwxcK2eUuOQciInH) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/0a2yGkTrEviUUZNBolAUXL) | 4:23 | 2019-05-26\* | 2019-06-19 |
 | [Suhpratti](https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J) | [Parazal](https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49) | [Hum](https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK) | 3:06 | 2020-08-07 |  |
 | [summer silence](https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [summer silence](https://open.spotify.com/album/2l1GqNZKHiPQxt4dMJr5Oq) | 2:55 | 2022-07-15 |  |
+| [Summer Vibes](https://open.spotify.com/track/3nBn6Ox2yVzTuAmi2rbo9H) | [Serenity Within](https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp) | [Summer Vibes](https://open.spotify.com/album/3gwWS1s7nf2N4FWUv3J051) | 2:36 | 2023-03-17 |  |
 | [Sunbleached Memory](https://open.spotify.com/track/6JVIfxPhQXAyPcA2Ro94HX) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sunbleached Memory](https://open.spotify.com/album/0uLlVkSLZIBxOgp5CxEU6A) | 2:35 | 2019-06-19\* | 2022-11-18 |
 | [Sunday on my mind](https://open.spotify.com/track/5vAUwAzCryz0XuR6QdGwbk) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [Sunday on my mind](https://open.spotify.com/album/2oD0p4xOfR8YrwNN0fFCtd) | 2:04 | 2023-02-17 |  |
 | [Sunrise](https://open.spotify.com/track/0tgMoWV59lNPjuenr5mqvt) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Sunrise](https://open.spotify.com/album/7wIxTaDBUvGwrHCMS2Effs) | 2:49 | 2019-06-19\* | 2021-09-14 |

@@ -1,13 +1,113 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Employed to Serve",
-  "num_followers": 7681,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Pupil Slicer",
+  "num_followers": 7683,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjU4NixjZWNjODU0OGFlOGRlMDgxMGM3ODQ4MjdkMTFjODMzZjk5OGRkNWY0",
+  "snapshot_id": "MjU5NSxjNzVkYzhhNTQ0ZGU4NmUwMWRiNzkwYzU5NzMwZjFkZTVjMmZiMWEy",
   "tracks": [
+    {
+      "added_at": "2023-03-17 18:41:02",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 353946,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
+    },
+    {
+      "added_at": "2023-03-17 18:41:07",
+      "album": {
+        "name": "Bite The Hook",
+        "url": "https://open.spotify.com/album/4O73RVcXZeXUDtBZSHnd8p"
+      },
+      "artists": [
+        {
+          "name": "Incendiary",
+          "url": "https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "Bite The Hook",
+      "url": "https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM"
+    },
+    {
+      "added_at": "2023-03-17 18:41:13",
+      "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 137440,
+      "name": "Dumbest Girl Alive",
+      "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
+    },
+    {
+      "added_at": "2023-03-17 18:41:19",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/6kO4SgxrKX2Bd2PvB5MGlz"
+      },
+      "artists": [
+        {
+          "name": "Pupil Slicer",
+          "url": "https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk"
+        }
+      ],
+      "duration_ms": 357997,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/15O24jtwGctHpUGzTq6YWV"
+    },
+    {
+      "added_at": "2023-03-17 18:41:29",
+      "album": {
+        "name": "Arsenal of War",
+        "url": "https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07"
+      },
+      "artists": [
+        {
+          "name": "Frozen Soul",
+          "url": "https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Arsenal of War",
+      "url": "https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6"
+    },
+    {
+      "added_at": "2023-03-17 18:41:46",
+      "album": {
+        "name": "NMP",
+        "url": "https://open.spotify.com/album/0MOfr3DoxeFA5hSGEVAfR4"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        },
+        {
+          "name": "Vyva Melinkolya",
+          "url": "https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX"
+        }
+      ],
+      "duration_ms": 465920,
+      "name": "NMP",
+      "url": "https://open.spotify.com/track/5v4t1vpHgAXNy4EXqwYJaa"
+    },
     {
       "added_at": "2023-03-10 20:36:04",
       "album": {

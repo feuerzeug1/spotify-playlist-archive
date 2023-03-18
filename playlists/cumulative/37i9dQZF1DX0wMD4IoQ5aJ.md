@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-284 songs - 15 hr 11 min
+285 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 | 2022-04-15 |  |
 | [Doja Dojo](https://open.spotify.com/track/3y0raD8eU9EHrxTCSr9AvL) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Doja Dojo](https://open.spotify.com/album/3oyC5IKHH1VdM7L9o18gfA) | 4:12 | 2022-04-15 |  |
 | [Don't You Know?](https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm) | [Reya Silk](https://open.spotify.com/artist/4xpRAPHVyirmL93zZGQsps) | [Don't You Know?](https://open.spotify.com/album/6lEb1p0SYafJ734pQ1ceu4) | 2:17 | 2022-04-15 | 2022-08-19 |
-| [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2022-04-15 |  |
+| [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2022-04-15 | 2023-03-18 |
 | [Drinks on You](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Drinks On You, / Places To Go](https://open.spotify.com/album/6GFWbw9g0xkIACWMJiFlFo) | 3:48 | 2022-04-15 |  |
 | [Electric Moments](https://open.spotify.com/track/3T24DOXoiTHkzRxgnSX0SI) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Electric Moments](https://open.spotify.com/album/10wIuQ7caZKzB0fXSmKzRk) | 2:35 | 2022-04-15 | 2022-06-10 |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2022-04-15 | 2022-05-11 |
@@ -102,6 +102,7 @@
 | [Essence](https://open.spotify.com/track/3UEqSBDZxPv6dZc6Ysgpyj) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Essence](https://open.spotify.com/album/5afNE10Oh6rhMJrDVqPtxL) | 3:14 | 2022-11-25 |  |
 | [evenings with u](https://open.spotify.com/track/1E3LzOvG6zBVvn68sEZZjr) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [evenings with u](https://open.spotify.com/album/39DWG3sn0Fq4yNB2eBnzln) | 2:38 | 2022-10-14 |  |
 | [Eventide](https://open.spotify.com/track/3dZhAToKg4famFWbbqLT1m) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Eventide](https://open.spotify.com/album/2mypqQlLvZUuDCdq8S1mW6) | 3:08 | 2022-10-07 |  |
+| [f l e x y](https://open.spotify.com/track/7FGpMTVYhRmig3k2QrW2Ap) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [dragonfruit](https://open.spotify.com/album/6le3ePHC3h4R9zyrBjq9nR) | 2:20 | 2023-03-16 |  |
 | [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 | 2022-04-15 |  |
 | [Faith](https://open.spotify.com/track/2NhCEoTqHhNagtXy7FodXS) | [Transpiritual](https://open.spotify.com/artist/59taaUJx3Bx2oLgYe8EUjN), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Trust & Faith](https://open.spotify.com/album/0Pgu7FEdMvIsg1TBamBd5M) | 3:29 | 2023-02-24 |  |
 | [Feel Free](https://open.spotify.com/track/3fzi3cbZdfxc1lMTY7vKFC) | [Liléa Narrative](https://open.spotify.com/artist/3zdmSedktArdETaKwrzv92) | [Co/ll\-nn/ection](https://open.spotify.com/album/626F8sjLoDYXAwwDakwiAd) | 4:05 | 2022-05-13 | 2023-02-10 |

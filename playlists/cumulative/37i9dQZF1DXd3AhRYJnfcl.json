@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 203016,
       "name": "Malek El Fabraka",
       "url": "https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx"
@@ -1810,6 +1810,24 @@
       "duration_ms": 192000,
       "name": "Ra\u2019sa Slow",
       "url": "https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w"
+    },
+    {
+      "album": {
+        "name": "Rmdan Gana",
+        "url": "https://open.spotify.com/album/4UJv2mZuwdolbIYrUsaqDL"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Abdel Mottaleb",
+          "url": "https://open.spotify.com/artist/2nX9ORfbBVoEWXP7DonRGM"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586866,
+      "name": "Rmdan Gana",
+      "url": "https://open.spotify.com/track/6jUCTPPX5VAEFaiQl75xel"
     },
     {
       "album": {
@@ -2277,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Ana Kteer",
+        "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299258,
+      "name": "Ya Layaly",
+      "url": "https://open.spotify.com/track/7ygixJ8FptOv80Ot2KadAN"
+    },
+    {
+      "album": {
         "name": "Ya Rab Tkoon Be Khair",
         "url": "https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV"
       },
@@ -2554,7 +2590,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 237600,
       "name": "\u0628\u062d\u0628\u0643 \u0648 \u062e\u0627\u064a\u0641",
       "url": "https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr"
@@ -2727,6 +2763,28 @@
     },
     {
       "album": {
+        "name": "\u062e\u0636\u0631\u0647 (\u0645\u062a\u064a \u0627\u0634\u0648\u0641\u0643)",
+        "url": "https://open.spotify.com/album/12oAamMej3DmmUzJXJEmSA"
+      },
+      "artists": [
+        {
+          "name": "amadio",
+          "url": "https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj"
+        },
+        {
+          "name": "Khadra Mohamed Khedr",
+          "url": "https://open.spotify.com/artist/4mhP8OWyNDZJbXJnnj7Cb8"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "\u062e\u0636\u0631\u0647 - \u0645\u062a\u064a \u0627\u0634\u0648\u0641\u0643",
+      "url": "https://open.spotify.com/track/50VIdPGBGBsE9K4RyNf56A"
+    },
+    {
+      "album": {
         "name": "\u062e\u0637\u0648\u0629 \u0627\u062c\u0628\u0627\u0631\u064a",
         "url": "https://open.spotify.com/album/74il7VqlKq7JEM1oiTrIm5"
       },
@@ -2742,7 +2800,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 110352,
       "name": "\u062e\u0637\u0648\u0629 \u0627\u062c\u0628\u0627\u0631\u064a",
       "url": "https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02"

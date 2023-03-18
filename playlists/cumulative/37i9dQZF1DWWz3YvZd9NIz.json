@@ -171,6 +171,32 @@
     },
     {
       "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/0YNEmoYaQLUhd2Q65qfyKz"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "BAYZY",
+          "url": "https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z"
+        },
+        {
+          "name": "Oleria",
+          "url": "https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/4e9WiV2XBB4GSC0odwrS75"
+    },
+    {
+      "album": {
         "name": "Around the World (La la La)",
         "url": "https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj"
       },
@@ -240,7 +266,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 173666,
       "name": "Bad Boys - Harddance Mix",
       "url": "https://open.spotify.com/track/6EZsJ6KkOPQtSqWKw0KsGF"
@@ -2037,6 +2063,32 @@
     },
     {
       "album": {
+        "name": "The Sinner",
+        "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Raakmo",
+          "url": "https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n"
+    },
+    {
+      "album": {
         "name": "The Wellerman (Sea Shanty)",
         "url": "https://open.spotify.com/album/1c5f9Qa41aKzuko7bNsxJW"
       },
@@ -2228,7 +2280,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 202929,
       "name": "Your Love (Atmozfears & Sound Rush Remix)",
       "url": "https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT"

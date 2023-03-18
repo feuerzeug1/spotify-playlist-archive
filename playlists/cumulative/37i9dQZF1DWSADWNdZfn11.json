@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 214000,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/4UhT0Dxxm0cX6P2NBxCp5t"
@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Beauty And The Beast",
+        "url": "https://open.spotify.com/album/3P5y0GZyb6kp6GCJDqjtLm"
+      },
+      "artists": [
+        {
+          "name": "Donovan Lakeberg",
+          "url": "https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Beauty And The Beast",
+      "url": "https://open.spotify.com/track/64Ld2wt8Mta8Bsx6AHfUqj"
+    },
+    {
+      "album": {
         "name": "Calm Piano Covers no 1",
         "url": "https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP"
       },
@@ -640,6 +658,24 @@
       "duration_ms": 121000,
       "name": "Blinding Lights - Piano Version",
       "url": "https://open.spotify.com/track/0ozyv9adSVDED8Emhd8hfu"
+    },
+    {
+      "album": {
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F"
+      },
+      "artists": [
+        {
+          "name": "Christian Lindquist",
+          "url": "https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179601,
+      "name": "Blue (Da Ba Dee)",
+      "url": "https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw"
     },
     {
       "album": {
@@ -942,7 +978,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 202516,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/3UMuJHDp6PkATj3In37sNk"
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 227858,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/3qLlQ4RLl3B8PaEdIG6H0d"
@@ -1382,6 +1418,24 @@
       "duration_ms": 182832,
       "name": "Go your own way",
       "url": "https://open.spotify.com/track/16pcdSTB0XzKh0fDa2bqHt"
+    },
+    {
+      "album": {
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/7wYPKaSPMw5EUbpXvxhbw8"
+      },
+      "artists": [
+        {
+          "name": "Alva N\u00f8rgaard",
+          "url": "https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152038,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/0fT81LQSf4Rd9BL0YyAJV5"
     },
     {
       "album": {
@@ -1954,7 +2008,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 145965,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/1NoqgdbmwW0qM1KFPW8C7o"
@@ -2030,6 +2084,24 @@
       "duration_ms": 231724,
       "name": "In The Air Tonight",
       "url": "https://open.spotify.com/track/6NTdYJI8jF1fsIg9VBz15H"
+    },
+    {
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/1W2qb46rf1tenU6ZA0LQuS"
+      },
+      "artists": [
+        {
+          "name": "Fileas Aunad",
+          "url": "https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193910,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5W6zXdPsiOog0v4k8IuWNK"
     },
     {
       "album": {
@@ -2314,7 +2386,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 260385,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/0Pd8UT4ZfD24bAL61D7DTC"
@@ -2498,6 +2570,24 @@
       "duration_ms": 194000,
       "name": "Lover - Piano",
       "url": "https://open.spotify.com/track/6SLbPpHePkvoQvgrvazQuD"
+    },
+    {
+      "album": {
+        "name": "CUFF IT",
+        "url": "https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212843,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/2k3QV3SMq2dtrhOawzW1jo"
     },
     {
       "album": {
@@ -2883,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/3x7NKtgnNfaISOyoo75ycu"
+      },
+      "artists": [
+        {
+          "name": "Noah Jacob",
+          "url": "https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211750,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/0I5mXZkU8DMMzNu7ezROna"
+    },
+    {
+      "album": {
         "name": "Paint It Black (Piano Instrumental)",
         "url": "https://open.spotify.com/album/772xaFGzw2bjGQHJuqAru4"
       },
@@ -3243,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0LAO785ee5Dx0SNTMApanL"
+      },
+      "artists": [
+        {
+          "name": "Vakur Svalason",
+          "url": "https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197655,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/37Q5ch306KnUX50iexm8qy"
+    },
+    {
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/1sRnP9KSKkPAKGyaMTWNlA"
       },
@@ -3456,6 +3582,24 @@
       "duration_ms": 186000,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/2ITqS38JzeAoc9jMsFXeuY"
+    },
+    {
+      "album": {
+        "name": "Something Just Like This",
+        "url": "https://open.spotify.com/album/4m2HH3fxP66hxxsYcxS6F2"
+      },
+      "artists": [
+        {
+          "name": "Thomas Loof",
+          "url": "https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240388,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/372mqKuv9LTctBHVpD0XXP"
     },
     {
       "album": {
@@ -3675,6 +3819,24 @@
     },
     {
       "album": {
+        "name": "Talking To The Moon",
+        "url": "https://open.spotify.com/album/36kCoY0H6FV0aKKIMefH7r"
+      },
+      "artists": [
+        {
+          "name": "Dani Mezzo",
+          "url": "https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189124,
+      "name": "Talking To The Moon",
+      "url": "https://open.spotify.com/track/7wtsP54umUm3MvvdRWBOrU"
+    },
+    {
+      "album": {
         "name": "Tears in Heaven",
         "url": "https://open.spotify.com/album/2Dmxvjk3f8x0nwcBw7OIyb"
       },
@@ -3708,6 +3870,24 @@
       "duration_ms": 206999,
       "name": "Thank You For The Music",
       "url": "https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc"
+    },
+    {
+      "album": {
+        "name": "CUFF IT",
+        "url": "https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199652,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/2291OZxZ4Ra3FNKDhljgBr"
     },
     {
       "album": {
@@ -4201,6 +4381,24 @@
     },
     {
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0LAO785ee5Dx0SNTMApanL"
+      },
+      "artists": [
+        {
+          "name": "Vakur Svalason",
+          "url": "https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173678,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/3tKauD5kFXQb4cju242NMv"
+    },
+    {
+      "album": {
         "name": "When I Held Ya",
         "url": "https://open.spotify.com/album/0SK2OyGdMTXcayeC3M4X3v"
       },
@@ -4288,7 +4486,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 178285,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/4DU5U0BXdvuMdbDi5GagvO"

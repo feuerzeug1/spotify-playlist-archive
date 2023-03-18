@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-157 songs - 9 hr 51 min
+158 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [I'm So Lonely](https://open.spotify.com/track/6BsaK0v4nm49vNd5ccHyRX) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/0njoBaMuox6zxRG9Is8WRF) | 4:40 | 2020-08-11 | 2022-07-29 |
 | [in three years' time \- Stripped Back](https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back \(deluxe\)](https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS) | 2:55 | 2022-08-26 |  |
 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 | 2022-05-20 |  |
+| [I’m Gone](https://open.spotify.com/track/6ApksZhyT5U7HiKVdWiMmm) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Raw Blues 1](https://open.spotify.com/album/6SBifKJcv5Cm8PYH3akPeC) | 3:11 | 2023-03-17 |  |
 | [Johnny law](https://open.spotify.com/track/4z9Je08Qpyfn6q7bbiqmW5) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/3WjgDAPVhWl6cdc7q3EM1R) | 4:29 | 2020-08-11 | 2022-07-29 |
 | [Johnny law](https://open.spotify.com/track/50NxwJPlcjsT7IqFshyuYP) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J) | 4:29 | 2020-08-11 |  |
 | [Kansas City Blues](https://open.spotify.com/track/58TQAkARupFHoHVQ00Yj9S) | [Steve Howell](https://open.spotify.com/artist/3xJEpa8iyCscYkG3XlIxBU), [Jason Weinheimer](https://open.spotify.com/artist/4SVe1RgQ8VnJ5Lgb6NodF3) | [A Hundred Years from Today](https://open.spotify.com/album/2h4vnUECqd75oUIBehBMYl) | 3:07 | 2020-08-11 |  |
@@ -105,7 +106,7 @@
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-01-14 |  |
 | [Outside In](https://open.spotify.com/track/2UkTauEJ6yPkVEVw9YuQKL) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Train Home](https://open.spotify.com/album/6SEWmobZYy2j8oHGWC70na) | 4:11 | 2020-08-11 | 2022-06-18 |
 | [Pay Day](https://open.spotify.com/track/5oNiGRP6jxcK3uoF2U144o) | [The Blues Preachers](https://open.spotify.com/artist/3ikhKlxQA5V5LcZEos15Zb) | [Dry Long So](https://open.spotify.com/album/2St0nFT4MkzzFhTsFLI7nS) | 4:10 | 2020-08-11 |  |
-| [Plaquemine](https://open.spotify.com/track/56M0BOuK6FO44wShNMFEbh) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Plaquemine](https://open.spotify.com/album/5kp6Tqyvjk3JIAtO3s4d4N) | 4:00 | 2023-02-17 |  |
+| [Plaquemine](https://open.spotify.com/track/56M0BOuK6FO44wShNMFEbh) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Plaquemine](https://open.spotify.com/album/5kp6Tqyvjk3JIAtO3s4d4N) | 4:00 | 2023-02-17 | 2023-03-18 |
 | [Play With Your Poodle](https://open.spotify.com/track/0yqFqZtH96Z8WPd9Q6AvJU) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Harmonica Blues](https://open.spotify.com/album/3CcEEK5lIRYkBfObfCEmSj) | 3:39 | 2020-08-11 | 2022-11-13 |
 | [Play With Your Poodle](https://open.spotify.com/track/2Q7j9wJk8DomZhKckPeHdy) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Blowin' Harp Blues](https://open.spotify.com/album/1M0V9j5iTvdNT2hNGq5utx) | 3:39 | 2020-08-11 | 2022-07-29 |
 | [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 | 2020-08-11 |  |

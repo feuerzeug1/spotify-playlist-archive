@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Argentina en la casa! Foto: Yami Safdie.
+> Argentina en la casa! Foto: Salastkbron.
 
-170 songs - 8 hr 14 min
+171 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-18 |  |
 | [Aayy](https://open.spotify.com/track/1t9ACqzC2bq1Sdbsmz9mB4) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Aayy](https://open.spotify.com/album/5zNmydFt8hQTXAicpO8voH) | 2:56 | 2022-12-23 |  |
 | [ACTITUD](https://open.spotify.com/track/6B4eP363FzRSfzGHR9yObo) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [ACTITUD](https://open.spotify.com/album/0MDOQ257yz4SQeBnuIaJP2) | 2:39 | 2022-05-24 | 2023-02-04 |
-| [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 | 2022-05-24 |  |
+| [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 | 2022-05-24 | 2023-03-18 |
 | [Animal](https://open.spotify.com/track/0mnp9pNxEm4PF7cNOzSyhI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:23 | 2022-05-24 | 2022-06-04 |
 | [Anoche \(Remix\)](https://open.spotify.com/track/2k6RWRsm2yYD8lOJjer5qa) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Anoche \(Remix\)](https://open.spotify.com/album/0ibOm3Sm7K1o6wG8I9B6QQ) | 3:48 | 2022-05-24 |  |
 | [Atrévete](https://open.spotify.com/track/4HDJzMYiqYxbON1CGa19x4) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Atrévete](https://open.spotify.com/album/2wpVr5x946STGMJKussoXW) | 2:49 | 2022-05-24 | 2022-11-26 |
@@ -22,7 +22,7 @@
 | [Baby Drip](https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Baby Drip](https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d) | 3:22 | 2022-07-28 | 2023-02-18 |
 | [BABY DRIP](https://open.spotify.com/track/5rsR3HabI5cDfztvbFvUJr) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [BABY DRIP](https://open.spotify.com/album/5PyWxSxtmxTO0F46TrFWZu) | 3:22 | 2022-05-24 | 2022-07-29 |
 | [Bailando Te Conocí](https://open.spotify.com/track/0vvuIsoJ101Hme1VIXBIEi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bailando Te Conocí](https://open.spotify.com/album/1SfkXB9PkSL5ctluCBpXqC) | 3:14 | 2022-05-24 |  |
-| [BANDIDA](https://open.spotify.com/track/579JvpCcewz3IBcbv9ea8e) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [TURROMANTICO](https://open.spotify.com/album/0lSIshi0zVMrl1N2MvAEIn) | 3:07 | 2022-05-24 |  |
+| [BANDIDA](https://open.spotify.com/track/579JvpCcewz3IBcbv9ea8e) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [TURROMANTICO](https://open.spotify.com/album/0lSIshi0zVMrl1N2MvAEIn) | 3:07 | 2022-05-24 | 2023-03-18 |
 | [Bendición](https://open.spotify.com/track/5fIpvX6QRQ9hLtMjJYeKty) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Bendición](https://open.spotify.com/album/7Eo44MvuVaLGz2zIlvrhTO) | 2:49 | 2022-05-24 |  |
 | [Bien Backeao](https://open.spotify.com/track/17a9aplVkXXIvbiZ1nsv4Q) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Bien Backeao](https://open.spotify.com/album/0L856tfb66xrX8st1zTCrT) | 2:09 | 2022-05-24 |  |
 | [Blokeao](https://open.spotify.com/track/5au1ohqMri0oI2JyCbkl9J) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Blokeao](https://open.spotify.com/album/08Eyi1GTWoDYfVzHOGikDW) | 3:17 | 2022-08-05 |  |
@@ -55,6 +55,7 @@
 | [Esa Noche](https://open.spotify.com/track/7nWqU2IJs9i0hcVIR90mnv) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [Esa Noche](https://open.spotify.com/album/6jIPyNjDzIStyEOUB3NezY) | 2:40 | 2022-05-24 |  |
 | [Esos Días](https://open.spotify.com/track/6oRyIk7U3jWGFH6zRKOT5T) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días](https://open.spotify.com/album/5YTwmNj6F1khhCCos7DV7w) | 2:31 | 2022-07-28 | 2023-02-04 |
 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2022-05-24 | 2022-07-29 |
+| [ESPERO](https://open.spotify.com/track/1wy5Gw79M9973w36dMZcuH) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [ESPERO](https://open.spotify.com/album/5DwV6ipYSjaP8Q4M0T5e5o) | 3:20 | 2023-03-17 |  |
 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 | 2022-05-24 |  |
 | [Fantastic](https://open.spotify.com/track/25VGPBzih52Ou2gyJkaV9e) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g), [Nico Melo](https://open.spotify.com/artist/3RRYZ1jmjvHKX6sxBP2ANo) | [Fantastic](https://open.spotify.com/album/7DrCJyYqlEVuoQi4zy27UH) | 2:47 | 2022-12-06 |  |
 | [Fichaje \#1](https://open.spotify.com/track/1W0aQgl1jE9pz9k4sBdK8o) | [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Fichaje \#1](https://open.spotify.com/album/127kJoL8bE6Xuuhefxyb55) | 3:18 | 2023-02-03 |  |
@@ -81,7 +82,7 @@
 | [JUNGLE](https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [JUNGLE](https://open.spotify.com/album/6XromBO32uhidY3LWZORO1) | 2:54 | 2022-05-24 | 2022-11-08 |
 | [Ke No Importe Na](https://open.spotify.com/track/3VwuVG1pdI45jJ7RGps0sn) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Ke No Importe Na](https://open.spotify.com/album/6kehms0cE5sDqL2PF42jJt) | 2:34 | 2022-05-24 | 2022-06-18 |
 | [KILOWA](https://open.spotify.com/track/54acJyeShQSK5DfEdW7J7n) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [KILOWA](https://open.spotify.com/album/1U4rNnGAuoDm01x3kOHnU9) | 2:12 | 2022-05-24 | 2022-05-28 |
-| [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 | 2022-12-09 |  |
+| [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 | 2022-12-09 | 2023-03-18 |
 | [KU'](https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [KU'](https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf) | 3:50 | 2022-05-24 |  |
 | [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 | 2022-12-09 |  |
 | [La Pistola](https://open.spotify.com/track/4n9tFJoRyzeva7Bgy5sCM7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [La Pistola](https://open.spotify.com/album/5Rgnyuzb9DkpmmF3VDZEuq) | 3:02 | 2023-01-27 |  |

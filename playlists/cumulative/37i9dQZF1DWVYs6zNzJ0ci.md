@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Rawayana, Danny Ocean
 
-252 songs - 17 hr 5 min
+253 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Ganas de Verte](https://open.spotify.com/track/53LAYZeyIvplSdQTmEoeKC) | [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk) | [Ganas de Verte](https://open.spotify.com/album/3iskV49V4RAvWSbHOBrgr7) | 4:05 | 2022-09-30 |  |
 | [Groove Me](https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Groove Me](https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw) | 3:04 | 2022-01-21 | 2022-07-17 |
 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 | 2021-12-10 |  |
-| [Hasta la Noche \(Ilegal\)](https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8) | 5:07 | 2022-07-08 |  |
+| [Hasta la Noche \(Ilegal\)](https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8) | 5:07 | 2022-07-08 | 2023-03-18 |
 | [Hasta la Noche \(Ilegal\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0BzncqR8TyG5Jzy7NNk9pm) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/3DkpSX4WupAad9H3DgdVji) | 5:07 | 2021-12-10 | 2022-07-28 |
 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 | 2021-12-10 |  |
 | [Hecho de Barro](https://open.spotify.com/track/0rOUwNP8qdPaxDZgcD6WoA) | [Kika Mousse](https://open.spotify.com/artist/1fFShpF6NjQ8ditOzSQio8) | [Historias](https://open.spotify.com/album/63DcaLRhxpXv9d08lQ5LRY) | 4:18 | 2022-04-01 | 2022-04-21 |
@@ -215,6 +215,7 @@
 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 | 2021-12-10 |  |
 | [Sintiendo el Ánimo](https://open.spotify.com/track/2EVDau86ZdNIBOKx7qvkUR) | [Vibranko](https://open.spotify.com/artist/4PwGCD3OWzdY2gZf1DoHdu), [Danilo del Flow](https://open.spotify.com/artist/1Hht5i2SyJVpcihTk7pQHW) | [Sintiendo el Ánimo](https://open.spotify.com/album/28BsZnN1pXfKs1B6MkdoeS) | 3:03 | 2022-11-18 | 2023-01-21 |
 | [Sisters](https://open.spotify.com/track/64javozcRkMoxYdbhIiUXo) | [Panal](https://open.spotify.com/artist/49pcyFdsrBRYnbTXZUOurP) | [Sisters](https://open.spotify.com/album/4CvPKgGnPxfiE2X2Tm4Hmx) | 3:23 | 2021-12-10 | 2022-07-15 |
+| [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo un eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 | 2023-03-17 |  |
 | [Sound System](https://open.spotify.com/track/2GhQb581GzsrGtIhemqrRT) | [Ska Beat City](https://open.spotify.com/artist/4ZrOD7qBmuKV06QXkC9j6o), [King Hammond](https://open.spotify.com/artist/65MIdx4CJERQ0esySuu05f) | [Sound System](https://open.spotify.com/album/41v1Y8axovxvY18ArshdGi) | 3:33 | 2022-02-04 | 2022-04-20 |
 | [Soy Latino](https://open.spotify.com/track/08W016xoCPlcEFCfcbZg1n) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Soy Latino](https://open.spotify.com/album/4vpU0mnMhhUpi4crJhWiFN) | 3:53 | 2022-04-01 | 2022-04-21 |
 | [Soy un Lion](https://open.spotify.com/track/5asB0dIZTE4mHbX9mhm89g) | [Little Pepe](https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Soy un Lion](https://open.spotify.com/album/66PzOEOI6XehXOEG9rtJ8B) | 3:24 | 2022-01-21 | 2022-08-02 |

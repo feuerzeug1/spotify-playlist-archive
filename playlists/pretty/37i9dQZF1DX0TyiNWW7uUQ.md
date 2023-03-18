@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Varisu
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,074 likes - 58 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,886 likes - 58 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 33 | [Ennai Vittu](https://open.spotify.com/track/4FOCZFqxIS1Xc5JWla5VNj) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 4:04 |
 | 34 | [Kurumugil](https://open.spotify.com/track/1xtlT8C62HToUvB0xmwvyi) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Sita Ramam \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9) | 3:38 |
 | 35 | [Kadhaippoma](https://open.spotify.com/track/2CZGdpVV9OU1TslQMvovj5) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Oh My Kadavule \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Rz5sEK5x1qzlKsGxwlxGK) | 4:42 |
-| 36 | [Sirikkalam Parakkalam](https://open.spotify.com/track/5MbszOoRyTOwOIJEOIZn6v) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Madurai Soulijos](https://open.spotify.com/artist/4FgSTfUKCjbKGQlhuH5e34) | [Kannum Kannum Kollaiyadithaal](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 3:16 |
-| 37 | [Saarattu Vandiyila](https://open.spotify.com/track/42ON67EVCaJpihkP2U38n7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kaatru Veliyidai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tLekrnboehY2rLZhf5YVi) | 4:51 |
+| 36 | [Saarattu Vandiyila](https://open.spotify.com/track/42ON67EVCaJpihkP2U38n7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kaatru Veliyidai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tLekrnboehY2rLZhf5YVi) | 4:51 |
+| 37 | [Sirikkalam Parakkalam](https://open.spotify.com/track/5MbszOoRyTOwOIJEOIZn6v) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Madurai Soulijos](https://open.spotify.com/artist/4FgSTfUKCjbKGQlhuH5e34) | [Kannum Kannum Kollaiyadithaal](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 3:16 |
 | 38 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 |
 | 39 | [Adheeraa](https://open.spotify.com/track/5SXwKl2nWY1No4wZ0FJDHN) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV), [Thoughtsfornow](https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG) | [Cobra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3) | 4:19 |
 | 40 | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO) | 3:31 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 57 | [Chellamma](https://open.spotify.com/track/7fdsoKCtpx2hYXDRMoActW) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Doctor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVOaTioI70p4A36YtSDbY) | 3:56 |
 | 58 | [Dharala Prabhu Title Track](https://open.spotify.com/track/7MtK3lPdVPq2WGO6EWHB9V) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Dharala Prabhu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4O5iuMBSmUXMZIrBgx3LOG) | 3:19 |
 
-Snapshot ID: `MTY3NzY1MTE3NSwwMDAwMDAwMDYzOTlkODcxN2ZiZDlmZDE2ZTdhNTUwNGVlMmJkYTJl`
+Snapshot ID: `MTY3NzY1MTE3NSwwMDAwMDAwMGZlODFjMDQ3NGM1NWQ5NTQyY2Q1MWNlZjI2OThjOTJm`

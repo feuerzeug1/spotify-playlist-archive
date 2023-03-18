@@ -1,13 +1,29 @@
 {
   "description": "saturation, distortion, overdrive, feedBack. Cover: kurffew",
-  "num_followers": 9982,
+  "num_followers": 10212,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODkxMDI0NywwMDAwMDAwMDQyYjVjMTU1ZjM4N2IxYjM3NTU2YzkwNTE5YjdlYzAy",
+  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMGNiNmU2MGRjMWZjNzQ4NmRjMzIwODVlNzRkMmU0NWVm",
   "tracks": [
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "WISH I NEVER KNEW YOU",
+        "url": "https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "WISH I NEVER KNEW YOU",
+      "url": "https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2"
+    },
     {
       "added_at": "2023-03-15 19:57:27",
       "album": {
@@ -23,6 +39,158 @@
       "duration_ms": 138000,
       "name": "let her go",
       "url": "https://open.spotify.com/track/2ovFPM5cL34Mo5ZsOD0F7N"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "CAROLINE",
+        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 192951,
+      "name": "CAROLINE",
+      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "tooth",
+        "url": "https://open.spotify.com/album/5pNYo2aydjdR0n1PrL99d5"
+      },
+      "artists": [
+        {
+          "name": "lavi kou",
+          "url": "https://open.spotify.com/artist/77g4HXj3U279MaBzDn9eP0"
+        }
+      ],
+      "duration_ms": 86400,
+      "name": "tooth",
+      "url": "https://open.spotify.com/track/1jlh10sj0EezRytqgOgHvf"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "teeth (you)",
+        "url": "https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 121624,
+      "name": "teeth (you)",
+      "url": "https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Ecosystem",
+        "url": "https://open.spotify.com/album/20YZdaFF5d2V2G83hOcqFs"
+      },
+      "artists": [
+        {
+          "name": "patchymate",
+          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Dream Analysis",
+      "url": "https://open.spotify.com/track/68MQeN7xm2ooBG1o3BIS39"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/0slkV34l718fubBPy4GzOB"
+      },
+      "artists": [
+        {
+          "name": "nomu.",
+          "url": "https://open.spotify.com/artist/2NSBzBPu05xNzAUv10mdTc"
+        }
+      ],
+      "duration_ms": 148460,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "update failed",
+        "url": "https://open.spotify.com/album/3Ga4jF853bRTfUMjKq7QjW"
+      },
+      "artists": [
+        {
+          "name": "heylog",
+          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
+        }
+      ],
+      "duration_ms": 226736,
+      "name": "update failed",
+      "url": "https://open.spotify.com/track/0Fn5lBgRWCxZUM1NI5Qvp7"
+    },
+    {
+      "added_at": "2023-03-16 16:31:47",
+      "album": {
+        "name": "Fun and Forget",
+        "url": "https://open.spotify.com/album/4fOAgauRwqgTolmLomauv9"
+      },
+      "artists": [
+        {
+          "name": "SSJ Twiin",
+          "url": "https://open.spotify.com/artist/6XvELv4pue2ll8vImdm6ts"
+        },
+        {
+          "name": "thekid.ACE",
+          "url": "https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM"
+        }
+      ],
+      "duration_ms": 158614,
+      "name": "Fun and Forget",
+      "url": "https://open.spotify.com/track/3cZ1SjHd0QIVRgGXiJfb5n"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "random song",
+        "url": "https://open.spotify.com/album/2u9P72xEjnCMDgGfqP676g"
+      },
+      "artists": [
+        {
+          "name": "2504",
+          "url": "https://open.spotify.com/artist/3s6Gdmnv9MuQNX2E7i5EMr"
+        },
+        {
+          "name": "Senses",
+          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
+        }
+      ],
+      "duration_ms": 159961,
+      "name": "random song",
+      "url": "https://open.spotify.com/track/3mAypVO7bbdCHgJo5PlpKb"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "battle",
+        "url": "https://open.spotify.com/album/5ggDewxZAS4HZNwdb4MBsx"
+      },
+      "artists": [
+        {
+          "name": "kaido",
+          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
+        }
+      ],
+      "duration_ms": 77300,
+      "name": "battle",
+      "url": "https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -55,38 +223,6 @@
       "duration_ms": 178723,
       "name": "narcissism (outofyrmind)",
       "url": "https://open.spotify.com/track/2W6buc64CxZZ4LC38sMJ98"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/0slkV34l718fubBPy4GzOB"
-      },
-      "artists": [
-        {
-          "name": "nomu.",
-          "url": "https://open.spotify.com/artist/2NSBzBPu05xNzAUv10mdTc"
-        }
-      ],
-      "duration_ms": 148460,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "battle",
-        "url": "https://open.spotify.com/album/5ggDewxZAS4HZNwdb4MBsx"
-      },
-      "artists": [
-        {
-          "name": "kaido",
-          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
-        }
-      ],
-      "duration_ms": 77300,
-      "name": "battle",
-      "url": "https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -136,7 +272,7 @@
           "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         }
       ],
-      "duration_ms": 187373,
+      "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
     },
@@ -183,18 +319,18 @@
     {
       "added_at": "2023-03-15 19:57:27",
       "album": {
-        "name": "teeth (you)",
-        "url": "https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY"
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1"
       },
       "artists": [
         {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 121624,
-      "name": "teeth (you)",
-      "url": "https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP"
+      "duration_ms": 152551,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -211,6 +347,22 @@
       "duration_ms": 121296,
       "name": "i dont wna cry (haste)",
       "url": "https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "yu can do better, yu deserve it",
+        "url": "https://open.spotify.com/album/0Ey9F2JnL36FAQdV1KxOax"
+      },
+      "artists": [
+        {
+          "name": "problemchild",
+          "url": "https://open.spotify.com/artist/2qBJ2KSP3IxiyrufZ2HZJM"
+        }
+      ],
+      "duration_ms": 152096,
+      "name": "yu can do better, yu deserve it",
+      "url": "https://open.spotify.com/track/3yBG98uAE6hdRQF8tZhdJP"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -249,6 +401,26 @@
       "url": "https://open.spotify.com/track/3UCS6qOeXaVjtj2n7D5vZs"
     },
     {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "don't bother me!!!",
+        "url": "https://open.spotify.com/album/1UK4uh5DuMuXvnnuXuTVUN"
+      },
+      "artists": [
+        {
+          "name": "Atlas in Motion",
+          "url": "https://open.spotify.com/artist/1N9JxmOPJqhMCw219uoEi8"
+        },
+        {
+          "name": "han.irl <3",
+          "url": "https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "don't bother me!!!",
+      "url": "https://open.spotify.com/track/5aToRhEcNYAZbUt99vSDCL"
+    },
+    {
       "added_at": "2023-03-15 19:57:27",
       "album": {
         "name": "numbers station",
@@ -279,22 +451,6 @@
       "duration_ms": 114582,
       "name": "catherine never broke again",
       "url": "https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/6dbv42eNjML2YBqhBi35j1"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 152551,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1MRnyqgA3P1T5Dw72lfZLm"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -747,22 +903,6 @@
       "duration_ms": 159380,
       "name": "Pity Sex",
       "url": "https://open.spotify.com/track/2n9oB3ftDuSv6mEtDWfU3R"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "CAROLINE",
-        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 192951,
-      "name": "CAROLINE",
-      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
     },
     {
       "added_at": "2023-03-15 19:57:27",

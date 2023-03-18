@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Balearic Pulse",
+        "url": "https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC"
+      },
+      "artists": [
+        {
+          "name": "Moodal",
+          "url": "https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168723,
+      "name": "Balearic Pulse",
+      "url": "https://open.spotify.com/track/3hPrb5z3kXBRO8i5EOLgxw"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG"
       },
@@ -258,6 +276,24 @@
       "duration_ms": 444000,
       "name": "False Angel Lullaby",
       "url": "https://open.spotify.com/track/5Q9QWEZCmxTMTC25HrUaEf"
+    },
+    {
+      "album": {
+        "name": "Balearic Pulse",
+        "url": "https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC"
+      },
+      "artists": [
+        {
+          "name": "Moodal",
+          "url": "https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176650,
+      "name": "Finding Determination",
+      "url": "https://open.spotify.com/track/1IZ8OjFT6GAVAQ1wQCEIlv"
     },
     {
       "album": {

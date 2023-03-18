@@ -2483,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Tennessee Song",
+        "url": "https://open.spotify.com/album/3OYK1NgVMvNmYRdl9Tktb3"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122174,
+      "name": "Tennessee Song",
+      "url": "https://open.spotify.com/track/33N8V8a7OBahMlZiyom0Ch"
+    },
+    {
+      "album": {
         "name": "That's The Way Love Goes",
         "url": "https://open.spotify.com/album/0sRgXbiCAiwbEUomrguj0C"
       },

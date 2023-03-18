@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "La Santa Patrona de los Corazones Negros",
+        "url": "https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171397,
+      "name": "Entrar a la luna",
+      "url": "https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX"
+    },
+    {
+      "album": {
         "name": "Esperanza",
         "url": "https://open.spotify.com/album/4PtPHfnj1DZZIkVNlVjpyq"
       },
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
@@ -3414,6 +3432,24 @@
       "duration_ms": 337976,
       "name": "Son del Jazm\u00edn",
       "url": "https://open.spotify.com/track/0AZv0MWrg4ElVCqpz64qXZ"
+    },
+    {
+      "album": {
+        "name": "Ecos del Sur - 30 Aniversario (M\u00fasica Tradicional de Guerrero)",
+        "url": "https://open.spotify.com/album/7meW8Pb2g85SBNyUMewSUR"
+      },
+      "artists": [
+        {
+          "name": "Yolotecuani",
+          "url": "https://open.spotify.com/artist/66RQbOdMgC1I7Asw3Xy89g"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Son Guerrerense",
+      "url": "https://open.spotify.com/track/4iHtwXUsijjXjDyWIfGkem"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-72 songs - 5 hr 17 min
+74 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,11 @@
 | [After sundown](https://open.spotify.com/track/2ZAk5I9sQQHMqXTArONfAC) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 2:44 | 2022-11-30 |  |
 | [Alone With The Blues](https://open.spotify.com/track/2cush3Y6GwRgvUAvlSHNa9) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 4:24 | 2022-11-30 |  |
 | [Amazing G](https://open.spotify.com/track/6h3xIEuUwAlSeY3jAn7rKf) | [Terry Johnson](https://open.spotify.com/artist/7DWOTQc5g2G2zbd6SaXej7) | [Terry Mojo Johnson, Vol\. 2](https://open.spotify.com/album/0dx2z2A8kweCRK3etpg5GK) | 4:21 | 2022-11-30 |  |
-| [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 | 2022-11-30 |  |
+| [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers : Blues](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 | 2022-11-30 |  |
 | [Aurora](https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw) | [Daniel Arena](https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA) | [Io](https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20) | 4:44 | 2023-01-06 |  |
 | [Aurora En Pekin](https://open.spotify.com/track/7FS8URfbyqoy7uGpMx0gW5) | [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn), [Los Cubanos](https://open.spotify.com/artist/2IxTI7YzL1d2MhS6O1CJMj) | [Y Los Cubanos Postizos](https://open.spotify.com/album/3P7wuQxGz1q9jF9jY1AXKc) | 5:31 | 2022-11-30 |  |
 | [Authentic](https://open.spotify.com/track/3IIlAtayl38lQmDvuZfUAf) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 4:41 | 2023-03-03 |  |
+| [Back Slid to Heaven](https://open.spotify.com/track/7d0S96NvfnnzVnnhanZhBM) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Running Waters](https://open.spotify.com/album/7qOQeRFKmnpgY8R34U9cS9) | 2:25 | 2023-03-17 |  |
 | [Bird in a Cage](https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 6:06 | 2022-11-30 |  |
 | [Blue dreams](https://open.spotify.com/track/2sbUjbMeYzhFx23SSQmpy5) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 2:41 | 2022-11-30 |  |
 | [Blue Midnight \- Alternate Take](https://open.spotify.com/track/6qpWYefGy5ziiGVKxvoNQu) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:02 | 2022-11-30 |  |
@@ -68,6 +69,7 @@
 | [Slow Blues](https://open.spotify.com/track/0amfQAlygBi3JTf1qph861) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF) | [Homemade](https://open.spotify.com/album/5kdbWGmr1nzhXpzlDTf497) | 3:25 | 2022-11-30 |  |
 | [Slow Blues \- Instrumental](https://open.spotify.com/track/338gCLHS88lPUfCClKkPam) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 6:48 | 2022-11-30 |  |
 | [Slow Moan](https://open.spotify.com/track/6mofQlbW19indEQ5XysQOR) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Love, Lost and Found](https://open.spotify.com/album/07hE2feivwgHnjpfGkdWlY) | 3:21 | 2022-11-30 |  |
+| [Small Steps](https://open.spotify.com/track/4OrusLuxg3UWIrnrNjqjEH) | [Lenny Carr](https://open.spotify.com/artist/6gD9OrQdOh7VIuURzoFadV) | [For Elli](https://open.spotify.com/album/4Q9BQAQ35HMHEFmdG4LwgW) | 3:01 | 2023-03-17 |  |
 | [Smooth Night](https://open.spotify.com/track/2SSwokelCpWlRssUkFqd94) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:39 | 2022-11-30 |  |
 | [Sunfall Blues](https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [Sunfall](https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5) | 4:00 | 2023-01-06 |  |
 | [Sunflower River Blues \- Re\-Recorded Version](https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [Death Chants, Breakdowns And Military Waltzes](https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu) | 3:20 | 2022-11-30 |  |

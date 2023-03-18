@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,671 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,999 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 18 | [Shamanic Journeywork](https://open.spotify.com/track/76grNKEDQdFpMIftWZP3BY) | [Shamanic Journey Drumming](https://open.spotify.com/artist/10eDAAmRvolRXSFsGAT8Ht) | [Shamanic Journey Drumming](https://open.spotify.com/album/1C3dY4h7p3auKgPknDmq9v) | 3:54 |
 | 19 | [whisper](https://open.spotify.com/track/5MUvU7ylgZmnSjwXuquLXZ) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [whisper](https://open.spotify.com/album/0DrbR3dm2neCYUb3Qib5JA) | 2:34 |
 | 20 | [Lost Treasures](https://open.spotify.com/track/1rV4lmkwXPVJl5styxffBR) | [Serenity Music Zone](https://open.spotify.com/artist/5vvexjQ7ylXNyh3wLp5FvA) | [World of African Drumming \(Ancient Egypt Atmosphere, New Age Sound of the Far Orient, Tribal African Drums, Relaxation Music Oasis\)](https://open.spotify.com/album/445O0l2wZuOGXomPVmUOPg) | 4:42 |
-| 21 | [Ant Sandwich](https://open.spotify.com/track/48MaeYhgUAN64sHd9EIkPP) | [Hang Playing Hedge Monkeys](https://open.spotify.com/artist/6QWb6pd3MJQbm9jJXUPw2C) | [Vesica Piscis](https://open.spotify.com/album/7KnDYwanU8QUe8HpzDYLfM) | 3:31 |
-| 22 | [Pluto was here](https://open.spotify.com/track/3ZASLhKNNYTAo2O3Pz0lDz) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 4:45 |
-| 23 | [Hangimba](https://open.spotify.com/track/2xG6eMBqaFVHkB0TtS4S4P) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Hangimba](https://open.spotify.com/album/7CeEZ5Ci3qsveK8YC30orQ) | 2:56 |
-| 24 | [Downward Facing Dog](https://open.spotify.com/track/0QsBIO39QRGUTiTq3aYM0R) | [Jay On the Drums](https://open.spotify.com/artist/2R7WUYRds2jViOGNAGIzEd) | [Yoga Drumming 1](https://open.spotify.com/album/4T1NNdvLTkEAsgqQdOndXz) | 3:39 |
-| 25 | [The Secret Kissing of the Sun and Moon](https://open.spotify.com/track/1xTMo9M0UWSarnMlRBCXXe) | [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Luminous Emptiness](https://open.spotify.com/album/7rSjXLmVEIKwvMHWuw7EBO) | 8:57 |
-| 26 | [Piedras Encantadas](https://open.spotify.com/track/1Q0AJKWZhyWHDlUUnnZ5rs) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 2:58 |
-| 27 | [Hang Drum \- Water Sounds](https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs) | [Izkaya Ten](https://open.spotify.com/artist/1zTZTSgDxQlwEqRwhByiEj) | [Hang Drum \- Water Sounds](https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu) | 2:10 |
-| 28 | [Reiki Healing](https://open.spotify.com/track/7AFn9jNexFochuEsrpM3yz) | [Maha Rabab](https://open.spotify.com/artist/0B4XHQBcfV7eUPme4AAS5C) | [Meditategroove](https://open.spotify.com/album/3vU5fKgVkNV5HM3uTPnWlb) | 1:47 |
+| 21 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude \(Arr\. for Marimba\)](https://open.spotify.com/track/4ChnGarBVBTmsjffCl8lpq) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Chin Cheng Lin](https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt) | [Marimbaroque](https://open.spotify.com/album/1tHs1UP2hDUneaoUBCDNSF) | 2:40 |
+| 22 | [Ant Sandwich](https://open.spotify.com/track/48MaeYhgUAN64sHd9EIkPP) | [Hang Playing Hedge Monkeys](https://open.spotify.com/artist/6QWb6pd3MJQbm9jJXUPw2C) | [Vesica Piscis](https://open.spotify.com/album/7KnDYwanU8QUe8HpzDYLfM) | 3:31 |
+| 23 | [Pluto was here](https://open.spotify.com/track/3ZASLhKNNYTAo2O3Pz0lDz) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 4:45 |
+| 24 | [Hangimba](https://open.spotify.com/track/2xG6eMBqaFVHkB0TtS4S4P) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Hangimba](https://open.spotify.com/album/7CeEZ5Ci3qsveK8YC30orQ) | 2:56 |
+| 25 | [Downward Facing Dog](https://open.spotify.com/track/0QsBIO39QRGUTiTq3aYM0R) | [Jay On the Drums](https://open.spotify.com/artist/2R7WUYRds2jViOGNAGIzEd) | [Yoga Drumming 1](https://open.spotify.com/album/4T1NNdvLTkEAsgqQdOndXz) | 3:39 |
+| 26 | [The Secret Kissing of the Sun and Moon](https://open.spotify.com/track/1xTMo9M0UWSarnMlRBCXXe) | [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Luminous Emptiness](https://open.spotify.com/album/7rSjXLmVEIKwvMHWuw7EBO) | 8:57 |
+| 27 | [Piedras Encantadas](https://open.spotify.com/track/1Q0AJKWZhyWHDlUUnnZ5rs) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 2:58 |
+| 28 | [Hang Drum \- Water Sounds](https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs) | [Izkaya Ten](https://open.spotify.com/artist/1zTZTSgDxQlwEqRwhByiEj) | [Hang Drum \- Water Sounds](https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu) | 2:10 |
 | 29 | [Sunshine](https://open.spotify.com/track/3Mw806oScJ2C07uLn73vwK) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Everything But](https://open.spotify.com/album/4buD9eE8dpFa3aIy9fHgcM) | 3:15 |
 | 30 | [Tenfold](https://open.spotify.com/track/6qsh11xWaYudlYnsUxP2HQ) | [Tommy Brunjes](https://open.spotify.com/artist/75z7q04z1mNCZQ92kf6WZc), [Layne Redmond](https://open.spotify.com/artist/6q5nTTEyFoO2o1dTU6fPWA) | [Trance Union](https://open.spotify.com/album/5XMRTcTM3GRLrEPkwGVXeh) | 7:28 |
 | 31 | [Kaleidoscope: II\. Cafe without Sugar](https://open.spotify.com/track/2XiYlVBHtJTbpr9rYsEeYH) | [Chin Cheng Lin](https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt) | [Lin: Star Splendours](https://open.spotify.com/album/10CGn8DyIsIu3Q45Xt85MY) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 69 | [Mystic Rhythms](https://open.spotify.com/track/4KB0XyhLTyPoZyLjodRGne) | [Deep Meditation](https://open.spotify.com/artist/2fqkqEsGgtIToaqV8snUV6) | [Deep Meditation](https://open.spotify.com/album/6E9qV9HvDHkmSEgx5pqUEO) | 2:15 |
 | 70 | [Meditation Hang](https://open.spotify.com/track/271abQ3QNCSWfqZqHva4zL) | [Ebenholthz](https://open.spotify.com/artist/638ZZLvfjyR45K1N6yD5Ip) | [Meditation Hang](https://open.spotify.com/album/7eHNKcRzBykX6q5Xyf9U5N) | 2:58 |
 
-Snapshot ID: `MTY3MzYyODg5OSwwMDAwMDAwMDE3OWUwZjcwNzUzYzQwZDJiMTM2NTBjNmVlMmU0Mzhm`
+Snapshot ID: `MTY3OTA2NzA5MiwwMDAwMDAwMGI4OTU3OGI4NWU4ZDFiNDcxNzM4NDhmY2UzNzA5YjMz`

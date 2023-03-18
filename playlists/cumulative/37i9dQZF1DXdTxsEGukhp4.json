@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/4fI3dDhZh8PAfbH6GdH5dx"
+      },
+      "artists": [
+        {
+          "name": "Matt Cab",
+          "url": "https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31"
+        },
+        {
+          "name": "\u85e4\u7530\u7e54\u4e5f",
+          "url": "https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193142,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/66qxgF2M6rfGGMWjUMUmVZ"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -454,10 +476,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 162560,
       "name": "Himotoai",
       "url": "https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw"
+    },
+    {
+      "album": {
+        "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
+        "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "Himotoai",
+      "url": "https://open.spotify.com/track/5J1ZyBPmRGD8uIoMw6tzvb"
     },
     {
       "album": {
@@ -769,6 +809,28 @@
     },
     {
       "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Oops (feat. Charlie Puth)",
+      "url": "https://open.spotify.com/track/7uU7UhUzfZJ5vEMoemdcIW"
+    },
+    {
+      "album": {
         "name": "OTONABLUE",
         "url": "https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i"
       },
@@ -784,6 +846,24 @@
       "duration_ms": 185538,
       "name": "OTONABLUE",
       "url": "https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo"
+    },
+    {
+      "album": {
+        "name": "Our Bright Parade",
+        "url": "https://open.spotify.com/album/7eCf9tUxrNZ3LleQY5ofvX"
+      },
+      "artists": [
+        {
+          "name": "hololive IDOL PROJECT",
+          "url": "https://open.spotify.com/artist/18Zr9CaElvS40S0AtizMWZ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269192,
+      "name": "Our Bright Parade",
+      "url": "https://open.spotify.com/track/4fuwpHWlsoPUTFXEWhHC6l"
     },
     {
       "album": {
@@ -834,7 +914,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 210708,
       "name": "Purple Sky",
       "url": "https://open.spotify.com/track/2iSDIJbLx7CyyHSD6oGrOB"
@@ -928,6 +1008,24 @@
       "duration_ms": 179040,
       "name": "Scent of you",
       "url": "https://open.spotify.com/track/5ZYkN3JL30YiLogzEy38Sc"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
     },
     {
       "album": {
@@ -1344,7 +1442,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 191329,
       "name": "\u30b3\u30b3\u30ed\u3001\u30aa\u30c9\u30eb\u307b\u3046\u3067\u3002",
       "url": "https://open.spotify.com/track/3MKxwNgUa4FgU0cKBQSd9W"
@@ -1650,7 +1748,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 175000,
       "name": "\u733f\u829d\u5c45",
       "url": "https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI"
@@ -1686,7 +1784,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 265466,
       "name": "\u9583\u5149",
       "url": "https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN"

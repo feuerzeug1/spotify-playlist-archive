@@ -4,7 +4,7 @@
 
 > Meditate to the sound of soothing voices and flutes.
 
-106 songs - 5 hr 30 min
+107 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Snesl bych ti modré z nebe](https://open.spotify.com/track/1v8nEP8CRicvuRiGxxjZF6) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Snesl bych ti modré z nebe](https://open.spotify.com/album/4XDdhhDFoUgsmSjcVFRJp0) | 4:19 | 2022-05-25 |  |
 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 | 2022-05-25 |  |
 | [Soporific](https://open.spotify.com/track/3qdpjZleqYS2oJhGzXDXcz) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [Soporific](https://open.spotify.com/album/1EWsupezffYk8uVCsHESYH) | 3:20 | 2022-05-25 |  |
+| [Soul Sanctuary](https://open.spotify.com/track/0F0D6AJURYa1gLkMuaClSc) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [Soul Sanctuary](https://open.spotify.com/album/7vsIKloIvCCSEKAssTlBkH) | 3:17 | 2023-03-16 |  |
 | [Spirituality](https://open.spotify.com/track/541WtSF3QB1Rq4sSsc8Akk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Spirituality](https://open.spotify.com/album/28DSzeC4i0k8acoKV8Dhb2) | 1:55 | 2022-09-13 |  |
 | [Starry Night](https://open.spotify.com/track/6dIVWqAIpWJWxPE7cAki4G) | [Hiroki Okano](https://open.spotify.com/artist/5ZtBM3N7gMFDYynbIhlFfJ) | [Peace on Earth](https://open.spotify.com/album/4RaoQGq4D40J1GU3kYGk13) | 5:39 | 2022-05-25 |  |
 | [Sueño Profundo en la Naturaleza](https://open.spotify.com/track/0UjWCglRetLJvfzhpC1I6H) | [Música Relajante](https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR) | [Sueño Profundo En La Naturaleza](https://open.spotify.com/album/2ObWpuVUCTCT95yY7jsLTc) | 1:14 | 2022-09-30 |  |

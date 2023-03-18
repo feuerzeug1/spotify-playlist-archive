@@ -2,9 +2,9 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Groove Delight
+> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz, Maxximal, Mc Hollywood
 
-119 songs - 6 hr 4 min
+120 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Body Control](https://open.spotify.com/track/1DOiUHIWeuSePVnulxXRdM) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [Control](https://open.spotify.com/album/4JEt6Wo4ADJAoGi0NND8hm) | 3:50 | 2022-04-08 |  |
 | [Body On My Mind](https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/1BwEL9Uw8vU3ND0KCaTmdw) | 2:49 | 2021-12-24 | 2022-07-29 |
 | [Body On My Mind](https://open.spotify.com/track/2hKr4BrXEPAsmTCcX8aV5J) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 002](https://open.spotify.com/album/7DwBtsPSp8U1dVFQWtKqjk) | 2:49 | 2022-10-28 | 2022-11-13 |
-| [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2022-07-08 |  |
+| [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2022-07-08 | 2023-03-18 |
 | [Bring Me To Life](https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [David Hodges](https://open.spotify.com/artist/7fRabwYwLBgvOudI9GY2Op) | [Bring Me To Life](https://open.spotify.com/album/2yiCoX8tk9OiarK38AmVvT) | 2:21 | 2021-12-24 |  |
 | [Bubbalicious](https://open.spotify.com/track/3ZLROYAeP1y3CouHBYZCg7) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Kess Ross](https://open.spotify.com/artist/5YIZvYKBXqG9ChTtAR4D6G), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Bubbalicious](https://open.spotify.com/album/5ZVI3iLLLBUscQRvesFWoj) | 3:04 | 2022-03-04 |  |
 | [Butterflies \(feat\. Tristan Henry\)](https://open.spotify.com/track/0sUDiNgh3zHqeWPTQqandI) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FFLORA](https://open.spotify.com/artist/6H4XYByPbHw4cmWEiyoHPE), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Butterflies \(feat\. Tristan Henry\)](https://open.spotify.com/album/1nCFV0Ocfkyfrfmpmv3b6O) | 2:45 | 2021-12-24 | 2022-12-13 |
@@ -95,6 +95,7 @@
 | [Pretender](https://open.spotify.com/track/2OM6aYmfvRVnYAnfo7I9V7) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Yann Camargo](https://open.spotify.com/artist/1FAj2IV5DuzAW8Q5V9EDbp), [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Pretender](https://open.spotify.com/album/6DprqvZwBR7EGIuIfQ0J3T) | 2:50 | 2021-12-24 |  |
 | [Psycho Lover](https://open.spotify.com/track/7gmkbK3M8aNDtgANtdC4rJ) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Natasha](https://open.spotify.com/artist/5cjgvE3Q1xLDmQfBsXPKiN) | [Psycho Lover](https://open.spotify.com/album/4WDURmkvU2zYUoayi5pRNp) | 2:55 | 2023-01-20 |  |
 | [Push The Feeling On](https://open.spotify.com/track/0XkWaA0Vyls3Jd15oYWG9L) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Push The Feeling On](https://open.spotify.com/album/1UasoHOSOcPNtRII5u3wiL) | 2:54 | 2021-12-24 |  |
+| [QUE TÚ QUIERES](https://open.spotify.com/track/5ADDkBla6hmJsvvPxeV8Pg) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [QUE TÚ QUIERES](https://open.spotify.com/album/5QoP5tRJwXuFVmWOR1iGPH) | 2:12 | 2023-03-17 |  |
 | [Rare Vision](https://open.spotify.com/track/4XGTuVNDxJzYu0YMRr32fc) | [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH), [Talkz](https://open.spotify.com/artist/3tlA6hvvEzWvgLzIQX4WS5) | [Rare Vision](https://open.spotify.com/album/5Vkz6Cs7Afi7BytbP2BWb7) | 3:05 | 2022-05-20 |  |
 | [Run Into Trouble](https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Run Into Trouble](https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP) | 3:02 | 2022-04-01 | 2022-06-28 |
 | [Running](https://open.spotify.com/track/5K59VdBAhtTYIxBlne1WT2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Francesca Sardi](https://open.spotify.com/artist/1qI2ett9td7YVX6C1eiq1Z) | [Running](https://open.spotify.com/album/5JMbsiPcxRBVNztGimHvyw) | 2:39 | 2023-01-20 |  |

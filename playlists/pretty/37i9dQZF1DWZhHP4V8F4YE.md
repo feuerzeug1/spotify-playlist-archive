@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,828 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,862 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 2 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 |
 | 3 | [Sosh Plata \- Remix](https://open.spotify.com/track/3x3aen8g82ZErdMyGBuHNN) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Thapelo Ghutra](https://open.spotify.com/artist/1KOyVpsHg06svISF8XgSbi) | [Sosh Plata](https://open.spotify.com/album/3pvgrTHdJ0tA8hLJOvuIQm) | 3:58 |
-| 4 | [Duck Vibes](https://open.spotify.com/track/2KmV9CPGwUBwGRLSoiI4tX) | [Vibekulture Sa](https://open.spotify.com/artist/1nKBsRsdQ7uG99wRtNDMPd), [Mcdeez Fboy](https://open.spotify.com/artist/2yxRzYUynwWwvAOzeKngNk) | [Duck Vibes](https://open.spotify.com/album/6dyYGodC0Hwf7MXcjengzC) | 6:27 |
+| 4 | [Duck Vibes](https://open.spotify.com/track/1i4YkTmnDNDpXSdDRlsEHz) | [Vibekulture Sa](https://open.spotify.com/artist/1nKBsRsdQ7uG99wRtNDMPd), [Mcdeez Fboy](https://open.spotify.com/artist/2yxRzYUynwWwvAOzeKngNk) | [Duck Vibes](https://open.spotify.com/album/1ys3dwAhb5SkESge0hWiUp) | 6:27 |
 | 5 | [Who Is Your Guy?](https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/3l2DGZPCX1tkzV3O9tqiq4) | 2:40 |
 | 6 | [Yah Yah Yah](https://open.spotify.com/track/3urA5lEgMH3LjMp6L9recf) | [Officixl Rsa](https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv), [Mid9t](https://open.spotify.com/artist/0QIXdhRqhubzc9fgjYlvLa), [Benzoo](https://open.spotify.com/artist/7oMxieZqbSWpmWeVv4QaVg), [De\-papzo](https://open.spotify.com/artist/5HHyxRfKVky4jPQxZvLsdz), [Papiino SA](https://open.spotify.com/artist/7DlWn0sWkaYRmqusFRRorO) | [Yah Yah Yah](https://open.spotify.com/album/049CUiOwm0c2upULQptlDb) | 7:09 |
 | 7 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Prada](https://open.spotify.com/track/5rvKVqbRonRp7shf0VvnRy) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 2:55 |
 | 50 | [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 |
 
-Snapshot ID: `MTY3ODIxNjU2MSwwMDAwMDAwMGM4ODY2NmRkOWUyYmY4ZGVmYWJkNjMxNWQ0M2UxMTc5`
+Snapshot ID: `MTY3ODIxNjU2MSwwMDAwMDAwMDMyZDI2NDZiZjFjMDI5NDQ3Yjk3MDY4MDQxNWU3MTU1`

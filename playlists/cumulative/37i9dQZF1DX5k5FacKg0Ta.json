@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/3PWjcHNKxKXs2uGGOCRVqO"
+      },
+      "artists": [
+        {
+          "name": "North of Kallio Ensemble",
+          "url": "https://open.spotify.com/artist/7sB7k5nRT61iJ4HDliQRtQ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301666,
+      "name": "Celestial Heights",
+      "url": "https://open.spotify.com/track/4mPtjZ3GTE6vrjo20YcQ2b"
+    },
+    {
+      "album": {
         "name": "Chickenhawk",
         "url": "https://open.spotify.com/album/4N4x0IBcxWuTManseuPm0W"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 339026,
       "name": "Kallio",
       "url": "https://open.spotify.com/track/1IkYEuDcR2XcuT80vEx6aq"
@@ -1693,6 +1711,36 @@
     },
     {
       "album": {
+        "name": "Siskolle",
+        "url": "https://open.spotify.com/album/6R9scIfEiM51YThGUw1zue"
+      },
+      "artists": [
+        {
+          "name": "Riitta Paakki Quartet",
+          "url": "https://open.spotify.com/artist/5bRcSELkt9fC6omXgIaE66"
+        },
+        {
+          "name": "Joonas Riippa",
+          "url": "https://open.spotify.com/artist/21QtF2eJhE5KpCFib3zfqO"
+        },
+        {
+          "name": "Antti L\u00f6tj\u00f6nen",
+          "url": "https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR"
+        },
+        {
+          "name": "Manuel Dunkel",
+          "url": "https://open.spotify.com/artist/7j2FF5LqjO8mB3iT2PxnV8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491152,
+      "name": "Siskolle",
+      "url": "https://open.spotify.com/track/1MZFxoyX9Ya7Dp2gduP61z"
+    },
+    {
+      "album": {
         "name": "Potsdam",
         "url": "https://open.spotify.com/album/3QyROvaV6jKq8GIEIzUwop"
       },
@@ -1858,6 +1906,28 @@
       "duration_ms": 309413,
       "name": "Three Reflections",
       "url": "https://open.spotify.com/track/3CUWqkiPMmfgShrlv4GG1f"
+    },
+    {
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/1YWqNNUthr7skfCHUpHv4P"
+      },
+      "artists": [
+        {
+          "name": "Kalle Kalima",
+          "url": "https://open.spotify.com/artist/5fwSJDZDOdHTgXw9yFFzSq"
+        },
+        {
+          "name": "Jimi Tenor",
+          "url": "https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186543,
+      "name": "Time's Up",
+      "url": "https://open.spotify.com/track/4bgK6O1AkJFTzYHntUnidF"
     },
     {
       "album": {

@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Domingo de Ceniza",
+      "url": "https://open.spotify.com/track/4sOlPDKhf5fKPOAcWyBE1t"
+    },
+    {
+      "album": {
         "name": "El Amor Despues Del Amor",
         "url": "https://open.spotify.com/album/3u8jj80tHV1wlNcrT4QEdI"
       },
@@ -1019,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "Parte de Ti",
+        "url": "https://open.spotify.com/album/7KU9Rpk67sdhqbJ4TeZuSw"
+      },
+      "artists": [
+        {
+          "name": "Tranzas",
+          "url": "https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/65V4v8u4fi7TfnNdyBFzvX"
+    },
+    {
+      "album": {
         "name": "Veneno Vil",
         "url": "https://open.spotify.com/album/0DzCTqhV9LpnFSYYNVAgsE"
       },
@@ -1034,6 +1070,24 @@
       "duration_ms": 193250,
       "name": "Veneno Vil",
       "url": "https://open.spotify.com/track/5Tuesi0A7MxD6nU2UoHt00"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
+        "url": "https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL"
+      },
+      "artists": [
+        {
+          "name": "L\u00daA",
+          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
+      "url": "https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7eS6Eu8zMZN"

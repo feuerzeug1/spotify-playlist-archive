@@ -2,7 +2,7 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata ❤️ Cover: Mike Bahía & Greeicy
+> Tu lista favorita de Bachata ❤️ Cover: Gusi
 
 294 songs - 18 hr 26 min
 

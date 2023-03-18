@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 200620,
       "name": "Home",
       "url": "https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb"
@@ -964,6 +964,24 @@
       "duration_ms": 217349,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5UGsdm9LW7qzoOKuwFtFjT"
+    },
+    {
+      "album": {
+        "name": "Quiet Is The New Loud",
+        "url": "https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277506,
+      "name": "I Don't Know What I Can Save You From",
+      "url": "https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN"
     },
     {
       "album": {
@@ -1895,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Shame I Know",
+        "url": "https://open.spotify.com/album/6sizNncRZziwXPVFN9i0Rr"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201586,
+      "name": "Shame I Know",
+      "url": "https://open.spotify.com/track/733XxlmCjqZKSMXvwDtaH8"
+    },
+    {
+      "album": {
         "name": "Making Time",
         "url": "https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq"
       },
@@ -2228,7 +2264,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 220909,
       "name": "The Fool on the Hill",
       "url": "https://open.spotify.com/track/7IN0LLAhDgpqNz1cFNbYQl"
@@ -2242,14 +2278,6 @@
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
         }
       ],
       "date_added": "2022-11-25",

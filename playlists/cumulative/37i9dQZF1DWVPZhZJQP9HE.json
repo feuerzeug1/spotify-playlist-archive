@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 303998,
       "name": "Enge Sendraai",
       "url": "https://open.spotify.com/track/6xgQsTEzp3XEvwEW9gpH4O"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 185309,
       "name": "Ennodu Nee Illaye",
       "url": "https://open.spotify.com/track/3zmijrUjdZTZCFKnMkETnw"
@@ -1789,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "Gundan",
+        "url": "https://open.spotify.com/album/2opNL8LgcKCT8SJ1rYpRyr"
+      },
+      "artists": [
+        {
+          "name": "SrikanthDeva",
+          "url": "https://open.spotify.com/artist/0h7SQRx5zPrfkLCuNFQYKD"
+        },
+        {
+          "name": "VJ Chitra Srikanthdeva",
+          "url": "https://open.spotify.com/artist/4CFhDY8k1RD9gQAyT2F1PC"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Gundan",
+      "url": "https://open.spotify.com/track/1BVUWF3EfI9jFxvkEsQcy8"
+    },
+    {
+      "album": {
         "name": "Gundumalli",
         "url": "https://open.spotify.com/album/3NV47pWn2ERWwWsWJPz4J8"
       },
@@ -1822,7 +1844,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 222584,
       "name": "Hasana Hasana",
       "url": "https://open.spotify.com/track/3CbeaHqKfAaYZQ9XllA0Ce"
@@ -1910,7 +1932,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 218919,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/62vCoiT650UeTvL3cq4Tud"
@@ -2612,7 +2634,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 169611,
       "name": "Kaatrile",
       "url": "https://open.spotify.com/track/3ozRf60fIEOFABQB5r792F"
@@ -2953,6 +2975,28 @@
     },
     {
       "album": {
+        "name": "Kanaa",
+        "url": "https://open.spotify.com/album/2wq48v8MQWaek7K6NgLXc2"
+      },
+      "artists": [
+        {
+          "name": "Rajaganapathy",
+          "url": "https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq"
+        },
+        {
+          "name": "Aelo",
+          "url": "https://open.spotify.com/artist/7qHIhScCCPjjFvwYVPNnJx"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235520,
+      "name": "Kanaa",
+      "url": "https://open.spotify.com/track/0ThL8U5OaPtjrgz7BB38az"
+    },
+    {
+      "album": {
         "name": "Kaname",
         "url": "https://open.spotify.com/album/6TPXhacLSxkIRI3HVaRRcL"
       },
@@ -3216,7 +3260,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 321702,
       "name": "Kannoram",
       "url": "https://open.spotify.com/track/7xTmIc0MszfsbUOpXK5FeJ"
@@ -3771,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Malarum Vazhvey",
+        "url": "https://open.spotify.com/album/3tqlZLdtK0XIdCYhoMfHtw"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174430,
+      "name": "Malarum Vazhvey",
+      "url": "https://open.spotify.com/track/1CFga4SrXszXXs7B6Oum4v"
+    },
+    {
+      "album": {
         "name": "Manadhin Oru Paadhi",
         "url": "https://open.spotify.com/album/3UadsOOLsAcCKDMQkUcejb"
       },
@@ -4284,7 +4346,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 207797,
       "name": "Mudhal Parvai",
       "url": "https://open.spotify.com/track/5FxxAxh44uxHb6Zr8zXFWg"
@@ -4952,7 +5014,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 194285,
       "name": "Nila",
       "url": "https://open.spotify.com/track/7hSaOZrT35GNK74UKnda8L"
@@ -5344,7 +5406,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 343152,
       "name": "Oru Parvaiyaal",
       "url": "https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER"
@@ -5370,7 +5432,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 259390,
       "name": "Oru Pennai Kathalithom",
       "url": "https://open.spotify.com/track/5i0mLPfOHJ3qDDjE0Ek4zi"
@@ -5432,7 +5494,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 182239,
       "name": "Oru Uvamai",
       "url": "https://open.spotify.com/track/5UMeOW8eAD5XRI9JnqG1Ta"
@@ -5450,7 +5512,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 152829,
       "name": "Otha Rosa",
       "url": "https://open.spotify.com/track/6L9S3CZtQRh7VVpFKZE2FF"
@@ -5754,7 +5816,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 177446,
       "name": "Penne Penne",
       "url": "https://open.spotify.com/track/7wktPi8l3bXAhvOiWqKllr"
@@ -5934,6 +5996,28 @@
       "duration_ms": 140434,
       "name": "Podhum Podhum",
       "url": "https://open.spotify.com/track/4j9tfODoDROp4fWAe7a2R7"
+    },
+    {
+      "album": {
+        "name": "Polambal",
+        "url": "https://open.spotify.com/album/6ZKzJclfFSBK6lyPoLbMqU"
+      },
+      "artists": [
+        {
+          "name": "Prasanna",
+          "url": "https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ"
+        },
+        {
+          "name": "Viwin Frencies",
+          "url": "https://open.spotify.com/artist/47ZrxtQrnCIPnKvYxGNdtx"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212673,
+      "name": "Polambal",
+      "url": "https://open.spotify.com/track/4b50BdPjp56Ir3QNiXTn07"
     },
     {
       "album": {
@@ -6919,6 +7003,28 @@
     },
     {
       "album": {
+        "name": "Thedathey",
+        "url": "https://open.spotify.com/album/5a6JL9PuMZVB0uNh2XsFPV"
+      },
+      "artists": [
+        {
+          "name": "Rathya",
+          "url": "https://open.spotify.com/artist/1Yf7Q9jSJYFNk1jiRhMBPy"
+        },
+        {
+          "name": "Dhroga",
+          "url": "https://open.spotify.com/artist/5T8ZwwkSmpmR9ei4E20STF"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177540,
+      "name": "Thedathey",
+      "url": "https://open.spotify.com/track/1vjWrLi4w55MBEfATFI5Me"
+    },
+    {
+      "album": {
         "name": "MOUNAM",
         "url": "https://open.spotify.com/album/3zrBiHKgxiZhjVCI8N7WfI"
       },
@@ -7040,7 +7146,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 199090,
       "name": "THUNAI VARUVEN",
       "url": "https://open.spotify.com/track/4oZmlHf9XmEJkTCjdM2S0i"
@@ -7236,7 +7342,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 213359,
       "name": "Ullam Kollai Pokuthe",
       "url": "https://open.spotify.com/track/4Vq16BtLui3nnQMPntHIwA"

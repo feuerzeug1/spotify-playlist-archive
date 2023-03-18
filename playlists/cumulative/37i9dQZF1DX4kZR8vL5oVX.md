@@ -4,7 +4,7 @@
 
 > Les femmes montent le son : playlist réalisée en collaboration avec Jain \(Miley Cyrus, Nicki Minaj, Beyoncé, Dolly Parton & Kate Bush\), à l'occasion de la journée internationale des droits des femmes.
 
-700 songs - 1 day 12 hr 37 min
+701 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,7 +695,8 @@
 | [Wide Awake](https://open.spotify.com/track/2AnH6U2MyLV3T1bdPFPJ1t) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [S.H.A.M.A.N.E.S](https://open.spotify.com/album/7FOsfHcovB9NrvNqDKZFTS) | 3:48 | 2022-04-05 | 2022-05-04 |
 | [Widow Dreams Forever](https://open.spotify.com/track/0lo0uTr01YwLsquOAuwUEA) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Widow Dreams Forever](https://open.spotify.com/album/0bknUVrYD2YRTbmCzF7r2L) | 3:03 | 2023-02-28 |  |
 | [Wiser](https://open.spotify.com/track/2FSV48YfUnv3veNV6Q8i7s) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 4:43 | 2023-01-31 | 2023-03-01 |
-| [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2023-02-28 |  |
+| [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2023-02-28 | 2023-03-18 |
+| [Wuthering Heights \- 2018 Remaster](https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside \(2018 Remaster\)](https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc) | 4:28 | 2023-02-28 |  |
 | [YMCA](https://open.spotify.com/track/0Xi4HqP1vScctluzHuHBdC) | [Margaux de Fouchier](https://open.spotify.com/artist/1f8f6hYKM3spjGBUB6RkCx) | [Disconova](https://open.spotify.com/album/3zU7kBtBW0yTdOPzkwt9I3) | 4:22 | 2022-06-01 | 2022-07-06 |
 | [Yomb \(Music Monday\)](https://open.spotify.com/track/6YBsk2WwMvok0OYiuduNem) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Yomb \(Music Monday\)](https://open.spotify.com/album/60X9enHFdikrWGZftIPWmy) | 2:45 | 2022-08-02 | 2022-09-07 |
 | [Zig Zag](https://open.spotify.com/track/2JoVZa2O5PlyewoL1AG8hq) | [Kill The Pain](https://open.spotify.com/artist/2HdD6RZrZ6YPMnzgP23KhL) | [Zig Zag](https://open.spotify.com/album/2boPNbNjsiXLH7jfz0E37j) | 3:05 | 2023-01-31 | 2023-03-01 |

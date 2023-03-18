@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-170 songs - 9 hr 11 min
+173 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Into Eternity](https://open.spotify.com/track/25yRT1t6w9wW1EusZfFVUM) | [Focus X](https://open.spotify.com/artist/6CIaQ7n8f0Q2C7zOg77Gw0) | [Into Eternity](https://open.spotify.com/album/3ukOH1Vyk15ymIIM4pRC2N) | 2:48 | 2023-02-03 |  |
 | [january](https://open.spotify.com/track/3gVpzDOglGzYT889bHF4Bs) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [january](https://open.spotify.com/album/45CIHuXt5fZk19GQB9Iz8x) | 5:05 | 2023-01-06 |  |
 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 | 2022-03-30 |  |
-| [Just An Unkind Time](https://open.spotify.com/track/7cmSGCMt0V9C3junM4m29v) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Hold You Up](https://open.spotify.com/album/6Dd9ZLCztKoulxoSTGXBn4) | 5:02 | 2022-03-30 |  |
+| [Just An Unkind Time](https://open.spotify.com/track/7cmSGCMt0V9C3junM4m29v) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Hold You Up](https://open.spotify.com/album/6Dd9ZLCztKoulxoSTGXBn4) | 5:02 | 2022-03-30 | 2023-03-18 |
 | [Kindly Refrain](https://open.spotify.com/track/6Jk0CC8q4pwt6NGjOOxuPZ) | [Abstract Rose](https://open.spotify.com/artist/4rZFgAj9MDm0tr1vTChIVI) | [Kindly Refrain](https://open.spotify.com/album/4xRnIHpHuM0FEiWdyUyOcL) | 2:28 | 2022-03-30 |  |
 | [Klarälven](https://open.spotify.com/track/6wnqcyatMNMyK2mQSVjMfv) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Klarälven](https://open.spotify.com/album/5wwzf8mRgo4yhc0uS3ETuP) | 2:09 | 2023-03-03 |  |
 | [Les Paul Sanitarium](https://open.spotify.com/track/3HZOYhBlwuAVKO9wxT66B1) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXI](https://open.spotify.com/album/2mIu9oDUCuMCdowK2ocHYt) | 1:57 | 2022-03-30 |  |
@@ -85,6 +85,7 @@
 | [Mending a Secret](https://open.spotify.com/track/5b5isnIY653i8qEmopWVej) | [Steve Jansen](https://open.spotify.com/artist/5o1OTSNeI8tu3s54avv6Ba) | [Tender Extinction](https://open.spotify.com/album/5rtQaDi9nnrfAwQCxDgoZj) | 5:03 | 2022-03-30 |  |
 | [Milky Way](https://open.spotify.com/track/6NcweAlijfIK0HL0um4vGb) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Time Defined](https://open.spotify.com/album/32QUK26XzeT5WoaMGU5ZkF) | 2:50 | 2022-12-19 |  |
 | [Mind games](https://open.spotify.com/track/6OXrNh8asCu28gqFyTSw3Z) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Mind games](https://open.spotify.com/album/3LRCWo4BAlXhTnbc2FFpbk) | 2:10 | 2022-11-18 |  |
+| [Mindful Moments](https://open.spotify.com/track/3D5T9QOZPVY6dmLp85dvWx) | [Damian Cole](https://open.spotify.com/artist/46tP7nx1UBEZ1RLXBD7JWB) | [Mindful Moments](https://open.spotify.com/album/6Px8D6WlJ192XVPR8dK7Zy) | 2:46 | 2023-03-17 |  |
 | [mixtapes](https://open.spotify.com/track/6e9hqBIQzF9q0M1tqp8mqj) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [mixtapes](https://open.spotify.com/album/2rMzwSfdnPKcThZRB77Lp1) | 2:09 | 2022-08-23 |  |
 | [Modeling Structures](https://open.spotify.com/track/5j69T9lwivG9Uf452qRu6l) | [Akustique](https://open.spotify.com/artist/2AOnQvebnP4UuohgsdRJ6A) | [Modeling Structures](https://open.spotify.com/album/3Rf2n1WL2wEFfa6N58nygc) | 2:21 | 2022-08-23 |  |
 | [moon in motion](https://open.spotify.com/track/3GOYS5D20KoipqTbLYjQRM) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [moon in motion](https://open.spotify.com/album/4tWt4T1Yh0581fO8FTLuqN) | 2:30 | 2022-09-02 |  |
@@ -149,8 +150,10 @@
 | [The Second Sun](https://open.spotify.com/track/5IzF7aTQ1CHvoq5ifwp75J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [The Second Sun](https://open.spotify.com/album/7f4BYiovopoUQKVPqRZhQj) | 3:16 | 2022-09-14 |  |
 | [Thies](https://open.spotify.com/track/3RfjNVMgziqIzos59Vi586) | [Bottle of Stars](https://open.spotify.com/artist/0l5ciixkdvIhJVQFvkrejW) | [Thies](https://open.spotify.com/album/7omeZxsKnZeYzqe03dzWsc) | 3:16 | 2022-03-30 |  |
 | [Thinking About Thinking](https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Thinking About Thinking](https://open.spotify.com/album/7BF0FWt9cJIoWFpQ8j5IZG) | 4:09 | 2022-03-30 | 2023-01-12 |
+| [Tides](https://open.spotify.com/track/5cTIWg6DXp6BRFswOhnOpt) | [A Clear Path](https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI) | [Tides](https://open.spotify.com/album/2lXiJjTnNIagnr6pwf3pQN) | 2:35 | 2023-03-17 |  |
 | [time capsule](https://open.spotify.com/track/6GudNU6xYNwIGgDO7igfUY) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [The Object at Hand](https://open.spotify.com/album/7ia9ZV8dzAXkjI2KQjY9Wh) | 3:05 | 2022-12-30 |  |
 | [Tomber Amoureux](https://open.spotify.com/track/0sTlmrgtj3om9MCoCFTzZm) | [Michael Szonja](https://open.spotify.com/artist/3gnRflW7ax20AhBEKnfrhF) | [Tomber Amoureux](https://open.spotify.com/album/1btvvbxQsUYmaXsRgZa0R4) | 2:20 | 2022-03-30 |  |
+| [Trade Places](https://open.spotify.com/track/5u9N67S38UP7T5wKp4utYs) | [Aura Onda](https://open.spotify.com/artist/04O0lEQuqzTzjlhJ9Rfhgx) | [Trade Places](https://open.spotify.com/album/6TaiqLp2pfdnRaOC8K0pBQ) | 2:27 | 2023-03-17 |  |
 | [Trail Of Emptiness \- Ambient Version](https://open.spotify.com/track/7soUChMHrOcBc80OPPVkbN) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Trail Of Emptiness \(Ambient Version\)](https://open.spotify.com/album/0DQ5cSbXp0bhuFbGKWzJk7) | 1:58 | 2022-09-02 |  |
 | [Traversing](https://open.spotify.com/track/6zaIazO4IJN92brWslJ3TQ) | [Flood First](https://open.spotify.com/artist/73aValriFtRYc0K5EzFVpZ) | [Traversing](https://open.spotify.com/album/0diFPJv3sk4ChhKrDXCrsn) | 3:10 | 2022-03-30 |  |
 | [Treefingers](https://open.spotify.com/track/0XGxvQj8dRhGn41nvXIxN0) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [KID A MNESIA](https://open.spotify.com/album/6ofEQubaL265rIW6WnCU8y) | 3:42 | 2022-10-21 | 2022-11-13 |

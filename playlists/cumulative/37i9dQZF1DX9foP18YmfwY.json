@@ -169,6 +169,42 @@
     },
     {
       "album": {
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/5P7y0sQFVX3pnG2Iaz1pIM"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185198,
+      "name": "Arrasta-Me",
+      "url": "https://open.spotify.com/track/0vJgEykXvUxZh4oiqM0IbM"
+    },
+    {
+      "album": {
+        "name": "Ato de Amor",
+        "url": "https://open.spotify.com/album/4yf1sTOcn1bC7pAUY8DItT"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202368,
+      "name": "Ato de Amor",
+      "url": "https://open.spotify.com/track/5pxF7Ksy0FzF6DF1Dypsv4"
+    },
+    {
+      "album": {
         "name": "Bom \u00c9 Estarmos Aqui",
         "url": "https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb"
       },
@@ -696,7 +732,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 237000,
       "name": "Gratid\u00e3o",
       "url": "https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE"
@@ -1620,7 +1656,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 310704,
       "name": "Seja Bem-Vindo Jesus",
       "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=30kKyVSiQHO0XN_Fsd07xA\">Benjamin Dube</a>",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD?si=tZyYifN0QQCRm7PkfHaPHg\">HLE</a>",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 300360,
       "name": "Alpha noOmega",
       "url": "https://open.spotify.com/track/5iQ4H7V9qmtuCs0XLZRIp9"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 526653,
       "name": "Because of Jesus",
       "url": "https://open.spotify.com/track/7zddQIafkMLWDpnEw7r7y8"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2019-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 654333,
       "name": "Bow Down and Worship",
       "url": "https://open.spotify.com/track/4pWmkzHatAySpTylNXJOzb"
@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Glory in His Presence",
+        "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 655253,
+      "name": "Bow Down and Worship - Live",
+      "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
+    },
+    {
+      "album": {
         "name": "GAE",
         "url": "https://open.spotify.com/album/65D9hOUlBpFFfpqo6o3lbs"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 332000,
       "name": "Dumelang (Tribute To Barorisi Ba Morena)",
       "url": "https://open.spotify.com/track/2aYF7mVCVVRdYkLsPCkzyV"
@@ -224,7 +242,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 250374,
       "name": "End of the Story (Live)",
       "url": "https://open.spotify.com/track/4AJERyjEvpvi2K8ScL4XHk"
@@ -250,6 +268,32 @@
       "duration_ms": 383038,
       "name": "Esphambanweni",
       "url": "https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E"
+    },
+    {
+      "album": {
+        "name": "Ewe Jesu (feat. Mfana Kah Gogo & Minero)",
+        "url": "https://open.spotify.com/album/37P9FzOOF5A6ggWkCi8Jun"
+      },
+      "artists": [
+        {
+          "name": "Fezeka Dlamini",
+          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
+        },
+        {
+          "name": "Mfana Kah Gogo",
+          "url": "https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1"
+        },
+        {
+          "name": "Minero",
+          "url": "https://open.spotify.com/artist/22cA9IPMcTMOtvo1YSYCoh"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287421,
+      "name": "Ewe Jesu (feat. Mfana Kah Gogo & Minero)",
+      "url": "https://open.spotify.com/track/2iCoygjcMM7kB05DKT5QcM"
     },
     {
       "album": {
@@ -300,7 +344,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 384173,
       "name": "He Brought Me This Far",
       "url": "https://open.spotify.com/track/768aDfYOtuztbTQvPOQitB"
@@ -318,10 +362,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 571040,
       "name": "I Love You Jesus",
       "url": "https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd"
+    },
+    {
+      "album": {
+        "name": "The Grace Encounter, Vol. 2",
+        "url": "https://open.spotify.com/album/57ynLVUliNS3GClLff3g9b"
+      },
+      "artists": [
+        {
+          "name": "Bucy Radebe",
+          "url": "https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294954,
+      "name": "Indodana",
+      "url": "https://open.spotify.com/track/4jnH5sr7A3hoTmDc6P8Mu2"
     },
     {
       "album": {
@@ -430,7 +492,7 @@
       ],
       "date_added": "2020-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 339440,
       "name": "Jesus Is Enough",
       "url": "https://open.spotify.com/track/3mnkSqpC8veeCS9arqB0yV"
@@ -448,7 +510,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 372093,
       "name": "Jesus You're My Life",
       "url": "https://open.spotify.com/track/4FevVgFnOyVXsSabEjxzWn"
@@ -466,7 +528,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 261825,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/3QUgyfxDE3PeRUpF0naBqr"
@@ -589,6 +651,28 @@
     },
     {
       "album": {
+        "name": "Makubenjalo",
+        "url": "https://open.spotify.com/album/0MAAleYqtlG5wxROZBYR6c"
+      },
+      "artists": [
+        {
+          "name": "Abaphilisi Bomoya Choir",
+          "url": "https://open.spotify.com/artist/5bvoZ4BVjawSUk09b2145O"
+        },
+        {
+          "name": "Ntsika",
+          "url": "https://open.spotify.com/artist/3tYY43HzH3E0ORW0qAYc9M"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233034,
+      "name": "Makubenjalo",
+      "url": "https://open.spotify.com/track/7E1nIwEdItgP3pRkNVY6UQ"
+    },
+    {
+      "album": {
         "name": "All About Jesus",
         "url": "https://open.spotify.com/album/2gkN4HGwahDA9X52GFzwrx"
       },
@@ -622,7 +706,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 303050,
       "name": "Mnini Mandla Onke",
       "url": "https://open.spotify.com/track/0FpEb0ELaosNg8phFfXAWf"
@@ -705,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Ngena Noah",
+        "url": "https://open.spotify.com/album/5SLa6KjE7yFBKUiBbNSgwH"
+      },
+      "artists": [
+        {
+          "name": "Betusile",
+          "url": "https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271622,
+      "name": "Ngena Noah",
+      "url": "https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0"
+    },
+    {
+      "album": {
         "name": "Kulungile Baba (Live at Durban ICC RSA)",
         "url": "https://open.spotify.com/album/5kqAiJJg7CAG2sCzg6mnHa"
       },
@@ -738,7 +840,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 244400,
       "name": "Ngoziphilela",
       "url": "https://open.spotify.com/track/6U0474ZSk2nJIYrYr5nr4G"
@@ -832,7 +934,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 378795,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/45F36WJSZtqmlT0hq1ym4Q"
@@ -955,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Take Heart",
+        "url": "https://open.spotify.com/album/067GsZIoIEInbT7pI4j51P"
+      },
+      "artists": [
+        {
+          "name": "HLE",
+          "url": "https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Take Heart",
+      "url": "https://open.spotify.com/track/3YANTnjzNjI2OHeVEDgiAf"
+    },
+    {
+      "album": {
         "name": "The Grace Encounter, Vol. 1",
         "url": "https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc"
       },
@@ -966,10 +1086,32 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 297420,
       "name": "Thando luka Baba",
       "url": "https://open.spotify.com/track/1vTG0NktHguJckX3wcSLm2"
+    },
+    {
+      "album": {
+        "name": "Spirit of Praise, Vol. 8 (Live)",
+        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mpumi Mtsweni",
+          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475664,
+      "name": "Thath'Indawo (Live)",
+      "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
     },
     {
       "album": {
@@ -984,7 +1126,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 397786,
       "name": "The 4th Man",
       "url": "https://open.spotify.com/track/78aypN49XOCv12qx2v35wE"
@@ -1002,7 +1144,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 468360,
       "name": "The Call (Chants)",
       "url": "https://open.spotify.com/track/5Tiam84rOv9mReGegBJN8y"
@@ -1078,7 +1220,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 301493,
       "name": "Thelumoya",
       "url": "https://open.spotify.com/track/4m3si6zfyw7JI045D2iiUx"
@@ -1172,7 +1314,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 333141,
       "name": "Ungamandla Ami (Live)",
       "url": "https://open.spotify.com/track/0mLaY1RrsYTNLtr0YlQwfB"
@@ -1248,7 +1390,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 351280,
       "name": "Uzokuphendula",
       "url": "https://open.spotify.com/track/2AEfhL3jyC37LUoFj1tVLm"
@@ -1270,7 +1412,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 203083,
       "name": "Vela",
       "url": "https://open.spotify.com/track/0GWCvJTm9F7cEBOVNwaSTo"
@@ -1500,7 +1642,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 596640,
       "name": "You Deserve It",
       "url": "https://open.spotify.com/track/2bpHQbGBRy1qoRRCmYhD5J"
@@ -1576,7 +1718,7 @@
       ],
       "date_added": "2019-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 403306,
       "name": "You Will Never Leave Me",
       "url": "https://open.spotify.com/track/7c800fIUf9VBIYaemw5vgW"

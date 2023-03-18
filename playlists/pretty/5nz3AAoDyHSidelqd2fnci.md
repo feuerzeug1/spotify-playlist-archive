@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 45 min 36 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 48 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Before the Duel](https://open.spotify.com/track/4ga3uUilqlbZeRJZh5P004) | [Dark Moor](https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh) | [Beyond The Sea](https://open.spotify.com/album/6kBY3AkEPLE4sZ1ULhYhAS) | 3:50 |
-| 2 | [I Rape Myself](https://open.spotify.com/track/60o1z4x6QmuYUbxgoerX3Y) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [The Undying Darkness](https://open.spotify.com/album/2biyXYgABCNpGMltZ3pdb1) | 3:23 |
-| 3 | [Angel Eyes \(Home And Away\)](https://open.spotify.com/track/2ClEdZjrJD2lQOrWU1qqO5) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Popped In Souled Out](https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1) | 5:16 |
-| 4 | [High Like a Plane](https://open.spotify.com/track/275QQuIkO36GnffrfVHGVz) | [Ahh\-Ceh](https://open.spotify.com/artist/4olexgy8UT7pHhzFjLplyP) | [High Like a Plane](https://open.spotify.com/album/5tMVaUg3Ph1H0SPBWXSqqc) | 3:59 |
-| 5 | [VICTIMIZED](https://open.spotify.com/track/35jdp4bY3CABKBroODRq7Y) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 1:46 |
-| 6 | [Jesus Christ](https://open.spotify.com/track/1FHqLxctCO6J96ULx0lK2F) | [Matilda Marigolds](https://open.spotify.com/artist/1Bahs2JN67RjH6j5JMOytr) | [Jesus Christ](https://open.spotify.com/album/28QSE6vaNRA2ZkRK5luNhq) | 5:19 |
-| 7 | [Voices](https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:37 |
-| 8 | [Never Giving Up](https://open.spotify.com/track/6JrHK494fKTg8X0PfOfA0l) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force: Full Circle](https://open.spotify.com/album/2MqYypIxDlwcPNc1T90fO2) | 3:39 |
-| 9 | [Degenerate](https://open.spotify.com/track/5zaqXwiJTWi0TWxbHVitlb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/5IlIcdN5FKmqkhZcWNAqoW) | 2:28 |
-| 10 | [Life to Lifeless](https://open.spotify.com/track/1Xp4ErFLJWvbwD4nl1cr98) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Alive or Just Breathing \(Topshelf Edition\)](https://open.spotify.com/album/7BFo7PKlK9oCPJVPEzNJy7) | 3:17 |
-| 11 | [March Of Mephisto](https://open.spotify.com/track/6sxqSN9YxAHzMzJ8u835J5) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [The Black Halo](https://open.spotify.com/album/1CPdkf84Qe1WBkV0biWwoG) | 5:28 |
-| 12 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 |
+| 1 | [Ultimatum \- object blue Remix](https://open.spotify.com/track/3yfrF3obqRL206DdSScscB) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi), [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [Ultimatum \(object blue Remix\)](https://open.spotify.com/album/50wsbIbUGgl6aafYjqFC3Y) | 3:13 |
+| 2 | [Summertime](https://open.spotify.com/track/44sw25l5s3dUQx38QQ4hix) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo) | [Janis Joplin's Greatest Hits](https://open.spotify.com/album/73atzd4xK9PMS4iGanT9un) | 3:58 |
+| 3 | [Animal](https://open.spotify.com/track/5Nke24PiSVbzcA4ieZY1Ai) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 5:45 |
+| 4 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 |
+| 5 | [Three Little Birds](https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:00 |
+| 6 | [The Man of Sorrows](https://open.spotify.com/track/6ghkCWKk438MyEbOr9Nrrq) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 6:27 |
+| 7 | [Planet Caravan](https://open.spotify.com/track/2Hnxw7pp2qRDDBwHYnHhu5) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remastered\)](https://open.spotify.com/album/7DBES3oV6jjAmWob7kJg6P) | 4:29 |
+| 8 | [If Your Song Title Has The Word "Beach" In It, I'm Not Listening To It.](https://open.spotify.com/track/52wWB5dQG5po75tFnK7exP) | [Dads](https://open.spotify.com/artist/2OUGTXNFUe4WwC4CWpvIal) | [American Radasss](https://open.spotify.com/album/4VOdWvHjtqYxYxbTOGmCP0) | 2:37 |
+| 9 | [You Are So Beautiful](https://open.spotify.com/track/6JjO9Q4VXnQ1RPDaWr6iZG) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [This War Is Ours \(Deluxe Edition\)](https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai) | 2:47 |
+| 10 | [SKIN TO BONE](https://open.spotify.com/track/4JqgUZ4yZqjeEmgJNsuUjX) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 2:48 |
+| 11 | [Believe](https://open.spotify.com/track/6XwFPgj5bHc6o0G7LlFwTi) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Believe](https://open.spotify.com/album/6PfpFynKzUEFitHt7BwcVL) | 4:27 |
+| 12 | [Same Old](https://open.spotify.com/track/3qS0PDdo6eMMAxrVII18HA) | [Pud](https://open.spotify.com/artist/19OjCSpqozFnPepvZGtXz0) | [Same old](https://open.spotify.com/album/15CbefjARKuoAi3YIC3mvF) | 3:18 |
 
-Snapshot ID: `MjgsMmVkNjRjNDA4ZGFhMTU3NWVjYWQ4NzJhZjZiYWQwNzE4OTRkMmM4YQ==`
+Snapshot ID: `MzEsZWJlNTA1OWI2MzdkMGExYmY2Mjg0MjlhNzM5ZDU1M2E4YWMwYzA4Nw==`

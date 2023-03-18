@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-68 songs - 3 hr 55 min
+69 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 | 2023-03-05 |  |
 | [Don't Wanna Be](https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Don't Wanna Be](https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh) | 3:23 | 2023-01-20 |  |
 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 | 2023-01-15 | 2023-02-13 |
-| [Escape](https://open.spotify.com/track/1H3rFP8VEwng3ksIiWOaqi) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Escape](https://open.spotify.com/album/445kF1rP1Ee5HjS7hA1xGG) | 3:12 | 2022-08-17 |  |
+| [Escape](https://open.spotify.com/track/1H3rFP8VEwng3ksIiWOaqi) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Escape](https://open.spotify.com/album/445kF1rP1Ee5HjS7hA1xGG) | 3:12 | 2022-08-17 | 2023-03-18 |
 | [Eso](https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Eso](https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE) | 3:46 | 2023-03-05 |  |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-12 |  |
 | [Flamingos](https://open.spotify.com/track/0lAQ4hpL4wS7EdgXYd3I2w) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Side B](https://open.spotify.com/artist/3hm9D6w73Erm43Ym0gtmjR) | [Pam Pam](https://open.spotify.com/album/1cdc1XeYkT0YTEYHsh97SU) | 3:28 | 2023-03-12 |  |
@@ -56,7 +56,7 @@
 | [Outer Space](https://open.spotify.com/track/4acZoDcg5neM4mAtVsTQSK) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Just What The World Needs EP](https://open.spotify.com/album/6Ke2WaFMVNJZviMEJvYoPX) | 4:03 | 2023-01-29 | 2023-02-20 |
 | [Pitch Thing](https://open.spotify.com/track/6Kea7kd9xbq4bAgEp1srdN) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Pitch Thing](https://open.spotify.com/album/36khe7dGDSL0YUI6stNTzO) | 3:37 | 2023-03-05 |  |
 | [Playa](https://open.spotify.com/track/3D0VEmqcbT95B22ojdjkU1) | [RAFI](https://open.spotify.com/artist/1lHKz7UclrOxsquASlnNRs) | [Playa](https://open.spotify.com/album/5Ys8n1I5tFS0uvFAlaRna0) | 3:06 | 2023-02-12 | 2023-03-06 |
-| [Preach](https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m) | [VOLAC\. Bright Sparks](https://open.spotify.com/artist/3hGo66CnPVQDBPA6gyevQi) | [Preach](https://open.spotify.com/album/3BgQIbVApzmhwc39g05K9q) | 3:05 | 2023-02-19 |  |
+| [Preach](https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m) | [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Preach](https://open.spotify.com/album/3BgQIbVApzmhwc39g05K9q) | 3:05 | 2023-02-19 |  |
 | [Promise](https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Promise](https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK) | 2:37 | 2022-05-26 |  |
 | [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 | 2023-02-10 |  |
 | [Real](https://open.spotify.com/track/0sHxBKvOOrPfCfBZjOIbkN) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal) | [Real](https://open.spotify.com/album/1S3kgoT0prKVmnoX18HZRk) | 3:24 | 2023-01-29 | 2023-03-06 |
@@ -75,6 +75,7 @@
 | [Venezolana \- Original Mix](https://open.spotify.com/track/0bQlyeYdCvnimXDoL8XB6d) | [Gabriele Toma](https://open.spotify.com/artist/3Eylw4P4DCGqXcQZ4b8Fon) | [Venezolana](https://open.spotify.com/album/3lStdA5SbysTqa6Sqcxofs) | 5:37 | 2023-01-29 | 2023-02-20 |
 | [VIP Section](https://open.spotify.com/track/2fRPAxlfizmSKUwfGZZjNk) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [VIP Section](https://open.spotify.com/album/0T0imnIgVVMxIMJnAvJk5f) | 3:26 | 2023-03-05 |  |
 | [Wait A Minute](https://open.spotify.com/track/0UAK0qiRTIPUnMzjwKk2PF) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Wait A Minute](https://open.spotify.com/album/7bEV9C1I27kJqPO53JqTBP) | 3:22 | 2023-02-12 |  |
+| [WTF](https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [WTF](https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR) | 3:17 | 2023-03-17 |  |
 | [You're Not Alone \- Sinner & James Radio Edit](https://open.spotify.com/track/7A7XNiQSeL58ejbuJNflzE) | [Jerome Robins](https://open.spotify.com/artist/56Ci0Hx4pIlkTsNVhI3EQW), [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [You're Not Alone](https://open.spotify.com/album/7imt6YSRHWhpP0FfKorKXY) | 4:14 | 2023-01-22 | 2023-02-20 |
 
 \*This playlist was first scraped on 2023-02-03. Prior content cannot be recovered.

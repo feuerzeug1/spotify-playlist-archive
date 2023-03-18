@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: The Nude Party
 
-411 songs - 22 hr 3 min
+412 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [Post Ryan \- Edit](https://open.spotify.com/track/529CmaR7Fe7Fq2micbIkgs) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Post Ryan](https://open.spotify.com/album/5yymZcgXcokucqKrKdMqNW) | 4:16 | 2022-09-19 |  |
 | [Pressure Cooker \[Feat\. Mannequin Pussy\] \- Remix](https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Pressure Cooker \(Remix\) \[Feat Mannequin Pussy\]](https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP) | 3:15 | 2023-01-20 |  |
 | [Pringle Street](https://open.spotify.com/track/4VodRXNcHJFVsrek9QpAB0) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [This Place You Know](https://open.spotify.com/album/4clVVRmUrtFtND1sLCJxOY) | 2:59 | 2022-01-07 | 2022-03-12 |
-| [Prison light](https://open.spotify.com/track/0Eho63aLMbseadFByJMSUB) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Prison light](https://open.spotify.com/album/0FaWYKd6YvgdvsbNvQzx5a) | 3:15 | 2023-01-27 |  |
+| [Prison light](https://open.spotify.com/track/0Eho63aLMbseadFByJMSUB) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Prison light](https://open.spotify.com/album/0FaWYKd6YvgdvsbNvQzx5a) | 3:15 | 2023-01-27 | 2023-03-18 |
 | [Prisoners](https://open.spotify.com/track/4i2GTbn2CIPpSa6ml9ZXd9) | [Borbón Pink](https://open.spotify.com/artist/4Wxc9NqZrEOCQKXvIm7zIS) | [Prisoners](https://open.spotify.com/album/1JSEtrxow4uLGps2Otecdf) | 2:44 | 2022-08-26 | 2022-09-24 |
 | [Public Enemy](https://open.spotify.com/track/6CSTSByUvQyYIlGStzM3Qd) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Public Enemy](https://open.spotify.com/album/6gWVDCeNynphJ6MIxZRgiN) | 2:29 | 2021-10-07 | 2022-01-08 |
 | [Pukebox](https://open.spotify.com/track/5KUVspHfE0vmCP9vvCHXf9) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pukebox](https://open.spotify.com/album/4SnSwngfx8loFFx8wOzEiM) | 3:08 | 2021-10-07 | 2022-04-29 |
@@ -416,6 +416,7 @@
 | [Whatever](https://open.spotify.com/track/6nCeCu9xovpYGPBUGoGqXi) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Whatever](https://open.spotify.com/album/5RbmktxpqVBEHpq14N5MUP) | 3:06 | 2021-10-07 | 2022-03-26 |
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/5VWxoK8gGzImPEaHi8UP67) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/2eiPZLFJNcNnjj7YEHOW3p) | 3:40 | 2022-07-08 | 2022-08-27 |
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/6z9gUolZoaw9Lf2mG90ytt) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/7KOvsna0rd5wQD1QLXdUV2) | 3:40 | 2022-02-21 | 2022-07-29 |
+| [Wrapped in Gold](https://open.spotify.com/track/5Qmij5UGOb1k2MC8DrAGgW) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Wrapped in Gold](https://open.spotify.com/album/4hxFcHyPPErv1kls1x945F) | 3:57 | 2023-03-17 |  |
 | [Y Grito](https://open.spotify.com/track/2QiVI7dnMfYXpL2FNIADTc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Y Grito](https://open.spotify.com/album/09ehfTlTd3DS5c0F9G0suC) | 1:35 | 2022-09-15 | 2022-11-22 |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 | 2022-01-07 | 2022-07-29 |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 | 2022-07-08 |  |

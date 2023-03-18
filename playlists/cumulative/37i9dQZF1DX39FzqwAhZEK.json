@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "Droplets of Dreams",
+        "url": "https://open.spotify.com/album/0iRfBFgAWo7mLLbp4eJzxg"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Hawk",
+          "url": "https://open.spotify.com/artist/0JXsWES2h8yg0TKw7obalI"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Halcyon",
+      "url": "https://open.spotify.com/track/5HzVqcoEmmgnhxtmmz1a56"
+    },
+    {
+      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/6rsFfeuO56zebh3BbZGoQ1"
       },
@@ -3696,6 +3714,24 @@
       "duration_ms": 142368,
       "name": "North Pacific",
       "url": "https://open.spotify.com/track/7iZvjrLOS3r7UW7QNBZmuN"
+    },
+    {
+      "album": {
+        "name": "Placidity",
+        "url": "https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS"
+      },
+      "artists": [
+        {
+          "name": "Maddox JR",
+          "url": "https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "Nothing else mattered",
+      "url": "https://open.spotify.com/track/1LRjbCFrOBUQ9L1Ot4xuIO"
     },
     {
       "album": {

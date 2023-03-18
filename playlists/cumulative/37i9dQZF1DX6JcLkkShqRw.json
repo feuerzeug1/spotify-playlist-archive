@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Nicki Nicole.",
+  "description": "Flow sudamericano con Neo Pistea.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 173617,
       "name": "0800",
       "url": "https://open.spotify.com/track/06yq2Skk79tALme6b2vRVk"
@@ -104,7 +104,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 219906,
       "name": "12x3 Remix (with Micro TDH & Rusherking)",
       "url": "https://open.spotify.com/track/3nl2V4yl1Vt8EJSM8RhSmJ"
@@ -3508,7 +3508,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 192630,
       "name": "Cuentos",
       "url": "https://open.spotify.com/track/1Qo4WtxrJ11TRLiwnMpxkJ"
@@ -3574,7 +3574,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 184834,
       "name": "C\u00f3mo Est\u00e1s?",
       "url": "https://open.spotify.com/track/0m8tCUvlPfx5bU1CHA73aR"
@@ -3672,7 +3672,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 159967,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/1B7Wxx58QV4xrCjxI4Uu3i"
@@ -5182,7 +5182,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 98400,
       "name": "Esa Morocha",
       "url": "https://open.spotify.com/track/1CjcFU0xECNiAgq3WDOFE1"
@@ -5502,7 +5502,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 138518,
       "name": "Fichaje #2",
       "url": "https://open.spotify.com/track/49Z1i130g2Uc5nc81fkuOX"
@@ -7452,7 +7452,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 230544,
       "name": "KU'",
       "url": "https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M"
@@ -7718,6 +7718,24 @@
       "duration_ms": 183750,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/19MI2k2KGse2Jo8k8QGWio"
+    },
+    {
+      "album": {
+        "name": "LA RUTA",
+        "url": "https://open.spotify.com/album/0jinU92OF6WDtzY9jGe9jD"
+      },
+      "artists": [
+        {
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199149,
+      "name": "LA RUTA",
+      "url": "https://open.spotify.com/track/06Q0p8kUwYpbLHh8MjvehE"
     },
     {
       "album": {
@@ -9534,7 +9552,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 188000,
       "name": "MI LOCURA EN BUENOS AIRES",
       "url": "https://open.spotify.com/track/0b0BMDKMFdVllW5PeriqFa"
@@ -10697,6 +10715,32 @@
     },
     {
       "album": {
+        "name": "No Estoy",
+        "url": "https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL"
+      },
+      "artists": [
+        {
+          "name": "Despu\u00e9s de la fiesta",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Akim 88",
+          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113000,
+      "name": "No Estoy",
+      "url": "https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7"
+    },
+    {
+      "album": {
         "name": "Romeo Sin Julieta",
         "url": "https://open.spotify.com/album/5QNDbSnEPupUzkjD6kdILw"
       },
@@ -11092,7 +11136,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 234666,
       "name": "Noche Loca",
       "url": "https://open.spotify.com/track/27toenwtHpZ7fn0QjehRl2"
@@ -11774,7 +11818,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 161953,
       "name": "Pa Que Te Quedes",
       "url": "https://open.spotify.com/track/1N6mS6dbXr8onFXMfHgkPZ"
@@ -12576,7 +12620,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 106800,
       "name": "Poka Luz",
       "url": "https://open.spotify.com/track/05h2p4OlGsBFNeVMLrKuJE"
@@ -15402,10 +15446,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 142666,
       "name": "Tiempo al tiempo",
       "url": "https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ"
+    },
+    {
+      "album": {
+        "name": "TIKI",
+        "url": "https://open.spotify.com/album/706jigUnjkVzVflc3lDOls"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113103,
+      "name": "TIKI",
+      "url": "https://open.spotify.com/track/6Oi46ZScfwLecGdnfi3lB3"
     },
     {
       "album": {
@@ -15512,7 +15574,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 122136,
       "name": "TITAN",
       "url": "https://open.spotify.com/track/2cR9cH9ta7MStHBKs0aOcz"
@@ -15790,7 +15852,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 175670,
       "name": "Tra Tra",
       "url": "https://open.spotify.com/track/46YrvybgPpjBL13f0uc8Oc"
@@ -16094,7 +16156,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 173861,
       "name": "Tumbao",
       "url": "https://open.spotify.com/track/1vgh1s6f4qtY9TDKK8EfyJ"
@@ -17420,7 +17482,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 209838,
       "name": "Yo Quiero",
       "url": "https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB"

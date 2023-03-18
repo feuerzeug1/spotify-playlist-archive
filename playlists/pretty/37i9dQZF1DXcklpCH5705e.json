@@ -1,15 +1,47 @@
 {
   "description": "\u7d93\u5f97\u8d77\u6642\u9593\u8003\u9a57\u5605\u6b4c\u66f2\uff0c\u7121\u8ad6\u65b0\u7248\u3001\u820a\u6b4c\u4e00\u6a23\u597d\u807d\uff01",
-  "num_followers": 35393,
+  "num_followers": 35403,
   "original_name": "\u7ffb\u5531\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTMyOTEyMywwMDAwMDAwMGU5YzFjM2ExNTNkOGE3MmQ0MGIwYzQzZjQ0ZTU2MDYy",
+  "snapshot_id": "MTY3ODk3MjY5MSwwMDAwMDAwMDYxODAwNGRiZWQ0OTBiMTMwMjZkZmM5ZmVmMWI0MmIz",
   "tracks": [
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
+      "album": {
+        "name": "\u8ffd",
+        "url": "https://open.spotify.com/album/6sGJi4077dMoVi362niYP5"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 313944,
+      "name": "\u8ffd",
+      "url": "https://open.spotify.com/track/3uHE0cVFDFDORAVhwLqL4p"
+    },
+    {
+      "added_at": "2023-03-16 13:18:11",
+      "album": {
+        "name": "\u6709\u8ab0\u5171\u9cf4",
+        "url": "https://open.spotify.com/album/6p1lJXhCHRZDygLpQORcVK"
+      },
+      "artists": [
+        {
+          "name": "Mike \u66fe\u6bd4\u7279",
+          "url": "https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7"
+        }
+      ],
+      "duration_ms": 192515,
+      "name": "\u6709\u8ab0\u5171\u9cf4",
+      "url": "https://open.spotify.com/track/6WeK60Z3tB1VdEONdBWfmq"
+    },
+    {
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u5077\u60c5",
         "url": "https://open.spotify.com/album/2zYf27zQAJY1qgPB5plv19"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/2E5X5HbBHBUeo2juTSgTMX"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u96e3\u9053\u559c\u6b61\u8655\u5973\u5ea7 (J1M3 Remix)",
         "url": "https://open.spotify.com/album/1BI2KlhZY5Ba9hG68Syuj4"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/0ZWpQpsBL0aPRvSpxCPpnH"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u9752\u6625\u980c",
         "url": "https://open.spotify.com/album/5C5s445G0OEd3OiRki54In"
@@ -65,7 +97,7 @@
       "url": "https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u6b77\u4e45\u5690\u65b0II Reborn (\u74b0\u7403\u7cbe\u9078)",
         "url": "https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL"
@@ -81,7 +113,7 @@
       "url": "https://open.spotify.com/track/4Uhq40fGrEwKEHxzQQajTY"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u5eff\u4e00\u4e16\u7d00\u7cbe\u9078",
         "url": "https://open.spotify.com/album/1YOynn6PjM1NnCnBRLuv2S"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/51qJSDTQiyP2BNsAKRcRo2"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "The Voyage",
         "url": "https://open.spotify.com/album/3yNL4RvDIZShXbY1HHiVqA"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/40z4u67Cm6I4WUQvM3atmb"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u624b\u671b(\u5b88\u671b\u7248) [Chill Club Version]",
         "url": "https://open.spotify.com/album/55YNpYQPgwvhxCXte6OtN7"
@@ -133,7 +165,7 @@
       "url": "https://open.spotify.com/track/72xWqUAWRuYhP0BZhroJjF"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u640d\u53cb (\u97f3\u6a02\u6c38\u7e8c\u4f5c\u54c1)",
         "url": "https://open.spotify.com/album/23Bihif9rjkXe3oSL7qmTU"
@@ -149,7 +181,7 @@
       "url": "https://open.spotify.com/track/58NLb3BrpY5ulbRRaFH8bU"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "Timeless (\u97f3\u6a02\u6c38\u7e8c\u4f5c\u54c1)",
         "url": "https://open.spotify.com/album/2mWGL5GwVUhIs7UADr4dQS"
@@ -165,7 +197,7 @@
       "url": "https://open.spotify.com/track/5agxyN0XnlsRNJXXk2xDYN"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u91d1\u724c\u9187\u97f3\u6a02",
         "url": "https://open.spotify.com/album/6jPQJnhNyqO49dcyJGBHcR"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/5sj0UfCx4Wjs0epsmL45ZQ"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u7d66\u6211\u611b\u904e\u7684\u7537\u5b69\u5011. 10\u9031\u5e7424K\u91d1\u789f\u9650\u91cf\u7248",
         "url": "https://open.spotify.com/album/5yR2ixyCiWRtSfB5Jeb9CF"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/5fTvinvM2O7Qfedvp4u3ck"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "Sammi VS Sammi",
         "url": "https://open.spotify.com/album/1ZMrZVljBvcfVt2Eez0e9a"
@@ -213,7 +245,7 @@
       "url": "https://open.spotify.com/track/4FzNaixy0Ura2eDmS3217L"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "E11",
         "url": "https://open.spotify.com/album/53pbunTdvp1O77bS2rRN1Q"
@@ -229,7 +261,7 @@
       "url": "https://open.spotify.com/track/5GWjuO8Fq0180HXbny1HNo"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u6674\u6b4c\u96c6",
         "url": "https://open.spotify.com/album/2NkOW9aVr1Ov261a9upeH1"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/0K9JlgBeEtcx5I2OgX9hlg"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u6b77\u4e45\u5690\u65b0II Reborn (\u74b0\u7403\u7cbe\u9078)",
         "url": "https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/5p9lznconoyjwg1sR3LW1t"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2rntSWCLxmhuB25LlnzkbK"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/5TkQbhQm9BXONk2agDo4w9"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "4 In Love",
         "url": "https://open.spotify.com/album/1LQlxBcbxarDHZfS04TrxR"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/6netQHYLJxJfWXHYnvOEJA"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "JOYCE",
         "url": "https://open.spotify.com/album/02Brb1tEIxIPc7t5DwX4xv"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/2VDeyWFIuARXVnR4sJIkDE"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u91d1\u724c\u9187\u97f3\u6a02",
         "url": "https://open.spotify.com/album/6jPQJnhNyqO49dcyJGBHcR"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/5bSF9Tlr0RM7buiMbCoamZ"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "Blooming",
         "url": "https://open.spotify.com/album/3Qxf3z5G8hMBacGhEzeMjL"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/711bVTOFjmjte4eNXzcbc7"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "Neway Music Live X \u6797\u6b23\u5f64\u97f3\u6a02\u6703",
         "url": "https://open.spotify.com/album/5ppZ6CAbt2jAf4HgH3Ov7K"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/13l9dTRexqjXmzPESkaHU9"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u6674\u6b4c\u96c6",
         "url": "https://open.spotify.com/album/2NkOW9aVr1Ov261a9upeH1"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/2mmmlbh573ldSbEIHM16gf"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "Robynn & Kendy",
         "url": "https://open.spotify.com/album/4Kh0aJr49Tb4lDBEJu5kAq"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/6jDLdVKCa0lM8RyzNuvnxn"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/4KmgdX1Q7Q5tzEwNhNjjII"
@@ -405,7 +437,7 @@
       "url": "https://open.spotify.com/track/3F4di2gUOaxexwCsrPwtQT"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u6b77\u4e45\u5690\u65b0II Reborn (\u74b0\u7403\u7cbe\u9078)",
         "url": "https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/6paEWm5S77czbhC8aaLme2"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u9054\u660e\u4e00\u4ee3",
         "url": "https://open.spotify.com/album/512ilWYaatApFMRpBoohXl"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/2qZx8ZAB4E24KX4bXXo86e"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u5931\u6200\u592a\u5c11 (\u4f0a\u9928\u7d00\u5ff5\u7248)",
         "url": "https://open.spotify.com/album/3xskNhnybwHl4oMOgl2OzZ"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/4zmqKCo5p7DIAZtSEfeizu"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u6881\u795d\u4e0b\u4e16\u50b3\u5947 (2nd Version)",
         "url": "https://open.spotify.com/album/26NCYcvfFhRwQeyJTK4iOG"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/1wx0DU53rprgVs1EfwinIo"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u7121\u81c9\u4eba\u97f3\u6a02\u6703@\u53f0\u5317\u5927\u6cb3\u5cb8",
         "url": "https://open.spotify.com/album/2kutcuDK3bdEmFd7tHuHWg"
@@ -485,7 +517,7 @@
       "url": "https://open.spotify.com/track/4Tsh6vIHx44NpJYwAnGPjj"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "Infinity Journey",
         "url": "https://open.spotify.com/album/43A14wOfi59SPQGbIoRCia"
@@ -501,7 +533,7 @@
       "url": "https://open.spotify.com/track/2vD2zwXVdGrF7ZaSK7XcF3"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u4e00\u671f\u4e00\u6703",
         "url": "https://open.spotify.com/album/5CzYuHAN4K1nxoiiq8U36X"
@@ -517,7 +549,7 @@
       "url": "https://open.spotify.com/track/27BDiVBs8rcbGZm6UTIBnU"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "\u9ed1\u6697\u4e2d\u6f2b\u821e (\u97f3\u6a02\u6c38\u7e8c\u4f5c\u54c1)",
         "url": "https://open.spotify.com/album/7MA3Eu4JGjc9Ho1vee5xvg"
@@ -533,7 +565,7 @@
       "url": "https://open.spotify.com/track/1Wste23dWh4oBK7MDV60EQ"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/7jtCtoHovPWMOmzpTNNvVO"
@@ -549,7 +581,7 @@
       "url": "https://open.spotify.com/track/6ZowYBoRWQaS7bPmmDuWpS"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "Dear Secret (2nd edition)",
         "url": "https://open.spotify.com/album/33oSpTnVlOvjODoph9vv3u"
@@ -565,7 +597,7 @@
       "url": "https://open.spotify.com/track/5aB9F7Ku4KwzuvEmQqXnPI"
     },
     {
-      "added_at": "2023-02-02 09:12:03",
+      "added_at": "2023-03-16 13:18:11",
       "album": {
         "name": "C AllLive 2012",
         "url": "https://open.spotify.com/album/6rvPe6eKm2V6YVw3GzJWAj"

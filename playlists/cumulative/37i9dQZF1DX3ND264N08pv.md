@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-133 songs - 7 hr 43 min
+134 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Crazy, Like Me!](https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Crazy, Like Me!](https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g) | 2:54 | 2022-12-08 |  |
 | [Cryexgenic](https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN) | [Cryexgenic](https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9) | 3:43 | 2022-12-08 |  |
 | [DANCEFLOOR SLAYER](https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [DANCEFLOOR SLAYER](https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo) | 2:41 | 2022-12-15 |  |
-| [Death Jams](https://open.spotify.com/track/4adnfSbly0bAD5YTDh30Jx) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Death Jams](https://open.spotify.com/album/2x44uTjnKxzCNujOQ3qCqM) | 2:54 | 2023-03-07 |  |
+| [Death Jams](https://open.spotify.com/track/4adnfSbly0bAD5YTDh30Jx) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Death Jams](https://open.spotify.com/album/2x44uTjnKxzCNujOQ3qCqM) | 2:54 | 2023-03-07 | 2023-03-18 |
 | [Deathblow](https://open.spotify.com/track/5odPjdHDsGX3RUSzrw7eD9) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Deathblow](https://open.spotify.com/album/6PmtZ0lfWZ5XFl4IryXLxa) | 3:46 | 2022-12-08 |  |
 | [Demolition Hardcore](https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Demolition Hardcore](https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8) | 3:20 | 2022-12-08 |  |
 | [Demonic Rage](https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Demonic Rage](https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w) | 3:16 | 2022-12-08 |  |
@@ -52,6 +52,7 @@
 | [From The Underground \(Rave Core\)](https://open.spotify.com/track/6f7hGT8dkVxUcMP943ZRmD) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [From The Underground \(Rave Core\)](https://open.spotify.com/album/3HX5w8ehEqbGsCk4x6mfZ9) | 3:54 | 2022-12-08 |  |
 | [Fuego \- Official Masters of Hardcore Spain 2022 Anthem](https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Mr\. Hyde](https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0) | [Fuego \(Official Masters of Hardcore Spain 2022 Anthem\)](https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx) | 4:39 | 2022-12-08 |  |
 | [Full Throttle \(Official Gearbox Full Throttle Anthem\)](https://open.spotify.com/track/5JkCr2BpMh1pdMb6R4hKLx) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Full Throttle \(Official Gearbox Full Throttle Anthem\)](https://open.spotify.com/album/0oFzTvwtQFWESNcpQmO2K0) | 3:38 | 2022-12-08 |  |
+| [Funky Fat Beat](https://open.spotify.com/track/2hmQgMkndqDueyACwxRLN3) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Funky Fat Beat](https://open.spotify.com/album/6djg59GSUTyLJRhoZL8qyy) | 4:15 | 2023-03-16 |  |
 | [Fvcking One](https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY) | [Edwar](https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC), [Sidekick](https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co) | [Fvcking One](https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj) | 3:33 | 2022-12-22 |  |
 | [Game Breaker](https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Game Breaker](https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H) | 3:18 | 2022-12-08 |  |
 | [Generavers](https://open.spotify.com/track/0OCosJ6fVT8Oqy3MPmNLrl) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Generavers](https://open.spotify.com/album/0MoBA9jfilDabb6JZ9DqaF) | 2:49 | 2022-12-08 |  |

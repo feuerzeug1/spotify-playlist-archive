@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: R\u00f3is\u00edn Murphy",
+  "description": "New music off the beaten track. Cover: M83",
   "name": "OFF POP",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 164778,
       "name": "2 Close",
       "url": "https://open.spotify.com/track/7ElTMb0MVBKP8g7LbTviJI"
+    },
+    {
+      "album": {
+        "name": "32 Floors (Alex Metric Remix)",
+        "url": "https://open.spotify.com/album/68WtWtcD4DvTt4VOCMIOJO"
+      },
+      "artists": [
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        },
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312405,
+      "name": "32 Floors - Alex Metric Remix",
+      "url": "https://open.spotify.com/track/77HbaJgKovG8qNiKDDmOLY"
     },
     {
       "album": {
@@ -136,7 +158,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 233912,
       "name": "Absolute Body Control",
       "url": "https://open.spotify.com/track/0gOvGfm0mDYmtGNhiVMk8O"
@@ -252,10 +274,32 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 243354,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
+    },
+    {
+      "album": {
+        "name": "An der Stra\u00dfe gegen\u00fcber (feat. Wiener Planquadrat)",
+        "url": "https://open.spotify.com/album/4tFeFM0cRkMVZeX8kH20Ky"
+      },
+      "artists": [
+        {
+          "name": "Kalipo",
+          "url": "https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi"
+        },
+        {
+          "name": "Wiener Planquadrat",
+          "url": "https://open.spotify.com/artist/2Amzhh6sZVPRCo43KZDvvl"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288124,
+      "name": "An der Stra\u00dfe gegen\u00fcber (feat. Wiener Planquadrat)",
+      "url": "https://open.spotify.com/track/40moSJw3bHTXTj1h8cHiOh"
     },
     {
       "album": {
@@ -296,6 +340,32 @@
       "duration_ms": 210194,
       "name": "Are You Alive? - Edit",
       "url": "https://open.spotify.com/track/3wAzKpN1NSsvTlNN69Zm7x"
+    },
+    {
+      "album": {
+        "name": "Arms Of Who (Rework)",
+        "url": "https://open.spotify.com/album/1j9vo0lvIR7yvLEO2lrdD0"
+      },
+      "artists": [
+        {
+          "name": "cornelius",
+          "url": "https://open.spotify.com/artist/4VSm0yiY0JB8pPDI8nVPt6"
+        },
+        {
+          "name": "Bayuk",
+          "url": "https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw"
+        },
+        {
+          "name": "Andreas Vey",
+          "url": "https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161190,
+      "name": "Arms Of Who - Rework",
+      "url": "https://open.spotify.com/track/352SDhyp43IeiCzauKXTyu"
     },
     {
       "album": {
@@ -706,7 +776,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 210773,
       "name": "CLASH - Edit",
       "url": "https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g"
@@ -768,7 +838,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 286221,
       "name": "Complete Me (feat. Self Esteem)",
       "url": "https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq"
@@ -1056,6 +1126,28 @@
       "duration_ms": 269799,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "album": {
+        "name": "Don't Touch That Dial (feat. Yuuko Sings)",
+        "url": "https://open.spotify.com/album/6XpKMzjq7NX2PUHE62nvmz"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        },
+        {
+          "name": "Yuuko Sings",
+          "url": "https://open.spotify.com/artist/0cKrhm3yYJ8jzYputXeQUR"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199436,
+      "name": "Don't Touch That Dial (feat. Yuuko Sings)",
+      "url": "https://open.spotify.com/track/6VptGK47xTGl7DHauquk7g"
     },
     {
       "album": {
@@ -1350,7 +1442,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 228804,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7aIqS1ulAFezQjAlQDn0hd"
@@ -2006,7 +2098,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 178138,
       "name": "Is That How You Feel It",
       "url": "https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4"
@@ -2136,7 +2228,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 247499,
       "name": "Kandy",
       "url": "https://open.spotify.com/track/1I3YtpyO4auh961y23a1Ia"
@@ -2268,6 +2360,24 @@
       "duration_ms": 207775,
       "name": "La Danse Heureuse - Edit",
       "url": "https://open.spotify.com/track/6oF0ZOAKaMxlRVYYHPGgiH"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba"
     },
     {
       "album": {
@@ -3122,7 +3232,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 216018,
       "name": "Oh Laura",
       "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
@@ -3254,6 +3364,24 @@
       "duration_ms": 320473,
       "name": "Paradise Circus (Fallen Sun Version)",
       "url": "https://open.spotify.com/track/1Fg1XSeE1aSqOD0EkQAAvn"
+    },
+    {
+      "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/3fAVBC8B78yJePSSRr1sKv"
+      },
+      "artists": [
+        {
+          "name": "NIHILS",
+          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330545,
+      "name": "Parallels",
+      "url": "https://open.spotify.com/track/0YDIy9Ixkh7dH36GanI1YJ"
     },
     {
       "album": {
@@ -3756,7 +3884,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 346093,
       "name": "Sensitive Child - Soulwax Remix",
       "url": "https://open.spotify.com/track/0fER4siVB8s68N3JkFAI4O"
@@ -3880,6 +4008,24 @@
       "duration_ms": 237760,
       "name": "Snowblind",
       "url": "https://open.spotify.com/track/7eK2khaEOjLozVLBYgqv9F"
+    },
+    {
+      "album": {
+        "name": "So Hard So Hot",
+        "url": "https://open.spotify.com/album/01ixXX3vEIf4hDOmCkztMY"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267546,
+      "name": "So Hard So Hot",
+      "url": "https://open.spotify.com/track/3EkWwQyUB220deoBPcBWZl"
     },
     {
       "album": {
@@ -4008,6 +4154,28 @@
       "duration_ms": 190714,
       "name": "Sunliight",
       "url": "https://open.spotify.com/track/5jcih933VV9IAx2EbadFXQ"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209060,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1"
     },
     {
       "album": {
@@ -4550,6 +4718,28 @@
       "duration_ms": 343663,
       "name": "Wet Cement - Kareem Ali Remix",
       "url": "https://open.spotify.com/track/0ifI6yZ047szP2E252EJUY"
+    },
+    {
+      "album": {
+        "name": "what would i give",
+        "url": "https://open.spotify.com/album/6CcSDQmpCg0JRhkP5x45Br"
+      },
+      "artists": [
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        },
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "what would i give",
+      "url": "https://open.spotify.com/track/5nalxn6TBuHgo53VGBux9F"
     },
     {
       "album": {

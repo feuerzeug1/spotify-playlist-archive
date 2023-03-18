@@ -346,7 +346,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 101066,
       "name": "Baile Infinito",
       "url": "https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq"
@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "UNO",
+        "url": "https://open.spotify.com/album/1UwrDtLXLepWw9VRpfTlNE"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f6els",
+          "url": "https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215690,
+      "name": "El Peso",
+      "url": "https://open.spotify.com/track/5VbRwZScBAxgrLoQ84ss8I"
+    },
+    {
+      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
@@ -1168,6 +1186,24 @@
       "duration_ms": 146496,
       "name": "El Vacile Del T\u00edo",
       "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
+    },
+    {
+      "album": {
+        "name": "El valor de lo ausente",
+        "url": "https://open.spotify.com/album/2uvrpwzb38yqQjgAuln1M5"
+      },
+      "artists": [
+        {
+          "name": "Ser Humano",
+          "url": "https://open.spotify.com/artist/22u29dcNy8Xz5lY5GwnFXd"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "El valor de lo ausente",
+      "url": "https://open.spotify.com/track/5NlDcPUsFiWVHyTfCvEVhM"
     },
     {
       "album": {
@@ -1554,7 +1590,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 252040,
       "name": "Hoy Como Siempre",
       "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
@@ -1628,7 +1664,7 @@
           "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
         }
       ],
-      "date_added": "2023-03-07",
+      "date_added": "2023-03-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 273322,
@@ -2158,7 +2194,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 218000,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1jBwdd7dkhx9nVUx2gWc25"
@@ -2290,6 +2326,24 @@
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+    },
+    {
+      "album": {
+        "name": "Mi Gran Dolor",
+        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254908,
+      "name": "Mi Gran Dolor",
+      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
     },
     {
       "album": {
@@ -2440,7 +2494,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 210372,
       "name": "Mujer del Desierto",
       "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
@@ -3133,6 +3187,28 @@
     },
     {
       "album": {
+        "name": "Quer\u00eda Olvidarte",
+        "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166058,
+      "name": "Quer\u00eda Olvidarte",
+      "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n Podr\u00e1 Saberlo",
         "url": "https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ"
       },
@@ -3500,6 +3576,24 @@
       "duration_ms": 205067,
       "name": "Starry Nights",
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
+    },
+    {
+      "album": {
+        "name": "Strong Emotions",
+        "url": "https://open.spotify.com/album/4VuK9WBr3m6VgYorAK69iE"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227497,
+      "name": "Strong Emotions",
+      "url": "https://open.spotify.com/track/5vESv7xXAIhEL9UA1N6uav"
     },
     {
       "album": {
@@ -4032,7 +4126,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 272746,
       "name": "Ya Yo S\u00e9",
       "url": "https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY"

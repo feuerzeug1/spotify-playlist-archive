@@ -5084,7 +5084,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -14309,6 +14309,32 @@
     },
     {
       "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "NEOI STO NOSOKOMEIO",
+      "url": "https://open.spotify.com/track/09vYLUMM3T0Ewf1oqQHsr0"
+    },
+    {
+      "album": {
         "name": "MADE UNDER PRESSURE",
         "url": "https://open.spotify.com/album/7LDIcqnXyqQtd3l6XUILwz"
       },
@@ -18141,6 +18167,28 @@
     },
     {
       "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "SIMPLOKES",
+      "url": "https://open.spotify.com/track/3GKShHi6IKb89UlxpDBxO0"
+    },
+    {
+      "album": {
         "name": "Sinialo",
         "url": "https://open.spotify.com/album/5QCD6BmCN4K6u2fs4L5aWq"
       },
@@ -20056,7 +20104,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 164166,
       "name": "TIRANA",
       "url": "https://open.spotify.com/track/1zVSvXZbu4P5JTUzM3PmlZ"

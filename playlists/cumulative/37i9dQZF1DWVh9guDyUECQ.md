@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-324 songs - 19 hr 5 min
+325 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Diles](https://open.spotify.com/track/38Tj0qQJ9mJpL7seyMIEnW) | [Claudio Parra](https://open.spotify.com/artist/1BJ34ykPT14HD4fgGYStes), [Kako](https://open.spotify.com/artist/4aNsCJTWjuxDsn1dyTaLg9) | [Diles](https://open.spotify.com/album/7D8N5qyBZwweBEnwYYa8hE) | 3:07 | 2021-11-05 | 2022-03-23 |
 | [Dinero](https://open.spotify.com/track/4MXt7Xh7WQiL85Q6Et2OfF) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Trez Hache](https://open.spotify.com/artist/0wgDsnsyLZpCS1Gj5cnI0r), [Helementt](https://open.spotify.com/artist/153zCjJxe1HnU2huS6jnMU) | [Dinero](https://open.spotify.com/album/5i4rUuV3HlivEuXKQrNGIo) | 3:42 | 2022-04-17 | 2022-07-19 |
 | [Dios, Familia & Rap](https://open.spotify.com/track/2Y4iS0tbGlyllgxLf7SCnV) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/4NXzCfxbZIrKTTvs4BgIBb) | 4:17 | 2022-04-17 | 2022-07-29 |
+| [Dios, Familia & Rap](https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa) | 4:17 | 2022-08-27 |  |
 | [Dios, Familia & Rap](https://open.spotify.com/track/3ppiIqfZjtxmd5ZT1qPluY) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne) | 4:17 | 2022-04-29 | 2023-03-05 |
 | [Distinto](https://open.spotify.com/track/6EGduvmEGHgdF3fHYPuUvj) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Distinto](https://open.spotify.com/album/4rjWPPDroLLKu5ql0HAdkn) | 3:06 | 2022-04-17 | 2022-09-03 |
 | [Doble Filo](https://open.spotify.com/track/6AGv5GVeeCGwNr2KeNPhRb) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Doble Filo](https://open.spotify.com/album/5yTsLpw3nxNRFq6eFX59qb) | 2:20 | 2022-08-27 |  |
@@ -118,7 +119,7 @@
 | [Hogar](https://open.spotify.com/track/24d1PUMgPVEoDyvJqjPKCk) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Home](https://open.spotify.com/album/2IQJg6KzupWW0n60NT6wSO) | 3:21 | 2021-11-05 | 2022-03-15 |
 | [Hora Correcta](https://open.spotify.com/track/6X2Mh4BvjhhXXiTJ5VUR3b) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Hora Correcta](https://open.spotify.com/album/2uqW3rCCaAby9qmkFr56cP) | 3:27 | 2021-11-05 | 2022-04-18 |
 | [Hoy Yo Viviré](https://open.spotify.com/track/2E18zSJ5sMQKomyClmmzPI) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Hoy Yo Viviré](https://open.spotify.com/album/3PT3BZNuHKwbhyZUzC02Xq) | 3:26 | 2021-11-05 | 2022-04-18 |
-| [Humillado feat\. Onell Diaz](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 | 2022-08-27 |  |
+| [Humillado feat\. Onell Diaz](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 | 2022-08-27 | 2023-03-18 |
 | [If You Only Knew!](https://open.spotify.com/track/2iRRQUaxQ1OjbGwymK1Fwb) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [If You Only Knew!](https://open.spotify.com/album/5pnN1A9ab2o78lXfuoYeYd) | 2:50 | 2021-11-05 | 2022-03-23 |
 | [Incapaz](https://open.spotify.com/track/61YCTayGinpVgiQa3w4POa) | [Rosa Karina](https://open.spotify.com/artist/1KzJGm3pCl6STUWvCVg5sx) | [Incapaz](https://open.spotify.com/album/3FusjACa0j3W8boYCkemHs) | 3:34 | 2022-04-17 |  |
 | [Indestructible](https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Indestructible](https://open.spotify.com/album/4aGdIqQXhaVflnLZjYDL6Z) | 4:04 | 2022-08-27 | 2022-11-28 |

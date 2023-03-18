@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy?si=bVY7L2IsT2WrsEWdiJNLJg\">Bokani Dyer</a> ",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d?si=KYxuXu7nTI-jQW-GEScd1A\">Robin Fassie</a> ",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A.P's Lament (tribute to Andre Petersen)",
+        "url": "https://open.spotify.com/album/3Up73ni4FocnG5OH9eoVAe"
+      },
+      "artists": [
+        {
+          "name": "Robin Fassie",
+          "url": "https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376000,
+      "name": "A.P's Lament (tribute to Andre Petersen)",
+      "url": "https://open.spotify.com/track/5YULBb9JigXJ7fR1TVQVBU"
+    },
+    {
+      "album": {
         "name": "INGANEKWANE",
         "url": "https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 304103,
       "name": "ABANTU",
       "url": "https://open.spotify.com/track/49tt0RR7huvZTezOjRXpdP"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 351391,
       "name": "Airport Terminal",
       "url": "https://open.spotify.com/track/2jnZIpOYHfgk49nb4qdH1m"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 386209,
       "name": "Amathongo",
       "url": "https://open.spotify.com/track/2jUqVDtYIJWd3baszNjZkF"
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 426990,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 492040,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/1hWcpSQLLaIg610CenNRpo"
@@ -310,7 +328,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 306476,
       "name": "Chosi",
       "url": "https://open.spotify.com/track/0VXVa4Xzf9DUyEjJ9wOx6j"
@@ -368,7 +386,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 344266,
       "name": "Cwaka",
       "url": "https://open.spotify.com/track/0jzllBOVeLUFAXz77NjAq6"
@@ -408,7 +426,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 271086,
       "name": "Don't Let the Sun",
       "url": "https://open.spotify.com/track/0fb9MoSIHGzP08oGhMFNcf"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 346598,
       "name": "Ester And James",
       "url": "https://open.spotify.com/track/1kLla7JH07BHnnrSK4Ch3O"
@@ -488,7 +506,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 194823,
       "name": "Feels Like Sunday",
       "url": "https://open.spotify.com/track/6KC3HEkSSnmr8tby99jJ3J"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 398440,
       "name": "Go My Heart, Go To Heaven",
       "url": "https://open.spotify.com/track/37qEsJ7QH5efXVkhnAQDDL"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 220720,
       "name": "Gog'uIdah",
       "url": "https://open.spotify.com/track/5JcKd6KIvGnMFKGEx1HWNk"
@@ -632,7 +650,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 436017,
       "name": "Good Are Good",
       "url": "https://open.spotify.com/track/6CbwRNWnQArkcMvDeDNUBA"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 296641,
       "name": "I Long for You",
       "url": "https://open.spotify.com/track/54ab1ttBEwPhxMMZBJTXzH"
@@ -778,7 +796,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 343640,
       "name": "I Remember Bra Hugh",
       "url": "https://open.spotify.com/track/4mDhlkiDgOLH4iTdQ1fp2g"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 514413,
       "name": "Indawu",
       "url": "https://open.spotify.com/track/1nKWE1I0RRz5RgykyKPEDB"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 460965,
       "name": "Inkululeko",
       "url": "https://open.spotify.com/track/4qptyeqFHhN0TUUjFQO6c9"
@@ -868,7 +886,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 309990,
       "name": "Interregnum",
       "url": "https://open.spotify.com/track/18xMi52U1688zPqQVvusMp"
@@ -890,6 +908,24 @@
       "duration_ms": 418785,
       "name": "Intlokomo",
       "url": "https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du"
+    },
+    {
+      "album": {
+        "name": "Intwasa: The Becoming",
+        "url": "https://open.spotify.com/album/3BfYSNT6iqBE5UyiZFSRwj"
+      },
+      "artists": [
+        {
+          "name": "Robin Fassie",
+          "url": "https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "Intlungu Nentlupheko",
+      "url": "https://open.spotify.com/track/46IEMoR4xnawTn2mIGBPxz"
     },
     {
       "album": {
@@ -948,7 +984,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 403275,
       "name": "Joyous",
       "url": "https://open.spotify.com/track/1II6naZsvJLrtjXQgGjztZ"
@@ -1122,7 +1158,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 405586,
       "name": "Malume",
       "url": "https://open.spotify.com/track/0remaUvyhDjXE5OUFNmVsS"
@@ -1140,7 +1176,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 362803,
       "name": "Molo Sisi",
       "url": "https://open.spotify.com/track/2Gi7DKVBgCMkWKKQgioOWZ"
@@ -1362,7 +1398,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 285343,
       "name": "Ntab'ezimnyama",
       "url": "https://open.spotify.com/track/7lg6eea6HeZbJOT01pKS4m"
@@ -1434,7 +1470,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 345242,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/2VsMAH0aoA2MrRVva1aBG8"
@@ -1470,7 +1506,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 427173,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/7qCcZTizjFBYCdqGjhvCoV"
@@ -1524,7 +1560,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 348636,
       "name": "Senze' Nina",
       "url": "https://open.spotify.com/track/60ujUkmCYqPQkkZHKtu27b"
@@ -1542,7 +1578,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 389440,
       "name": "Sinivile",
       "url": "https://open.spotify.com/track/08SE0pY4CLGgnr7UMTkWet"
@@ -1560,7 +1596,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 502977,
       "name": "Siyabulela",
       "url": "https://open.spotify.com/track/54s76VIwiH05zSmyVb80Yv"
@@ -1604,7 +1640,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 349275,
       "name": "Sometimes I Feel Like a Motherless Child",
       "url": "https://open.spotify.com/track/7wq5H9Ax3WTvQU6uWTthLe"
@@ -1764,7 +1800,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 157333,
       "name": "The Prayer",
       "url": "https://open.spotify.com/track/6Zr7F3b51giK0VapxTNjRS"
@@ -1804,6 +1840,24 @@
       "duration_ms": 372413,
       "name": "Thokozile Queen Mother",
       "url": "https://open.spotify.com/track/3xIveLdbKx5x1SbUXPfxUs"
+    },
+    {
+      "album": {
+        "name": "Tiya Mowa",
+        "url": "https://open.spotify.com/album/41VmcZQLMt06F7UVVQ5zUd"
+      },
+      "artists": [
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275925,
+      "name": "Tiya Mowa",
+      "url": "https://open.spotify.com/track/6t6mUpSFj0AeLJuTSuAfud"
     },
     {
       "album": {
@@ -1920,7 +1974,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 285026,
       "name": "Wadada",
       "url": "https://open.spotify.com/track/5GvAP2rW6vPSqAdNsUI4Oq"
@@ -2002,6 +2056,42 @@
       "duration_ms": 484551,
       "name": "Wozani Nonke Sizothandaza",
       "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"
+    },
+    {
+      "album": {
+        "name": "Wynter Time",
+        "url": "https://open.spotify.com/album/2KmDzNsGlhCzEjV49krJGp"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567240,
+      "name": "Wynter Time",
+      "url": "https://open.spotify.com/track/14MNWR9L2Hm62cwZTj0lBM"
+    },
+    {
+      "album": {
+        "name": "Yaka Yaka",
+        "url": "https://open.spotify.com/album/2bBnV2FWnWJx76qvvlAMcn"
+      },
+      "artists": [
+        {
+          "name": "Vuma Levin",
+          "url": "https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414434,
+      "name": "Yaka Yaka",
+      "url": "https://open.spotify.com/track/3guSqYCPy6GidiSgklshzX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE"

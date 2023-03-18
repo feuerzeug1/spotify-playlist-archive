@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Healing Energy",
+        "url": "https://open.spotify.com/album/2YOYGhBR5a84AzCYA39cKF"
+      },
+      "artists": [
+        {
+          "name": "ZIWA",
+          "url": "https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200853,
+      "name": "Healing Energy",
+      "url": "https://open.spotify.com/track/4MpPa7WiJ2dXx7uMenOZdU"
+    },
+    {
+      "album": {
         "name": "Native Spirit",
         "url": "https://open.spotify.com/album/5GLLKExiPJhyZBPaRaQRbp"
       },

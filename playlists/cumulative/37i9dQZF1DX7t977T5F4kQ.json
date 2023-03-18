@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "PHOTO ALBUM",
+        "url": "https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172972,
+      "name": "A B C D",
+      "url": "https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H"
+    },
+    {
+      "album": {
         "name": "Adidede",
         "url": "https://open.spotify.com/album/6ZK7DECfuQLrw7VryCxQJU"
       },
@@ -194,7 +212,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 212950,
       "name": "Aviator",
       "url": "https://open.spotify.com/track/4A8AbyQOQWbeqAiXLyf1ke"
@@ -339,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6"
+      },
+      "artists": [
+        {
+          "name": "Jahplaka",
+          "url": "https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae"
+    },
+    {
+      "album": {
         "name": "Builsa Gokta",
         "url": "https://open.spotify.com/album/4OSfmT3xCqTljt6P5Ptb1I"
       },
@@ -354,7 +390,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 276106,
       "name": "Builsa Gokta",
       "url": "https://open.spotify.com/track/0Ld8ZIx3vp1IgfxQ0ZiV3f"
@@ -372,7 +408,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 164846,
       "name": "Bunker",
       "url": "https://open.spotify.com/track/430qeeo39VnjbC8aXIsEbS"
@@ -390,7 +426,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 171556,
       "name": "Carry Go",
       "url": "https://open.spotify.com/track/25q4sk7mFORsQ3Kn6bqUbO"
@@ -508,6 +544,24 @@
       "duration_ms": 213870,
       "name": "CHOPLIFE (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
+    },
+    {
+      "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/3X1BdyHOtJLJWRUMo5bIaR"
+      },
+      "artists": [
+        {
+          "name": "Fancy Gadam",
+          "url": "https://open.spotify.com/artist/3uDHTGGaPazfBhlfXtQyzc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214645,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/7Ih9QFeuk543iGa2kl7OVS"
     },
     {
       "album": {
@@ -1112,7 +1166,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 204310,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/61wxMXgLy8Vfxzx65gthIW"
@@ -1134,6 +1188,50 @@
       "duration_ms": 171128,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4RtRtgj4a0UzipVkInF9Xd"
+    },
+    {
+      "album": {
+        "name": "The Ghana Live Sessions",
+        "url": "https://open.spotify.com/album/0B5DMQdDvi7IJpPu7AUYfc"
+      },
+      "artists": [
+        {
+          "name": "Sena",
+          "url": "https://open.spotify.com/artist/1erBTcAMRYO1WTjsdv0Dma"
+        },
+        {
+          "name": "Sena Dagadu",
+          "url": "https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556190,
+      "name": "Holding On - Live Dub Mix",
+      "url": "https://open.spotify.com/track/4MzxG2az6IMFAMNlUlivwP"
+    },
+    {
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/1KhzP6Qgliwr7oNZ4nBSUg"
+      },
+      "artists": [
+        {
+          "name": "Vanilla",
+          "url": "https://open.spotify.com/artist/5QmtlsyUEqCSTuqrOl6L11"
+        },
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216946,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/6FHrYFvLQF44jPGnCbY5kS"
     },
     {
       "album": {
@@ -1523,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "My Woman",
+        "url": "https://open.spotify.com/album/5qOoGJWF4nwtZZCGrnPw8y"
+      },
+      "artists": [
+        {
+          "name": "AJ Tunes",
+          "url": "https://open.spotify.com/artist/6njTbmFNrMgpjde2o0yObm"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186580,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/5T62GNroDX4ZwfMUerq0mM"
+    },
+    {
+      "album": {
         "name": "NEED ME",
         "url": "https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e"
       },
@@ -1784,7 +1900,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 182099,
       "name": "Over",
       "url": "https://open.spotify.com/track/4AqSMNtn3vFqE0OScxvEps"
@@ -1810,6 +1926,40 @@
       "duration_ms": 225515,
       "name": "Papabi",
       "url": "https://open.spotify.com/track/0u1w6JiN1ApGtWwDLXY2dD"
+    },
+    {
+      "album": {
+        "name": "Partey",
+        "url": "https://open.spotify.com/album/7vQtVN9DI7F5viEpqakYj4"
+      },
+      "artists": [
+        {
+          "name": "Boomski Radio",
+          "url": "https://open.spotify.com/artist/6KN6uOM3j4npLjbyL2MKHQ"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Eddie Kadi",
+          "url": "https://open.spotify.com/artist/24UVDiSRkXbOcEtwZgWEwS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176116,
+      "name": "Partey",
+      "url": "https://open.spotify.com/track/5kT37vOS7z3VxV6o1B74cw"
     },
     {
       "album": {
@@ -1926,7 +2076,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 205531,
       "name": "Questions",
       "url": "https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY"
@@ -2010,7 +2160,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 194400,
       "name": "Sankofa - Remix",
       "url": "https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9"
@@ -2439,6 +2589,32 @@
     },
     {
       "album": {
+        "name": "Thermometer (Ma Lo)",
+        "url": "https://open.spotify.com/album/2rlMfViK6osmXLiaWPRfco"
+      },
+      "artists": [
+        {
+          "name": "DJ Mic Smith",
+          "url": "https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i"
+        },
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221804,
+      "name": "Thermometer (Ma Lo)",
+      "url": "https://open.spotify.com/track/0R7KRqS9h8gLVzLc7mDE8q"
+    },
+    {
+      "album": {
         "name": "Thy Grace",
         "url": "https://open.spotify.com/album/0YSrY0F9lGpMn4w6t0jZ9R"
       },
@@ -2568,7 +2744,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 152673,
       "name": "Waitin For",
       "url": "https://open.spotify.com/track/6kFjZz8XtsiUbdlxanK6uq"
@@ -2597,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/4Vdh0ZV9tCh1YKJcy7lnfA"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6ir2ShLPrZxXgYTtlMxeCN"
+    },
+    {
+      "album": {
         "name": "Y'eni Agye",
         "url": "https://open.spotify.com/album/37PbkW9YttVRT2sh46MT47"
       },
@@ -2616,6 +2810,44 @@
       "duration_ms": 213078,
       "name": "Y'eni Agye",
       "url": "https://open.spotify.com/track/6hA1SKBbQ6F7PfG2URI7jl"
+    },
+    {
+      "album": {
+        "name": "Y3 b3 k) beebi",
+        "url": "https://open.spotify.com/album/1QXuPHNlqWG5iIexngWLn4"
+      },
+      "artists": [
+        {
+          "name": "KWW",
+          "url": "https://open.spotify.com/artist/0oXCDYFtjdq5ruPQuz7NbP"
+        },
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "Y3 b3 k) beebi",
+      "url": "https://open.spotify.com/track/7hi9yX7NN5Fw5nAFhtMqQB"
     },
     {
       "album": {
@@ -2718,7 +2950,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 192040,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX"

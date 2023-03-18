@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
+> African dance party music from Paris to Abidjan\. Photo : Fanicko
 
-114 songs - 6 hr 49 min
+115 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Godo Godo](https://open.spotify.com/track/1o7k5eUEA0m6Q7H0A1tvyU) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Godo Godo](https://open.spotify.com/album/7gdUmmaUUZLYvD9KaLnSaV) | 2:39 | 2022-02-18 | 2022-12-25 |
 | [Godokou](https://open.spotify.com/track/6gvANR4MUDjSjETEXRfO08) | [Apoutchou National](https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC), [Les Patrons](https://open.spotify.com/artist/1nsZMNRP1vmtIat8hD4bHg) | [Godokou](https://open.spotify.com/album/2tJsVMOI29MOKatOUJqMET) | 3:50 | 2022-12-01 | 2023-01-27 |
 | [Godomoué](https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h) | [JN LE BOSS](https://open.spotify.com/artist/39lBGgf33GpI6pQ9DoqGBs), [Yanik Jones](https://open.spotify.com/artist/22f7okXAJWbCs8NJpHv6iG) | [Godomoué](https://open.spotify.com/album/5bFmQ5N0A6zLei6LWp330Y) | 2:48 | 2021-12-20 | 2022-05-21 |
+| [Goumin](https://open.spotify.com/track/0s8ImFfo5vmtAnGDo426ZV) | [Fanicko](https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p) | [Goumin](https://open.spotify.com/album/5DjZoE8Z7xV2VWaDTvKBRr) | 3:52 | 2023-03-16 |  |
 | [Hippy Dance](https://open.spotify.com/track/6zYr2POno0mWqu8kr7EeMp) | [Pikatchou Le Moine](https://open.spotify.com/artist/2I1IZqjxZgLQmBSkk7LZl2) | [Hippy Dance](https://open.spotify.com/album/5YG6ZxsQMr7w9Mt2JJRUSR) | 3:08 | 2022-10-27 | 2023-02-17 |
 | [Il est La](https://open.spotify.com/track/6zblCpRhFYqF3yP9HBdMKq) | [Indira](https://open.spotify.com/artist/3CJLLE7BahDjeTeHVtdRdP), [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Il est La](https://open.spotify.com/album/6Y6MoYzQ5addwNF2LbrND1) | 3:41 | 2022-08-25 | 2022-12-02 |
 | [Ils n'ont pas cru](https://open.spotify.com/track/4NmG4x6MnVtv1SPDYkYf7b) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [Ils n'ont pas cru](https://open.spotify.com/album/5DlZKO83y2BTB7iDCWzuvd) | 3:58 | 2023-01-26 |  |
@@ -70,7 +71,7 @@
 | [La victoire \- Remix](https://open.spotify.com/track/0FYfNzQ2zhmZFMgAFNVEqL) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [La victoire \(Remix\)](https://open.spotify.com/album/71ZaRIJrHO1VOi8ifqlsdj) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [LA VOIX AUTORISÉE](https://open.spotify.com/track/64JJMek8ikqXOSyUPFxigT) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [LA VOIX AUTORISÉE](https://open.spotify.com/album/6qufDDfosaF5gaQLRkmL4T) | 4:21 | 2022-04-14 | 2023-02-03 |
 | [La vérité](https://open.spotify.com/track/5e89B7HTL78eGqD52uThwT) | [2Boyz](https://open.spotify.com/artist/0NdS4SVwgaxj7O4dtUxwos), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [La vérité](https://open.spotify.com/album/7FdXFRSZjwcqzLOuTKpgdC) | 3:33 | 2021-12-20 | 2022-06-03 |
-| [Le Beau des beaux](https://open.spotify.com/track/2T5E3D3TLTJS50VNNqkZJf) | [Fanicko](https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p) | [Le Beau des beaux](https://open.spotify.com/album/4e9R1lhWaPLrNxAdGHrd70) | 4:07 | 2022-09-29 |  |
+| [Le Beau des beaux](https://open.spotify.com/track/2T5E3D3TLTJS50VNNqkZJf) | [Fanicko](https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p) | [Le Beau des beaux](https://open.spotify.com/album/4e9R1lhWaPLrNxAdGHrd70) | 4:07 | 2022-09-29 | 2023-03-18 |
 | [Le carburant](https://open.spotify.com/track/5OHsWkJ1JadGSYcbdrlSdJ) | [Prince Kiala](https://open.spotify.com/artist/0uDRYM5vquP9o3WTQbCUuy) | [Le carburant](https://open.spotify.com/album/5Ot6IDnXrjBM3L9K20y40r) | 4:33 | 2021-12-20 | 2022-09-02 |
 | [Le goût de](https://open.spotify.com/track/3wCuWuUMQXkoDDaFBEQJns) | [Rémy Adan](https://open.spotify.com/artist/4C4OK8Lx2rf53IUo1FUUBo) | [Le goût de](https://open.spotify.com/album/5kr2CVexmWa7A4ygOsDFxD) | 4:05 | 2021-12-20 | 2023-01-13 |
 | [Le nyama](https://open.spotify.com/track/621TMPiRb7R5dg9p2ECBW8) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [Le nyama](https://open.spotify.com/album/2BAoP5i5aAg4qJAGOjH9ij) | 3:45 | 2021-12-20 | 2023-01-06 |

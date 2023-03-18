@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qmvifrwrEK.md) - [plain]
 
 > Soothing familiar womb sounds to make your baby go to sleep quicker and sleep for longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,382 likes - 160 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,484 likes - 160 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qmvifrwrEK.md) - [plain]
 | 13 | [Womb sounds for babies 2](https://open.spotify.com/track/1LeIWWkqLTb9o64zNsMx5u) | [Mothers Womb](https://open.spotify.com/artist/4wfMeAJtYcEhtx9GDY33kx) | [Womb sounds for babies](https://open.spotify.com/album/0F7XD71OPijioqsD20spTJ) | 3:08 |
 | 14 | [Comforting Womb Heartbeats](https://open.spotify.com/track/5LCbHFJPPDzhlN4gJeB7Ne) | [Sonic Observations](https://open.spotify.com/artist/1GyhuweKXGa3R8mBbRDwWe) | [Womb Nostalgia](https://open.spotify.com/album/4VEryGvRzqONemm49XB2g8) | 3:01 |
 | 15 | [Calming Heartbeat at the Beach](https://open.spotify.com/track/79aHMta0GiDmczidjEGYQ8) | [Womb Ambience](https://open.spotify.com/artist/4SEvE8t0gVPALiWdWA19cC) | [Deep Sleep Womb Sounds](https://open.spotify.com/album/6RkLprgZNkiKXfXEIdAXr7) | 2:21 |
-| 16 | [Sounds from mothers Womb](https://open.spotify.com/track/6zY4fGWQ7gRutKzf0w013O) | [Embryo](https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4) | [Soothing sounds of the womb](https://open.spotify.com/album/76hZctuiKE7rqT5vDmAxtl) | 3:19 |
+| 16 | [Sounds from mothers Womb](https://open.spotify.com/track/6zY4fGWQ7gRutKzf0w013O) | [Embryo](https://open.spotify.com/artist/1cIr8MUwUDalrp52BpyG88) | [Soothing sounds of the womb](https://open.spotify.com/album/76hZctuiKE7rqT5vDmAxtl) | 3:19 |
 | 17 | [Ambient Noise for Babies Sleep 4 \(Heartbeat\)](https://open.spotify.com/track/448Iy0QkL0zc0hZTQymt04) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Baby Sleep Noise Womb Sounds](https://open.spotify.com/album/4nwGE89ZDvH1afTG6Tzxc3) | 3:26 |
 | 18 | [Womb sounds for babies 3](https://open.spotify.com/track/3opMEJLqUxxyiAP1dEwudf) | [Mothers Womb](https://open.spotify.com/artist/4wfMeAJtYcEhtx9GDY33kx) | [Womb sounds for babies](https://open.spotify.com/album/0F7XD71OPijioqsD20spTJ) | 3:32 |
 | 19 | [Womb Siesta](https://open.spotify.com/track/7qYMWzfnVsXssaUeod5ImJ) | [Sonic Observations](https://open.spotify.com/artist/1GyhuweKXGa3R8mBbRDwWe) | [Womb Nostalgia](https://open.spotify.com/album/4VEryGvRzqONemm49XB2g8) | 3:03 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qmvifrwrEK.md) - [plain]
 | 37 | [A New Life](https://open.spotify.com/track/3RSa4G2wViUnp486dVUGfp) | [Vita Nova](https://open.spotify.com/artist/73NuuIXGeBU7AyknDXY5A2) | [A New Life](https://open.spotify.com/album/7LzI4ckAaiy5XEz4pLJyuY) | 2:00 |
 | 38 | [Mother Sleep](https://open.spotify.com/track/5J9KPlOTwHpRHZVPMqAA5Y) | [Ruído Do Sono](https://open.spotify.com/artist/19tB8JnMQZZ7mk3nsFYVGe) | [Soothing Womb Noise](https://open.spotify.com/album/5T1JyjtAsrn9foG5Z5w0fT) | 2:36 |
 | 39 | [Soothing Womb Noise](https://open.spotify.com/track/321AorYAl0fe0DOftcrACC) | [Nature's Gift](https://open.spotify.com/artist/2Kes5OWThWcHgSCetl1WXU) | [Deep Sleep Baby Womb Sound](https://open.spotify.com/album/0q2b9vrPrrBUeA07jc5Zlc) | 3:05 |
-| 40 | [Preborn state](https://open.spotify.com/track/6NysywzLUOGbfrMkZeSLGy) | [Embryo](https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4) | [Soothing sounds of the womb](https://open.spotify.com/album/76hZctuiKE7rqT5vDmAxtl) | 3:21 |
+| 40 | [Preborn state](https://open.spotify.com/track/6NysywzLUOGbfrMkZeSLGy) | [Embryo](https://open.spotify.com/artist/1cIr8MUwUDalrp52BpyG88) | [Soothing sounds of the womb](https://open.spotify.com/album/76hZctuiKE7rqT5vDmAxtl) | 3:21 |
 | 41 | [Strong Heartbeat on Loop](https://open.spotify.com/track/2CUzvDnbngEn4rVnYx5KTH) | [Womb Ambience](https://open.spotify.com/artist/4SEvE8t0gVPALiWdWA19cC) | [Fall Asleep Fast to Womb Sounds](https://open.spotify.com/album/4BhBU6N0qa1S23MTSfbt7e) | 2:28 |
 | 42 | [White Noise in Mom's Womb](https://open.spotify.com/track/4hdbXnhhLBaJgoSaPpRQnx) | [Womb Ambience](https://open.spotify.com/artist/4SEvE8t0gVPALiWdWA19cC) | [Deep Sleep Womb Sounds](https://open.spotify.com/album/6RkLprgZNkiKXfXEIdAXr7) | 3:46 |
 | 43 | [Restful Womb Noise](https://open.spotify.com/track/2Nt8GfZhkGMSXiUZ1HdsZS) | [Linata Ebow](https://open.spotify.com/artist/11gO4yNtiNZ8xajSwSjjWw) | [Restful Womb Noise](https://open.spotify.com/album/3bd2O5ugRJkYOBCA4SpKze) | 2:42 |
@@ -146,10 +146,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qmvifrwrEK.md) - [plain]
 | 136 | [Mother meditates](https://open.spotify.com/track/5t8AF87sSgDHWaO0xIzLPt) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [From the womb](https://open.spotify.com/album/3ZVipVDeD24kdPy3ZWjURk) | 3:33 |
 | 137 | [Sleepy Womb Sounds](https://open.spotify.com/track/6n18o7rXIKiiEWyeATLhYc) | [Womb Ambience](https://open.spotify.com/artist/4SEvE8t0gVPALiWdWA19cC) | [Deep Sleep Womb Sounds](https://open.spotify.com/album/6RkLprgZNkiKXfXEIdAXr7) | 2:03 |
 | 138 | [Womb Sound & 2 Hz Delta Binaural Beat](https://open.spotify.com/track/6Fvc48pzBLXa2kCiwcBuzL) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Womb Sounds & Binaural Beats for Baby Sleep](https://open.spotify.com/album/4bfg38JTo4E2k6vsKIBEOL) | 3:09 |
-| 139 | [At the kindergarden](https://open.spotify.com/track/0oTAv2DFQMwbtCJKWqSV1a) | [Embryo](https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4) | [Soothing sounds of the womb](https://open.spotify.com/album/76hZctuiKE7rqT5vDmAxtl) | 3:03 |
+| 139 | [At the kindergarden](https://open.spotify.com/track/0oTAv2DFQMwbtCJKWqSV1a) | [Embryo](https://open.spotify.com/artist/1cIr8MUwUDalrp52BpyG88) | [Soothing sounds of the womb](https://open.spotify.com/album/76hZctuiKE7rqT5vDmAxtl) | 3:03 |
 | 140 | [Sleeping Baby While Mom's at Work](https://open.spotify.com/track/6qvr5Xmj33WdzXHP92UE4E) | [Womb Ambience](https://open.spotify.com/artist/4SEvE8t0gVPALiWdWA19cC) | [Womb Sounds for Babies](https://open.spotify.com/album/4QxGqP0lFiQEbcEXlslGEh) | 2:40 |
 | 141 | [Sleep Baby Womb](https://open.spotify.com/track/4hNiuvClrYZZM68k83T9yh) | [BioSounds](https://open.spotify.com/artist/714vmv7c7CRLZXkJG1xzPO) | [Intense Womb Sound](https://open.spotify.com/album/523PIxEDTuGsvw3VZaIkVE) | 3:19 |
-| 142 | [Mother Sleeping](https://open.spotify.com/track/0huL0ZmP8BA9FdXv7LXpI2) | [Embryo](https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4) | [Soothing sounds of the womb](https://open.spotify.com/album/76hZctuiKE7rqT5vDmAxtl) | 3:26 |
+| 142 | [Mother Sleeping](https://open.spotify.com/track/0huL0ZmP8BA9FdXv7LXpI2) | [Embryo](https://open.spotify.com/artist/1cIr8MUwUDalrp52BpyG88) | [Soothing sounds of the womb](https://open.spotify.com/album/76hZctuiKE7rqT5vDmAxtl) | 3:26 |
 | 143 | [Baby Womb Sounds With Heartbeat](https://open.spotify.com/track/1srg1kxVsxeAP82V3CgIOj) | [Ultrasounds](https://open.spotify.com/artist/2B5NIVHxzNI47SrkFBARnN) | [Baby Womb Sounds](https://open.spotify.com/album/77aqMKp0iHZrJUjCnpgkKd) | 2:34 |
 | 144 | [Baby Beat](https://open.spotify.com/track/2gfz5mvwb3kzi6m0ORu5LL) | [1ST SND](https://open.spotify.com/artist/3nokdvjSAzN9ty9gDOspUl) | [Floating Safe](https://open.spotify.com/album/6UFGWaepjAnNwzZniM01D4) | 2:26 |
 | 145 | [Sounds of the Womb](https://open.spotify.com/track/21wATamuN1AeLkLRYsW7UU) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Womb Sounds](https://open.spotify.com/album/3BagIot68uZ45bo06W7dQo) | 2:09 |
@@ -167,6 +167,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qmvifrwrEK.md) - [plain]
 | 157 | [Sleeping Beauty Pulse](https://open.spotify.com/track/5T4sDtIcMhDHhh78SZYwHW) | [The Right Noises](https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ) | [Inside The Womb](https://open.spotify.com/album/7fsUdUXeKWPYpTC6dHpnbG) | 2:48 |
 | 158 | [Womb Sounds at the Beach](https://open.spotify.com/track/0jkEvNKtBztfPHMEl8blvo) | [Womb Ambience](https://open.spotify.com/artist/4SEvE8t0gVPALiWdWA19cC) | [Deep Sleep Womb Sounds](https://open.spotify.com/album/6RkLprgZNkiKXfXEIdAXr7) | 2:13 |
 | 159 | [Inner Ocean](https://open.spotify.com/track/6mvFnDAJM0h9NXEJzf0Xjq) | [HOLISTIK](https://open.spotify.com/artist/5snzdlYPB9rks7jXF4bxl4) | [Inner Ocean \(Womb Sounds\)](https://open.spotify.com/album/5rTeV095AlSGjDurecyBn3) | 1:53 |
-| 160 | [Parents Talking](https://open.spotify.com/track/73hnfIj5hF0qTwZX6v05xC) | [Embryo](https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4) | [Soothing sounds of the womb](https://open.spotify.com/album/76hZctuiKE7rqT5vDmAxtl) | 3:18 |
+| 160 | [Parents Talking](https://open.spotify.com/track/73hnfIj5hF0qTwZX6v05xC) | [Embryo](https://open.spotify.com/artist/1cIr8MUwUDalrp52BpyG88) | [Soothing sounds of the womb](https://open.spotify.com/album/76hZctuiKE7rqT5vDmAxtl) | 3:18 |
 
 Snapshot ID: `MTY3NzIwMDQwMCwwMDAwMDAwMGI4M2QwYjIxYzdjZGJiMTkzZjRiY2YyMmUwNmRiODFi`

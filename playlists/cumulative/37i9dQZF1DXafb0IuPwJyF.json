@@ -1811,6 +1811,32 @@
     },
     {
       "album": {
+        "name": "JUNK or GEM",
+        "url": "https://open.spotify.com/album/4ihrJ3Tvoa5puJ8a8UKeUI"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Haruko Nagaya",
+          "url": "https://open.spotify.com/artist/5P8drcKYuRizuKKXgUdPO8"
+        },
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273766,
+      "name": "Etude of Adolescence",
+      "url": "https://open.spotify.com/track/1e7GAbiLvMNCyoo8j8ZBpr"
+    },
+    {
+      "album": {
         "name": "Etude of Adolescence",
         "url": "https://open.spotify.com/album/3a5OH0xdi3iWVV7a7rXgpR"
       },
@@ -1830,7 +1856,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-18",
       "duration_ms": 273766,
       "name": "Etude of Adolescence",
       "url": "https://open.spotify.com/track/3DvIKEAVYG5oD4PaQC0IRk"

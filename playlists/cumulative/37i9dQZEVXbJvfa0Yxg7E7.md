@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,005 songs - 2 day 4 hr 34 min
+1,006 songs - 2 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Fylleangst](https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Fylleangst](https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74) | 1:58 | 2022-07-23 | 2022-07-31 |
 | [Försent](https://open.spotify.com/track/6xrlUHCSbqM2huGrQau5xv) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Försent](https://open.spotify.com/album/2rC0CBaSDF2NJ23uXu6Fh6) | 3:16 | 2023-02-04 | 2023-02-06 |
 | [Första Klass](https://open.spotify.com/track/74TEgDsFaq0zMttq1dVuYK) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Första Klass](https://open.spotify.com/album/5W4QltYoETJuRVqkcwWOtl) | 2:31 | 2021-10-23 | 2021-10-24 |
+| [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-03-17 |  |
 | [Gamle Bilder](https://open.spotify.com/track/2bUievg616qKOKeWAoIiqX) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Gamle Bilder](https://open.spotify.com/album/6ZoKsETRc7QP7v3e0iJWww) | 3:20 | 2021-04-18 | 2021-04-19 |
 | [Gamlehjem](https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gamlehjem](https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU) | 3:01 | 2021-03-27 | 2021-04-04 |
 | [Gammel Jegermarsj](https://open.spotify.com/track/7vXIiUiKTw8j6Kct59ZARV) | [HM Kongens Gardes Musikkorps](https://open.spotify.com/artist/1mJCP4lGqdhBUuiHQIlbtr) | [The Olympic Spirit](https://open.spotify.com/album/1VN6DTKb8hk4uKLfwE4MI5) | 2:02 | 2021-05-19 | 2022-05-20 |
@@ -776,7 +777,7 @@
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-11 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-28 | 2022-12-30 |
 | [Rolling in the Deep](https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:48 | 2021-10-19 | 2021-10-31 |
-| [Rom & Cola](https://open.spotify.com/track/1GFZP2cT6C7nGmRzfX7VEY) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Rom & Cola](https://open.spotify.com/album/0C3iRNcHRYBZqHgsjIaifU) | 2:12 | 2023-03-04 |  |
+| [Rom & Cola](https://open.spotify.com/track/1GFZP2cT6C7nGmRzfX7VEY) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Rom & Cola](https://open.spotify.com/album/0C3iRNcHRYBZqHgsjIaifU) | 2:12 | 2023-03-04 | 2023-03-18 |
 | [Romjulsdrøm](https://open.spotify.com/track/4WJcOzrNVgHMGS5zgnU6pS) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Romjulsdrøm](https://open.spotify.com/album/33wPeFgRmLJnYqIAIDNvFX) | 3:41 | 2021-12-25 | 2021-12-27 |
 | [Ronny & Ragge](https://open.spotify.com/track/0u64RPrwUD8k2R8tdy8wwI) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ronny & Ragge](https://open.spotify.com/album/1Muad7jeVrKifXLHd18RTB) | 2:49 | 2021-10-10 | 2021-10-23 |
 | [Rullær](https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Rullær](https://open.spotify.com/album/54JEprViU1skzpmEgO32A1) | 2:27 | 2021-10-31 | 2021-11-28 |
