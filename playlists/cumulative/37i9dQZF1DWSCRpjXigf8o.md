@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-226 songs - 13 hr 51 min
+227 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-02-24 |  |
 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 | 2022-10-20 | 2023-02-01 |
 | [Hi Lo](https://open.spotify.com/track/2PsZC2AKstvrAVa3VMWzWX) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Hi Lo](https://open.spotify.com/album/0MNs4f1YYFWLHJn47GYqUQ) | 2:50 | 2022-10-20 | 2022-12-07 |
-| [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-23 |  |
+| [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-23 | 2023-03-19 |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-03-01 |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-10-20 |  |
 | [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 | 2023-01-12 | 2023-01-18 |
@@ -167,6 +167,7 @@
 | [Sorry](https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL COVER ALL](https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD) | 2:49 | 2023-02-16 |  |
 | [Spend The Night](https://open.spotify.com/track/2oG1oToCZ4BxndReZAr48T) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Spend The Night](https://open.spotify.com/album/0RU0vonPGqmIxLGxCyxM1m) | 3:23 | 2023-03-16 |  |
 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 | 2022-12-15 |  |
+| [Stay Anything](https://open.spotify.com/track/0XC3NNlml0mClzs23YtBiL) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Anything](https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA) | 3:28 | 2023-03-16 |  |
 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 | 2022-12-15 |  |
 | [Stray cat](https://open.spotify.com/track/6bYR2lMuyD0HUkgXo03yLy) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Stray cat](https://open.spotify.com/album/7K1R46LGMuh0Vr7XBX35iD) | 2:35 | 2022-10-20 | 2022-11-09 |
 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2022-11-08 |  |

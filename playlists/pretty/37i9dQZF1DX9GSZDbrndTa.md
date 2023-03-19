@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,065 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,128 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 21 | [Blue Monk](https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [The Complete Prestige 10\-Inch LP Collection](https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC) | 7:39 |
 | 22 | [Pennies From Heaven](https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 5:11 |
 | 23 | [Senor Blues](https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Very Best](https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR) | 7:01 |
-| 24 | [Trane's Blues](https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin'](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 8:32 |
+| 24 | [Birks' Works](https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Verve Jazz Masters 10: Dizzy Gillespie](https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH) | 4:57 |
 | 25 | [Equinox](https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Naima](https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD) | 8:07 |
-| 26 | [Birks' Works](https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Verve Jazz Masters 10: Dizzy Gillespie](https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH) | 4:57 |
+| 26 | [Trane's Blues](https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin'](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 8:32 |
 | 27 | [Cheryl](https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Savoy 10\-inch LP Collection](https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4) | 3:00 |
 | 28 | [Raise Four](https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Underground](https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn) | 4:37 |
 | 29 | [Sonnymoon For Two](https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Freelance Years](https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x) | 9:06 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 32 | [Tenor madness](https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Swiss Nights, Vol\. 3](https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4) | 12:42 |
 | 33 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
 | 34 | [Blues By Five \- Rudy Van Gelder Remaster](https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 9:52 |
-| 35 | [Blues For Alice](https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN) | [Charlie Parker Quintet](https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V) | [Swedish Schnapps: The Genius Of Charlie Parker \#8 \(Expanded Edition\)](https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt) | 2:46 |
-| 36 | [Well You Needn't](https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1) | [Thelonious Monk Septet](https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB) | [Monk's Music](https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G) | 11:22 |
+| 35 | [Well You Needn't](https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1) | [Thelonious Monk Septet](https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB) | [Monk's Music](https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G) | 11:22 |
+| 36 | [Blues For Alice](https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN) | [Charlie Parker Quintet](https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V) | [Swedish Schnapps: The Genius Of Charlie Parker \#8 \(Expanded Edition\)](https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt) | 2:46 |
 | 37 | [Back Slidin'](https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Blues In the Night](https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y) | 6:54 |
 | 38 | [Ba\-Lue Bolivar Ba\-Lues\-Are](https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Ernie Henry](https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Brilliant Corners](https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd) | 13:07 |
 | 39 | [Kelly Blue](https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 10:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Old Clothes](https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 7:44 |
 | 50 | [Opus De Funk \- Remastered](https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:25 |
 
-Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDM0MjRlOTE4ZGEwYzk4ZDRjNDVhMjk3NzZkYTdhYjFh`
+Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDRmOGEzNTY1ZmE0NGRhYTc4ZTcyOGJiOGNiMDNkNzll`

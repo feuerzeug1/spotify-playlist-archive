@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 16476,
+  "num_followers": 16527,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk2NTg1MCwwMDAwMDAwMDhjODE2MmQxMzc5MjExYjY3YjE1Y2IyYWVhMjliY2Y5",
+  "snapshot_id": "MTY3ODk2NTg1MCwwMDAwMDAwMDdlY2MxODBkYmZkODAwZmJjNmI5YjdiODk3NDA1Zjdh",
   "tracks": [
     {
       "added_at": "2023-03-16 11:24:10",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-03-16 11:24:10",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
-    },
-    {
-      "added_at": "2023-03-16 11:24:10",
-      "album": {
         "name": "Realms",
         "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 156083,
       "name": "Again",
       "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
+    },
+    {
+      "added_at": "2023-03-16 11:24:10",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2023-03-16 11:24:10",

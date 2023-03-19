@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Estos son los hits que acompa\u00f1an la fiesta!",
-  "num_followers": 324113,
+  "num_followers": 324382,
   "original_name": "De Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyOTI2MCwwMDAwMDAwMDg1YWFjMzM1M2Q3ZWY0MDA3ODBhYTkzOTg4NmVlZmZk",
+  "snapshot_id": "MTY3OTAyOTI2MCwwMDAwMDAwMDJjNzIxMzNhMGYwYzNjNmNiM2NjYjgyODFmMDk1NWFm",
   "tracks": [
     {
-      "added_at": "2023-03-18 00:41:33",
+      "added_at": "2023-03-19 01:13:00",
       "album": {
         "name": "REMIX EXCLUSIVO",
         "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
-      "added_at": "2023-03-18 00:41:33",
+      "added_at": "2023-03-19 01:13:00",
       "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
-      "added_at": "2023-03-18 00:41:33",
+      "added_at": "2023-03-19 01:13:00",
       "album": {
         "name": "X 1 BESO",
         "url": "https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
-      "added_at": "2023-03-18 00:41:33",
+      "added_at": "2023-03-19 01:13:00",
       "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
     },
     {
-      "added_at": "2023-03-18 00:41:33",
+      "added_at": "2023-03-19 01:13:00",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2023-03-18 00:41:33",
+      "added_at": "2023-03-19 01:13:00",
       "album": {
         "name": "Que Vuelta",
         "url": "https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
     },
     {
-      "added_at": "2023-03-18 00:41:33",
+      "added_at": "2023-03-19 01:13:00",
       "album": {
         "name": "Sueltas",
         "url": "https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe"
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "PUNTO G",
-        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "PUNTO G",
+        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
       "artists": [
         {
           "name": "TINI",
           "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1295,54 +1299,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
       },
       "artists": [
         {
           "name": "TINI",
           "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "AUTOM\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1371,6 +1339,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -1395,22 +1379,34 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+        "name": "AUTOM\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "AGUARDIENTE",
+        "url": "https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp"
+      },
+      "artists": [
         {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+      "duration_ms": 167175,
+      "name": "AGUARDIENTE",
+      "url": "https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1435,6 +1431,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 222522,
       "name": "GIRL LIKE ME",
       "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "AGUARDIENTE",
-        "url": "https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 167175,
-      "name": "AGUARDIENTE",
-      "url": "https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1751,18 +1751,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "OJAL\u00c1",
-        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
         }
       ],
-      "duration_ms": 160482,
-      "name": "OJAL\u00c1",
-      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
+      "duration_ms": 180480,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1787,22 +1791,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+        "name": "OJAL\u00c1",
+        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG"
+      "duration_ms": 160482,
+      "name": "OJAL\u00c1",
+      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 221749,
       "name": "Millones",
       "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
       "added_at": "2023-03-10 05:01:00",

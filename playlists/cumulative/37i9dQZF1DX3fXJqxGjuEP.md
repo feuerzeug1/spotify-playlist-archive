@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-447 songs - 1 day 2 hr 48 min
+448 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Paradiso](https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Paradiso](https://open.spotify.com/album/1HVCTeGuFKuQSwXXNCEkJv) | 3:01 | 2021-10-20 | 2022-04-14 |
 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2021-10-20 | 2022-08-22 |
 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 | 2021-10-20 | 2023-02-08 |
+| [Paraíso](https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 3:52 | 2021-10-20 |  |
 | [Pasión Tropical](https://open.spotify.com/track/1xKyAITK93J44Udn1AWdTe) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Pasión Tropical](https://open.spotify.com/album/6I5UNdFGtD3UgghZizTK5G) | 4:40 | 2021-10-20 | 2022-04-21 |
 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/157GatsyJwcoaLGDD43duL) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl) | 3:27 | 2021-10-20 |  |
 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX) | 3:27 | 2021-10-20 | 2022-10-13 |
@@ -438,7 +439,7 @@
 | [Whisky](https://open.spotify.com/track/3YNtQ1j13MNwbOY1KxtTcS) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Whisky](https://open.spotify.com/album/4HYSkSJVXmPqv7gIt6cSTq) | 3:15 | 2022-03-18 | 2022-07-19 |
 | [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2021-10-20 | 2022-08-05 |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-10-20 | 2022-04-17 |
-| [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-20 |  |
+| [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-20 | 2023-03-19 |
 | [X](https://open.spotify.com/track/6dJrnufNiYJxtd4ZX743bC) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [X](https://open.spotify.com/album/14Hh7K8YnTp9Pk1fvECEPL) | 2:47 | 2021-10-20 | 2022-06-23 |
 | [Xocolate](https://open.spotify.com/track/10asRCljWZ51jZ22RnbiKV) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Xocolate](https://open.spotify.com/album/5nBvx0AU9yBm7toxNo8aBN) | 3:56 | 2021-10-20 | 2022-07-28 |
 | [Y Ahora](https://open.spotify.com/track/15BhfwZAJVDPufb6O9lMxB) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Y Ahora](https://open.spotify.com/album/5uchDW3E2EugxwLK2Oh755) | 3:12 | 2021-10-20 | 2022-04-17 |

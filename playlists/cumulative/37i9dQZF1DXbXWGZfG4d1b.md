@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-420 songs - 1 day 1 hr 2 min
+421 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [No Me Conoce \(Post\-Punk\)](https://open.spotify.com/track/3M0w5JH8ETjLiQ6rTHcguA) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [No Me Conoce \(Post\-Punk\)](https://open.spotify.com/album/4vlMKyXU850kEr8a7BSgzt) | 3:54 | 2022-06-03 | 2023-03-03 |
 | [No Pudiste Verlo](https://open.spotify.com/track/5MqdBOl6tcQuoOCj1fSnGh) | [Camperas](https://open.spotify.com/artist/1NfBsale6A7iXgBf0Ig58w) | [Todo Desliza](https://open.spotify.com/album/4CrOToTHThyWV5nrx3bR1e) | 2:09 | 2022-07-15 | 2022-07-28 |
 | [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 | 2022-09-09 |  |
+| [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 | 2023-03-17 |  |
 | [Nube](https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 1:10 | 2022-07-15 | 2023-03-03 |
 | [Nube](https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 1:10 | 2022-07-01 | 2022-07-25 |
 | [Nudos](https://open.spotify.com/track/0nZo1400P5g6WH70Riy4YB) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Nudos](https://open.spotify.com/album/2CHHKGh0bpnSeRzOQDYcrb) | 4:03 | 2022-07-15 | 2022-08-28 |
@@ -379,7 +380,7 @@
 | [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-06-03 | 2022-10-20 |
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-12 | 2023-03-03 |
 | [Tiembla](https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5) | 3:36 | 2022-07-01 |  |
-| [Tiempo Compartido](https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Tiempo Compartido](https://open.spotify.com/album/75nbafNyS33ripWC6dOXKz) | 5:43 | 2022-07-15 |  |
+| [Tiempo Compartido](https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Tiempo Compartido](https://open.spotify.com/album/75nbafNyS33ripWC6dOXKz) | 5:43 | 2022-07-15 | 2023-03-19 |
 | [TIEMPO PERFECTO](https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [EN EL CIELO](https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc) | 2:41 | 2022-07-01 | 2022-07-29 |
 | [tití](https://open.spotify.com/track/7KTjV2dfbwLzl9u9O9lf1q) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [tití koi](https://open.spotify.com/album/59XcZGcub84oYnnnsN2Xsq) | 3:44 | 2022-07-01 | 2022-07-24 |
 | [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2022-10-28 |  |

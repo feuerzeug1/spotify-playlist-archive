@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 908439,
+  "num_followers": 909771,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzExNSwwMDAwMDAwMGE4NmY5NTRkMzZkZDQ3NGU2M2Y0ZDQzYWI0NGRmNGQw",
+  "snapshot_id": "MTY3OTAzMzExNSwwMDAwMDAwMDY3NDM2MTQ4YjY0YTlkNGMzMWYwMDgwMzRhNzFjZGE4",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 233733,
       "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
       "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+      },
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Groove Theory",
-        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
-      },
-      "artists": [
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+      },
+      "artists": [
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 345975,
+      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
+      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 243733,
       "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
       "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 345975,
-      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
-      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Jade To The Max",
-        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
-      },
-      "artists": [
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 282040,
       "name": "As",
       "url": "https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Jade To The Max",
+        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
+      },
+      "artists": [
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Still Groovin (Remastered)",
+        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Groovin' - Remastered",
+      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 210132,
       "name": "How Deep Is Your Love (feat. Yebba) - Live",
       "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Still Groovin (Remastered)",
-        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Groovin' - Remastered",
-      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Hotter Than July",
-        "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 306666,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Somebody Else's Guy",
         "url": "https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 386026,
       "name": "Somebody Else's Guy",
       "url": "https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 306666,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 242520,
-      "name": "Mrs.",
-      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "When the City Sleeps",
         "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 216514,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 242520,
+      "name": "Mrs.",
+      "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Get Lifted",
-        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Used to Love U",
-      "url": "https://open.spotify.com/track/051NZ3rr3HXTULCEySJRX3"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Children Of The World",
         "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 206160,
       "name": "You Stepped Into My Life",
       "url": "https://open.spotify.com/track/51VbUJoYc1TX1e7GPcLhFQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Used to Love U",
+      "url": "https://open.spotify.com/track/051NZ3rr3HXTULCEySJRX3"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2347,6 +2347,38 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Much Love",
+        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
+      },
+      "artists": [
+        {
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
+        }
+      ],
+      "duration_ms": 291120,
+      "name": "You Might Need Somebody",
+      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Playing For You",
+        "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
+      },
+      "artists": [
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "duration_ms": 258895,
+      "name": "Playing For You",
+      "url": "https://open.spotify.com/track/3DmMNjjYb4xedWBXAN6IUM"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Isina Muva (Gold Deluxe)",
         "url": "https://open.spotify.com/album/7ne6pspiugeCQzVItPEmnn"
       },
@@ -2371,22 +2403,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Playing For You",
-        "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
-      },
-      "artists": [
-        {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
-        }
-      ],
-      "duration_ms": 258895,
-      "name": "Playing For You",
-      "url": "https://open.spotify.com/track/3DmMNjjYb4xedWBXAN6IUM"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 206160,
       "name": "Fool to Love",
       "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Much Love",
-        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
-      },
-      "artists": [
-        {
-          "name": "Shola Ama",
-          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
-        }
-      ],
-      "duration_ms": 291120,
-      "name": "You Might Need Somebody",
-      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
     },
     {
       "added_at": "2023-02-10 11:00:00",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,681 likes - 61 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,796 likes - 61 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 |
 | 2 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 |
-| 3 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
-| 4 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
-| 5 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 |
+| 3 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
+| 4 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 |
+| 5 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
 | 6 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 |
 | 7 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 |
 | 8 | [Strings Attached](https://open.spotify.com/track/4S4yOnEhs3CchPNlqTrI8s) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:13 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 60 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
 | 61 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 |
 
-Snapshot ID: `MTY3OTA0NzAxNywwMDAwMDAwMDFjMmVlZmVhNTA2NmU0Y2UzMTZlOTljZDU5Zjk3MWYz`
+Snapshot ID: `MTY3OTE1NTYyNSwwMDAwMDAwMDVmY2U0N2RjYjRjNzU2YmNmOWYwNjAyODhiZTRjYTFm`

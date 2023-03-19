@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,628 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,686 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 29 | [The Tokyo Taste](https://open.spotify.com/track/0YMnEMqd2xGK6FrMl481wX) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [ザ・ベスト](https://open.spotify.com/album/6A34idMpfb5WqzegCtRBWB) | 3:46 |
 | 30 | [こぬか雨](https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0) | [Ginji Ito](https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY) | [デッドリイ・ドライブ \(40周年記念デラックス・エディション\)](https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ) | 5:54 |
 | 31 | [愛の炎](https://open.spotify.com/track/6ZrnDMPu4wRgRLgmYzoL1c) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [Let's Do It](https://open.spotify.com/album/3XaoPCKp7aRJN8666rx394) | 4:07 |
-| 32 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
-| 33 | [サブタレニアン二人ぼっち \- 2017 リマスター](https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Funny Walkin' \(2017 リマスター\)](https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV) | 3:14 |
+| 32 | [サブタレニアン二人ぼっち \- 2017 リマスター](https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Funny Walkin' \(2017 リマスター\)](https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV) | 3:14 |
+| 33 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
 | 34 | [てぃーんず ぶるーす](https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7) | [Shinji Harada](https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1) | [Feel Happy 2007 \~Debut 30th Anniversary\~](https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB) | 3:47 |
 | 35 | [City Lights by the Moonlight](https://open.spotify.com/track/4oh15qYaAu8aDbUzbmja5J) | [惣領 智子](https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb) | [City Lights by the Moonlight](https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg) | 3:52 |
 | 36 | [ON THE SEASHORE](https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 6:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [シンプル・ラブ](https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42) | [Junko Ohashi & Minoya Central Station](https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM) | [RAINBOW](https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE) | 3:47 |
 | 50 | [Rainbow Sealine](https://open.spotify.com/track/3NQ3e5j7qcscVxKsUQlfOs) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Super Market](https://open.spotify.com/album/3z7LiLRgCg1W4E6Me7IJVV) | 3:53 |
 
-Snapshot ID: `MTY2ODU2MDE0NSwwMDAwMDAwMDhmZjM4NTM0YWZkZjBmZDMxZGZkYjgwOTA5YjdhNjMy`
+Snapshot ID: `MTY2ODU2MDE0NSwwMDAwMDAwMDM0MzMzMWY0Nzk5NjNhNjgyM2FkYjNhYmY2MGU0ZGEx`

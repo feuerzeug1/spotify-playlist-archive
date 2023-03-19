@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 404 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 47 | [Respeto a los Mayores](https://open.spotify.com/track/5ZNPc6A6A5c4uuiOb4wUHm) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 5:36 |
 | 48 | [La Jibarita](https://open.spotify.com/track/1hxCzBe0npyFyHI2xjC4gO) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 6:17 |
 | 49 | [Bombero Eh](https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:56 |
-| 50 | [Remigio Tombe](https://open.spotify.com/track/6cSnXtQbb5u9OOQea1AdY3) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:48 |
+| 50 | [Seis Corrido Medley](https://open.spotify.com/track/5Worf5DYlPyHnUTkP0xiUM) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 3:07 |
 
-Snapshot ID: `MTY3NzAxODg1OSwwMDAwMDAwMDI4NmJjMTI3OWFlNGJjZmEzNzgwMDcwNzNhNDgzNjU0`
+Snapshot ID: `MTY3NzAxODg1OSwwMDAwMDAwMDZmNWM4MDg1YjU1MTAxZjJmZDdkYWQxOTUzZDcxNjM3`

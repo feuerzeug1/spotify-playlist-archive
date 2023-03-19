@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Feist
 
-489 songs - 1 day 6 hr 26 min
+490 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Energy](https://open.spotify.com/track/11i3GDVb1hGPWrPSoZ5xGf) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Ydegirl](https://open.spotify.com/album/0tDt3NI9DX0ivOd15RljWg) | 4:32 | 2021-10-22 | 2022-01-23 |
 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 | 2021-06-03 | 2022-07-28 |
 | [Even If It Hurts](https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:11 | 2021-06-03 | 2022-07-29 |
-| [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2021-06-03 |  |
+| [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2021-06-03 | 2023-03-19 |
 | [Everything Is Going To Be Alright](https://open.spotify.com/track/1yvtCuX0Zd6b5xs4DWwGon) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/2tNbPHuZTwMTQqUrGwESGm) | 3:50 | 2022-03-07 | 2022-07-15 |
 | [fall \- A\. G\. Cook remix](https://open.spotify.com/track/44dDBvATJffxnqvdMNsfDQ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [fall / galore \(A\. G\. Cook remixes\)](https://open.spotify.com/album/1Wf9pKZst7slr7Xpbf2oui) | 2:37 | 2021-06-03 | 2022-06-04 |
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-07-22 |  |
@@ -366,6 +366,7 @@
 | [Romanticist](https://open.spotify.com/track/5YixskhSGNwmqjUrG0DTEY) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 1:46 | 2021-06-03 | 2022-06-04 |
 | [Rosyln](https://open.spotify.com/track/0GmvJ42jViP2XSRxIqmC3x) | [Always Never](https://open.spotify.com/artist/0iiDqBBNToKJG4YoyESrBf) | [Rosyln](https://open.spotify.com/album/2dCOCpk5QcmLsrt1yoBbMz) | 4:22 | 2022-06-03 | 2022-06-07 |
 | [Runner](https://open.spotify.com/track/2FLW1FnWZxGUuiDgsLDGOG) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Swimmer](https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb) | 3:36 | 2021-06-03 | 2022-07-29 |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-03-14 |  |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2021-06-03 | 2023-03-18 |
 | [SADIST](https://open.spotify.com/track/0x2BBTnwlR3StGFVM7mZmr) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 3:19 | 2022-11-11 | 2022-12-28 |
 | [Saving Grace](https://open.spotify.com/track/2ULM1nq5MSVp0QE1anwcbT) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Running on Mercy](https://open.spotify.com/album/1HJ9fWCIDXrORYph9y3D4b) | 2:59 | 2021-06-03 | 2022-04-21 |

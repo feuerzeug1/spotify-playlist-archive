@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Dariell Cano
 
-290 songs - 16 hr 12 min
+292 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Carbon Copy](https://open.spotify.com/track/5467RSSW6xchQKUzvbAUvv) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Carbon Copy](https://open.spotify.com/album/5oqxbFXnvb6GXQXbT5AliN) | 3:24 | 2022-05-11 | 2022-09-07 |
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2021-11-18 | 2022-10-28 |
 | [Cariño](https://open.spotify.com/track/1wyc9pjAAtIaBceqts184d) | [Rudy De Anda](https://open.spotify.com/artist/4zAauwbGLs7vAEzfJEklGF) | [Tender Epoch](https://open.spotify.com/album/5WZSADIfCSEWZdeaiHjQ93) | 4:49 | 2022-01-10 | 2022-07-25 |
-| [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 | 2023-02-10 |  |
+| [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 | 2023-02-10 | 2023-03-19 |
 | [Cerezos II](https://open.spotify.com/track/2yw2lAqQveFFWzr8Bu6uHG) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Experimento](https://open.spotify.com/album/74gTwPmW6qHE5TpKh5kPud) | 4:01 | 2021-11-18 | 2022-07-29 |
 | [Cielo](https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Cielo](https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM) | 3:23 | 2023-03-13 |  |
 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 | 2023-03-10 | 2023-03-18 |
@@ -173,6 +173,7 @@
 | [Miracle](https://open.spotify.com/track/1qF69E9heZYJO3iBa8kOx1) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/2v08BVmRilhppsPf5OBcER) | 4:20 | 2022-12-16 | 2023-01-07 |
 | [Moment of Joy](https://open.spotify.com/track/2yvZamzwXZAtxdmPPtEtb1) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/0LQ5gWM3pvpS2iUhppk57p) | 3:37 | 2022-10-27 | 2022-11-25 |
 | [Moment of Joy](https://open.spotify.com/track/3GLGwjylUfM2quQzK07EY5) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT) | 3:37 | 2021-11-18 | 2022-11-20 |
+| [MONA LISA](https://open.spotify.com/track/3rTk3EuxDOduzi54ji5sqj) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/2OvBs0EwzxPxaoTrZwtg0x) | 3:41 | 2023-03-17 |  |
 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-30 |  |
 | [Ms\. Moon](https://open.spotify.com/track/3HFDfyuMD3UU51G0AIfeTa) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [444/Ms\. Moon](https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z) | 2:33 | 2022-11-24 |  |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-04-15 | 2022-11-25 |
@@ -249,7 +250,7 @@
 | [Suerte](https://open.spotify.com/track/4oBFRsX8QASmBHVrxYS5OU) | [Nutopia](https://open.spotify.com/artist/7fbrvNFwDFw8qTdR0dDSfP) | [Suerte](https://open.spotify.com/album/22qRsNNXZ7jR79iAefDGcy) | 2:46 | 2021-11-18 | 2022-07-29 |
 | [Summer Girl](https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:41 | 2021-11-18 | 2022-07-29 |
 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 | 2022-06-29 | 2022-11-25 |
-| [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 | 2023-01-13 |  |
+| [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 | 2023-01-13 | 2023-03-19 |
 | [Talk Too Much](https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Talk Too Much](https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66) | 3:17 | 2022-11-24 | 2023-01-11 |
 | [Tarde](https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 3:19 | 2022-08-11 | 2022-12-10 |
 | [te alejas](https://open.spotify.com/track/3ZUNkZgE697qrnRCBZZOBz) | [andremustdie](https://open.spotify.com/artist/6J3J7gELfiEqZIiW7gVNrw), [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [te alejas](https://open.spotify.com/album/2QBBsysSCOI2tmHqvNBG7j) | 4:58 | 2022-01-10 | 2022-07-26 |
@@ -297,6 +298,7 @@
 | [¡párate!](https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [¡párate!](https://open.spotify.com/album/6p5taDuRLjQIl3XD1eD2MP) | 2:33 | 2022-01-10 | 2022-09-07 |
 | [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 | 2023-03-10 | 2023-03-12 |
 | [¿QUIÉN TE MANDA?](https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [¿QUIÉN TE MANDA?](https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb) | 3:38 | 2023-02-17 |  |
+| [¿Qué Ha Sido De Ti?](https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [¿Qué Ha Sido De Ti?](https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL) | 3:17 | 2023-03-17 |  |
 | [Último Adiós](https://open.spotify.com/track/7lBhTIVEhFmuptaX7Cs1vD) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf), [Baltazar Clusellas](https://open.spotify.com/artist/37hRvfW8T7lfdU7XdpZ6nX) | [Último Adiós](https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M) | 3:57 | 2023-03-10 |  |
 
 \*This playlist was first scraped on 2022-01-10. Prior content cannot be recovered.

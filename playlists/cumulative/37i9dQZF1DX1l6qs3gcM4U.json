@@ -4492,7 +4492,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 249497,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
@@ -4576,6 +4576,44 @@
       "duration_ms": 230559,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/4pZKBbkkV1PqWNGyWDE1RN"
+    },
+    {
+      "album": {
+        "name": "Segunda Rodada",
+        "url": "https://open.spotify.com/album/6Wetr2P1qCn3oCvDU5zIe9"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        },
+        {
+          "name": "Nsoki",
+          "url": "https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH"
+        },
+        {
+          "name": "Button",
+          "url": "https://open.spotify.com/artist/0poxcWsjEiMEeHyPyQRItI"
+        },
+        {
+          "name": "Kletuz",
+          "url": "https://open.spotify.com/artist/4Xq2SG5ib8kT7j0bM4ELAA"
+        },
+        {
+          "name": "Phedilson",
+          "url": "https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255555,
+      "name": "Segunda Rodada",
+      "url": "https://open.spotify.com/track/3MUx7bmAwesSvSDl31BXHN"
     },
     {
       "album": {

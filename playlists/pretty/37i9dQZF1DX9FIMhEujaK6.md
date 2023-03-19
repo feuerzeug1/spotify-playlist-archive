@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,483 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,568 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 39 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 |
 | 40 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
 | 41 | [2daBeat](https://open.spotify.com/track/1BpG59DLyW6jZxN2PYiUA3) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Musik 3](https://open.spotify.com/album/7vHtRLKLA8ZkNBN3kNwlT6) | 5:29 |
-| 42 | [Wild Skies](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Wild Skies](https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm) | 3:24 |
-| 43 | [Good Disease](https://open.spotify.com/track/5pA39NQIP1nZgvFxV5Fi7S) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp), [Stephen Jones](https://open.spotify.com/artist/5fBNvRbs68IKW1ExBBX1wR) | [Hinterland](https://open.spotify.com/album/0oNNaNluLVDg34wMPuLdNS) | 4:23 |
+| 42 | [Good Disease](https://open.spotify.com/track/5pA39NQIP1nZgvFxV5Fi7S) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp), [Stephen Jones](https://open.spotify.com/artist/5fBNvRbs68IKW1ExBBX1wR) | [Hinterland](https://open.spotify.com/album/0oNNaNluLVDg34wMPuLdNS) | 4:23 |
+| 43 | [Wild Skies](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Wild Skies](https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm) | 3:24 |
 | 44 | [Keep You Kimi](https://open.spotify.com/track/53oC9lu6vxNkNpSN9J8dIT) | [Hird](https://open.spotify.com/artist/33nGdwPVGbU7cFuIh9OnTu), [Yukimi Nagano](https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf) | [Moving On](https://open.spotify.com/album/4EyAjkGrjXvx1ydSuMTLvW) | 6:28 |
 | 45 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
 | 46 | [It's up to Me](https://open.spotify.com/track/0DKoGYBIfxb7PYz9FKu4fx) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Lee Pearson Jr\. Collective](https://open.spotify.com/artist/49E2C6RG0oMzrYzcBBsTsQ), [K LaDawn](https://open.spotify.com/artist/4mabyxDOpBHXvY2cBe0Bwm), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Chaos in the CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Hungboo \- DJ\-Kicks](https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ\-Kicks EP](https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE) | 4:35 |
 | 50 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
 
-Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDdmYzcxYjk0YWU5ZDg2ZGMzNDc4ZmIzYmM4OTBlMzJj`
+Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDM4OTIzNThjMWJlMzBlNWU1NjMxMDliNTBhNjdmMmRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Aly & AJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,244 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,532 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,15 +59,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 49 | [Never Come Back Again](https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9) | [Austin Plaine](https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN) | [Austin Plaine](https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN) | 3:16 |
 | 50 | [Wildflower](https://open.spotify.com/track/7HYVXHGXsXOoQGi7UjYBrQ) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/75sVhPaNpMaypvDzhPbjXa) | 3:32 |
 | 51 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 |
-| 52 | [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 |
-| 53 | [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 |
+| 52 | [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 |
+| 53 | [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 |
 | 54 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
 | 55 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
 | 56 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 57 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
 | 58 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
-| 59 | [Waterfall](https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:32 |
-| 60 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 |
+| 59 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 |
+| 60 | [Waterfall](https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:32 |
 | 61 | [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 |
 | 62 | [Time](https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 3:37 |
 | 63 | [Waves](https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Waves](https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO) | 2:16 |
@@ -82,17 +82,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 72 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 |
 | 73 | [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 |
 | 74 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 |
-| 75 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 |
-| 76 | [Back to You](https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ) | 2:50 |
+| 75 | [Back to You](https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ) | 2:50 |
+| 76 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 |
 | 77 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 |
-| 78 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 |
-| 79 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
+| 78 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
+| 79 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 |
 | 80 | [Do Right](https://open.spotify.com/track/1Ab2FPSnr5C7PkndTMHdP6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Do Right](https://open.spotify.com/album/3SwuKpDI0Xolzm5exsHkeP) | 3:33 |
 | 81 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 |
 | 82 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 |
 | 83 | [Cliché](https://open.spotify.com/track/26B9017HwUloEaz9SeiPoy) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Tender](https://open.spotify.com/album/6JmAID0bTN1be4b6EQtKGI) | 2:56 |
-| 84 | [I Know the Way Home](https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR) | 3:21 |
-| 85 | [Backstage in Glasgow](https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Backstage in Glasgow](https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S) | 2:16 |
+| 84 | [Backstage in Glasgow](https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Backstage in Glasgow](https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S) | 2:16 |
+| 85 | [I Know the Way Home](https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR) | 3:21 |
 | 86 | [Any Day Now](https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:21 |
 | 87 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 |
 | 88 | [Better When We're Falling Apart](https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Always, Joni](https://open.spotify.com/track/61EzqOBuKeieLCgkO1xQv8) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Always, Joni](https://open.spotify.com/album/5kSFUmD1KNcPJP0A4Cdakp) | 3:09 |
 | 100 | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V) | [Parsonsfield](https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR) | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm) | 3:11 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDgwNmNkYTY3MmIzZTIzNWQ0NmIyYWZkZDcyMTY0YjA3`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGViNzA1NmE0OGM1ZjdkOTI2ODJhOTQ3MTk5NGJmZTc0`

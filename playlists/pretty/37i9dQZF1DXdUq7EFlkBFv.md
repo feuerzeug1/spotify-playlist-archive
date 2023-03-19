@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,125 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,135 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 19 | [5500 Degrees \(feat\. Lil Baby, 42 Dugg & Rylo Rodriguez\)](https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:04 |
 | 20 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 |
 | 21 | [On Go \(feat\. Polo G\)](https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [On Go \(feat\. Polo G\)](https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z) | 3:00 |
-| 22 | [Outside \(Better Days\)](https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Outside \(Better Days\)](https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI) | 3:35 |
-| 23 | [LLC](https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [LLC](https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy) | 2:17 |
+| 22 | [LLC](https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [LLC](https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy) | 2:17 |
+| 23 | [Outside \(Better Days\)](https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Outside \(Better Days\)](https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI) | 3:35 |
 | 24 | [Off The Map](https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [After Me](https://open.spotify.com/album/3cDBVusNMPK33eaTIE5QQg) | 2:21 |
 | 25 | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT) | 3:51 |
 | 26 | [Attachments](https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Taliban Glizzy](https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 49 | [Toxic Punk](https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Ain't Scared](https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ) | 2:03 |
 | 50 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 |
 
-Snapshot ID: `MTY2NDY0MTAzNywwMDAwMDAwMGYwNzYzZmI5NjBlNTU0NmQ4YmRiZjVkMmI2MWNmNDIw`
+Snapshot ID: `MTY2NDY0MTAzNywwMDAwMDAwMDE3NDc5ZTk5NDA4NGQ5MDY2NGRhYTRlMDk2MTU4Njlm`

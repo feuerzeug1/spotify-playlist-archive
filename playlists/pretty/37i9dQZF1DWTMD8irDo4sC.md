@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,752 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,801 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 24 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 |
 | 25 | [Bekitini](https://open.spotify.com/track/17M4JHQru8pJmTNiBxDTEn) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 3:40 |
 | 26 | [Keda Bardou \- Acoustic Version](https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Keda Bardou \(Acoustic Version\)](https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ) | 2:43 |
-| 27 | [Weilak Acoustik](https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:32 |
-| 28 | [Betrouh](https://open.spotify.com/track/3sg5wboOGpcM4OdlRra6yf) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ya Ayech Bi Oyouni](https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH) | 4:29 |
+| 27 | [Betrouh](https://open.spotify.com/track/3sg5wboOGpcM4OdlRra6yf) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ya Ayech Bi Oyouni](https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH) | 4:29 |
+| 28 | [Weilak Acoustik](https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:32 |
 | 29 | [Wea'youneha](https://open.spotify.com/track/318ECWWGoxEqUIxg16ZBhJ) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 3:17 |
 | 30 | [Zwit rwit](https://open.spotify.com/track/0vcnijpAVRaJImqrVFWOfb) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 3:37 |
 | 31 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 43 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
 | 44 | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Frankly Jazz](https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9) | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J) | 3:08 |
 | 45 | [Ella Enta \(Live Session\)](https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ella Enta \(Live Session\)](https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3) | 4:08 |
-| 46 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
-| 47 | [Manakir](https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Manakir](https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY) | 3:04 |
-| 48 | [صباح الخير](https://open.spotify.com/track/6BgqI86Dtk0YLUkLnSJk14) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 3:19 |
-| 49 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 |
+| 46 | [Manakir](https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Manakir](https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY) | 3:04 |
+| 47 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 |
+| 48 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
+| 49 | [صباح الخير](https://open.spotify.com/track/6BgqI86Dtk0YLUkLnSJk14) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 3:19 |
 | 50 | [W3od](https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [W3od](https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq) | 2:48 |
 | 51 | [Bshi Yom](https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Bshi Yom](https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN) | 4:54 |
-| 52 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 |
-| 53 | [تعال معي](https://open.spotify.com/track/7c47NwOZisO6IEmdfFN4Qv) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [مفرق 48 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03J6HvXUohmOkWMmxFM05S) | 2:44 |
-| 54 | [Shahrazad](https://open.spotify.com/track/0HpTrjuy3daY46IpCRZPf0) | [Yazan Ibrahim](https://open.spotify.com/artist/2IUQX6kIJhBuJaL7UYkHkG), [Terez Sliman](https://open.spotify.com/artist/2iFhXkgGLdF1mLQKvWVbm4) | [Almond Blossom](https://open.spotify.com/album/5Mp4ZyBwspNMtls451hr9w) | 3:44 |
-| 55 | [كيف الحب بنقاس](https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq) | [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX) | [كيف الحب بنقاس](https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk) | 2:44 |
+| 52 | [Shahrazad](https://open.spotify.com/track/0HpTrjuy3daY46IpCRZPf0) | [Yazan Ibrahim](https://open.spotify.com/artist/2IUQX6kIJhBuJaL7UYkHkG), [Terez Sliman](https://open.spotify.com/artist/2iFhXkgGLdF1mLQKvWVbm4) | [Almond Blossom](https://open.spotify.com/album/5Mp4ZyBwspNMtls451hr9w) | 3:44 |
+| 53 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 |
+| 54 | [كيف الحب بنقاس](https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq) | [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX) | [كيف الحب بنقاس](https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk) | 2:44 |
+| 55 | [تعال معي](https://open.spotify.com/track/7c47NwOZisO6IEmdfFN4Qv) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [مفرق 48 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03J6HvXUohmOkWMmxFM05S) | 2:44 |
 | 56 | [The Taste of Love](https://open.spotify.com/track/0RFU7SHpffAeG65QzNvy18) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 5:54 |
 | 57 | [Holm](https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Holm / The Man Who Sold The World](https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY) | 4:46 |
 | 58 | [Salam](https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 69 | [Ombre de mon amant](https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE) | [Michel Lambert](https://open.spotify.com/artist/6DIgXovySNbDB3K5lTtUKT), [Rima Khcheich](https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y), [Maarten Ornstein](https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Ombre de mon amant](https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1) | 6:29 |
 | 70 | [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 |
 
-Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMGI1M2NiNDMxNTBiNmEzZTI3MWUxOGE5ZTc1YzMzZGM1`
+Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMDQ5MTU2MDA4ZDgwOGI1NTYzZGZmMWI2NmMxYTJjMjU0`

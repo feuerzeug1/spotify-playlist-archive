@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Arsenal of War",
+        "url": "https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07"
+      },
+      "artists": [
+        {
+          "name": "Frozen Soul",
+          "url": "https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245400,
+      "name": "Arsenal of War",
+      "url": "https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6"
+    },
+    {
+      "album": {
         "name": "Zos Kia Cultus",
         "url": "https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN"
       },
@@ -5200,7 +5218,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 207654,
       "name": "The Battle of Sudden Flame",
       "url": "https://open.spotify.com/track/2QO98YRV4B4A9K83INntza"

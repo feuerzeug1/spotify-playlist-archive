@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,438 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,449 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 12 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
 | 13 | [merlot](https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:05 |
 | 14 | [good1ife](https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [Marco](https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh) | [good1ife](https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi) | 2:57 |
-| 15 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
-| 16 | [Nike Shoes](https://open.spotify.com/track/4qkLMfY5sczhls5VDdsrT1) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [24:26 \(5th Anniversary Remaster Edition\)](https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU) | 4:31 |
+| 15 | [Nike Shoes](https://open.spotify.com/track/4qkLMfY5sczhls5VDdsrT1) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [24:26 \(5th Anniversary Remaster Edition\)](https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU) | 4:31 |
+| 16 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
 | 17 | [BASS](https://open.spotify.com/track/19QvAYMXYN4iQMlzer1JEC) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [BASS](https://open.spotify.com/album/1h7jDj6mhlPnArM1blyqy4) | 3:20 |
 | 18 | [Daydreamin \(Feat\. sogumm & Woo\) \(Prod\. Yosi & CODE KUNST\)](https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 4:00 |
 | 19 | [a fence](https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [af](https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8) | 3:27 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 22 | [Gyeongsan\-si](https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:05 |
 | 23 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 |
 | 24 | [Too Far](https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 4:07 |
-| 25 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
+| 25 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
 | 26 | [ice coffee](https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 2:53 |
-| 27 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
+| 27 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 | 28 | [Color \(Feat\. youra\)](https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:39 |
 | 29 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 |
 | 30 | [SOAP](https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Rainy Day](https://open.spotify.com/track/6lmSfkbYSpI6zgLjzkZ4WS) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 2:58 |
 | 50 | [Sunday](https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc) | [BEAT SOMEONE](https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Sunday](https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny) | 3:16 |
 
-Snapshot ID: `MTY3NjM1ODI1OSwwMDAwMDAwMDZhYzYyZDg3ZjEyMzk3NjIyMWY1MTdjMjdmMWM4ODcx`
+Snapshot ID: `MTY3NjM1ODI1OSwwMDAwMDAwMDQyMzE1NGE2NmRkNjcxZTk4NjhlZWJkMTcxZTk4NmUw`

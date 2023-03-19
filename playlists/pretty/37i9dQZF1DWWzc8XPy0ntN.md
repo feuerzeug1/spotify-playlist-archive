@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,074 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,077 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 8 | [Atlántida](https://open.spotify.com/track/4XG8r3tuGn2Sossi2eoNtO) | [DNGDNGDNG](https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Atlántida](https://open.spotify.com/album/5WHYmcgeLzkJVlnyAYA3pj) | 5:30 |
 | 9 | [BADTRIP](https://open.spotify.com/track/59qoO6Zv3pKUIVaYZCeG7U) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml) | [NEW BREED](https://open.spotify.com/album/5xmOTtTLaPzw8pP4tRtjP4) | 1:35 |
 | 10 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
-| 11 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 |
-| 12 | [El Mago Georges](https://open.spotify.com/track/2BFP1UreT4vYonBeCaP9Uy) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Pleamar](https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT) | 3:55 |
+| 11 | [El Mago Georges](https://open.spotify.com/track/2BFP1UreT4vYonBeCaP9Uy) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Pleamar](https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT) | 3:55 |
+| 12 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 |
 | 13 | [Sin control](https://open.spotify.com/track/3VU9lUe99fLz5PD6hlwad7) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:46 |
 | 14 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 |
 | 15 | [No Puedo Funcionar](https://open.spotify.com/track/5ovjlgDlwy3fDfAWDh1Pki) | [DJs Pareja](https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestra Forma](https://open.spotify.com/album/1Vr6Mf9IkYR5GEwjLyfxMq) | 5:47 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 44 | [Corazón Lleno de Mil Inviernos](https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Tierra del Fuego](https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa) | 3:54 |
 | 45 | [Fiebre](https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Fiebre](https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj) | 4:27 |
 | 46 | [Pieles](https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5) | [Tyu](https://open.spotify.com/artist/5IToOsTYhrDB6BqOxpWTxM) | [Pieles](https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu) | 8:20 |
-| 47 | [Ananda](https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Ananda](https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb) | 4:12 |
-| 48 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
-| 49 | [Limon Pelado](https://open.spotify.com/track/4AObAZOnmRqCET9CgdzoeD) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Fuego Nuevo](https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh) | 4:58 |
-| 50 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 |
+| 47 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
+| 48 | [Ananda](https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Ananda](https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb) | 4:12 |
+| 49 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 |
+| 50 | [Limon Pelado](https://open.spotify.com/track/4AObAZOnmRqCET9CgdzoeD) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Fuego Nuevo](https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh) | 4:58 |
 
-Snapshot ID: `MTY3NzU1NTkwMSwwMDAwMDAwMDE5YzMzNjNlOTQwMDc2MzQ0NjQ0YWFjN2UwYjlhMDdk`
+Snapshot ID: `MTY3NzU1NTkwMSwwMDAwMDAwMDY3YTE4Y2NiNzYxOTdhMzJmNzI1NzE3ZmMwNWVmMTMx`

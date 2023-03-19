@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 44761,
+  "num_followers": 44868,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzEzOSwwMDAwMDAwMDJlZTA5NThiODRlNzcyMDRkYTlkN2Y3NzBiYmE3YmM0",
+  "snapshot_id": "MTY3Nzg2NzEzOSwwMDAwMDAwMDM5OWYxM2QzOTBkNWZjMDZjNGU2ZDMzMmQyOGM5YjVl",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:19",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "An Introduction To Otis Rush",
-        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
+        "name": "Rancho Texicano: The Very Best of ZZ Top",
+        "url": "https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k"
       },
       "artists": [
         {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 219559,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
+      "duration_ms": 279173,
+      "name": "Blue Jean Blues",
+      "url": "https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Rancho Texicano: The Very Best of ZZ Top",
-        "url": "https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k"
+        "name": "An Introduction To Otis Rush",
+        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
       },
       "artists": [
         {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 279173,
-      "name": "Blue Jean Blues",
-      "url": "https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB"
+      "duration_ms": 219559,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "Big Walter Horton w/ Carey Bell",
         "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 278266,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "The Blues Album",
-        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
-        {
-          "name": "Mike Farris",
-          "url": "https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o"
-        }
-      ],
-      "duration_ms": 289266,
-      "name": "I Don't Know What You've Got",
-      "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "The Imperial Recordings",
         "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 295666,
       "name": "Reap What You Sow",
       "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "The Blues Album",
+        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Mike Farris",
+          "url": "https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "I Don't Know What You've Got",
+      "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Presenting...The Best of the Blues",
-        "url": "https://open.spotify.com/album/1WoedhOKJqDgArNSthegCO"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "I Got the Blues",
-      "url": "https://open.spotify.com/track/67sHV5ccX8EreM66hq6cbv"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "The Legendary Christine Perfect Album",
         "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 191355,
       "name": "I'm on My Way",
       "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "Presenting...The Best of the Blues",
+        "url": "https://open.spotify.com/album/1WoedhOKJqDgArNSthegCO"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "I Got the Blues",
+      "url": "https://open.spotify.com/track/67sHV5ccX8EreM66hq6cbv"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Porch Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        },
-        {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "Change is Inevitable (feat. AJ Fullerton)",
-      "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "No Foolin'!",
         "url": "https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "Porch Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        },
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "Change is Inevitable (feat. AJ Fullerton)",
+      "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
     },
     {
       "added_at": "2023-03-03 18:12:19",

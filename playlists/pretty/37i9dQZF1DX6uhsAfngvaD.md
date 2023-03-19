@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,657 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,709 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 30 | [Overseas/BACK 2 U](https://open.spotify.com/track/0lb6PK0emykiClk9cB1Gw2) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 4:39 |
 | 31 | [Keep You Warm](https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [This Empty Town](https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL) | 4:16 |
 | 32 | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8) | 3:10 |
-| 33 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
-| 34 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
+| 33 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
+| 34 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
 | 35 | [Vibrate](https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:34 |
-| 36 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
-| 37 | [Paralyzed](https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV) | [Swiss Portrait](https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE) | [Paralyzed](https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7) | 2:40 |
+| 36 | [Paralyzed](https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV) | [Swiss Portrait](https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE) | [Paralyzed](https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7) | 2:40 |
+| 37 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
 | 38 | [Roll With The Punches](https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 3:46 |
 | 39 | [Lights On](https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 3:56 |
 | 40 | [Heavy Days](https://open.spotify.com/track/6Nr8U7LKb4B07ZTbXA1RbX) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Heavy Days](https://open.spotify.com/album/6qkZLHCIMcG8dFSWLTnteo) | 3:47 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 70 | [Even True Love](https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:46 |
 | 71 | [In Manchester](https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [In Manchester](https://open.spotify.com/album/0LJd6B1C9qbUTBOq7wmkTU) | 2:53 |
 | 72 | [De ma Tour](https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [Leviosa](https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3) | 3:16 |
-| 73 | [come over x](https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [monochrome blue](https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a) | 4:16 |
-| 74 | [Élan Vital \(feat\. 久保田リョウヘイ\)](https://open.spotify.com/track/6aOE6O7Q6F9DBD1Gx6hztn) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [Ryohei Kubota](https://open.spotify.com/artist/0sL6JedafeDm1h0jxhwaPx) | [loom](https://open.spotify.com/album/2RwKRxZFFi6s9WMJzcTjMz) | 3:24 |
+| 73 | [Élan Vital \(feat\. 久保田リョウヘイ\)](https://open.spotify.com/track/6aOE6O7Q6F9DBD1Gx6hztn) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [Ryohei Kubota](https://open.spotify.com/artist/0sL6JedafeDm1h0jxhwaPx) | [loom](https://open.spotify.com/album/2RwKRxZFFi6s9WMJzcTjMz) | 3:24 |
+| 74 | [come over x](https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [monochrome blue](https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a) | 4:16 |
 | 75 | [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 |
 | 76 | [Irrational](https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z) | [Erthlings](https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe) | [Irrational](https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF) | 3:23 |
 | 77 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
 | 80 | [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 |
 
-Snapshot ID: `MTY3NDI0MDc4MywwMDAwMDAwMGYwYTEyOGNjNTYxODhiNjkzOWUyNTZiZWQ2YmMwZjhl`
+Snapshot ID: `MTY3NDI0MDc4MywwMDAwMDAwMGJlMTYxODliZmEzNTg2M2RkNDg1OTNhZGE1YjA4ZGNm`

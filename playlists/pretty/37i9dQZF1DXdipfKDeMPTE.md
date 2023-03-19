@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,193 likes - 197 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,245 likes - 197 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover: WSG WANNABE GAYA-G) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 316298,
+  "num_followers": 316327,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0NDIyMiwwMDAwMDAwMDc5NWYzZWY2NTZmOTI1NDllMTc4ZWY5OWE3NjFkNzBh",
+  "snapshot_id": "MTY3OTA0NDIyMiwwMDAwMDAwMGU0MzliY2VlOTE1YjI2ODdhNDcyMzRlZGNhNzA2Mjli",
   "tracks": [
     {
       "added_at": "2023-03-09 12:12:21",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB"
     },
     {
-      "added_at": "2023-03-18 01:34:33",
+      "added_at": "2023-03-19 01:29:39",
       "album": {
         "name": "To You",
         "url": "https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f"
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-09 12:12:21",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
-    },
-    {
-      "added_at": "2023-03-09 12:12:21",
-      "album": {
         "name": "haeyo (2022)",
         "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 238071,
       "name": "haeyo (2022)",
       "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
+    },
+    {
+      "added_at": "2023-03-09 12:12:21",
+      "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
     },
     {
       "added_at": "2023-03-09 12:12:21",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-03-09 12:12:21",
       "album": {
-        "name": "If You Wish Upon Me OST Part.3",
-        "url": "https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "I can't forget you",
-      "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
-    },
-    {
-      "added_at": "2023-03-09 12:12:21",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2023-03-09 12:12:21",
+      "album": {
+        "name": "If You Wish Upon Me OST Part.3",
+        "url": "https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "I can't forget you",
+      "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
     },
     {
       "added_at": "2023-03-09 12:12:21",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-03-09 12:12:21",
       "album": {
+        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 234269,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
+    },
+    {
+      "added_at": "2023-03-09 12:12:21",
+      "album": {
         "name": "Can Love Be Fair",
         "url": "https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
-    },
-    {
-      "added_at": "2023-03-09 12:12:21",
-      "album": {
-        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 234269,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
     },
     {
       "added_at": "2023-03-09 12:12:21",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-03-09 12:12:21",
       "album": {
-        "name": "The Forbidden Marriage, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv"
-      },
-      "artists": [
-        {
-          "name": "SEO EUNKWANG",
-          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
-        }
-      ],
-      "duration_ms": 275503,
-      "name": "How Can I Forget You",
-      "url": "https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT"
-    },
-    {
-      "added_at": "2023-03-09 12:12:21",
-      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+    },
+    {
+      "added_at": "2023-03-09 12:12:21",
+      "album": {
+        "name": "The Forbidden Marriage, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "duration_ms": 275503,
+      "name": "How Can I Forget You",
+      "url": "https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT"
     },
     {
       "added_at": "2023-03-09 12:12:21",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-03-09 12:12:21",
       "album": {
-        "name": "One Day More",
-        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
-      },
-      "artists": [
-        {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "One Day More",
-      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
-    },
-    {
-      "added_at": "2023-03-09 12:12:21",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
@@ -1619,8 +1603,24 @@
     {
       "added_at": "2023-03-09 12:12:21",
       "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
+        "name": "One Day More",
+        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "One Day More",
+      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
+    },
+    {
+      "added_at": "2023-03-09 12:12:21",
+      "album": {
+        "name": "Faith OST",
+        "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
       "artists": [
         {
@@ -1628,9 +1628,9 @@
           "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
         }
       ],
-      "duration_ms": 240840,
-      "name": "First Line",
-      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+      "duration_ms": 267937,
+      "name": "Walking Slowly",
+      "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
     },
     {
       "added_at": "2023-03-09 12:12:21",

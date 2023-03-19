@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: CIFIKA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,242 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,271 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,20 +29,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 19 | [Signs](https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Signs](https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6) | 2:25 |
 | 20 | [Evergray](https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 4:05 |
 | 21 | [LIKE WATER REMIX \(Feat\. Jambino, XINSAYNE, toigo, J'Kyun\)](https://open.spotify.com/track/39L8LOL4kFsmvbHNvFd8EB) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) | [SLAY HOUSE REMIX](https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b) | 4:40 |
-| 22 | [time](https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [balaclava](https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX) | 3:20 |
-| 23 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 |
-| 24 | [Strawberry Kisses](https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Strawberry Kisses](https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6) | 3:01 |
-| 25 | [Lost](https://open.spotify.com/track/4XlrF7VTXVtHSBhHo5NWQe) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Raw Gems Vol.1](https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC) | 1:56 |
+| 22 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 |
+| 23 | [time](https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [balaclava](https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX) | 3:20 |
+| 24 | [Lost](https://open.spotify.com/track/4XlrF7VTXVtHSBhHo5NWQe) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Raw Gems Vol.1](https://open.spotify.com/album/2SQRi7wjf5D6MLkHDaEVRC) | 1:56 |
+| 25 | [Strawberry Kisses](https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Strawberry Kisses](https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6) | 3:01 |
 | 26 | [Just like that](https://open.spotify.com/track/5J4QuUjueQBXaGZUWahaoi) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [i'm a mess](https://open.spotify.com/album/76hmAjUN9TMXBKC1qccRAs) | 2:55 |
 | 27 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 |
 | 28 | [Year to Year](https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 4:14 |
 | 29 | [Swim \- Virus Edit](https://open.spotify.com/track/6SgtEjK5R4DkUQS0jhqMLH) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0) | 3:27 |
 | 30 | [Fond](https://open.spotify.com/track/7lVbB0vEwm4eQiafyktZ1y) | [Marrakech](https://open.spotify.com/artist/396uBOizN3Vw2K2FmSlU2B) | [Circulation](https://open.spotify.com/album/7hnL3txw0rfEFY78IYh0by) | 3:46 |
 | 31 | [yayou hoi](https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [yayou hoi](https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD) | 3:08 |
-| 32 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 |
+| 32 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 |
 | 33 | [SPACE MULAN](https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [SPACE MULAN](https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a) | 2:39 |
-| 34 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 |
-| 35 | [크림빵 Creamppang](https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [크림빵 Creamppang](https://open.spotify.com/album/63GZq7rpyZPIVV79W7Qol4) | 2:49 |
+| 34 | [크림빵 Creamppang](https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [크림빵 Creamppang](https://open.spotify.com/album/63GZq7rpyZPIVV79W7Qol4) | 2:49 |
+| 35 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 |
 | 36 | [Melody](https://open.spotify.com/track/05gYK3Q5t0VHs9kK7sPTcW) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Melody](https://open.spotify.com/album/3esIkkntCgiFEfYmgKgTBR) | 4:13 |
 | 37 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
 | 38 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 | 50 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
 
-Snapshot ID: `MTY3ODk0MjAyMywwMDAwMDAwMGIzYzgzYTczMTZjNmNkMmVlZWU1ZDY5ZmM4ZWNhZjY1`
+Snapshot ID: `MTY3ODk0MjAyMywwMDAwMDAwMDRiOGU0NDUzYjJiZTg3Y2JhZjM0OTNmYjg4YWQwOTc3`

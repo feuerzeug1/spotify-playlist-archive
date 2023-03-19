@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,625 likes - 99 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,642 likes - 99 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 63 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 |
 | 64 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 |
 | 65 | [Mistakes](https://open.spotify.com/track/0UojKdaPtcnw7DDh9R33tX) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [Mistakes](https://open.spotify.com/album/4hdRFduT29SvN8VGPhEzBM) | 3:01 |
-| 66 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 |
+| 66 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 |
 | 67 | [Spend The Night](https://open.spotify.com/track/2oG1oToCZ4BxndReZAr48T) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Spend The Night](https://open.spotify.com/album/0RU0vonPGqmIxLGxCyxM1m) | 3:23 |
-| 68 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 |
+| 68 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 |
 | 69 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
 | 70 | [Fire On Fire \- From "Watership Down"](https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Fire On Fire \(From "Watership Down"\)](https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL) | 4:06 |
 | 71 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 96 | [Smiling All The Way Back Home](https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:02 |
 | 97 | [You Might Not Like Her](https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF) | 3:22 |
 | 98 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 |
-| 99 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
+| 99 | [Stay Anything](https://open.spotify.com/track/0XC3NNlml0mClzs23YtBiL) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Anything](https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA) | 3:28 |
 
-Snapshot ID: `MTY3ODk3ODgwMCwwMDAwMDAwMGI4NGU3N2FhNDAxZDJkMDJhOTgxOTliZmY5N2QyZjAx`
+Snapshot ID: `MTY3ODk3ODgwMCwwMDAwMDAwMDhkZDU3Zjg5Zjc2MjE2OGM2YzExM2NkYjM2MDE5Yjhl`

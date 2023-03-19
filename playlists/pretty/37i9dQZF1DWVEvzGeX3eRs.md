@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > that Darius and Nina type love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,603,223 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,603,581 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 25 | [Before I Let You Go](https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Blackstreet](https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb) | 4:59 |
 | 26 | [Freak Me](https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp) | [Silk](https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 4:34 |
 | 27 | [Nobody's Supposed to Be Here](https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:22 |
-| 28 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
-| 29 | [Other Side Of The Game](https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:33 |
+| 28 | [Other Side Of The Game](https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:33 |
+| 29 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
 | 30 | [Cruisin'](https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 6:24 |
 | 31 | [I Get Lonely](https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:17 |
 | 32 | [Close the Door](https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 49 | [Stay](https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Forever My Lady](https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7) | 5:12 |
 | 50 | ['Cause I Love You](https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45) | [Lenny Williams](https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN) | [Spark Of Love \(Expanded Edition\)](https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo) | 7:09 |
 
-Snapshot ID: `MTY3NjU2NTU1NiwwMDAwMDAwMGI1ZjA5NzFjNWMwNWI2ZGFmNTg5ZWI3NjVmNzBhNDI1`
+Snapshot ID: `MTY3NjU2NTU1NiwwMDAwMDAwMDA5OGQ1ODI3ZmRmOTllZTQxZmZkMGQyOWQ0YTUwODgx`

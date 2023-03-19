@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Aly & AJ",
-  "num_followers": 809244,
+  "num_followers": 809532,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDgwNmNkYTY3MmIzZTIzNWQ0NmIyYWZkZDcyMTY0YjA3",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGViNzA1NmE0OGM1ZjdkOTI2ODJhOTQ3MTk5NGJmZTc0",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Worth Of The Wait",
-        "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
-      },
-      "artists": [
-        {
-          "name": "Ivan & Alyosha",
-          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "The Worth Of The Wait",
-      "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "I've Got a Song",
         "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 180533,
       "name": "This Could Be Good",
       "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Worth Of The Wait",
+        "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
+      },
+      "artists": [
+        {
+          "name": "Ivan & Alyosha",
+          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "The Worth Of The Wait",
+      "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Those Younger Days",
-        "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
-      },
-      "artists": [
-        {
-          "name": "The Hunts",
-          "url": "https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Twin Forks",
         "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 170962,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Those Younger Days",
+        "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
+      },
+      "artists": [
+        {
+          "name": "The Hunts",
+          "url": "https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "I Know the Way Home",
-        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
-      },
-      "artists": [
-        {
-          "name": "Andrew Galucki",
-          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
-        }
-      ],
-      "duration_ms": 201875,
-      "name": "I Know the Way Home",
-      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Backstage in Glasgow",
         "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 136107,
       "name": "Backstage in Glasgow",
       "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "I Know the Way Home",
+        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "I Know the Way Home",
+      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
     },
     {
       "added_at": "2023-03-17 04:00:00",

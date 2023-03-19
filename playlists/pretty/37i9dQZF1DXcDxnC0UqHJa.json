@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Josiah and the Bonnevilles",
-  "num_followers": 470377,
+  "num_followers": 470395,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDgxNTg1MDI2Njk4MjY3NWRkYTgzZjk3MmFlZTk4MDNj",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDBiOTQyODkxNmEwMzRhZDkzZjU5OWYwMDVmODcxNDli",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -155,18 +155,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Pink Strat",
-        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
+        "name": "Every Breath You Take (feat. Liza Anne)",
+        "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Aaron Krause",
+          "url": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
+        },
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
         }
       ],
-      "duration_ms": 155240,
-      "name": "Whole Wide World",
-      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+      "duration_ms": 223893,
+      "name": "Every Breath You Take (feat. Liza Anne)",
+      "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -207,22 +211,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Every Breath You Take (feat. Liza Anne)",
-        "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
+        "name": "Pink Strat",
+        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
       },
       "artists": [
         {
-          "name": "Aaron Krause",
-          "url": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
-        },
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 223893,
-      "name": "Every Breath You Take (feat. Liza Anne)",
-      "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
+      "duration_ms": 155240,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 155786,
-      "name": "Shotgun Willie",
-      "url": "https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Easy Listening for Jerks, Pt. 1",
         "url": "https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 235516,
       "name": "Will the Circle Be Unbroken",
       "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 155786,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
-      },
-      "artists": [
-        {
-          "name": "Korey Dane",
-          "url": "https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf"
-        }
-      ],
-      "duration_ms": 274185,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Polyhymnia",
         "url": "https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 395120,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
+      },
+      "artists": [
+        {
+          "name": "Korey Dane",
+          "url": "https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf"
+        }
+      ],
+      "duration_ms": 274185,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1515,6 +1515,22 @@
       "duration_ms": 222008,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Surrounded by the Sound: Ten Covers by Eddie Berman",
+        "url": "https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Surrounded by the Sound: Ten Covers by Eddie Berman",
-        "url": "https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Mr. Bojangles",
         "url": "https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 234917,
       "name": "Lakes of Pontchartrain (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1715,6 +1699,22 @@
       "duration_ms": 222996,
       "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
       "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Little Hands",
-        "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Simpson",
-          "url": "https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9"
-        }
-      ],
-      "duration_ms": 367333,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Live Forever: A Tribute To Billy Joe Shaver",
         "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 171480,
       "name": "You Asked Me To",
       "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Little Hands",
+        "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Simpson",
+          "url": "https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9"
+        }
+      ],
+      "duration_ms": 367333,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",

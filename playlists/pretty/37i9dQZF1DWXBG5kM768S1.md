@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,188 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,210 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 18 | [Fordi eg elskar deg](https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Månesinn](https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7) | 2:51 |
 | 19 | [Liten fuggel](https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Liten fuggel \(Med kommentarer\)](https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr) | 3:11 |
 | 20 | [Å Kunne Æ Skrive](https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd), [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E), [Lars Bremnes](https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4) | [Soløye](https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW) | 3:23 |
-| 21 | [Når himmelen faller ned](https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Mosaikk \(16 Biter\)](https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO) | 3:53 |
-| 22 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 |
+| 21 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 |
+| 22 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 |
 | 23 | [Ka e du redd for](https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ka e du redd for](https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB) | 4:04 |
-| 24 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 |
+| 24 | [Når himmelen faller ned](https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Mosaikk \(16 Biter\)](https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO) | 3:53 |
 | 25 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
 | 26 | [Skyfri Himmel](https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Skyfri Himmel](https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK) | 3:32 |
 | 27 | [Det Fine Vi Hadd' Sammen](https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom) | [Jippi](https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u) | 4:19 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 42 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 |
 | 43 | [Ein kallar det kjærleik](https://open.spotify.com/track/5r1saX7FrmteQoWy4EX4ZT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ein kallar det kjærleik](https://open.spotify.com/album/4SN2FWk4dpxqlbjNa47tAh) | 3:17 |
 | 44 | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i) | 3:23 |
-| 45 | [Himmelblå](https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT) | 3:45 |
-| 46 | [Trøstevise \(Tröstevisa\)](https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an), [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [Imellom to Evigheter](https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya) | 4:14 |
+| 45 | [Trøstevise \(Tröstevisa\)](https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an), [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [Imellom to Evigheter](https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya) | 4:14 |
+| 46 | [Himmelblå](https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT) | 3:45 |
 | 47 | [Lite og stort](https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Henda i været](https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn) | 3:11 |
 | 48 | [Du fortenar ein som meg \- klineversjon](https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [1988 EP](https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU) | 4:17 |
 | 49 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 |
 | 50 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
 
-Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMGI5MmY3NjY1MGZjOWVhOTcxYmU5YmM4NzVjNWY0N2U3`
+Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMGNlYzRjZmNmNWE5MTk0ZWEzYmJmZWYwYjdlMzEwMzFl`

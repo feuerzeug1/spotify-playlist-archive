@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 61105,
+  "num_followers": 61149,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGMxZjJlYWM4ZGY1NjhkMTFkMmMzNzNhYjE4ODBiN2Q0",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDg3Y2I5ZTZmNzQ5ZjA2NDQxYzE0YWJkZWFhNzU4ODMy",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 155298,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 249773,
       "name": "Scenic Drive (feat. Ari Lennox & Smino)",
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Slow Down (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF"
-      },
-      "artists": [
-        {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227673,
-      "name": "Slow Down (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "How You Want It?",
         "url": "https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 222213,
       "name": "How You Want It?",
       "url": "https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Slow Down (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF"
+      },
+      "artists": [
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 227673,
+      "name": "Slow Down (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "TyrTape (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Natnael",
-          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
-        }
-      ],
-      "duration_ms": 200168,
-      "name": "I Blodet (feat. Natnael)",
-      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Seasons (with Khalid)",
         "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 250001,
       "name": "Seasons (with Khalid)",
       "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "TyrTape (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Natnael",
+          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
+        }
+      ],
+      "duration_ms": 200168,
+      "name": "I Blodet (feat. Natnael)",
+      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1682,15 +1682,11 @@
         {
           "name": "Gallant",
           "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 185371,
-      "name": "Compromise (feat. Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
+      "duration_ms": 216837,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u"
     },
     {
       "added_at": "2023-01-12 23:00:00",

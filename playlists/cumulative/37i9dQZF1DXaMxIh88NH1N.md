@@ -4,7 +4,7 @@
 
 > Al cien con los corridos ¡Para un buen ejercicio!
 
-390 songs - 19 hr 57 min
+391 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 | 2022-05-27 |  |
 | [Consejos Gratis](https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:22 | 2022-12-08 |  |
 | [Contrabando Y Traición](https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:26 | 2022-02-14 | 2023-01-10 |
-| [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 | 2022-05-27 |  |
+| [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 | 2022-05-27 | 2023-03-19 |
 | [Cosas Cambiaron](https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Nueva Familia](https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL) | 3:11 | 2022-06-10 | 2022-12-08 |
 | [Cosas De La Clica](https://open.spotify.com/track/1AfImPZFi9IMKqUUBLK7in) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Cosas De La Clica](https://open.spotify.com/album/6QKBhFyDQPpB6Ytqs9WsUF) | 2:20 | 2022-06-10 | 2022-06-26 |
 | [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 | 2022-05-27 | 2022-12-08 |
@@ -88,6 +88,7 @@
 | [Desde Abajo](https://open.spotify.com/track/1pUanM10MToq9uvbkinAUw) | [Jimmy Humilde](https://open.spotify.com/artist/09HxEXUwV0FkmZnBqrJfbM) | [Desde Abajo](https://open.spotify.com/album/2iQYQ2AsrXQYcrtlm8iZg5) | 2:39 | 2022-05-27 | 2022-07-29 |
 | [Desde Morro](https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS) | 2:26 | 2022-02-14 |  |
 | [Diamantes](https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:31 | 2022-02-14 | 2022-12-08 |
+| [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2023-03-19 |  |
 | [Dior](https://open.spotify.com/track/5XQ3jhSTIRkFSNKn1Ed6v7) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Dior](https://open.spotify.com/album/63WM96hTQYjZmgke8rJ3Ph) | 2:21 | 2022-05-27 | 2022-11-14 |
 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 | 2022-05-27 | 2022-07-29 |
 | [Dos Blindadas](https://open.spotify.com/track/6Q6OgoBx4YAvWMInnpxfzo) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Corridos Underground](https://open.spotify.com/album/1QB5f3g2l97iXnlKAV70wb) | 2:28 | 2022-05-27 | 2022-07-20 |

@@ -225,6 +225,32 @@
     },
     {
       "album": {
+        "name": "Baby again..",
+        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319963,
+      "name": "Baby again..",
+      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
+    },
+    {
+      "album": {
         "name": "Backfire",
         "url": "https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ"
       },
@@ -396,7 +422,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 341333,
       "name": "Candy",
       "url": "https://open.spotify.com/track/0yY78nwNEr9mXkt1rAz8jl"
@@ -590,7 +616,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 676714,
       "name": "Der Bedwars Potcast",
       "url": "https://open.spotify.com/track/2n0EFoEG54pw1NLGVRIadF"
@@ -686,7 +712,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 235674,
       "name": "Don't Text Don't Call",
       "url": "https://open.spotify.com/track/4hFftR3EiLvMvh8hvS6nKn"
@@ -864,7 +890,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 111990,
       "name": "Fuck Wit Y'All (Chopped & Screwed)",
       "url": "https://open.spotify.com/track/0Su4rQjztMYBGnLvDP4iO1"
@@ -1839,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Regalami",
+        "url": "https://open.spotify.com/album/2r08JmQ86CvxJCfgYCASqU"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Regalami",
+      "url": "https://open.spotify.com/track/29F1PqnawWTSiUaIbe8JvJ"
+    },
+    {
+      "album": {
         "name": "Renaissance (The White Lotus) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/4KD4RrqwmuQJWPxBk62Owe"
       },
@@ -2032,6 +2076,28 @@
       "duration_ms": 381843,
       "name": "Song 10 (S2N) - Demo 2018",
       "url": "https://open.spotify.com/track/08OSm1Ccq0PHXVoiAtLBon"
+    },
+    {
+      "album": {
+        "name": "Soothing Lofi Piano",
+        "url": "https://open.spotify.com/album/05WGmwOyVAkLAobtP2CFzZ"
+      },
+      "artists": [
+        {
+          "name": "Heavenly Realms",
+          "url": "https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj"
+        },
+        {
+          "name": "LoFi Bear",
+          "url": "https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69019,
+      "name": "Soothing Lofi Piano",
+      "url": "https://open.spotify.com/track/1RORrwRYKmUgrnJRI4mGz7"
     },
     {
       "album": {
@@ -2392,7 +2458,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 190443,
       "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
       "url": "https://open.spotify.com/track/0sRAH3UW1W7jUo3CZq0OAH"

@@ -4,13 +4,13 @@
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-126 songs - 8 hr 25 min
+127 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 | 2021-10-01 |  |
 | [All My Days](https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 4:57 | 2021-10-01 |  |
-| [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 | 2021-10-01 |  |
+| [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 | 2021-10-01 | 2023-03-19 |
 | [Bare](https://open.spotify.com/track/4NyDbkF2p3U0jeT8kiTFac) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/1MyNz9qy24BF1VxpW2riZM) | 3:54 | 2021-10-01 | 2022-07-29 |
 | [Beautiful Hell](https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Run, Lucifer](https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal) | 2:56 | 2021-10-01 |  |
 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 | 2021-10-01 | 2022-07-26 |
@@ -111,6 +111,7 @@
 | [Standing in the Rain](https://open.spotify.com/track/5S4pAZfIugwULt49eneojF) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:41 | 2021-10-01 |  |
 | [Stars](https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [In Darkened Rooms](https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7) | 5:22 | 2022-09-30 |  |
 | [Stars](https://open.spotify.com/track/4JUYaHt43h8SZQ4lYGsGJP) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [In Darkened Rooms](https://open.spotify.com/album/6JfAojXzbUT88dpgIjANAG) | 5:22 | 2021-10-01 | 2022-10-18 |
+| [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 | 2023-03-17 |  |
 | [Strangers \(feat\. Aoife O'donovan\)](https://open.spotify.com/track/3OKUJgs3GpNp6MTLuv5PCh) | [Jesse Harper](https://open.spotify.com/artist/64vZp5Px5HDpn0UUMxIwX9), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [One True Thing](https://open.spotify.com/album/2uJMLYLdpbVvKjhCfsdvmQ) | 4:33 | 2021-10-01 | 2022-07-20 |
 | [The Calla Lily Song](https://open.spotify.com/track/45aU2o0VJEyArBmMvnTYP2) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [The Calla Lily Song](https://open.spotify.com/album/7JSWIbBEW5EeWs5Ruooelz) | 3:59 | 2021-10-01 | 2022-07-29 |
 | [The Dress Looks Nice on You](https://open.spotify.com/track/0oEyXbHhtUBqKdKHewG8Cn) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:32 | 2021-10-01 | 2022-07-01 |

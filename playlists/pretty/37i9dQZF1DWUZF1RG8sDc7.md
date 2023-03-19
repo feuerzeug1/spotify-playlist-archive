@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,227 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,396 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 11 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 |
 | 12 | [Busca Un Confidente](https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc) | 4:06 |
 | 13 | [Quiero Volar](https://open.spotify.com/track/4WU4Bliu90KAVOXymgmraL) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jr\. Santiago](https://open.spotify.com/artist/4VN2AdbQ4MoBdtix3JbA21), [Julián Rojas](https://open.spotify.com/artist/3TXxyYKiTBCD2kpenWIUCu) | [La Combinacion Vallenata Elite Vol\. 5](https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6) | 4:57 |
-| 14 | [Esta Vida](https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Son Para El Mundo](https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3) | 3:57 |
-| 15 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 |
+| 14 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 |
+| 15 | [Esta Vida](https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Son Para El Mundo](https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3) | 3:57 |
 | 16 | [Sirena Encantada](https://open.spotify.com/track/3LhmbxCgjX7E7xYBEUn30Y) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 5:10 |
 | 17 | [Los Caminos De La Vida](https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sorpresa Caribe](https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC) | 4:35 |
 | 18 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [Acuerdate](https://open.spotify.com/track/3oPVfJ8TD5PKA6LDk12A73) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [30 Mejores](https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M) | 4:28 |
 | 60 | [Que Me Perdone](https://open.spotify.com/track/0W9BmcGUqOAjxwmNYq3Orp) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Víctor Reyes](https://open.spotify.com/artist/2SAOJkscpt6lG9tjWdrauo) | [La Combinacion Vallenata Vol\. 2](https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl) | 5:06 |
 
-Snapshot ID: `MTY3MTIyMTg2NywwMDAwMDAwMDFmMDhjOWFjZTQ5NWFlYzc5Y2IxMTY3ZDQyNzU4Nzg0`
+Snapshot ID: `MTY3MTIyMTg2NywwMDAwMDAwMGIwNjcyMWVlZmVlYWQ3ZjYxZTM4NDFmZDNkZWVmODJl`

@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 235840,
+  "num_followers": 236096,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk4ODc3OCwwMDAwMDAwMDU4M2U5Y2M0ZDc0N2I0ODVhMWZjYTEyZWVmYTQxMmVm",
+  "snapshot_id": "MTY3ODk4ODc3OCwwMDAwMDAwMDllOTFkZmI5ZmM5ZTkyMzhiOTI0ODhmN2IxNGVjYmI0",
   "tracks": [
     {
       "added_at": "2023-03-16 17:46:18",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
-      },
-      "artists": [
-        {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
-        },
-        {
-          "name": "Murat Salman",
-          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
+      },
+      "artists": [
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        },
+        {
+          "name": "Murat Salman",
+          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "My Useless Life",
-        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
-      },
-      "artists": [
-        {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Odarka",
-          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
-        }
-      ],
-      "duration_ms": 141779,
-      "name": "My Useless Life",
-      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Anlar",
         "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 217647,
       "name": "Lamouni",
       "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "My Useless Life",
+        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
+      },
+      "artists": [
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Odarka",
+          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
+        }
+      ],
+      "duration_ms": 141779,
+      "name": "My Useless Life",
+      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
         "name": "3 to 1",
         "url": "https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 219508,
       "name": "3 to 1",
       "url": "https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "El Hawa",
-        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        },
-        {
-          "name": "Hayam Mansour",
-          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
-        }
-      ],
-      "duration_ms": 347855,
-      "name": "El Hawa",
-      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "El Hawa",
+        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        },
+        {
+          "name": "Hayam Mansour",
+          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
+        }
+      ],
+      "duration_ms": 347855,
+      "name": "El Hawa",
+      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
         "name": "Ilios",
         "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
-      },
-      "artists": [
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Izvor",
         "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
       },
@@ -1579,6 +1579,26 @@
       "duration_ms": 400000,
       "name": "Izvor",
       "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1639,26 +1659,6 @@
       "duration_ms": 198200,
       "name": "Mawjou3 Galbi",
       "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "Dj Pantelis",
-          "url": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
-        }
-      ],
-      "duration_ms": 334889,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 297593,
       "name": "Moulayiten",
       "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
+      },
+      "artists": [
+        {
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "Dj Pantelis",
+          "url": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
+        }
+      ],
+      "duration_ms": 334889,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
     },
     {
       "added_at": "2023-03-16 17:46:18",

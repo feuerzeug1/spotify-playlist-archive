@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Kim Suyoung\(김수영\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,236 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,376 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 28 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 29 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 30 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 |
-| 31 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
-| 32 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
+| 31 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
+| 32 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
 | 33 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 |
 | 34 | [Koh](https://open.spotify.com/track/17U7z9PG0iOa7YfR5pzZ6m) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/6W50Ympy4qBEahumF57RyF) | 4:59 |
 | 35 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 42 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 |
 | 43 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
 | 44 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 |
-| 45 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
-| 46 | [RAL 9002](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
+| 45 | [RAL 9002](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
+| 46 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
 | 47 | [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 |
 | 48 | [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 |
 | 49 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 |
 | 50 | [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 |
 
-Snapshot ID: `MTY3ODA4MTY0OSwwMDAwMDAwMDcyM2M3ZDZmOTI1ZGI0NDQ5YjdkM2U1ZmM3ZDQ3Mjhj`
+Snapshot ID: `MTY3ODA4MTY0OSwwMDAwMDAwMGQ0NmU1MjI5Zjk3YTZiNTM3NjdlNDdmMzljZjUyMjY1`

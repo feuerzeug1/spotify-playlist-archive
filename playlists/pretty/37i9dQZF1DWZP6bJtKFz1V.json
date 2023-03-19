@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Bea Miller",
-  "num_followers": 85669,
+  "num_followers": 85689,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDcwNWQ0ZTYxMTU5YTE1MTQ3ZmFjNzY3NmE5NmQ1MjZh",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGI1OWUxYmM4ZjBjMzI1NjFkOWY3OTlkMjQ3YzQ3OWFm",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Slush Puppy",
+          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
+        }
+      ],
+      "duration_ms": 138894,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "spend the money (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 241877,
       "name": "Good For Now (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg"
-      },
-      "artists": [
-        {
-          "name": "Lost Kings",
-          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
-        },
-        {
-          "name": "Slush Puppy",
-          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
-        }
-      ],
-      "duration_ms": 138894,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Borderline Insane",
+        "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        },
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139664,
+      "name": "Borderline Insane",
+      "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "down bad",
         "url": "https://open.spotify.com/album/6UnHzeGa6yQaPuoDRGslkQ"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 189946,
       "name": "down bad - fanclubwallet & Preloved Remix",
       "url": "https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Borderline Insane",
-        "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        },
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 139664,
-      "name": "Borderline Insane",
-      "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Bumblebee",
-        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 184797,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Trouble With This Bed",
-        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 226884,
-      "name": "Trouble With This Bed",
-      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Angry Woman",
         "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 153002,
       "name": "Angry Woman",
       "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
-      },
-      "artists": [
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "French Blonde",
         "url": "https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 200988,
       "name": "All Day I Dream About",
       "url": "https://open.spotify.com/track/3RdDhtBteHxiehIooekE8Z"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Can't Be Lonely",
+        "url": "https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq"
+      },
+      "artists": [
+        {
+          "name": "DOUBLECAMP",
+          "url": "https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy"
+        }
+      ],
+      "duration_ms": 189984,
+      "name": "Can't Be Lonely",
+      "url": "https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Can't Be Lonely",
-        "url": "https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq"
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/11HM6Bh33f02veTCxKm42q"
       },
       "artists": [
         {
-          "name": "DOUBLECAMP",
-          "url": "https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy"
+          "name": "HUNNY",
+          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
         }
       ],
-      "duration_ms": 189984,
-      "name": "Can't Be Lonely",
-      "url": "https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV"
+      "duration_ms": 185600,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/4LPvSKqEmFidSIgdLbHDcn"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1667,22 +1683,6 @@
       "duration_ms": 240002,
       "name": "Bookie's Dirtbag",
       "url": "https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/11HM6Bh33f02veTCxKm42q"
-      },
-      "artists": [
-        {
-          "name": "HUNNY",
-          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/4LPvSKqEmFidSIgdLbHDcn"
     }
   ],
   "unique_name": "Et Alt",

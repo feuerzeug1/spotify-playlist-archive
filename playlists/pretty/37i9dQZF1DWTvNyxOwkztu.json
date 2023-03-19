@@ -1,12 +1,12 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1713315,
+  "num_followers": 1713882,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MTMyNiwwMDAwMDAwMDkxZmQ0MmQ3M2YxMTQ0ZmU4NWI3YWE3MDYzMjYxNWQy",
+  "snapshot_id": "MTY3NjY0MTMyNiwwMDAwMDAwMGNmNTkzMGEyMzUxMzEzNWI5MDk5YzFlNzdhM2E4Y2Iw",
   "tracks": [
     {
       "added_at": "2023-02-17 13:42:06",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Wasting Love",
-        "url": "https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1"
-      },
-      "artists": [
-        {
-          "name": "SRTW",
-          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "Wasting Love",
-      "url": "https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "1984",
         "url": "https://open.spotify.com/album/03FYIY7GnjIE0F3qvAaszJ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 157358,
       "name": "1984",
       "url": "https://open.spotify.com/track/0scTJd9W6i8CJFJ1dtPzw7"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Wasting Love",
+        "url": "https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1"
+      },
+      "artists": [
+        {
+          "name": "SRTW",
+          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
+        }
+      ],
+      "duration_ms": 133608,
+      "name": "Wasting Love",
+      "url": "https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "All Roads Lead Here (Edit)",
-        "url": "https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7"
-      },
-      "artists": [
-        {
-          "name": "Mark Bassano",
-          "url": "https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "All Roads Lead Here (Edit)",
-      "url": "https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Ghost (Fejk\u00e1 Remix)",
         "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 283106,
       "name": "Ghost - Fejk\u00e1 Remix",
       "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "All Roads Lead Here (Edit)",
+        "url": "https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7"
+      },
+      "artists": [
+        {
+          "name": "Mark Bassano",
+          "url": "https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "All Roads Lead Here (Edit)",
+      "url": "https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Running Faster",
-        "url": "https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK"
-      },
-      "artists": [
-        {
-          "name": "Mellowdy",
-          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
-        }
-      ],
-      "duration_ms": 140263,
-      "name": "Running Faster",
-      "url": "https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "All Equal",
         "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
+        "name": "Running Faster",
+        "url": "https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        }
+      ],
+      "duration_ms": 140263,
+      "name": "Running Faster",
+      "url": "https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
         "name": "Demurity",
         "url": "https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v"
       },
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "On The Rhode",
-        "url": "https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1X5uwgpBZCygtKeR9Ebp1o"
       },
       "artists": [
         {
-          "name": "Milton Keys",
-          "url": "https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h"
+          "name": "Jako Diaz",
+          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
         }
       ],
-      "duration_ms": 227681,
-      "name": "On The Rhode",
-      "url": "https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn"
+      "duration_ms": 229850,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2qsUw1xPsAZIZMIKQlVP7y"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -927,6 +927,22 @@
       "duration_ms": 253098,
       "name": "Barracudas",
       "url": "https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "On The Rhode",
+        "url": "https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6"
+      },
+      "artists": [
+        {
+          "name": "Milton Keys",
+          "url": "https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h"
+        }
+      ],
+      "duration_ms": 227681,
+      "name": "On The Rhode",
+      "url": "https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -959,22 +975,6 @@
       "duration_ms": 149916,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/07GHJiyxs9nbOUXuo33DEp"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1X5uwgpBZCygtKeR9Ebp1o"
-      },
-      "artists": [
-        {
-          "name": "Jako Diaz",
-          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
-        }
-      ],
-      "duration_ms": 229850,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2qsUw1xPsAZIZMIKQlVP7y"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Alike / Surface",
-        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
+        "name": "Solar Sun",
+        "url": "https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh"
       },
       "artists": [
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "Kate Paul",
+          "url": "https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx"
         }
       ],
-      "duration_ms": 195147,
-      "name": "Alike",
-      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
+      "duration_ms": 232241,
+      "name": "Solar Sun",
+      "url": "https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Solar Sun",
-        "url": "https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh"
+        "name": "Alike / Surface",
+        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
       },
       "artists": [
         {
-          "name": "Kate Paul",
-          "url": "https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         }
       ],
-      "duration_ms": 232241,
-      "name": "Solar Sun",
-      "url": "https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf"
+      "duration_ms": 195147,
+      "name": "Alike",
+      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/4FbR2nqgnUqfLrZsLVkoe0"
+      },
+      "artists": [
+        {
+          "name": "sunsets & sandals",
+          "url": "https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA"
+        },
+        {
+          "name": "Harry Cho",
+          "url": "https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q"
+        }
+      ],
+      "duration_ms": 175460,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/7mFoG00rX2eKIxlR8vrw3u"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/2kH9815MY3JaK71IEFENli"
       },
@@ -1139,18 +1159,18 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Santa Fe",
-        "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
+        "name": "Curvature",
+        "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
       },
       "artists": [
         {
-          "name": "Zoo Pool",
-          "url": "https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I"
+          "name": "Colton Jefferson",
+          "url": "https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n"
         }
       ],
-      "duration_ms": 177272,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
+      "duration_ms": 153027,
+      "name": "Curvature",
+      "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1171,18 +1191,18 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Curvature",
-        "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
+        "name": "Santa Fe",
+        "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
       },
       "artists": [
         {
-          "name": "Colton Jefferson",
-          "url": "https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n"
+          "name": "Zoo Pool",
+          "url": "https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I"
         }
       ],
-      "duration_ms": 153027,
-      "name": "Curvature",
-      "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
+      "duration_ms": 177272,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1207,6 +1227,22 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
+        "name": "Glassy Haze",
+        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
+      },
+      "artists": [
+        {
+          "name": "Kubicova",
+          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Glassy Haze",
+      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
         "name": "Sunset Serene",
         "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
       },
@@ -1219,22 +1255,6 @@
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
-        "name": "Soldiner",
-        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 346214,
-      "name": "Soldiner",
-      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1255,22 +1275,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Glassy Haze",
-        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
-      },
-      "artists": [
-        {
-          "name": "Kubicova",
-          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "Glassy Haze",
-      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "flux de vibrations",
         "url": "https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9"
       },
@@ -1283,6 +1287,22 @@
       "duration_ms": 176052,
       "name": "flux de vibrations",
       "url": "https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Soldiner",
+        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 346214,
+      "name": "Soldiner",
+      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1331,26 +1351,6 @@
       "duration_ms": 245106,
       "name": "Suen\u0303o Lu\u0301cido",
       "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/4FbR2nqgnUqfLrZsLVkoe0"
-      },
-      "artists": [
-        {
-          "name": "sunsets & sandals",
-          "url": "https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA"
-        },
-        {
-          "name": "Harry Cho",
-          "url": "https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q"
-        }
-      ],
-      "duration_ms": 175460,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/7mFoG00rX2eKIxlR8vrw3u"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "As Long As You Love Me",
-        "url": "https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m"
-      },
-      "artists": [
-        {
-          "name": "Lilly Bay",
-          "url": "https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31"
-        }
-      ],
-      "duration_ms": 158368,
-      "name": "As Long As You Love Me",
-      "url": "https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Day Drinks",
         "url": "https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 137454,
       "name": "Day Drinks",
       "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "As Long As You Love Me",
+        "url": "https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m"
+      },
+      "artists": [
+        {
+          "name": "Lilly Bay",
+          "url": "https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31"
+        }
+      ],
+      "duration_ms": 158368,
+      "name": "As Long As You Love Me",
+      "url": "https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf"
-      },
-      "artists": [
-        {
-          "name": "Lak Host",
-          "url": "https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 174000,
       "name": "Monument",
       "url": "https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf"
+      },
+      "artists": [
+        {
+          "name": "Lak Host",
+          "url": "https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Fun Fact",
-        "url": "https://open.spotify.com/album/2x7mmLM0rn4USeYDSGaEMX"
-      },
-      "artists": [
-        {
-          "name": "Dozed Again",
-          "url": "https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf"
-        }
-      ],
-      "duration_ms": 121076,
-      "name": "Fun Fact",
-      "url": "https://open.spotify.com/track/4bCQBQwCFZ9fGIzbBe8aie"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Still Need People",
         "url": "https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 182267,
       "name": "Still Need People",
       "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Fun Fact",
+        "url": "https://open.spotify.com/album/2x7mmLM0rn4USeYDSGaEMX"
+      },
+      "artists": [
+        {
+          "name": "Dozed Again",
+          "url": "https://open.spotify.com/artist/3vOFXxcfuGSZQKpj6Ueinf"
+        }
+      ],
+      "duration_ms": 121076,
+      "name": "Fun Fact",
+      "url": "https://open.spotify.com/track/4bCQBQwCFZ9fGIzbBe8aie"
     },
     {
       "added_at": "2023-02-17 13:42:06",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-02-17 13:42:06",
       "album": {
-        "name": "Lost In Stereo",
-        "url": "https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5"
-      },
-      "artists": [
-        {
-          "name": "Sofachi",
-          "url": "https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Lost In Stereo",
-      "url": "https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3"
-    },
-    {
-      "added_at": "2023-02-17 13:42:06",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 228130,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i"
+    },
+    {
+      "added_at": "2023-02-17 13:42:06",
+      "album": {
+        "name": "Lost In Stereo",
+        "url": "https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5"
+      },
+      "artists": [
+        {
+          "name": "Sofachi",
+          "url": "https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Lost In Stereo",
+      "url": "https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3"
     }
   ],
   "unique_name": "Chillout Lounge",

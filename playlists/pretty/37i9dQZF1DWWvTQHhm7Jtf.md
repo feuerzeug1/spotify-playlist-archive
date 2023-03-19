@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,023 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,051 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 8 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 |
 | 9 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 |
 | 10 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 |
-| 11 | [Claudia, Wilhelm R And Me](https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 2:57 |
+| 11 | [Angle of List](https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Sea Island](https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led) | 6:45 |
 | 12 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
-| 13 | [Angle of List](https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Sea Island](https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led) | 6:45 |
+| 13 | [Claudia, Wilhelm R And Me](https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 2:57 |
 | 14 | [Inocybe](https://open.spotify.com/track/0yHW5bqjYuHYppJr4V59lc) | [Azulina](https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa) | [Fungipedia](https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO) | 4:24 |
 | 15 | [Starwood Choker](https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 6:16 |
 | 16 | [Mamba Negra](https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 5:09 |
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 20 | [Pale Purple Flower](https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7) | [Kazufumi Kodama & Undefined](https://open.spotify.com/artist/0r4i5FbO3FinPDsWKpWKHA) | [2 Years / 2 Years in Silence](https://open.spotify.com/album/7998r3QuCkCHSE6QwCQGW1) | 4:48 |
 | 21 | [My Gull](https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 2:10 |
 | 22 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
-| 23 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
-| 24 | [Le château de corail](https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Comme ça](https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t) | 4:05 |
+| 23 | [Le château de corail](https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Comme ça](https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t) | 4:05 |
+| 24 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
 | 25 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 |
 | 26 | [Ediacaran Moonrise](https://open.spotify.com/track/4zcSOD3J1JJjCW1HnGhGSf) | [Barry Walker Jr.](https://open.spotify.com/artist/1dCLEg0dKASY0PSsOOrA3Z) | [Diaspora Urkontinent](https://open.spotify.com/album/4u3piRvbk4dns3RbMla1a2) | 2:28 |
-| 27 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
-| 28 | [Subtotem](https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg) | [Mount Shrine](https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr) | [Shortwave Ruins](https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM) | 7:14 |
+| 27 | [Subtotem](https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg) | [Mount Shrine](https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr) | [Shortwave Ruins](https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM) | 7:14 |
+| 28 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
 | 29 | [Umi No Ue Kara](https://open.spotify.com/track/4Ee8z8ySuxdqTTPI868NtU) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 8:18 |
 | 30 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 |
 | 31 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 69 | [Time Changes](https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Henrik Jespersen](https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy) | [Skyline \- Instant Composition Vol\. 2](https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K) | 4:17 |
 | 70 | [Orbit](https://open.spotify.com/track/5UjMb1mO2VQ3Kv1KB2G4oI) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 4:07 |
 
-Snapshot ID: `MTY3ODk5NjYzOSwwMDAwMDAwMDI5YTZhNzk2MTMyNDljYjFhNWIyZTQ3NDkxNmYzODAw`
+Snapshot ID: `MTY3ODk5NjYzOSwwMDAwMDAwMGVkMmY0MTI0MWQ3MmQ1YmFkOWI5ZTFlZWExYTA1Zjc1`

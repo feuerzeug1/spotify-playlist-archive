@@ -1,12 +1,12 @@
 {
   "description": "A mix of the biggest pop, dance, and hip hop party songs. Cover: Nicki Minaj",
-  "num_followers": 4342906,
+  "num_followers": 4343139,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGU0OTg2OWEzOGI2ZTQxY2NjOGVkOGVhNjUzN2E0MDE2",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDkzMjNhOGEyMWU4MDk0MjJhM2JlMGFmOWY2OTMyOTBk",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -911,30 +911,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "WAIT FOR U (feat. Drake & Tems)",
-      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -971,6 +947,30 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -991,30 +991,6 @@
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 229604,
-      "name": "I'm Not Here To Make Friends",
-      "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1059,6 +1035,30 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 229604,
+      "name": "I'm Not Here To Make Friends",
+      "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1371,22 +1375,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 298940,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "GAT\u00daBELA",
         "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 209160,
       "name": "GAT\u00daBELA",
       "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 298940,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
       "added_at": "2023-03-10 05:00:00",

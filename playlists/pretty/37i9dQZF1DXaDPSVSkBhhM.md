@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,340 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,354 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 27 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 |
 | 28 | [Nadie Me Entiende](https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende](https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY) | 3:00 |
 | 29 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 |
-| 30 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 |
-| 31 | [Un Año](https://open.spotify.com/track/1NvuUQSActakCpCg071n2x) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6) | 2:46 |
-| 32 | [Conversaciones Con Mi Almohada](https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK) | [Autodestrucción](https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR) | 3:54 |
-| 33 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
-| 34 | [Cometas](https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Cometas](https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li) | 3:03 |
+| 30 | [Conversaciones Con Mi Almohada](https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK) | [Autodestrucción](https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR) | 3:54 |
+| 31 | [Disparos](https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Disparos](https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68) | 3:49 |
+| 32 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
+| 33 | [Cometas](https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Cometas](https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li) | 3:03 |
+| 34 | [Un Año](https://open.spotify.com/track/1NvuUQSActakCpCg071n2x) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6) | 2:46 |
 | 35 | [Llévate Todo](https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Volver a Empezar](https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel) | 3:29 |
 | 36 | [Humanos Como Tú](https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Humanos Como Tú](https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY) | 3:48 |
 | 37 | [Cereal](https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Cereal](https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL) | 2:41 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 47 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
 | 48 | [Canción para Ti](https://open.spotify.com/track/45Vmknqo3EMaLb6ijxUA3q) | [Blast55](https://open.spotify.com/artist/6ZtsVCTccysmOQrMasGMG8) | [A Todos Nos Pasa](https://open.spotify.com/album/6wJEaTch4XaGZnsXSAv0ve) | 3:45 |
 | 49 | [Empezar, Pt\. 2](https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2) | [Sureste](https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH) | [Empezar, Pt\. 2](https://open.spotify.com/album/07VAGAMUcivFxHWTgYVlQS) | 2:45 |
-| 50 | [La Naturaleza Incoherente del Ser](https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG) | [Dolores De Huevos](https://open.spotify.com/artist/7wqgl1I3I8WWYs5QfeojTV) | [La Naturaleza Incoherente del Ser](https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW) | 3:23 |
+| 50 | [Primer Lugar](https://open.spotify.com/track/0meCAzWjALDb070H6L9DsS) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Primer Lugar](https://open.spotify.com/album/5SqvbU9C4x09HtKMmTRB3D) | 3:32 |
 
-Snapshot ID: `MTY3MTY0MzM2MiwwMDAwMDAwMGMzZjI1MDJmOTE1Yzk1NTE0NjNkMzFmM2QzM2VmMmI0`
+Snapshot ID: `MTY3MTY0MzM2MiwwMDAwMDAwMDQ4OWMzMDAwNGYxYmY1YjFhMGZmN2RhZmY3MDc0ODc5`

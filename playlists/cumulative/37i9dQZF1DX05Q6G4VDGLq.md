@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-485 songs - 1 day 5 hr 58 min
+486 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Hoping](https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Hoping](https://open.spotify.com/album/4fSuViLnkUt5fKf6w3SxtC) | 3:23 | 2022-06-28 | 2022-10-08 |
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2022-06-28 | 2022-12-17 |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/4C4nNem1wGqL8xXrE1Ak1e) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [How Long Has This Been Going On?](https://open.spotify.com/album/3W0jGlzSvEXMh9tL3d2x3P) | 4:57 | 2022-06-28 | 2022-10-08 |
+| [Hum Sweet Serenades](https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Hum Sweet Serenades](https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF) | 3:03 | 2023-03-16 |  |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-02-23 |  |
 | [I Can´t Get Started](https://open.spotify.com/track/4WnIvYavScSqhquPBhSEof) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [I Can´t Get Started](https://open.spotify.com/album/27ohKrlRWtHFV0Evzl2crp) | 3:28 | 2022-08-30 | 2022-10-08 |
 | [I Concentrate on You](https://open.spotify.com/track/5UkdF1wkOtQ95CvA1zjfDb) | [Little Tree Jazz Trio](https://open.spotify.com/artist/5YALVnyvdEeiMXh49ygjdZ) | [I Concentrate on You](https://open.spotify.com/album/56ypgwwjAwiv39zy2NiqnN) | 6:32 | 2022-06-28 | 2022-10-08 |
@@ -251,7 +252,7 @@
 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2022-06-28 | 2022-10-08 |
 | [Little Bell](https://open.spotify.com/track/1AQHHWxWaCZrMsqrdDTNng) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Little Bell](https://open.spotify.com/album/3Co6xU6tpBJqppc2TNis78) | 3:30 | 2022-10-07 |  |
-| [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-06-28 |  |
+| [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-06-28 | 2023-03-19 |
 | [Lola and Kirby](https://open.spotify.com/track/1vQoF7wKfKt2WWIDePABo3) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 4:41 | 2022-09-29 | 2022-12-19 |
 | [London Plane](https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n) | [Light Hands Trio](https://open.spotify.com/artist/6knUJcKkiLfAUyLNbE5Ilf) | [London Plane](https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo) | 3:03 | 2022-06-28 | 2023-01-04 |
 | [London Plane](https://open.spotify.com/track/0ehejUJtOzYTWpmysmXaMI) | [Luc Brooks](https://open.spotify.com/artist/3Kqbdl8JFUxNSbbJns8OMU) | [London Plane](https://open.spotify.com/album/3YTNLaYxr52XxHIGAeDSIk) | 3:19 | 2022-06-28 | 2022-12-09 |

@@ -4,7 +4,7 @@
 
 > all\-day bops you can always rely on ◡̈
 
-393 songs - 22 hr 3 min
+394 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 | 2021-12-22 |  |
 | [Rover](https://open.spotify.com/track/2QMDVQwtZSA4v5oJG7Gg7u) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 2:20 | 2022-02-18 | 2022-04-18 |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-07-04 | 2022-08-04 |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-01-04 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-07-25 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-04 | 2023-03-18 |
 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 | 2021-12-22 |  |
@@ -341,7 +342,7 @@
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-03-31 | 2022-06-03 |
 | [That's Life](https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [That's Life](https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j) | 2:27 | 2021-12-22 | 2022-07-29 |
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2021-12-22 |  |
-| [The Birthday Party](https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:45 | 2021-12-22 |  |
+| [The Birthday Party](https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:45 | 2021-12-22 | 2023-03-19 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2023-01-04 |  |
 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 | 2022-10-21 |  |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-12-22 | 2022-10-14 |

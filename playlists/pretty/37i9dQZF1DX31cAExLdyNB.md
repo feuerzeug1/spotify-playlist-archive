@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,464 likes - 69 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,483 likes - 69 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 33 | [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 |
 | 34 | [Heavy](https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:22 |
 | 35 | [EME](https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [EME](https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T) | 3:11 |
-| 36 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
-| 37 | [In Her Eyes](https://open.spotify.com/track/4JtbUXLuBb8C7q1x7B54ZY) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [In Her Eyes](https://open.spotify.com/album/3R5YCyAaqLEI3UOT38l5ik) | 2:54 |
+| 36 | [In Her Eyes](https://open.spotify.com/track/4JtbUXLuBb8C7q1x7B54ZY) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [In Her Eyes](https://open.spotify.com/album/3R5YCyAaqLEI3UOT38l5ik) | 2:54 |
+| 37 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
 | 38 | [Ciudades de Noche](https://open.spotify.com/track/01rgHbhlfioQ7Oy9ntemCa) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Ciudades de Noche](https://open.spotify.com/album/2XTsyhYLGwtCAfqqkfEUrd) | 3:32 |
 | 39 | [Young](https://open.spotify.com/track/45FLsvojU63HpbTKXSwTao) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/4my95sS2JXep8uUPOfe8zI) | 3:14 |
 | 40 | [Lilas](https://open.spotify.com/track/1qS1IzE3loYp6fBrzGJUeG) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [ƎDÉN](https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr) | 3:33 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Realidades No Ordinarias](https://open.spotify.com/track/71GdwydcMwyK63mJncZwTt) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT), [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Realidades No Ordinarias, Vol\. 2](https://open.spotify.com/album/7iDKNoDsFFEZrTUqvKsXAM) | 4:49 |
 | 69 | [Tears At Bae](https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:22 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMGU0OWVhNDhmMmNmZTQ2ZTAwZDJjZjk3MWFjMzNlMTli`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDkyZGYwM2E0OTc4MmU2NzIyOGUyN2NkOTAwNTM2MjQ0`

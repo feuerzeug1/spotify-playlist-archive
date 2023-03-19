@@ -1,12 +1,12 @@
 {
   "description": "that's hot",
-  "num_followers": 330924,
+  "num_followers": 331249,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyMjAyNywwMDAwMDAwMDM5MDYzN2MzYWY1N2M4NWYzMTU1ZGU1YjQ2YjkwNmZh",
+  "snapshot_id": "MTY3MjQyMjAyNywwMDAwMDAwMGQwYWRiNTkwNjUyODQzMjY1N2E2MmY3Y2RmOGY4OTJj",
   "tracks": [
     {
       "added_at": "2022-12-30 17:40:27",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-12-30 17:40:27",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 298853,
-      "name": "Dirrty (feat. Redman)",
-      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
-    },
-    {
-      "added_at": "2022-12-30 17:40:27",
-      "album": {
         "name": "Nina Sky",
         "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+    },
+    {
+      "added_at": "2022-12-30 17:40:27",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 298853,
+      "name": "Dirrty (feat. Redman)",
+      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
     },
     {
       "added_at": "2022-12-30 17:40:27",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-12-30 17:40:27",
       "album": {
-        "name": "This Is The End: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
-    },
-    {
-      "added_at": "2022-12-30 17:40:27",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 285706,
       "name": "Heartbreaker (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
+    },
+    {
+      "added_at": "2022-12-30 17:40:27",
+      "album": {
+        "name": "This Is The End: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
     },
     {
       "added_at": "2022-12-30 17:40:27",

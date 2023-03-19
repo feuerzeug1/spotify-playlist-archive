@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 192768,
       "name": "Ai M\u1edbi L\u00e0 K\u1ebb X\u1ea5u Xa",
       "url": "https://open.spotify.com/track/6GUGn0yUS6PvyYIXOoaT4j"
@@ -578,6 +578,24 @@
       "duration_ms": 161829,
       "name": "All Night Parking (with Erroll Garner) Interlude",
       "url": "https://open.spotify.com/track/496vIKS2INz840xZaKncvR"
+    },
+    {
+      "album": {
+        "name": "All Of The Girls You Loved Before",
+        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221407,
+      "name": "All Of The Girls You Loved Before",
+      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
     },
     {
       "album": {
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 172000,
       "name": "Bo X\u00ec Bo",
       "url": "https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC"
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 143227,
       "name": "Cheri Cheri Lady",
       "url": "https://open.spotify.com/track/7HpIBZAsjJq5nW9S8ti7Fi"
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 197930,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/5oaQsszgxYAdABuXoWEOUe"
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 301538,
       "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
       "url": "https://open.spotify.com/track/17iGUekw5nFt5mIRJcUm3R"
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 256663,
       "name": "Ch\u1ebft Trong Em",
       "url": "https://open.spotify.com/track/1dUmmBh2nw8XzEI3au0uFs"
@@ -4368,7 +4386,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 180220,
       "name": "Filter",
       "url": "https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w"
@@ -6072,7 +6090,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 139971,
       "name": "Intro: Serendipity",
       "url": "https://open.spotify.com/track/61RvEx7GLYRHQhG7ldjJo1"
@@ -6842,7 +6860,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 215752,
       "name": "Lie",
       "url": "https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow"
@@ -9556,7 +9574,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 151011,
       "name": "Promise",
       "url": "https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh"
@@ -10204,10 +10222,28 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 276707,
       "name": "Serendipity - Full Length Edition",
       "url": "https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N"
+    },
+    {
+      "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
       "album": {
@@ -11492,7 +11528,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 241935,
       "name": "ThichThich",
       "url": "https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP"
@@ -11594,7 +11630,7 @@
       ],
       "date_added": "2021-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 171741,
       "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi"
@@ -11808,7 +11844,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 158400,
       "name": "tiny love",
       "url": "https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3"
@@ -12424,7 +12460,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
@@ -12486,7 +12522,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
@@ -12632,7 +12668,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 265600,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW"
@@ -12846,7 +12882,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"

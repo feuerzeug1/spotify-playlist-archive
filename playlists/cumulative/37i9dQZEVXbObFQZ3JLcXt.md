@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-382 songs - 23 hr 9 min
+383 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 | 2022-08-26 | 2022-11-03 |
 | [Andaikan Kau Datang \- From "Miracle in Cell No\. 7"](https://open.spotify.com/track/7mZxM64cMYQdx2vopaGrDf) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Andaikan Kau Datang \(From "Miracle in Cell No\. 7"\)](https://open.spotify.com/album/3iA7DH0b2IUs9tqGSOh3uP) | 4:07 | 2022-09-23 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-03-29 | 2022-12-17 |
-| [Angin Kencang](https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 3:57 | 2023-02-13 |  |
+| [Angin Kencang](https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 3:57 | 2023-02-13 | 2023-03-19 |
 | [ANL](https://open.spotify.com/track/3zIvzPKUUdSpDCm1uua6Be) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:45 | 2021-05-12 | 2021-05-13 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-01-05 |
 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2022-10-27 | 2023-02-25 |
@@ -67,7 +67,7 @@
 | [C.H.R.I.S.Y.E.](https://open.spotify.com/track/42si4ikg5dh732gPuQ0xHb) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [C.H.R.I.S.Y.E.](https://open.spotify.com/album/3CVNmMgqfF8Rr3tiOqFvkH) | 5:10 | 2021-03-27\* | 2021-12-19 |
 | [California \(feat\. Warren Hue\)](https://open.spotify.com/track/3Qj2f7BrpJNGj3dbxKpOlp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [California \(feat\. Warren Hue\)](https://open.spotify.com/album/2gCRiVJ8w6f64f2rtb3TAD) | 3:50 | 2021-06-05 | 2021-06-28 |
 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2022-12-19 | 2022-12-24 |
-| [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-02-22 | 2023-03-03 |
+| [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-02-22 |  |
 | [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2022-07-11 | 2022-08-22 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-03-27\* | 2021-03-27 |
 | [Celebrity](https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:15 | 2021-03-27 | 2021-05-03 |
@@ -100,7 +100,7 @@
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-05-03 | 2021-05-12 |
 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 | 2021-09-05 |  |
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-08-13 | 2021-08-28 |
-| [Dunia Tipu\-Tipu](https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:38 | 2022-07-30 |  |
+| [Dunia Tipu\-Tipu](https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:38 | 2022-07-30 | 2023-03-19 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-03-27\* | 2021-07-26 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-07-11 |
@@ -172,6 +172,7 @@
 | [It Will Rain](https://open.spotify.com/track/4rMNgxEwGWoPHIUcvB5BrB) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [It Will Rain](https://open.spotify.com/album/73pAZrAw8W3Ey9hBJYOVLt) | 4:17 | 2021-04-14 | 2021-08-18 |
 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 | 2021-08-18 | 2022-08-19 |
 | [It's You](https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [It's You](https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI) | 4:11 | 2021-06-16 | 2022-05-07 |
+| [Jakarta Hari Ini](https://open.spotify.com/track/6AyBbSvcR2ZwTeR30I4jb9) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Perayaan Patah Hati \- Babak 1](https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa) | 3:41 | 2023-03-18 |  |
 | [Janji Manis](https://open.spotify.com/track/31ECplyzYRmbQihescMh6N) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Jalan Abbey](https://open.spotify.com/album/3eMXmUpVMwBaVm6hEmr6Ns) | 3:16 | 2021-12-30 | 2022-01-14 |
 | [Janji Setia](https://open.spotify.com/track/1AoBdDIOp6RFjAbzcPbWi8) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 4:21 | 2022-05-06 | 2022-12-09 |
 | [Jatuh Suka](https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:55 | 2022-03-05 | 2022-04-03 |

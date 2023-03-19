@@ -4,7 +4,7 @@
 
 > dark & dreamy for night creatures
 
-131 songs - 8 hr 6 min
+132 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 | 2022-09-02 | 2022-09-17 |
 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 | 2022-09-16 | 2022-10-08 |
 | [Lie Love Lullaby](https://open.spotify.com/track/1NR4gSR1iITXlbm6qTksHP) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Lie Love Lullaby](https://open.spotify.com/album/6r5op7sLZfwyUjoUCHIHjC) | 3:20 | 2022-09-02 | 2022-09-10 |
-| [lil horn's theme](https://open.spotify.com/track/0vtEFywPDidqp35ogfPwTE) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [lil horn's theme](https://open.spotify.com/album/5KlPtx2r0biOUR2OnRoAnY) | 2:48 | 2023-01-19 |  |
+| [lil horn's theme](https://open.spotify.com/track/0vtEFywPDidqp35ogfPwTE) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [lil horn's theme](https://open.spotify.com/album/5KlPtx2r0biOUR2OnRoAnY) | 2:48 | 2023-01-19 | 2023-03-19 |
+| [lil horn's theme](https://open.spotify.com/track/5rcD6SgDvss0ja4N0DumJ2) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [lil horn's theme](https://open.spotify.com/album/2ZK8XDWbcdyJj3JtiVlLVn) | 2:48 | 2023-01-19 |  |
 | [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 5:29 | 2022-11-10 |  |
 | [Lithium](https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Oak](https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr) | 3:27 | 2022-12-01 |  |
 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 | 2022-09-02 |  |

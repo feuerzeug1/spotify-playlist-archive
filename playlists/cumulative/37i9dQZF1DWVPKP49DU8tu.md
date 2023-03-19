@@ -4,13 +4,13 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-305 songs - 17 hr 48 min
+306 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2022-05-05 | 2023-02-28 |
 | [0 passi](https://open.spotify.com/track/1feGbMzfkaybNk96cXcqnO) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 2:43 | 2022-05-05 | 2022-07-29 |
-| [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2022-05-05 |  |
+| [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2022-05-05 | 2023-03-19 |
 | [16 Marzo \(feat\. Gow Tribe\)](https://open.spotify.com/track/2kZV7d0A4BIN5I8iFBnbqp) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Gow Tribe](https://open.spotify.com/artist/2dAKW1tsAariQ0Ta2gqp8N) | [1969 \- Achille Idol Rebirth](https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU) | 3:53 | 2022-05-05 | 2022-07-29 |
 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 | 2022-05-05 |  |
 | [5 Gocce \(feat\. Rkomi\)](https://open.spotify.com/track/3z0GeNGWyVduziP1cQ0mFN) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Il giorno in cui ho smesso di pensare](https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq) | 2:40 | 2022-09-21 | 2022-11-13 |
@@ -277,6 +277,7 @@
 | [Ti raggiungerò](https://open.spotify.com/track/3Ks12KDKwrT1anFMW0tevG) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [Ti raggiungerò](https://open.spotify.com/album/2Llm7n46UG6egltcs19BMY) | 2:44 | 2022-05-05 | 2022-07-29 |
 | [Ti volevo dedicare \(feat\. J\-AX & Boomdabash\)](https://open.spotify.com/track/00GxbkrW4m1Tac5xySEJ4M) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5), [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Libertà](https://open.spotify.com/album/57L1NgMlfxscOxHhmfLjqg) | 3:28 | 2022-05-05 | 2022-07-29 |
 | [Tikibombom](https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Magmamemoria MMXX \(Deluxe Edition\)](https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr) | 3:23 | 2022-05-05 | 2022-07-28 |
+| [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2022-09-21 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-09-21 | 2023-02-19 |
 | [Torna a casa](https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 3:50 | 2022-05-05 | 2022-07-28 |
 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 | 2022-05-05 |  |

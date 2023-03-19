@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 216000,
       "name": "Asiwaju",
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 292002,
       "name": "AYE KUWA (feat. CK THE DJ)",
       "url": "https://open.spotify.com/track/2nws7wwvjHpP512xuDAn10"
@@ -5814,7 +5814,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -14711,6 +14711,28 @@
     },
     {
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258113,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -15946,7 +15968,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 427160,
       "name": "Mohigan Sun",
       "url": "https://open.spotify.com/track/5U6zQqXCVZokE7UH4kdAB1"
@@ -17462,7 +17484,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -21214,6 +21236,24 @@
       "duration_ms": 127085,
       "name": "Session 33",
       "url": "https://open.spotify.com/track/1k7Sn04nBNcLKbSwORsFgJ"
+    },
+    {
+      "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
       "album": {
@@ -26030,7 +26070,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"

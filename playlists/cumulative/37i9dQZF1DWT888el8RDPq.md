@@ -4,7 +4,7 @@
 
 > ☀️
 
-286 songs - 14 hr 24 min
+287 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-05-13 | 2022-10-22 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-05-06 |  |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2022-07-26 |  |
-| [Hit the Road Jack](https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 1:59 | 2022-11-08 |  |
+| [Hit the Road Jack](https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 1:59 | 2022-11-08 | 2023-03-19 |
 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 | 2022-10-21 | 2022-11-08 |
 | [Horse Girl](https://open.spotify.com/track/0Pimw3RrTWSrI26BLJd0GA) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Horse Girl](https://open.spotify.com/album/3rkPyVBtMAuwIiRbnv1kYE) | 3:06 | 2022-10-28 | 2022-11-02 |
 | [Horse Girl](https://open.spotify.com/track/1EqDSe1As5tdf5plS0yl7a) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Horse Girl](https://open.spotify.com/album/4MHDJJydXzMbuJkMaLP5Ic) | 3:06 | 2022-10-28 | 2022-11-14 |
@@ -255,6 +255,7 @@
 | [STO BENE](https://open.spotify.com/track/46koDbgm48mkLwjPsSrTef) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [STO BENE](https://open.spotify.com/album/6jYKOai51syjHuN99w2Ta7) | 2:45 | 2022-07-15 | 2022-07-29 |
 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 | 2022-10-21 |  |
 | [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 | 2022-07-15 | 2022-08-30 |
+| [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-17 |  |
 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2022-05-27 |  |
 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 | 2022-09-23 | 2022-10-13 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2022-05-06 | 2022-07-29 |

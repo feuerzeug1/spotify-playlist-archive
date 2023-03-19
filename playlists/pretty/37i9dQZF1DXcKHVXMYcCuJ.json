@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 96420,
+  "num_followers": 96598,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyOTEwNiwwMDAwMDAwMGQ1OTQyM2M2NjBiMmE0OWRmNTM0MjEyMDE4NmRlMjdm",
+  "snapshot_id": "MTY3ODgyOTEwNiwwMDAwMDAwMGY2ZGVkYTcyOTdlMmZkYjJmNGQ2NDA1MjkxNWZlZjcy",
   "tracks": [
     {
       "added_at": "2023-03-07 11:45:52",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "Slightly Odway",
-        "url": "https://open.spotify.com/album/7LZLRjjAvM2xXdYbVHoPh3"
-      },
-      "artists": [
-        {
-          "name": "Jebediah",
-          "url": "https://open.spotify.com/artist/6L9bfTvOEA9BOJEIBhU4ln"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Leaving Home",
-      "url": "https://open.spotify.com/track/3OtIgLTHpPYez3WmDN2iYZ"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
         "name": "Buds",
         "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 97543,
       "name": "Baby Shea",
       "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
+    },
+    {
+      "added_at": "2023-03-07 11:45:52",
+      "album": {
+        "name": "Slightly Odway",
+        "url": "https://open.spotify.com/album/7LZLRjjAvM2xXdYbVHoPh3"
+      },
+      "artists": [
+        {
+          "name": "Jebediah",
+          "url": "https://open.spotify.com/artist/6L9bfTvOEA9BOJEIBhU4ln"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Leaving Home",
+      "url": "https://open.spotify.com/track/3OtIgLTHpPYez3WmDN2iYZ"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Cool in Motion",
-      "url": "https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
         "name": "Pedestrian Verse",
         "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 207560,
       "name": "The Woodpile",
       "url": "https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ"
+    },
+    {
+      "added_at": "2023-03-07 11:45:52",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Cool in Motion",
+      "url": "https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "Keep Telling Myself It's Alright",
-        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
-      },
-      "artists": [
-        {
-          "name": "ASHES dIVIDE",
-          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
         "name": "The Midnight Organ Fight",
         "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 228453,
       "name": "The Modern Leper",
       "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
+    },
+    {
+      "added_at": "2023-03-07 11:45:52",
+      "album": {
+        "name": "Keep Telling Myself It's Alright",
+        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+      },
+      "artists": [
+        {
+          "name": "ASHES dIVIDE",
+          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "Tune in, Drop Out",
-        "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
-      },
-      "artists": [
-        {
-          "name": "Beach Riot",
-          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
-        }
-      ],
-      "duration_ms": 170161,
-      "name": "Tune in, Drop Out",
-      "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 230866,
       "name": "No Association",
       "url": "https://open.spotify.com/track/0lrY8m1pYczjiup6f0HhoR"
+    },
+    {
+      "added_at": "2023-03-07 11:45:52",
+      "album": {
+        "name": "Tune in, Drop Out",
+        "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
+      },
+      "artists": [
+        {
+          "name": "Beach Riot",
+          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
+        }
+      ],
+      "duration_ms": 170161,
+      "name": "Tune in, Drop Out",
+      "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
+        "name": "All These Countless Nights",
+        "url": "https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "duration_ms": 180111,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM"
+    },
+    {
+      "added_at": "2023-03-07 11:45:52",
+      "album": {
         "name": "spin",
         "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 204975,
       "name": "Vertigo Flowers",
       "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
-        "name": "All These Countless Nights",
-        "url": "https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
-        }
-      ],
-      "duration_ms": 180111,
-      "name": "Trigger",
-      "url": "https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Neon Brother",
+      "url": "https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE"
+    },
+    {
+      "added_at": "2023-03-07 11:45:52",
+      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 219080,
       "name": "Holy",
       "url": "https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Neon Brother",
-      "url": "https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "Gish (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 308773,
-      "name": "Snail - Remastered 2011",
-      "url": "https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 277560,
       "name": "The Pod",
       "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
+    },
+    {
+      "added_at": "2023-03-07 11:45:52",
+      "album": {
+        "name": "Gish (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 308773,
+      "name": "Snail - Remastered 2011",
+      "url": "https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -1193,7 +1193,7 @@
       "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
     },
     {
-      "added_at": "2023-03-18 01:41:45",
+      "added_at": "2023-03-19 01:05:49",
       "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "Thank You For Being Here",
-        "url": "https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C"
-      },
-      "artists": [
-        {
-          "name": "cursetheknife",
-          "url": "https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA"
-        }
-      ],
-      "duration_ms": 313340,
-      "name": "Feeling Real",
-      "url": "https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
         "name": "Asymmetry (Deluxe)",
         "url": "https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37"
       },
@@ -1275,34 +1259,18 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "To Be Everywhere Is To Be Nowhere",
-        "url": "https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ"
+        "name": "Thank You For Being Here",
+        "url": "https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C"
       },
       "artists": [
         {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+          "name": "cursetheknife",
+          "url": "https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA"
         }
       ],
-      "duration_ms": 251474,
-      "name": "The Long Defeat",
-      "url": "https://open.spotify.com/track/27PKLv7rXE18wNbVrMA068"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
-        "name": "The New Vice EP",
-        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
-      },
-      "artists": [
-        {
-          "name": "Otherkin",
-          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
-        }
-      ],
-      "duration_ms": 213492,
-      "name": "Yeah, I Know",
-      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
+      "duration_ms": 313340,
+      "name": "Feeling Real",
+      "url": "https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -1339,6 +1307,38 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
+        "name": "To Be Everywhere Is To Be Nowhere",
+        "url": "https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 251474,
+      "name": "The Long Defeat",
+      "url": "https://open.spotify.com/track/27PKLv7rXE18wNbVrMA068"
+    },
+    {
+      "added_at": "2023-03-07 11:45:52",
+      "album": {
+        "name": "The New Vice EP",
+        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
+      },
+      "artists": [
+        {
+          "name": "Otherkin",
+          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
+        }
+      ],
+      "duration_ms": 213492,
+      "name": "Yeah, I Know",
+      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
+    },
+    {
+      "added_at": "2023-03-07 11:45:52",
+      "album": {
         "name": "Dark World",
         "url": "https://open.spotify.com/album/1KYhQv6jxV95Pwpv57vj1S"
       },
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "2 Songs",
-        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
       },
       "artists": [
         {
-          "name": "Downward",
-          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
         }
       ],
-      "duration_ms": 200912,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
+      "duration_ms": 205148,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
+        "name": "2 Songs",
+        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
       },
       "artists": [
         {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+          "name": "Downward",
+          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
         }
       ],
-      "duration_ms": 205148,
-      "name": "Lily",
-      "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
+      "duration_ms": 200912,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6"
     },
     {
+      "added_at": "2023-03-19 01:05:49",
+      "album": {
+        "name": "I Want",
+        "url": "https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "duration_ms": 203062,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c"
+    },
+    {
       "added_at": "2023-03-07 11:45:52",
       "album": {
         "name": "Third Chain",
@@ -1511,22 +1527,6 @@
       "duration_ms": 186000,
       "name": "Misplaced",
       "url": "https://open.spotify.com/track/0fmbchkYzQHMQHRKJmX2uu"
-    },
-    {
-      "added_at": "2023-03-07 11:45:52",
-      "album": {
-        "name": "Racecar Is Racecar Backwards (Tenth Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT"
-      },
-      "artists": [
-        {
-          "name": "Reuben",
-          "url": "https://open.spotify.com/artist/2qmpmvIJ66AWEdW0VOVlzS"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Freddy Kreuger",
-      "url": "https://open.spotify.com/track/6yheqxgSKIkSm4guRLp5Y5"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "Four of Arrows",
-        "url": "https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A"
+        "name": "Racecar Is Racecar Backwards (Tenth Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT"
       },
       "artists": [
         {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+          "name": "Reuben",
+          "url": "https://open.spotify.com/artist/2qmpmvIJ66AWEdW0VOVlzS"
         }
       ],
-      "duration_ms": 262200,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r"
+      "duration_ms": 148826,
+      "name": "Freddy Kreuger",
+      "url": "https://open.spotify.com/track/6yheqxgSKIkSm4guRLp5Y5"
     },
     {
       "added_at": "2023-03-07 11:45:52",
@@ -1577,20 +1577,20 @@
       "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
     },
     {
-      "added_at": "2023-03-18 01:41:45",
+      "added_at": "2023-03-07 11:45:52",
       "album": {
-        "name": "I Want",
-        "url": "https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0"
+        "name": "Four of Arrows",
+        "url": "https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A"
       },
       "artists": [
         {
-          "name": "Present",
-          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
         }
       ],
-      "duration_ms": 203062,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c"
+      "duration_ms": 262200,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r"
     },
     {
       "added_at": "2023-03-07 11:45:52",

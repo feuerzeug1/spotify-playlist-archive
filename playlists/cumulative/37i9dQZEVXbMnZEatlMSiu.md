@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-575 songs - 1 day 11 hr 2 min
+576 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,10 +247,11 @@
 | [Seh Ah Seh](https://open.spotify.com/track/57sjJwJK8yltKdfR6HwlMu) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:25 | 2021-08-24 | 2021-08-27 |
 | [SET ME FREE](https://open.spotify.com/track/1Zr1SoGePJ3iKKakmmZaMR) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7MSkU2pVl6Z3QxDNMJUn1T) | 3:01 | 2023-03-12 | 2023-03-16 |
 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-11 | 2023-03-13 |
+| [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 |  |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 | 2022-09-18 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-12 | 2021-09-17 |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-17 | 2021-10-31 |
-| [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-12-25 |
+| [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 |  |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-08-04 | 2021-08-22 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-12 | 2021-11-14 |
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2021-12-06 |
@@ -432,7 +433,7 @@
 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 | 2022-12-27 |  |
 | [想太多](https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:36 | 2023-01-02 |  |
 | [想知道你在想什麼 \- 《我吃了那男孩一整年的早餐》電影主題曲](https://open.spotify.com/track/6whxKQ0Ocn1FmzpDc7lTHq) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想知道你在想什麼 \(《我吃了那男孩一整年的早餐》電影主題曲\)](https://open.spotify.com/album/0bk4Iwkx4kZ66ldOfJGQFn) | 4:54 | 2022-01-29 |  |
-| [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* |  |
+| [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2023-03-19 |
 | [意猶未盡 \(feat\. 派偉俊\)](https://open.spotify.com/track/4C6sMQ9maUCPzBrlOZUK39) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [意猶未盡 \(feat\. 派偉俊\)](https://open.spotify.com/album/6n8vZekJul6C1rYWF6IFBx) | 2:52 | 2022-06-24 | 2022-06-26 |
 | [愛上你算我賤](https://open.spotify.com/track/3jdy4aOla1dwYIqwp69JJN) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [REAL LIFE](https://open.spotify.com/album/61lJ7RLdtuMb8vxZB47W4i) | 4:10 | 2022-01-08 | 2022-12-24 |
 | [愛人錯過](https://open.spotify.com/track/27FOde2nUw0pFuj7hlPbaS) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 4:52 | 2022-01-11 |  |
@@ -469,7 +470,7 @@
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-08-20 | 2022-10-07 |
 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 | 2021-04-19 | 2021-05-14 |
 | [星辰大海](https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [星辰大海](https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P) | 3:27 | 2021-10-11 | 2021-12-16 |
-| [晚风告白](https://open.spotify.com/track/6ZxvapmYLdLdRCdIFR0NRQ) | [星野](https://open.spotify.com/artist/0TCVoMXRAScM2rS0pvopLM) | [晚风告白](https://open.spotify.com/album/4b3cNiY27Dw9tuQG3hcuxO) | 3:55 | 2022-12-19 |  |
+| [晚风告白](https://open.spotify.com/track/6ZxvapmYLdLdRCdIFR0NRQ) | [星野](https://open.spotify.com/artist/0TCVoMXRAScM2rS0pvopLM) | [晚风告白](https://open.spotify.com/album/4b3cNiY27Dw9tuQG3hcuxO) | 3:55 | 2022-12-19 | 2023-03-19 |
 | [晴天](https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/41FqSrFn288xsdvADjJGxH) | 4:29 | 2022-07-09 |  |
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 | 2022-10-25 |
 | [最好的時光](https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [最好的時光](https://open.spotify.com/album/6C05yqffaG1dElVIqOlcAn) | 3:55 | 2022-08-06 | 2022-08-25 |

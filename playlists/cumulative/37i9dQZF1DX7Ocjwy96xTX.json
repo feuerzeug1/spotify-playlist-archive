@@ -1350,10 +1350,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 168175,
       "name": "lil horn's theme",
       "url": "https://open.spotify.com/track/0vtEFywPDidqp35ogfPwTE"
+    },
+    {
+      "album": {
+        "name": "lil horn's theme",
+        "url": "https://open.spotify.com/album/2ZK8XDWbcdyJj3JtiVlLVn"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angeles",
+          "url": "https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168175,
+      "name": "lil horn's theme",
+      "url": "https://open.spotify.com/track/5rcD6SgDvss0ja4N0DumJ2"
     },
     {
       "album": {

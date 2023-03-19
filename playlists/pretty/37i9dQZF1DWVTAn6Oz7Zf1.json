@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 166627,
+  "num_followers": 166632,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0NDcxNywwMDAwMDAwMGRhMDI4YTYzY2FiMWMwZmVjY2Q3YWIzMjZhMmRkZDYw",
+  "snapshot_id": "MTY3OTA0NDcxNywwMDAwMDAwMGUyYWQ3YTZhN2RlZDRjYzZjNjM1MThhN2Q2YmJjMzAw",
   "tracks": [
     {
       "added_at": "2023-03-17 09:18:37",
@@ -483,8 +483,8 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "You for Me",
-        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
+        "name": "Every Cloud - Silver Linings",
+        "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
       },
       "artists": [
         {
@@ -492,13 +492,21 @@
           "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 175435,
-      "name": "You for Me",
-      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
+      "duration_ms": 190609,
+      "name": "Feels This Good",
+      "url": "https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -563,26 +571,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Like You Do",
-        "url": "https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Raphaella",
-          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
-        }
-      ],
-      "duration_ms": 152224,
-      "name": "Like You Do",
-      "url": "https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "Chain My Heart",
         "url": "https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD"
       },
@@ -599,6 +587,26 @@
       "duration_ms": 146880,
       "name": "Chain My Heart",
       "url": "https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "Like You Do",
+        "url": "https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "duration_ms": 152224,
+      "name": "Like You Do",
+      "url": "https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -623,8 +631,8 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Every Cloud - Silver Linings",
-        "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
+        "name": "You for Me",
+        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
       },
       "artists": [
         {
@@ -632,21 +640,13 @@
           "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
-        },
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 190609,
-      "name": "Feels This Good",
-      "url": "https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep"
+      "duration_ms": 175435,
+      "name": "You for Me",
+      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "You're Free",
-        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 167298,
-      "name": "You're Free",
-      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "Diamonds (feat. Aleyna Tilki)",
         "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 168196,
       "name": "Diamonds (feat. Aleyna Tilki)",
       "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "You're Free",
+        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 167298,
+      "name": "You're Free",
+      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
-        "name": "Funny",
-        "url": "https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 221465,
-      "name": "Funny",
-      "url": "https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 221465,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW"
     },
     {
       "added_at": "2023-03-17 09:18:37",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-03-17 09:18:37",
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/01mtRGu4b4Q6FigZ2PAyAn"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0GGUayyESI4F0FhnQPSV81"
+    },
+    {
+      "added_at": "2023-03-17 09:18:37",
+      "album": {
         "name": "Take Me To The Sunshine (feat. BullySongs)",
         "url": "https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 177560,
       "name": "Take Me To The Sunshine (feat. BullySongs)",
       "url": "https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5"
-    },
-    {
-      "added_at": "2023-03-17 09:18:37",
-      "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/01mtRGu4b4Q6FigZ2PAyAn"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0GGUayyESI4F0FhnQPSV81"
     },
     {
       "added_at": "2023-03-17 09:18:37",

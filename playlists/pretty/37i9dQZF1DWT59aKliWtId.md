@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,309 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,359 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 81 | [Nobody](https://open.spotify.com/track/2hU16xaNHHOKNUIADaIdpe) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [Nobody](https://open.spotify.com/album/22uCaua7BUok7dpF9OUJuV) | 4:46 |
 | 82 | [Hate Dancin'](https://open.spotify.com/track/6SYxCsqjVaOhEOIuKTfnJ0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Changes](https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD) | 3:16 |
 | 83 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 |
-| 84 | [High & Unsteady](https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [High & Unsteady](https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57) | 3:43 |
+| 84 | [High & Unsteady](https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [High & Unsteady](https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57) | 3:43 |
 | 85 | [Honey Understand](https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 4:01 |
 | 86 | [Orbiter](https://open.spotify.com/track/3ZFTP9U14r6QkumhYtrd60) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Orbiter](https://open.spotify.com/album/15ERJVK8eMLZZL0zPGi092) | 2:54 |
 | 87 | [Grapevine](https://open.spotify.com/track/5BwfV9vNhDfIysUTyuTbuQ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 5:25 |

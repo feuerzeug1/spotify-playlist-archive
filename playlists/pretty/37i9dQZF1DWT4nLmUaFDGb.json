@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 361532,
+  "num_followers": 362236,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAwNzYwMCwwMDAwMDAwMGVlZWVhZDJjZWJmZDlkM2JiOWFjYjkxOTlhZGRmZDE0",
+  "snapshot_id": "MTY3OTAwNzYwMCwwMDAwMDAwMDdjNzUzNDI5MjUyZDNlOTUyMWZhNzgxOWM3ZTQ5M2Nl",
   "tracks": [
     {
       "added_at": "2023-03-16 23:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Just A Little Lovin'",
-        "url": "https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5"
-      },
-      "artists": [
-        {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "I Only Want To Be With You",
-      "url": "https://open.spotify.com/track/1oAs44xVvu4QaZpX9033S5"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
         "name": "Live In Paris",
         "url": "https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 300520,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
+        "name": "Just A Little Lovin'",
+        "url": "https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/1oAs44xVvu4QaZpX9033S5"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -347,18 +347,22 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+        "name": "Genius Loves Company",
+        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 248416,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
+      "duration_ms": 210854,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -379,22 +383,18 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Genius Loves Company",
-        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        },
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 210854,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
+      "duration_ms": 248416,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
       },
       "artists": [
         {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
         }
       ],
-      "duration_ms": 321256,
-      "name": "Someone Like You - Spotify Singles",
-      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
+      "duration_ms": 224460,
+      "name": "Place To Hide",
+      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Soul Eyes",
-        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
       },
       "artists": [
         {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 224460,
-      "name": "Place To Hide",
-      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
+      "duration_ms": 321256,
+      "name": "Someone Like You - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Kisses On The Bottom",
-        "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
-      "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
         "name": "Balm in Gilead",
         "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 180493,
       "name": "The Moon Is Made of Gold",
       "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
+        "name": "Kisses On The Bottom",
+        "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
+      "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Songbird 20",
-        "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 282640,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 186880,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
+        "name": "Songbird 20",
+        "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 282640,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
+        "name": "Back to Bacharach (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0wfkSewGh40HvJ2Mo48kiJ"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Close to You - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6uQ6RYJ0Brt4laZCLF9gKC"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 344223,
       "name": "Calling You",
       "url": "https://open.spotify.com/track/0rAtoCCI9I2AnaoIpkoJeL"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
-        "name": "Back to Bacharach (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0wfkSewGh40HvJ2Mo48kiJ"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Close to You - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6uQ6RYJ0Brt4laZCLF9gKC"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Pennies From Heaven (with Michael Bubl\u00e9)",
-      "url": "https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
         "name": "Creole Love Call",
         "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 240666,
       "name": "One Day I Fly Away",
       "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Pennies From Heaven (with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l"
     },
     {
       "added_at": "2023-03-16 23:00:00",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
       },
       "artists": [
         {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9"
+      "duration_ms": 270000,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
     }
   ],
   "unique_name": "Easy Jazz",

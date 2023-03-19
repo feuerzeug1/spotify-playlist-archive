@@ -978,7 +978,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 199269,
       "name": "ALITHEIA",
       "url": "https://open.spotify.com/track/03x0o1jOLLiGMyN0SgjtVM"
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 160800,
       "name": "Bossi Claus",
       "url": "https://open.spotify.com/track/6N0PJxd5oBMinXWFYK9zo4"
@@ -3515,6 +3515,28 @@
     },
     {
       "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233239,
+      "name": "CAPITANO",
+      "url": "https://open.spotify.com/track/729Ne1ELu7rgfg0izCWIMV"
+    },
+    {
+      "album": {
         "name": "Aliteia",
         "url": "https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY"
       },
@@ -3618,6 +3640,28 @@
       "duration_ms": 169687,
       "name": "Cash",
       "url": "https://open.spotify.com/track/3o16y3xlZCwYbPNmhKiN7R"
+    },
+    {
+      "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "CASTELLANO",
+      "url": "https://open.spotify.com/track/36eKhbZ5KaCBuBX2IL9ujN"
     },
     {
       "album": {
@@ -4358,7 +4402,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 158999,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/6XK6R1ir3k0iPkwGbmVIEV"
@@ -4536,6 +4580,32 @@
       "duration_ms": 172121,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
+    },
+    {
+      "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Skouti Beats",
+          "url": "https://open.spotify.com/artist/6xMhn1NIdNniwDtYroUnke"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "DANEIKA",
+      "url": "https://open.spotify.com/track/71ON3C4yMW8D6HEyvoomph"
     },
     {
       "album": {
@@ -5954,7 +6024,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 264000,
       "name": "El Telephone - Remix",
       "url": "https://open.spotify.com/track/5uKsIyOxbFPop0sZ7LmI9J"
@@ -6137,6 +6207,24 @@
     },
     {
       "album": {
+        "name": "Elpida",
+        "url": "https://open.spotify.com/album/0WYHEQ2bqtnnRImmDHqTVb"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244215,
+      "name": "Elpida",
+      "url": "https://open.spotify.com/track/6y9u6j2wCh0Iq5Y128F6Oj"
+    },
+    {
+      "album": {
         "name": "Super Trapper II",
         "url": "https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV"
       },
@@ -6248,6 +6336,28 @@
       "duration_ms": 173400,
       "name": "Epathlo",
       "url": "https://open.spotify.com/track/3ZLDKjQ2U71YZ1gwrTb693"
+    },
+    {
+      "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237108,
+      "name": "EPIKINDINOI POLITES",
+      "url": "https://open.spotify.com/track/4MDE9lMcDLf43vVzLtT1I0"
     },
     {
       "album": {
@@ -6598,7 +6708,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 252804,
       "name": "Exw Thema",
       "url": "https://open.spotify.com/track/4L9IptXt2LfSck0TY7m1SD"
@@ -6953,6 +7063,32 @@
     },
     {
       "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "FLOGES STA GRAFEIA",
+      "url": "https://open.spotify.com/track/3NIWeaub0MblBpqQdWP2oe"
+    },
+    {
+      "album": {
         "name": "Flore Ti Koitas",
         "url": "https://open.spotify.com/album/03NoFkATAIQVluIfOMCKEL"
       },
@@ -7030,7 +7166,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -10395,6 +10531,28 @@
     },
     {
       "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "KNOCK KNOCK",
+      "url": "https://open.spotify.com/track/3oLk5zKhxczGaUhLbKrFaT"
+    },
+    {
+      "album": {
         "name": "Koala",
         "url": "https://open.spotify.com/album/6BoQha7B01JMYRCyytTHQF"
       },
@@ -11609,6 +11767,28 @@
     },
     {
       "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219718,
+      "name": "LOPODITES",
+      "url": "https://open.spotify.com/track/7aSDUciT8Ilb27OXpRo3aT"
+    },
+    {
+      "album": {
         "name": "Lost Cause",
         "url": "https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED"
       },
@@ -11660,7 +11840,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 180845,
       "name": "Louloudi",
       "url": "https://open.spotify.com/track/2sqAEZmdjX6RG0x8fQ0ldY"
@@ -12050,6 +12230,28 @@
       "duration_ms": 183800,
       "name": "MADMOISELLE (feat. LIGHT)",
       "url": "https://open.spotify.com/track/6UizjBGVLuQinxKR0qCoxH"
+    },
+    {
+      "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "MADONNA",
+      "url": "https://open.spotify.com/track/0squdRpQmoHv9z31xx8NYM"
     },
     {
       "album": {
@@ -12782,7 +12984,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 183092,
       "name": "MEDITERRANEAN",
       "url": "https://open.spotify.com/track/0C11SdO6nuqHDx230fZ2Gh"
@@ -13412,7 +13614,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 158211,
       "name": "MON AMIE",
       "url": "https://open.spotify.com/track/1QphVfogCxCARRZLergCjS"
@@ -14142,7 +14344,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 230103,
       "name": "Nani",
       "url": "https://open.spotify.com/track/61BaxNqs8df4B4Vtndb9DE"
@@ -14555,6 +14757,32 @@
     },
     {
       "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Skouti Beats",
+          "url": "https://open.spotify.com/artist/6xMhn1NIdNniwDtYroUnke"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "NO HOPE",
+      "url": "https://open.spotify.com/track/6ZXObu3oZUd8ZR72RHkjpa"
+    },
+    {
+      "album": {
         "name": "No Lies",
         "url": "https://open.spotify.com/album/3XbiwB6Pni6s7O3ttnYkbH"
       },
@@ -14914,6 +15142,24 @@
       "duration_ms": 135929,
       "name": "Okana",
       "url": "https://open.spotify.com/track/3msHaoj5LFaBazDo3fNxnJ"
+    },
+    {
+      "album": {
+        "name": "Ola",
+        "url": "https://open.spotify.com/album/7wN63iTjncYrbZnQeO0qxF"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "Ola",
+      "url": "https://open.spotify.com/track/7c8ddTBYFAgxBGaxQaZwpl"
     },
     {
       "album": {
@@ -15374,7 +15620,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 217386,
       "name": "PADOU",
       "url": "https://open.spotify.com/track/27GSRTfL7fEnLAEr3fB5YX"
@@ -15454,7 +15700,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 190942,
       "name": "Palmous",
       "url": "https://open.spotify.com/track/0PUzUn6NlCsVeomsUg9SKx"
@@ -15746,6 +15992,28 @@
       "duration_ms": 217560,
       "name": "Patites",
       "url": "https://open.spotify.com/track/3yLQd4YworFlK148uaWTge"
+    },
+    {
+      "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "PATITI",
+      "url": "https://open.spotify.com/track/7bLtwKjbRujiAaEyTZ6YvT"
     },
     {
       "album": {
@@ -17801,6 +18069,32 @@
     },
     {
       "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325233,
+      "name": "SARANTARIA",
+      "url": "https://open.spotify.com/track/6V4a5dYuyuonpICcYJ3j8S"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -18240,7 +18534,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -20166,7 +20460,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 177000,
       "name": "To Kserw",
       "url": "https://open.spotify.com/track/3vxOiWJAjI6ZS7zVlL6uT7"
@@ -20764,6 +21058,28 @@
       "duration_ms": 180098,
       "name": "Treacherous Twins",
       "url": "https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv"
+    },
+    {
+      "album": {
+        "name": "Epikindinoi Polites",
+        "url": "https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Dj The Boy",
+          "url": "https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "TRENO",
+      "url": "https://open.spotify.com/track/1qU4KrC3CFoWACDvCr2a4w"
     },
     {
       "album": {

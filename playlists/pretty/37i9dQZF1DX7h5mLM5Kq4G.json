@@ -1,12 +1,12 @@
 {
   "description": "The songs we've been partying to in 2022. Cover: David Guetta & Bebe Rexha #SpotifyWrapped",
-  "num_followers": 47883,
+  "num_followers": 47927,
   "original_name": "Top Party Hits of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNzQyNSwwMDAwMDAwMDY5Yzg2NzBiMGI0NjM0YTc1YzY1ODU2NTQxYWZmMDNh",
+  "snapshot_id": "MTY2OTgxNzQyNSwwMDAwMDAwMDhhZGVjMmExN2Y3Y2E0NTVhZTY5OTE3MjViMzY2MGU3",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -1431,18 +1431,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Light Switch (Instrumental)",
-        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
+        "name": "Toxic Pony",
+        "url": "https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
         }
       ],
-      "duration_ms": 187703,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
+      "duration_ms": 198041,
+      "name": "Toxic Pony",
+      "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
     }
   ],
   "unique_name": "Top Party Hits of 2022",

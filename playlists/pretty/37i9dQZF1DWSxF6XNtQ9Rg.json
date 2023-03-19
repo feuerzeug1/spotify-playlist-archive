@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 168445,
+  "num_followers": 168628,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NDA2NywwMDAwMDAwMDhiYTk5ZDc1OGE3NmExZWQ4MzA2ZmZiNzU4ZDA4MjBj",
+  "snapshot_id": "MTY3ODA5NDA2NywwMDAwMDAwMGZjZDhmNDljOGU2NGVkOWYwMmZmZTA4MTMxYTlhM2My",
   "tracks": [
     {
       "added_at": "2023-03-06 09:09:52",
@@ -355,46 +355,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
-        "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 237701,
-      "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
-        "name": "Controcultura",
-        "url": "https://open.spotify.com/album/29ppT5JZzykgZd8pPhYxwY"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 236253,
-      "name": "Vip In Trip",
-      "url": "https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -415,6 +375,46 @@
       "duration_ms": 176772,
       "name": "NUOVO RANGE (con SFERA EBBASTA)",
       "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Controcultura",
+        "url": "https://open.spotify.com/album/29ppT5JZzykgZd8pPhYxwY"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 236253,
+      "name": "Vip In Trip",
+      "url": "https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 237701,
+      "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Rozzi",
-        "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "Rozzi",
-      "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 170018,
       "name": "KUMITE",
       "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Rozzi",
+        "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "Rozzi",
+      "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -795,18 +795,22 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+        "name": "Orange County California",
+        "url": "https://open.spotify.com/album/7GWVPJPcu8o1LCw94e5Rew"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 180346,
-      "name": "Lo Sai Che Ci Penso",
-      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+      "duration_ms": 198026,
+      "name": "Lingerie",
+      "url": "https://open.spotify.com/track/1HEGcG1QUJfyyPfq5EMF9b"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -831,22 +835,18 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Orange County California",
-        "url": "https://open.spotify.com/album/7GWVPJPcu8o1LCw94e5Rew"
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 198026,
-      "name": "Lingerie",
-      "url": "https://open.spotify.com/track/1HEGcG1QUJfyyPfq5EMF9b"
+      "duration_ms": 180346,
+      "name": "Lo Sai Che Ci Penso",
+      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "DELINQUENTE",
-        "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "Ma Ch\u00e9rie (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
       },
@@ -959,22 +939,22 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+        "name": "DELINQUENTE",
+        "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         },
         {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 206211,
-      "name": "Davide (feat. Coez)",
-      "url": "https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J"
+      "duration_ms": 159750,
+      "name": "Ma Ch\u00e9rie (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -995,6 +975,26 @@
       "duration_ms": 203040,
       "name": "Vertigini",
       "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 206211,
+      "name": "Davide (feat. Coez)",
+      "url": "https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1039,22 +1039,6 @@
       "duration_ms": 174727,
       "name": "10 RAGAZZE (con ERNIA)",
       "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1115,6 +1099,22 @@
       "duration_ms": 187615,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Trap Lovers",
-        "url": "https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW"
-      },
-      "artists": [
-        {
-          "name": "Dark Polo Gang",
-          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
-        }
-      ],
-      "duration_ms": 228287,
-      "name": "Cambiare Adesso",
-      "url": "https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
       },
@@ -1479,18 +1463,34 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Niente da perdere",
-        "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
+        "name": "Trap Lovers",
+        "url": "https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Dark Polo Gang",
+          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
         }
       ],
-      "duration_ms": 166214,
-      "name": "Niente da perdere",
-      "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
+      "duration_ms": 228287,
+      "name": "Cambiare Adesso",
+      "url": "https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 218695,
+      "name": "Che Dio Mi Benedica",
+      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+        "name": "Niente da perdere",
+        "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 218695,
-      "name": "Che Dio Mi Benedica",
-      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
+      "duration_ms": 166214,
+      "name": "Niente da perdere",
+      "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
+        "name": "Lunga Vita a Sto",
+        "url": "https://open.spotify.com/album/4yx0csnN5jtVjPXwHTI626"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "Dende",
+      "url": "https://open.spotify.com/track/2JeocKJi1eXYfLYxN4sdxJ"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
         "name": "MM Vol. 2",
         "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Lunga Vita a Sto",
-        "url": "https://open.spotify.com/album/4yx0csnN5jtVjPXwHTI626"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 209571,
-      "name": "Dende",
-      "url": "https://open.spotify.com/track/2JeocKJi1eXYfLYxN4sdxJ"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -1611,6 +1611,26 @@
       "duration_ms": 200214,
       "name": "BRAVI A CADERE - I polmoni",
       "url": "https://open.spotify.com/track/3me7fQdjgO8NHscb3xPaBa"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Dove Gli Occhi Non Arrivano",
+        "url": "https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "Mon Cheri (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/66UkKyxN5YbJl9z7YamQOR"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1639,26 +1659,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Dove Gli Occhi Non Arrivano",
-        "url": "https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "Mon Cheri (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/66UkKyxN5YbJl9z7YamQOR"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Bossoli",
         "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
       },
@@ -1671,22 +1671,6 @@
       "duration_ms": 178758,
       "name": "Bossoli",
       "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
-        "name": "68 (Till The End)",
-        "url": "https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Phi",
-      "url": "https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1707,6 +1691,22 @@
       "duration_ms": 188400,
       "name": "Pookie (feat. Capo Plaza) - Remix",
       "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "68 (Till The End)",
+        "url": "https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Phi",
+      "url": "https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1947,18 +1947,22 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Vero",
-        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
+        "name": "Louboutin",
+        "url": "https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
         }
       ],
-      "duration_ms": 182232,
-      "name": "Eravamo Re",
-      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
+      "duration_ms": 240000,
+      "name": "Louboutin",
+      "url": "https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th"
     },
     {
       "added_at": "2023-03-06 09:09:52",

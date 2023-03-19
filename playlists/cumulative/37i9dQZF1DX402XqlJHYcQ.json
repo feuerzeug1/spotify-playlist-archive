@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 340907,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
@@ -3316,6 +3316,24 @@
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "album": {

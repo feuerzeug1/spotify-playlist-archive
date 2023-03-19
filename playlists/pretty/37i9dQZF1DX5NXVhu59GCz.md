@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,878 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,898 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Truckin' \- 2013 Remaster](https://open.spotify.com/track/1I6l01BaBgBCVkfQCpIlR6) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 5:06 |
 | 2 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
-| 3 | [Evil Woman](https://open.spotify.com/track/5hZHU4ODhJJhB28Q5MdQHa) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Boogie With Canned Heat](https://open.spotify.com/album/4GIv54tOpYbmQ2eGojw4Rr) | 2:57 |
-| 4 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
+| 3 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
+| 4 | [Evil Woman](https://open.spotify.com/track/5hZHU4ODhJJhB28Q5MdQHa) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Boogie With Canned Heat](https://open.spotify.com/album/4GIv54tOpYbmQ2eGojw4Rr) | 2:57 |
 | 5 | [Flying High](https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 2:41 |
 | 6 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
 | 7 | [Slip Inside This House \- Stereo LP Version](https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [Easter Everywhere](https://open.spotify.com/album/5RQNjPQbqY82MBTwaQp3ik) | 8:02 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 41 | [It's A Hard Life](https://open.spotify.com/track/3i9f1ZX8IbZVsZSoSuHO8D) | [The Seeds](https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC) | [The Seeds](https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N) | 2:40 |
 | 42 | [Big Headed Woman](https://open.spotify.com/track/2yb0ZoqqGX4XDzt2CZarWF) | [Speed, Glue & Shinki](https://open.spotify.com/artist/67DVoI1yayIO8DcKKtlbWk) | [Eve](https://open.spotify.com/album/6YCt59wLxD0RXqTvt3kz1k) | 6:15 |
 | 43 | [Lucille \(1970 BBC Top Gear Radio Broadcast\)](https://open.spotify.com/track/2oRsUm3jbPiZNp3cIs6cOP) | [The Pink Fairies](https://open.spotify.com/artist/45BIdHR6MPeNr1aNT10GJE) | [Fuzz Freakout 1970\-1971](https://open.spotify.com/album/2jUV53kqy8Y04JLKXNdZU5) | 2:42 |
-| 44 | [It's Only Love](https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ) | [International Harvester](https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA) | [Sov Gott Rose\-Mari](https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ) | 1:40 |
-| 45 | [Charlie](https://open.spotify.com/track/6FNHbGuJ8GkB0bty9Jm3c6) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptoof!](https://open.spotify.com/album/4fWuFitMDgLkzDLIpu8Tzr) | 3:58 |
+| 44 | [Charlie](https://open.spotify.com/track/6FNHbGuJ8GkB0bty9Jm3c6) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptoof!](https://open.spotify.com/album/4fWuFitMDgLkzDLIpu8Tzr) | 3:58 |
+| 45 | [It's Only Love](https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ) | [International Harvester](https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA) | [Sov Gott Rose\-Mari](https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ) | 1:40 |
 | 46 | [I Put a Spell on You](https://open.spotify.com/track/2HlO7aYhiN86NBC9j4l3SO) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj) | 3:44 |
 | 47 | [Cheshire](https://open.spotify.com/track/4KWLEtCcc13YDp6YogeVMB) | [Frumious Bandersnatch](https://open.spotify.com/artist/6oGriTn7yPNEco3WkbNqS9) | [The Studio Outtakes](https://open.spotify.com/album/0rXM1CIG0xeDoHABrXHACR) | 9:42 |
 | 48 | [Grandmother Hooker](https://open.spotify.com/track/6LzjPE9lvGc6xCXdvgf0VO) | [The Apple Pie Motherhood Band](https://open.spotify.com/artist/174pJcct3i25tITNgPxnFO) | [Apple Pie](https://open.spotify.com/album/0eom2ZJPDeUyS4XTaDpAXR) | 3:00 |
 | 49 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
 | 50 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 
-Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDU4OGY0ZTU2MDQ3MmU1MDJjZGRjYTdmOGY1ZjE5YWY3`
+Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMGE2NTM4YmFkZDI2ZWFkZjUyNjMwNjNmNGFlYTZkM2Jm`

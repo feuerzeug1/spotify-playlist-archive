@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,577 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,628 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 44 | [Alegria](https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W) | 4:03 |
 | 45 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 |
 | 46 | [Be True to Me \- Sabor a Mi \- Versión Bilingüe](https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Be True to Me \- Sabor a Mi \(Versión Bilingüe\)](https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx) | 3:09 |
-| 47 | [Agradezco](https://open.spotify.com/track/3H4FCuCyAVZVgGCkYSLEu3) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Perlas & Conchas](https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo) | 4:54 |
+| 47 | [La Cumbia Del Cafe Martinez](https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 3:57 |
 | 48 | [Cumbiera Intelectual](https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Sur o No Sur](https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq) | 4:10 |
-| 49 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
-| 50 | [La Cumbia Del Cafe Martinez](https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 3:57 |
+| 49 | [Agradezco](https://open.spotify.com/track/3H4FCuCyAVZVgGCkYSLEu3) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Perlas & Conchas](https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo) | 4:54 |
+| 50 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
 | 51 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
 | 52 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 |
 | 53 | [Guacamole](https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [The Nada](https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX) | 5:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 59 | [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 |
 | 60 | [Supersticioso](https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Instantes Decisivos Edición Deluxe](https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w) | 2:46 |
 
-Snapshot ID: `MTY3ODk4NzIxMywwMDAwMDAwMGQ0NjBhZTJmNWY2YTZiODAzMzVlY2U4MGM4OGI5NmI5`
+Snapshot ID: `MTY3ODk4NzIxMywwMDAwMDAwMDU3YjM3ZGY4NDYwZTkxNGM2ZDg3OGQ2YmVjMGRmODM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,776,491 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,777,172 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 13 | [Shabooya \- Remix](https://open.spotify.com/track/3phHsBW2j2Asxk4Q5BwzSS) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz) | [Shabooya \(Remix\)](https://open.spotify.com/album/3p8eDNbBqnrlEIoUCoLM2Y) | 3:51 |
 | 14 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 |
 | 15 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 |
-| 16 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
+| 16 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/5Y2QnajGC68sn1AWjdX3r3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 3:29 |
 | 17 | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL) | 2:26 |
 | 18 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 |
 | 19 | [Dusties](https://open.spotify.com/track/7kswp4MJqT6Ts9P0iVL3kg) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Dusties](https://open.spotify.com/album/07gLKffRhrhVRpgkqN6K28) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 |
 | 50 | [I Admit It](https://open.spotify.com/track/1maxWYnkqlo64OVdtkPZQn) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [I Admit It](https://open.spotify.com/album/0qS3rNh4aSrYtU9Kibqqet) | 2:22 |
 
-Snapshot ID: `MTY3OTA5NjEyMywwMDAwMDAwMDdjNGNjYWI3MzBiZjM1ZmUwM2UxOTRlNjgyNjUyNGQ5`
+Snapshot ID: `MTY3OTA5NjEyMywwMDAwMDAwMDYzYmU0MmQyMWQxZjUxYTI0OGI4ZTZjMzM2Yjc3MDQz`

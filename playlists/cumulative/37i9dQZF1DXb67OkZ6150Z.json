@@ -4320,7 +4320,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 274506,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
@@ -6456,6 +6456,28 @@
       "duration_ms": 195066,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/3JjqTp1P1igYmNHFPb6SDH"
+    },
+    {
+      "album": {
+        "name": "West Coast (I'm In Love)",
+        "url": "https://open.spotify.com/album/0R3khnzqHN3bLsoZk1y36m"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        },
+        {
+          "name": "Jillian Rossi",
+          "url": "https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212043,
+      "name": "West Coast (I'm In Love)",
+      "url": "https://open.spotify.com/track/3ktl9MwJgnAanqqkcTXue8"
     },
     {
       "album": {

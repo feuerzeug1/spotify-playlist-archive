@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,423 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,499 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 46 | [Whopee Ti Yi Yo](https://open.spotify.com/track/0rAuUGTWBabj1Rbwm3e9ex) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM), [Dale Evans](https://open.spotify.com/artist/57FYvfgFq1D892GiwJCYgz) | [16 Great Songs of the Old West](https://open.spotify.com/album/5YWT3TwLPXeIq7e6NATzi6) | 2:17 |
 | 47 | [Mule Train](https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 3:03 |
 | 48 | [Kentucky Waltz](https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:46 |
-| 49 | [Anytime \- Remastered](https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:52 |
-| 50 | [Blue Yodel No\. 4](https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 3:28 |
+| 49 | [Blue Yodel No\. 4](https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 3:28 |
+| 50 | [Anytime \- Remastered](https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:52 |
 | 51 | [Straighten Up And Fly Right](https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:26 |
 | 52 | [Invisible Stripes](https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ) | [Eddie Noack](https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp) | [Psycho \- The K\-Ark and Allstar Recordings 1962\-1969](https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6) | 2:20 |
 | 53 | [Room Full of Roses](https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Late Great \- 14 Greatest Hits](https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo) | 2:33 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 63 | [Filipino Baby](https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn) | [Cowboy Copas](https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi) | [Copasetic](https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK) | 2:46 |
 | 64 | [Panhandle Rag](https://open.spotify.com/track/13jNEoK1XuWzvx7PDtqBtt) | [Leon Mcauliff And His Cimarron Boys](https://open.spotify.com/artist/3t65o10yzAAQTTk7IoopK2) | [Mister Western Swing](https://open.spotify.com/album/7JasllEB3HNNS8bemfNBV9) | 2:57 |
 | 65 | [Rocky Road Blues](https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:33 |
-| 66 | [Milk Cow Blues](https://open.spotify.com/track/2gtvsPwY1z8nzu9Z58uS5b) | [Maddox Brothers](https://open.spotify.com/artist/7Fisqlq3RjJ10LKE0j3ODP), [Rose Maddox](https://open.spotify.com/artist/30ubKuh11o6hVK83WNBgm0) | [America's Most Colorful Hillbilly Band](https://open.spotify.com/album/3xnXV1xll55o3m41ykrgeQ) | 3:10 |
-| 67 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 |
+| 66 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 |
+| 67 | [Milk Cow Blues](https://open.spotify.com/track/2gtvsPwY1z8nzu9Z58uS5b) | [Maddox Brothers](https://open.spotify.com/artist/7Fisqlq3RjJ10LKE0j3ODP), [Rose Maddox](https://open.spotify.com/artist/30ubKuh11o6hVK83WNBgm0) | [America's Most Colorful Hillbilly Band](https://open.spotify.com/album/3xnXV1xll55o3m41ykrgeQ) | 3:10 |
 | 68 | [So, Round, So Firm, So Fully Packed](https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [The Very Best Of](https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr) | 2:58 |
 | 69 | [Cherokee Maiden](https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:53 |
 | 70 | [Divorce Me C.O.D.](https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:15 |
 
-Snapshot ID: `MTY3MjY5NjIzMiwwMDAwMDAwMDcxZjA1YjUyODUzNzc4NzY2NjAxODIzMzBiOWRkYjU0`
+Snapshot ID: `MTY3MjY5NjIzMiwwMDAwMDAwMGYxY2MzOGI2ZTYzNTMwY2RkZmU1Yzc2NzU3NDYwOTk3`

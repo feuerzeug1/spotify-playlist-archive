@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 120170,
+  "num_followers": 120330,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMGI0ZGUyN2UwZWQwNzU1M2E5MTNiODJhM2U2Nzg5N2Qw",
+  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMDRhZmE2NjA5YWIzM2UzYjUwOGQ3OWE4NzJlMmQzYmJj",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "F\u00fcr Immer",
-        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "F\u00fcr Immer",
-      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 220173,
       "name": "Nur getr\u00e4umt",
       "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
     },
     {
       "added_at": "2023-03-06 08:21:00",

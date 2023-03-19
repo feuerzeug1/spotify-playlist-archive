@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 18927,
+  "num_followers": 18966,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY2MTg1NiwwMDAwMDAwMDkxZDY2YjE1MWJlZTQzZTc4MzdiZDI1MGU0NzM4MmIw",
+  "snapshot_id": "MTY3NzY2MTg1NiwwMDAwMDAwMDJhMGUyZGI4OGMzOGNlMjg3Mjk3ZjY4ZDQwZGI5Mjc5",
   "tracks": [
     {
       "added_at": "2023-03-01 09:10:56",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
+        "name": "Yearbook 2022",
+        "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Dawon",
+          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
+        }
+      ],
+      "duration_ms": 195187,
+      "name": "Not Bad (feat. Dawon)",
+      "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -907,42 +927,6 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "Yearbook 2022",
-        "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
-      },
-      "artists": [
-        {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Dawon",
-          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
-        }
-      ],
-      "duration_ms": 195187,
-      "name": "Not Bad (feat. Dawon)",
-      "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
-        "name": "oceanfromtheblue",
-        "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
-      },
-      "artists": [
-        {
-          "name": "oceanfromtheblue",
-          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
-        }
-      ],
-      "duration_ms": 286625,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/3fbKBCRcSEKUie3jEaxBgC"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
         "name": "CLAASSIC",
         "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 217922,
       "name": "SWEATY",
       "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
+        "name": "oceanfromtheblue",
+        "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "duration_ms": 286625,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/3fbKBCRcSEKUie3jEaxBgC"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "I'M LOVIN' AMY",
-        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Murder On The Dance Floor",
-      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
         "name": "waves",
         "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 161293,
       "name": "waves",
       "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
+        "name": "I'M LOVIN' AMY",
+        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Murder On The Dance Floor",
+      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",

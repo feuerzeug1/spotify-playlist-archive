@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,631 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,719 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 96 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 |
 | 97 | [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 |
 | 98 | [Big Ole Love](https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew It Would Be So Hard to Be Myself](https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh) | 3:50 |
-| 99 | [Loving A Person \- Reimagined](https://open.spotify.com/track/1NYmaX6ByXEUdhojO01jMu) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [What Makes It Through](https://open.spotify.com/album/4YFHM5vLJLbBFCS0nhC0mi) | 3:57 |
-| 100 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
+| 99 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
+| 100 | [Loving A Person \- Reimagined](https://open.spotify.com/track/1NYmaX6ByXEUdhojO01jMu) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [What Makes It Through](https://open.spotify.com/album/4YFHM5vLJLbBFCS0nhC0mi) | 3:57 |
 
-Snapshot ID: `MTY3NTE1OTI3MiwwMDAwMDAwMGQ4ZDg5NDBkNzEzMWZjM2Q2Mjc0NTMzM2RhOWU2NzEy`
+Snapshot ID: `MTY3NTE1OTI3MiwwMDAwMDAwMDhlMDEyNDY5NzgyMGQzN2M2Y2Y5OTdiNWViYzk5OTJl`

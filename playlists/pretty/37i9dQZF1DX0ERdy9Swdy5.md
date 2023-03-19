@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Los mejor de los 90s\. The Best of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,306 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,718 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 45 | [Caradura](https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:17 |
 | 46 | [Lady Laura](https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:00 |
 | 47 | [Casi un Hechizo](https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cuenta Conmigo](https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh) | 4:34 |
-| 48 | [Ella se Hizo Deseo](https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Más](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:04 |
+| 48 | [Es Mi Mujer](https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Pal Pueblo](https://open.spotify.com/album/07JdIFh18naO244frEGUqi) | 5:03 |
 | 49 | [Amor Traicionero](https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 4:46 |
 | 50 | [Así Es la Vida](https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:41 |
 | 51 | [Gotas De Lluvia](https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 55 | [Cuenta Conmigo](https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis Favoritas](https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA) | 3:48 |
 | 56 | [Todo](https://open.spotify.com/track/03T7M7m00T0WMGdS3z3WWn) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:41 |
 | 57 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
-| 58 | [Es Mi Mujer](https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Pal Pueblo](https://open.spotify.com/album/07JdIFh18naO244frEGUqi) | 5:03 |
-| 59 | [Porque Te Amo](https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Con La Musica Por Dentro](https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx) | 5:06 |
-| 60 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
+| 58 | [Ella se Hizo Deseo](https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Más](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:04 |
+| 59 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
+| 60 | [Porque Te Amo](https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Con La Musica Por Dentro](https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx) | 5:06 |
 | 61 | [Cinco Noches](https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 5:09 |
 | 62 | [Voy A Conquistar Tu Amor](https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 5:02 |
 | 63 | [No Morirá \- No Matter What](https://open.spotify.com/track/2PsTyxNYFJ5AnjpYOUo3VN) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:31 |
@@ -88,14 +88,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 78 | [Amiga](https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:39 |
 | 79 | [Invierno En Primavera](https://open.spotify.com/track/1Ta3rORfRZyTPcqCHsZXGF) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [14 Éxitos Duros Como Guayacan](https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9) | 5:15 |
 | 80 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
-| 81 | [Cuando Te Miro](https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 3:51 |
-| 82 | [Mirandote](https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Nacimiento Y Recuerdos](https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl) | 5:07 |
+| 81 | [Mirandote](https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Nacimiento Y Recuerdos](https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl) | 5:07 |
+| 82 | [Cuando Te Miro](https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 3:51 |
 | 83 | [Qué Habría Sido de Mí](https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Ironias](https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd) | 4:51 |
 | 84 | [Lo Mío Es Amor](https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Lo Mio Es Amor](https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK) | 5:09 |
 | 85 | [Dile A El](https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Para Ti...](https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP) | 5:26 |
 | 86 | [Ojos Chinos](https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 4:21 |
-| 87 | [Bailemos Otra Vez](https://open.spotify.com/track/7CElrb5b1CNzbbLUaBynyO) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Mis Amores](https://open.spotify.com/album/4QcUkOX9DED7QTsHLW2FN0) | 5:07 |
-| 88 | [A Corazón Abierto](https://open.spotify.com/track/02YdtrTmmpo1HeEk9P4Ngl) | [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [Oro Salsero \(20 Éxitos\)](https://open.spotify.com/album/2VChfDMXaPMlzVRWGvDwVU) | 4:58 |
+| 87 | [A Corazón Abierto](https://open.spotify.com/track/02YdtrTmmpo1HeEk9P4Ngl) | [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [Oro Salsero \(20 Éxitos\)](https://open.spotify.com/album/2VChfDMXaPMlzVRWGvDwVU) | 4:58 |
+| 88 | [Bailemos Otra Vez](https://open.spotify.com/track/7CElrb5b1CNzbbLUaBynyO) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Mis Amores](https://open.spotify.com/album/4QcUkOX9DED7QTsHLW2FN0) | 5:07 |
 | 89 | [Juliana](https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:56 |
 | 90 | [Un Verano En Nueva York](https://open.spotify.com/track/2BNonWqC7arlCrknZPyoEN) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Grandes Exitos \- Live](https://open.spotify.com/album/68YffUBPn4Td5mBE1hxFgE) | 7:21 |
 | 91 | [La Salsa Vive](https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Muy Agradecido](https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 99 | [Hoy Quiero Confesar](https://open.spotify.com/track/04VVASURM79ZfORL5XsJHG) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Greatest Hits \(Serie Cristal\)](https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6) | 4:25 |
 | 100 | [Nuestro Amor](https://open.spotify.com/track/3iypIRxxuWWmNu62Ucny0I) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [2En1](https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM) | 4:24 |
 
-Snapshot ID: `MTY3OTAxNDA5NCwwMDAwMDAwMDQxNzJhODRkYjMyYTVlYzU1NDZiM2I3NWQyOWU3MGUw`
+Snapshot ID: `MTY3OTAxNDA5NCwwMDAwMDAwMDQxYTZkOGE1NWZkOGJmMDEzOTYzMTgyODRkNGEyYTFk`

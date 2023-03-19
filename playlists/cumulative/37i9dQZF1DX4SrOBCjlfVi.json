@@ -24329,7 +24329,7 @@
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 107205,
+      "duration_ms": 107567,
       "name": "Lean Beef Patty",
       "url": "https://open.spotify.com/track/1qbADMsKCFmu08MhWPTZpb"
     },
@@ -39309,6 +39309,44 @@
     },
     {
       "album": {
+        "name": "Shabooya (Remix)",
+        "url": "https://open.spotify.com/album/3p8eDNbBqnrlEIoUCoLM2Y"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        },
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        },
+        {
+          "name": "Aleza",
+          "url": "https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231774,
+      "name": "Shabooya - Remix",
+      "url": "https://open.spotify.com/track/3phHsBW2j2Asxk4Q5BwzSS"
+    },
+    {
+      "album": {
         "name": "Mr. Crawford Teaser",
         "url": "https://open.spotify.com/album/01aYWhU8KqQKOEKAzFrUOm"
       },
@@ -43808,7 +43846,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 195668,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/4cvsQ7dzP1ba5onYeImGxP"

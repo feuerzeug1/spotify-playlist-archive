@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,159 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,191 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 3 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
 | 4 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
 | 5 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
-| 6 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 |
-| 7 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
+| 6 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
+| 7 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 |
 | 8 | [Call Me](https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 2:51 |
 | 9 | [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:22 |
 | 10 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 23 | [Find A Way](https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 4:09 |
 | 24 | [Lifetime \- Remastered 2021](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
 | 25 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 |
-| 26 | [Snakes](https://open.spotify.com/track/0QgZ2k778hWtS5W1ohVKNF) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Return To The 37th Chamber](https://open.spotify.com/album/70OhGmsHTYRhPNmDmMMcwT) | 2:07 |
+| 26 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
 | 27 | [Ladies](https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:17 |
 | 28 | [100 Days, 100 Nights](https://open.spotify.com/track/69YW4FrGpsjzt9lr517bUz) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/5AaBCtOPHVJMYcDyLgu5BD) | 3:45 |
-| 29 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
+| 29 | [Snakes](https://open.spotify.com/track/0QgZ2k778hWtS5W1ohVKNF) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Return To The 37th Chamber](https://open.spotify.com/album/70OhGmsHTYRhPNmDmMMcwT) | 2:07 |
 | 30 | [Every Day a Dream](https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Crossing](https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB) | 3:53 |
 | 31 | [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 |
 | 32 | [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 79 | [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 |
 | 80 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take from Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
 
-Snapshot ID: `MTY3Njk5MjQwNywwMDAwMDAwMDEzNGNkYWVjMjQ4ZjNjMTYwODk1MjYxYWNhZmI1Njk3`
+Snapshot ID: `MTY3Njk5MjQwNywwMDAwMDAwMGJlMjdlMTVhM2E3N2YwNjYzMDg4ZmU0ODc0M2NmNjYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Raisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,096 likes - 103 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,128 likes - 103 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 49 | [Wonderland](https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/770No61AWG74gR1xQaRYzL) | 3:32 |
 | 50 | [Tears](https://open.spotify.com/track/080jw3mXLGUOFgW9RgqgJF) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Tears](https://open.spotify.com/album/5p9RvzuyeX63MZqHPyd42h) | 2:55 |
 | 51 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
-| 52 | [NORTH$IDEKINGZ](https://open.spotify.com/track/6ZVaI6eQGEh54rO2w7f9ir) | [Kardo Arghost](https://open.spotify.com/artist/3a1ukwjBc1a3RjPoW4l9lH), [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld), [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Diego Xoxa](https://open.spotify.com/artist/2TKPJd286sTK900oy5j19d) | [NORTH$IDEKINGZ](https://open.spotify.com/album/7KCjkBFQq577jfzIBgJ96Y) | 5:05 |
+| 52 | [NORTH$IDEKINGZ](https://open.spotify.com/track/6ZVaI6eQGEh54rO2w7f9ir) | [Kardo Arghost](https://open.spotify.com/artist/3a1ukwjBc1a3RjPoW4l9lH), [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld), [El Six](https://open.spotify.com/artist/0mszflxsQbT6tB6MBWx09D), [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Diego Xoxa](https://open.spotify.com/artist/2TKPJd286sTK900oy5j19d) | [NORTH$IDEKINGZ](https://open.spotify.com/album/7KCjkBFQq577jfzIBgJ96Y) | 5:05 |
 | 53 | [Lovecruise](https://open.spotify.com/track/0QnYOnQ0MOOxVsI1sJf6nh) | [8rook D](https://open.spotify.com/artist/7zMK0MTIETByxESanmjv3Z), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Lovecruise](https://open.spotify.com/album/2YIPxvgFE3xWilsWggSUTh) | 4:03 |
 | 54 | [15:19](https://open.spotify.com/track/0m83OBrkCbEWW8b3OyMdAU) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [15:19](https://open.spotify.com/album/7uNjWAjBC5gjSj57v1kPj3) | 3:00 |
 | 55 | [FACE MYSELF](https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [FACE MYSELF](https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u) | 3:47 |

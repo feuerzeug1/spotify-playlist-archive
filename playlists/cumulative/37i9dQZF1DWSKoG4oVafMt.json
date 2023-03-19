@@ -1727,6 +1727,32 @@
     },
     {
       "album": {
+        "name": "Challa - Spotify Singles",
+        "url": "https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J"
+      },
+      "artists": [
+        {
+          "name": "Gurdas Maan",
+          "url": "https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283902,
+      "name": "Challa - Spotify Singles",
+      "url": "https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm"
+    },
+    {
+      "album": {
         "name": "Chalo Mannya",
         "url": "https://open.spotify.com/album/6rMF3sY9ue7xNwKUBgaP4c"
       },
@@ -10280,6 +10306,24 @@
       "duration_ms": 213376,
       "name": "Raah",
       "url": "https://open.spotify.com/track/06SSvSFz7Bu1WXVw42M9lN"
+    },
+    {
+      "album": {
+        "name": "Raanjha - Spotify Singles",
+        "url": "https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0"
+      },
+      "artists": [
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143828,
+      "name": "Raanjha - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge"
     },
     {
       "album": {

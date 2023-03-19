@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,969 likes - 317 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,730 likes - 317 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 67 | [gunners](https://open.spotify.com/track/35qleqxUXrLWM6P00Hslvu) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [gunners](https://open.spotify.com/album/1G6MhRIGi19ZppkYwxMyqj) | 2:12 |
 | 68 | [reload](https://open.spotify.com/track/6rNYXgv4f7ZKMeY5M8RTXB) | [henry loops](https://open.spotify.com/artist/15pHVeLU2nmaUkhMoremIO) | [reload](https://open.spotify.com/album/60dVz30HBCGIawYODJuaHU) | 2:17 |
 | 69 | [Sunday Left Overs](https://open.spotify.com/track/3beZyLCDeTAXa1mrBrPiBI) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [Sunday Left Overs](https://open.spotify.com/album/5CMa6c6y5ZIu8Q3hofDNTr) | 2:43 |
-| 70 | [rest well, my friend](https://open.spotify.com/track/3QCysMGcyHeAT0p3Y65xAD) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL) | [born in the sky](https://open.spotify.com/album/2okumKVDjPqBMdGtybGDSt) | 2:53 |
+| 70 | [rest well, my friend](https://open.spotify.com/track/3QCysMGcyHeAT0p3Y65xAD) | [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL) | [born in the sky](https://open.spotify.com/album/2okumKVDjPqBMdGtybGDSt) | 2:53 |
 | 71 | [colorscope](https://open.spotify.com/track/5VYGfzoSEjFXLJQr4gAynn) | [Leo Zane](https://open.spotify.com/artist/7xIrUrdfYoRUQdcBUGP3di) | [colorscope](https://open.spotify.com/album/0sFIWLDdSzz8PZmGmgOm1u) | 2:25 |
 | 72 | [slow move](https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [slow move](https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf) | 2:22 |
 | 73 | [cloudy dreams](https://open.spotify.com/track/4m8wo5zZ79P1zFFDNtjzof) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [cloudy dreams & husky sun](https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u) | 3:11 |

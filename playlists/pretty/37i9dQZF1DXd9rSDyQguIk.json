@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1051316,
+  "num_followers": 1051949,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMGZlZjNkNGQwODEzY2VhMjljNjE0MWFjNzM4OGE3YjIw",
+  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDMyZGNkNzg5MzEyMTAyMjk0NDkwZGI3NjQ3MzcxMjUx",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -275,22 +275,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Bo Diddley",
-        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 192200,
       "name": "Love Me Like a Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -451,18 +451,18 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+        "name": "King Of The Boogie",
+        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
       },
       "artists": [
         {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 192706,
-      "name": "Junker's Blues",
-      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
+      "duration_ms": 189640,
+      "name": "Boogie Chillen",
+      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -483,18 +483,18 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "King Of The Boogie",
-        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
         }
       ],
-      "duration_ms": 189640,
-      "name": "Boogie Chillen",
-      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
+      "duration_ms": 192706,
+      "name": "Junker's Blues",
+      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -531,18 +531,18 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
       "artists": [
         {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
         }
       ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+      "duration_ms": 445533,
+      "name": "Bad News Is Coming",
+      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -579,18 +579,18 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Bad News Is Coming",
-        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
       "artists": [
         {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 445533,
-      "name": "Bad News Is Coming",
-      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -997,22 +997,6 @@
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
       "added_at": "2021-06-18 04:29:20",
       "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
@@ -1027,6 +1011,22 @@
       "duration_ms": 214520,
       "name": "Give Me Back My Wig - Remastered",
       "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2020-01-15 21:29:46",

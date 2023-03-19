@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,201 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,222 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,15 +72,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 62 | [Bordeaux](https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Muthoni](https://open.spotify.com/artist/5iCw2Vm3dX5y14ZPTwrbgj), [Edwvn](https://open.spotify.com/artist/2pXAmAzTJfBMMzGXKVWAxn), [Narah](https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh), [Tronomie](https://open.spotify.com/artist/34BrK0231uzn1SZfNPsaWA) | [Bordeaux](https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq) | 3:18 |
 | 63 | [Feeling U](https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Feelin U](https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6) | 3:21 |
 | 64 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 |
-| 65 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 |
-| 66 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 |
-| 67 | [Trobul](https://open.spotify.com/track/3mitop70iyN03AreLNsit4) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Trobul](https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS) | 4:02 |
-| 68 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 |
-| 69 | [I Saw An Angel On The Roof & Wept](https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 2:13 |
+| 65 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 |
+| 66 | [Trobul](https://open.spotify.com/track/3mitop70iyN03AreLNsit4) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Trobul](https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS) | 4:02 |
+| 67 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 |
+| 68 | [I Saw An Angel On The Roof & Wept](https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 2:13 |
+| 69 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 |
 | 70 | [Maria](https://open.spotify.com/track/31vGsbC3mF1BQN2yoAIbwM) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Saturn](https://open.spotify.com/album/4RIkecgp5BwhKiYTt9tmwB) | 2:43 |
 | 71 | [Can You See Her](https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3) | [Tha Beatsmith](https://open.spotify.com/artist/0jlnkOITm8T6aR98XB1y6O), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Vanity](https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0) | 3:44 |
-| 72 | [Smooth Criminal](https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Smooth Criminal](https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE) | 2:31 |
-| 73 | [Alone](https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Alone](https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg) | 2:46 |
+| 72 | [Alone](https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Alone](https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg) | 2:46 |
+| 73 | [Smooth Criminal](https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Smooth Criminal](https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE) | 2:31 |
 | 74 | [Dutty Love](https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT) | [Ojahbee](https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Dutty Love](https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4) | 2:51 |
 | 75 | [Confess](https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Confess](https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e) | 2:40 |
 | 76 | [Better Days](https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 |
 | 80 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 |
 
-Snapshot ID: `MTY3OTAzOTI0MCwwMDAwMDAwMGQ0NTM3NDA2OTRhMzE2Nzg3ODExNGNjNGYxMjI4MjYw`
+Snapshot ID: `MTY3OTAzOTI0MCwwMDAwMDAwMDNjYTU4NjczODJiODA1NDg0NGMyM2M3NTY1ZDlmNGU0`

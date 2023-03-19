@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Felix Cartel & Daya
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,237 likes - 62 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,501 likes - 62 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

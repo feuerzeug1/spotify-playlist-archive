@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,845 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,920 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 45 | [In Your Town](https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(Remastered 2017\)](https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ) | 5:44 |
 | 46 | [Sweet Home Chicago](https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [At The Crossroads: The Blues Of Robert Johnson](https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc) | 4:28 |
 | 47 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
-| 48 | [Death Letter Blues](https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Martin Scorsese Presents The Blues: Son House](https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4) | 4:19 |
-| 49 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
+| 48 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
+| 49 | [Death Letter Blues](https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Martin Scorsese Presents The Blues: Son House](https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4) | 4:19 |
 | 50 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
 
-Snapshot ID: `MTY3MzkwMzE1NSwwMDAwMDAwMGYzOTlmZjMzNTMzNDUyODMwMjBjZDQwMzY4YTFlNjg1`
+Snapshot ID: `MTY3MzkwMzE1NSwwMDAwMDAwMDU0ZmFmZGY5YTU3MmI2NzJmZmZmZDNkODk3YzhjM2Ux`

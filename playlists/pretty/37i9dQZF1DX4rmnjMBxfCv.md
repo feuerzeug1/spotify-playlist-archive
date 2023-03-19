@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: A Loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,700 likes - 58 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,713 likes - 58 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Omry Maak](https://open.spotify.com/track/19aRbRcZzJTm1RbJWqMXb7) | [A Loop](https://open.spotify.com/artist/50RtnCeYKbJzZ88uW3vKAq), [ABDULLA JAMAL](https://open.spotify.com/artist/5UQzJpN8efHoCHqRxI2nmo) | [Omry Maak](https://open.spotify.com/album/1AqaW9SMNszibKJ78X2Kq9) | 3:17 |
+| 1 | [Omry Maak](https://open.spotify.com/track/19aRbRcZzJTm1RbJWqMXb7) | [A Loop](https://open.spotify.com/artist/50RtnCeYKbJzZ88uW3vKAq) | [Omry Maak](https://open.spotify.com/album/1AqaW9SMNszibKJ78X2Kq9) | 3:17 |
 | 2 | [Bnt El Chalabyea](https://open.spotify.com/track/7tqxqX5Ee6AEtyfcLAnQeF) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Bnt El Chalabyea](https://open.spotify.com/album/4zypeoqTlxujSqK0m7GJFK) | 5:09 |
 | 3 | [Fog Elna Khil \- Tyrvnt Remix](https://open.spotify.com/track/29SkEO4EJVs2Wa5kTps3f9) | [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL), [Zamane](https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc), [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Fog Elna Khil \(Tyrvnt Remix\)](https://open.spotify.com/album/5mL8U6uMNh6qOzwwvYa3cA) | 4:12 |
 | 4 | [Fe Einy \- Deep House](https://open.spotify.com/track/3fOFvpwuPppmFHpNm5Rfni) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Fe Einy](https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt) | 2:50 |

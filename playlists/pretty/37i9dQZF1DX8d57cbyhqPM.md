@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. 🌍 Photo: Gianni, Dadju, Ninho
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,100 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,147 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Acolyte \(feat\. Dadju & Ninho\)](https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [MRTHN](https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g) | 2:49 |
+| 1 | [Acolyte \(feat\. Dadju & Ninho\)](https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [MRTHN](https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g) | 2:49 |
 | 2 | [Y'a pas ton 2](https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Y'a pas ton 2](https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD) | 3:11 |
 | 3 | [Afro Mbokalisation](https://open.spotify.com/track/3P5wVufq5aP1hDMl1W1qvO) | [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Afro Mbokalisation](https://open.spotify.com/album/5lv3btQPZawglTewcn1Y1h) | 4:07 |
 | 4 | [Trouvez\-la moi](https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 5:51 |

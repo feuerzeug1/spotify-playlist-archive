@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 27983,
+  "num_followers": 27996,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDI1Y2ZlNzM2MzA2ZjAyNzExZTQwN2I0ZWI0NmEyZDIw",
+  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDM1YWM3YTI4ZGEzNTVmYTY5NThkMTg3ZjlhYmJlZjQ4",
   "tracks": [
     {
       "added_at": "2022-12-20 17:52:39",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Memories of Log",
+        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+      },
+      "artists": [
+        {
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+        }
+      ],
+      "duration_ms": 400248,
+      "name": "Falling Water Lullaby",
+      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "Bassin Bleu",
         "url": "https://open.spotify.com/album/0TFW0oehN6zQKODIhOxpJB"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Memories of Log",
-        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+        "name": "Welfare / Practice",
+        "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
       },
       "artists": [
         {
-          "name": "Ulla",
-          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+          "name": "Lucy Liyou",
+          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
         }
       ],
-      "duration_ms": 400248,
-      "name": "Falling Water Lullaby",
-      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+      "duration_ms": 231731,
+      "name": "How to build an automaton",
+      "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -907,22 +923,6 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Welfare / Practice",
-        "url": "https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Liyou",
-          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
-        }
-      ],
-      "duration_ms": 231731,
-      "name": "How to build an automaton",
-      "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
     },
     {
       "added_at": "2022-12-20 17:52:39",

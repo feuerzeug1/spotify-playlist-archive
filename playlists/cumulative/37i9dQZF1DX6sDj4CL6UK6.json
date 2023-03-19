@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
+    },
+    {
+      "album": {
         "name": "Favorite Peeps",
         "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
       },
@@ -846,7 +864,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 193733,
       "name": "Favorite Peeps",
       "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
@@ -1563,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180013,
+      "name": "Just A Word",
+      "url": "https://open.spotify.com/track/3XWRc74od1pT7MUkGiJmoW"
+    },
+    {
+      "album": {
         "name": "Just A Word",
         "url": "https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v"
       },
@@ -1574,7 +1610,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 180013,
       "name": "Just A Word",
       "url": "https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u"

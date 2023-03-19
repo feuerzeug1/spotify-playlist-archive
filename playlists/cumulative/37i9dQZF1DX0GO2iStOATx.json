@@ -231,6 +231,32 @@
     },
     {
       "album": {
+        "name": "Challa - Spotify Singles",
+        "url": "https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J"
+      },
+      "artists": [
+        {
+          "name": "Gurdas Maan",
+          "url": "https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283902,
+      "name": "Challa - Spotify Singles",
+      "url": "https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm"
+    },
+    {
+      "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
       },

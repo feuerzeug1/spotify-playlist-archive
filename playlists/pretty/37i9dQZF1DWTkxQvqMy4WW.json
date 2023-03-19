@@ -1,12 +1,12 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3169279,
+  "num_followers": 3170253,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk4NTIwNCwwMDAwMDAwMDY3Y2M4MjBiZWFmMDliN2ZiMzYwYTkzNDc5N2FiZGE5",
+  "snapshot_id": "MTY3ODk4NTIwNCwwMDAwMDAwMGQ4YWNlYWNjYWU3NWU0NWM1ZjYyNDk2YmRkMDdiM2Qx",
   "tracks": [
     {
       "added_at": "2023-03-16 16:46:44",
@@ -467,22 +467,18 @@
     {
       "added_at": "2023-03-16 16:46:44",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2023-03-16 16:46:44",
@@ -503,18 +499,22 @@
     {
       "added_at": "2023-03-16 16:46:44",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
       "added_at": "2023-03-16 16:46:44",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-03-16 16:46:44",
       "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Head Over Boots",
+      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
+    },
+    {
+      "added_at": "2023-03-16 16:46:44",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 228144,
       "name": "23",
       "url": "https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt"
-    },
-    {
-      "added_at": "2023-03-16 16:46:44",
-      "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
     },
     {
       "added_at": "2023-03-16 16:46:44",
@@ -647,34 +647,18 @@
     {
       "added_at": "2023-03-16 16:46:44",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
-    },
-    {
-      "added_at": "2023-03-16 16:46:44",
-      "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Head Over Boots",
-      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
+      "duration_ms": 211893,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
     },
     {
       "added_at": "2023-03-16 16:46:44",
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-03-16 16:46:44",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2023-03-16 16:46:44",
@@ -747,6 +731,38 @@
     {
       "added_at": "2023-03-16 16:46:44",
       "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
+    {
+      "added_at": "2023-03-16 16:46:44",
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+    },
+    {
+      "added_at": "2023-03-16 16:46:44",
+      "album": {
         "name": "Girl In Mine",
         "url": "https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-03-16 16:46:44",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 253200,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
-    },
-    {
-      "added_at": "2023-03-16 16:46:44",
-      "album": {
         "name": "Pick Me Up",
         "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-03-16 16:46:44",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+      "duration_ms": 253200,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
     },
     {
       "added_at": "2023-03-16 16:46:44",
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 174254,
-      "name": "Take It From Me",
-      "url": "https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0"
+      "duration_ms": 182666,
+      "name": "Singles You Up",
+      "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
     },
     {
       "added_at": "2023-03-16 16:46:44",

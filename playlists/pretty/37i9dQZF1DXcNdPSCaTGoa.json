@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 32821,
+  "num_followers": 32869,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ3OTQzOCwwMDAwMDAwMDE3OTkyOGMxZDg2MWMyYmI3MDY0MzAxOTE4Zjg0ZmYx",
+  "snapshot_id": "MTY3NDQ3OTQzOCwwMDAwMDAwMGY2ODRjNWRiZGZhNDQxODM2Zjc1YjdhMWI4YjFkZjQw",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Evo Mix",
-        "url": "https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc"
-      },
-      "artists": [
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
-        },
-        {
-          "name": "Uhuru",
-          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
-        }
-      ],
-      "duration_ms": 295813,
-      "name": "Khona",
-      "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Njalo",
         "url": "https://open.spotify.com/album/5Ho2YfXnMygWGE8Dh2CeAH"
       },
@@ -831,22 +811,6 @@
       "duration_ms": 263293,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/0CJ8BEJi9NOQblvrGspHY9"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Nomvula (After the Rain)",
-      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -867,18 +831,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Jack Parow",
-        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
       "artists": [
         {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 248933,
-      "name": "Cooler as Ekke",
-      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
+      "duration_ms": 283826,
+      "name": "Nomvula (After the Rain)",
+      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -899,6 +863,42 @@
       "duration_ms": 286600,
       "name": "Thobela",
       "url": "https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Jack Parow",
+        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 248933,
+      "name": "Cooler as Ekke",
+      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Evo Mix",
+        "url": "https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        },
+        {
+          "name": "Uhuru",
+          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
+        }
+      ],
+      "duration_ms": 295813,
+      "name": "Khona",
+      "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
     },
     {
       "added_at": "2023-01-23 13:10:38",

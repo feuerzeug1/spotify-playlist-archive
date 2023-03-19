@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,650 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,822 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 35 | [closure](https://open.spotify.com/track/2TozmWy9NS5FMqqnEq8AJy) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 2:22 |
 | 36 | [Tengo Que Partir](https://open.spotify.com/track/5NP1C17UB2I1UN2a9Tkx2o) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Tengo Que Partir](https://open.spotify.com/album/62kKOrrZQoLgYooL5dmDh3) | 3:12 |
 | 37 | [Cheeks](https://open.spotify.com/track/45jdyOIqPkuBFNy1jaBxe2) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Cheeks](https://open.spotify.com/album/25u938gsY0Rfm9GTe1MXvu) | 2:50 |
-| 38 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo un eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
+| 38 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
 | 39 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 |
 | 40 | [Mañana](https://open.spotify.com/track/4IPvNcEHa7xpfKO6DEUo7g) | [Melodico](https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg) | [Mañana](https://open.spotify.com/album/14PgmeHavYH5igyuzVbpQJ) | 4:14 |
 | 41 | [Yo Primero](https://open.spotify.com/track/3I4rvoB4ih3URCTdIpWmFt) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Yo Primero](https://open.spotify.com/album/1QLxtuYX7Ojojm8I5zmLmI) | 2:45 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 56 | [Anacri Roomies \[001\] \- OKA \(feat\. Juan Rached\)](https://open.spotify.com/track/21i0MbqigzQIrbKaODU77G) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM) | [Anacri Roomies \[001\] \- OKA \(feat\. Juan Rached\)](https://open.spotify.com/album/7MRntyHZTTXU1f2QxNkVRU) | 3:13 |
 | 57 | [Respirar](https://open.spotify.com/track/1GGhhrtbOp1BL2OXYXLtIV) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Respirar](https://open.spotify.com/album/0ABDSOi95uY6U9lAOpkU4r) | 2:52 |
 | 58 | [Mijita](https://open.spotify.com/track/1Sov0pi4zkxntdYfcDMV1n) | [Chesca](https://open.spotify.com/artist/1MRWKooJe1RFjLrJcZSui2) | [Mijita](https://open.spotify.com/album/2J3t4QBygIIbVMDqBqeI99) | 5:00 |
-| 59 | [Flashbacks](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Flashbacks](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
+| 59 | [Flashbacks](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Flashbacks](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
 | 60 | [Watersport](https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Watersport](https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg) | 4:01 |
 
 Snapshot ID: `MTY3OTAyODIwNSwwMDAwMDAwMDk3NTllMDczZjk0ZjNjZDliNDMwYjQ5MTA5ZGIyZDYz`

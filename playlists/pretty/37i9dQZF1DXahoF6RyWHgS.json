@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 29209,
+  "num_followers": 29254,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMGM2NmJiMWNjNzY5YzhlZjljNDBmMDM4NmE1ODQ5OTNj",
+  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMDY2Y2YwMjY0OTA5OTQxOTA3M2Y1NTM2ODE1MDAwN2E4",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -393,20 +393,20 @@
       "url": "https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Mantequilla Hip Hop Sessions Vol. 1",
-        "url": "https://open.spotify.com/album/6IKAvy9Y6dnAD6qoxypxku"
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
       "artists": [
         {
-          "name": "Mc Luka",
-          "url": "https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP"
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
         }
       ],
-      "duration_ms": 214360,
-      "name": "Lupitas Taco Shop",
-      "url": "https://open.spotify.com/track/0ZlmMf7cF1OI62VdiPFRzP"
+      "duration_ms": 145773,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/5bCp9MMG1Qo4QB2OHoSRpN"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -425,20 +425,20 @@
       "url": "https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+        "name": "Mantequilla Hip Hop Sessions Vol. 1",
+        "url": "https://open.spotify.com/album/6IKAvy9Y6dnAD6qoxypxku"
       },
       "artists": [
         {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+          "name": "Mc Luka",
+          "url": "https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP"
         }
       ],
-      "duration_ms": 145773,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/5bCp9MMG1Qo4QB2OHoSRpN"
+      "duration_ms": 214360,
+      "name": "Lupitas Taco Shop",
+      "url": "https://open.spotify.com/track/0ZlmMf7cF1OI62VdiPFRzP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "La Historia del Mambo, Vol. 2",
-        "url": "https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 159503,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Antolog\u00eda...Los Xochimilcas",
         "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 192293,
       "name": "Pulque para dos",
       "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "La Historia del Mambo, Vol. 2",
+        "url": "https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 159503,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Coraz\u00f3n De Mel\u00f3n",
-        "url": "https://open.spotify.com/album/7vN2pXl35jihF5vLGrK0JB"
-      },
-      "artists": [
-        {
-          "name": "Hermanas Ben\u00edtez",
-          "url": "https://open.spotify.com/artist/67P9zHn7NV6r6bADkkr1TG"
-        }
-      ],
-      "duration_ms": 130658,
-      "name": "Coraz\u00f3n De Mel\u00f3n",
-      "url": "https://open.spotify.com/track/4lwhl74qt01u3U9ZOiQh3s"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 250360,
       "name": "Floricanto",
       "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Coraz\u00f3n De Mel\u00f3n",
+        "url": "https://open.spotify.com/album/7vN2pXl35jihF5vLGrK0JB"
+      },
+      "artists": [
+        {
+          "name": "Hermanas Ben\u00edtez",
+          "url": "https://open.spotify.com/artist/67P9zHn7NV6r6bADkkr1TG"
+        }
+      ],
+      "duration_ms": 130658,
+      "name": "Coraz\u00f3n De Mel\u00f3n",
+      "url": "https://open.spotify.com/track/4lwhl74qt01u3U9ZOiQh3s"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
-      "added_at": "2022-02-04 19:55:03",
-      "album": {
-        "name": "Caf\u00e9 Caf\u00e9",
-        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
-      },
-      "artists": [
-        {
-          "name": "Radio Jarocho",
-          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Caf\u00e9 Caf\u00e9",
-      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Tijuana Sessions Vol. 3",
@@ -723,6 +707,22 @@
       "duration_ms": 224133,
       "name": "Tengo La Voz",
       "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
+    },
+    {
+      "added_at": "2022-02-04 19:55:03",
+      "album": {
+        "name": "Caf\u00e9 Caf\u00e9",
+        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
+      },
+      "artists": [
+        {
+          "name": "Radio Jarocho",
+          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Caf\u00e9 Caf\u00e9",
+      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -959,22 +959,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "The Roots of Chicha 2",
         "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 298253,
       "name": "Batazo Batero",
       "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/4MkN79McNtKjsRtzZkUG1q"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
-        "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
-      },
-      "artists": [
-        {
-          "name": "Antonio Mach\u00edn",
-          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Tengo una debilidad",
-      "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "It's Time",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Banda de los Muertos",
-        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
+        "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
+        "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
       },
       "artists": [
         {
-          "name": "Banda de los Muertos",
-          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
+          "name": "Antonio Mach\u00edn",
+          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Ay Mexicanita",
-      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
+      "duration_ms": 157266,
+      "name": "Tengo una debilidad",
+      "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1183,6 +1167,22 @@
       "duration_ms": 241520,
       "name": "Arroz Con Frijoles",
       "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Banda de los Muertos",
+        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
+      },
+      "artists": [
+        {
+          "name": "Banda de los Muertos",
+          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Ay Mexicanita",
+      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Guajira Guantanamera (Remastered)",
-        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Barroso",
-          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
-        }
-      ],
-      "duration_ms": 137530,
-      "name": "Los tamalitos de Olga - Remastered",
-      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Pa'lante",
@@ -1279,6 +1263,22 @@
       "duration_ms": 272073,
       "name": "Lim\u00f3n",
       "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Guajira Guantanamera (Remastered)",
+        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Barroso",
+          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
+        }
+      ],
+      "duration_ms": 137530,
+      "name": "Los tamalitos de Olga - Remastered",
+      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
     },
     {
       "added_at": "2020-05-28 20:45:13",

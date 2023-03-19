@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,133 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,142 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 12 | [La Receta](https://open.spotify.com/track/5AmZTocG6dh1jN22KgIF2H) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [La Receta](https://open.spotify.com/album/0jdlWpht7OheUR2kvWWPlA) | 3:11 |
 | 13 | [happy](https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 3:20 |
 | 14 | [Emerald Eyes](https://open.spotify.com/track/1q5nWUhHF16QHJLnnKZLNQ) | [The Bromigos](https://open.spotify.com/artist/7IstQm3HsOZGoNhX0LJo0C) | [Emerald Eyes](https://open.spotify.com/album/4nRE7s8dB1EG5LCp61zLHX) | 3:30 |
-| 15 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo un eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
+| 15 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
 | 16 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 |
 | 17 | [Como Te Quiero Yo](https://open.spotify.com/track/2VxQqF52M7IPkiLd4XmTNi) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:14 |
 | 18 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
@@ -63,14 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 53 | [Judge Not](https://open.spotify.com/track/6NFbwWsDoXyqLKZsQq9dVP) | [The Bromigos](https://open.spotify.com/artist/7IstQm3HsOZGoNhX0LJo0C) | [Judge Not](https://open.spotify.com/album/1JLe0I0YpC6hJmEIkW265O) | 2:38 |
 | 54 | [135](https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:15 |
 | 55 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
-| 56 | [9pm](https://open.spotify.com/track/3aGcPlMBBA7t0UTRgfYGNX) | [Safiyah Hernandez](https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK) | [9pm](https://open.spotify.com/album/6QwUm0GDhznorwhPbgdrca) | 2:26 |
-| 57 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
+| 56 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
+| 57 | [9pm](https://open.spotify.com/track/3aGcPlMBBA7t0UTRgfYGNX) | [Safiyah Hernandez](https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK) | [9pm](https://open.spotify.com/album/6QwUm0GDhznorwhPbgdrca) | 2:26 |
 | 58 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
 | 59 | [Lucid Dreaming](https://open.spotify.com/track/7CxxcJ8I5VAwnb1amdhZWq) | [Karina Magallon](https://open.spotify.com/artist/1YwrLrYKopX3zW2DMXpeSh) | [Lucid Dreaming](https://open.spotify.com/album/6fRkrFd5kyAEbpSBe37CvW) | 2:37 |
-| 60 | [La Selva Se Lo Llevo](https://open.spotify.com/track/7HbliIqpMum8pNhGTB9hz0) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Shary Rose](https://open.spotify.com/artist/0Fy1mYuGtX0RBAraYKsJId) | [Lost Tribes](https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm) | 5:54 |
-| 61 | [Drink Me Like Wine](https://open.spotify.com/track/0WTnZEt7dIFGK61BKVbut8) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [Drink Me Like Wine](https://open.spotify.com/album/4RTXEGXWdPLsTk2EwUTO4k) | 2:35 |
-| 62 | [Losing My Mind](https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Losing My Mind](https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH) | 2:35 |
-| 63 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
+| 60 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
+| 61 | [La Selva Se Lo Llevo](https://open.spotify.com/track/7HbliIqpMum8pNhGTB9hz0) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Shary Rose](https://open.spotify.com/artist/0Fy1mYuGtX0RBAraYKsJId) | [Lost Tribes](https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm) | 5:54 |
+| 62 | [Drink Me Like Wine](https://open.spotify.com/track/0WTnZEt7dIFGK61BKVbut8) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [Drink Me Like Wine](https://open.spotify.com/album/4RTXEGXWdPLsTk2EwUTO4k) | 2:35 |
+| 63 | [Losing My Mind](https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Losing My Mind](https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH) | 2:35 |
 | 64 | [El Raulito](https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [El Raulito](https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD) | 3:10 |
 | 65 | [Ruby](https://open.spotify.com/track/0e69hMJTwnCTA83HNyaSKx) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:32 |
 | 66 | [Atmosférica](https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz) | [Mexico City Heartbreak](https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ) | [Atmosférica](https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7) | 3:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 69 | [SOLO](https://open.spotify.com/track/2Gkjiu3HPOcK4qVDFRdrCE) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [SOLO](https://open.spotify.com/album/4NNdY7MuRfjtux9Dm4xFXN) | 3:32 |
 | 70 | [Estupido](https://open.spotify.com/track/0s0911eZbCQY93FjUYmTRr) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Estupido](https://open.spotify.com/album/06AFG4QcIJ6xyiF7DVRKyZ) | 3:06 |
 
-Snapshot ID: `MTY3OTAzMzI3MCwwMDAwMDAwMDMyMDBjYjU0MDg0NGY0M2E1ZTMyYWRjNzA4MDI4YTJm`
+Snapshot ID: `MTY3OTAzMzI3MCwwMDAwMDAwMDQzZDllYmZmNGVmODhjMzk5MmQ1ZWIwZmE1MTE3MWRm`

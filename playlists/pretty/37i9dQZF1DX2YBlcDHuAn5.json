@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 2346,
+  "num_followers": 2353,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAwNzYwMCwwMDAwMDAwMDBlZTNhMjNlNzg3NWVhMDk1OWE4YjRmNzVkZTgyZTIx",
+  "snapshot_id": "MTY3OTAwNzYwMCwwMDAwMDAwMGFmN2RkYTdjNDA1YjgxZjJhNzllZDViYjMyNzY5Y2My",
   "tracks": [
     {
       "added_at": "2023-03-16 23:00:00",
@@ -127,38 +127,6 @@
     {
       "added_at": "2023-03-16 23:00:00",
       "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
-        "name": "Love You So",
-        "url": "https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55"
-      },
-      "artists": [
-        {
-          "name": "Sam Saxton",
-          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
-        }
-      ],
-      "duration_ms": 194396,
-      "name": "LOVE YOU SO",
-      "url": "https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK"
-    },
-    {
-      "added_at": "2023-03-16 23:00:00",
-      "album": {
         "name": "The Comeback",
         "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
       },
@@ -171,6 +139,38 @@
       "duration_ms": 198722,
       "name": "Wild Palomino",
       "url": "https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
+        "name": "Love you so",
+        "url": "https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55"
+      },
+      "artists": [
+        {
+          "name": "Sam Saxton",
+          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
+        }
+      ],
+      "duration_ms": 194396,
+      "name": "Love you so",
+      "url": "https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK"
+    },
+    {
+      "added_at": "2023-03-16 23:00:00",
+      "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "added_at": "2023-03-16 23:00:00",

@@ -4,13 +4,14 @@
 
 > "When I need to turn down the noise, I listen to songs that remind me of really good times in my life\. This helps to regulate my mood and really bring me back to earth." Cover: Eli Rallo
 
-36 songs - 2 hr 22 min
+37 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/0LXljhKMUgoLv8tLwZ1hmf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:49 | 2022-10-04 |  |
 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2022-10-04 |  |
-| [Baby, You Make Me Crazy](https://open.spotify.com/track/7HwcH5CiJzuUzspuOqOJQa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:27 | 2022-10-04 |  |
+| [Baby, You Make Me Crazy](https://open.spotify.com/track/1p1SbqeipOd4ezKUpxqaz6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:27 | 2022-10-04 |  |
+| [Baby, You Make Me Crazy](https://open.spotify.com/track/7HwcH5CiJzuUzspuOqOJQa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:27 | 2022-10-04 | 2023-03-19 |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2022-10-04 |  |
 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 | 2022-10-04 |  |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2022-10-04 |  |

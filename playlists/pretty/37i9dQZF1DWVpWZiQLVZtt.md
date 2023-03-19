@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,419 likes - 132 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,283 likes - 132 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,23 +92,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 82 | [Amante Bandido](https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bravo Bosé \- 30 Grandes Exitos](https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS) | 4:23 |
 | 83 | [Tratar de Estar Mejor](https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Tratar De Estar Mejor](https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj) | 3:35 |
 | 84 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
-| 85 | [Traición a la Mejicana](https://open.spotify.com/track/4M7pLnko9ZAbjNnXTlXAVR) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc) | [Cuestión de Honor](https://open.spotify.com/album/4zKi74rzwxJysMbX4xsGa9) | 4:13 |
-| 86 | [Ciega, Sordomuda](https://open.spotify.com/track/2KeFEmC9tWtNaF2hZ7yLpm) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 4:28 |
-| 87 | [Párate Y Mira](https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 4:07 |
-| 88 | [Solo Se Vive una Vez](https://open.spotify.com/track/0ATzislS5SvAp69hjHczej) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Esclava De Tu Piel](https://open.spotify.com/album/4cllWOyTixZqsWOLj5BvPB) | 3:31 |
+| 85 | [Ciega, Sordomuda](https://open.spotify.com/track/2KeFEmC9tWtNaF2hZ7yLpm) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 4:28 |
+| 86 | [Traición a la Mejicana](https://open.spotify.com/track/4M7pLnko9ZAbjNnXTlXAVR) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc) | [Cuestión de Honor](https://open.spotify.com/album/4zKi74rzwxJysMbX4xsGa9) | 4:13 |
+| 87 | [Solo Se Vive una Vez](https://open.spotify.com/track/0ATzislS5SvAp69hjHczej) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Esclava De Tu Piel](https://open.spotify.com/album/4cllWOyTixZqsWOLj5BvPB) | 3:31 |
+| 88 | [Párate Y Mira](https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 4:07 |
 | 89 | [Amor A La Mexicana](https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Amor A La Mexicana](https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD) | 4:25 |
-| 90 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
+| 90 | [Estoy Aquí](https://open.spotify.com/track/117PkfBYudl1lSoFFAvOM4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 3:53 |
 | 91 | [Provócame](https://open.spotify.com/track/5ycQatSgvV36zWAG5EqyWn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:08 |
-| 92 | [La Rubia del Avión](https://open.spotify.com/track/3rgd481ClPZIR6XEDTl2VU) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 4:12 |
-| 93 | [Bailar Pegados \- En Concierto](https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Sergio Dalma En Concierto](https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r) | 4:34 |
-| 94 | [Estoy Aquí](https://open.spotify.com/track/117PkfBYudl1lSoFFAvOM4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 3:53 |
-| 95 | [Perdido En Un Barco](https://open.spotify.com/track/5bNWrwkz74Z6H78Zhh9ISl) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Falta Amor](https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY) | 4:12 |
+| 92 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
+| 93 | [La Rubia del Avión](https://open.spotify.com/track/3rgd481ClPZIR6XEDTl2VU) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 4:12 |
+| 94 | [Perdido En Un Barco](https://open.spotify.com/track/5bNWrwkz74Z6H78Zhh9ISl) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Falta Amor](https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY) | 4:12 |
+| 95 | [Bailar Pegados \- En Concierto](https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Sergio Dalma En Concierto](https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r) | 4:34 |
 | 96 | [Te Amo](https://open.spotify.com/track/2rdwDtrmhjgXgS2cSzXhe2) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte del Sur](https://open.spotify.com/album/3VARJQOdbDt0dOlLAPMkjv) | 3:46 |
-| 97 | [Locomia](https://open.spotify.com/track/08UjtrYy1Gnm6R9jW97Toi) | [Locomia](https://open.spotify.com/artist/1T8NnxA0fnU3TQ6aiTNNtw) | [Grandes Éxitos](https://open.spotify.com/album/0icRKYwFGNIZdLiwVnwFTY) | 5:48 |
+| 97 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/6fNOLHy8VxBsKxy1D41EVz) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 3:14 |
 | 98 | [Ven Devórame Otra Vez](https://open.spotify.com/track/451CpDIPCEe6C33BFGL3Kh) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Bandido](https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW) | 5:33 |
-| 99 | [Nada Hará Cambiar Mi Amor Por Ti](https://open.spotify.com/track/0sSYH6wPWL9SB7CDV8Bb0I) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:39 |
-| 100 | [No Le Dijo Nada](https://open.spotify.com/track/6zfTUzKLKRXeSzIl7DYPvq) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 3:42 |
-| 101 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/6fNOLHy8VxBsKxy1D41EVz) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 3:14 |
+| 99 | [No Le Dijo Nada](https://open.spotify.com/track/6zfTUzKLKRXeSzIl7DYPvq) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 3:42 |
+| 100 | [Locomia](https://open.spotify.com/track/08UjtrYy1Gnm6R9jW97Toi) | [Locomia](https://open.spotify.com/artist/1T8NnxA0fnU3TQ6aiTNNtw) | [Grandes Éxitos](https://open.spotify.com/album/0icRKYwFGNIZdLiwVnwFTY) | 5:48 |
+| 101 | [Nada Hará Cambiar Mi Amor Por Ti](https://open.spotify.com/track/0sSYH6wPWL9SB7CDV8Bb0I) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:39 |
 | 102 | [Eternamente Bella](https://open.spotify.com/track/6lc9YFwer6DdhhripRREJU) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [90's Pop en español](https://open.spotify.com/album/6PDoBVYoSWXq0Wu1fBf3vx) | 3:25 |
 | 103 | [Miente](https://open.spotify.com/track/5tupUt9ExblNzWxHkQZkBQ) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Vivir](https://open.spotify.com/album/3jSHDDkwNvjOeui59fI6PQ) | 3:35 |
 | 104 | [La Fuerza del Engaño](https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 3:27 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 131 | [Fuego Contra Fuego](https://open.spotify.com/track/6Sbzcag4QwyIRhMSpRmlLW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg) | 4:14 |
 | 132 | [Me Amaras](https://open.spotify.com/track/5ovv05x6qsMfipkdutRKbD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Me Amaras](https://open.spotify.com/album/5CgOx7gxM9Xv90PcF5JuTH) | 4:27 |
 
-Snapshot ID: `MTY0NzMxNjE2MiwwMDAwMDAwMDdiYzU3OTEwYjJjNWE1MjNhZGJmOTllZmY4YjhlYzVh`
+Snapshot ID: `MTY0NzMxNjE2MiwwMDAwMDAwMDVhYjBjNTYxZTg3NjJlNzRlNGI0YmEyYTJlODFiZjk2`

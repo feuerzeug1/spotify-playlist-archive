@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,246 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,374 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 34 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 |
 | 35 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
 | 36 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
-| 37 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
-| 38 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
-| 39 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
+| 37 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
+| 38 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
+| 39 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
 | 40 | [amb23 \- 2](https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Ambient 23](https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ) | 9:06 |
 | 41 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
 | 42 | [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
 | 50 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 |
 
-Snapshot ID: `MTY3ODE1OTkyMiwwMDAwMDAwMDIwODNkMmVmNDNmOWJiYzk2YTJjYmMwNTVhOWJmMDYx`
+Snapshot ID: `MTY3ODE1OTkyMiwwMDAwMDAwMGQwNmU5NGZmNjU2YjYxZTE0MThmMGQ4NzNjMzFiNzU2`

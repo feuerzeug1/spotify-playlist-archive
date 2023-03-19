@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,275 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,292 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 18 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 |
 | 19 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 |
 | 20 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
-| 21 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 |
-| 22 | [i'll never fall in love with myself \(demo\)](https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz) | 1:47 |
+| 21 | [i'll never fall in love with myself \(demo\)](https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz) | 1:47 |
+| 22 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 |
 | 23 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
 | 24 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 |
 | 25 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 |
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 55 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 | 56 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
 | 57 | [SPICY](https://open.spotify.com/track/0KGn1PDH5cqmD4B8GMVfae) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [SPICY](https://open.spotify.com/album/187GdUKB6sx3DZaL6wpxnO) | 3:14 |
-| 58 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 |
-| 59 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
+| 58 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
+| 59 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 |
 | 60 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 |
 | 61 | [Good Love 2.0](https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Good Love 2.0](https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl) | 2:54 |
 | 62 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/7hDwJ1WwXkFgznw0ip6kIg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:51 |
 | 63 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 |
-| 64 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
+| 64 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
 | 65 | [Lover Like Me](https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Lover Like Me](https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC) | 2:57 |
-| 66 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
+| 66 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
 | 67 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 |
 | 68 | [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 |
 | 69 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 89 | [Dramamine](https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi) | 2:55 |
 | 90 | [Want U 2 Love Me](https://open.spotify.com/track/10HcnRxq2OmMoFhkZ5Tuza) | [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Want U 2 Love Me](https://open.spotify.com/album/3vyvUCu3QyxfxMYTCyhKUv) | 3:17 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDAwOTBkMjllOWQxYzdmMmQ1YmJiMDdlYTgyYzJiMjE1`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGQwMWUxNzA2NGRjZTU1MGQxYmNiNGMzOWM1NzBkZTBm`

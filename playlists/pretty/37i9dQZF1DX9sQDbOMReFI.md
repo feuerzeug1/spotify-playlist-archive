@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Yo\-Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,042 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,321 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 46 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 47 | [Jackin' For Beats](https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Kill At Will](https://open.spotify.com/album/7oeFV70h2fDapspboicRP5) | 2:57 |
 | 48 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
-| 49 | [Otha Fish](https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:21 |
-| 50 | [Late Night Hype](https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [It's A Compton Thang!](https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY) | 4:54 |
+| 49 | [Murder Was The Case](https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:38 |
+| 50 | [Otha Fish](https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:21 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDg4MWIyNTc2YmY1ZWU5NDEwZjc1MDAxMDhhNTY2MjYy`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDQ2MzcxMDI5NjgyMWE0NDMzYjkzZjNhZWNiZGY2MzA5`

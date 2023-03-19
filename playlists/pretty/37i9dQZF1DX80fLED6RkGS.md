@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=53rkvfvORuektsKbxqLlAA">Ssaru </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,162 likes - 81 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,190 likes - 81 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kaskie Vibaya](https://open.spotify.com/track/1kgxOHGjNsyg4fGZ31YJQT) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Kaskie Vibaya](https://open.spotify.com/album/3I2xim6t1W5RqtqXKElICs) | 2:37 |
 | 2 | [Miondoko](https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar) | [Rico Gang](https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Sababisha](https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q) | 3:04 |
-| 3 | [Napenda Wote](https://open.spotify.com/track/6KqqpWRJtPmgE4GZaQSyje) | [Iphoolish](https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [Yinga](https://open.spotify.com/album/2zkSoisn7kPVhKHEBos1sY) | 3:47 |
+| 3 | [Napenda Wote](https://open.spotify.com/track/6KqqpWRJtPmgE4GZaQSyje) | [Iphoolish](https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Thee Exit Band](https://open.spotify.com/artist/5tCS32hMdQWpx8gJJsR673), [Unco Jingjong](https://open.spotify.com/artist/22lwvCuVhk527A9WP49im1) | [Yinga](https://open.spotify.com/album/2zkSoisn7kPVhKHEBos1sY) | 3:47 |
 | 4 | [Nasikia Wah](https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q), [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [Nasikia Wah](https://open.spotify.com/album/3UWUoIRvsWuCBGEU03xNoh) | 3:39 |
 | 5 | [Angela](https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:57 |
 | 6 | [Blueticks](https://open.spotify.com/track/3n9GFwWJZbOHr0bFz62dMm) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Blueticks](https://open.spotify.com/album/4PZ32ERekuiOH4K0QyPyG5) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,530 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,649 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 97 | [Pegadito](https://open.spotify.com/track/3NkWUspEJzcMcUJKoX1KJa) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Tarde O Temprano \(Late Edition\)](https://open.spotify.com/album/4SpycWodCTi8Ct9SUAEOzu) | 3:39 |
 | 98 | [Tu Respiración](https://open.spotify.com/track/5bVCHIQgZ4Jcr6DFmnYqRo) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 4:10 |
 | 99 | [Tal Vez](https://open.spotify.com/track/7dfcQMlkSp40GntNwX98Z6) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [17](https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE) | 4:39 |
-| 100 | [Cuando Tus Ojos Me Miran \(feat\. India Martinez\) \- Vuelve en Primera Fila \- Live Version](https://open.spotify.com/track/20JGllbxlsQdPVQIgGZVMO) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV) | [Dual](https://open.spotify.com/album/1kF9wxTUSexqZnufTN9wiX) | 4:48 |
+| 100 | [Me Cansé De Ti](https://open.spotify.com/track/1pxmhFimjs0SGi5CH1OmXB) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Confesiones](https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi) | 3:07 |
 
-Snapshot ID: `MTY3ODEyMjMyNCwwMDAwMDAwMDg1YzQzNWZlNGM3Y2QyOWJmYTVlNDVlYTYyY2E5MTQw`
+Snapshot ID: `MTY3ODEyMjMyNCwwMDAwMDAwMGRlMzRmZjBjNWExMzg3YmZmZTY2MTZjMWIwNmM4YTAx`

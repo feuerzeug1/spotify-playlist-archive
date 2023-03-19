@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Yarea
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,046 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,055 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 23 | [En Otro Lugar](https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [En Otro Lugar](https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx) | 2:58 |
 | 24 | [Bloque](https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Bloque](https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8) | 2:43 |
 | 25 | [Barcelona](https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Barcelona](https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3) | 2:59 |
-| 26 | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao) | 3:12 |
-| 27 | [Veo tan Dentro](https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Veo tan Dentro](https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue) | 3:59 |
+| 26 | [Veo tan Dentro](https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Veo tan Dentro](https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue) | 3:59 |
+| 27 | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao) | 3:12 |
 | 28 | [Ansiedad](https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ansiedad](https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg) | 2:58 |
 | 29 | [Indie esperanzador](https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Indie esperanzador](https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc) | 2:50 |
 | 30 | [Del cielo](https://open.spotify.com/track/038sx40baI928rvHqvwlyC) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Del cielo](https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 |
 | 50 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
 
-Snapshot ID: `MTY3OTAwNzY2MCwwMDAwMDAwMDNhZDZmZmUzZGRmNTYxMTFlZWUwMzBkNmZkODNjMjUx`
+Snapshot ID: `MTY3OTAwNzY2MCwwMDAwMDAwMGZjOWMxOTI4MmI4ZGQyMmFjMjkyZGJmMDNlNWQ4NmU4`

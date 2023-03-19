@@ -194,7 +194,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 113737,
       "name": "2.5",
       "url": "https://open.spotify.com/track/5EdjtFDTfqbdWFzpceeiCE"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 214368,
       "name": "Bulletproof Skin",
       "url": "https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3"
@@ -3320,6 +3320,28 @@
       "duration_ms": 130815,
       "name": "Finish What I Started",
       "url": "https://open.spotify.com/track/3ieq9vKcbv9tuxqDBnab7x"
+    },
+    {
+      "album": {
+        "name": "Finsta (feat. Big Boogie)",
+        "url": "https://open.spotify.com/album/6vefuCd9t3K2Vwj9fNj1fG"
+      },
+      "artists": [
+        {
+          "name": "Fat Trel",
+          "url": "https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200130,
+      "name": "Finsta (feat. Big Boogie)",
+      "url": "https://open.spotify.com/track/549FVHJDMSppqOQYg0hvdt"
     },
     {
       "album": {
@@ -5162,7 +5184,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 181472,
       "name": "Kilo",
       "url": "https://open.spotify.com/track/5ztpUgdLaz8KywdElP8Ykw"
@@ -5409,6 +5431,32 @@
     },
     {
       "album": {
+        "name": "Lets Go",
+        "url": "https://open.spotify.com/album/4g0wFqS7rGUQRL0aAik6kH"
+      },
+      "artists": [
+        {
+          "name": "Mini Boom",
+          "url": "https://open.spotify.com/artist/6TpjrFXS0EcrvyBt4pgmt5"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Serena Smart",
+          "url": "https://open.spotify.com/artist/2K8LPhlPN5NQeD2q0YVYxV"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141971,
+      "name": "Lets Go",
+      "url": "https://open.spotify.com/track/29DCjImJlZJbCTweKtVtXd"
+    },
+    {
+      "album": {
         "name": "Letter 2 Notti",
         "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
       },
@@ -5518,7 +5566,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 147350,
       "name": "Like A Star",
       "url": "https://open.spotify.com/track/7K2BRlhDFdrViNepbSXGFy"
@@ -5674,6 +5722,24 @@
       "duration_ms": 165122,
       "name": "Love",
       "url": "https://open.spotify.com/track/0upllbKPY8iblcZvcPCSnL"
+    },
+    {
+      "album": {
+        "name": "Help Is On The Way (Deluxe)",
+        "url": "https://open.spotify.com/album/6AB9OOUQJaPhZWADvpu5ab"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214431,
+      "name": "Love Died",
+      "url": "https://open.spotify.com/track/4ZcOJracZ42iM1lbffdtUI"
     },
     {
       "album": {
@@ -6132,6 +6198,24 @@
       "duration_ms": 158987,
       "name": "Menace (feat. Fredo Bang)",
       "url": "https://open.spotify.com/track/0ph8xDY7O1xkbUP4YSy1C1"
+    },
+    {
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/3nxk4XwXGAiV625DPvgjAA"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Mention",
+      "url": "https://open.spotify.com/track/6aaQbMf6wTjkVDqvrVvxJB"
     },
     {
       "album": {
@@ -7161,6 +7245,28 @@
     },
     {
       "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/3ZmgIf9xdBHuCds9qD5ab8"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA"
+    },
+    {
+      "album": {
         "name": "One Mic, One Gun",
         "url": "https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl"
       },
@@ -7396,7 +7502,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 98089,
       "name": "PAIN!",
       "url": "https://open.spotify.com/track/3pqXhSXgasqhTf865mbpYi"
@@ -7652,6 +7758,28 @@
       "duration_ms": 143699,
       "name": "Players Card",
       "url": "https://open.spotify.com/track/2wnRPs7i0wWa2zqPv6FNIV"
+    },
+    {
+      "album": {
+        "name": "PMR (feat. A Boogie wit da Hoodie)",
+        "url": "https://open.spotify.com/album/64QGA3ueY3dG8RZvmolsgI"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136176,
+      "name": "PMR (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/72etwrPRuhvISzuCc9w81f"
     },
     {
       "album": {
@@ -9416,7 +9544,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 104960,
       "name": "Speak Up",
       "url": "https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx"

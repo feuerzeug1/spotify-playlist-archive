@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 967,778 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,498 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 45 | [Sudah \- Story of Kale \- Original Motion Picture Soundtrack](https://open.spotify.com/track/5QGdWvXwXMK2Zx6eKagyue) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Sudah \(Story of Kale \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6PDnmCt2aYEQF3YHaCOVHI) | 3:26 |
 | 46 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
 | 47 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 |
-| 48 | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo) | 3:52 |
-| 49 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 |
+| 48 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 |
+| 49 | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo) | 3:52 |
 | 50 | [Hampa](https://open.spotify.com/track/6bE0o9hYUPYlokZIH79oM0) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Keseimbangan](https://open.spotify.com/album/2NHhFC00ygRbtB3BeO8bKo) | 4:58 |
 
-Snapshot ID: `MTY3NjAxOTM0MiwwMDAwMDAwMDE0MDZhZjU5NTg3NmVmZTA3MDlhM2E2MDY3NzBkNGRm`
+Snapshot ID: `MTY3NjAxOTM0MiwwMDAwMDAwMDY3YTgyZmU1ZjJkYTEyOGYwMDhiZTUzNWVlNmEzMThi`

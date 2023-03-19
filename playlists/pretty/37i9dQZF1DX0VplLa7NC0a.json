@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 29983,
+  "num_followers": 30005,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMDYzNzViZGM3OTk1MzkxZDFlOTAwZTE4ODUzNjdjMjAw",
+  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMGIyODUyOWMxYjJiYWMzZjY3ZjUzZDBjZTViYjQ3Njhj",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -559,6 +559,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: String Sonatas Nos. 1- 3",
+        "url": "https://open.spotify.com/album/2QK2kTzIja5lXsgJSJkl3p"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Sonata for Strings No. 2 in A Major: I. Allegro",
+      "url": "https://open.spotify.com/track/577x8UR0DjTe4YqYEMndHh"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: La gazza ladra (Live)",
         "url": "https://open.spotify.com/album/2Yr7ygE0GfrjGutqpLLtNl"
       },
@@ -647,30 +671,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: String Sonatas Nos. 1- 3",
-        "url": "https://open.spotify.com/album/2QK2kTzIja5lXsgJSJkl3p"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Hungarian Virtuosi",
-          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
-        },
-        {
-          "name": "Tam\u00e1s Benedek",
-          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Sonata for Strings No. 2 in A Major: I. Allegro",
-      "url": "https://open.spotify.com/track/577x8UR0DjTe4YqYEMndHh"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Sonatas for Strings Nos. 4-6",
         "url": "https://open.spotify.com/album/27aPo3i0FEH9zbUdkC2Re4"
       },
@@ -691,30 +691,6 @@
       "duration_ms": 335946,
       "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro",
       "url": "https://open.spotify.com/track/5x28hgrb0v1oav4D9ZCUiS"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bruno Bartoletti",
-          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
-      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -763,6 +739,30 @@
       "duration_ms": 239493,
       "name": "Introduction, Theme and Variations for Clarinet and Orchestra in E-Flat Major - Cadenza: Charles Neidich: Introduzione: Andante (sostenuto)",
       "url": "https://open.spotify.com/track/7sJExZ0lqrwadGrY9kCOYg"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
+      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -851,6 +851,26 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Piano Music, Vol. 2",
+        "url": "https://open.spotify.com/album/46uZRK8JhoS9l68mlTg6tK"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 322773,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 6, Album pour les enfants degourdis: No. 8, Barcarole",
+      "url": "https://open.spotify.com/track/639PRjO7vTYwX0HbAsD6Y6"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "The Spectacular Voice of Marilyn Horne",
         "url": "https://open.spotify.com/album/44vDKyQpP96DJw1cWVzaS1"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 452000,
       "name": "La Cenerentola / Act 2: \"Nacqui all'affanno e al pianto...Non pi\u00f9 mesta\"",
       "url": "https://open.spotify.com/track/10pr0TJcYy0vW9p18BlpHd"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Piano Music, Vol. 2",
-        "url": "https://open.spotify.com/album/46uZRK8JhoS9l68mlTg6tK"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
-        }
-      ],
-      "duration_ms": 322773,
-      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 6, Album pour les enfants degourdis: No. 8, Barcarole",
-      "url": "https://open.spotify.com/track/639PRjO7vTYwX0HbAsD6Y6"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        }
-      ],
-      "duration_ms": 356653,
-      "name": "Stabat Mater: III. Quis est homo (Duet)",
-      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Il Barbiere di Siviglia",
         "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
       },
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "duration_ms": 356653,
+      "name": "Stabat Mater: III. Quis est homo (Duet)",
+      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Complete Overtures, Vol. 4",
         "url": "https://open.spotify.com/album/68KJcjZbLWI1YpCodH8Ixa"
       },
@@ -1327,6 +1327,34 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Guillaume Tell",
+        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Mady Mespl\u00e9/Jocelyne Taillon/Gabriel Bacquier/Nicolai Gedda/Ambrosian Opera Chorus/Royal Philharmonic Orchestra/Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2oWtyQmV2AlLKqbncuTPaL"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Rossini: Guillaume Tell, Act 4 Scene 11: \"Pourquoi ta presence, \u00f4 mon p\u00e8re! ... Tout change et grandit en ces lieux!\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Chorus)",
+      "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Il viaggio a Reims (Live)",
         "url": "https://open.spotify.com/album/0RyJFGQC2NUpRSvw4k3yOX"
       },
@@ -1355,34 +1383,6 @@
       "duration_ms": 199706,
       "name": "Il viaggio a Reims: Scene 12: Dell'alma diva (Sidney, Chorus)",
       "url": "https://open.spotify.com/track/3ESfBgceeLaN3s38s5MPAt"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Guillaume Tell",
-        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Mady Mespl\u00e9/Jocelyne Taillon/Gabriel Bacquier/Nicolai Gedda/Ambrosian Opera Chorus/Royal Philharmonic Orchestra/Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/2oWtyQmV2AlLKqbncuTPaL"
-        },
-        {
-          "name": "Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Rossini: Guillaume Tell, Act 4 Scene 11: \"Pourquoi ta presence, \u00f4 mon p\u00e8re! ... Tout change et grandit en ces lieux!\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Chorus)",
-      "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1487,6 +1487,34 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 308200,
+      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
+      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Semiramide",
         "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
       },
@@ -1567,34 +1595,6 @@
       "duration_ms": 227813,
       "name": "2 Nouvelles compositions: No. 1, \u00c0 Grenade",
       "url": "https://open.spotify.com/track/7iZLJBIdSEj4cCNkIkYDoY"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        }
-      ],
-      "duration_ms": 308200,
-      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
-      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
     },
     {
       "added_at": "2022-06-28 08:38:32",

@@ -1847,6 +1847,28 @@
     },
     {
       "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "Coco Chanel",
+      "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
+    },
+    {
+      "album": {
         "name": "Hasta el Fin Del Mundo",
         "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
@@ -2396,7 +2418,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
@@ -2790,6 +2812,24 @@
       "duration_ms": 203506,
       "name": "EL BARCO",
       "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
+    },
+    {
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125124,
+      "name": "El Hokage",
+      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
     },
     {
       "album": {
@@ -3258,7 +3298,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -3768,6 +3808,28 @@
       "duration_ms": 182610,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
+    },
+    {
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197374,
+      "name": "Gladiador - Remix",
+      "url": "https://open.spotify.com/track/1IbYD5V9zCvkPfIPcWqerO"
     },
     {
       "album": {
@@ -4491,6 +4553,24 @@
     },
     {
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
+    },
+    {
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -4502,7 +4582,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
@@ -5182,7 +5262,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 159306,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
@@ -5634,7 +5714,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
@@ -5738,7 +5818,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 237473,
       "name": "Marisola - Remix",
       "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
@@ -5808,6 +5888,28 @@
       "duration_ms": 210986,
       "name": "MA\u00d1ANA SER\u00c1 BONITO",
       "url": "https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH"
+    },
+    {
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237344,
+      "name": "Mbapp\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/1T6CF1qnG0hK0absyeVL5H"
     },
     {
       "album": {
@@ -5902,7 +6004,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -6202,7 +6304,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 252162,
       "name": "Mojando Asientos (feat. Feid)",
       "url": "https://open.spotify.com/track/6lV9cTvioGWqRXSgfjAUGL"
@@ -6286,7 +6388,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
@@ -6969,6 +7071,24 @@
     },
     {
       "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219751,
+      "name": "Padre Tiempo",
+      "url": "https://open.spotify.com/track/1PtXtGJSDKTkB5urVEZ7rf"
+    },
+    {
+      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -7358,6 +7478,36 @@
       "duration_ms": 250906,
       "name": "Persia - Remix",
       "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
+    },
+    {
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217954,
+      "name": "Peso a Peso",
+      "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
     },
     {
       "album": {
@@ -8105,6 +8255,24 @@
     },
     {
       "album": {
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+    },
+    {
+      "album": {
         "name": "Residente: Bzrp Music Sessions, Vol. 49",
         "url": "https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj"
       },
@@ -8535,6 +8703,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
+    },
+    {
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
       },
@@ -8633,6 +8819,28 @@
     },
     {
       "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Si La Calle Llama - Remix",
+      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+    },
+    {
+      "album": {
         "name": "Si Quieren Frontear",
         "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
       },
@@ -8656,6 +8864,28 @@
       "duration_ms": 200337,
       "name": "Si Quieren Frontear",
       "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
+    },
+    {
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201535,
+      "name": "Si Salimos",
+      "url": "https://open.spotify.com/track/7GfQEUSuqYGeY2L0BfVOXM"
     },
     {
       "album": {
@@ -9202,7 +9432,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -9564,7 +9794,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 196412,
       "name": "Un Coco",
       "url": "https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk"
@@ -9892,7 +10122,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 180672,
       "name": "VISTA AL MAR",
       "url": "https://open.spotify.com/track/5q86iSKkBtOoNkdgEDY5WV"
@@ -10428,6 +10658,24 @@
       "duration_ms": 191920,
       "name": "ZONA DEL PERREO",
       "url": "https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP"
+    },
+    {
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155750,
+      "name": "\u00bfQu\u00e9 Carajos Quieres T\u00fa Ahora?",
+      "url": "https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Las Mar\u00edas en portada.",
-  "num_followers": 383158,
+  "num_followers": 383384,
   "original_name": "Norte\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGEyMTZlNWIwMWM4OGY0NjNkZTNhM2Q1YzQ0MjM3MzJj",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGZlNzM3MWJmZTE1NzBhMDU5OTUxODliMDkxMzQyYmU5",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Soy El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 222669,
-      "name": "Soy El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 178050,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Direcci\u00f3n Equivocada",
-        "url": "https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Direcci\u00f3n Equivocada",
-      "url": "https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Direcci\u00f3n Equivocada",
+        "url": "https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Direcci\u00f3n Equivocada",
+      "url": "https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Y As\u00ed Suena el 3030",
+        "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+        }
+      ],
+      "duration_ms": 179610,
+      "name": "El Jami",
+      "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "M\u00e1s Muerto Que Vivo",
         "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 213221,
       "name": "M\u00e1s Muerto Que Vivo",
       "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Y As\u00ed Suena el 3030",
-        "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
-        }
-      ],
-      "duration_ms": 179610,
-      "name": "El Jami",
-      "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 135247,
-      "name": "El Compa Carlos - En Vivo",
-      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "El Fen\u00f3meno",
         "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 162400,
       "name": "As\u00ed Ya No",
       "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 135247,
+      "name": "El Compa Carlos - En Vivo",
+      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
     },
     {
       "added_at": "2023-03-10 05:00:00",

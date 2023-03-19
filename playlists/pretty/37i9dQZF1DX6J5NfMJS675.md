@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,174,163 likes - 60 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,175,217 likes - 60 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

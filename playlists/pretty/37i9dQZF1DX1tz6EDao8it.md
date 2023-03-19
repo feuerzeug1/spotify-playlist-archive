@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,224 likes - 81 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,818 likes - 81 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 
 > Warm, inspirational pop, that's good at heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,906 likes - 68 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,977 likes - 68 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 | 63 | [By The Grace Of God](https://open.spotify.com/track/2IRK3qdY6BzbKxKr8eBk8o) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 4:27 |
 | 64 | [Good In Me](https://open.spotify.com/track/0p4K6vPDV2bnwCK1hihpt7) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good In Me](https://open.spotify.com/album/7yQrM7GtpRyxvJyXcE351Z) | 3:01 |
 | 65 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 |
-| 66 | [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 |
+| 66 | [Pray](https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:41 |
 | 67 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
 | 68 | [You Are Not Alone](https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [You Are Not Alone](https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx) | 2:45 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDA5OTA4NWExYjE2ZGNiNDkwYjZlMDM2NGNlNmFlZmY0`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGEzZjM0YzVhNWZiMThlZDZmYTM5MTBmNDBmZmY3ODE5`

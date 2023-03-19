@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-849 songs - 2 day 2 hr 22 min
+850 songs - 2 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Aika](https://open.spotify.com/track/6A3ObfWqITF7hnfnwJFasZ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Aika](https://open.spotify.com/album/62w4aNA0XYwzfCkekH7wJQ) | 2:53 | 2022-03-24 | 2022-04-21 |
 | [Alaska](https://open.spotify.com/track/0x1nOGuuxzd8lhJCw7hbHO) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Alaska](https://open.spotify.com/album/6Ank0OEOGBECg03QfyRbaN) | 2:21 | 2023-01-02 |  |
 | [Alaska](https://open.spotify.com/track/3Ek7jLGOKPmLeILZDWJw09) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Alaska](https://open.spotify.com/album/2uEU5UuZZ57MRlKRMuxN45) | 2:21 | 2021-12-21 | 2022-12-26 |
+| [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-17 |  |
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2022-07-08 |  |
 | [All the Pretty Girls](https://open.spotify.com/track/2eiY8qXiV6yReXSeuoplns) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [All the Pretty Girls](https://open.spotify.com/album/4Q4O06TIoYrl7zzVIOq3OF) | 4:29 | 2022-03-24 | 2022-04-20 |
 | [All These Years \- Acoustic](https://open.spotify.com/track/2LnU1vGhTzfY07720ZUiEK) | [Eva + Manu](https://open.spotify.com/artist/2B5sOQQiIaNLa07zalNGpe) | [All These Years \(Acoustic\)](https://open.spotify.com/album/4X1bCoqcsWI030jsjVX8uI) | 4:12 | 2022-02-03 | 2022-07-26 |
@@ -54,7 +55,7 @@
 | [Better Now](https://open.spotify.com/track/0YZMnz55bPSAYriyvujv41) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Better Now](https://open.spotify.com/album/2sQtAa8qvNEAdKwYgzmVPI) | 3:18 | 2021-12-21 | 2022-07-29 |
 | [Better Now](https://open.spotify.com/track/0cmCJXoVxi0sUDyzlWMw1m) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [No One Else Can Wear Your Crown \(Deluxe\)](https://open.spotify.com/album/2PERPMWWY1pchfPKeNUJx8) | 3:18 | 2022-07-08 |  |
 | [Better Now](https://open.spotify.com/track/5UkAKOxSAIa9GVgXbJKz7T) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Better Now](https://open.spotify.com/album/1XDF06BnrFhW9VOxdncZPI) | 4:32 | 2021-12-21 | 2022-07-29 |
-| [Better Than Today](https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 3:49 | 2022-07-08 |  |
+| [Better Than Today](https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 3:49 | 2022-07-08 | 2023-03-19 |
 | [Better Than Today](https://open.spotify.com/track/6MLHg35rlksBc5OBcdZvJi) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Better Than Today](https://open.spotify.com/album/0GPUPlsmyjRLwBKlWNPW3T) | 3:50 | 2022-01-07 | 2022-07-29 |
 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2021-12-21 |  |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2022-07-08 |  |

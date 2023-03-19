@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > Disfrutemos del amor en los tiempos del rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,983 likes - 116 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,107 likes - 116 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

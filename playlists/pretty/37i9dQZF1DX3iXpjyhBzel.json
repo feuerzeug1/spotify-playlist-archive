@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Bruna Karla, Gabriel Guedes de Almeida",
-  "num_followers": 909079,
+  "num_followers": 909411,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDY0ZTk4OWY5NDliZjllODI5MjE3ZDNhOTZjODZlZjY1",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGE0YTEwNGQ4OTU3N2NkNTc4ODc1NDhkMGRkYjQxOGU4",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Voc\u00ea \u00e9 Precioso",
-        "url": "https://open.spotify.com/album/3luf1k9pVj09Xbe8YYExQr"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 262896,
-      "name": "Voc\u00ea \u00e9 Precioso",
-      "url": "https://open.spotify.com/track/12yoDN22yFACeVgyz9XQuN"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Momentos (Vol.1)",
         "url": "https://open.spotify.com/album/5OBBURED8xXfMnTSeraLrY"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 522461,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/2EMy05KEE6JLDUSvnklzk6"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Voc\u00ea \u00e9 Precioso",
+        "url": "https://open.spotify.com/album/3luf1k9pVj09Xbe8YYExQr"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 262896,
+      "name": "Voc\u00ea \u00e9 Precioso",
+      "url": "https://open.spotify.com/track/12yoDN22yFACeVgyz9XQuN"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Minha Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 307250,
-      "name": "Refinador (Refiner)",
-      "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 292755,
       "name": "Nada Pode Calar Um Adorador",
       "url": "https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Minha Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 307250,
+      "name": "Refinador (Refiner)",
+      "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 453941,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 658333,
       "name": "Casinha Favorita",
       "url": "https://open.spotify.com/track/0M3B9SP1tUSu3uuwjz07PH"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "duration_ms": 453941,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "A Resposta",
-        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 265565,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Romanos 8:26 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Vai Ter Vida A\u00ed",
-        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
+        "name": "A Resposta",
+        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
       },
       "artists": [
         {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 270512,
-      "name": "Vai Ter Vida A\u00ed",
-      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
+      "duration_ms": 265565,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1239,6 +1223,22 @@
       "duration_ms": 269840,
       "name": "Outro Na Fornalha (Another In The Fire) - Ao Vivo",
       "url": "https://open.spotify.com/track/50RxCp8dmcpd5P66b95u68"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Vai Ter Vida A\u00ed",
+        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 270512,
+      "name": "Vai Ter Vida A\u00ed",
+      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Cordeiro que Venceu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 410347,
-      "name": "Cordeiro que Venceu - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Seu Amor Me Persegue",
         "url": "https://open.spotify.com/album/3a72jnT08o12FlWkSzdHAO"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Oferta Agrad\u00e1vel a Ti (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7vEFU7qP9JvE468fXZyKqi"
+        "name": "Cordeiro que Venceu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
         }
       ],
-      "duration_ms": 232702,
-      "name": "Oferta Agrad\u00e1vel a Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/7LTeDQa9T63zjNdOUw7xw9"
+      "duration_ms": 410347,
+      "name": "Cordeiro que Venceu - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 386420,
       "name": "Com Muito Louvor (Ao Vivo)",
       "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Oferta Agrad\u00e1vel a Ti (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7vEFU7qP9JvE468fXZyKqi"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 232702,
+      "name": "Oferta Agrad\u00e1vel a Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/7LTeDQa9T63zjNdOUw7xw9"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Tu E\u0301s Fiel",
-        "url": "https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        }
-      ],
-      "duration_ms": 301276,
-      "name": "Tu E\u0301s Fiel",
-      "url": "https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Rei da Gl\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbdZIKpJM32CHylgpB851"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 513505,
       "name": "Rei da Gl\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/7xJTjQuvpicM3FsnbaoDb6"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Tu E\u0301s Fiel",
+        "url": "https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "duration_ms": 301276,
+      "name": "Tu E\u0301s Fiel",
+      "url": "https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v"
     },
     {
       "added_at": "2023-03-17 03:00:00",

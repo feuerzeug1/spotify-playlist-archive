@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,292 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,290 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 5 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
 | 6 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
 | 7 | [Fine Again](https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:03 |
-| 8 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 |
-| 9 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
+| 8 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
+| 9 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 |
 | 10 | [I Sat by the Ocean](https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 |
 | 11 | [T\-Shirt Weather](https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM) | 3:12 |
 | 12 | [Cochise](https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 3:42 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 44 | [Badillac](https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 2:27 |
 | 45 | [Floating Vibes](https://open.spotify.com/track/6UDYTfeSS4IVbJeHTaMxxA) | [Surfer Blood](https://open.spotify.com/artist/0IlQRCafsMrd0QkTRBU6n0) | [Astro Coast](https://open.spotify.com/album/62G9kmLUjDoqkYBsPHwp42) | 3:54 |
 | 46 | [The Boy](https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Onion](https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W) | 3:02 |
-| 47 | [Leash \- Remastered](https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:08 |
-| 48 | [Medication](https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 1:54 |
+| 47 | [Medication](https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 1:54 |
+| 48 | [Leash \- Remastered](https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:08 |
 | 49 | [Blood Under My Belt](https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Abysmal Thoughts](https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw) | 3:48 |
 | 50 | [Ride A White Swan](https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx) | 2:11 |
 | 51 | [Space Cadet](https://open.spotify.com/track/3bkP8LtaC6fWnBPkuqDlQa) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Loopholes](https://open.spotify.com/album/3Jwlm2yPSjIld9S1sCNw4G) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Modern Art](https://open.spotify.com/track/3sBNYkUaAiipWECiLdmzJd) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Arabia Mountain](https://open.spotify.com/album/0ShlY0YGl6XAtBS9ltsV9G) | 2:04 |
 | 60 | [Tall Man Skinny Lady](https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa) | 4:02 |
 
-Snapshot ID: `MTY0ODA1MDUxNSwwMDAwMDAwMGRlM2ViZjYwOWI4MzBjNjM0NDZhYWQxMTY1MTkwMGIy`
+Snapshot ID: `MTY0ODA1MDUxNSwwMDAwMDAwMDJhNWZkOTczZjgyNzRiZDlkYTU5YzZkZDAxMDlmNTk4`

@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 451326,
+  "num_followers": 451540,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxNjYxOCwwMDAwMDAwMDIwMmI0MTE2MzE2YmI2N2EyYTNlNzNjY2IxNTZiMDUz",
+  "snapshot_id": "MTY3NzgxNjYxOCwwMDAwMDAwMDNjMDA5YzRlMTg2ZDVlMzFhNGZhODFlZDM2YzA4ZDRl",
   "tracks": [
     {
       "added_at": "2023-02-24 10:30:29",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-24 10:30:29",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
-        "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "With me",
-      "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
-    },
-    {
-      "added_at": "2023-02-24 10:30:29",
-      "album": {
         "name": "I`m In Love",
         "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 197000,
       "name": "I`m In Love",
       "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
+    },
+    {
+      "added_at": "2023-02-24 10:30:29",
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "With me",
+      "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
     },
     {
       "added_at": "2023-02-24 10:30:29",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-02-24 10:30:29",
       "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Lovey Dovey (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2023-02-24 10:30:29",
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 215795,
       "name": "Love like that",
       "url": "https://open.spotify.com/track/1nY4Op7iJyyRAxRdzgpy4G"
-    },
-    {
-      "added_at": "2023-02-24 10:30:29",
-      "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Lovey Dovey (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
     },
     {
       "added_at": "2023-02-24 10:30:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-24 10:30:29",
       "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
-      },
-      "artists": [
-        {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
-    },
-    {
-      "added_at": "2023-02-24 10:30:29",
-      "album": {
         "name": "Only U",
         "url": "https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2023-02-24 10:30:29",
       "album": {
-        "name": "NOBODY",
-        "url": "https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8"
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
       },
       "artists": [
         {
-          "name": "Blue.D",
-          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
-        },
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
         }
       ],
-      "duration_ms": 201183,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l"
+      "duration_ms": 171333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
     },
     {
       "added_at": "2023-02-24 10:30:29",
@@ -851,18 +831,18 @@
     {
       "added_at": "2023-02-24 10:30:29",
       "album": {
-        "name": "grayground.",
-        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
+        "name": "Love to Hate You, Pt. 3 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx"
       },
       "artists": [
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 199578,
-      "name": "U",
-      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
+      "duration_ms": 200077,
+      "name": "Love to Hate You",
+      "url": "https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP"
     },
     {
       "added_at": "2023-02-24 10:30:29",
@@ -887,6 +867,42 @@
     {
       "added_at": "2023-02-24 10:30:29",
       "album": {
+        "name": "grayground.",
+        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "U",
+      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
+    },
+    {
+      "added_at": "2023-02-24 10:30:29",
+      "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8"
+      },
+      "artists": [
+        {
+          "name": "Blue.D",
+          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 201183,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l"
+    },
+    {
+      "added_at": "2023-02-24 10:30:29",
+      "album": {
         "name": "doodle",
         "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 187480,
       "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
       "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
-    },
-    {
-      "added_at": "2023-02-24 10:30:29",
-      "album": {
-        "name": "Love to Hate You, Pt. 3 (Original Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 200077,
-      "name": "Love to Hate You",
-      "url": "https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP"
     },
     {
       "added_at": "2023-02-24 10:30:29",

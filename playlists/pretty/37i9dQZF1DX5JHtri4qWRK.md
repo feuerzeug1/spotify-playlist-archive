@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 
 > R&B jams for the brokenhearted.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,414 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,425 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 26 | [I Don't Wanna Know \(feat\. Enya & P\. Diddy\) \- 2016 Remaster](https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt) | [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU), [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 4:17 |
 | 27 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
 | 28 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
-| 29 | [Rehab](https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:54 |
+| 29 | [How Do I Breathe](https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:36 |
 | 30 | [B.S\. \(feat\. H.E.R.\)](https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:32 |
-| 31 | [How Do I Breathe](https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:36 |
+| 31 | [Rehab](https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:54 |
 | 32 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
 | 33 | [Say Goodbye](https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 4:49 |
 | 34 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 79 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
 | 80 | [Make Me Cry](https://open.spotify.com/track/6zR3jAXgWCs9wmW1r4XGyk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Make Me Cry](https://open.spotify.com/album/71SoFumWoKRAZkH2ekWYpF) | 2:42 |
 | 81 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 |
-| 82 | [Hallucinations](https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 4:06 |
-| 83 | [We Gonna Take U Back \(Lude\) / Don't Leave Me](https://open.spotify.com/track/13oGc1Mi9niBlo5eTmgGMa) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:17 |
+| 82 | [We Gonna Take U Back \(Lude\) / Don't Leave Me](https://open.spotify.com/track/13oGc1Mi9niBlo5eTmgGMa) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:17 |
+| 83 | [Hallucinations](https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 4:06 |
 | 84 | [Torn](https://open.spotify.com/track/6GPiKalxD23rJirHKJm00X) | [LeToya](https://open.spotify.com/artist/5xenrbYhp4IRydrWpBe4Bx) | [Torn](https://open.spotify.com/album/0qEfwM5awxL1CIUXMDE1ah) | 4:09 |
 | 85 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 |
 | 86 | [Case Of The Ex \(Whatcha Gonna Do\)](https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Fear Of Flying](https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7) | 3:56 |
-| 87 | [I Bet](https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:47 |
-| 88 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
+| 87 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
+| 88 | [I Bet](https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:47 |
 | 89 | [Think About Me](https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 4:06 |
 | 90 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
 | 91 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
-| 92 | [Sober](https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Sober](https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0) | 4:26 |
-| 93 | [I Get Lonely](https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:17 |
+| 92 | [I Get Lonely](https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:17 |
+| 93 | [Sober](https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Sober](https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0) | 4:26 |
 | 94 | [No More \(Baby I'ma Do Right\)](https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2) | [3LW](https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa) | [3LW](https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7) | 4:23 |
 | 95 | [All I Have](https://open.spotify.com/track/1RQE33QW6K4YFKGPLHjbcC) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [10](https://open.spotify.com/album/7E2TsBS4jPmfdjjTRUJ9Hn) | 4:14 |
 | 96 | [Separated](https://open.spotify.com/track/5S0cvScXb33JVpjTiY9Ivi) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [My Thoughts](https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 99 | [If I Was Your Man](https://open.spotify.com/track/5PH2eU6P5LdnwDezBu8334) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Ain't Nothin' Like Me](https://open.spotify.com/album/0dd14CK6sAyTBse2l54qBi) | 3:52 |
 | 100 | [Tyrone \- Live](https://open.spotify.com/track/1MCem6JigI6jgQPMgriKbU) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 3:41 |
 
-Snapshot ID: `MTYzOTQ4NjYxNiwwMDAwMDAwMGY3M2EyYzQyNWQyZmVhODM3OTdiYzkxZDgzMmJiYjQ3`
+Snapshot ID: `MTYzOTQ4NjYxNiwwMDAwMDAwMGYyYzQ0ZTgyOWIyNzQyNzMyNGMzNjI5NGI5NTg2MjI4`

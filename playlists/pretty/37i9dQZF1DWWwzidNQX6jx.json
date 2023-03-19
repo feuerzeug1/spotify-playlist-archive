@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1635411,
+  "num_followers": 1636170,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NTY5MywwMDAwMDAwMGU2YzMzMWQzNDFkYzg3NTc5MmVjZjZjMDZiMThkMWYy",
+  "snapshot_id": "MTY3NDA3NTY5MywwMDAwMDAwMDU0ZDQyZmQ0NTIzMjllNTI4MzI0MWZhM2IyOTkzMjdk",
   "tracks": [
     {
       "added_at": "2023-01-18 21:01:33",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 382296,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Jailbreak (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 266720,
       "name": "The Boys Are Back In Town",
       "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 382296,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Dirty Deeds Done Dirt Cheap",
         "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 231933,
       "name": "Dirty Deeds Done Dirt Cheap",
       "url": "https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Get The Knack",
-        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
-      },
-      "artists": [
-        {
-          "name": "The Knack",
-          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "My Sharona",
-      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 274088,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 281231,
+      "name": "My Sweet Lord - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 281231,
-      "name": "My Sweet Lord - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "But Seriously, Folks...",
-        "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
-      },
-      "artists": [
-        {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
-        }
-      ],
-      "duration_ms": 536226,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 192773,
       "name": "Live And Let Die - 2018 Remaster",
       "url": "https://open.spotify.com/track/0VV8wkOM4w78A2OHZOTzNP"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "But Seriously, Folks...",
+        "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "duration_ms": 536226,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "All The Young Dudes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
-      },
-      "artists": [
-        {
-          "name": "Mott The Hoople",
-          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "All the Young Dudes",
-      "url": "https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "The Roaring Silence",
         "url": "https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 428133,
       "name": "Blinded By The Light",
       "url": "https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "All The Young Dudes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
+      },
+      "artists": [
+        {
+          "name": "Mott The Hoople",
+          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "All the Young Dudes",
+      "url": "https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX"
     },
     {
       "added_at": "2023-01-18 21:01:33",

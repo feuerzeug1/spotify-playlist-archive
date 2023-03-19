@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Lagum",
-  "num_followers": 418144,
+  "num_followers": 418167,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGM4ZDkxNTBjMjNlYTFhYWEyYTM5ZjY4ZDg5OWE2NDE0",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDg5MjBlMTU0NTA3NTg3NmUwMDM4YTE1YzI1MjUzNzgz",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "J\u00e1 ouviu falar de amor?",
+        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Terminei",
         "url": "https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "J\u00e1 ouviu falar de amor?",
-        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
-      },
-      "artists": [
-        {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Aquarela",
-      "url": "https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Lance ou Romance",
         "url": "https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Vem Meu Amor",
-        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 155738,
-      "name": "Vem Meu Amor",
-      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Folha",
         "url": "https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 197336,
       "name": "Folha",
       "url": "https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Vem Meu Amor",
+        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 155738,
+      "name": "Vem Meu Amor",
+      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "vida leve",
+        "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "vida leve",
+      "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Atalaia",
         "url": "https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q"
       },
@@ -1023,22 +1043,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "vida leve",
-        "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
+        "name": "\u00d3leo de Coco",
+        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
       },
       "artists": [
         {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        },
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
         }
       ],
-      "duration_ms": 156909,
-      "name": "vida leve",
-      "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
+      "duration_ms": 178666,
+      "name": "\u00d3leo de Coco",
+      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 241920,
       "name": "Tons De Blue - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "\u00d3leo de Coco",
-        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
-      },
-      "artists": [
-        {
-          "name": "Guil\u00e9",
-          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "\u00d3leo de Coco",
-      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Ano Que Vem",
+        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "duration_ms": 179656,
+      "name": "Ano Que Vem",
+      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Sozinha",
         "url": "https://open.spotify.com/album/4VFfEutHruRsemwroKwvZN"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 188271,
       "name": "Sozinha",
       "url": "https://open.spotify.com/track/0mdlrJL3gSIl7z8PA6rBET"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Ano Que Vem",
-        "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 179656,
-      "name": "Ano Que Vem",
-      "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
     },
     {
       "added_at": "2023-03-17 03:00:00",

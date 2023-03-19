@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,075 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,200 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 26 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
 | 27 | [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 |
 | 28 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
-| 29 | [King Curtis \- Edit](https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [King Curtis](https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J) | 3:46 |
-| 30 | [Sunrays](https://open.spotify.com/track/54wXdsqswPdmoMpxlDhRsm) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/1lW6V6LBuzGHECHFfjK6bB) | 3:51 |
+| 29 | [Sunrays](https://open.spotify.com/track/54wXdsqswPdmoMpxlDhRsm) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/1lW6V6LBuzGHECHFfjK6bB) | 3:51 |
+| 30 | [King Curtis \- Edit](https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [King Curtis](https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J) | 3:46 |
 | 31 | [Oh, Lover \- NTO Remix](https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Oh, Lover \(NTO Remix\)](https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N) | 5:16 |
 | 32 | [Forget You](https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 4:48 |
 | 33 | [Sumidero](https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sumidero](https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ) | 4:58 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 37 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 |
 | 38 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 |
 | 39 | [In The Morning \- Edit](https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [In The Morning](https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3) | 3:43 |
-| 40 | [Fjäll](https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Fjäll](https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1) | 5:15 |
-| 41 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
+| 40 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
+| 41 | [Fjäll](https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Fjäll](https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1) | 5:15 |
 | 42 | [Finja](https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Finja](https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg) | 3:38 |
 | 43 | [Haunt Me](https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me](https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3) | 4:59 |
 | 44 | [Immersion](https://open.spotify.com/track/41XnQQ4khqTurlAYXcuRqV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Immersion / Distance](https://open.spotify.com/album/2gBcnYz9kcl370rUijue7r) | 4:39 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 55 | [Holy \- Frank Wiedemann Remix](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
 | 56 | [Forever](https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Forever](https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X) | 3:12 |
 | 57 | [The Center Will Not Hold](https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [The Center Will Not Hold](https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S) | 3:50 |
-| 58 | [I Won't Be](https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [I Won't Be](https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5) | 3:32 |
-| 59 | [Sky Is the Limit \- Edit](https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7) | [Westbam/ML](https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE), [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Sky Is the Limit](https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby) | 3:43 |
+| 58 | [Sky Is the Limit \- Edit](https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7) | [Westbam/ML](https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE), [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Sky Is the Limit](https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby) | 3:43 |
+| 59 | [I Won't Be](https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [I Won't Be](https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5) | 3:32 |
 | 60 | [Need To Feel Loved \- Nils Hoffmann Remix](https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Need To Feel Loved \(Nils Hoffmann Remix\)](https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH) | 3:44 |
 | 61 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
 | 62 | [Get Down \- Short Edit](https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw) | [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [False Gods EP \(Short Edits\)](https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4) | 3:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 |
 | 70 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
 
-Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMGUzZDE4OWI3M2MzZjljZjc5Nzg2ODcwMDM5ZjZjNGJi`
+Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMDRlN2MxMzQ0OTY1YmM4NzNkZDMyZWE2NTYyM2Q4YjAx`

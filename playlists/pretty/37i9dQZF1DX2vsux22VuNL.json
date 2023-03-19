@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Papatinho, Xam\u00e3",
-  "num_followers": 263125,
+  "num_followers": 263269,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDgxNmNhNzIyMTA5YjEwNTFjZTBkOGY2NmIxNjRkZDYw",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGMzN2FiOGQxYjczZGVkNmRjMDFjZmM5N2IyYmZjYjgz",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -787,34 +787,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Toda Mal\u00e9vola",
-        "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
-      },
-      "artists": [
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
-        }
-      ],
-      "duration_ms": 196691,
-      "name": "Toda Mal\u00e9vola",
-      "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7"
       },
@@ -839,6 +811,34 @@
       "duration_ms": 194157,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Toda Mal\u00e9vola",
+        "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "duration_ms": 196691,
+      "name": "Toda Mal\u00e9vola",
+      "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Vai e Vem",
-        "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
-      },
-      "artists": [
-        {
-          "name": "Giana",
-          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
-        }
-      ],
-      "duration_ms": 154060,
-      "name": "Vai e Vem",
-      "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 221262,
       "name": "Eu Tive um Sonho - Ao Vivo",
       "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Vai e Vem",
+        "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
+      },
+      "artists": [
+        {
+          "name": "Giana",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        }
+      ],
+      "duration_ms": 154060,
+      "name": "Vai e Vem",
+      "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "PAIRAR\u00c1",
-        "url": "https://open.spotify.com/album/4LUSJnaImzU16fl6XvcV5W"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "PAIRAR\u00c1",
-      "url": "https://open.spotify.com/track/2bNqAao6TzjdRluD0dCwqy"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Flores e Ra\u00edzes",
         "url": "https://open.spotify.com/album/0mrcfLnnlLOFUuDSZTDc7C"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 225898,
       "name": "Roda Gigante",
       "url": "https://open.spotify.com/track/27fmExabEQJg00wcotSRIb"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "PAIRAR\u00c1",
+        "url": "https://open.spotify.com/album/4LUSJnaImzU16fl6XvcV5W"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "PAIRAR\u00c1",
+      "url": "https://open.spotify.com/track/2bNqAao6TzjdRluD0dCwqy"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Joga Menino",
-        "url": "https://open.spotify.com/album/1DbynDmqrlilv8DnMlgV2B"
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
       },
       "artists": [
         {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
         },
         {
-          "name": "Dj Paulo Beck",
-          "url": "https://open.spotify.com/artist/48pbGAcl4qnIULDoDpQ0tb"
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 215999,
-      "name": "Joga Menino",
-      "url": "https://open.spotify.com/track/1v1VMOiUiom4xqJuiqwuOE"
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+        "name": "Joga Menino",
+        "url": "https://open.spotify.com/album/1DbynDmqrlilv8DnMlgV2B"
       },
       "artists": [
         {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "Dj Paulo Beck",
+          "url": "https://open.spotify.com/artist/48pbGAcl4qnIULDoDpQ0tb"
         }
       ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+      "duration_ms": 215999,
+      "name": "Joga Menino",
+      "url": "https://open.spotify.com/track/1v1VMOiUiom4xqJuiqwuOE"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Pra Voc\u00ea e pra Mim",
-        "url": "https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X"
-      },
-      "artists": [
-        {
-          "name": "Tayla Duarte",
-          "url": "https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY"
-        },
-        {
-          "name": "Arielly Porto",
-          "url": "https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Pra Voc\u00ea e pra Mim",
-      "url": "https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Eu vim pra Somar",
         "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 223448,
       "name": "Eu vim pra Somar",
       "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Pra Voc\u00ea e pra Mim",
+        "url": "https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X"
+      },
+      "artists": [
+        {
+          "name": "Tayla Duarte",
+          "url": "https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY"
+        },
+        {
+          "name": "Arielly Porto",
+          "url": "https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Pra Voc\u00ea e pra Mim",
+      "url": "https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7AENuMg8D1Xgkga8bRkrjt"
+      },
+      "artists": [
+        {
+          "name": "Ley",
+          "url": "https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP"
+        }
+      ],
+      "duration_ms": 219314,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/6yNQaFKrTVb1vYHjFTyoRt"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Livro Aberto",
         "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 196559,
       "name": "Livro Aberto",
       "url": "https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7AENuMg8D1Xgkga8bRkrjt"
-      },
-      "artists": [
-        {
-          "name": "Ley",
-          "url": "https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP"
-        }
-      ],
-      "duration_ms": 219314,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/6yNQaFKrTVb1vYHjFTyoRt"
     },
     {
       "added_at": "2023-03-17 03:00:00",

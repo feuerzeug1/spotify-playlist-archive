@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1980s.",
-  "num_followers": 10093731,
+  "num_followers": 10096534,
   "original_name": "All Out 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDJhZmY5NmMwNDcxMWVkNTIxNDdhNzQ3ZGEyNThmYzNh",
+  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDc4OGQ1YTgzZWJmMzc1YzYxY2RmNjRmZTJhY2UwOWM2",
   "tracks": [
     {
       "added_at": "2023-02-02 20:37:09",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You - Remastered",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295515,
-      "name": "With Or Without You - Remastered",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -591,22 +575,6 @@
       "duration_ms": 277476,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
-        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
-      },
-      "artists": [
-        {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -627,6 +595,22 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Smooth Criminal - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Smooth Criminal - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "What a Feelin'",
         "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 237053,
       "name": "Flashdance...What a Feeling - Radio Edit",
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Chicago 17 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "You're the Inspiration - 2006 Remaster",
-      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Bon Jovi",
         "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
       },
@@ -1827,34 +1811,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "Chicago 17 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 242733,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+      "duration_ms": 229240,
+      "name": "You're the Inspiration - 2006 Remaster",
+      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1875,6 +1843,22 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+        "name": "Arthur - The Album [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 218960,
-      "name": "Hurts So Good",
-      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+      "duration_ms": 234493,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2083,18 +2083,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Arthur - The Album [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Arthur's Theme (Best That You Can Do)",
-      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2131,18 +2131,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
       "artists": [
         {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
         }
       ],
-      "duration_ms": 241080,
-      "name": "Gimme All Your Lovin'",
-      "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2163,18 +2163,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
       },
       "artists": [
         {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+      "duration_ms": 241080,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "The Traveling Wilburys, Vol. 1",
-        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
-      },
-      "artists": [
-        {
-          "name": "Traveling Wilburys",
-          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "End Of The Line",
-      "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "A New Flame (Expanded Version)",
         "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 204000,
       "name": "If You Don't Know Me by Now - 2008 Remaster",
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -2367,22 +2383,6 @@
       "duration_ms": 269760,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2023-02-02 20:37:09",

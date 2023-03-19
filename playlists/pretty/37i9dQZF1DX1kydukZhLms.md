@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,451 likes - 110 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,131 likes - 110 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 16 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
 | 17 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 |
 | 18 | [Knockin' On Heaven's Door](https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:36 |
-| 19 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
-| 20 | [18 and Life](https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:49 |
+| 19 | [18 and Life](https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:49 |
+| 20 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
 | 21 | [Send Me An Angel](https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:33 |
 | 22 | [Home Sweet Home](https://open.spotify.com/track/2C0hJUVjp7FSchyhYiceJq) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain \(2021 \- Remaster\)](https://open.spotify.com/album/4ns4vxdkk4PdkneLNfJL52) | 3:59 |
 | 23 | [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 |
 | 24 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 |
 | 25 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
 | 26 | [Bad Company](https://open.spotify.com/track/7uIF6RDrW2PwvvYEMkanr8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 4:22 |
-| 27 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 |
-| 28 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
+| 27 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
+| 28 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 |
 | 29 | [Amazing](https://open.spotify.com/track/6beFuzSjwhOKFZp2aqYDdY) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:56 |
 | 30 | [To Be With You \- 2010 Remastered Version](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 |
 | 31 | [Never Say Goodbye](https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:48 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 75 | [Another Day](https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 4:23 |
 | 76 | [Without You](https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:30 |
 | 77 | [Promises](https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:28 |
-| 78 | [Beyond the Realms of Death](https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Stained Class](https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297) | 6:49 |
-| 79 | [Wasted Time](https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 5:48 |
+| 78 | [Wasted Time](https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 5:48 |
+| 79 | [Beyond the Realms of Death](https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Stained Class](https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297) | 6:49 |
 | 80 | [I Won't Forget You \- Remastered](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 |
 | 81 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 |
 | 82 | [Blue on Black](https://open.spotify.com/track/1ADRAy7q7FjRak0uQva68H) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 4:34 |
@@ -111,12 +111,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 101 | [Fall to Pieces](https://open.spotify.com/track/4A9O9e4iTm4bYnOPSzWaGb) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/5pJSDIgzal89ksQUzcGGFE) | 4:31 |
 | 102 | [Love Me Forever](https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 5:27 |
 | 103 | [Before the Dawn](https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:23 |
-| 104 | [You're All I Need](https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(2021 \- Remaster\)](https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0) | 4:33 |
+| 104 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
 | 105 | [I Still Love You \- 2022 Remastered](https://open.spotify.com/track/5InrTlQeClBr55lHREONCp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 6:06 |
-| 106 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
+| 106 | [You're All I Need](https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(2021 \- Remaster\)](https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0) | 4:33 |
 | 107 | [Blood And Tears](https://open.spotify.com/track/1Gt07aYIpl5yJcTbH95s7v) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig II: Lucifuge](https://open.spotify.com/album/3kPaVfOEEHBDOoAbOMWvRS) | 4:19 |
 | 108 | [Lazarus](https://open.spotify.com/track/0OtXJQBLb7wPXL2XyN2cFW) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Deadwing](https://open.spotify.com/album/2oQE67Gnc1GoMqoumvjPwN) | 4:18 |
-| 109 | [Wuthering Heights](https://open.spotify.com/track/18d4wrjIe06xx5O5b7OfAu) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Angels Cry](https://open.spotify.com/album/1VYp1m8Eo4AApycV8S44a7) | 4:39 |
-| 110 | [Ohne dich](https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 4:31 |
+| 109 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
+| 110 | [Wuthering Heights](https://open.spotify.com/track/18d4wrjIe06xx5O5b7OfAu) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Angels Cry](https://open.spotify.com/album/1VYp1m8Eo4AApycV8S44a7) | 4:39 |
 
-Snapshot ID: `MTY3NTY3NzgwMywwMDAwMDAwMDVjYjhhYmEzMjc5NGM3OTZlYjJiNTJlNzkyNjRlYjQy`
+Snapshot ID: `MTY3NTY3NzgwMywwMDAwMDAwMGI4ZmNmMzAwZTA1MzEwNGJkNWU0NDQyYWNjMDA4YWNh`

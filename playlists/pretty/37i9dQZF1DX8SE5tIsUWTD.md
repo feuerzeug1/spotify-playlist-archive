@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 
 > A playlist for your Arab hipster starter kit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,904 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,965 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 11 | [Argos Farfish](https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 4:38 |
 | 12 | [Agricultural Revolution](https://open.spotify.com/track/2zKv5S3cllj2aGXZbX4N9V) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs) | 5:07 |
 | 13 | [La silence des cendres](https://open.spotify.com/track/3mpuDiQ0brVA4D1mT6wwL8) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F) | 3:14 |
-| 14 | [Rouhi Ya Hafida](https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS) | [Mallek Mohamed](https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 4:02 |
+| 14 | [Ana Damir El Motakallim](https://open.spotify.com/track/7JNyr6lS7KF2m2we2HEfZI) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/2NNnJv16YTWTCF0KS7o9V4) | 11:42 |
 | 15 | [Alech](https://open.spotify.com/track/5IMvEsOBkkOAGzjgOniDsj) | [Carthago](https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU) | [Alech \(Habibi Funk 004\)](https://open.spotify.com/album/5FA03xFVBdvnFN2F0eJVfn) | 3:26 |
-| 16 | [Ana Damir El Motakallim](https://open.spotify.com/track/7JNyr6lS7KF2m2we2HEfZI) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/2NNnJv16YTWTCF0KS7o9V4) | 11:42 |
+| 16 | [Rouhi Ya Hafida](https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS) | [Mallek Mohamed](https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 4:02 |
 | 17 | [Mafatshi Leh](https://open.spotify.com/track/6XZx1hYWTccsszDqraXHSX) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd) | 2:50 |
 | 18 | [Egypt Strut](https://open.spotify.com/track/7IRDObySzzj0nd5ZyufbVm) | [Salah Ragab](https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq), [The Cairo Jazz Band](https://open.spotify.com/artist/0tFxRtUBDrWSRcHp9FwCCe) | [Egyptian Jazz](https://open.spotify.com/album/2qCSIYhyOQ8LJ8Dwc8Cmu0) | 4:55 |
 | 19 | [Sid Redad](https://open.spotify.com/track/2TXif9OdtUhylCUEgtUfLR) | [Fadoul](https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9) | [Al Zman Saib \(Habibi Funk 002\)](https://open.spotify.com/album/4GmHNGzQyJWr2sFZqvQTyZ) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 49 | [Mashena](https://open.spotify.com/track/5Fzmt3N3XnD3VhRE3XuQ6U) | [The Scorpios](https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe) | [Mashena](https://open.spotify.com/album/4X7Qt6Q6GudCAPGwycE6nt) | 3:09 |
 | 50 | [Albaki](https://open.spotify.com/track/1Ug0d2vHuOUL08MLZSMu8h) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/7Kr00uukmurII2uV76igym) | 7:06 |
 
-Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMGRlYzA2ZWQ5MjIzNGM4ZTg2YTFhMWYwZTU3ZWVkMGUy`
+Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMDMwYjdkMDM0Yzg4YWU3ODljMzQyY2QxMTUyZTczYWY3`

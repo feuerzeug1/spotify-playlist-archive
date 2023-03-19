@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Maaveeran
 
-559 songs - 1 day 10 hr 52 min
+560 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Beer Song \- From "Diesel"](https://open.spotify.com/track/6uHuw5ynf6PFpJ2adWprxu) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Rokesh](https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0) | [Beer Song \(From "Diesel"\)](https://open.spotify.com/album/26Iofa6BdXi6xDA7Z7hEIz) | 3:16 | 2023-02-13 | 2023-03-11 |
 | [Bejara](https://open.spotify.com/track/2jcYWhork4WHLogwgp1aKW) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D) | [Iravin Nizhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/322ATEabaGOKzXZUv9Ht7D) | 3:39 | 2022-07-15 | 2022-08-05 |
 | [Bejara](https://open.spotify.com/track/4FG0f1jh1VSgJ3j23B4VbF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D) | [Iravin Nizhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28ivRihqieVI2X7hf21buG) | 3:39 | 2022-06-06 | 2022-06-17 |
-| [Bikili](https://open.spotify.com/track/4p1IRIy1G20NuFi8HBc3Lb) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV) | [Bikili \(From "Pichaikkaran 2"\)](https://open.spotify.com/album/6ZjmelujZY2C5bHzs7DQhD) | 3:58 | 2023-03-17 |  |
+| [Bikili](https://open.spotify.com/track/4p1IRIy1G20NuFi8HBc3Lb) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV) | [Bikili \(From "Pichaikkaran 2"\)](https://open.spotify.com/album/6ZjmelujZY2C5bHzs7DQhD) | 3:58 | 2023-03-17 | 2023-03-19 |
+| [Bikili \(From "Pichaikkaran 2"\)](https://open.spotify.com/track/0z2uE6TNb6FOP1HBcFCh4a) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV) | [Bikili \(From "Pichaikkaran 2"\) \- Single](https://open.spotify.com/album/2Yn7g8dQzhnzRkExCzORHv) | 3:58 | 2023-03-17 |  |
 | [Bimbilikki Pilapi](https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Prince \(Tamil\)](https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA) | 4:07 | 2022-09-01 | 2023-02-21 |
 | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo) | 2:48 | 2023-02-03 |  |
 | [Bonding Song \(From "777 Charlie \- Tamil"\)](https://open.spotify.com/track/6GqtA9B6DedZwudl3zlLUC) | [Nobin Paul](https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Bonding Song \(From "777 Charlie \- Tamil"\)](https://open.spotify.com/album/7rZOBbCdUU9rHOpotc1xHq) | 4:28 | 2022-06-27 | 2022-07-18 |

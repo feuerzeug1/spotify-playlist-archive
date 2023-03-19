@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,617 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,734 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 32 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
 | 33 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
 | 34 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
-| 35 | [Buss It](https://open.spotify.com/track/25j0Sape7qZbq6ZPLFefTT) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Erica Banks](https://open.spotify.com/album/5d0diKuXWPHNxon86lnjOJ) | 3:07 |
-| 36 | [Barbie Dreams](https://open.spotify.com/track/6Poyf51k7W3NKnsGwAI90B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 4:39 |
+| 35 | [Barbie Dreams](https://open.spotify.com/track/6Poyf51k7W3NKnsGwAI90B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 4:39 |
+| 36 | [Buss It](https://open.spotify.com/track/25j0Sape7qZbq6ZPLFefTT) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Erica Banks](https://open.spotify.com/album/5d0diKuXWPHNxon86lnjOJ) | 3:07 |
 | 37 | [I Am \(feat\. Flo Milli\)](https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [After The Rain](https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6) | 3:02 |
 | 38 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
 | 39 | [Captain Hook](https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:56 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 45 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 | 46 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
 | 47 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
-| 48 | [Hungry Hippo](https://open.spotify.com/track/0WpDeBJ22LcwF4QoERQOTv) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Whack World](https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8) | 1:00 |
+| 48 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
 | 49 | [Eat It](https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:49 |
-| 50 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
+| 50 | [Hungry Hippo](https://open.spotify.com/track/0WpDeBJ22LcwF4QoERQOTv) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Whack World](https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8) | 1:00 |
 
-Snapshot ID: `MTY3NTM2NzAwMCwwMDAwMDAwMGZkYWQ5YzMwMWQ2NDZmMGU4NjczNGJjMGU5NjBmY2U5`
+Snapshot ID: `MTY3NTM2NzAwMCwwMDAwMDAwMDFiY2IwMDVhZDA0MDI5ZjY3YzNjZTI2NjUyODliMmMz`

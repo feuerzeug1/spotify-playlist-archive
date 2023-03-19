@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 100098,
+  "num_followers": 100135,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3NzY3MywwMDAwMDAwMDYzZWFmNWY0OGY4NGI5MzQwYTA0ZDc1MWE5MzgzYzcw",
+  "snapshot_id": "MTY3MzQ3NzY3MywwMDAwMDAwMDM4ZDY5Y2YzMmRiNDY1YjczNGE1MDhjY2NiMjdlZTY1",
   "tracks": [
     {
       "added_at": "2023-01-11 22:54:33",
@@ -492,6 +492,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
       "artists": [
@@ -512,17 +528,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
       },
       "artists": [
         {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+      "duration_ms": 146726,
+      "name": "I'll Call You Mine - Spotify Singles",
+      "url": "https://open.spotify.com/track/0hnpXKmUIqvgY0gj2Q1J7m"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -539,22 +555,6 @@
       "duration_ms": 214393,
       "name": "Hold Your Head Up High - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 146726,
-      "name": "I'll Call You Mine - Spotify Singles",
-      "url": "https://open.spotify.com/track/0hnpXKmUIqvgY0gj2Q1J7m"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -768,17 +768,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 178461,
-      "name": "Convincing - Spotify Singles",
-      "url": "https://open.spotify.com/track/0R7lOFuxYUlXUd76mrGMHt"
+      "duration_ms": 252240,
+      "name": "Movement - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5EaHXf4tvFDKr3W2dDTlaO"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -800,17 +800,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 252240,
-      "name": "Movement - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5EaHXf4tvFDKr3W2dDTlaO"
+      "duration_ms": 178461,
+      "name": "Convincing - Spotify Singles",
+      "url": "https://open.spotify.com/track/0R7lOFuxYUlXUd76mrGMHt"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 208396,
-      "name": "Electric Touch - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Dance In The Dark (Spotify Singles)",
         "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 225366,
       "name": "Dance In The Dark - Spotify Singles",
       "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 208396,
+      "name": "Electric Touch - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1136,22 +1136,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 221642,
-      "name": "Passionfruit - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M"
       },
       "artists": [
@@ -1167,6 +1151,22 @@
       "duration_ms": 241193,
       "name": "Brass in Pocket",
       "url": "https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 221642,
+      "name": "Passionfruit - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1236,22 +1236,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 233854,
-      "name": "Partner In Crime - Spotify Singles",
-      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
       },
       "artists": [
@@ -1263,6 +1247,22 @@
       "duration_ms": 251498,
       "name": "Stayaway - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 233854,
+      "name": "Partner In Crime - Spotify Singles",
+      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1420,22 +1420,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 180982,
-      "name": "Friends - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
       },
       "artists": [
@@ -1447,6 +1431,22 @@
       "duration_ms": 463336,
       "name": "Taste - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 180982,
+      "name": "Friends - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1564,22 +1564,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 155797,
-      "name": "Go Away - Spotify Singles",
-      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
       },
       "artists": [
@@ -1591,6 +1575,22 @@
       "duration_ms": 268207,
       "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 155797,
+      "name": "Go Away - Spotify Singles",
+      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1628,22 +1628,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/02QIMJcNZO5aEqgQSr4DHR"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "Panic - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3Fq3PEdN2zuw2SsDD732eg"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
       },
       "artists": [
@@ -1655,6 +1639,22 @@
       "duration_ms": 337837,
       "name": "Everything Now - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/02QIMJcNZO5aEqgQSr4DHR"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 151680,
+      "name": "Panic - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3Fq3PEdN2zuw2SsDD732eg"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1804,17 +1804,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
+        "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 135192,
-      "name": "Unfucktheworld - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3hAA4dEyownaDxeKjMQv6R"
+      "duration_ms": 622000,
+      "name": "home/i want your love - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1836,17 +1836,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
+        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 622000,
-      "name": "home/i want your love - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe"
+      "duration_ms": 135192,
+      "name": "Unfucktheworld - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3hAA4dEyownaDxeKjMQv6R"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1900,22 +1900,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 212449,
-      "name": "Softly - Spotify Singles",
-      "url": "https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
       },
       "artists": [
@@ -1927,6 +1911,22 @@
       "duration_ms": 320156,
       "name": "Mind Games - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2UxY3bwMbuPdbG3teXYOxQ"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 212449,
+      "name": "Softly - Spotify Singles",
+      "url": "https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1980,22 +1980,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 208159,
-      "name": "Headlock - Spotify Singles",
-      "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
       },
       "artists": [
@@ -2007,6 +1991,22 @@
       "duration_ms": 251803,
       "name": "Lovesong - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "Headlock - Spotify Singles",
+      "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
     },
     {
       "added_at": "2023-01-11 22:54:33",

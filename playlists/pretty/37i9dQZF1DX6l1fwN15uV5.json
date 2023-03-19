@@ -1,12 +1,12 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1222192,
+  "num_followers": 1222494,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwNzAxMCwwMDAwMDAwMDg2OWMwNzRiZDE5YzU0MGMyZGY0MmM0OGM3MzhhYjJm",
+  "snapshot_id": "MTY0MjUwNzAxMCwwMDAwMDAwMGU4YTFjOWUxODI0ZDA3ZmIxMjY2ODg5MWQ1Yzc4NzIw",
   "tracks": [
     {
       "added_at": "2020-07-08 17:45:56",
@@ -699,22 +699,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "No Brakes",
-        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
-      },
-      "artists": [
-        {
-          "name": "John Waite",
-          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "Midnight Love",
         "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 238600,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
+      },
+      "artists": [
+        {
+          "name": "John Waite",
+          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
     },
     {
       "added_at": "2020-07-08 17:45:56",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 231840,
       "name": "Woman in Love",
       "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
       "added_at": "2020-07-08 17:45:56",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
-      },
-      "artists": [
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "This Is the Sea (Deluxe Version)",
         "url": "https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 302826,
       "name": "The Whole of the Moon - 2004 Remaster",
       "url": "https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
     },
     {
       "added_at": "2020-07-08 17:45:56",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2020-07-08 17:45:56",
       "album": {
-        "name": "Talking Back To The Night",
-        "url": "https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Valerie",
-      "url": "https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB"
-    },
-    {
-      "added_at": "2020-07-08 17:45:56",
-      "album": {
         "name": "Heartbeat City",
         "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 234493,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
+    },
+    {
+      "added_at": "2020-07-08 17:45:56",
+      "album": {
+        "name": "Talking Back To The Night",
+        "url": "https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Valerie",
+      "url": "https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB"
     }
   ],
   "unique_name": "Easy 80s",

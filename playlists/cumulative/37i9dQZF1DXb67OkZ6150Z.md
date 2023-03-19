@@ -4,7 +4,7 @@
 
 > The best indie covers\. Cover: Remi Wolf
 
-378 songs - 23 hr 16 min
+379 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 | 2021-03-12 | 2022-07-29 |
 | [Nothing Breaks Like A Heart](https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/0zBZokjXEln00OETFLesm2) | 3:16 | 2021-03-12 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/54OkZltlupE2xB0i0lAfzi) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Nothing Compares 2 U](https://open.spotify.com/album/6E2uXissCsJ8HEh3ytJdOz) | 3:13 | 2021-03-12 | 2022-04-21 |
-| [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 | 2022-09-03 |  |
+| [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 | 2022-09-03 | 2023-03-19 |
 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 | 2021-08-13 | 2022-07-28 |
 | [Novocaine For The Soul \(feat\. Sir Chloe\)](https://open.spotify.com/track/7uQcx4j0G4CJoOtz8Wt375) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 2:40 | 2021-10-27 | 2022-04-17 |
 | [Ocean Eyes](https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Ocean Eyes](https://open.spotify.com/album/5tT6uMrOHLmZWam8b4LEwr) | 3:20 | 2021-03-12 | 2022-04-13 |
@@ -357,6 +357,7 @@
 | [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 | 2021-03-12 |  |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-08-08 | 2022-08-17 |
 | [West Coast](https://open.spotify.com/track/3JjqTp1P1igYmNHFPb6SDH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [West Coast](https://open.spotify.com/album/3XZP9FEuWaS66Gquo2cKaa) | 3:15 | 2023-02-10 |  |
+| [West Coast \(I'm In Love\)](https://open.spotify.com/track/3ktl9MwJgnAanqqkcTXue8) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [West Coast \(I'm In Love\)](https://open.spotify.com/album/0R3khnzqHN3bLsoZk1y36m) | 3:32 | 2023-03-17 |  |
 | [What The World Needs Now Is Love \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/16X5rQpqvBEJkwOswVytkY) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [Spotify Singles](https://open.spotify.com/album/4KKxpAoSmf1A9z4fTdUkSe) | 3:04 | 2021-03-12 | 2022-07-19 |
 | [When the Party's over \(Acoustic Piano\)](https://open.spotify.com/track/1pG5nd6gmfbMwUfT5shDQe) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [When the Party's over \(Acoustic Piano\)](https://open.spotify.com/album/1m9j79xq6uxNjUeuai8QAl) | 3:15 | 2021-03-12 | 2022-04-17 |
 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 | 2021-03-12 |  |

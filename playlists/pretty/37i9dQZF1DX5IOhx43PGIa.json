@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: beabadoobee.",
-  "num_followers": 259881,
+  "num_followers": 259947,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA2ODgwMCwwMDAwMDAwMDE0OTgzNjdkMGI5MWQzODYzMjRlMjc3NmNlYTBjMzQw",
+  "snapshot_id": "MTY3OTA2ODgwMCwwMDAwMDAwMGM5Mzk3OTgyNTdhMDhjOGU4OWU1NWYyNWY5ZGViZDcy",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0"
     },
     {
-      "added_at": "2023-03-18 01:28:02",
+      "added_at": "2023-03-19 01:01:58",
       "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/6Bee4WtLGFdXUA1ylcBNZn"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     },
     {
-      "added_at": "2023-03-18 01:28:02",
+      "added_at": "2023-03-19 01:01:58",
       "album": {
         "name": "star",
         "url": "https://open.spotify.com/album/6jyL2W13lASK3XF2AYlSBI"
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 167661,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Naatu Naatu (From \"Rrr\")",
         "url": "https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 214399,
       "name": "Naatu Naatu (From \"Rrr\")",
       "url": "https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 167661,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+      "duration_ms": 186432,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 186432,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX"
-      },
-      "artists": [
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Dive with you (feat. eaJ)",
         "url": "https://open.spotify.com/album/4Ax41uyC6zscjAXjYd6cq8"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 218240,
       "name": "Dive with you (feat. eaJ)",
       "url": "https://open.spotify.com/track/5RqwjQWDwxQ3HTkOfXTrS6"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 174386,
-      "name": "Lost On Me",
-      "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 143181,
       "name": "friends",
       "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "Lost On Me",
+      "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "VIVID",
         "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 193120,
       "name": "VIVID",
       "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1515,8 +1515,8 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "rollercoaster",
-        "url": "https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa"
+        "name": "liar",
+        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
       },
       "artists": [
         {
@@ -1524,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 151090,
-      "name": "rollercoaster",
-      "url": "https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ"
+      "duration_ms": 134000,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1599,8 +1599,8 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
+        "name": "rollercoaster",
+        "url": "https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa"
       },
       "artists": [
         {
@@ -1608,9 +1608,9 @@
           "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
+      "duration_ms": 151090,
+      "name": "rollercoaster",
+      "url": "https://open.spotify.com/track/49FwhOuCZ9LWaEpGNal2lQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/0q1qdWv8rj53CQ0cayv6hD"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 183941,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/7hoJyGOvmRfM7y6T55Ccde"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Hello 2.0 (Legends Only) [feat. \u00d8ZI]",
         "url": "https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ"
       },
@@ -1867,18 +1883,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/0q1qdWv8rj53CQ0cayv6hD"
+        "name": "The Happy Star",
+        "url": "https://open.spotify.com/album/6TncHvvXh96HDGtWGrsNIV"
       },
       "artists": [
         {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
         }
       ],
-      "duration_ms": 183941,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/7hoJyGOvmRfM7y6T55Ccde"
+      "duration_ms": 174428,
+      "name": "dance dance",
+      "url": "https://open.spotify.com/track/1SaUBCZJOk3XCCZd1nFOte"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1895,22 +1911,6 @@
       "duration_ms": 205059,
       "name": "Send My Love To John",
       "url": "https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "The Happy Star",
-        "url": "https://open.spotify.com/album/6TncHvvXh96HDGtWGrsNIV"
-      },
-      "artists": [
-        {
-          "name": "Lexie Liu",
-          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "dance dance",
-      "url": "https://open.spotify.com/track/1SaUBCZJOk3XCCZd1nFOte"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2065,7 +2065,7 @@
       "url": "https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ"
     },
     {
-      "added_at": "2023-03-18 01:28:02",
+      "added_at": "2023-03-19 01:01:58",
       "album": {
         "name": "Flying Fish",
         "url": "https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl"
@@ -2115,6 +2115,22 @@
       "duration_ms": 203006,
       "name": "At Least I Had You",
       "url": "https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "NERVE",
+        "url": "https://open.spotify.com/album/2beatj9EGiW7MRNWbMVARe"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 148177,
+      "name": "NERVE",
+      "url": "https://open.spotify.com/track/06FYjJDuCF2agn3rJBuNiv"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2203,24 +2219,8 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "NERVE",
-        "url": "https://open.spotify.com/album/2beatj9EGiW7MRNWbMVARe"
-      },
-      "artists": [
-        {
-          "name": "nicole han",
-          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
-        }
-      ],
-      "duration_ms": 148177,
-      "name": "NERVE",
-      "url": "https://open.spotify.com/track/06FYjJDuCF2agn3rJBuNiv"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
       },
       "artists": [
         {
@@ -2228,9 +2228,9 @@
           "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2331,8 +2331,8 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
       "artists": [
         {
@@ -2340,9 +2340,9 @@
           "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Temple Fair",
-        "url": "https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO"
-      },
-      "artists": [
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 303545,
-      "name": "Temple Fair",
-      "url": "https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "lovescene:",
         "url": "https://open.spotify.com/album/397oeXs5I2518sMkHL0C5j"
       },
@@ -2455,38 +2439,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Galipette (BIBI Remix)",
-        "url": "https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus"
+        "name": "Temple Fair",
+        "url": "https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO"
       },
       "artists": [
         {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
         }
       ],
-      "duration_ms": 122638,
-      "name": "Galipette - BIBI Remix",
-      "url": "https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Y5",
-        "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 216603,
-      "name": "Can't Get Over You",
-      "url": "https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG"
+      "duration_ms": 303545,
+      "name": "Temple Fair",
+      "url": "https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2507,18 +2471,38 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "just like before",
-        "url": "https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam"
+        "name": "Y5",
+        "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
       },
       "artists": [
         {
-          "name": "juno roome",
-          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 266573,
-      "name": "just like before",
-      "url": "https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt"
+      "duration_ms": 216603,
+      "name": "Can't Get Over You",
+      "url": "https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Galipette (BIBI Remix)",
+        "url": "https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 122638,
+      "name": "Galipette - BIBI Remix",
+      "url": "https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2539,6 +2523,22 @@
       "duration_ms": 216225,
       "name": "Color Me (Feat. CHUNG HA)",
       "url": "https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "just like before",
+        "url": "https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam"
+      },
+      "artists": [
+        {
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "just like before",
+      "url": "https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2615,6 +2615,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Nobody Sees Me Like You Do",
+        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 211635,
+      "name": "Nobody Sees Me Like You Do",
+      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "A440",
         "url": "https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe"
       },
@@ -2639,22 +2655,6 @@
       "duration_ms": 267173,
       "name": "440hz (feat. Daichi Yamamoto x Koh)",
       "url": "https://open.spotify.com/track/1bWEsD4W8gClixY0NpZh91"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Nobody Sees Me Like You Do",
-        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 211635,
-      "name": "Nobody Sees Me Like You Do",
-      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
     },
     {
       "added_at": "2023-03-10 05:00:00",

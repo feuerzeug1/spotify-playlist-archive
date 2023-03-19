@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,797 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,839 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 20 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
 | 21 | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE), [Dashawn Hickman](https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY) | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO) | 2:56 |
 | 22 | [Grits Ain't Groceries \(All Around The World\)](https://open.spotify.com/track/6SXpeLiRALz6OlaaTLGEqj) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Rockin' The Blues](https://open.spotify.com/album/4jA0QvDt94H22KfLsEjELk) | 2:41 |
-| 23 | [Lie No Better](https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Let's Roll](https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z) | 3:30 |
-| 24 | [What Are You Doin' to Me](https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [I'm a Bluesman](https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv) | 3:58 |
+| 23 | [What Are You Doin' to Me](https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [I'm a Bluesman](https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv) | 3:58 |
+| 24 | [Lie No Better](https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Let's Roll](https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z) | 3:30 |
 | 25 | [Leave Me Alone](https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Always](https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra) | 4:38 |
 | 26 | [Black Cat Bone](https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Live From The Archive](https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD) | 9:50 |
 | 27 | [Cold Cuts](https://open.spotify.com/track/1kqd9zoyn4sBPzmI9f8BP8) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Deluxe Edition](https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN) | 6:00 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 40 | [Greasy Man](https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Let's Talk It Over](https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8) | 5:56 |
 | 41 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 |
 | 42 | [Witch Doctor](https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2) | [Samuel Ashton](https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz) | [Witch Doctor](https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ) | 3:19 |
-| 43 | [Put The Shoe On The Other Foot](https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 5:32 |
+| 43 | [Dumb It Down](https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:00 |
 | 44 | [Night Train](https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:48 |
 | 45 | [Take Me Just As I Am](https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [LaDonna Gales](https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:03 |
-| 46 | [Dumb It Down](https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:00 |
+| 46 | [Put The Shoe On The Other Foot](https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 5:32 |
 | 47 | [Pots And Pans](https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Shine Bright](https://open.spotify.com/album/5yP8HnU8eGBDjRN6GxOgVh) | 4:33 |
 | 48 | [Give It Back](https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8) | [Hamilton Loomis](https://open.spotify.com/artist/4LSgIUOMJoKu4Egt0F6JML), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Give It Back](https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML) | 4:39 |
 | 49 | [Break on Free](https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva) | [Break on Free](https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM) | 4:12 |
-| 50 | [I'm Beginning To Wonder](https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 4:10 |
+| 50 | [Givin' Up You](https://open.spotify.com/track/4LoyfqghF75QfVFx08gAIh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU) | 3:26 |
 
-Snapshot ID: `MTY2Nzg0ODEyMSwwMDAwMDAwMDFkMGQ0MjIyNGE5ODY2MDU3YzgxYTQwNTk2Y2U2MTg5`
+Snapshot ID: `MTY2Nzg0ODEyMSwwMDAwMDAwMDIxZGQyZmI2OTYxOTExZGVlZGZlZDhiN2NjZjBjYzVk`

@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 143907,
+  "num_followers": 143990,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3ODk0MywwMDAwMDAwMDM2YjQ5YTBmNjAzNjg3Mzc5NzBjMDJjODhkYzBhNDNl",
+  "snapshot_id": "MTY3NDA3ODk0MywwMDAwMDAwMDYxODA2ZjEwMTRiMmVkYjk2ODUwMjU3MGEyZTkxNGUx",
   "tracks": [
     {
       "added_at": "2023-01-18 21:55:43",
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
         }
       ],
-      "duration_ms": 191333,
-      "name": "Smoke A Little Smoke",
-      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2023-01-18 21:55:43",
@@ -559,22 +563,18 @@
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
     },
     {
       "added_at": "2023-01-18 21:55:43",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 333453,
-      "name": "I Love This Bar",
-      "url": "https://open.spotify.com/track/2EZWdLnLPwL97JcfNlBoM1"
-    },
-    {
-      "added_at": "2023-01-18 21:55:43",
-      "album": {
         "name": "My Very Special Guests",
         "url": "https://open.spotify.com/album/3am7sXkWVQ9mpldg5KtrUm"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 130733,
       "name": "I Gotta Get Drunk (with Willie Nelson)",
       "url": "https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4"
+    },
+    {
+      "added_at": "2023-01-18 21:55:43",
+      "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 333453,
+      "name": "I Love This Bar",
+      "url": "https://open.spotify.com/track/2EZWdLnLPwL97JcfNlBoM1"
     },
     {
       "added_at": "2023-01-18 21:55:43",

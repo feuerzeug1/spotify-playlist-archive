@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 78540,
+  "num_followers": 78724,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg3MDI2NiwwMDAwMDAwMDkxNmFlMDNiNTA5YmQxOWVjZjNjMzU3MWUzODRlOTk1",
+  "snapshot_id": "MTY3ODg3MDI2NiwwMDAwMDAwMDExZWI0ZjIzYTUzYTYwMTFkZmZlNDdhNzllMDdmOTdj",
   "tracks": [
     {
       "added_at": "2023-03-15 08:51:06",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-15 08:51:06",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
-    },
-    {
-      "added_at": "2023-03-15 08:51:06",
-      "album": {
         "name": "Jazz Masters",
         "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 248373,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
+    },
+    {
+      "added_at": "2023-03-15 08:51:06",
+      "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
     },
     {
       "added_at": "2023-03-15 08:51:06",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-03-15 08:51:06",
       "album": {
+        "name": "Volume 2 (Vol. 2)",
+        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 209012,
+      "name": "I Waited For You",
+      "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
+    },
+    {
+      "added_at": "2023-03-15 08:51:06",
+      "album": {
         "name": "Way Out West (OJC Remaster)",
         "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 334626,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
-    },
-    {
-      "added_at": "2023-03-15 08:51:06",
-      "album": {
-        "name": "Volume 2 (Vol. 2)",
-        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 209012,
-      "name": "I Waited For You",
-      "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
     },
     {
       "added_at": "2023-03-15 08:51:06",
@@ -931,18 +931,26 @@
     {
       "added_at": "2023-03-15 08:51:06",
       "album": {
-        "name": "Gerry Mulligan Meets Ben Webster",
-        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
+        "name": "Portrait In Jazz [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Scott LaFaro",
+          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
         }
       ],
-      "duration_ms": 442506,
-      "name": "Chelsea Bridge",
-      "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
+      "duration_ms": 309360,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
     },
     {
       "added_at": "2023-03-15 08:51:06",
@@ -983,26 +991,18 @@
     {
       "added_at": "2023-03-15 08:51:06",
       "album": {
-        "name": "Portrait In Jazz [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
+        "name": "Gerry Mulligan Meets Ben Webster",
+        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Scott LaFaro",
-          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 309360,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
+      "duration_ms": 442506,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
     },
     {
       "added_at": "2023-03-15 08:51:06",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-03-15 08:51:06",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/2fdnSzyVkyG5R0VJgo9Gv5"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
       },
       "artists": [
         {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
         }
       ],
-      "duration_ms": 165680,
-      "name": "It's Easy To Remember",
-      "url": "https://open.spotify.com/track/1Lha7xd3R376bZjZLJo4Lt"
+      "duration_ms": 292573,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
     },
     {
       "added_at": "2023-03-15 08:51:06",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-03-15 08:51:06",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/2fdnSzyVkyG5R0VJgo9Gv5"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
         }
       ],
-      "duration_ms": 292573,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
+      "duration_ms": 165680,
+      "name": "It's Easy To Remember",
+      "url": "https://open.spotify.com/track/1Lha7xd3R376bZjZLJo4Lt"
     },
     {
       "added_at": "2023-03-15 08:51:06",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-03-15 08:51:06",
       "album": {
-        "name": "Doin' Allright (Remastered)",
-        "url": "https://open.spotify.com/album/14NlniwPg3t0wXuYTbeSyC"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 447453,
-      "name": "You've Changed - Remastered 2015",
-      "url": "https://open.spotify.com/track/1tYMoCu2u5FCylI4Xn5T8Y"
-    },
-    {
-      "added_at": "2023-03-15 08:51:06",
-      "album": {
         "name": "Wrapped Tight",
         "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 301653,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc"
+    },
+    {
+      "added_at": "2023-03-15 08:51:06",
+      "album": {
+        "name": "Doin' Allright (Remastered)",
+        "url": "https://open.spotify.com/album/14NlniwPg3t0wXuYTbeSyC"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 447453,
+      "name": "You've Changed - Remastered 2015",
+      "url": "https://open.spotify.com/track/1tYMoCu2u5FCylI4Xn5T8Y"
     },
     {
       "added_at": "2023-03-15 08:51:06",

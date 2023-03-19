@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,744,533 likes - 131 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,744,630 likes - 131 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 28 | [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 |
 | 29 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
 | 30 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 |
-| 31 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 |
+| 31 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 |
 | 32 | [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 |
 | 33 | [Spark, Set Fire](https://open.spotify.com/track/00vPAsfTwvicR45W2PE20o) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH) | 3:51 |
 | 34 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 130 | [Harder Way](https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 3:17 |
 | 131 | [Stay Alive \- Cover](https://open.spotify.com/track/0cm34ja39LyPxK2oddv90s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive \(COVERS\)](https://open.spotify.com/album/3I1ZWDd8jAs6aztutLGVDm) | 3:53 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDE5NDcyOWJiNzMwNTgzMDYwZjNhNmQ3ZDM1ZmQxZTEx`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDYxNWM0NmY0ZmU3MGFmYTU2ZDA1YTAyMDU0ODMyYTRk`

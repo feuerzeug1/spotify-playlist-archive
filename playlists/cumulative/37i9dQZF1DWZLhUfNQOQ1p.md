@@ -4,7 +4,7 @@
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-127 songs - 7 hr 48 min
+128 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Feel Me](https://open.spotify.com/track/6nlNdYGf4TnWPKzxdPZW90) | [Dalac](https://open.spotify.com/artist/66b0xoSrR8tM1qjoEwsDlq) | [Feel Me](https://open.spotify.com/album/0yAeK2SHxC7xKBP1N3jbpB) | 4:02 | 2021-08-05 | 2022-07-13 |
 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 | 2021-08-05 |  |
 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 | 2021-08-05 |  |
+| [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 | 2021-08-05 |  |
 | [Give Me a Light](https://open.spotify.com/track/6dnPMrlvN8w1KIgV8pb9Gu) | [Jay Arrow](https://open.spotify.com/artist/3cAD80R4qsZOlYVPi9xN89) | [Give Me a Light](https://open.spotify.com/album/3xeGedO2mQCVHzO4WiC0WA) | 3:15 | 2021-08-05 |  |
 | [Happiness \- Eternal Moment Mix](https://open.spotify.com/track/23eieUqlZtoCmziKZAKUXF) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Happiness \(Eternal Moment Mix\)](https://open.spotify.com/album/15Ur2tyY5TVmSRyXSRw4GA) | 3:11 | 2021-08-05 | 2022-07-29 |
 | [Heartbeat](https://open.spotify.com/track/5R6YdiE4n2U1SVQ2UgIcqK) | [Tom Garrick](https://open.spotify.com/artist/6pornfCIACcxUzhUcbDBFc) | [Heartbeat](https://open.spotify.com/album/2C5N1RcQcaY3Fx5Q3kiWkk) | 2:56 | 2021-08-05 |  |
@@ -126,7 +127,7 @@
 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 | 2021-08-05 |  |
 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 | 2021-08-05 |  |
 | [What You Won't Do for Love](https://open.spotify.com/track/1Qe42XGSUtjDgJJgCsYwkh) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [What You Won't Do for Love](https://open.spotify.com/album/3r90h4IKPw9pXl4NPtrhus) | 4:42 | 2021-08-05 | 2022-07-29 |
-| [When I'm Gone](https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x) | [Julia Bergwall](https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD) | [When I'm Gone](https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI) | 3:12 | 2021-08-05 |  |
+| [When I'm Gone](https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x) | [Julia Bergwall](https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD) | [When I'm Gone](https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI) | 3:12 | 2021-08-05 | 2023-03-19 |
 | [When The Rain Came](https://open.spotify.com/track/4MPDnIwhYbwqnQzkHKDp3h) | [Felix Johansson Carne](https://open.spotify.com/artist/5tb6pZdgWLr5oHOlSgtiqk) | [A Message From Your Space Cat](https://open.spotify.com/album/595Vz1BEE85V5qZFY5beiD) | 5:06 | 2021-08-05 |  |
 | [When The Rain Came](https://open.spotify.com/track/6q9MP6ciBDPjwHcqXDMBJN) | [Felix Johansson Carne](https://open.spotify.com/artist/5tb6pZdgWLr5oHOlSgtiqk) | [A Message From Your Space Cat](https://open.spotify.com/album/1kiLEvJQB4JNBlCzDDjJ40) | 5:06 | 2021-08-05 | 2022-07-29 |
 | [Where Did We Go Wrong \(feat\. Cali & PaperShapes\)](https://open.spotify.com/track/4MbIfF518aFjw3vrOTJA88) | [Wallaby](https://open.spotify.com/artist/5K2zBqDpxHKvH2N4sGjJMV), [Cali](https://open.spotify.com/artist/6EcvuDf0agBppFlz3KNYc5), [PaperShapes](https://open.spotify.com/artist/15GjgoquJ5dyuUX2CixFu3) | [Where Did We Go Wrong \(feat\. Cali & PaperShapes\)](https://open.spotify.com/album/1BOBu7fm5bflwjiRBTIHki) | 2:58 | 2021-08-05 | 2022-07-06 |

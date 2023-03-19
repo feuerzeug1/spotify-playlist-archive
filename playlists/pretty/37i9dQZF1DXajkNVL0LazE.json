@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 52653,
+  "num_followers": 52742,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGVkYjViNzNjOTg5NDJmY2ZjZTg1MzUwYjZhNThiODEy",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGZmNGNmOTIyZGI0NDM0NDc1M2QyZDI2NjBkMDg5OGE1",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Cease To Begin",
         "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 217333,
       "name": "No One's Gonna Love You",
       "url": "https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "To Be Alone With You",
-      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Flying Club Cup",
         "url": "https://open.spotify.com/album/71udkw2yxFqNK4SNSYcCce"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 230200,
       "name": "Nantes",
       "url": "https://open.spotify.com/track/1WBSFlSLyOZnSa8fj7a5yC"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 241546,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Boxer",
-        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Fake Empire",
-      "url": "https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Boxer",
+        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Fake Empire",
+      "url": "https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Sky Blue Sky",
-        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Impossible Germany",
-      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Sky Blue Sky",
+        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Impossible Germany",
+      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "All Hail West Texas (Remastered)",
-        "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
-      },
-      "artists": [
-        {
-          "name": "The Mountain Goats",
-          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "The Best Ever Death Metal Band in Denton",
-      "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Midnight Organ Fight",
         "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Stand Ins",
-        "url": "https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi"
+        "name": "All Hail West Texas (Remastered)",
+        "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
       },
       "artists": [
         {
-          "name": "Okkervil River",
-          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Lost Coastlines",
-      "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
+      "duration_ms": 156960,
+      "name": "The Best Ever Death Metal Band in Denton",
+      "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1259,6 +1243,22 @@
       "duration_ms": 204480,
       "name": "Alone Again Or",
       "url": "https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Stand Ins",
+        "url": "https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi"
+      },
+      "artists": [
+        {
+          "name": "Okkervil River",
+          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Lost Coastlines",
+      "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Mountain Rock",
-        "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
-      },
-      "artists": [
-        {
-          "name": "Dear Nora",
-          "url": "https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5"
-        }
-      ],
-      "duration_ms": 91320,
-      "name": "The Lonesome Border, Pt. 1",
-      "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Middle Cyclone",
         "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Music For A French Elevator And Other Oddities",
-        "url": "https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C"
+        "name": "Mountain Rock",
+        "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
       },
       "artists": [
         {
-          "name": "The Books",
-          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
+          "name": "Dear Nora",
+          "url": "https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5"
         }
       ],
-      "duration_ms": 234106,
-      "name": "Cello Song Feat. Jose Gonzales",
-      "url": "https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp"
+      "duration_ms": 91320,
+      "name": "The Lonesome Border, Pt. 1",
+      "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1371,6 +1355,22 @@
       "duration_ms": 228453,
       "name": "The Modern Leper",
       "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Music For A French Elevator And Other Oddities",
+        "url": "https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C"
+      },
+      "artists": [
+        {
+          "name": "The Books",
+          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Cello Song Feat. Jose Gonzales",
+      "url": "https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A"
-      },
-      "artists": [
-        {
-          "name": "Nada Surf",
-          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Inside Of Love",
-      "url": "https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Yellow House",
         "url": "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 317173,
       "name": "Knife",
       "url": "https://open.spotify.com/track/2L7DZcRNEA7ZGiaHC6vlJw"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A"
+      },
+      "artists": [
+        {
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Inside Of Love",
+      "url": "https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz"
     },
     {
       "added_at": "2022-02-04 22:01:34",

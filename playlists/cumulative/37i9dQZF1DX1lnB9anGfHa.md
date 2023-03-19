@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-173 songs - 11 hr 35 min
+174 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Win Some](https://open.spotify.com/track/0U1e0nOw2WlQ6l2sTgfxJS) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 5:12 | 2022-09-21 | 2022-11-04 |
 | [You Do It](https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv) | [Marlene Ribeiro](https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc) | [You Do It](https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ) | 7:21 | 2023-02-16 |  |
 | [Đi Tìm](https://open.spotify.com/track/2tr5nB15QjKueCSypsuEz7) | [Ngo Hong Quang](https://open.spotify.com/artist/0bSlwjLk6yxanA1aR9QhGY) | [Nhìn Lại](https://open.spotify.com/album/3C7WkkrbcsB80RvXUfJkBO) | 6:29 | 2021-06-23 | 2022-11-09 |
-| [выжженные поля](https://open.spotify.com/track/0qCSVXlSql2UkFJupliZon) | [тише воды](https://open.spotify.com/artist/7sGURNRYCWDBglrCckFIP9) | [выжженные поля](https://open.spotify.com/album/0ZmB2xyQ2r53QIIsziTUO6) | 3:53 | 2020-10-20 |  |
+| [Выжженные Поля](https://open.spotify.com/track/0Qq4vDUgaXZ91bezh7T2mD) | [тише воды](https://open.spotify.com/artist/7sGURNRYCWDBglrCckFIP9) | [Выжженные Поля](https://open.spotify.com/album/4g5v3GcvCcMrrJThehUXOW) | 3:53 | 2020-10-20 |  |
+| [выжженные поля](https://open.spotify.com/track/0qCSVXlSql2UkFJupliZon) | [тише воды](https://open.spotify.com/artist/7sGURNRYCWDBglrCckFIP9) | [выжженные поля](https://open.spotify.com/album/0ZmB2xyQ2r53QIIsziTUO6) | 3:53 | 2020-10-20 | 2023-03-19 |
 | [Кожа](https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Кожа](https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S) | 4:28 | 2021-06-23 |  |
 | [Плак\-Плак](https://open.spotify.com/track/2dc4D84XqZ9MCD3R2TjXoc) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Of4qoSlEZr8GUinc7QxWT) | 3:23 | 2020-10-20 | 2023-03-04 |
 | [Плак\-Плак](https://open.spotify.com/track/3haUHC29mCGK6MrREqbONc) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Ji9U33Ljqdm4RdlBKXteF) | 3:23 | 2020-10-20 | 2022-09-15 |

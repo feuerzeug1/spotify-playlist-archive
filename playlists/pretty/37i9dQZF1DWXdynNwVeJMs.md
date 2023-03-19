@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: LũpḁGangGang
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,241 likes - 98 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,243 likes - 98 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 21 | [Karsilama](https://open.spotify.com/track/1IkoV81e6472xAB2geGiTO) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 4:36 |
 | 22 | [Rhymes On Our Mind](https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Gulliver](https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h) | 5:59 |
 | 23 | [The Lower 9th](https://open.spotify.com/track/4sjsivlGuXcRzZfkAnezAu) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:59 |
-| 24 | [Marshland IV \- Rays](https://open.spotify.com/track/1hLmjGsHWA5I2lTHIR9qoi) | [don Marsh V](https://open.spotify.com/artist/2YCbuLwPm1iABWCnpvTOuh) | [Marshland IV \- Rays](https://open.spotify.com/album/734QCAnoqrOPCbxUCHBmyT) | 7:24 |
+| 24 | [Marshland IV: Rays](https://open.spotify.com/track/2wSpLck2vIjbaI8Ods0EH2) | [don Marsh V](https://open.spotify.com/artist/2YCbuLwPm1iABWCnpvTOuh) | [Marshland](https://open.spotify.com/album/6F8GnBCcFlRs0XNYyQSL7s) | 7:24 |
 | 25 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 |
 | 26 | [Tzatzìki](https://open.spotify.com/track/5YoUD7R6FdYKfQrRcRYgkF) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 6:31 |
 | 27 | [Reminiscence](https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:28 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 37 | [Diggin'](https://open.spotify.com/track/6kcWvncHfLQtVJ8KRNP8Y2) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Lucid Lucia](https://open.spotify.com/album/0yl96Upj5HUFzdd8AzY0i4) | 4:27 |
 | 38 | [Nectar](https://open.spotify.com/track/7FjY3a9Z6El2A4YjUfeP7z) | [VENTILATEUR](https://open.spotify.com/artist/1ysLLF8knGo0MnhPn1bDaf) | [Nectar](https://open.spotify.com/album/4MhwuOIKiqtLvLq9bmiygo) | 3:06 |
 | 39 | [Reflet](https://open.spotify.com/track/7tNYzBbufvOtKyRcw0vPqd) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 5:42 |
-| 40 | [SLECHGAAN](https://open.spotify.com/track/5KrLhcvytXRFBCsx2tQrdS) | [RAPIDMAN](https://open.spotify.com/artist/4hzVtNA2nyeXtSHA8Xr0y5) | [SLECHGAAN](https://open.spotify.com/album/6WLK6dTRwyLPjcZJsZOIzH) | 5:35 |
+| 40 | [SLECHGAAN](https://open.spotify.com/track/4jBvUU2BTttfiM5Cmpr6jc) | [RAPIDMAN](https://open.spotify.com/artist/4hzVtNA2nyeXtSHA8Xr0y5) | [RAPIDMAN](https://open.spotify.com/album/06u6LSWkFxLeFxgZjuQoAx) | 5:35 |
 | 41 | [Cluster](https://open.spotify.com/track/7naNiyiQ7699ks3dI6JTT0) | [PAARD.](https://open.spotify.com/artist/2aNp8JJGI4KGoKl6jJvzYe) | [danki](https://open.spotify.com/album/1VtBBySbyQCS8ypgo1nLSu) | 4:10 |
 | 42 | [Black Chamber \(Escape To The Sun\)](https://open.spotify.com/track/3XCskMcK4GlDGoi81IL2qL) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH), [Binkbeats](https://open.spotify.com/artist/7exctwYNULoOlBmGGUwIzd) | [Black Chamber \(Escape To The Sun\)](https://open.spotify.com/album/0lx3nZ90CsYG1TyhWMKVSJ) | 6:37 |
 | 43 | [Gentse Leugentjes](https://open.spotify.com/track/3p0GOH8SUICpgPLKUYffze) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 5:30 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 64 | [Opalescent](https://open.spotify.com/track/5eKJw3rt8AteMAdixjvpjf) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Sub Surface](https://open.spotify.com/album/6SXiI193XZMG5LY7MoAmvQ) | 5:58 |
 | 65 | [Stroking The Furnace](https://open.spotify.com/track/5fTQXBZhD0PZVaje8ll9rD) | [Dijf Sanders](https://open.spotify.com/artist/3U9U9C6iJzZR39dXq0UaYV) | [Stroking The Furnace](https://open.spotify.com/album/6UipgcX1ynmutMpMzi8RzL) | 4:01 |
 | 66 | [Stress Als Optie](https://open.spotify.com/track/2Vcy72JnCxieG9MoRALnRn) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 2:09 |
-| 67 | [Photonic](https://open.spotify.com/track/5R0GSuk5hmDMm7Nqqq6eoP) | [H A S T](https://open.spotify.com/artist/6Yfns5pZJVZxf6hn1gM3AZ) | [Photonic](https://open.spotify.com/album/2CWuZRmCPkN33i2dVZcb7M) | 3:33 |
+| 67 | [Photonic](https://open.spotify.com/track/67pi7bVSEkbbJJUF7e18Kc) | [H A S T](https://open.spotify.com/artist/17uBeZave65bCISY0fRqZV) | [Ubi Sunt](https://open.spotify.com/album/429T2lTpq7WJOWcUKlxvQW) | 3:32 |
 | 68 | [Kop Zonder Kip](https://open.spotify.com/track/1CGOSxHaSHN8cG2efDJFpN) | [Don Kapot](https://open.spotify.com/artist/3QCwWdOoSMhjrN2nA6rwwV) | [Kop Zonder Kip](https://open.spotify.com/album/7xgU4XsM3C3ZAjcFHXJdX8) | 4:46 |
 | 69 | [Lambda](https://open.spotify.com/track/2RpAIod9HRKhrTWd7bv1QU) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [The New Lady Llama](https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm) | 2:37 |
 | 70 | [Rostfrei](https://open.spotify.com/track/6hmuL1lUUd10z0SxMANUO1) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Klein Gevaarlijk Afval](https://open.spotify.com/album/3Mbm4tvDYbzC9FzaQ340LZ) | 2:31 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 97 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 |
 | 98 | [Drops](https://open.spotify.com/track/3awFJqol6x36gdU7I0p8vw) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Maxime Delpierre](https://open.spotify.com/artist/7IHLrjSlSFup9A50WSJkRO) | [Drops & Points](https://open.spotify.com/album/2KKXVzr8i0J2oGKFMvKz60) | 5:33 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDMxNDZlMjJmZTQ4OWYzY2JiYTQ4OTM3YjcwYTNhZTcw`
+Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDUwNTNmZDg4MTQ3YTM3MDU0NDkwZDAzNjA0N2Y5YWIx`

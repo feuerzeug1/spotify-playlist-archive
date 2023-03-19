@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > Chansons pour les longues journées d'été.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,881 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,880 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 60 | [Bon Ami](https://open.spotify.com/track/6pEYLzi93TnYLa32J6chXA) | [Franky Fade](https://open.spotify.com/artist/7dzjLatIXL9tEJINuAk1pE) | [CONTRADICTIONS](https://open.spotify.com/album/54DM3A0nrfTNoR1HJqywrJ) | 3:12 |
 | 61 | [Samba do Boncy](https://open.spotify.com/track/6sxJsk7k16T8EEv2VZpKuX) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Cabaça](https://open.spotify.com/album/68ApApSjhb7e6xo7HP6vam) | 3:20 |
 | 62 | [Bahia](https://open.spotify.com/track/3URszLxGSmpX2dHXyLG0eD) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Tropi\-cléa 2](https://open.spotify.com/album/5Md5sV8vltZmZYT6AQtL0c) | 3:20 |
-| 63 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 |
+| 63 | [Mezcal](https://open.spotify.com/track/0taw82ovKIdw6kIVdhhVWE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3yRXQ2hZhMonFkkrNeK5sS) | 3:52 |
 | 64 | [Jeanne\-Mance](https://open.spotify.com/track/0kE9iw4bjbli8ViwVboNc5) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Summer Pack!](https://open.spotify.com/album/05Y8cMVteSJRy1kLNRXQGy) | 3:02 |
 | 65 | [C'EST BEAU](https://open.spotify.com/track/1wMFt4BeA4ItpowAsOzO8S) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [SAC À SURPRISE](https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E) | 2:50 |
 | 66 | [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Mc Azas](https://open.spotify.com/artist/17N0ZLk7LwYBXT2DsG73KN) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 101 | [Stand Tall](https://open.spotify.com/track/3btpWOHsvwGlmVCpytaWNq) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Global Musique, Vol\. 2](https://open.spotify.com/album/2vkL7hA8lVaQM33VOwMcsG) | 3:57 |
 | 102 | [bye bye again \- Bob Sinclar Remix](https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [bye bye again \(Bob Sinclar Remix\)](https://open.spotify.com/album/2QROzydHnLXAaKhAEVLVqn) | 2:40 |
 
-Snapshot ID: `MTY3NjA0NzQ3MiwwMDAwMDAwMGZmNWE1NzgxNDM0NTM2ZDk1ZGZiMWYwZTA3YjRjNTQ1`
+Snapshot ID: `MTY3NjA0NzQ3MiwwMDAwMDAwMDk3NmYyZGI1ODhhYzgyY2ZiM2I3MDVkYTJhOTQ5ODNi`

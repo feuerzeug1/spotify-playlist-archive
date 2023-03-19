@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Y\(Golden Child\)\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,710 likes - 121 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,752 likes - 121 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

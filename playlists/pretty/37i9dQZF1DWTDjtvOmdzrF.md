@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Lebih dari sekedar kopi, ini kumpulan lagu akustik dalam negeri favoritmu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,580 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,743 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 39 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 |
 | 40 | [Mata Ke Hati \(Acoustic Version\)](https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:24 |
 | 41 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 |
-| 42 | [April](https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7) | 4:23 |
-| 43 | [I Still Love You](https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Cek Toko Sebelah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe) | 4:46 |
+| 42 | [I Still Love You](https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Cek Toko Sebelah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe) | 4:46 |
+| 43 | [April](https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7) | 4:23 |
 | 44 | [Mine](https://open.spotify.com/track/6NkUP6IeLnH6Yaw2wcNHzO) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW), [Ben Sihombing](https://open.spotify.com/artist/0B8iRRv1YpDoxhcn2lMFs1) | [Mine](https://open.spotify.com/album/4BrYZTc42JRwe1QuHIPapy) | 3:49 |
 | 45 | [Kita usahakan rumah itu](https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH](https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE) | 3:31 |
 | 46 | [Cahaya](https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:15 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 64 | [Fana Merah Jambu](https://open.spotify.com/track/463XKKFCPlcrhtlwGbEovu) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 5:58 |
 | 65 | [Putus Atau Terus](https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Putus Atau Terus](https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW) | 4:08 |
 | 66 | [Cukup Tau](https://open.spotify.com/track/5Q1dOmmQ6u1ihYLD1912LR) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Cukup Tau](https://open.spotify.com/album/7F04lKGyAhMNFVd6RMuwuT) | 3:27 |
-| 67 | [Dewi](https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:17 |
-| 68 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 |
+| 67 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 |
+| 68 | [Dewi](https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:17 |
 | 69 | [Seamin Tak Seiman](https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Seamin Tak Seiman](https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m) | 3:36 |
 | 70 | [Menghitung Hari 2](https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF) | [Anda](https://open.spotify.com/artist/5OlpbBwGcQXudno2Esxa40) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:39 |
 | 71 | [Menuju Senja](https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 74 | [Ijinkan Aku Menyayangimu](https://open.spotify.com/track/108AjsNJYPMrZWecK7xNkF) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [In Love](https://open.spotify.com/album/0jBvMGOZkpYyBQHz6y246o) | 4:42 |
 | 75 | [Indah Pada Waktunya](https://open.spotify.com/track/1S5aHAr1hpf3icpzq3ullG) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Indah Pada Waktunya](https://open.spotify.com/album/4PuuRAc30rb3rPbTFHBWXx) | 4:00 |
 
-Snapshot ID: `MTY3ODcxODQ1NSwwMDAwMDAwMDkxZTBlOGFiZmNlYTliYTlhMjU1MDE2NzY2NDUyMGMz`
+Snapshot ID: `MTY3ODcxODQ1NSwwMDAwMDAwMDIyOWNkZjgyZTk3OTlkYjE5NWZlZjYzNjFiMzE3MTU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,224 likes - 157 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,356 likes - 157 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

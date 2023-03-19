@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Tsu Nami.
 
-323 songs - 19 hr 32 min
+324 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All To You \(feat\. Micah Martin\)](https://open.spotify.com/track/4cQzvfSsPLcUxieNmesdzb) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [All To You \(feat\. Micah Martin\)](https://open.spotify.com/album/1GyqD7X9T1UxyiYGdhvqE8) | 3:09 | 2022-07-08 | 2022-08-06 |
 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 | 2022-07-22 |  |
 | [Almost Home \- MitiS Remix](https://open.spotify.com/track/2ddJ5eXea7HzGwAC745jOr) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Almost Home \(The Remixes\)](https://open.spotify.com/album/0xEGWXpT3SZhB5KyIbOKZ7) | 3:14 | 2022-07-08 |  |
-| [ANEMONE](https://open.spotify.com/track/5YvjSiIeHcn2eV3NZLxMj8) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [ANEMONE](https://open.spotify.com/album/4ubXh9LjM4YuWTiOuw7efI) | 3:15 | 2023-03-10 |  |
+| [ANEMONE](https://open.spotify.com/track/5YvjSiIeHcn2eV3NZLxMj8) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [ANEMONE](https://open.spotify.com/album/4ubXh9LjM4YuWTiOuw7efI) | 3:15 | 2023-03-10 | 2023-03-19 |
 | [Angel](https://open.spotify.com/track/1qX54AHbcvUeGCLM9lzorU) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Angel](https://open.spotify.com/album/0mojBj3o9EM3B13S5AaY52) | 3:22 | 2022-07-08 | 2022-12-03 |
 | [Another Way](https://open.spotify.com/track/6sm1OQ89659UUpGctNTXvv) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Another Way](https://open.spotify.com/album/2k8sl8eCdvZGmLT2udUJLe) | 4:51 | 2022-10-07 |  |
 | [Anti\-Hero \- ILLENIUM Remix](https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Anti\-Hero \(ILLENIUM Remix\)](https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6) | 4:27 | 2022-11-18 |  |
@@ -181,6 +181,7 @@
 | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/track/3cLJYCnJVVAWZgPcAafv6u) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/album/6PfII0JtBwU9Si3KBW3S59) | 3:07 | 2022-07-08 | 2022-08-06 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-07-08 | 2023-02-26 |
 | [Last Forever](https://open.spotify.com/track/4qIdQ85ScIvl4E4ibBGjMp) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Last Forever](https://open.spotify.com/album/7yQNJPHh8ZeZBUE7AjK9Nf) | 4:09 | 2022-07-08 | 2022-07-29 |
+| [Let Go](https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Let Go](https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r) | 2:46 | 2023-03-10 |  |
 | [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 | 2022-09-09 | 2023-02-01 |
 | [Light Up The Sky \(feat\. Scott Stapp\)](https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [Light Up The Sky \(feat\. Scott Stapp\)](https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw) | 4:44 | 2022-07-08 |  |
 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 | 2022-07-08 | 2023-02-18 |

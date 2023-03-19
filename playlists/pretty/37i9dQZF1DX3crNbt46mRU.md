@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Monet192
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,303 likes - 109 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,307 likes - 109 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 7 | [Weisse Fahnen](https://open.spotify.com/track/3b4Wdpk6yOx4iEXzfzpnJ9) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Weisse Fahnen](https://open.spotify.com/album/4ddlFwyNsvmZcJBxx2VP09) | 3:32 |
 | 8 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 |
 | 9 | [Mutprobe](https://open.spotify.com/track/0e82tk02Hjs7MPekg75CWS) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Mutprobe](https://open.spotify.com/album/7DJUJGWwLa17fNEyNdqzjt) | 3:05 |
-| 10 | [Acolyte \(feat\. Dadju & Ninho\)](https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [MRTHN](https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g) | 2:49 |
+| 10 | [Acolyte \(feat\. Dadju & Ninho\)](https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [MRTHN](https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g) | 2:49 |
 | 11 | [Discokugel](https://open.spotify.com/track/3v4kNXy1e7Bz45LRStihUt) | [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Noah](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Discokugel](https://open.spotify.com/album/6hROus8rLuKJLuFBEIRHVo) | 3:01 |
 | 12 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 | 13 | [seeing you with other girls](https://open.spotify.com/track/05EL9Ml4T3MQ2ICIONhbEF) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [seeing you with other girls](https://open.spotify.com/album/61XFhjOmYfEyHgTk35zgpY) | 2:57 |

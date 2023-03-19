@@ -4,7 +4,7 @@
 
 > Explore the ever\-evolving folk & roots scene\. Cover: Under The Rug
 
-362 songs - 22 hr 31 min
+363 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Faded Colours](https://open.spotify.com/track/2bWoBPVyrYrE2AfXR28iub) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Faded Colours](https://open.spotify.com/album/3aoCQdRhed8aGD1JaYaWlP) | 3:32 | 2021-12-10 | 2022-07-29 |
 | [Fanfare](https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Fanfare](https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx) | 4:03 | 2022-03-25 | 2022-11-05 |
 | [Fatal Line](https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Fatal Line](https://open.spotify.com/album/02389joKGpQeSgbeMocOI2) | 3:01 | 2022-03-18 | 2023-02-25 |
-| [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-29 |  |
+| [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 | 2023-03-17 |  |
+| [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-29 | 2023-03-19 |
 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 | 2022-04-01 | 2022-08-13 |
 | [Fire Line](https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Fire Line](https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4) | 4:34 | 2021-12-10 | 2022-06-25 |
 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 | 2022-06-17 | 2023-02-11 |

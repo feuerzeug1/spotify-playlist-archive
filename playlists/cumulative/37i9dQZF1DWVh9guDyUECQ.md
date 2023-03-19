@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-325 songs - 19 hr 9 min
+326 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 | 2021-11-05 | 2022-04-18 |
 | [Hasta La Eternidad](https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Hasta La Eternidad](https://open.spotify.com/album/53dywng9hTIkHvljhNavG2) | 4:12 | 2022-08-27 |  |
 | [Hay Algo](https://open.spotify.com/track/6VtJzFeqa6OGp9ayDwWQxp) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne) | 4:05 | 2022-04-17 | 2023-03-05 |
+| [Hay Algo](https://open.spotify.com/track/7wQcynQeliPgO2HGAGZz7r) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa) | 4:05 | 2022-08-27 |  |
 | [His Will > Mine](https://open.spotify.com/track/6bDQdwXEsVXX72kOiUSEKA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [His Will > Mine](https://open.spotify.com/album/1YCZMAs3j2nkPiicRUQC15) | 1:51 | 2022-04-17 | 2022-08-28 |
 | [Hogar](https://open.spotify.com/track/24d1PUMgPVEoDyvJqjPKCk) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Home](https://open.spotify.com/album/2IQJg6KzupWW0n60NT6wSO) | 3:21 | 2021-11-05 | 2022-03-15 |
 | [Hora Correcta](https://open.spotify.com/track/6X2Mh4BvjhhXXiTJ5VUR3b) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Hora Correcta](https://open.spotify.com/album/2uqW3rCCaAby9qmkFr56cP) | 3:27 | 2021-11-05 | 2022-04-18 |
@@ -183,7 +184,7 @@
 | [MODA](https://open.spotify.com/track/7xH3KstUnh7Xnthv1uHsD0) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [MODA](https://open.spotify.com/album/1FWMB4CIkQrdzJnn7riFXB) | 4:11 | 2021-11-05 | 2022-03-22 |
 | [Mujer](https://open.spotify.com/track/1LJ6pG7p0SMWBQ0oo4Jb73) | [Romy Ram](https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs), [Julio Sarante](https://open.spotify.com/artist/4vB7YsbaJTHnbIaWAR34Zg) | [Radiografía](https://open.spotify.com/album/2MpaU3M0t3LadwkqkR2tr2) | 3:27 | 2022-04-17 | 2022-10-12 |
 | [Mujer Virtuosa](https://open.spotify.com/track/2TvBh2DIHWl0s1aycqWFP6) | [Breyk](https://open.spotify.com/artist/20lSo08NDqH07OkOvP4MF6), [Charry Slow](https://open.spotify.com/artist/3nuRx8FmLJk54rRQ6Tto2p) | [Mujer Virtuosa](https://open.spotify.com/album/2YhhY8IILFZYBIzWxRABDn) | 3:19 | 2021-11-05 | 2022-04-18 |
-| [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 | 2021-11-05 |  |
+| [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 | 2021-11-05 | 2023-03-19 |
 | [Mírame](https://open.spotify.com/track/2R9gEY83plghuqlEVHedMa) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Mírame](https://open.spotify.com/album/4VKiCYuoQomndlrSjGlkx5) | 3:20 | 2022-08-27 |  |
 | [Nada](https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Nada](https://open.spotify.com/album/2mbyB4D1yofDtI6Sx9VwvI) | 3:00 | 2022-08-27 |  |
 | [Nada Incierto](https://open.spotify.com/track/5x0HWiFyJbi0NywHfcXtBW) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Nada Incierto](https://open.spotify.com/album/77xEGnWdaZouqBYcGa1ax9) | 3:24 | 2022-08-27 |  |

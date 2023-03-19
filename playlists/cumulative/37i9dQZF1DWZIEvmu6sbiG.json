@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 260773,
       "name": "Bad Liar",
       "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
@@ -4624,6 +4624,24 @@
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+    },
+    {
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
     },
     {
       "album": {

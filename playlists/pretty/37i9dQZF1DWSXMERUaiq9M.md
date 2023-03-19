@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,249 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,493 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 20 | [Get Busy](https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Get Busy](https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob) | 3:20 |
 | 21 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
 | 22 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 |
-| 23 | [Luzifer \- feat\. Ufo361](https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [RK5](https://open.spotify.com/album/4wxcLVfRrCebsZaBdBctne) | 5:29 |
-| 24 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 |
-| 25 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 |
+| 23 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 |
+| 24 | [Luzifer \- feat\. Ufo361](https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [RK5](https://open.spotify.com/album/4wxcLVfRrCebsZaBdBctne) | 5:29 |
+| 25 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 |
 | 26 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
 | 27 | [Italo Disco](https://open.spotify.com/track/7BnlmCIxJ9PKojxusCrgDB) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 3:18 |
 | 28 | [Phonky Tribu \- DJ HEARTSTRING Remix](https://open.spotify.com/track/7w8qT1UcnJIZafNiLu2C7h) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Phonky Tribu \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/3SbtjONVN9BIpVxpks7A2g) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [Techno Installation](https://open.spotify.com/track/2FSqCe7FJvmFit3u1UXVHf) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Techno Installation](https://open.spotify.com/album/7snbKvrdJ6oCp4qmhUsEdO) | 6:48 |
 | 50 | [Counting Days](https://open.spotify.com/track/5OJD78B17MJrSAxQwIgurU) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Counting Days](https://open.spotify.com/album/02pKj0523YIrSE3dYI87Ry) | 4:52 |
 
-Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMDBiZDk4MzMzMzQ5YzY1ODc5OGIzM2UyNWQzZDdhNzUx`
+Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMGZhMDI3YjNmZTg2ZmU0ODQzNzUwM2UzMDdmZGVkZGQy`

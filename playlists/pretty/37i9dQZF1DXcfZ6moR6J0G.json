@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1604161,
+  "num_followers": 1605159,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzNjQ0MywwMDAwMDAwMGExMGMwYzhhZGQzMDQ2NDQwZGJjZWUyMjIyMGUxMmU0",
+  "snapshot_id": "MTY3NzUzNjQ0MywwMDAwMDAwMDJhMjU5OGVjZTQ5ZTM3MzBmOTYzNmFmMmNkOGIwNTJl",
   "tracks": [
     {
       "added_at": "2023-02-27 22:20:42",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Flyleaf",
-        "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
-      },
-      "artists": [
-        {
-          "name": "Flyleaf",
-          "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "I'm So Sick",
-      "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
         "name": "Steal This Album!",
         "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 188600,
       "name": "I-E-A-I-A-I-O",
       "url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
+        "name": "Flyleaf",
+        "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
+      },
+      "artists": [
+        {
+          "name": "Flyleaf",
+          "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "I'm So Sick",
+      "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "The Height of Callousness",
-        "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
-      },
-      "artists": [
-        {
-          "name": "Spineshank",
-          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "New Disease",
-      "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
         "name": "S.C.I.E.N.C.E.",
         "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 191360,
       "name": "A Certain Shade of Green",
       "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
+        "name": "The Height of Callousness",
+        "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
+      },
+      "artists": [
+        {
+          "name": "Spineshank",
+          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "New Disease",
+      "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
     },
     {
       "added_at": "2023-02-27 22:20:42",

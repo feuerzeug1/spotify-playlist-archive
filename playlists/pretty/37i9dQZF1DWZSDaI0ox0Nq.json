@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 15099,
+  "num_followers": 15113,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDdiZWU2ZjYyYTZlNmE4YmRhNjAzYjRiMDRkOTU1ODA3",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDJhYWQxMmRmMTc3YmYwOWY5MmQ1MjYyZGUxOGY1M2M3",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
-      },
-      "artists": [
-        {
-          "name": "Maria Gra\u00f1a",
-          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
-        },
-        {
-          "name": "Eladia Blazquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 243893,
-      "name": "El Coraz\u00f3n al Sur",
-      "url": "https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -595,6 +575,26 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
+      },
+      "artists": [
+        {
+          "name": "Maria Gra\u00f1a",
+          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
+        },
+        {
+          "name": "Eladia Blazquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 243893,
+      "name": "El Coraz\u00f3n al Sur",
+      "url": "https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Puro Verso",
-        "url": "https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl"
+        "name": "Azsulado",
+        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
       },
       "artists": [
         {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+          "name": "Alicia Vignola",
+          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
         }
       ],
-      "duration_ms": 258529,
-      "name": "La \u00daltima Curda",
-      "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
+      "duration_ms": 196373,
+      "name": "Mujer ni\u00f1a y amiga",
+      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -643,22 +643,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
+        "name": "Puro Verso",
+        "url": "https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl"
       },
       "artists": [
         {
-          "name": "Maria Gra\u00f1a",
-          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Naranjo en Flor (feat. Mercedes Sosa)",
-      "url": "https://open.spotify.com/track/25NuGWk6dbNy8Eyt6zNlsR"
+      "duration_ms": 258529,
+      "name": "La \u00daltima Curda",
+      "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -679,22 +675,6 @@
       "duration_ms": 238852,
       "name": "Malena",
       "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Azsulado",
-        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
-      },
-      "artists": [
-        {
-          "name": "Alicia Vignola",
-          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Mujer ni\u00f1a y amiga",
-      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -795,18 +775,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "Maria Gra\u00f1a",
+          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 193348,
-      "name": "La Piel de la Ciudad",
-      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
+      "duration_ms": 225800,
+      "name": "Naranjo en Flor (feat. Mercedes Sosa)",
+      "url": "https://open.spotify.com/track/25NuGWk6dbNy8Eyt6zNlsR"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -827,6 +811,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 193348,
+      "name": "La Piel de la Ciudad",
+      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
         "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
       },
@@ -839,62 +839,6 @@
       "duration_ms": 132813,
       "name": "Morocha Triste",
       "url": "https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
-      },
-      "artists": [
-        {
-          "name": "Maria Gra\u00f1a",
-          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
-        },
-        {
-          "name": "Jorge Calandrelli",
-          "url": "https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Caser\u00f3n de Tejas (feat. Jorge Calandrelli)",
-      "url": "https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Tal Vez Ser\u00e1 Su Voz",
-        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Orquesta El Arranque",
-          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
-        }
-      ],
-      "duration_ms": 265679,
-      "name": "Tal vez ser\u00e1 su voz",
-      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Tangos Famosos Cantados",
-        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -915,6 +859,42 @@
       "duration_ms": 165637,
       "name": "Rosas de Oto\u00f1o",
       "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Tangos Famosos Cantados",
+        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
+      },
+      "artists": [
+        {
+          "name": "Maria Gra\u00f1a",
+          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
+        },
+        {
+          "name": "Jorge Calandrelli",
+          "url": "https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Caser\u00f3n de Tejas (feat. Jorge Calandrelli)",
+      "url": "https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -947,6 +927,26 @@
       "duration_ms": 155280,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Tal Vez Ser\u00e1 Su Voz",
+        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
+        }
+      ],
+      "duration_ms": 265679,
+      "name": "Tal vez ser\u00e1 su voz",
+      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
     },
     {
       "added_at": "2022-07-08 03:00:00",

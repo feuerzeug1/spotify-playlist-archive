@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 56066,
+  "num_followers": 56070,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY5NjQ3OCwwMDAwMDAwMGM5NDlmMDM3NWU5NzNhMWMzZGI5ZjEyOWZhMDU3YTJh",
+  "snapshot_id": "MTY3ODY5NjQ3OCwwMDAwMDAwMDcxM2QzZDQ2MTU1NWRhOTBiMmVmNjdjYWM2NmUxNTc2",
   "tracks": [
     {
       "added_at": "2023-03-13 08:34:38",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-03-13 08:34:38",
       "album": {
+        "name": "Here's Love",
+        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
+    },
+    {
+      "added_at": "2023-03-13 08:34:38",
+      "album": {
         "name": "Standard Time Vol. 3: The Resolution Of Romance",
         "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 267173,
       "name": "Where We Used to Live",
       "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
-    },
-    {
-      "added_at": "2023-03-13 08:34:38",
-      "album": {
-        "name": "Here's Love",
-        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
-      },
-      "artists": [
-        {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
     },
     {
       "added_at": "2023-03-13 08:34:38",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-03-13 08:34:38",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
+      },
+      "artists": [
+        {
+          "name": "Paul Bley Trio",
+          "url": "https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Ida Lupino",
+      "url": "https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK"
+    },
+    {
+      "added_at": "2023-03-13 08:34:38",
+      "album": {
         "name": "Thelonious Monk with John Coltrane (OJC Remaster)",
         "url": "https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 381520,
       "name": "Ruby, My Dear",
       "url": "https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq"
-    },
-    {
-      "added_at": "2023-03-13 08:34:38",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
-      },
-      "artists": [
-        {
-          "name": "Paul Bley Trio",
-          "url": "https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Ida Lupino",
-      "url": "https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK"
     },
     {
       "added_at": "2023-03-13 08:34:38",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-13 08:34:38",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
-    },
-    {
-      "added_at": "2023-03-13 08:34:38",
-      "album": {
         "name": "Today And Now",
         "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 284680,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/4dUVpbIu8FW7R76gejw3cq"
+    },
+    {
+      "added_at": "2023-03-13 08:34:38",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
     },
     {
       "added_at": "2023-03-13 08:34:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-13 08:34:38",
       "album": {
-        "name": "Out Here",
-        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride Trio",
-          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
-        }
-      ],
-      "duration_ms": 507534,
-      "name": "I Have Dreamed",
-      "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
-    },
-    {
-      "added_at": "2023-03-13 08:34:38",
-      "album": {
         "name": "Another Standard",
         "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-03-13 08:34:38",
       "album": {
-        "name": "Be Cool",
-        "url": "https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D"
+        "name": "Out Here",
+        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
       },
       "artists": [
         {
-          "name": "Eddie Henderson",
-          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
+          "name": "Christian McBride Trio",
+          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
         }
       ],
-      "duration_ms": 424243,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy"
+      "duration_ms": 507534,
+      "name": "I Have Dreamed",
+      "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
     },
     {
       "added_at": "2023-03-13 08:34:38",
@@ -1195,6 +1179,22 @@
       "duration_ms": 333346,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
+    },
+    {
+      "added_at": "2023-03-13 08:34:38",
+      "album": {
+        "name": "Be Cool",
+        "url": "https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D"
+      },
+      "artists": [
+        {
+          "name": "Eddie Henderson",
+          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
+        }
+      ],
+      "duration_ms": 424243,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy"
     },
     {
       "added_at": "2023-03-13 08:34:38",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-13 08:34:38",
       "album": {
-        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
-    },
-    {
-      "added_at": "2023-03-13 08:34:38",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 194000,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/4gC95tJcg0TWAz3LJ2dZpN"
+    },
+    {
+      "added_at": "2023-03-13 08:34:38",
+      "album": {
+        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
     },
     {
       "added_at": "2023-03-13 08:34:38",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-03-13 08:34:38",
       "album": {
-        "name": "The Gotland Session",
-        "url": "https://open.spotify.com/album/1eMVzFOPZrjBlEGKXYxadA"
+        "name": "Bob Acri",
+        "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
       },
       "artists": [
         {
-          "name": "Magnus Ringblom Quartet",
-          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
+          "name": "Bob Acri",
+          "url": "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
         }
       ],
-      "duration_ms": 193750,
-      "name": "Last Ride Home",
-      "url": "https://open.spotify.com/track/22QZgO76vLjdpZY161iF72"
+      "duration_ms": 201226,
+      "name": "Sleep Away",
+      "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

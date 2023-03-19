@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 49088,
+  "num_followers": 49168,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMGE4ZDlmMTVmOGYxZTMxNjY4NjFiZWE0YmQ2MmE5NzJl",
+  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMDBmMjUyMDRkYzlhZTc0YTdlNDRiNWY4NjUxZjM2M2Ey",
   "tracks": [
     {
       "added_at": "2023-03-11 01:27:47",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-11 01:27:47",
       "album": {
-        "name": "ImaginAline",
-        "url": "https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 276321,
-      "name": "Sr. Ant\u00f4nimo",
-      "url": "https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r"
-    },
-    {
-      "added_at": "2023-03-11 01:27:47",
-      "album": {
         "name": "Deixa a Gl\u00f3ria de Deus Brilhar",
         "url": "https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 205400,
       "name": "Deixa a Gl\u00f3ria de Deus Brilhar",
       "url": "https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs"
+    },
+    {
+      "added_at": "2023-03-11 01:27:47",
+      "album": {
+        "name": "ImaginAline",
+        "url": "https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 276321,
+      "name": "Sr. Ant\u00f4nimo",
+      "url": "https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r"
     }
   ],
   "unique_name": "Gospel Kids",

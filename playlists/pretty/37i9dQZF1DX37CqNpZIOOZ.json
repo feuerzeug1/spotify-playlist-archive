@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 18435,
+  "num_followers": 18450,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDkzYjMzOWNhYzVhOGQ1OTMwYjZlNGJjYzI1MWNlMDlh",
+  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDAyMWZmMGI0MzQyNGRhNjQ2OGQxNzNmOGQ3MzJlNjNj",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -367,6 +367,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R.: Songs of Love and Death",
+        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Hedwig Fassbender",
+          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
+        },
+        {
+          "name": "Hilko Dumno",
+          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "8 Gedichte aus Letzte Blatter, Op. 10, TrV 141: No. 8. Allerseelen",
+      "url": "https://open.spotify.com/track/5DjbLzDmbP21ZVgCtvWY1J"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "STRAUSS, R.: Don Juan / Till Eulenspiegel / Death and Transfiguration",
         "url": "https://open.spotify.com/album/0LsByeNYo64Xo65qpYpsvu"
       },
@@ -415,30 +439,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Songs of Love and Death",
-        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Hedwig Fassbender",
-          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
-        },
-        {
-          "name": "Hilko Dumno",
-          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "8 Gedichte aus Letzte Blatter, Op. 10, TrV 141: No. 8. Allerseelen",
-      "url": "https://open.spotify.com/track/5DjbLzDmbP21ZVgCtvWY1J"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
         "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
       },
@@ -455,6 +455,30 @@
       "duration_ms": 287920,
       "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
       "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Capriccio - Works for Violin and Piano [Digital version]",
+        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Strauss, R / Arr. Prihoda for Violin and Piano: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle",
+      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -499,30 +523,6 @@
       "duration_ms": 1070973,
       "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
       "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Capriccio - Works for Violin and Piano [Digital version]",
-        "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Strauss, R / Arr. Prihoda for Violin and Piano: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle",
-      "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -579,6 +579,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
+        "url": "https://open.spotify.com/album/1re3YyWogEFDTePZHNO7uL"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        }
+      ],
+      "duration_ms": 394133,
+      "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
+      "url": "https://open.spotify.com/track/1s2uSkX5bHKurbKWvZmuDI"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss: Elektra",
         "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 369720,
       "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
       "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
-        "url": "https://open.spotify.com/album/1re3YyWogEFDTePZHNO7uL"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Raphaela Gromes",
-          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
-        },
-        {
-          "name": "Julian Riem",
-          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
-        }
-      ],
-      "duration_ms": 394133,
-      "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
-      "url": "https://open.spotify.com/track/1s2uSkX5bHKurbKWvZmuDI"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -699,6 +699,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss: Piano Trios Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Amelia Piano Trio",
+          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
+        },
+        {
+          "name": "Max Mandel",
+          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Standchen, TrV 114",
+      "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Don Quixote / Romance for Cello and Orchestra",
         "url": "https://open.spotify.com/album/7LJ0xREZmgCSt8r1Z4cb2F"
       },
@@ -723,30 +747,6 @@
       "duration_ms": 596640,
       "name": "Romanze in F Major, TrV 118: Romance for Cello and Orchestra",
       "url": "https://open.spotify.com/track/5GsKhvtc4KHo9cwf58lpHi"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Piano Trios Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Amelia Piano Trio",
-          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
-        },
-        {
-          "name": "Max Mandel",
-          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Standchen, TrV 114",
-      "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -935,30 +935,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "R. Strauss: Symphonische Dichtungen",
-        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Tonk\u00fcnstler-Orchester",
-          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Der B\u00fcrger als Edelmann Suite, Op. 60, TrV 228c: I. Ouvert\u00fcre",
-      "url": "https://open.spotify.com/track/3OuSNziMDFli3c8x89N7Hs"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
         "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
       },
@@ -1015,6 +991,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "R. Strauss: Symphonische Dichtungen",
+        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Tonk\u00fcnstler-Orchester",
+          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Der B\u00fcrger als Edelmann Suite, Op. 60, TrV 228c: I. Ouvert\u00fcre",
+      "url": "https://open.spotify.com/track/3OuSNziMDFli3c8x89N7Hs"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Solti - Richard Strauss - The Operas",
         "url": "https://open.spotify.com/album/5NoP4U6KVEhyzIWXJ9x1D5"
       },
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, Richard: Complete Orchestral Works",
-        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
-      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "R. Strauss & Wagner: Lieder",
         "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
       },
@@ -1087,6 +1063,30 @@
       "duration_ms": 155560,
       "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
       "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, Richard: Complete Orchestral Works",
+        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
+      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
     },
     {
       "added_at": "2022-06-20 09:55:21",

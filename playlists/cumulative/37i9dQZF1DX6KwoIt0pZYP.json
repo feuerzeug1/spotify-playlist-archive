@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Dum Dum",
+        "url": "https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195163,
+      "name": "Dum Dum - English Version",
+      "url": "https://open.spotify.com/track/6McBFhOohQvx0zWkoISnap"
+    },
+    {
+      "album": {
         "name": "eighteen",
         "url": "https://open.spotify.com/album/0y9L01zTXkz4ogsNCX2cA6"
       },
@@ -4248,7 +4266,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 239503,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/2Jb3wm5dZEHKjf9b0XXDDU"
@@ -4288,6 +4306,24 @@
       "duration_ms": 242250,
       "name": "It Wasn't Love",
       "url": "https://open.spotify.com/track/6sTrIqgqmcfFdXYcDDWS1X"
+    },
+    {
+      "album": {
+        "name": "It's fine",
+        "url": "https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y"
+      },
+      "artists": [
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305714,
+      "name": "It's fine",
+      "url": "https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb"
     },
     {
       "album": {
@@ -4446,7 +4482,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 186000,
       "name": "Kahlua",
       "url": "https://open.spotify.com/track/5N02Th5pGOdtkxkJCjiNM4"
@@ -5116,7 +5152,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 188767,
       "name": "Love Tale",
       "url": "https://open.spotify.com/track/0xuguGT4hciIZWGswErWMB"
@@ -6103,6 +6139,24 @@
     },
     {
       "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/6P50AXn39btHpVuVymeVHc"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159485,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4tOBkwkWLVdcpS8KznVcSx"
+    },
+    {
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/3wV7od4cEPh3sofqyW8g0G"
       },
@@ -6798,6 +6852,24 @@
       "duration_ms": 169157,
       "name": "Romantic Comedies",
       "url": "https://open.spotify.com/track/32UFQyrBNdSaIXPrqvRkaJ"
+    },
+    {
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/7vawAmxGohhTYN53lzenQW"
+      },
+      "artists": [
+        {
+          "name": "Mirror",
+          "url": "https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199935,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/19rYI8oRZAdz0gQIQ2yHld"
     },
     {
       "album": {
@@ -8898,7 +8970,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 202945,
       "name": "water comes out of my eyes",
       "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"

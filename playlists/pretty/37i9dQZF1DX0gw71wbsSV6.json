@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43019,
+  "num_followers": 43034,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk3ODgwMCwwMDAwMDAwMDZkNThkYjVhZDMzOGJhNjVhMTkyMWU0NjkwZjlhNzM1",
+  "snapshot_id": "MTY3ODk3ODgwMCwwMDAwMDAwMDYzODc4NTczYzk5MDQ1NGQ2MWQ3OGQ4ZjkxMTk4NDBi",
   "tracks": [
     {
       "added_at": "2023-03-16 15:00:00",
@@ -71,22 +71,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -107,22 +103,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+        "name": "The Grants",
+        "url": "https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+      "duration_ms": 295201,
+      "name": "The Grants",
+      "url": "https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -175,6 +167,46 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
@@ -187,6 +219,22 @@
       "duration_ms": 204712,
       "name": "Paris in the Rain",
       "url": "https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "\u604b\u3092\u77e5\u3063\u3066\u3044\u308b\u3059\u3079\u3066\u306e\u3042\u306a\u305f\u3078",
+        "url": "https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd"
+      },
+      "artists": [
+        {
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+        }
+      ],
+      "duration_ms": 322008,
+      "name": "\u5929\u4f7f\u307f\u305f\u3044",
+      "url": "https://open.spotify.com/track/6UR6pJ7pNumC81tmG5S4jb"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -211,34 +259,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "The Grants",
-        "url": "https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA"
+        "name": "i hate u",
+        "url": "https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 295201,
-      "name": "The Grants",
-      "url": "https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
-        "name": "\u604b\u3092\u77e5\u3063\u3066\u3044\u308b\u3059\u3079\u3066\u306e\u3042\u306a\u305f\u3078",
-        "url": "https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd"
-      },
-      "artists": [
-        {
-          "name": "SHISHAMO",
-          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
-        }
-      ],
-      "duration_ms": 322008,
-      "name": "\u5929\u4f7f\u307f\u305f\u3044",
-      "url": "https://open.spotify.com/track/6UR6pJ7pNumC81tmG5S4jb"
+      "duration_ms": 169767,
+      "name": "i hate u",
+      "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -255,22 +287,6 @@
       "duration_ms": 203787,
       "name": "napori",
       "url": "https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
-        "name": "i hate u",
-        "url": "https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 169767,
-      "name": "i hate u",
-      "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -319,6 +335,22 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "duration_ms": 258879,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL"
       },
@@ -339,18 +371,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp"
+        "name": "French Movie",
+        "url": "https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb"
       },
       "artists": [
         {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+          "name": "Bubble Tea and Cigarettes",
+          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
         }
       ],
-      "duration_ms": 258879,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl"
+      "duration_ms": 199680,
+      "name": "French Movie",
+      "url": "https://open.spotify.com/track/5neke7wAgH6BT43KoYgowg"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -371,22 +403,6 @@
       "duration_ms": 176974,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
-        "name": "French Movie",
-        "url": "https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb"
-      },
-      "artists": [
-        {
-          "name": "Bubble Tea and Cigarettes",
-          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "French Movie",
-      "url": "https://open.spotify.com/track/5neke7wAgH6BT43KoYgowg"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "How To Drive",
-        "url": "https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 219824,
-      "name": "How To Drive",
-      "url": "https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "just like you",
         "url": "https://open.spotify.com/album/6KSYGpRBRafRV0jQh4oayC"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 170734,
       "name": "just like you",
       "url": "https://open.spotify.com/track/41Rk18JqD8CbBcWM8VH0kk"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "How To Drive",
+        "url": "https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 219824,
+      "name": "How To Drive",
+      "url": "https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "LOCATION - Los Angeles",
-        "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 176354,
-      "name": "Fall in love with you in every 4AM.",
-      "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "Passing",
         "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "See You In Life",
-        "url": "https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI"
+        "name": "LOCATION - Los Angeles",
+        "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
       },
       "artists": [
         {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 241750,
-      "name": "See You In Life",
-      "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
+      "duration_ms": 176354,
+      "name": "Fall in love with you in every 4AM.",
+      "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Love (feat. Skaai)",
-        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
+        "name": "See You In Life",
+        "url": "https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Love (feat. Skaai)",
-      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+      "duration_ms": 241750,
+      "name": "See You In Life",
+      "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -575,38 +571,22 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Can We Do This? (feat. Sampha)",
-        "url": "https://open.spotify.com/album/37GaMBFRIKZtKxmcdjcb6O"
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
       "artists": [
         {
-          "name": "Speakers Corner Quartet",
-          "url": "https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         },
         {
-          "name": "Kwake Bass",
-          "url": "https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7"
-        },
-        {
-          "name": "Raven Bush",
-          "url": "https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs"
-        },
-        {
-          "name": "Peter Bennie",
-          "url": "https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G"
-        },
-        {
-          "name": "Biscuit",
-          "url": "https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 177770,
-      "name": "Can We Do This?",
-      "url": "https://open.spotify.com/track/5Tanr4u1BgG8I1Qth9o66M"
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -667,22 +647,38 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
+        "name": "Can We Do This?",
+        "url": "https://open.spotify.com/album/37GaMBFRIKZtKxmcdjcb6O"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Speakers Corner Quartet",
+          "url": "https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH"
         },
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Kwake Bass",
+          "url": "https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7"
+        },
+        {
+          "name": "Raven Bush",
+          "url": "https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs"
+        },
+        {
+          "name": "Peter Bennie",
+          "url": "https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G"
+        },
+        {
+          "name": "Biscuit",
+          "url": "https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 210353,
-      "name": "Kyoto - Spotify Singles",
-      "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+      "duration_ms": 177770,
+      "name": "Can We Do This?",
+      "url": "https://open.spotify.com/track/5Tanr4u1BgG8I1Qth9o66M"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -699,6 +695,26 @@
       "duration_ms": 262783,
       "name": "\u8857\u306e\u7d42\u308f\u308a",
       "url": "https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 210353,
+      "name": "Kyoto - Spotify Singles",
+      "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -875,22 +891,6 @@
       "duration_ms": 203846,
       "name": "Neon wo Keshite",
       "url": "https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
-        "name": "Rocket Science",
-        "url": "https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91"
-      },
-      "artists": [
-        {
-          "name": "Kenta Dedachi",
-          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "I can't seem to let you go",
-      "url": "https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,720 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,066 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 2 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
 | 3 | [Nobody \(feat\. Matthew West\)](https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 3:26 |
 | 4 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 |
-| 5 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 |
-| 6 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
+| 5 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
+| 6 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 |
 | 7 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 |
 | 8 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 |
 | 9 | [There Was Jesus](https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:43 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 48 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 |
 | 49 | [Saved](https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Saved](https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi) | 2:54 |
 | 50 | [You Got This](https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [You Got This](https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I) | 3:14 |
-| 51 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
-| 52 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 |
+| 51 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 |
+| 52 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
 | 53 | [Never Lost](https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Never Lost](https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt) | 5:15 |
 | 54 | [Prize Worth Fighting For](https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For](https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo) | 3:20 |
 | 55 | [Ready Set Go \(feat\. Capital Kings\) \(feat\. Capital Kings\)](https://open.spotify.com/track/0HbjDc4BM2kXEuiOGf8nPl) | [Royal Tailor](https://open.spotify.com/artist/1CmWVjnzTRTqZqdVIlZSSY), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Royal Tailor](https://open.spotify.com/album/2VDnekBdHv9CuNpu3yBMZa) | 3:29 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 61 | [The Only Name \(Yours Will Be\)](https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:21 |
 | 62 | [Song In My Soul \(feat\. Hollyn\)](https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 3:51 |
 | 63 | [It's Gonna Get Better](https://open.spotify.com/track/2FAe8dckXKBLgKoiDEkdi8) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Better](https://open.spotify.com/album/4nrfC2KI741CXHq1wqvHoY) | 3:22 |
-| 64 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 |
-| 65 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
+| 64 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
+| 65 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 |
 | 66 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
 | 67 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 |
 | 68 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
 | 69 | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0) | 3:56 |
-| 70 | [Miracle](https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:42 |
-| 71 | [Even Louder](https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Even Louder](https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx) | 3:29 |
+| 70 | [Even Louder](https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Even Louder](https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx) | 3:29 |
+| 71 | [Miracle](https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:42 |
 | 72 | [You Are I Am](https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Hurt & The Healer](https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx) | 4:20 |
 | 73 | [Yes I Will \(Studio Version\)](https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will \(Studio Version\)](https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi) | 3:36 |
 | 74 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
 | 75 | [The Same Jesus](https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Same Jesus](https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c) | 3:45 |
 
-Snapshot ID: `MTY3NTc5MTc5NiwwMDAwMDAwMGQzMmQxYTlhMzRjNzQ4MDk0MzdkNjFlNWQzZDQ2OTYz`
+Snapshot ID: `MTY3NTc5MTc5NiwwMDAwMDAwMDllZDA0ZTY0M2NiYmFlZTNkM2I5NDJjYWVmMTdhZGVi`

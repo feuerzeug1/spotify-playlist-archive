@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Hozier
 
-375 songs - 21 hr 23 min
+376 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Far from Home](https://open.spotify.com/track/1VUbViOlLsvXeb6Aiv3A63) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Far from Home](https://open.spotify.com/album/4klVYwt72so3CYGFh1sTEe) | 3:12 | 2021-11-19 | 2022-06-29 |
 | [Far from Home](https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Foreign Sea](https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt) | 3:12 | 2022-08-12 |  |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 | 2022-06-30 |
-| [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-22 |  |
+| [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 | 2023-03-17 |  |
+| [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-22 | 2023-03-19 |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2021-11-19 |  |
 | [Fewer Ghosts \- Acoustic](https://open.spotify.com/track/2VvX7hcWG9Ecd1olc2SQAm) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Fewer Ghosts \(Acoustic\)](https://open.spotify.com/album/0Vj0lONqrLMKEwlTMNtLhC) | 3:43 | 2021-11-19 | 2022-07-29 |
 | [Fine](https://open.spotify.com/track/5haQ3V1o1cAiI53ZghAxqM) | [Kaley Rutledge](https://open.spotify.com/artist/59PtqO4zhEmXT6pXVVYXaT) | [Tender Heart](https://open.spotify.com/album/4soYlSiTnufYSeb5CBtyrl) | 2:49 | 2021-11-19 | 2022-01-17 |

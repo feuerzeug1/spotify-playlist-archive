@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,382 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,503 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 19 | [Caro](https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:06 |
 | 20 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 |
 | 21 | [Skelewu](https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Best Of Davido](https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI) | 3:10 |
-| 22 | [Yes/No](https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt) | 4:07 |
-| 23 | [Slow Down \(feat\. Wiz Kid\)](https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 4:21 |
+| 22 | [Slow Down \(feat\. Wiz Kid\)](https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 4:21 |
+| 23 | [Yes/No](https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt) | 4:07 |
 | 24 | [The Matter \(feat\. Wizkid\)](https://open.spotify.com/track/2cWdhA4ZDBvYuHRKKIPT3k) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [The Matter \(feat\. Wizkid\)](https://open.spotify.com/album/1nu7MqRnwUFG26Zk90kWyV) | 3:18 |
 | 25 | [Chop My Money \- Remix](https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5) | [Chop My Money](https://open.spotify.com/album/50wBF1pk26slksIqYODsHk) | 4:32 |
 | 26 | [Obianuju](https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 3:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [Ahayede](https://open.spotify.com/track/1zcxIb6URuZV1GAFpmc9OE) | [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [SK Originale](https://open.spotify.com/artist/2z5uuIjNgQjzjwO3QVwHXP) | [Best of Nana Boroo](https://open.spotify.com/album/54tIGXCVvEV7V71w8XnxrB) | 5:00 |
 | 80 | [Couper décaler](https://open.spotify.com/track/6YrUPrGLY5CzrgyleP5kgG) | [Teeyah](https://open.spotify.com/artist/11N8QdhYGEkvG1WBEhNZ3O) | [Retro Zouk Tunes](https://open.spotify.com/album/3LKSt5p2jPVO93JwgllpXP) | 5:29 |
 
-Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMDRhN2NiMTI2ZDJmZDZkMTg3YzFkODlkNGRjNWQyYzYy`
+Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMGZlYzQ0M2FiMWY4ZGQwYTA4ZTFmZGEwYmQ5ZWM5MjZk`

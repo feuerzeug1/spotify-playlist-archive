@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 28738,
+  "num_followers": 28950,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA3MjIxNiwwMDAwMDAwMDlhOWY2NGE2OTk5MDQ5MGRhOWZhYjdmM2M3ZjMxMjg0",
+  "snapshot_id": "MTY3OTA3MjIxNiwwMDAwMDAwMGQwNjAyNjVjOTYwZmFmNzYzYmE3ZWFiNTM5ZGVjZDg5",
   "tracks": [
     {
       "added_at": "2023-03-17 16:56:56",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
-        "name": "Keeping Me Under",
-        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 218926,
-      "name": "Keeping Me Under",
-      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
-    },
-    {
-      "added_at": "2023-03-17 16:56:56",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+        "name": "Keeping Me Under",
+        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+      "duration_ms": 218926,
+      "name": "Keeping Me Under",
+      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
     },
     {
       "added_at": "2023-03-17 16:56:56",
@@ -387,18 +371,18 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 357357,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2023-03-17 16:56:56",
@@ -415,6 +399,22 @@
       "duration_ms": 188613,
       "name": "I Wish I Knew How It Would Feel to Be Free",
       "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
+    },
+    {
+      "added_at": "2023-03-17 16:56:56",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 357357,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
     },
     {
       "added_at": "2023-03-17 16:56:56",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
+        "name": "Express Yourself",
+        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
+    },
+    {
+      "added_at": "2023-03-17 16:56:56",
+      "album": {
         "name": "The Soul Album",
         "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
       },
@@ -519,18 +535,18 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
-        "name": "Express Yourself",
-        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
       "artists": [
         {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 233613,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2023-03-17 16:56:56",
@@ -567,22 +583,6 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2023-03-17 16:56:56",
-      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
-        "name": "The Sun Is Up Forever",
-        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "The Sun Is Up Forever",
-      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
-    },
-    {
-      "added_at": "2023-03-17 16:56:56",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 327706,
       "name": "Inner City Blues (Make Me Wanna Holler)",
       "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
+    },
+    {
+      "added_at": "2023-03-17 16:56:56",
+      "album": {
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
     },
     {
       "added_at": "2023-03-17 16:56:56",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
-        "name": "Heavy Heavy",
-        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "Rice",
-      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
-    },
-    {
-      "added_at": "2023-03-17 16:56:56",
-      "album": {
         "name": "Phases EP",
         "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2023-03-17 16:56:56",
+      "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
     },
     {
       "added_at": "2023-03-17 16:56:56",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
-    },
-    {
-      "added_at": "2023-03-17 16:56:56",
-      "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/6jJup68OjU0nYjj6LWIsUj"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 175737,
       "name": "Danger",
       "url": "https://open.spotify.com/track/1zAITH7C5UFYNE8DOFlE7h"
+    },
+    {
+      "added_at": "2023-03-17 16:56:56",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
     },
     {
       "added_at": "2023-03-17 16:56:56",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
-        "name": "Why Don't You Touch Me",
-        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Why Don't You Touch Me",
-      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
-    },
-    {
-      "added_at": "2023-03-17 16:56:56",
-      "album": {
         "name": "Gettin' Down To It",
         "url": "https://open.spotify.com/album/1o3Rv2hBIXYw8pE0TqoM3X"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 269560,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/2ypFEmLB5q5j2l34bFxF8Y"
+    },
+    {
+      "added_at": "2023-03-17 16:56:56",
+      "album": {
+        "name": "Why Don't You Touch Me",
+        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Why Don't You Touch Me",
+      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
     },
     {
       "added_at": "2023-03-17 16:56:56",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-03-17 16:56:56",
       "album": {
-        "name": "Angels & Queens - Part I (Track by Track)",
-        "url": "https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
-    },
-    {
-      "added_at": "2023-03-17 16:56:56",
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 200066,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
+    },
+    {
+      "added_at": "2023-03-17 16:56:56",
+      "album": {
+        "name": "Angels & Queens - Part I (Track by Track)",
+        "url": "https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
     },
     {
       "added_at": "2023-03-17 16:56:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,821 likes - 60 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,869 likes - 60 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 44 | [Heavenly Sent](https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu) | 6:27 |
 | 45 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
 | 46 | [Sana Luma \(That's The Way Love Is\)](https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg) | 5:17 |
-| 47 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
-| 48 | [Where I Wanna Be](https://open.spotify.com/track/0CJ8BEJi9NOQblvrGspHY9) | [Mina Nawe](https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0) | [Njalo](https://open.spotify.com/album/5Ho2YfXnMygWGE8Dh2CeAH) | 4:23 |
+| 47 | [Where I Wanna Be](https://open.spotify.com/track/0CJ8BEJi9NOQblvrGspHY9) | [Mina Nawe](https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0) | [Njalo](https://open.spotify.com/album/5Ho2YfXnMygWGE8Dh2CeAH) | 4:23 |
+| 48 | [Township Funk](https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR) | 5:49 |
 | 49 | [Nomvula \(After the Rain\)](https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 4:43 |
-| 50 | [Township Funk](https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR) | 5:49 |
+| 50 | [Thobela](https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:46 |
 | 51 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
-| 52 | [Thobela](https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:46 |
+| 52 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
 | 53 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
 | 54 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
 | 55 | [The Way Kungakhona](https://open.spotify.com/track/05Q9XpYvVBvOMjebS7POqm) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Bongolution](https://open.spotify.com/album/4da1pBU7ZAd1INKbWOxkii) | 6:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [Ntozabantu](https://open.spotify.com/track/1d6f5DF7ze4mUtvTYDP0ku) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Dream](https://open.spotify.com/album/06WmmNtrJiAWf8ofaaTfUK) | 5:09 |
 | 60 | [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta Kamp](https://open.spotify.com/artist/5Y0pKQ51nrT0IBnd6zDRqk) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 |
 
-Snapshot ID: `MTY3NDQ3OTQzOCwwMDAwMDAwMDE3OTkyOGMxZDg2MWMyYmI3MDY0MzAxOTE4Zjg0ZmYx`
+Snapshot ID: `MTY3NDQ3OTQzOCwwMDAwMDAwMGY2ODRjNWRiZGZhNDQxODM2Zjc1YjdhMWI4YjFkZjQw`

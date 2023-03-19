@@ -1,12 +1,12 @@
 {
   "description": "Take the afternoon off.",
-  "num_followers": 29753,
+  "num_followers": 29813,
   "original_name": "Ros\u00e9 on Tap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1MjIxMCwwMDAwMDAwMGI2ZDJjMmZlOTg1YzhjOWUzOWRlNzI0MjVlNzA4Yzgx",
+  "snapshot_id": "MTY3MTE1MjIxMCwwMDAwMDAwMGNjMGJkNDE5YTQwNTcyMTM5ZmZiMGEyODJjOTdkZjIw",
   "tracks": [
     {
       "added_at": "2022-12-16 00:56:50",
@@ -207,26 +207,6 @@
     {
       "added_at": "2022-12-16 00:56:50",
       "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2022-12-16 00:56:50",
-      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
+    },
+    {
+      "added_at": "2022-12-16 00:56:50",
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
       "added_at": "2022-12-16 00:56:50",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-12-16 00:56:50",
       "album": {
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+    },
+    {
+      "added_at": "2022-12-16 00:56:50",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2022-12-16 00:56:50",
-      "album": {
-        "name": "Fanmail",
-        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "No Scrubs",
-      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
     },
     {
       "added_at": "2022-12-16 00:56:50",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-12-16 00:56:50",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2022-12-16 00:56:50",
+      "album": {
         "name": "Dancing With A Stranger (with Normani)",
         "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 171029,
       "name": "Dancing With A Stranger (with Normani)",
       "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
-    },
-    {
-      "added_at": "2022-12-16 00:56:50",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2022-12-16 00:56:50",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-16 00:56:50",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
-    },
-    {
-      "added_at": "2022-12-16 00:56:50",
-      "album": {
         "name": "Stars Dance (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2022-12-16 00:56:50",
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+    },
+    {
+      "added_at": "2022-12-16 00:56:50",
+      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -875,26 +875,6 @@
       "duration_ms": 195144,
       "name": "Juice",
       "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
-    },
-    {
-      "added_at": "2022-12-16 00:56:50",
-      "album": {
-        "name": "Sick Boy",
-        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
     },
     {
       "added_at": "2022-12-16 00:56:50",
@@ -919,6 +899,26 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
+    },
+    {
+      "added_at": "2022-12-16 00:56:50",
+      "album": {
+        "name": "Sick Boy",
+        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
     },
     {
       "added_at": "2022-12-16 00:56:50",

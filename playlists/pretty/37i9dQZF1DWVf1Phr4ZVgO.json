@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 976885,
+  "num_followers": 977127,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg2NjcxNiwwMDAwMDAwMDk1MWE3MmM0NGJjZDc0YjRlZjI2NDViZjdmOWViYjZk",
+  "snapshot_id": "MTY3ODg2NjcxNiwwMDAwMDAwMDJlNjk5Y2M0N2I5ZGIyOWI3OTA2NDQxMDMzMzVkN2Ni",
   "tracks": [
     {
       "added_at": "2023-03-07 13:08:31",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "September In The Rain",
-      "url": "https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
         "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 181440,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "September In The Rain",
+      "url": "https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 164666,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Michael Bubl\u00e9",
         "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 153533,
       "name": "For Once in My Life",
       "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
     },
     {
       "added_at": "2023-03-07 13:08:31",

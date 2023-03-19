@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 384846,
+  "num_followers": 385011,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwMjM0NCwwMDAwMDAwMDU0NWQxNWZhMGRlNzRiMzE1NWY2ODgyN2JiMDc3NmY4",
+  "snapshot_id": "MTY3ODgwMjM0NCwwMDAwMDAwMDRkMWUzZGI5MjU3M2RmNjZhYzAyODJlZGNlMWJiMzFl",
   "tracks": [
     {
       "added_at": "2023-03-09 23:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
-      },
-      "artists": [
-        {
-          "name": "Avenue Blue (Featuring Jeff Golub)",
-          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
-        }
-      ],
-      "duration_ms": 310280,
-      "name": "Seventh Heaven (feat. Jeff Golub)",
-      "url": "https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 247333,
       "name": "Window of the Soul",
       "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
+      },
+      "artists": [
+        {
+          "name": "Avenue Blue (Featuring Jeff Golub)",
+          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
+        }
+      ],
+      "duration_ms": 310280,
+      "name": "Seventh Heaven (feat. Jeff Golub)",
+      "url": "https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
-      },
-      "artists": [
-        {
-          "name": "Phil Denny",
-          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
-        }
-      ],
-      "duration_ms": 260746,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "What You Do To Me",
         "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 297750,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/2q5FbIK44fNkcw6w2TWXs9"
+      },
+      "artists": [
+        {
+          "name": "Phil Denny",
+          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Global Kiss",
-        "url": "https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Long Road",
-      "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/0PSCIKNXpjCmTqUr76NdHx"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 228426,
       "name": "Driftin'",
       "url": "https://open.spotify.com/track/55lgoqbpgD5cdCfms3MEC2"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Global Kiss",
+        "url": "https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Sundance",
-      "url": "https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "After 8",
         "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 252333,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Sundance",
+      "url": "https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Unified",
-        "url": "https://open.spotify.com/album/0TKu3C41fCcADO3eSVOtoR"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/45OtdrQxVv8iG0MAn0OgKk"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Forward Motion",
         "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 314312,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Unified",
+        "url": "https://open.spotify.com/album/0TKu3C41fCcADO3eSVOtoR"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/45OtdrQxVv8iG0MAn0OgKk"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Forecast",
-        "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
-      },
-      "artists": [
-        {
-          "name": "Jazz Funk Soul",
-          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
-        }
-      ],
-      "duration_ms": 343213,
-      "name": "Keep Holding On",
-      "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Velvet Groove",
         "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
+        "name": "Forecast",
+        "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
       },
       "artists": [
         {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+          "name": "Jazz Funk Soul",
+          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
         }
       ],
-      "duration_ms": 294500,
-      "name": "Sweet Kisses",
-      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
+      "duration_ms": 343213,
+      "name": "Keep Holding On",
+      "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1151,6 +1135,22 @@
       "duration_ms": 263493,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/7tCdAL3ojItRoN9Puv7ruc"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Still Lovin' You",
+      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Still Lovin' You",
-      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
       },
@@ -1271,22 +1255,6 @@
       "duration_ms": 240172,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        }
-      ],
-      "duration_ms": 239949,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1311,6 +1279,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        }
+      ],
+      "duration_ms": 239949,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Open Skies",
         "url": "https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 212613,
       "name": "Open Skies",
       "url": "https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Sweet Kisses",
+      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Burnin' up",
-        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
-      },
-      "artists": [
-        {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
-        }
-      ],
-      "duration_ms": 285500,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Smooth Grooves, Vol. 2",
         "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 365000,
       "name": "Southern Style",
       "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Burnin' up",
+        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
+      },
+      "artists": [
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        }
+      ],
+      "duration_ms": 285500,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/1TZQDK0Rq7yhnYRxcoguC6"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 311359,
-      "name": "Everyone but You",
-      "url": "https://open.spotify.com/track/2Z1wkZW9po0fOwmWn92Z6N"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "So Many Ways",
         "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Magic Mirror",
-        "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/1TZQDK0Rq7yhnYRxcoguC6"
       },
       "artists": [
         {
-          "name": "Carol Albert",
-          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
         }
       ],
-      "duration_ms": 250790,
-      "name": "Fire & Water",
-      "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
+      "duration_ms": 311359,
+      "name": "Everyone but You",
+      "url": "https://open.spotify.com/track/2Z1wkZW9po0fOwmWn92Z6N"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 287640,
       "name": "New Bounce (feat. Vincent Ingala)",
       "url": "https://open.spotify.com/track/0Oy7FMqWqf5ksonP766CNc"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Magic Mirror",
+        "url": "https://open.spotify.com/album/3M72Tn1lbyMaP2cBqejV9J"
+      },
+      "artists": [
+        {
+          "name": "Carol Albert",
+          "url": "https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm"
+        }
+      ],
+      "duration_ms": 250790,
+      "name": "Fire & Water",
+      "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
     },
     {
       "added_at": "2023-03-09 23:00:00",

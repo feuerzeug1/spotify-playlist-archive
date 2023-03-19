@@ -1,12 +1,12 @@
 {
   "description": "Lebih dari sekedar kopi, ini kumpulan lagu akustik dalam negeri favoritmu.",
-  "num_followers": 545580,
+  "num_followers": 545743,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODcxODQ1NSwwMDAwMDAwMDkxZTBlOGFiZmNlYTliYTlhMjU1MDE2NzY2NDUyMGMz",
+  "snapshot_id": "MTY3ODcxODQ1NSwwMDAwMDAwMDIyOWNkZjgyZTk3OTlkYjE5NWZlZjYzNjFiMzE3MTU1",
   "tracks": [
     {
       "added_at": "2023-02-23 15:08:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-23 15:08:41",
       "album": {
-        "name": "Tempat Aku Pulang",
-        "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 263746,
-      "name": "April",
-      "url": "https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q"
-    },
-    {
-      "added_at": "2023-02-23 15:08:41",
-      "album": {
         "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 286313,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
+    },
+    {
+      "added_at": "2023-02-23 15:08:41",
+      "album": {
+        "name": "Tempat Aku Pulang",
+        "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 263746,
+      "name": "April",
+      "url": "https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q"
     },
     {
       "added_at": "2023-02-23 15:08:41",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-02-23 15:08:41",
       "album": {
-        "name": "Alexa",
-        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
-      },
-      "artists": [
-        {
-          "name": "Alexa",
-          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Dewi",
-      "url": "https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0"
-    },
-    {
-      "added_at": "2023-02-23 15:08:41",
-      "album": {
         "name": "Gajah",
         "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 239466,
       "name": "Gajah",
       "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
+    },
+    {
+      "added_at": "2023-02-23 15:08:41",
+      "album": {
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
+      },
+      "artists": [
+        {
+          "name": "Alexa",
+          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Dewi",
+      "url": "https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0"
     },
     {
       "added_at": "2023-02-23 15:08:41",

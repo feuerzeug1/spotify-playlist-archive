@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,077 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,076 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 19 | [Faz Brilhar / Brilha Jesus](https://open.spotify.com/track/12xfJEKVa4WQRmpVykKXAY) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 5:25 |
 | 20 | [Brilha, Jesus \(Shine, Jesus, Shine\)](https://open.spotify.com/track/2fwlsdMG2VbFa9K7Vg8MAP) | [Vencedores por Cristo](https://open.spotify.com/artist/0IDEJU0SdlmJOMtybtEoiT) | [Louvor VII](https://open.spotify.com/album/78tY0SGJ9jUGHVjsCfLjpX) | 3:54 |
 | 21 | [Natal em Família](https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Natal em Família](https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5) | 4:47 |
-| 22 | [É Natal](https://open.spotify.com/track/2j3cFOpGzxVBvwDlhWkXHt) | [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK), [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3), [Rayre Mota](https://open.spotify.com/artist/7KpvZgmCQas8vKbQvh0hMo), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [É Natal](https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn) | 2:48 |
-| 23 | [Ó Noite Santa](https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Ó Noite Santa](https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl) | 5:10 |
+| 22 | [Ó Noite Santa](https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Ó Noite Santa](https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl) | 5:10 |
+| 23 | [É Natal](https://open.spotify.com/track/2j3cFOpGzxVBvwDlhWkXHt) | [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK), [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3), [Rayre Mota](https://open.spotify.com/artist/7KpvZgmCQas8vKbQvh0hMo), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [É Natal](https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn) | 2:48 |
 | 24 | [Filho de Deus Amigo Meu](https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Revolução](https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR) | 4:18 |
 | 25 | [Apaixonado](https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Apaixonado](https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp) | 5:37 |
 | 26 | [Maravilhoso É / Rei dos Reis](https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Clássicos](https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7) | 3:40 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 35 | [Noite Santa \(Cantique de Noel\)](https://open.spotify.com/track/6keWbatyTby28odg835j18) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 6:36 |
 | 36 | [Natal de Amor](https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3) | [Pâmela Jardim](https://open.spotify.com/artist/2FaZIsYvglfq2Bw97xhQ3b), [Rhayle Campos](https://open.spotify.com/artist/41U4eo2r9FH2gv8JtijGIf), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Natal de Amor](https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40) | 5:01 |
 | 37 | [Dai Louvores ao Rei](https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 3:30 |
-| 38 | [Vem Cear](https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e) | [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm) | [Clássicos da Música Cristã](https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY) | 3:38 |
-| 39 | [O Primeiro Natal](https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [O Novo Natal](https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq) | 3:50 |
+| 38 | [O Primeiro Natal](https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [O Novo Natal](https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq) | 3:50 |
+| 39 | [Vem Cear](https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e) | [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm) | [Clássicos da Música Cristã](https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY) | 3:38 |
 | 40 | [O Melhor Presente](https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:27 |
 | 41 | [O Milagre do Natal](https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv) | [Alex Gonzaga, Marcus Salles e Wilian Nascimento](https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:19 |
 | 42 | [Primeiro Natal \(The First Noel\)](https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Surgem Anjos Proclamando](https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Folk Christmas](https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX) | 2:51 |
 | 50 | [Noite de Paz](https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jeanne Mascarenhas](https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J) | [Noite de Paz](https://open.spotify.com/album/385673vVXabsOzy5GjDQzn) | 4:01 |
 
-Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMDExNjFiYTFlNjQxNzU4OWM5YzJlYzVjYjgxYzljZGQw`
+Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMDVlZmUyNmQxMTI1NmNkMDU3YTdjYjhjMTcwZWJlZDVi`

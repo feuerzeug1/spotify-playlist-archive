@@ -2862,17 +2862,21 @@
       },
       "artists": [
         {
-          "name": "Reto",
+          "name": "ReTo",
           "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
         },
         {
           "name": "Avi",
           "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
         }
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 146465,
       "name": "BMW",
       "url": "https://open.spotify.com/track/0e9dWwZD9EemG1w92C3JLp"
@@ -3528,7 +3532,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
@@ -4214,7 +4218,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 124687,
       "name": "club2020",
       "url": "https://open.spotify.com/track/3KJykNgI7TNt021kxuwmZN"
@@ -6339,6 +6343,24 @@
     },
     {
       "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
+    },
+    {
+      "album": {
         "name": "club2020",
         "url": "https://open.spotify.com/album/7C8H2mwiwBRKFpi5KeGKfT"
       },
@@ -7586,7 +7608,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
@@ -9206,10 +9228,36 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 160421,
       "name": "Jedna Ni\u0107",
       "url": "https://open.spotify.com/track/1ilg58JEnwc7XQYIFw1Kkd"
+    },
+    {
+      "album": {
+        "name": "Po\u015br\u00f3d Hien",
+        "url": "https://open.spotify.com/album/7ihGsH0SFRZY213dSXRXMK"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "S\u0142o\u0144",
+          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
+        },
+        {
+          "name": "Worek",
+          "url": "https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160421,
+      "name": "Jedna Ni\u0107",
+      "url": "https://open.spotify.com/track/6IvxOx1K9mUKmtQCoo2QGx"
     },
     {
       "album": {
@@ -17880,7 +17928,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 225600,
       "name": "p\u0142omie\u0144",
       "url": "https://open.spotify.com/track/2XxNDVlXUbv4FuF3jbPkLt"
@@ -18750,6 +18798,24 @@
       "duration_ms": 207000,
       "name": "Sen we \u015bnie",
       "url": "https://open.spotify.com/track/7EuS4txsabaZyF5mkixLAj"
+    },
+    {
+      "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
       "album": {
@@ -21176,7 +21242,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 188347,
       "name": "TW\u00d3J WZROK",
       "url": "https://open.spotify.com/track/4AqDNYLDdAUkLp57vzBtLz"

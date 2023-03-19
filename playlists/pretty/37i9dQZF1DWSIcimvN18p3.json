@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 272969,
+  "num_followers": 273002,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI1MTYwMCwwMDAwMDAwMDllNDAwZjkwZWNjMGViOTc2ZTY4NDg0NDNlMGQzOWQ3",
+  "snapshot_id": "MTY3ODI1MTYwMCwwMDAwMDAwMDA3ZGFkNjgwMGI1NDRiNDNkMjZlODVmZWY0NzNhN2E0",
   "tracks": [
     {
       "added_at": "2023-03-08 05:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Black Is the Color",
+        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
+      },
+      "artists": [
+        {
+          "name": "Lucette",
+          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "Bobby Reid",
+      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 221302,
       "name": "Dooley's Farm (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Black Is the Color",
-        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
-      },
-      "artists": [
-        {
-          "name": "Lucette",
-          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "Bobby Reid",
-      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 174540,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Rain On Sunday",
         "url": "https://open.spotify.com/album/2VGzHqnVWTiMlKfnCoXU0U"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 215093,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/3lQY1TrOzBKG9c83ALIX77"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 174540,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Made the Harbor",
-        "url": "https://open.spotify.com/album/0y92wueykvo974Tmtn3ZDn"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
-        }
-      ],
-      "duration_ms": 130199,
-      "name": "Animal Tracks",
-      "url": "https://open.spotify.com/track/5PKVT15SubNsMQm4Py2eXG"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 213204,
       "name": "Love All Night (Work All Day)",
       "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Made the Harbor",
+        "url": "https://open.spotify.com/album/0y92wueykvo974Tmtn3ZDn"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "duration_ms": 130199,
+      "name": "Animal Tracks",
+      "url": "https://open.spotify.com/track/5PKVT15SubNsMQm4Py2eXG"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Metals",
-        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "How Come You Never Go There",
-      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "The Widow Knows E.P.",
         "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 252816,
       "name": "Used",
       "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Metals",
+        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "How Come You Never Go There",
+      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Sit Here And Love Me",
-      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Do You See The Light Around Me?",
         "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 204034,
       "name": "Do You See The Light Around Me?",
       "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Sit Here And Love Me",
+      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Impossible World",
-        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "How Can You Sing",
-      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Ear to the Ground",
         "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 131440,
       "name": "Little Boxes",
       "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Impossible World",
+        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "How Can You Sing",
+      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Quiet the Room",
         "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
       },
@@ -1863,38 +1879,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Would You Mind Please Pulling Me Close?",
-        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 243925,
-      "name": "Would You Mind Please Pulling Me Close?",
-      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Jeremiah / Why\u2019d Ya Do It",
         "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 125293,
       "name": "Here Before",
       "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Would You Mind Please Pulling Me Close?",
+        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 243925,
+      "name": "Would You Mind Please Pulling Me Close?",
+      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2087,22 +2087,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+        "name": "A Southern Gothic",
+        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+      "duration_ms": 209546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2123,18 +2119,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "A Southern Gothic",
-        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
         }
       ],
-      "duration_ms": 209546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2187,38 +2187,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 187486,
-      "name": "Brightest Star",
-      "url": "https://open.spotify.com/track/6NdSQSzhnb5nbdqTQICq81"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Freedom Highway",
-        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "At the Purchaser's Option",
-      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -2235,6 +2203,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 187486,
+      "name": "Brightest Star",
+      "url": "https://open.spotify.com/track/6NdSQSzhnb5nbdqTQICq81"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 139800,
       "name": "Universal Soldier",
       "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "At the Purchaser's Option",
+      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2283,6 +2283,22 @@
       "duration_ms": 259917,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Mortal City",
+        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Iowa (Traveling, Pt. 3)",
+      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2339,22 +2355,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Mortal City",
-        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Iowa (Traveling, Pt. 3)",
-      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Like An Old Fashioned Waltz (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1TanbE0knS2g91OueucHT9"
       },
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Till the Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Banjo Haiku",
         "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 110693,
       "name": "Julie Ann Johnson",
       "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Till the Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Other Voices, Other Rooms",
         "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 317466,
       "name": "Boots of Spanish Leather",
       "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2023-03-08 05:00:00",

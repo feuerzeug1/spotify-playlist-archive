@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53715,
+  "num_followers": 53720,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDBjYWRkN2UyMmFiOTU3YmM5Y2UxMThmODM4OWMyMDk4",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGFhYWU5Mzk3MDNiZmEwMzBkMTExMDBkZWQyNTE3MjA0",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "en diciembre (me haces falta)",
-        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 237261,
-      "name": "en diciembre (me haces falta)",
-      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Aquellos Misterios",
         "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 149625,
       "name": "Aquellos Misterios",
       "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "en diciembre (me haces falta)",
+        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 237261,
+      "name": "en diciembre (me haces falta)",
+      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
-      },
-      "artists": [
-        {
-          "name": "Mayra C\u00e1rdenas",
-          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "31 de Febrero",
         "url": "https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 189396,
       "name": "31 de Febrero",
       "url": "https://open.spotify.com/track/3oyXKztPozBi7uTdkpG39T"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
+      },
+      "artists": [
+        {
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
+        }
+      ],
+      "duration_ms": 245217,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Postre",
-        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
-      },
-      "artists": [
-        {
-          "name": "Pastrana",
-          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Postre",
-      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Nosotros Dos",
         "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
       },
@@ -979,22 +963,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Marinero",
-        "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
+        "name": "Postre",
+        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
       },
       "artists": [
         {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
-        },
-        {
-          "name": "CARRE\u00d1O",
-          "url": "https://open.spotify.com/artist/5YjemQid6pod8wVjG95Bnw"
+          "name": "Pastrana",
+          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
         }
       ],
-      "duration_ms": 204562,
-      "name": "Marinero",
-      "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
+      "duration_ms": 180000,
+      "name": "Postre",
+      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1011,6 +991,26 @@
       "duration_ms": 200245,
       "name": "Ni\u00f1a",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Marinero",
+        "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
+      },
+      "artists": [
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        },
+        {
+          "name": "CARRE\u00d1O",
+          "url": "https://open.spotify.com/artist/5YjemQid6pod8wVjG95Bnw"
+        }
+      ],
+      "duration_ms": 204562,
+      "name": "Marinero",
+      "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "X AMOR",
+        "url": "https://open.spotify.com/album/49azHYzQZOev9lrqjyqDTz"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 242755,
+      "name": "X AMOR",
+      "url": "https://open.spotify.com/track/7mePOahmzjcf3ollKqNqiW"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/7Lw1CPKpaL8npiEd35ebWW"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "X AMOR",
-        "url": "https://open.spotify.com/album/49azHYzQZOev9lrqjyqDTz"
+        "name": "Helen K",
+        "url": "https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt"
       },
       "artists": [
         {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
         }
       ],
-      "duration_ms": 242755,
-      "name": "X AMOR",
-      "url": "https://open.spotify.com/track/7mePOahmzjcf3ollKqNqiW"
+      "duration_ms": 178656,
+      "name": "Helen K",
+      "url": "https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1127,22 +1143,6 @@
       "duration_ms": 193025,
       "name": "Cuando Estemos Solos",
       "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Helen K",
-        "url": "https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt"
-      },
-      "artists": [
-        {
-          "name": "Malva Vela",
-          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
-        }
-      ],
-      "duration_ms": 178656,
-      "name": "Helen K",
-      "url": "https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Isla",
+        "url": "https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb"
+      },
+      "artists": [
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "duration_ms": 222729,
+      "name": "Isla",
+      "url": "https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Empate",
         "url": "https://open.spotify.com/album/2uoKUJILAJXhOsAWbutwLg"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 190802,
       "name": "Noss de tempo",
       "url": "https://open.spotify.com/track/2aW8bmykoLKUbeYAFYGFVv"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Isla",
-        "url": "https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb"
-      },
-      "artists": [
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 222729,
-      "name": "Isla",
-      "url": "https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 202956,
-      "name": "De Viaje",
-      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Respirar de Nuevo",
         "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        }
+      ],
+      "duration_ms": 202956,
+      "name": "De Viaje",
+      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 145636,
       "name": "Cartas a Walter Xen\u00f3n",
       "url": "https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Meteorito",
+        "url": "https://open.spotify.com/album/4nRJxicIb0T5H78HR9vaoe"
+      },
+      "artists": [
+        {
+          "name": "Lupe Alvarez",
+          "url": "https://open.spotify.com/artist/6P6rNCUzVaHoz71C2EDr5X"
+        }
+      ],
+      "duration_ms": 197391,
+      "name": "Meteorito",
+      "url": "https://open.spotify.com/track/6chRwUZxC2L09DokRfZVAZ"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Meteorito",
-        "url": "https://open.spotify.com/album/4nRJxicIb0T5H78HR9vaoe"
-      },
-      "artists": [
-        {
-          "name": "Lupe Alvarez",
-          "url": "https://open.spotify.com/artist/6P6rNCUzVaHoz71C2EDr5X"
-        }
-      ],
-      "duration_ms": 197391,
-      "name": "Meteorito",
-      "url": "https://open.spotify.com/track/6chRwUZxC2L09DokRfZVAZ"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Un Caf\u00e9",
         "url": "https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Technicolor",
-        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
-      },
-      "artists": [
-        {
-          "name": "Yael Meyer",
-          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
-        }
-      ],
-      "duration_ms": 194903,
-      "name": "Technicolor",
-      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Pasajeros",
         "url": "https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 165205,
       "name": "Pasajeros",
       "url": "https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Technicolor",
+        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
+      },
+      "artists": [
+        {
+          "name": "Yael Meyer",
+          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
+        }
+      ],
+      "duration_ms": 194903,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
     }
   ],
   "unique_name": "mandarina",

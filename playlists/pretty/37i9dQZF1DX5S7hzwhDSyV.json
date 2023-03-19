@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 67621,
+  "num_followers": 67755,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI4NTQwMywwMDAwMDAwMDAyYjExNjU5MWM0Nzc0ZGMzZTg3NWUzZDgxN2FjNzU0",
+  "snapshot_id": "MTY3ODI4NTQwMywwMDAwMDAwMDE5ZDI0ZmRmY2ZjZDdmNzc1YWFkYjkyYjUyMTAyNjM0",
   "tracks": [
     {
       "added_at": "2023-02-23 07:16:12",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
-        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 394173,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
+        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
+        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 394173,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
         "name": "The Complete Savoy Master Takes",
         "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 179133,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1059,22 +1043,18 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 285666,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1095,6 +1075,26 @@
       "duration_ms": 410666,
       "name": "Love Me Or Leave Me",
       "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "I Can't Give You Anything But Love",
+      "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
         "name": "Jazz 'Round Midnight",
         "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 267560,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "I Can't Give You Anything But Love",
-      "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
-        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
         "name": "Work From Home with Count Basie",
         "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 163599,
       "name": "It's Only A Paper Moon",
       "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
+        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
+        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 627733,
-      "name": "Basin Street Blues",
-      "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
         "name": "The Jazz Giants '56",
         "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
       "artists": [
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 267053,
-      "name": "Do Nothing Till You Hear From Me",
-      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
+      "duration_ms": 627733,
+      "name": "Basin Street Blues",
+      "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1467,6 +1451,22 @@
       "duration_ms": 250840,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 267053,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Anticipation",
-        "url": "https://open.spotify.com/album/4uSyd2HyJkL25NBvieXCiY"
-      },
-      "artists": [
-        {
-          "name": "Eddie Higgins",
-          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
-        }
-      ],
-      "duration_ms": 276131,
-      "name": "Falling in Love with Love",
-      "url": "https://open.spotify.com/track/47wToAWMFORf7uL8V62a82"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
         "name": "Young Chet",
         "url": "https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 155693,
       "name": "Time After Time - Instrumental",
       "url": "https://open.spotify.com/track/0AtkWTAdzyuXO5AFdMd2nH"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
+        "name": "Anticipation",
+        "url": "https://open.spotify.com/album/4uSyd2HyJkL25NBvieXCiY"
+      },
+      "artists": [
+        {
+          "name": "Eddie Higgins",
+          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
+        }
+      ],
+      "duration_ms": 276131,
+      "name": "Falling in Love with Love",
+      "url": "https://open.spotify.com/track/47wToAWMFORf7uL8V62a82"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Take Five: Jazz Classics",
-        "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
+        "name": "The Real... Toots Thielemans",
+        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
       },
       "artists": [
         {
-          "name": "Teddy Wilson Trio",
-          "url": "https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7"
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
+      "duration_ms": 275226,
+      "name": "Bluesette",
+      "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
     }
   ],
   "unique_name": "Instrumental Jazz Standards",

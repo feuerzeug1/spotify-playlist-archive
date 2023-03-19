@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 80274,
+  "num_followers": 80301,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMGFlMTY0N2E1MzVmNGY4ZjU1NmYzNmEyMDA2ZWU1YTNk",
+  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMGE1NTY4MjYxODMzMmU0ODRkNmU5NzUyYzE3NGQyZDAz",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Cumbia de los Dos",
         "url": "https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "La Pollera Amarilla",
-        "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
-      },
-      "artists": [
-        {
-          "name": "Gladys \"La bomba tucumana\"",
-          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "La Pollera Amarilla",
-      "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/4VYKH1Hd5X53WoWpxgE0gg"
       },
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+        "name": "La Pollera Amarilla",
+        "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Gladys \"La bomba tucumana\"",
+          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+      "duration_ms": 189106,
+      "name": "La Pollera Amarilla",
+      "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Placer y Olvido (En Vivo)",
-        "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
+        "name": "Noche Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
         }
       ],
-      "duration_ms": 82400,
-      "name": "Placer y Olvido",
-      "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
+      "duration_ms": 217626,
+      "name": "En tu pelo",
+      "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Noche Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj"
+        "name": "Placer y Olvido (En Vivo)",
+        "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
       },
       "artists": [
         {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 217626,
-      "name": "En tu pelo",
-      "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
+      "duration_ms": 82400,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 222361,
-      "name": "No Te Ir\u00e1s",
-      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Dos Infieles",
         "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 207121,
       "name": "Falso Malo",
       "url": "https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Hipn\u00f3tica",
+        "url": "https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep"
+      },
+      "artists": [
+        {
+          "name": "Antho Mattei",
+          "url": "https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl"
+        }
+      ],
+      "duration_ms": 240091,
+      "name": "Yo Tonta, No",
+      "url": "https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1"
     }
   ],
   "unique_name": "Cumbieras",

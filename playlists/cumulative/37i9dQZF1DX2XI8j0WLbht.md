@@ -4,7 +4,7 @@
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-139 songs - 9 hr 47 min
+140 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,9 +88,10 @@
 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 | 2022-03-04 |  |
 | [Mariquita, María](https://open.spotify.com/track/19vFUwhgotqh80npE8xFKO) | [Tonana](https://open.spotify.com/artist/6174y8dXW0u3e5i5Y1xo9g) | [Tonana](https://open.spotify.com/album/5oCRFr4Jio2bFZoRfpRtD7) | 3:49 | 2022-03-04 |  |
 | [Mañana Sureña](https://open.spotify.com/track/5z5qmE6mS3PJ52Ld5psFhp) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mañana Sureña](https://open.spotify.com/album/7EYn7eWr2kmXcXgE1zOLzS) | 4:51 | 2022-03-04 |  |
+| [Mezcal](https://open.spotify.com/track/0taw82ovKIdw6kIVdhhVWE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3yRXQ2hZhMonFkkrNeK5sS) | 3:52 | 2023-03-03 |  |
 | [Mezcal](https://open.spotify.com/track/0nY56BAHCxcX7XVrcUG9dA) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Fièvre](https://open.spotify.com/album/6Df5Ml1ZfUVn1vfJEMULyl) | 3:52 | 2022-03-04 | 2022-11-13 |
 | [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 | 2022-03-04 | 2022-10-14 |
-| [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-03-04 |  |
+| [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-03-04 | 2023-03-19 |
 | [Mi Conga Es De Akokán](https://open.spotify.com/track/6FJ0VplefpgvlK4sqzDwlE) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Mi Conga Es De Akokán](https://open.spotify.com/album/7j6GwM7a2pz8J1kIfOTodZ) | 3:32 | 2022-03-04 | 2023-02-23 |
 | [Mi Pueblo](https://open.spotify.com/track/3c1YCQvr720s61gHPgtkv8) | [Guadalupe de Jesús Chan Poot](https://open.spotify.com/artist/2RRmC4JQr7v3ejOAwxTwp5) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:40 | 2023-02-03 |  |
 | [Mis Muertos](https://open.spotify.com/track/4f0MX5DNAc2qwP1pSI7YHT) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/6ZoGWwn54s7pE5Mv3H9PqD) | 2:21 | 2022-03-04 | 2022-07-29 |

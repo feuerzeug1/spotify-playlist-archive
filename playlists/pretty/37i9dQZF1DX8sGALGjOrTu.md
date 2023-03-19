@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,945 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,189 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 39 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
 | 40 | [Becoming the Bull](https://open.spotify.com/track/2MMrjobPrVLrozyfFXsFJx) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/4l0jcq2jRyRO38d1U92vkp) | 3:40 |
 | 41 | [Yeah Boy and Doll Face](https://open.spotify.com/track/51rIDh0FOCNCFkdbtIOyU0) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 4:24 |
-| 42 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
-| 43 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:36 |
+| 42 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:36 |
+| 43 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
 | 44 | [Niki Fm](https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 3:59 |
 | 45 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 |
 | 46 | [A Box Full of Sharp Objects](https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:56 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 55 | [And I Told Them I Invented Times New Roman](https://open.spotify.com/track/7CR0CfMEC6BZBuYLaKSbu9) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Downtown Battle Mountain](https://open.spotify.com/album/1VBfG7a6qZVJ1KWPIJpyLz) | 4:48 |
 | 56 | [Calling All Cars](https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:23 |
 | 57 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 |
-| 58 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
+| 58 | [Accidents](https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:09 |
 | 59 | [Deadbolt](https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Illusion of Safety](https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc) | 3:00 |
-| 60 | [Accidents](https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:09 |
+| 60 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
 | 61 | [The Thespian](https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [The Emptiness](https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg) | 3:57 |
 | 62 | [Holding On](https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [Scary Kids Scaring Kids](https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar) | 4:21 |
 | 63 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 74 | [Ready To Fall](https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:47 |
 | 75 | [Walls](https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Weak's End](https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a) | 3:23 |
 
-Snapshot ID: `MTY3OTA4NDk3NiwwMDAwMDAwMDgyN2I1M2JlNjljOTFjM2RhOWYxYzYxMGYxY2Q4MTQz`
+Snapshot ID: `MTY3OTA4NDk3NiwwMDAwMDAwMGM4MDgwMTZiMzBhMzU0OTEyYTczMWIxMTZkZGFkMjQ5`

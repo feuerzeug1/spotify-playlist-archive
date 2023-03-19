@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-539 songs - 2 day 2 hr 41 min
+540 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Acrid Avid Jam Shred](https://open.spotify.com/track/3Bp478Itxv8gxqqEcf8HRL) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 7:39 | 2022-04-13 | 2022-07-29 |
 | [Adozenaday](https://open.spotify.com/track/3Yc7AxUfMy50QPWwwkwlh2) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Qtio](https://open.spotify.com/album/3kq8Hu3D10vLbHQbhGi0DA) | 5:33 | 2022-04-13 | 2022-07-27 |
 | [Aero Deck](https://open.spotify.com/track/3CxY2EYnLDdGVaRcEiE7wp) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [Systemisch](https://open.spotify.com/album/1VjWcD0lLRFpAIK0AFRUBl) | 4:33 | 2022-04-13 |  |
-| [Afraid Of Monsters](https://open.spotify.com/track/4PbMuyuUAJPhBdsW3vf2Fs) | [Xela](https://open.spotify.com/artist/1DpTCZ0h0a2IDmLiKJtDN5) | [For Frosty Mornings And Summer Nights](https://open.spotify.com/album/6aRdKJaXUBi23MPtwUMTb7) | 5:03 | 2022-04-13 |  |
+| [Afraid Of Monsters](https://open.spotify.com/track/4PbMuyuUAJPhBdsW3vf2Fs) | [Xela](https://open.spotify.com/artist/1DpTCZ0h0a2IDmLiKJtDN5) | [For Frosty Mornings And Summer Nights](https://open.spotify.com/album/6aRdKJaXUBi23MPtwUMTb7) | 5:03 | 2022-04-13 | 2023-03-19 |
 | [Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:23 | 2022-04-13 |  |
 | [Agen](https://open.spotify.com/track/10p90NN7hFkhJEN0QfLhhG) | [patten](https://open.spotify.com/artist/1ld2Kfp4s2LHg94Lby403n) | [ESTOILE NAIANT](https://open.spotify.com/album/6AD69WciPpBEpTFv1tyx90) | 4:27 | 2022-04-13 | 2022-07-28 |
 | [Akwalek](https://open.spotify.com/track/2L2yPzvZQBuhYE91h1NIqD) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc) | 4:36 | 2022-04-13 |  |
@@ -195,6 +195,7 @@
 | [Giant Sunflowers Swaying In The Wind](https://open.spotify.com/track/0bYYiVfOeqjiN4nN6T6on8) | [Metamatics](https://open.spotify.com/artist/0MWaIWO3tQOJccGmcL8TP8) | [From Death To Passwords](https://open.spotify.com/album/1ZEhN7VpfuuWvchfTjSPY6) | 6:18 | 2022-04-13 |  |
 | [GM Memory](https://open.spotify.com/track/102zS5JmV0pGRdMXZZ3K4r) | [Opiate](https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O) | [Hobby Industries Split EP 3](https://open.spotify.com/album/5evflGXiNO7a6pGkkhOnVW) | 4:37 | 2022-04-13 | 2022-07-29 |
 | [Go](https://open.spotify.com/track/6iWKZaCPmISyRfJlovBQRC) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [I Like To Score](https://open.spotify.com/album/2KdsBwZ4QSPcG81egRQcxw) | 3:59 | 2022-04-13 | 2023-03-10 |
+| [Go \- I Like to Score Version](https://open.spotify.com/track/3FyCUDuq30QbxeBq3yhQDH) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [I Like to Score](https://open.spotify.com/album/4rfGrGlf2kXtJ6FAFcvRj7) | 3:59 | 2022-04-13 |  |
 | [Gringatcho Demento](https://open.spotify.com/track/6zkzdSPN5q5XHHlHfxu9EN) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Best Of Strange Cargo](https://open.spotify.com/album/05o8RGynCcMIhKqWfl2mS9) | 6:35 | 2022-04-13 |  |
 | [Grrl Trrbl](https://open.spotify.com/track/348voj7WvFVthOJtzXiJDe) | [Phoenecia](https://open.spotify.com/artist/4fwCp2IDhodTxsySBFY6sj) | [Brownout](https://open.spotify.com/album/1JuGXW0tGPP5aRKCvS8gav) | 5:24 | 2022-04-13 |  |
 | [Guppies](https://open.spotify.com/track/0tviWTW0HxadCxgsQqcDTi) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82) | [Maligne Range](https://open.spotify.com/album/4fmZXP6N66Gkc7LDO6ImRJ) | 4:40 | 2022-04-13 | 2022-07-27 |

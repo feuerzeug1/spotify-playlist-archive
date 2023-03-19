@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Loquera Tradición\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,182 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,184 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 27 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 |
 | 28 | [CORAZON DE NIEVE](https://open.spotify.com/track/6jKdi3HZuPTpr8BPap6D2b) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [SINCERAMENTE, BEBE](https://open.spotify.com/album/5pRyuC3CDcSZkJbg3KUFut) | 2:48 |
 | 29 | [Los ojos](https://open.spotify.com/track/7myGZGiVdiN0LH5Oa0k3Bg) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Los ojos](https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk) | 3:34 |
-| 30 | [Pelicula](https://open.spotify.com/track/0uqPbGs9P2GH8nS4EdT4WZ) | [J Reboll](https://open.spotify.com/artist/6yEEfhFfsrrYeOHLYOW8HB) | [Pelicula](https://open.spotify.com/album/1N9omVg4wsBZjEbH7LkA5s) | 2:19 |
-| 31 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
-| 32 | [Luna \- Versión Acústica](https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi) | [Mireia De La Torre](https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG) | [Luna Rota](https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5) | 2:31 |
-| 33 | [Tus Te Quieros](https://open.spotify.com/track/7LrK8wbofELyG7kauy79fe) | [toni duart](https://open.spotify.com/artist/72d2PLgnOXyDT1HIGXC9Ls), [CCF](https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx), [Sara Mostaza](https://open.spotify.com/artist/64izd9xKBPFn7P1qNsaBQ9) | [Tus Te Quieros](https://open.spotify.com/album/2lZWw0bI5MHJ5W5S2uQYy7) | 2:44 |
+| 30 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
+| 31 | [Pelicula](https://open.spotify.com/track/0uqPbGs9P2GH8nS4EdT4WZ) | [J Reboll](https://open.spotify.com/artist/6yEEfhFfsrrYeOHLYOW8HB) | [Pelicula](https://open.spotify.com/album/1N9omVg4wsBZjEbH7LkA5s) | 2:19 |
+| 32 | [Tus Te Quieros](https://open.spotify.com/track/7LrK8wbofELyG7kauy79fe) | [toni duart](https://open.spotify.com/artist/72d2PLgnOXyDT1HIGXC9Ls), [CCF](https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx), [Sara Mostaza](https://open.spotify.com/artist/64izd9xKBPFn7P1qNsaBQ9) | [Tus Te Quieros](https://open.spotify.com/album/2lZWw0bI5MHJ5W5S2uQYy7) | 2:44 |
+| 33 | [Luna \- Versión Acústica](https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi) | [Mireia De La Torre](https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG) | [Luna Rota](https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5) | 2:31 |
 | 34 | [Complejo de Martir](https://open.spotify.com/track/5xVAjvnDSbjEQjTX3LXQKB) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Complejo de Martir](https://open.spotify.com/album/7anGWpldwOfPvADPqdoPq4) | 3:15 |
 | 35 | [Lo Que Pudo Ser](https://open.spotify.com/track/7ampr6A59qFGZD3R9pfvNp) | [Hermanos De La Vibra](https://open.spotify.com/artist/24iikwybit4U9z1Jv1pzNm) | [Lo Que Pudo Ser](https://open.spotify.com/album/1nsmvF9N6I8wlcfAfV2CjI) | 3:18 |
 | 36 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [La Trampa](https://open.spotify.com/track/4fFoxalUsWW1qraPLpnb1T) | [Carla Cune](https://open.spotify.com/artist/1eJCiBiU5FzMEXBxrsNxkd) | [La Trampa](https://open.spotify.com/album/5xzOHndFvxS9b9VQrcYoFH) | 2:39 |
 | 50 | [Insomnio](https://open.spotify.com/track/0Q40XCyV51hOZunQbicmUX) | [Ripoll](https://open.spotify.com/artist/40GV6ITFe1i4SZymeH6jo7) | [Marinero Sentimiento](https://open.spotify.com/album/0RSIbS9P4BvOTJGOArgr6w) | 3:08 |
 
-Snapshot ID: `MTY3ODg2MDAwMCwwMDAwMDAwMGJkMjliZmI4ODk3NjA0NGZlMWUzMzE4MTI4NDZhY2M4`
+Snapshot ID: `MTY3ODg2MDAwMCwwMDAwMDAwMGVmZTI5MjQ4MmNhZTdjODczZmFlN2MwOTBjYmQ3ODQw`

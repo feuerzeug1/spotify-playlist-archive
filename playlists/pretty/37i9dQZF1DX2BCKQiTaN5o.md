@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,792 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,893 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

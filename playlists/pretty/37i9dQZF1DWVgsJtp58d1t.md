@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Artwork by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,758 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,707 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

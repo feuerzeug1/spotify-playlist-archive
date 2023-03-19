@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 229000,
       "name": "Las Tres Hermanas",
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
@@ -2979,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Middle Life",
+        "url": "https://open.spotify.com/album/6FKJdshnI3wJ5vU13bYGnR"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97760,
+      "name": "Middle Life",
+      "url": "https://open.spotify.com/track/7i1apjmMHgD3cyaJAoscr5"
+    },
+    {
+      "album": {
         "name": "Milliseconds",
         "url": "https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0"
       },
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 115000,
       "name": "Nannou - Mixed",
       "url": "https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz"
@@ -4482,7 +4500,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 223750,
       "name": "Summer Places",
       "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"

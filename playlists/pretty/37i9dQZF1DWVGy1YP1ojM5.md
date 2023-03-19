@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,066,208 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,066,452 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 23 | [Garden Kisses](https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Garden Kisses](https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49) | 3:15 |
 | 24 | [Wus Good / Curious](https://open.spotify.com/track/0NHvTrD8Igke3fawcp3njY) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 3:32 |
 | 25 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
-| 26 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
-| 27 | [Superstar](https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:11 |
+| 26 | [Superstar](https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:11 |
+| 27 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
 | 28 | [Let Me Explain](https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Let Me Explain](https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq) | 3:43 |
 | 29 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 |
 | 30 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 63 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 |
 | 64 | [Ooh Nah Nah \(feat\. Masego\)](https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Ooh Nah Nah \(feat\. Masego\)](https://open.spotify.com/album/4RmDIqdJ2mgmOuEvtnu8fl) | 4:00 |
 | 65 | [BPW](https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:22 |
-| 66 | [Slowly](https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [PALISADE](https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r) | 2:48 |
-| 67 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 |
-| 68 | [Rm\. 143](https://open.spotify.com/track/1r6xn6CtRDNJsoXxsnNZNt) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [California](https://open.spotify.com/album/2YCVNs5oQgquuv8BfAtVvA) | 2:24 |
-| 69 | [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 |
+| 66 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
+| 67 | [Slowly](https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [PALISADE](https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r) | 2:48 |
+| 68 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 |
+| 69 | [Rm\. 143](https://open.spotify.com/track/1r6xn6CtRDNJsoXxsnNZNt) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [California](https://open.spotify.com/album/2YCVNs5oQgquuv8BfAtVvA) | 2:24 |
 | 70 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
-| 71 | [FWM](https://open.spotify.com/track/5qF9vwRZIzBCR1iDUDkU8W) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FWM](https://open.spotify.com/album/02lsNtAHGwFmDToftNBfcI) | 3:16 |
-| 72 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 |
+| 71 | [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 |
+| 72 | [FWM](https://open.spotify.com/track/5qF9vwRZIzBCR1iDUDkU8W) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FWM](https://open.spotify.com/album/02lsNtAHGwFmDToftNBfcI) | 3:16 |
 | 73 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 |
-| 74 | [Signs of Love Makin'](https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:05 |
-| 75 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 |
+| 74 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 |
+| 75 | [Signs of Love Makin'](https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:05 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDk3ZDJkMmI3ZGM3MzhkNmIzNzk4ZDVjYzEwOTlhNWYz`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGY1NWRiMTgwMDk0NTFiYzE3YWQ5NzllZGE4YjFmMDRh`

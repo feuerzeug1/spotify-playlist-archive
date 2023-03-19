@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-336 songs - 20 hr 57 min
+338 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 | 2022-05-27 |  |
 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 | 2022-01-05 |  |
 | [Half a Heart](https://open.spotify.com/track/6nIE1oCE4udqMGv3bqVNVb) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:08 | 2021-12-06 |  |
-| [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-02-14 |  |
+| [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-02-14 | 2023-03-19 |
 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 | 2021-12-06 |  |
 | [Hate Everything](https://open.spotify.com/track/52UDFFwUueOBfJ2vB5BqRr) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 | 2022-08-26 |  |
 | [Heads and Hearts](https://open.spotify.com/track/0psjBdZXpbuVFHszanhEEx) | [Taigh Wade](https://open.spotify.com/artist/2izy8SMmtv64GiXbCsub37) | [Heads and Hearts](https://open.spotify.com/album/3Gw3XzSzaKYLZXETdsTjjh) | 3:34 | 2022-03-16 | 2022-07-28 |
@@ -296,11 +296,13 @@
 | [Thinking 'Bout Love \- Acoustic](https://open.spotify.com/track/1nHPM4cx7QvCaFakEPMsho) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To \(Acoustic\)](https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw) | 3:04 | 2022-07-08 |  |
 | [Thinking 'Bout Love \- Acoustic](https://open.spotify.com/track/3UOvd4bfGqepCVx4EJLy57) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Thinking 'Bout Love \(Acoustic\)](https://open.spotify.com/album/4RuXbV8f3JjPJzTtGmBtss) | 3:04 | 2021-12-06 | 2022-07-29 |
 | [This Is My Version](https://open.spotify.com/track/5qJZxVKQ8vz9Rak3t4b2VY) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Covers](https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq) | 2:28 | 2021-12-06 | 2022-11-13 |
+| [this is what losing someone feels like](https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what losing someone feels like](https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF) | 2:52 | 2023-03-17 |  |
 | [this is what sadness feels like](https://open.spotify.com/track/1e4Zf5YdBtPycgmqMhE11T) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:11 | 2022-09-23 | 2022-10-13 |
 | [this is what sadness feels like](https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:11 | 2022-09-23 |  |
 | [This Kind of Heavy](https://open.spotify.com/track/1uINT6Vl2hbqhFsBY4RGo1) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [This Kind of Heavy](https://open.spotify.com/album/3WWLVYF0DZNEtvzbVUwwIT) | 3:42 | 2021-12-06 | 2022-07-28 |
 | [Time Out](https://open.spotify.com/track/08e9dUkEQMYCrtvoeZhqhP) | [AJ Wander](https://open.spotify.com/artist/5fr3sYfFREtEo0KCnnionb) | [Time Out](https://open.spotify.com/album/6V2hNO0oVg0OiO0ewhK4Fk) | 3:08 | 2021-12-06 | 2022-07-29 |
-| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-12-06 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2023-02-10 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-12-06 | 2023-03-19 |
 | [Too Late For Lullabies](https://open.spotify.com/track/7MsL9a98WUHN76Wks49Zeq) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Higher Than Here](https://open.spotify.com/album/3QzF5ARsBRHPyDhbZtGU7x) | 4:16 | 2022-01-05 |  |
 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 | 2022-12-23 |  |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2021-12-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Marshmello & Manuel Turizo",
-  "num_followers": 586839,
+  "num_followers": 586954,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMzk4NiwwMDAwMDAwMDQ5ZGNlNTAwY2IzMzBhMTI1ZDJkMDZmYWEzMmU5Zjc1",
+  "snapshot_id": "MTY3OTAxMzk4NiwwMDAwMDAwMGFjMzk1NTVhYWFlYjhhMGJlNzdkNGY3N2U1MmE4MzNi",
   "tracks": [
     {
       "added_at": "2023-03-17 00:46:26",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-03-17 00:46:26",
       "album": {
-        "name": "Nubes Negras",
-        "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        },
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 246224,
-      "name": "Nubes Negras",
-      "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
-    },
-    {
-      "added_at": "2023-03-17 00:46:26",
-      "album": {
         "name": "Imaginarme Sin Ti",
         "url": "https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 176320,
       "name": "El Negrito",
       "url": "https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2"
+    },
+    {
+      "added_at": "2023-03-17 00:46:26",
+      "album": {
+        "name": "Nubes Negras",
+        "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 246224,
+      "name": "Nubes Negras",
+      "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
     },
     {
       "added_at": "2023-03-17 00:46:26",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-03-17 00:46:26",
       "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
-    },
-    {
-      "added_at": "2023-03-17 00:46:26",
-      "album": {
         "name": "Sincero",
         "url": "https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 185575,
       "name": "Sincero - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T"
+    },
+    {
+      "added_at": "2023-03-17 00:46:26",
+      "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
     },
     {
       "added_at": "2023-03-17 00:46:26",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2023-03-17 00:46:26",
       "album": {
-        "name": "Las Puertas del Cielo",
-        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
-      },
-      "artists": [
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 232803,
-      "name": "Las Puertas del Cielo",
-      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
-    },
-    {
-      "added_at": "2023-03-17 00:46:26",
-      "album": {
         "name": "Sopita",
         "url": "https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 206442,
       "name": "Sopita",
       "url": "https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb"
+    },
+    {
+      "added_at": "2023-03-17 00:46:26",
+      "album": {
+        "name": "Las Puertas del Cielo",
+        "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
+      },
+      "artists": [
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 232803,
+      "name": "Las Puertas del Cielo",
+      "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
     },
     {
       "added_at": "2023-03-17 00:46:26",

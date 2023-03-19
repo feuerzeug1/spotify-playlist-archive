@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,421,809 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,421,829 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 37 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
 | 38 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
 | 39 | [I’m On Your Side](https://open.spotify.com/track/3rBi3Y2miFgPHm8OAcLRoL) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 3:18 |
-| 40 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
-| 41 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
-| 42 | [As We Ran](https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi) | 3:20 |
+| 40 | [As We Ran](https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi) | 3:20 |
+| 41 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
+| 42 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
 | 43 | [Morning Light](https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Latigo EP](https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE) | 3:40 |
 | 44 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 |
 | 45 | [Ain't No Grave](https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 3:21 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 54 | [Fast and Slow](https://open.spotify.com/track/7omE4K9WTUmbD9TzVPyTjZ) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 4:09 |
 | 55 | [Can't Cheat Death](https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Paper Crown](https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ) | 3:10 |
 | 56 | [Comeback Kid](https://open.spotify.com/track/1Qpyt7U1yu4tfuJc4LKuzF) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 3:02 |
-| 57 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 |
-| 58 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
-| 59 | [Don't Let It Get You Down](https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza) | 3:20 |
-| 60 | [Hideaway](https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 4:10 |
-| 61 | [Roots And Wings](https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Exit Wounds](https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l) | 3:54 |
+| 57 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
+| 58 | [Don't Let It Get You Down](https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza) | 3:20 |
+| 59 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 |
+| 60 | [Roots And Wings](https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Exit Wounds](https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l) | 3:54 |
+| 61 | [Hideaway](https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 4:10 |
 | 62 | [Las Vegas](https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:42 |
 | 63 | [Hold Out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 |
 | 64 | [Elevate](https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night](https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh) | 5:08 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 70 | [Awake](https://open.spotify.com/track/3HJ5NJAWtxLPAru4wGGN7A) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR) | 3:14 |
 | 71 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
 | 72 | [Dream Within a Dream](https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Dream Within a Dream](https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx) | 2:48 |
-| 73 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:19 |
-| 74 | [My Love Took Me Down To the River To Silence Me](https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 5:00 |
+| 73 | [My Love Took Me Down To the River To Silence Me](https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 5:00 |
+| 74 | [Who Do You Think You're Talking To?](https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:19 |
 | 75 | [Highway Queen](https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:51 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDA4YTNhZWQ5ZjU3MTBkMmE0MTFiYzQ3ODc3M2MzYmQx`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDk4MzIyNjQ0ZDY4NjdlZjliZGJiMmY1MzA2MjE3MDA0`

@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-607 songs - 1 day 21 hr 43 min
+608 songs - 1 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Forever and Ever](https://open.spotify.com/track/0AaTNHKAophhP8sZuGqg1I) | [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Silent World](https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L) | 4:32 | 2023-03-09 |  |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-12-01 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 |  |
+| [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 | 2023-03-16 |  |
 | [Forgetful](https://open.spotify.com/track/415IWIVm7peu22HIHbnPL1) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Forgetful](https://open.spotify.com/album/77QMtfYuSv2cvRnX1Omast) | 4:21 | 2022-09-13 |  |
 | [Four And Moment](https://open.spotify.com/track/0bjdnGERLF53etzOiyRKrf) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Four And Moment](https://open.spotify.com/album/6LDXCpzKWZdz5xuI4MrHBh) | 2:53 | 2023-03-09 |  |
 | [Freesia](https://open.spotify.com/track/0LHwEY4ECqNf4t0JrSR9eH) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Freesia](https://open.spotify.com/album/15P9FU9R5jbBix4jIGPvBf) | 3:49 | 2022-08-11 |  |
@@ -192,7 +193,7 @@
 | [Gramercy Sunset](https://open.spotify.com/track/3dtrI8OOHWxMyg6EHNecdt) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 4:15 | 2022-04-14 | 2022-10-08 |
 | [Ham Hocks and Cabbage](https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:24 | 2022-04-14 | 2022-09-23 |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2023-01-19 |  |
-| [Her](https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Her](https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc) | 3:58 | 2022-09-08 |  |
+| [Her](https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Her](https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc) | 3:58 | 2022-09-08 | 2023-03-19 |
 | [Here's That Rainy Day](https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Boss Is Back!](https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz) | 6:07 | 2022-04-14 |  |
 | [Hesitation](https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 2:20 | 2022-05-19 |  |
 | [Hills Are Green](https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Hills Are Green](https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B) | 4:09 | 2023-01-19 |  |

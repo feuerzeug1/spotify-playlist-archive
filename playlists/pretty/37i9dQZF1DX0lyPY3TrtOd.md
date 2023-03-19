@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > Extatische gevoelens met prachtige muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,625 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,628 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 13 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 |
 | 14 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
 | 15 | [Hi\-Fidelity](https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t) | 3:19 |
-| 16 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
-| 17 | [Blue](https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Blue](https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr) | 3:26 |
+| 16 | [Blue](https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Blue](https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr) | 3:26 |
+| 17 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
 | 18 | [Ice V](https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice, Death, Planets, Lungs, Mushrooms And Lava](https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s) | 10:15 |
 | 19 | [Colour Me Blue](https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:16 |
 | 20 | [Human Condition](https://open.spotify.com/track/6GifVz1gA0lKGDAlez5iyP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:07 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 27 | [Pulse VI](https://open.spotify.com/track/63t4RxrpfUdVYJhr5Y91Yi) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:27 |
 | 28 | [Howl With Me](https://open.spotify.com/track/2m9x2CsVhMXQZW0LtBKeZk) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4) | 4:19 |
 | 29 | [Broken](https://open.spotify.com/track/76XZIVR8Q4EPiNnXU0z5px) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:12 |
-| 30 | [saudade \- Edit](https://open.spotify.com/track/3ecmX9cdy5NKeoE4GwLoV3) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [saudade \- Edit](https://open.spotify.com/album/71QyRx58NvssqPyzBQq9B3) | 4:32 |
-| 31 | [Waiting Outside](https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:40 |
+| 30 | [Waiting Outside](https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:40 |
+| 31 | [saudade \- Edit](https://open.spotify.com/track/3ecmX9cdy5NKeoE4GwLoV3) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [saudade \- Edit](https://open.spotify.com/album/71QyRx58NvssqPyzBQq9B3) | 4:32 |
 | 32 | [Yesterday](https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Yesterday](https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS) | 2:53 |
 | 33 | [Blue Skies, Big Nights](https://open.spotify.com/track/1cPq8vWVPO27bhy3a1BBVe) | [Will Hearn](https://open.spotify.com/artist/4jR4yABF1QXCxXDXYNKcVQ) | [Blue Skies, Big Nights](https://open.spotify.com/album/4GoDFzrRO2qGCrAH7WujYF) | 2:52 |
 | 34 | [Off Goes The Light](https://open.spotify.com/track/2jXZYoIEspEBQzRQuJp0hf) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [BIB10](https://open.spotify.com/album/0oQnzhETkhY0LgeWGeEI4S) | 4:33 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 57 | [Inside Out \- Kraak & Smaak Remix](https://open.spotify.com/track/5xuiK7v2JYO6aphlTMON3U) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Inside Out \(Kraak & Smaak Remix\)](https://open.spotify.com/album/5GxlIIFZGmY9T6WYjwi1sb) | 4:16 |
 | 58 | [Here We Go Again](https://open.spotify.com/track/3yYZe2t3bgCxJvAA4Dg3dA) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [Here We Go Again](https://open.spotify.com/album/1hZFUyWzdmcMgD85mrPsCb) | 3:15 |
 | 59 | [Electric Connect](https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS) | [Milo Clare](https://open.spotify.com/artist/1m3q3h3I9cMdSEbREVwvJR) | [Electric Connect](https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d) | 3:45 |
-| 60 | [cool](https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:53 |
-| 61 | [it's a setup](https://open.spotify.com/track/7ofHL446H6rlUaalD0aFpT) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [it's a setup](https://open.spotify.com/album/3JJx2oLUYfOmAk1OjJsXl5) | 3:56 |
+| 60 | [it's a setup](https://open.spotify.com/track/7ofHL446H6rlUaalD0aFpT) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [it's a setup](https://open.spotify.com/album/3JJx2oLUYfOmAk1OjJsXl5) | 3:56 |
+| 61 | [cool](https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:53 |
 | 62 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 |
 | 63 | [BACKYARD PARTY](https://open.spotify.com/track/59SZWfl2cuxiaJKI94LCRK) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 2:06 |
 | 64 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 |
-| 65 | [Back to Bed](https://open.spotify.com/track/5wHBP7FV46dDjyAej8h81y) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Back to Bed](https://open.spotify.com/album/7FuDYsundeiBKaMYwYtNVn) | 2:25 |
-| 66 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 |
+| 65 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 |
+| 66 | [Back to Bed](https://open.spotify.com/track/5wHBP7FV46dDjyAej8h81y) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Back to Bed](https://open.spotify.com/album/7FuDYsundeiBKaMYwYtNVn) | 2:25 |
 | 67 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 |
 | 68 | [Boulevard](https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Boulevard](https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG) | 3:05 |
 | 69 | [3 Nights](https://open.spotify.com/track/3VjxQzKXRtV2c8W7IeAXQh) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [Milkshakes & Heartbreaks](https://open.spotify.com/album/4HctltJvLZNQuRM3qeCR8s) | 2:40 |
-| 70 | [Nuts](https://open.spotify.com/track/0CCjJJ7H7R8NMDggyZxIZU) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/2W6d846yiktbTixQ8IdKuX) | 2:03 |
+| 70 | [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDE1YjMxNjdlZjk0YWI2MmEyOGJjMzE0MDZhMDk5NDYy`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDc0YWQ5ZWQxODY2NWI1OTNkYTg2MzhhNTlkZjYwZTZj`

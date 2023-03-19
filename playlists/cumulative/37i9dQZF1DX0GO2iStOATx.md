@@ -4,7 +4,7 @@
 
 > Punjabi superstar’s biggest hits.
 
-75 songs - 4 hr 6 min
+76 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Blow Out Crackers Diwali Remix Mashup](https://open.spotify.com/track/4n0NkV5KWO0Vt7yRa2ptNm) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Blow Out Crackers Diwali Remix Mashup](https://open.spotify.com/album/3CK3geErSDlQMVT6v1YPDn) | 4:50 | 2021-12-02 | 2022-07-29 |
 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 | 2021-12-02 |  |
 | [Cali](https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:38 | 2021-12-02 |  |
+| [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 |  |
 | [Champagne](https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:02 | 2021-12-02 |  |
 | [Channo \- From "Punjab 1984"](https://open.spotify.com/track/6iFKuT3vqpWcKKnAVRwIoU) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:52 | 2021-12-02 |  |
 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2022-04-14 |  |

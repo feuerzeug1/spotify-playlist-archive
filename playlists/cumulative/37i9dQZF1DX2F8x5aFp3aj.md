@@ -4,7 +4,7 @@
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-205 songs - 15 hr 24 min
+206 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,9 +66,9 @@
 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 | 2021-09-28 |  |
 | [Driven Out](https://open.spotify.com/track/0lT3Q3GFZQCzyiwFEam4TG) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [Ultimate Collection: The Fixx](https://open.spotify.com/album/2TJ2RE225ZsyLNBQBYVWr1) | 3:59 | 2021-09-28 | 2022-07-28 |
 | [Eighties](https://open.spotify.com/track/3bmdzcKPdbP32AUUF9hQUP) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Laugh? I Nearly Bought One!](https://open.spotify.com/album/0HkrY28rXvdAX5K15W2zdK) | 3:51 | 2021-09-28 | 2022-07-16 |
-| [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 3:59 | 2021-09-28 |  |
+| [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 3:59 | 2021-09-28 | 2023-03-19 |
 | [Electricity](https://open.spotify.com/track/1wWl4uVbtN9HJ4bOHT1M5m) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Messages: Greatest Hits](https://open.spotify.com/album/4IZK9wstD8i6zZadu4JLLN) | 3:32 | 2021-09-28 | 2022-07-29 |
-| [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 | 2021-09-28 |  |
+| [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 | 2021-09-28 | 2023-03-19 |
 | [Englishman In New York](https://open.spotify.com/track/5Uf0llmR4IIkyOzkgINbL5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB) | 4:26 | 2021-09-28 | 2022-07-29 |
 | [Enola Gay](https://open.spotify.com/track/3WIg3fd3W8I5HU8g3Y6P0k) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [The OMD Singles](https://open.spotify.com/album/3uWvHMePGRYbZ1rNKZrprz) | 3:32 | 2021-09-28 | 2022-07-29 |
 | [Enola Gay \- Remastered 2003](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 | 2021-09-28 |  |
@@ -140,7 +140,7 @@
 | [Orange Crush \- Remastered 2013](https://open.spotify.com/track/1dZ0YJDBE5cyEbYVahUqPI) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K) | 3:51 | 2021-09-28 | 2022-07-21 |
 | [Owner of a Lonely Heart](https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:28 | 2021-09-28 |  |
 | [Panic \- 2011 Remaster](https://open.spotify.com/track/6sqLEYDoCpEcQYlHGYjTTv) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The World Won't Listen](https://open.spotify.com/album/2clbQSNocEJCzkuPPuc00q) | 2:20 | 2021-09-28 | 2022-07-29 |
-| [Pictures of You \- 2010 Remaster](https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 7:28 | 2021-09-28 | 2023-03-18 |
+| [Pictures of You \- 2010 Remaster](https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 7:28 | 2021-09-28 |  |
 | [Pictures Of You \- Remastered](https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 7:28 | 2021-09-28 | 2022-07-29 |
 | [Planet Claire](https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 4:37 | 2021-09-28 | 2022-07-22 |
 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 | 2021-09-28 | 2022-07-29 |
@@ -153,6 +153,7 @@
 | [Rock the Casbah](https://open.spotify.com/track/5vzW6FDzBtnGGnf4uLwLe5) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Essential Clash](https://open.spotify.com/album/6B2e7yG3Www5reNM6WfGdS) | 3:40 | 2021-09-28 | 2022-07-29 |
 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 | 2021-09-28 |  |
 | [Roundabout \- 2003 Remaster](https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 8:30 | 2021-09-28 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2022-05-30 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-07-29 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-05-30 | 2023-03-18 |
 | [Sailing On The Seven Seas](https://open.spotify.com/track/30R6QDPKZCeepPj3hSmQvp) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Sugar Tax](https://open.spotify.com/album/1J8e1dLKVmZbsyxpGa9lGg) | 3:45 | 2021-09-28 | 2022-11-13 |

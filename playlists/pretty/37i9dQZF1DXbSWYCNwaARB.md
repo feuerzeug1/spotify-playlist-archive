@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: Cherry Bullet \(체리블렛\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,840 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,144 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

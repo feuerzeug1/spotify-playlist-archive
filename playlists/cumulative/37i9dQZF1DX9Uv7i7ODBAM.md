@@ -4,13 +4,14 @@
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-86 songs - 4 hr 57 min
+87 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 | 2022-10-01 |  |
 | [All for my sake](https://open.spotify.com/track/3cq8ZVsVrhUmI0uO7aFGht) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 3:37 | 2022-12-13 | 2022-12-15 |
-| [All for my sake](https://open.spotify.com/track/6lAxb7FbIr5yxto0NiFE38) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 3:37 | 2022-12-13 |  |
+| [All for my sake](https://open.spotify.com/track/6lAxb7FbIr5yxto0NiFE38) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 3:37 | 2022-12-13 | 2023-03-19 |
+| [All for my sake](https://open.spotify.com/track/7IfFGv9pkiwxNZWrLI50ko) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 3:37 | 2023-03-14 |  |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-01-10 |  |
 | [Dabi Dance](https://open.spotify.com/track/1R565ZgWul3hkL4OQ6mE05) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:48 | 2023-03-14 |  |
 | [Dabi Dance](https://open.spotify.com/track/1ac0rW28wbCz5W5QRaKAln) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:48 | 2022-12-13 | 2023-03-18 |

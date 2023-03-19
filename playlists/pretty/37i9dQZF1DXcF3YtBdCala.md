@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Paola Jara en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,408 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,419 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 66 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
 | 67 | [Ya Es Suficiente](https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Ya Es Suficiente](https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT) | 3:02 |
 | 68 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
-| 69 | [El Camino](https://open.spotify.com/track/2FBuHZHjko1h1ynYd9IowW) | [Vena De Rey](https://open.spotify.com/artist/4jsKRYQ2PjDJiMV1NjHEhl), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Camino](https://open.spotify.com/album/1uC7oeENjeNnbHavxISZLF) | 3:25 |
+| 69 | [Tu Adiós Como Tequila \- Versión Mariachi](https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Tu Adiós Como Tequila \(Versión Mariachi\)](https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH) | 3:35 |
 | 70 | [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 |
-| 71 | [Tu Adiós Como Tequila \- Versión Mariachi](https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Tu Adiós Como Tequila \(Versión Mariachi\)](https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH) | 3:35 |
+| 71 | [El Camino](https://open.spotify.com/track/2FBuHZHjko1h1ynYd9IowW) | [Vena De Rey](https://open.spotify.com/artist/4jsKRYQ2PjDJiMV1NjHEhl), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Camino](https://open.spotify.com/album/1uC7oeENjeNnbHavxISZLF) | 3:25 |
 | 72 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 |
 | 73 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 |
 | 74 | [En Tu Sonrisa](https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [En Tu Sonrisa](https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F) | 3:01 |
 | 75 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
 
-Snapshot ID: `MTY3ODI1NTIwMCwwMDAwMDAwMGJkMWUyYzliMmMzYzlhM2Q5M2JkMzNmNjAxZjY0MTg4`
+Snapshot ID: `MTY3ODI1NTIwMCwwMDAwMDAwMDQyOTBiM2IyYjg0ZmVjODUwNWI1NWUwOTYyNmZlMTY1`

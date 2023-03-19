@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 35893,
+  "num_followers": 35924,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMDRkZDRjNDI1M2M4ODA0YjA5NWU2ODE2OWQ0ODM5NzNh",
+  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMDBlODg3NTg0NDIwMGYzYzQ4Njg4ZDRmNWI2OWUxODlk",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "The Balance",
-        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 232960,
-      "name": "Longshot",
-      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
+      "duration_ms": 192681,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "The Balance",
+        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 192681,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
+      "duration_ms": 232960,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "She Plays Bass",
-        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 207106,
-      "name": "She Plays Bass",
-      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
+      "duration_ms": 199579,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0"
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 199579,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D"
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Jenny of Oldstones (Game of Thrones)",
-        "url": "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 188638,
-      "name": "Jenny of Oldstones (Game of Thrones)",
-      "url": "https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 204280,
       "name": "Now I'm In It - Bonus Track",
       "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Jenny of Oldstones (Game of Thrones)",
+        "url": "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 188638,
+      "name": "Jenny of Oldstones (Game of Thrones)",
+      "url": "https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Lovestained",
-        "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Lovestained",
-      "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 138115,
       "name": "Doom Days",
       "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Lovestained",
+        "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Lovestained",
+      "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 145720,
-      "name": "U (Man Like)",
-      "url": "https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Only Child",
         "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 239324,
       "name": "Only Child",
       "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 145720,
+      "name": "U (Man Like)",
+      "url": "https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Naeem",
-      "url": "https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 262266,
+      "name": "Naeem",
+      "url": "https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/3g2V8aC3c2ytEKHLeMhKBX"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+        "name": "U.F.O.F.",
+        "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
+      "duration_ms": 188413,
+      "name": "UFOF",
+      "url": "https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "U.F.O.F.",
-        "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "UFOF",
-      "url": "https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 236819,
       "name": "Time",
       "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     }
   ],
   "unique_name": "Best of Indie 2019",

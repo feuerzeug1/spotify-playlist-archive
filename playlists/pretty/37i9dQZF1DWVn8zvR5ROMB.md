@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Luke Combs, Bailey Zimmerman, Walker Hayes and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,364 likes - 54 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,769 likes - 54 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 12 | [Falling \- Spotify Singles](https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 3:44 |
 | 13 | [If This Was A Movie \(Taylor’s Version\)](https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [If This Was A Movie \(Taylor’s Version\)](https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F) | 3:57 |
 | 14 | [Heartache Medication](https://open.spotify.com/track/0zXa43tcaJGH5UMMPHcifz) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Barry Dean](https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7) | [The Songwriter Tapes, Vol\. 2](https://open.spotify.com/album/2syHeNm83xIpCeIC06n4b8) | 2:58 |
-| 15 | [No Rain](https://open.spotify.com/track/2w0OuqFWqYHOkkrVzOj43P) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [No Rain](https://open.spotify.com/album/6RfDXlD9n7bwTck82cSHJE) | 3:49 |
+| 15 | [No Rain \- The Campfire Sessions](https://open.spotify.com/track/2w0OuqFWqYHOkkrVzOj43P) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [No Rain \(The Campfire Sessions\)](https://open.spotify.com/album/6RfDXlD9n7bwTck82cSHJE) | 3:49 |
 | 16 | [I Hate This Job](https://open.spotify.com/track/5VEo7eKO1sV1MrIhH4wnTH) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [I Hate This Job](https://open.spotify.com/album/72kOJ0K6PpNkP63RGerolc) | 2:46 |
 | 17 | [Don't Let Me Down Home](https://open.spotify.com/track/1ELnvNJkxTV0Xv5Z3ixghR) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Don't Let Me Down Home](https://open.spotify.com/album/2CVLnpTeWgCy9rkgtwLtuI) | 3:23 |
 | 18 | [Still Got You on My Mind](https://open.spotify.com/track/1lRj0JwuDAZEpjFA5Gq4ei) | [Alaura Lynne](https://open.spotify.com/artist/3IxcwR6roop7eFUSCygNTA) | [Still Got You on My Mind](https://open.spotify.com/album/6IfYpWXAw22WCC1AhNjwHv) | 3:21 |

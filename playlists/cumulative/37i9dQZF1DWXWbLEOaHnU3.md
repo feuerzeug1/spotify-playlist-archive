@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-244 songs - 21 hr 30 min
+245 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Dreamworld](https://open.spotify.com/track/3lGnnnYxNxDwH2XTWtAyxD) | [Inner State](https://open.spotify.com/artist/3BAc3hPXwWuhHsIvTIA9vY), [Kanobi](https://open.spotify.com/artist/1mIHHeqSkE6B9nM3QDBnxf) | [Dreamworld](https://open.spotify.com/album/3IwHnMj0XbgP8FdTkBoZH9) | 8:14 | 2022-04-22 | 2022-07-28 |
 | [Drivin Me Insane](https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D) | [Drivin Me Insane](https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT) | 3:15 | 2023-01-12 |  |
 | [Dusk Till Dawn](https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Stryker](https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF) | [Dusk Till Dawn](https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r) | 9:20 | 2022-06-16 | 2023-02-08 |
+| [Dystopia](https://open.spotify.com/track/4smLq2UrllQNEsBfQ3ULzO) | [Blazy](https://open.spotify.com/artist/0ASqieRgSFzYlNmf1VkBVC), [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Basscannon](https://open.spotify.com/artist/2cPWCaC4QYh4t2lc0CDMx8) | [Dystopia](https://open.spotify.com/album/5EF9K8PJI1tfMYt4gpMo0r) | 7:39 | 2023-03-15 |  |
 | [Easy Ride](https://open.spotify.com/track/2DnCUrxaj0mjwlMC6sC5pb) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [WYLDE](https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep) | [Easy Ride](https://open.spotify.com/album/3cJsKLCmd0kdw5YW0HrFeV) | 2:48 | 2022-12-19 | 2023-01-13 |
 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 | 2022-04-15 |  |
 | [Elsewhere \- Original mix](https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Emok](https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg), [Martin Vice](https://open.spotify.com/artist/3U9kaA6XFr26x70Va6y3Jv) | [Elsewhere](https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE) | 6:57 | 2023-01-20 |  |
@@ -96,7 +97,7 @@
 | [Go And Get It](https://open.spotify.com/track/5XDJepxre66jd5hKUXrk3u) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Massivo](https://open.spotify.com/artist/6CgxIvyRuT1yFG5fjBbh6E) | [Go And Get It](https://open.spotify.com/album/6WIs16nxUeAOQLmbFaqpeW) | 4:11 | 2022-04-15 | 2022-07-29 |
 | [Go and Get It](https://open.spotify.com/track/68mHAuRNqFWBKVTxF1qtth) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Massivo](https://open.spotify.com/artist/6CgxIvyRuT1yFG5fjBbh6E) | [Go and Get It](https://open.spotify.com/album/3jxpgjPvKIfVj6yDFS7q6J) | 4:11 | 2022-07-28 |  |
 | [God of War \- Original Mix](https://open.spotify.com/track/5MiZ0eeQbPRiWZ7jltrHzg) | [Becker](https://open.spotify.com/artist/3WTaU5om1axaFsKlKchl2U) | [God of War](https://open.spotify.com/album/5IWg0dqiQh2oK9xZzz92r9) | 7:30 | 2022-04-15 | 2022-04-23 |
-| [Gotcha](https://open.spotify.com/track/2JqYDo6wWxZ0TszJ2FXnzg) | [Cosmonet](https://open.spotify.com/artist/29fIOE8ckNq96NbZlktZ7a) | [Gotcha](https://open.spotify.com/album/4tx4U1vNTaDZNRAhifW4Vv) | 6:39 | 2022-04-15 |  |
+| [Gotcha](https://open.spotify.com/track/2JqYDo6wWxZ0TszJ2FXnzg) | [Cosmonet](https://open.spotify.com/artist/29fIOE8ckNq96NbZlktZ7a) | [Gotcha](https://open.spotify.com/album/4tx4U1vNTaDZNRAhifW4Vv) | 6:39 | 2022-04-15 | 2023-03-19 |
 | [Gravity](https://open.spotify.com/track/5dFXMKwmElFkdBXEII2HpR) | [Protonica](https://open.spotify.com/artist/2fhNO804KWA0hiFxjpv3Tt) | [Gravity](https://open.spotify.com/album/33Rnbvt81cYm7vVbYDIgcm) | 7:19 | 2022-04-15 | 2022-07-29 |
 | [Half Of It](https://open.spotify.com/track/5qjj4GCSAEbnuqPGrWsNpT) | [Abraxis](https://open.spotify.com/artist/0VVfeAF66rSXe5NcSLuTs7), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Dimibo](https://open.spotify.com/artist/4s10B1BltDZ1heQIhTFs59) | [Half Of It](https://open.spotify.com/album/0meKTHM26wnyXCWRleNLhh) | 4:48 | 2022-07-28 | 2022-12-27 |
 | [Hannya Shinkyo](https://open.spotify.com/track/1VHsSWOKnb9xBbwX1mCSRL) | [Lutez](https://open.spotify.com/artist/0PHF5hC5g9Pe7cBzSVlTFD), [Souki](https://open.spotify.com/artist/0cUf14Muj9Q2Hxcu6DN2yK) | [Hannya Shinkyo](https://open.spotify.com/album/7gUVJPp9VtWauvD78mBoLy) | 3:16 | 2022-04-15 | 2022-04-21 |

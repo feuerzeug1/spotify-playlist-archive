@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: Foggieraw, artwork by Ian Woods",
-  "num_followers": 44155,
+  "num_followers": 44215,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI4MTM2MCwwMDAwMDAwMDU1NGQ2M2M4ZjE3ZDVhODRjNWMwYmY1ZjY2YzZhZmE2",
+  "snapshot_id": "MTY3NzI4MTM2MCwwMDAwMDAwMGFlOGMzZWI4ZjI1M2IxMGQxZDRhMmYxMTk1YjZlN2Mw",
   "tracks": [
     {
       "added_at": "2023-02-17 08:47:35",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "One Of These Days",
-        "url": "https://open.spotify.com/album/3Md0ysEeu69XhqtvUfVAzN"
-      },
-      "artists": [
-        {
-          "name": "Rudy Currence",
-          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
-        }
-      ],
-      "duration_ms": 219554,
-      "name": "One Of These Days",
-      "url": "https://open.spotify.com/track/1c6sqeNkZQbgt84ungTW1C"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "GREAT IS YOUR FAITHFULNESS",
         "url": "https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 251206,
       "name": "GREAT IS YOUR FAITHFULNESS",
       "url": "https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "One Of These Days",
+        "url": "https://open.spotify.com/album/3Md0ysEeu69XhqtvUfVAzN"
+      },
+      "artists": [
+        {
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+        }
+      ],
+      "duration_ms": 219554,
+      "name": "One Of These Days",
+      "url": "https://open.spotify.com/track/1c6sqeNkZQbgt84ungTW1C"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
+      },
+      "artists": [
+        {
+          "name": "Robyn McGhee",
+          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
+        }
+      ],
+      "duration_ms": 268625,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 180375,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
-      },
-      "artists": [
-        {
-          "name": "Robyn McGhee",
-          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
-        }
-      ],
-      "duration_ms": 268625,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
-      },
-      "artists": [
-        {
-          "name": "Matthews Ntlele",
-          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 248057,
       "name": "First Love",
       "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
+      },
+      "artists": [
+        {
+          "name": "Matthews Ntlele",
+          "url": "https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
-      },
-      "artists": [
-        {
-          "name": "Paul Rarity",
-          "url": "https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 157706,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Wrong About You (Live)",
         "url": "https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 393306,
       "name": "Wrong About You (Live)",
       "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
+      },
+      "artists": [
+        {
+          "name": "Paul Rarity",
+          "url": "https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Journey: Acoustic Sessions",
-        "url": "https://open.spotify.com/album/2HvjY8R1wvlAO3qK6tGZYj"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 322083,
-      "name": "Okay - Acoustic",
-      "url": "https://open.spotify.com/track/02oApVYn8WQSLkahzSlgvF"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Aware",
         "url": "https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 165928,
       "name": "You Called Me Out",
       "url": "https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Journey: Acoustic Sessions",
+        "url": "https://open.spotify.com/album/2HvjY8R1wvlAO3qK6tGZYj"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 322083,
+      "name": "Okay - Acoustic",
+      "url": "https://open.spotify.com/track/02oApVYn8WQSLkahzSlgvF"
     },
     {
       "added_at": "2023-02-02 02:25:09",

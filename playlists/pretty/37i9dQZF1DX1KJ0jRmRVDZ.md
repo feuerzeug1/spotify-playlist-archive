@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,343 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,443 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 26 | [\(just\) lein.](https://open.spotify.com/track/2RwIdMCNbx1iO42dp6cde6) | [神谷志龍](https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX) | [\(just\) lein.](https://open.spotify.com/album/2Z7smhEjfCQvfxHEnLA1wg) | 3:22 |
 | 27 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 28 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
-| 29 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 |
-| 30 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 |
+| 29 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 |
+| 30 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 |
 | 31 | [LOVE is](https://open.spotify.com/track/2Xrbmkla4NvUgJoubBGkLl) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [LOVE is](https://open.spotify.com/album/4BLLl09Rqmp3EK8Or5a6vn) | 3:26 |
 | 32 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
 | 33 | [赫ノ柩](https://open.spotify.com/track/3uN3eQiqrMI02bJWrFhzUI) | [Piko](https://open.spotify.com/artist/7fNmy5x5Ld5c9Jxz1fWK5k) | [柩 \-HITSUGI\-](https://open.spotify.com/album/5R4q3JGQxKRxmODsKICa3I) | 4:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 45 | [Forgery](https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Forgery](https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v) | 2:20 |
 | 46 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
 | 47 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 |
-| 48 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 |
-| 49 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 |
+| 48 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 |
+| 49 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 |
 | 50 | [飽和](https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [飽和 / シネマ](https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD) | 3:05 |
 
-Snapshot ID: `MTY3ODk3ODgwMCwwMDAwMDAwMGU4NzJjMzZjMjIxNjVlMTMyZTUzMDQ1MTA1YTMxZDRm`
+Snapshot ID: `MTY3ODk3ODgwMCwwMDAwMDAwMGE0ODIwMDdiMjQ2YWYyNTJmNzE2NzdlYmM1YjE1MGY2`

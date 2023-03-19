@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Grabbitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,940 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,981 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 54 | [fall apart \(with glaive\)](https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:36 |
 | 55 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 | 56 | [Flatline](https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Max Maco Is Dead Right?](https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K) | 2:54 |
-| 57 | [Coke Nose](https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled Vol\. 1](https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a) | 2:44 |
-| 58 | [Feel Real Pretty](https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/6zLwTLoaEO41zOMSY64MSD) | 3:03 |
+| 57 | [Feel Real Pretty](https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/6zLwTLoaEO41zOMSY64MSD) | 3:03 |
+| 58 | [Coke Nose](https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled Vol\. 1](https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a) | 2:44 |
 | 59 | [HOUNDIN PT\. II](https://open.spotify.com/track/1tBTGM9KtbCZvt6EPXWGrP) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HOUNDIN PT\. II](https://open.spotify.com/album/5fhi8FFl90FTxFJVfdY7pf) | 3:14 |
 | 60 | [flowers](https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN) | 2:41 |
 | 61 | [Drinking with Cupid](https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Drinking with Cupid](https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD) | 2:52 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 90 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 |
 | 91 | [PUMP THE BREAK](https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:12 |
 | 92 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 |
-| 93 | [Go Down Together](https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:15 |
-| 94 | [Have My Back](https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Have My Back](https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u) | 3:47 |
-| 95 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
-| 96 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 |
+| 93 | [Have My Back](https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Have My Back](https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u) | 3:47 |
+| 94 | [Go Down Together](https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:15 |
+| 95 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 |
+| 96 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
 | 97 | [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 |
 | 98 | [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 |
 | 99 | [Have Fun](https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Have Fun](https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C) | 3:56 |
 | 100 | [peachy](https://open.spotify.com/track/0isrhXBLy3hrbG6ZrNOBmK) | [Saint Slumber](https://open.spotify.com/artist/35rPDAvcHOnhrMVmqhQ6BM) | [peachy](https://open.spotify.com/album/70hyK14y20n2Eooh8RyOv7) | 3:23 |
 
-Snapshot ID: `MTY3NTYxNTA5MiwwMDAwMDAwMGM4MDllZWExNDFmMmFjODliMzJiMDE0MGFjYWRmYTEx`
+Snapshot ID: `MTY3NTYxNTA5MiwwMDAwMDAwMDMwMDE1NmJkODhjY2FmMTUwYjVhYWNlYzBlYzY4ODRm`

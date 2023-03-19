@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: BONES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,451,527 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,451,942 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 65 | [Not a Home](https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Not a Home](https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr) | 2:49 |
 | 66 | [Paralyzed](https://open.spotify.com/track/7l4mdOTSYwOayDaHc3s0PV) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:43 |
 | 67 | [Rather Do](https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Childhood Dreams](https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4) | 2:15 |
-| 68 | [](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 0:00 |
-| 69 | [snowflake \(feat\. Jaden & Sarcastic Sounds\)](https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [tell me your feelings and i won't tell you mine](https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R) | 3:07 |
+| 68 | [snowflake \(feat\. Jaden & Sarcastic Sounds\)](https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [tell me your feelings and i won't tell you mine](https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R) | 3:07 |
+| 69 | [](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 0:00 |
 | 70 | [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [when we were 16](https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M) | 3:15 |
 | 71 | [On & On](https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [On & On](https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM) | 2:16 |
 | 72 | [Sarcoma](https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [The Two of Us Are Dying](https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu) | 2:14 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 93 | [YellowStone](https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Eddy Baker](https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6) | [YellowStone](https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp) | 3:09 |
 | 94 | [Can't Leave](https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Can't Leave](https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9) | 2:54 |
 | 95 | [VACANT](https://open.spotify.com/track/2CxTUwmFIMzGfkxVLVQiFJ) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [THE WALLS HAVE EYES](https://open.spotify.com/album/4dFW8b4h1IIKr5Un1NaNSI) | 2:41 |
-| 96 | [NUMB](https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [A SERIES OF UNFORTUNATE EVENTS](https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM) | 3:35 |
-| 97 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 |
+| 96 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 |
+| 97 | [NUMB](https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [A SERIES OF UNFORTUNATE EVENTS](https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM) | 3:35 |
 | 98 | [Reckless](https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Reckless](https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt) | 3:26 |
 | 99 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 |
 | 100 | [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 |
 
-Snapshot ID: `MTY3OTA3MjY4OSwwMDAwMDAwMDVlNjdkNjE1NWY2NTFiOTVhYWI3NTU0ZGY3ODMwYzUz`
+Snapshot ID: `MTY3OTA3MjY4OSwwMDAwMDAwMGNlYjMxYzQ1YTA0YTk5NDMxZTIwYmJkYWJkMjg0MjY0`

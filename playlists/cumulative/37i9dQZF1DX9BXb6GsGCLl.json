@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "Be Okay",
+        "url": "https://open.spotify.com/album/6HlvjQ7eUBKvCJmYcSJZwR"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY"
+    },
+    {
+      "album": {
         "name": "Be Okay (with HRVY)",
         "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
       },
@@ -1108,7 +1130,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"

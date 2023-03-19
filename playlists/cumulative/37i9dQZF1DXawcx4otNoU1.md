@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-298 songs - 18 hr 13 min
+299 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:37 | 2022-09-30 |  |
 | [Ghost in the Wind](https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Air: Aquarius' Songs](https://open.spotify.com/album/4Md8YZmHgLlflGYj9HF5Bk) | 4:30 | 2022-07-08 |  |
 | [Ghost in the Wind](https://open.spotify.com/track/66zI1g4FK5NW5tW0VhMhZX) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Ghost in the Wind](https://open.spotify.com/album/1611TWYLJNq6MOBLm0VM9v) | 4:31 | 2021-10-26 | 2022-07-29 |
+| [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-17 |  |
 | [Good Girl](https://open.spotify.com/track/56iXZRQbMCTypiDsZXM6I0) | [Celine Love](https://open.spotify.com/artist/3n7Zpn5umVXKuLjG8kgGFl), [TR33](https://open.spotify.com/artist/33ywZDcgjSBosGP0O2nEtg) | [Good Girl](https://open.spotify.com/album/62ayDuTyQGhZY8pVLQi31M) | 2:27 | 2022-03-16 | 2022-11-13 |
 | [Great American Novel](https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Great American Novel](https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu) | 3:54 | 2021-10-26 | 2022-07-29 |
 | [Great American Novel](https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ) | 3:55 | 2022-11-18 |  |
@@ -138,7 +139,7 @@
 | [Just The Same](https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:25 | 2022-09-30 |  |
 | [Just The Same](https://open.spotify.com/track/5hmjpbBTy8TxV9wDKifSub) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:25 | 2022-07-08 | 2022-10-14 |
 | [Kaleidoscope Evening](https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX) | [Reuben Fleetwood](https://open.spotify.com/artist/3V3OkC3z09nyxXgt87IPtH) | [Kaleidoscope Evening](https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG) | 2:43 | 2022-04-11 |  |
-| [Keeper](https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Keeper](https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl) | 4:25 | 2021-10-26 |  |
+| [Keeper](https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Keeper](https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl) | 4:25 | 2021-10-26 | 2023-03-19 |
 | [Kiss Me](https://open.spotify.com/track/5YapFTzK50sdZcM6rWuL9M) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 4:07 | 2022-11-07 | 2023-01-21 |
 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 | 2022-05-11 |  |
 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 | 2021-10-26 |  |

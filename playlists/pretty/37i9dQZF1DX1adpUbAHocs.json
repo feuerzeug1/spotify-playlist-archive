@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 659476,
+  "num_followers": 659558,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDg2YTM1Mjg3YzM2MjNlOGEzNzJlMTExODMxYzI0Mzcz",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGE5MDIyY2MwOTg1MGM1N2NhYTczN2M2OWM4NWQwNDZi",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "You Were",
-        "url": "https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg"
-      },
-      "artists": [
-        {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
-        }
-      ],
-      "duration_ms": 193746,
-      "name": "You Were",
-      "url": "https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "You Were",
+        "url": "https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "duration_ms": 193746,
+      "name": "You Were",
+      "url": "https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "to Perth, before the border closes",
         "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 176733,
       "name": "to Perth, before the border closes",
       "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
       },
@@ -839,18 +823,34 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Rearrange Us",
-        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 234600,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/56GEhx9XahoD6sxkJwczod"
+      "duration_ms": 199906,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+        "name": "Rearrange Us",
+        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Can't Fight",
-      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+      "duration_ms": 234600,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/56GEhx9XahoD6sxkJwczod"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Right Down the Line",
-        "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 267962,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 212142,
       "name": "Devil I Know",
       "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Right Down the Line",
+        "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 267962,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "B61",
-        "url": "https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "B61",
-      "url": "https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Lukas Nelson & Promise Of The Real",
         "url": "https://open.spotify.com/album/7FRf2pzChLAhYLWL55hmlH"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 376333,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/058T5UiAWu70uTAYDN67kY"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "B61",
+        "url": "https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "B61",
+      "url": "https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -1387,22 +1371,6 @@
       "duration_ms": 214733,
       "name": "I Wish I Was the Moon",
       "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1435,6 +1403,38 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2023-03-17 04:00:00",

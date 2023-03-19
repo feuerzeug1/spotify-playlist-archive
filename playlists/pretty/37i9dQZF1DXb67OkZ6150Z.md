@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > The best indie covers\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,469 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,483 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 17 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 |
 | 18 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
 | 19 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 |
-| 20 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
-| 21 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 |
+| 20 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 |
+| 21 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
 | 22 | [I'm On Fire](https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm on Fire](https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI) | 2:38 |
 | 23 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
 | 24 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 30 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 |
 | 31 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
 | 32 | [Home](https://open.spotify.com/track/7B909vn7L9vAEdTYjXi7EC) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/6Y5dQYeqMOgGFQOaRIxga8) | 4:23 |
-| 33 | [Hopelessly Devoted to You](https://open.spotify.com/track/7GTmhgsPfmpZHp0e78WYsK) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Hopelessly Devoted to You](https://open.spotify.com/album/3KCMm1lJyjLsLa4nYuHudZ) | 2:27 |
-| 34 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 |
+| 33 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 |
+| 34 | [Hopelessly Devoted to You](https://open.spotify.com/track/7GTmhgsPfmpZHp0e78WYsK) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Hopelessly Devoted to You](https://open.spotify.com/album/3KCMm1lJyjLsLa4nYuHudZ) | 2:27 |
 | 35 | [Blinding Lights](https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Blinding Lights](https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w) | 2:52 |
 | 36 | [Caves](https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Caves](https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc) | 2:59 |
 | 37 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 64 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
 | 65 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 |
 | 66 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 |
-| 67 | [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 |
-| 68 | [West Coast](https://open.spotify.com/track/3JjqTp1P1igYmNHFPb6SDH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [West Coast](https://open.spotify.com/album/3XZP9FEuWaS66Gquo2cKaa) | 3:15 |
+| 67 | [West Coast \(I'm In Love\)](https://open.spotify.com/track/3ktl9MwJgnAanqqkcTXue8) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [West Coast \(I'm In Love\)](https://open.spotify.com/album/0R3khnzqHN3bLsoZk1y36m) | 3:32 |
+| 68 | [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 |
 | 69 | [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 |
 | 70 | [More Than This](https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Music From The Pen Gala 1983](https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg) | 3:31 |
-| 71 | [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 |
+| 71 | [Dancing in the Moonlight \(Beach\)](https://open.spotify.com/track/07vT5XKYnkytySiCLZPYn3) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Dancing in the Moonlight \(Beach\)](https://open.spotify.com/album/2X9C6daog3060N1C99C49C) | 3:03 |
 | 72 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 |
-| 73 | [Dancing in the Moonlight \(Beach\)](https://open.spotify.com/track/07vT5XKYnkytySiCLZPYn3) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Dancing in the Moonlight \(Beach\)](https://open.spotify.com/album/2X9C6daog3060N1C99C49C) | 3:03 |
+| 73 | [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 |
 | 74 | [Can't Take My Eyes Off You](https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [Can't Take My Eyes Off You / 3BadSoSad \- Edit](https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP) | 3:29 |
-| 75 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
+| 75 | [West Coast](https://open.spotify.com/track/3JjqTp1P1igYmNHFPb6SDH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [West Coast](https://open.spotify.com/album/3XZP9FEuWaS66Gquo2cKaa) | 3:15 |
 
-Snapshot ID: `MTY3OTAyOTIwMCwwMDAwMDAwMDNlNGMzMjliOTYwMDA4YjNjMTU4OWE1NWFkNmIzNGNl`
+Snapshot ID: `MTY3OTAyOTIwMCwwMDAwMDAwMDgwZmYzNjEwNDgxODM2MDI1ZTQzMWJmNzhjNzYyZTg1`

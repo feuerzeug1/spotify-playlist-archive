@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-274 songs - 19 hr 50 min
+275 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 | 2022-09-30 |  |
 | [Treasures](https://open.spotify.com/track/3WZhTPAbwI4rucw6soEBRp) | [Astral Brain](https://open.spotify.com/artist/7oDU5TJ0OiPqfxTlq2VMbk) | [The Bewildered Mind](https://open.spotify.com/album/432UfhVmmYhrzsaZepGgEW) | 3:43 | 2022-04-22 | 2022-10-01 |
 | [Two minutes](https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [Two minutes](https://open.spotify.com/album/2JZ6ecPu9mXbadyDzw53f8) | 2:40 | 2022-09-29 |  |
-| [una pistola](https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/71DiIrIpNnWV6So3CDIlGJ) | 3:22 | 2023-03-18 |  |
+| [una pistola](https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb) | 3:22 | 2023-03-19 |  |
+| [una pistola](https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/71DiIrIpNnWV6So3CDIlGJ) | 3:22 | 2023-03-18 | 2023-03-19 |
 | [Underwater](https://open.spotify.com/track/0bHFwdJ7C8tYDVxh6t3GBn) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/3A8AAAbDERbRTc3nZurEOg) | 6:45 | 2022-05-24 | 2022-07-29 |
 | [Underwater](https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 6:45 | 2022-05-24 |  |
 | [Underwater](https://open.spotify.com/track/76FqNXv4mY8xhkEyylm1gL) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/4jeSJc6vev3IZbIaVAvR0w) | 6:45 | 2022-05-24 | 2022-08-11 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: KAYTRANADA",
-  "num_followers": 726,
+  "num_followers": 762,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDc4YTc5MWQ2ZDBjOGNhOTM2NjBmNGZkMDg3ZTNjNDJj",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDE0MThlNjI3YWEzMGUzNGY1ZTk0MWFjYTk4YjEwNDAz",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Killamonjaro",
+        "url": "https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Killamonjaro",
+      "url": "https://open.spotify.com/track/537l7spEsGg6aWl6Y9eKAs"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "See You Next Wednesday",
         "url": "https://open.spotify.com/album/7jJsNB4u538DpyZckBEKsB"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 206600,
       "name": "Better Believe (ft The Weeknd)",
       "url": "https://open.spotify.com/track/2WN7xpcY4zmcqF57HFEGZY"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Killamonjaro",
-        "url": "https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB"
-      },
-      "artists": [
-        {
-          "name": "KILLY",
-          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Killamonjaro",
-      "url": "https://open.spotify.com/track/537l7spEsGg6aWl6Y9eKAs"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Til The Morning",
-        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Til The Morning",
-      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Run My Shit",
         "url": "https://open.spotify.com/album/2oL7uPcbVkIEOV3oCIfC7K"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 173220,
       "name": "Run My Shit",
       "url": "https://open.spotify.com/track/7zVVkNOKWMd46nwMUgHPmL"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Til The Morning",
+        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
-      },
-      "artists": [
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        }
-      ],
-      "duration_ms": 150292,
-      "name": "VULTURES",
-      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Trust Your Gut",
         "url": "https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 229624,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "duration_ms": 150292,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Repeat",
-        "url": "https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG"
-      },
-      "artists": [
-        {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
-        },
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        }
-      ],
-      "duration_ms": 208991,
-      "name": "Repeat",
-      "url": "https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 156000,
       "name": "Examples",
       "url": "https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Repeat",
+        "url": "https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG"
+      },
+      "artists": [
+        {
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+        },
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "duration_ms": 208991,
+      "name": "Repeat",
+      "url": "https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd"
     },
     {
       "added_at": "2023-03-17 04:00:00",

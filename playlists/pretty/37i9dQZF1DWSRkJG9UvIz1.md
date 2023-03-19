@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,598 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,630 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 31 | [Notificação Ligada](https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq) | [Julian Campos](https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR) | [28](https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r) | 2:22 |
 | 32 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 |
 | 33 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
-| 34 | [Juice of Mandarins](https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Juice of Mandarins](https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY) | 2:25 |
-| 35 | [Um Corpo no Mundo](https://open.spotify.com/track/5uSnNITp4UvRePHXo9vGV7) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 6:25 |
+| 34 | [Um Corpo no Mundo](https://open.spotify.com/track/5uSnNITp4UvRePHXo9vGV7) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 6:25 |
+| 35 | [Juice of Mandarins](https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Juice of Mandarins](https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY) | 2:25 |
 | 36 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 37 | [O Velho e a Flor](https://open.spotify.com/track/1jw5vof9ru3gWPZQUnCu03) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [Novas Cores, Eternas Canções](https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb) | 2:41 |
 | 38 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 55 | [Bossa Velha](https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Selva](https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5) | 4:34 |
 | 56 | [Noite Quente de Verão](https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SELFIE](https://open.spotify.com/album/047tLugURWhdI0iuJ6by70) | 2:03 |
 | 57 | [Rio de Janeiro](https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt) | [josefe](https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX) | [Rio de Janeiro](https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu) | 2:23 |
-| 58 | [Tom Jobim](https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz) | [Edley INC.](https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE) | [Tom Jobim](https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO) | 4:08 |
-| 59 | [Baiana](https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:53 |
+| 58 | [Baiana](https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:53 |
+| 59 | [Tom Jobim](https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz) | [Edley INC.](https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE) | [Tom Jobim](https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO) | 4:08 |
 | 60 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 
-Snapshot ID: `MTY3ODUwNTkwMiwwMDAwMDAwMDI0OTZkZTRhODFiY2QxZmYzODI0ZDQ4Y2NiNmZmOWZi`
+Snapshot ID: `MTY3ODUwNTkwMiwwMDAwMDAwMGQxMjllOWM4OTYxZjBjZGI2NmVjZWVjNzhhODExNTBl`

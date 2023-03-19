@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 113016,
+  "num_followers": 113083,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDU3YjI0ZTc5M2ZmYjkyZmU2M2M4NGQ4OWNiYzNmNDY3",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGU0ZWIxZDZkMGIwODhhNWM4ZWMwNWIyMGZiNTQ5M2Zk",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Tattoo (Remastered 2017)",
-        "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 244557,
-      "name": "They Don't Make Them Like You Anymore",
-      "url": "https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Bridge Of Sighs (2007 Remaster)",
         "url": "https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 235720,
       "name": "The Fool and Me - 2007 Remaster",
       "url": "https://open.spotify.com/track/0KaBfk7ax1IoCyA1aABCf9"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Tattoo (Remastered 2017)",
+        "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 244557,
+      "name": "They Don't Make Them Like You Anymore",
+      "url": "https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -549,6 +549,22 @@
       "url": "https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Precious Little",
+        "url": "https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Spencer",
+          "url": "https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk"
+        }
+      ],
+      "duration_ms": 289960,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
+    },
+    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Going Up, Going Down... The Anthology 1968-2001",
@@ -567,22 +583,6 @@
       "duration_ms": 309440,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/4jb8VQ2XbpXf8doWXUJU29"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Precious Little",
-        "url": "https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Spencer",
-          "url": "https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk"
-        }
-      ],
-      "duration_ms": 289960,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -763,18 +763,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
       "artists": [
         {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         }
       ],
-      "duration_ms": 500626,
-      "name": "Goin' Down Slow",
-      "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
+      "duration_ms": 189360,
+      "name": "A Hard Road",
+      "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -795,18 +795,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
       "artists": [
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 189360,
-      "name": "A Hard Road",
-      "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
+      "duration_ms": 500626,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
+        "name": "100 Ton Chicken",
+        "url": "https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
         }
       ],
-      "duration_ms": 197066,
-      "name": "Shapes of Things",
-      "url": "https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o"
+      "duration_ms": 268920,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "100 Ton Chicken",
-        "url": "https://open.spotify.com/album/4Rk1tX6aIuvsJCtkM3bmwM"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
       },
       "artists": [
         {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 268920,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
+      "duration_ms": 197066,
+      "name": "Shapes of Things",
+      "url": "https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o"
     },
     {
       "added_at": "2021-04-22 22:35:02",

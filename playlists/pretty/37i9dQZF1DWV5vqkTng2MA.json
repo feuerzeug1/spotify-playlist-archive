@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Devon Gilfillian",
-  "num_followers": 355595,
+  "num_followers": 355685,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGEzZmY4MmJlZWZlMjFmMGI2ZmY5N2NkYjQ0ZmJiMzAw",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDM5YjhiMzliNTY1NzM0NjViMGE1NDc0NjBlMjAyMDQ3",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Sir Woman",
-        "url": "https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H"
-      },
-      "artists": [
-        {
-          "name": "Sir Woman",
-          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
-        }
-      ],
-      "duration_ms": 265106,
-      "name": "Good Lady",
-      "url": "https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "UNDIVIDED HEART & SOUL",
         "url": "https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 194533,
       "name": "CRYING\u2019S JUST A THING YOU DO",
       "url": "https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "duration_ms": 265106,
+      "name": "Good Lady",
+      "url": "https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Alta Falls",
-        "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 281893,
-      "name": "Never Been a Captain",
-      "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Cheap Champagne",
         "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 233159,
       "name": "Cheap Champagne",
       "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Alta Falls",
+        "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 281893,
+      "name": "Never Been a Captain",
+      "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "First Flower",
-        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 227092,
-      "name": "To the Boys",
-      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "CLAIM",
         "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 215853,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 227092,
+      "name": "To the Boys",
+      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Muse",
-        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
+        "name": "Allen Stone",
+        "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
       },
       "artists": [
         {
-          "name": "The Wood Brothers",
-          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Wastin' My Mind",
-      "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
+      "duration_ms": 146493,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "The Muse",
+        "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
+      },
+      "artists": [
+        {
+          "name": "The Wood Brothers",
+          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Wastin' My Mind",
+      "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Monterey",
         "url": "https://open.spotify.com/album/2ttSZFH721F5dC6fbZznTb"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 208573,
       "name": "Monterey",
       "url": "https://open.spotify.com/track/6naEBVsSQonTSqTOsquBA9"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Allen Stone",
-        "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 146493,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Hollow Ground",
-        "url": "https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 171468,
-      "name": "Don't Want to Say Good-bye",
-      "url": "https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 202320,
       "name": "Trouble Is",
       "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Hollow Ground",
+        "url": "https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 171468,
+      "name": "Don't Want to Say Good-bye",
+      "url": "https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC"
     },
     {
       "added_at": "2023-03-17 04:00:00",

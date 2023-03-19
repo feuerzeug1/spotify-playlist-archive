@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 14,413 likes - 101 songs - 5 hr 27 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 14,414 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 8 | [Ululation](https://open.spotify.com/track/2lLC09Kbxm8DVXjA2srmC5) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:53 |
 | 9 | [I will die on your hill](https://open.spotify.com/track/4E8lQY6FUn2p6ZmKMtL7Gs) | [deem spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [adultSW!M](https://open.spotify.com/album/3f1i3C0Wr3crm54zDNiHS0) | 2:45 |
 | 10 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 |
-| 11 | [Can We Do This?](https://open.spotify.com/track/5Tanr4u1BgG8I1Qth9o66M) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Can We Do This? \(feat\. Sampha\)](https://open.spotify.com/album/37GaMBFRIKZtKxmcdjcb6O) | 2:57 |
+| 11 | [Can We Do This?](https://open.spotify.com/track/5Tanr4u1BgG8I1Qth9o66M) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Can We Do This?](https://open.spotify.com/album/37GaMBFRIKZtKxmcdjcb6O) | 2:57 |
 | 12 | [Free!](https://open.spotify.com/track/7bEpucu5633kcHzSIZvV3R) | [Maxo](https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe) | [Free!](https://open.spotify.com/album/5Ay77iDOYjXd0bD4yTnafe) | 3:27 |
 | 13 | [Conspiracy Charges](https://open.spotify.com/track/6s38qYrzCcjicnzBuMYwrB) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Conspiracy Charges](https://open.spotify.com/album/30ulxIczvXwlfqNHHjiX7s) | 2:42 |
 | 14 | [No Fire](https://open.spotify.com/track/6c2QwhFuxTNAb05DIPr38S) | [Will Lister](https://open.spotify.com/artist/1odMNU4WdV8g46ku7SgfJz), [Le3 bLACK](https://open.spotify.com/artist/49Mc06LWldPtw4WSXR8OWf) | [No Fire](https://open.spotify.com/album/5wRzJ7KJMxQ810UwxjRLGQ) | 3:14 |

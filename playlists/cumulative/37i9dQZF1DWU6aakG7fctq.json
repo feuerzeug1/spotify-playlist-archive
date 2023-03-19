@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 219807,
       "name": "Casa en el \u00e1rbol",
       "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
@@ -3175,6 +3175,24 @@
     },
     {
       "album": {
+        "name": "BAD PREMONITION",
+        "url": "https://open.spotify.com/album/2OvBs0EwzxPxaoTrZwtg0x"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221293,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/3rTk3EuxDOduzi54ji5sqj"
+    },
+    {
+      "album": {
         "name": "Astronom\u00eda Interior",
         "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
       },
@@ -4694,7 +4712,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 213230,
       "name": "tal vez el amor",
       "url": "https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ"
@@ -5576,6 +5594,24 @@
       "duration_ms": 218733,
       "name": "\u00bfQUI\u00c9N TE MANDA?",
       "url": "https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
+        "url": "https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL"
+      },
+      "artists": [
+        {
+          "name": "L\u00daA",
+          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
+      "url": "https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh"
     },
     {
       "album": {

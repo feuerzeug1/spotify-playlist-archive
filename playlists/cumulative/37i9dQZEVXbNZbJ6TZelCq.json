@@ -1081,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Antalya",
+        "url": "https://open.spotify.com/album/1EQWRn9vyiSCm9H6e1krrG"
+      },
+      "artists": [
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "Antalya",
+      "url": "https://open.spotify.com/track/3ELepxj3JfSWBMcAacT8d8"
+    },
+    {
+      "album": {
         "name": "\u00cenapoi La Via\u021b\u0103",
         "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
       },
@@ -4912,7 +4934,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -5788,6 +5810,24 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
     },
     {
       "album": {
@@ -13910,7 +13950,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 210000,
       "name": "OSKYTAKEOVER",
       "url": "https://open.spotify.com/track/4PJgUj2sMRba5OcG59UPg0"
@@ -15054,7 +15094,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 94588,
       "name": "PROTOTIP - M.G.L. Live @ Urbanist Sessions",
       "url": "https://open.spotify.com/track/7vUwP04K3HnJSdpjoQTp5G"
@@ -16645,6 +16685,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
+    },
+    {
+      "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
@@ -17066,6 +17124,28 @@
       "duration_ms": 193234,
       "name": "Sky",
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
+    },
+    {
+      "album": {
+        "name": "Skyscraper",
+        "url": "https://open.spotify.com/album/3zuiejK5DVmwMCgPIKV6lU"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        },
+        {
+          "name": "Beach, Please!",
+          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194452,
+      "name": "Skyscraper",
+      "url": "https://open.spotify.com/track/0cmtEqcHNkz4uJ4qngOiPy"
     },
     {
       "album": {
@@ -18574,7 +18654,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 140625,
       "name": "Teancuri",
       "url": "https://open.spotify.com/track/5hHq6NZy0DBfOHC5CFuxUa"
@@ -19448,7 +19528,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 123448,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/4isHNSvb4ZzGGUbSLPCLMD"
@@ -20096,7 +20176,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"

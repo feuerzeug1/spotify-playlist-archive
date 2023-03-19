@@ -4,7 +4,7 @@
 
 > Chansons pour les longues journées d'été.
 
-127 songs - 7 hr 30 min
+128 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,9 +74,10 @@
 | [Magie](https://open.spotify.com/track/0YtMcpJmoDLPEuKXzZRSFl) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Bon Enfant](https://open.spotify.com/album/7zyYaL9ctHBUJM4d6kdyMD) | 4:30 | 2022-07-16 |  |
 | [Magie](https://open.spotify.com/track/3FfCMqTtnwlgtNpaujXy6N) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Bon Enfant](https://open.spotify.com/album/1wsdxcbLylDSOqM9lqJgPH) | 4:30 | 2022-06-24 | 2022-07-29 |
 | [Maintenant ou jamais](https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Objets perdus](https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9) | 3:24 | 2022-06-24 |  |
+| [Mezcal](https://open.spotify.com/track/0taw82ovKIdw6kIVdhhVWE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3yRXQ2hZhMonFkkrNeK5sS) | 3:52 | 2022-09-23 |  |
 | [Mezcal](https://open.spotify.com/track/0nY56BAHCxcX7XVrcUG9dA) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Fièvre](https://open.spotify.com/album/6Df5Ml1ZfUVn1vfJEMULyl) | 3:52 | 2022-09-23 | 2022-11-13 |
 | [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 | 2022-06-24 | 2022-10-14 |
-| [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-09-23 |  |
+| [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-09-23 | 2023-03-19 |
 | [Mon amour](https://open.spotify.com/track/07XcDj4hRVQi3jua32Oyns) | [De.Ville](https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr) | [Sables](https://open.spotify.com/album/0YgfWW9LpVzWojEzqgWovB) | 3:22 | 2022-06-24 | 2023-01-29 |
 | [Mon amour](https://open.spotify.com/track/1Vw0a8mihDSOJLn1Xz8Wkz) | [De.Ville](https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr) | [Sables](https://open.spotify.com/album/1m9Y3hjCPoViOcc1RFJayY) | 3:22 | 2022-09-23 |  |
 | [Naoko](https://open.spotify.com/track/66pta58sZB4aTd1uiP3CrF) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Naoko](https://open.spotify.com/album/7MZeUpZOcGNI03TZdShTgp) | 2:46 | 2022-06-24 |  |

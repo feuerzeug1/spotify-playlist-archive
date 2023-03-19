@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "All Of The Girls You Loved Before",
+        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221407,
+      "name": "All Of The Girls You Loved Before",
+      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+    },
+    {
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -2554,7 +2572,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 181432,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -3846,7 +3864,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 212784,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
@@ -5676,6 +5694,24 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
       "album": {
@@ -7708,7 +7744,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 183724,
       "name": "\u0e08\u0e14\u0e2b\u0e21\u0e32\u0e22",
       "url": "https://open.spotify.com/track/2wgGM5bNyPTVI2d7KHmmRw"

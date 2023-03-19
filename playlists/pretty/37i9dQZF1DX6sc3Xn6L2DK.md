@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,815 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,845 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 42 | [Turn on the Dark](https://open.spotify.com/track/6Dig9Jq9kH9TGw6zf3w2xG) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Home on the Rage](https://open.spotify.com/album/0nRvOoAUtr6aoJscKOlXQS) | 4:22 |
 | 43 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
 | 44 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
-| 45 | [U Do U](https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa) | [The Kernal](https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu) | [U Do U](https://open.spotify.com/album/0GxM59RMcTXOsvp0otXaq0) | 3:54 |
-| 46 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 |
+| 45 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 |
+| 46 | [U Do U](https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa) | [The Kernal](https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu) | [U Do U](https://open.spotify.com/album/0GxM59RMcTXOsvp0otXaq0) | 3:54 |
 | 47 | [Miller's Cave](https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:49 |
 | 48 | [Aw Heck](https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 2:20 |
 | 49 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 |
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 55 | [America](https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:00 |
 | 56 | [Wherever You Go](https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp) | 3:20 |
 | 57 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
-| 58 | [Sweet Tasting Tennessee](https://open.spotify.com/track/3uSD4eEDSHiNaQrWrKiHKm) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Sweet Tasting Tennessee](https://open.spotify.com/album/2skp8HNem0u215ksPeKI0W) | 3:59 |
-| 59 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
+| 58 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
+| 59 | [Sweet Tasting Tennessee](https://open.spotify.com/track/3uSD4eEDSHiNaQrWrKiHKm) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Sweet Tasting Tennessee](https://open.spotify.com/album/2skp8HNem0u215ksPeKI0W) | 3:59 |
 | 60 | [Los Chicos Tristes](https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Chicos Tristes](https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa) | 3:49 |
 | 61 | [Cocaine Country Dancing](https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Cocaine Country Dancing](https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL) | 4:16 |
-| 62 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
-| 63 | [Dandelions](https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 6:34 |
+| 62 | [Dandelions](https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 6:34 |
+| 63 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
 | 64 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
 | 65 | [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 |
 | 66 | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X) | [Jeremy Fetzer](https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r) | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 74 | [Oh, Sister \[Feat\. Courtney Marie Andrews\]](https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Oh, Sister \[Feat\. Courtney Marie Andrews\]](https://open.spotify.com/album/3xXjZu3KT8TFfb9ObBmx9P) | 3:40 |
 | 75 | [Strange Fascination](https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/5PnMwyxLM380aAXjAWn5gQ) | 4:18 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDg0OGM5NTJjNzIyOTJjYjM1NWNiNTcxNzY2MDk2ODc5`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGJiNjU2NGI3ZGJjMGRiZGY2ZTdjZDM1OGFmZjA5YTFh`

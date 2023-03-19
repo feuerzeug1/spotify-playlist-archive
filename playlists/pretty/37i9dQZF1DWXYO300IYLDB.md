@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,404 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,419 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 88 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 |
 | 89 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
 | 90 | [I Ain’t Worried \- Acoustic](https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \- Acoustic \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG) | 2:29 |
-| 91 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
-| 92 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 |
+| 91 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 |
+| 92 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
 | 93 | [Tidal Wave \- Acoustic](https://open.spotify.com/track/4I7nXv6iqKh60sWMJdpUbN) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Cover My Own \(Acoustic\)](https://open.spotify.com/album/5mwu7jwvBkTcLuwLvdYAX4) | 2:35 |
 | 94 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
-| 95 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 |
-| 96 | [She Will Be Loved \- Acoustic](https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:36 |
+| 95 | [She Will Be Loved \- Acoustic](https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:36 |
+| 96 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 |
 | 97 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
 | 98 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 |
 | 99 | [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 |
 | 100 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 |
 
-Snapshot ID: `MTY3ODk3ODgwMCwwMDAwMDAwMDBlY2Y4NWJkMTgxMmU4NmE0MTYxMjJmMmRkOTUwYTlh`
+Snapshot ID: `MTY3ODk3ODgwMCwwMDAwMDAwMDgwYjFmMGQ4ZTYzMjU4YjIwY2U0NmFhNzk0ODQ5OWFk`

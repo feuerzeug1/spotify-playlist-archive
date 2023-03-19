@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-245 songs - 13 hr 26 min
+248 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Céu No Quarto](https://open.spotify.com/track/7qocYaIQY1ToJnbK7pj8fN) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Céu No Quarto](https://open.spotify.com/album/1iQArK8itENXTXgexkZwDd) | 2:38 | 2022-12-23 | 2023-01-21 |
 | [Dalí](https://open.spotify.com/track/6FHQSoXHPYOebrrZBAPB7N) | [No Money](https://open.spotify.com/artist/2XtUEgkLN083xZ6Biwn8dq) | [Dalí](https://open.spotify.com/album/15xdd7nz5qG1RO9devhKFF) | 3:09 | 2023-02-17 | 2023-03-11 |
 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 | 2022-07-07 |  |
-| [Demais](https://open.spotify.com/track/6rhYkzPcdqaDgBXhExYWWW) | [GBrïsido](https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy) | [Demais](https://open.spotify.com/album/5SjLchkDLzAdhjTS8iUdZy) | 3:07 | 2023-03-03 |  |
+| [Demais](https://open.spotify.com/track/6rhYkzPcdqaDgBXhExYWWW) | [GBrïsido](https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy) | [Demais](https://open.spotify.com/album/5SjLchkDLzAdhjTS8iUdZy) | 3:07 | 2023-03-03 | 2023-03-19 |
 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 | 2022-07-07 |  |
 | [Desce Do Céu](https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Desce Do Céu](https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f) | 4:18 | 2022-10-27 | 2022-11-18 |
 | [Desculpa Por Tudo](https://open.spotify.com/track/3A9T5xImBhmIJXjGZ6EZEu) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [VPaiva](https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9) | [Desculpa Por Tudo](https://open.spotify.com/album/4fW96k2popVR5OB8Ey7EQm) | 2:37 | 2022-07-07 | 2022-07-20 |
@@ -80,6 +80,7 @@
 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 | 2022-08-11 | 2022-09-17 |
 | [DRIP](https://open.spotify.com/track/61GFnSZxDj81InwQ557bHn) | [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U) | [DRIP](https://open.spotify.com/album/78vNTZsf7x1Un1jt6RGN1B) | 3:08 | 2022-10-06 | 2022-10-28 |
 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 | 2022-09-01 | 2022-09-30 |
+| [Eclipse](https://open.spotify.com/track/0tlyCwXSCXP5fsGM4OrHzl) | [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [Ellanor](https://open.spotify.com/artist/5Wd28v3076RfH5BQilhVE6), [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Eclipse](https://open.spotify.com/album/5EZ4pHbodGf7j12OqeMQBi) | 3:11 | 2023-03-17 |  |
 | [Ela Me Xita](https://open.spotify.com/track/6ywCZJUitftSMmnOtASFvf) | [Celso Baía](https://open.spotify.com/artist/0qbwa4N5og0uYMtK3ePiMq), [Bruno Soares](https://open.spotify.com/artist/2WStXxWyKuZ9FJpTtCZYYX) | [Ela Me Xita](https://open.spotify.com/album/17zA6qrmj5RH5Ub4NRxcsV) | 4:11 | 2022-07-07 | 2022-08-05 |
 | [Enganada](https://open.spotify.com/track/4syj8Nofc0O0BJ1EtOKCaT) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Enganada](https://open.spotify.com/album/2S3QLFmlbKPgooo0wialtq) | 2:52 | 2022-07-07 | 2022-07-21 |
 | [Espaço](https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr) | [Lucas Leite](https://open.spotify.com/artist/5FE9rWQk9C3bdSUQRgI9dk) | [Espaço](https://open.spotify.com/album/5TddFI2xW974OSHg88pjOb) | 3:14 | 2022-12-02 | 2023-01-06 |
@@ -92,7 +93,7 @@
 | [Feeling](https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Feeling](https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm) | 3:45 | 2022-07-07 | 2022-09-30 |
 | [Feisty](https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Feisty](https://open.spotify.com/album/0A6tqNmExdFyRCPJZ5uM39) | 2:41 | 2023-03-03 |  |
 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 | 2022-07-07 |  |
-| [Ficou Tudo Bem](https://open.spotify.com/track/1vWvJFkIrMZUnkxA4A0IUU) | [Sara Monteiro](https://open.spotify.com/artist/5HELMWN5G2dNC2AOXn2VNu) | [Ficou Tudo Bem](https://open.spotify.com/album/7BT0ho7Rb4dlFIkFiHrqqC) | 3:23 | 2023-03-17 |  |
+| [Ficou Tudo Bem](https://open.spotify.com/track/1vWvJFkIrMZUnkxA4A0IUU) | [Sara Monteiro](https://open.spotify.com/artist/5HELMWN5G2dNC2AOXn2VNu) | [Ficou Tudo Bem](https://open.spotify.com/album/7BT0ho7Rb4dlFIkFiHrqqC) | 3:23 | 2023-03-17 | 2023-03-19 |
 | [Foste um Vício](https://open.spotify.com/track/205EI5BcZGUAmr2CDLT8Au) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Foste um Vício](https://open.spotify.com/album/0YRohggaep7lzKfXr1xfxs) | 3:21 | 2022-09-22 | 2022-10-14 |
 | [Friend Zone](https://open.spotify.com/track/4miuy3pvA6hu4P064319An) | [AYCIRE](https://open.spotify.com/artist/0TaEbExGFUq0KXTfQyaiDJ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Friend Zone](https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23) | 2:59 | 2023-03-01 |  |
 | [Friend Zone](https://open.spotify.com/track/04trkiJDGMLe2c2Ghop3f2) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1), [Soulwave](https://open.spotify.com/artist/7BmVNqv2Zb3bRjzb4qMAr8) | [Friend Zone](https://open.spotify.com/album/5msGs054ES4Jonpc7zHjnf) | 3:04 | 2022-09-29 | 2022-10-28 |
@@ -151,6 +152,7 @@
 | [N'ta Amau](https://open.spotify.com/track/2dQeZjABhYmAHOf8hoa3dr) | [Psyco Pdz](https://open.spotify.com/artist/4lEJQE8znF91LHaCVhm6ZX) | [N'ta Amau](https://open.spotify.com/album/7ClEhkAX46ygzQGE3VuSWU) | 3:36 | 2022-11-25 | 2022-12-24 |
 | [N1](https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0) | [Sandricidio](https://open.spotify.com/artist/1StFte0Pe59Pu4unbpadJ0) | [N1](https://open.spotify.com/album/16Hp09IOG9OZXmqj789ejf) | 2:55 | 2022-11-18 | 2023-01-06 |
 | [NA NA NA \(feat\. Agir\)](https://open.spotify.com/track/4fDWhaNWTNHGI0SGsm9tvF) | [Karma](https://open.spotify.com/artist/4dy4hTb8rfqlxr4s2m6YJq), [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [NA NA NA \(feat\. Agir\)](https://open.spotify.com/album/4rG2ahHCoc3BW4OSn4nCFS) | 3:07 | 2022-09-16 | 2022-09-26 |
+| [Nada a Esconder](https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3) | 3:38 | 2023-03-17 |  |
 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 | 2022-07-07 | 2023-03-18 |
 | [Naufrágio](https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t) | [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a) | [Naufrágio](https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131) | 2:14 | 2022-10-27 | 2022-11-18 |
 | [NIKES](https://open.spotify.com/track/6X8jYXB1nCKWdwKqdzkT4D) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF), [Dysae](https://open.spotify.com/artist/4tBin3wXRG4NDEbiHVpOLR) | [NIKES](https://open.spotify.com/album/2eoUv4LT4XjeD7a6voLFZ5) | 3:30 | 2023-02-17 | 2023-03-11 |
@@ -227,6 +229,7 @@
 | [Tentação](https://open.spotify.com/track/7v383pu4yGbdQW5t8Gv2dV) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Tentação](https://open.spotify.com/album/06rdIn1DdRecfzKnPrl17m) | 3:28 | 2023-02-17 | 2023-03-11 |
 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 | 2022-07-07 |  |
 | [Teu Eternamente](https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 2:55 | 2022-07-07 | 2023-03-18 |
+| [Teu Eternamente](https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF) | 2:55 | 2023-03-17 |  |
 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 | 2022-07-07 |  |
 | [Time](https://open.spotify.com/track/327d58CiAlFKwANkMW1cKC) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 3:29 | 2022-12-02 | 2022-12-03 |
 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 | 2022-10-13 | 2023-01-27 |
@@ -251,7 +254,7 @@
 | [Wine for me](https://open.spotify.com/track/4x3qG5OWwVBFL7I7uNbiPE) | [Nsnow](https://open.spotify.com/artist/1Algk1jxKZzQc5OF1pDrxL) | [Wine for me](https://open.spotify.com/album/6B9wuurKE6Y6PTNRmzzGvk) | 2:24 | 2022-12-02 | 2022-12-24 |
 | [XtraLife](https://open.spotify.com/track/5mWBcTJHjj38y1JHOl34Gc) | [Raphaël](https://open.spotify.com/artist/4iEURKVv81eLdh9BoLM0uC) | [XtraLife](https://open.spotify.com/album/2kaDHvQQkkxoP6PpLFSwF9) | 2:30 | 2022-07-21 | 2022-07-23 |
 | [You](https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 2:51 | 2022-12-02 | 2023-01-06 |
-| [Última Chance](https://open.spotify.com/track/6zCBcd3eIbyjiz2f0IyQgi) | [Cabo](https://open.spotify.com/artist/1qdZozQ0iarVm0ezFEHGex) | [Ansiedade & Paranóias](https://open.spotify.com/album/62QwzAOPcbroYvq9CDpcP8) | 3:48 | 2023-03-03 |  |
+| [Última Chance](https://open.spotify.com/track/6zCBcd3eIbyjiz2f0IyQgi) | [Cabo](https://open.spotify.com/artist/1qdZozQ0iarVm0ezFEHGex) | [Ansiedade & Paranóias](https://open.spotify.com/album/62QwzAOPcbroYvq9CDpcP8) | 3:48 | 2023-03-03 | 2023-03-19 |
 | [Última Vez](https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Última Vez](https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW) | 3:25 | 2022-09-29 | 2022-11-18 |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

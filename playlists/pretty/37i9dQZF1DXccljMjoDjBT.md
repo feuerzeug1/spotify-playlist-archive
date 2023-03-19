@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s\. Cover: REO Speedwagon
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,832 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,122 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 22 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
 | 23 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
 | 24 | [Open Arms](https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:22 |
-| 25 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
-| 26 | [Hard to Say I'm Sorry / Get Away \- 2006 Remaster](https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded & Remastered\)](https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9) | 5:04 |
-| 27 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
-| 28 | [Woman \- Remastered 2010](https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy: Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:32 |
+| 25 | [Hard to Say I'm Sorry / Get Away \- 2006 Remaster](https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded & Remastered\)](https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9) | 5:04 |
+| 26 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
+| 27 | [Woman \- Remastered 2010](https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy: Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:32 |
+| 28 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
 | 29 | [I Guess That's Why They Call It The Blues](https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:45 |
 | 30 | [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 |
 | 31 | [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 43 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 |
 | 44 | [Amanda](https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Third Stage](https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv) | 4:16 |
 | 45 | [Oh Sherrie](https://open.spotify.com/track/4zEi4tr3lEhiAvTRxEzbEz) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Street Talk \(Expanded Edition\)](https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw) | 3:49 |
-| 46 | [You Can Do Magic](https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [View From The Ground](https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h) | 3:57 |
-| 47 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
+| 46 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
+| 47 | [You Can Do Magic](https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [View From The Ground](https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h) | 3:57 |
 | 48 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 | 49 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
 | 50 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 59 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
 | 60 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 |
 | 61 | [Althea \- 2013 Remaster](https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Go to Heaven](https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT) | 6:52 |
-| 62 | [Big Log \- 2006 Remaster](https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:04 |
-| 63 | [In My Dreams](https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Life As We Know It](https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok) | 4:30 |
+| 62 | [In My Dreams](https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Life As We Know It](https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok) | 4:30 |
+| 63 | [Big Log \- 2006 Remaster](https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:04 |
 | 64 | [I Won't Hold You Back](https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:53 |
 | 65 | [Endless Summer Nights](https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 4:30 |
 | 66 | [Back In The High Life Again](https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Back In The High Life](https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d) | 5:35 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 74 | [Shame On The Moon](https://open.spotify.com/track/1Gxaks4MTbjMCAQ20rx4Iy) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [The Distance](https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1) | 4:55 |
 | 75 | [The Best Of Times](https://open.spotify.com/track/7GRUpcvSQM9HrnC2CjYPG4) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Paradise Theatre](https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF) | 4:17 |
 | 76 | [Romeo and Juliet](https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Making Movies](https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh) | 6:01 |
-| 77 | [Key Largo](https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [The Essential Playlist](https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq) | 3:18 |
-| 78 | [Will You Still Love Me? \- Alternate](https://open.spotify.com/track/0Wv3aY6gApoT3oKBYIqvXb) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 18 \(Expanded Edition\)](https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE) | 4:13 |
+| 77 | [Will You Still Love Me? \- Alternate](https://open.spotify.com/track/0Wv3aY6gApoT3oKBYIqvXb) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 18 \(Expanded Edition\)](https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE) | 4:13 |
+| 78 | [Key Largo](https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [The Essential Playlist](https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq) | 3:18 |
 | 79 | [Throwing It All Away \- 2007 Remaster](https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:49 |
 | 80 | [You Belong To The City](https://open.spotify.com/track/0b8eSsBka9epA2J0wnPMax) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Above The Clouds \- The Collection \(Deluxe\)](https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ) | 5:52 |
 | 81 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 99 | [Don't Want To Wait Anymore](https://open.spotify.com/track/5rJTpBaGWvTaszsNDpAsG5) | [The Tubes](https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK) | [The Completion Backward Principle](https://open.spotify.com/album/3YVb9ns1i0WdzF1cdnLYWi) | 4:18 |
 | 100 | [I Should Have Known Better](https://open.spotify.com/track/06Q8OSgrnDx0NNDf0oeOtd) | [Jim Diamond](https://open.spotify.com/artist/4MC3knlcFjcW7nt2hdn4Dk) | [The Best 80s Love Songs Album In The World...Ever!](https://open.spotify.com/album/7zNZ7yIrl8riW5m4FXiedC) | 3:38 |
 
-Snapshot ID: `MTY3NDA4MDMyNCwwMDAwMDAwMGVkYzQyMzAxZjQ2YTAzYzk0YjFmYmM4ZWY1OTE2YzFh`
+Snapshot ID: `MTY3NDA4MDMyNCwwMDAwMDAwMDkwY2UzZmRjNzZjOWI3NjdkYTRlZWQ1MDM1OGU5NGUw`

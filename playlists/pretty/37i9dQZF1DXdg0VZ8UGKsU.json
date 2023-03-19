@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Michael Bolton",
-  "num_followers": 273818,
+  "num_followers": 274093,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1Njg0OSwwMDAwMDAwMDQwMzkwMDdkYjA1YWZhYmYyMmY5MGY4MTE3OGFhMjkz",
+  "snapshot_id": "MTY3MjI1Njg0OSwwMDAwMDAwMGFjM2UzNTFiODhmZjZmMDgxYjBhZjI2YmYyNGRhMTJk",
   "tracks": [
     {
       "added_at": "2022-12-28 19:47:29",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Chicago 17 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "You're the Inspiration - 2006 Remaster",
-      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "Chicago 17 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "You're the Inspiration - 2006 Remaster",
+      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Don't Know What You Got (Till It's Gone)",
-      "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 225626,
       "name": "Crazy for You - Edit",
       "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Radio Romance",
-        "url": "https://open.spotify.com/album/532JCZV9eoJkF8fgOtwYkE"
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        },
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
         }
       ],
-      "duration_ms": 241040,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/7sWlOFUnQShNdxgk1B0TuW"
+      "duration_ms": 316040,
+      "name": "Hold On To The Nights",
+      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+        "name": "Radio Romance",
+        "url": "https://open.spotify.com/album/532JCZV9eoJkF8fgOtwYkE"
       },
       "artists": [
         {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        },
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 316040,
-      "name": "Hold On To The Nights",
-      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
+      "duration_ms": 241040,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/7sWlOFUnQShNdxgk1B0TuW"
     }
   ],
   "unique_name": "80s Ballads",

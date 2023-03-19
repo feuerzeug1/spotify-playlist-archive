@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJIhAWlsiOv.md) - [plain]
 
 > Latin songs that changed the game\. Cover: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,815 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,331 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJIhAWlsiOv.md) - [plain]
 | 66 | [Tren Al Sur](https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Coleccion Suprema](https://open.spotify.com/album/62mYqA8S00dcrD42jmml86) | 5:38 |
 | 67 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 |
 | 68 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 |
-| 69 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
-| 70 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 |
+| 69 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 |
+| 70 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 71 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 |
 | 72 | [La Tierra del Olvido](https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido \(005\)](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 4:25 |
 | 73 | [María](https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:22 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJIhAWlsiOv.md) - [plain]
 | 83 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3fucYASejkSMwtAYjFRKlF) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 4:22 |
 | 84 | [El Matador](https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Solo Para Fanáticos](https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w) | 4:38 |
 | 85 | [Bamboleo](https://open.spotify.com/track/4EveU9Zb50mjgi5avDNqlK) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [!Volare! The Very Best of the Gipsy Kings](https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id) | 3:23 |
-| 86 | [Gracias a la Vida](https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Mi Chile Lindo](https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl) | 4:38 |
-| 87 | [Amigo](https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Inolvidables](https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl) | 3:28 |
+| 86 | [Amigo](https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Inolvidables](https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl) | 3:28 |
+| 87 | [Gracias a la Vida](https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Mi Chile Lindo](https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl) | 4:38 |
 | 88 | [Mambo No 5](https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo No 5](https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi) | 2:42 |
 | 89 | [Rebelión](https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 6:18 |
 | 90 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJIhAWlsiOv.md) - [plain]
 | 99 | [Somos Novios](https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Serie 20 Exitos](https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO) | 2:35 |
 | 100 | [Guantanamera](https://open.spotify.com/track/7m5hbyERUKJC0268b6uEZD) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia](https://open.spotify.com/album/4AvzQm7Fhjj0VtEn0wehwx) | 3:19 |
 
-Snapshot ID: `MTY3NTcyODYyMiwwMDAwMDAwMGQxYmI5NzQxYmY2YzMzMjNhMGNlY2VjNmY4M2NiMmJi`
+Snapshot ID: `MTY3NTcyODYyMiwwMDAwMDAwMDU2YWU1NjNmM2FjOGU1MTViMGI0N2U4NzJhMWQwOGVm`

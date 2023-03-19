@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,449 likes - 101 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,518 likes - 101 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 53 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
 | 54 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
 | 55 | [You Do It](https://open.spotify.com/track/2kOugVC6skG1JO43K2EnNv) | [Marlene Ribeiro](https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc) | [You Do It](https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ) | 7:21 |
-| 56 | [выжженные поля](https://open.spotify.com/track/0qCSVXlSql2UkFJupliZon) | [тише воды](https://open.spotify.com/artist/7sGURNRYCWDBglrCckFIP9) | [выжженные поля](https://open.spotify.com/album/0ZmB2xyQ2r53QIIsziTUO6) | 3:53 |
+| 56 | [Выжженные Поля](https://open.spotify.com/track/0Qq4vDUgaXZ91bezh7T2mD) | [тише воды](https://open.spotify.com/artist/7sGURNRYCWDBglrCckFIP9) | [Выжженные Поля](https://open.spotify.com/album/4g5v3GcvCcMrrJThehUXOW) | 3:53 |
 | 57 | [La Morte Muore \- Part 3](https://open.spotify.com/track/3JHiHqwApntqpWnukIxYHh) | [OvO](https://open.spotify.com/artist/4DBspZAitax26H5f7ay6zg) | [La Morte Muore \(Part 3\)](https://open.spotify.com/album/0a4gYYEd1DDv5bKbTi5wTi) | 4:30 |
 | 58 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
 | 59 | [Jordão](https://open.spotify.com/track/0OOjWnUSSQzwav02OSctR2) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Parva Naturalia](https://open.spotify.com/album/5tHvENdIkbBl0ItOTva9W8) | 4:23 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 100 | [HP2\-TGP \(I.D.N.C.G.2.D\)](https://open.spotify.com/track/6ouS8C8HiS1KLepNmIHWGX) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [HOLLOW POINT](https://open.spotify.com/album/5jyegl401HqGWNCXbVChqF) | 5:22 |
 | 101 | [Roseate](https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Last Boy Picked](https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC) | 5:14 |
 
-Snapshot ID: `MTY3NzgxNzgyMSwwMDAwMDAwMDAwZDM3YWFhMzE0OTU1MWM5YWJhZTQ4NmM1MGViZGM4`
+Snapshot ID: `MTY3NzgxNzgyMSwwMDAwMDAwMGU1YjlkMWU2ODNmNGRkZjFiZGUyYmQ3MWFjNDBhM2Zj`

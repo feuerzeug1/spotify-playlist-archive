@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  KB
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,228 likes - 99 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,407 likes - 99 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 9 | [Hope](https://open.spotify.com/track/2t1Aye9pCAm3MgbBgsJKLc) | [DJLC](https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ), [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [Hope](https://open.spotify.com/album/5ka2Uy6T6w42ayDTsfTvNx) | 2:41 |
 | 10 | [C4](https://open.spotify.com/track/4nFZcyGYk3wUHkFfliqh3u) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [C4](https://open.spotify.com/album/21rbbclZc7x4dPLg3mFthv) | 2:24 |
 | 11 | [Never Forget](https://open.spotify.com/track/26spj3QxWWw8xy78s7uGx1) | [Quasarpro](https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww) | [Never Forget](https://open.spotify.com/album/3Ujum6XUWUCj2jfeO8mova) | 2:17 |
-| 12 | [Glory](https://open.spotify.com/track/1wj7byFCa1wtrOyLJagRoM) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Built Different](https://open.spotify.com/album/1LgsK7B03yMxBfSfPfXtOy) | 3:42 |
+| 12 | [Glory](https://open.spotify.com/track/1wj7byFCa1wtrOyLJagRoM) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Disciple Theory](https://open.spotify.com/artist/7963a7BIGR9VOUXhGQrC2p) | [Built Different](https://open.spotify.com/album/1LgsK7B03yMxBfSfPfXtOy) | 3:42 |
 | 13 | [Sonshine](https://open.spotify.com/track/6FR0kObtluy7PHJJbcdoPw) | [DJ Lostnfound](https://open.spotify.com/artist/2IW4rma5Xemtuo2hR2iNpA), [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Emcee N.I.C.E.](https://open.spotify.com/artist/3rXjIyIuREQmEh7hurB52u) | [Sonshine](https://open.spotify.com/album/3EJRMNTTDvqMCLxaqWZRM0) | 3:24 |
 | 14 | [Higher Love](https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Higher Love](https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO) | 4:06 |
 | 15 | [Stronger \- Radio Edit](https://open.spotify.com/track/0qt3FJE631XTjmF6xbrzVP) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Stronger \(Radio Edit\)](https://open.spotify.com/album/4d9ckwKUDE8QAkzYJs5rff) | 3:42 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 31 | [Sunday Is Coming](https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/4dkpEziADCqKpBvszDfPua) | 4:52 |
 | 32 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 |
 | 33 | [Who Is This Man \- Live](https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Who Is This Man \(Live\)](https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK) | 9:59 |
-| 34 | [I Believe \- Live At Shepard Church](https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [I Believe \(Live\)](https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q) | 4:46 |
+| 34 | [I Believe \- Live At Shepard Church](https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [I Believe \(Live At Shepherd Church\)](https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q) | 4:46 |
 | 35 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 |
 | 36 | [All Creatures \(Sing the Harmony\) \- Live](https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Psalms, Hymns, and Spiritual Songs \(Live\)](https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv) | 3:59 |
 | 37 | [All Hail King Jesus](https://open.spotify.com/track/4wi7Xn4ueFhItAuYb4jkIa) | [Lifeway Worship](https://open.spotify.com/artist/3JKSiFPFpKSntu64OwWnIw) | [All Hail King Jesus](https://open.spotify.com/album/3XL9QjhqzT3lLN16dgC8ah) | 5:36 |

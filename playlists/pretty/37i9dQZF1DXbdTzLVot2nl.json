@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 80s",
-  "num_followers": 96747,
+  "num_followers": 96831,
   "original_name": "Good Feeling 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY2OTUwNSwwMDAwMDAwMGQ3NmE0N2M3NmEwMjgyNjk4MTNlM2Y5ZTYwZGEzNmJi",
+  "snapshot_id": "MTY1NDY2OTUwNSwwMDAwMDAwMGVjZWYxMmI1ZjlmNWY0ZjM1ZDAzNjllNTE2OTYyZmQ0",
   "tracks": [
     {
       "added_at": "2022-06-08 06:25:05",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 405600,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "What a Feelin'",
         "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 237053,
       "name": "Flashdance...What a Feeling - Radio Edit",
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "added_at": "2022-06-08 06:25:05",

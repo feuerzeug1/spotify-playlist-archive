@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 62638,
+  "num_followers": 62696,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDI5MDAyZTc5YTQ2OWE2ZjViYjMxYzc0NWI0NGUyYjhh",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDcwMWZjZDg0MjEwNDZiMDIzOWQwNzQwMWQ2NzdiMWM1",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Jake Bugg",
+        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Simple As This",
+      "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Jake Bugg",
-        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Simple As This",
-      "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Sixteen Saltines",
-        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Love Is Blindness",
-      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Sweet Disarray",
         "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 196848,
       "name": "From Nowhere",
       "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Sixteen Saltines",
+        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Love Is Blindness",
+      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Delta Spirit",
-        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "California",
-      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Shields",
+        "url": "https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 318423,
+      "name": "Yet Again",
+      "url": "https://open.spotify.com/track/6zc0b2JM2M9DKMuLQ1XCRK"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Shields",
-        "url": "https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX"
+        "name": "Delta Spirit",
+        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
       },
       "artists": [
         {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
         }
       ],
-      "duration_ms": 318423,
-      "name": "Yet Again",
-      "url": "https://open.spotify.com/track/6zc0b2JM2M9DKMuLQ1XCRK"
+      "duration_ms": 219520,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
     },
     {
       "added_at": "2022-05-19 08:11:23",

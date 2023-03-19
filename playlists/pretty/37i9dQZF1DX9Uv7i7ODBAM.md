@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,391 likes - 58 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,848 likes - 58 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 17 | [Hero too](https://open.spotify.com/track/0VPkaJMRQIhYWXiE1LqaCK) | [KYOKA JIRO Starring Chrissy Costanza](https://open.spotify.com/artist/3KKbJAgAcYQBsOBA1sEHVO), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 4:18 |
 | 18 | [スターマーカー \(Album Mix\)](https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Honey & Darling](https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL) | 3:33 |
 | 19 | [ハイヤーグラウンド](https://open.spotify.com/track/6kRLCygHi8SvEL2MWbfzcg) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [AMUSIC](https://open.spotify.com/album/77S1EmlVIWKiXrtwt21sZ1) | 3:47 |
-| 20 | [All for my sake](https://open.spotify.com/track/6lAxb7FbIr5yxto0NiFE38) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 3:37 |
+| 20 | [All for my sake](https://open.spotify.com/track/7IfFGv9pkiwxNZWrLI50ko) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 3:37 |
 | 21 | [I'll be your hero](https://open.spotify.com/track/7Ex5OWpR7dFfoTVWau789a) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | ["My Hero Academia" Soundtrack Selection 2019 \- 2021](https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi) | 2:59 |
 | 22 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 |
 | 23 | [Dabi Dance](https://open.spotify.com/track/1R565ZgWul3hkL4OQ6mE05) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:48 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 57 | [ロングホープ・フィリア](https://open.spotify.com/track/2tPQxzloliTGZHSnuoblD8) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B) | 4:55 |
 | 58 | [戦闘許可!](https://open.spotify.com/track/6OmhUA5iVoSzbtCNLteTpa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:25 |
 
-Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDlhZDNlYzYxZTlhYzAzZDdiMjIxMDU4YWIxYmNmMWZh`
+Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDg3YjVhMGNkZTk4NWVhYzU4ZTVjNGEyMmM4ZmIzNGZi`

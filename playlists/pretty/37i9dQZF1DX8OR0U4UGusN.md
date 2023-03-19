@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > cool tunes for walking, driving, running, flying, etc
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,864 likes - 30 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,964 likes - 30 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 25 | [Where Angels Fear To Tread](https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Moonlight](https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn) | 3:45 |
 | 26 | [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 |
 | 27 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |
-| 28 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
-| 29 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 |
+| 28 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 |
+| 29 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
 | 30 | [Psychics in LA](https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends \(Deluxe\)](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w) | 3:26 |
 
-Snapshot ID: `MTY3NTM1MzUwNSwwMDAwMDAwMDI5MDUyOTFlM2RhNjVhOTMwMWY3NzcxOTA1NGZmN2Vm`
+Snapshot ID: `MTY3NTM1MzUwNSwwMDAwMDAwMDVhNjVmNjEyY2U1ZTk5ZjU5OGIxMjFkNjdiNDUyYmRk`

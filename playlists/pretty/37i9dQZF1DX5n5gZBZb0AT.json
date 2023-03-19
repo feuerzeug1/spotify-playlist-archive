@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 8082,
+  "num_followers": 8878,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA2MjA4MCwwMDAwMDAwMDRiYzBhYzc5YjY0YmQ1Y2I3NDM0MTc2Zjk0NzdiZjJl",
+  "snapshot_id": "MTY3OTA2MjA4MCwwMDAwMDAwMDRiZjEzMzRmYjAyMTY5ZjllODQ4ZmMxMGVmNzFhZjNh",
   "tracks": [
     {
       "added_at": "2023-03-09 21:54:21",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-03-09 21:54:21",
       "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
         "name": "GHOST!",
         "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 231704,
       "name": "GHOST!",
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
+    },
+    {
+      "added_at": "2023-03-09 21:54:21",
+      "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2023-03-09 21:54:21",

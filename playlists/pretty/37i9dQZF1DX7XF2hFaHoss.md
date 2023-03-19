@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,189 likes - 90 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,209 likes - 90 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 43 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
 | 44 | [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 |
 | 45 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
-| 46 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 |
-| 47 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
+| 46 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
+| 47 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 |
 | 48 | [Aeroplane](https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [After a Time](https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW) | 3:51 |
 | 49 | [Call My Name \- Acoustic](https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Call My Name](https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a) | 3:17 |
 | 50 | [Imagining My Man](https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 5:51 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 69 | [Cost of the Cold](https://open.spotify.com/track/0kjbF89Ff6zfL7B6BKBC8Z) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Cost of the Cold b/w Here and Whole](https://open.spotify.com/album/6I4CXFR73mmZKrSxjcl6xs) | 3:50 |
 | 70 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |
 | 71 | [Extraordinary Life](https://open.spotify.com/track/5WynYq2cndxR6HFc7r3prE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 3:41 |
-| 72 | [Call the Days](https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM) | 3:32 |
-| 73 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 |
-| 74 | [Great Divide](https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 4:01 |
+| 72 | [Great Divide](https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 4:01 |
+| 73 | [Call the Days](https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM) | 3:32 |
+| 74 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 |
 | 75 | [Answers \- Acoustic](https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0) | 3:10 |
 | 76 | [Awake Me \- Acoustic](https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Awake Me \(Acoustic\)](https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR) | 5:12 |
 | 77 | [Crater Lake](https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM) | 1:54 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 89 | [August \(feat\. Adam Melchor\)](https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [August \(feat\. Adam Melchor\)](https://open.spotify.com/album/7rCjzf8hQdihYpq1NbWAJn) | 3:41 |
 | 90 | [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/65qUxWlmERiGKra1tteQyB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1wJymTwoSi9WFWkLwlc0P6) | 3:36 |
 
-Snapshot ID: `MTY3ODI1MTYwMCwwMDAwMDAwMDQ5MTEwMWU4MzQ1ZmFhMjAzZWM1Njg0MjVmMjBlZTY5`
+Snapshot ID: `MTY3ODI1MTYwMCwwMDAwMDAwMGI2NDNjNGNkYWM1NWI4NzU4ZmFlYWI1ODFlNGJjNWQ3`

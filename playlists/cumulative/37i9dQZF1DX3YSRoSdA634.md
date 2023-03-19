@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-495 songs - 1 day 6 hr 29 min
+496 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [illicit affairs](https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:10 | 2022-07-08 |  |
 | [Impossible](https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 3:29 | 2021-12-15 |  |
 | [Impossible](https://open.spotify.com/track/1T8PwF3JhIiWwBhun23RNe) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [No Gravity](https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc) | 3:46 | 2022-12-01 |  |
-| [In My Veins \- Feat\. Erin Mccarley](https://open.spotify.com/track/7LwGBxB0h0CVmkOZxYKn0g) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [In My Veins \(Feat\. Erin Mccarley\)](https://open.spotify.com/album/0Lg8NjaKFHSdsuDM6l58JZ) | 5:18 | 2021-12-15 |  |
+| [In My Veins \- Feat\. Erin Mccarley](https://open.spotify.com/track/7LwGBxB0h0CVmkOZxYKn0g) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [In My Veins \(Feat\. Erin Mccarley\)](https://open.spotify.com/album/0Lg8NjaKFHSdsuDM6l58JZ) | 5:18 | 2021-12-15 | 2023-03-19 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-29 |  |
 | [Irreplaceable](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:47 | 2022-08-05 |  |
 | [Is It Just Me? \(feat\. JP Cooper\)](https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX) | 3:23 | 2021-12-15 |  |
@@ -324,7 +324,7 @@
 | [Paper Houses](https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:34 | 2022-10-28 | 2022-12-20 |
 | [Paralyzed](https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Mansion](https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl) | 4:30 | 2021-12-15 |  |
 | [Passing Through](https://open.spotify.com/track/1rYw2u6CrQRfyhiOVE4MyS) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [Times Like These](https://open.spotify.com/album/0VfwHSMHmK47fIIKzzl99B) | 3:18 | 2022-02-15 | 2022-07-21 |
-| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-06 | 2023-03-18 |
+| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-06 |  |
 | [People](https://open.spotify.com/track/7cbe94yjeFCvXZ0T7avjJS) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/1kP6tt24YPAb6MqTCzR2GG) | 3:04 | 2023-01-06 | 2023-01-13 |
 | [Perfectly Wrong](https://open.spotify.com/track/6nat4Z7iRKWVk1qngQqI0Q) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:32 | 2021-12-15 |  |
 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 | 2021-12-15 |  |
@@ -435,7 +435,8 @@
 | [To Be So Lonely](https://open.spotify.com/track/5JiH89mHrv9oWHlD0T326z) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:12 | 2022-06-24 |  |
 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 | 2022-07-01 |  |
 | [To Build A Home](https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ) | 6:11 | 2021-12-15 | 2022-04-21 |
-| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-12-15 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2023-02-17 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-12-15 | 2023-03-19 |
 | [Too Sad To Cry](https://open.spotify.com/track/3CRtbOoAP82y0VbPO5j1ft) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Self Portrait](https://open.spotify.com/album/5UZriQSHZOJOjqUtPE5lpg) | 3:28 | 2021-12-15 |  |
 | [Tourist](https://open.spotify.com/track/6ynqpQIQ1kGtJILbxnCIQ8) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/6T3gA4FP6jvJEz36SdASO7) | 3:44 | 2021-12-15 | 2022-07-25 |
 | [Toxic](https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:48 | 2022-12-23 |  |

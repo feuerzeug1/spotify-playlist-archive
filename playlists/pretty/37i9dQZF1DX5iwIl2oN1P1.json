@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 75726,
+  "num_followers": 75816,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDMyY2U5ZTFmNzIxMTJmYjY4ZTAyZGM2OWU0NzNjNmUz",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMGU3NDAwZGI0Yzc2OWNmYTZiZmRkN2QwMWJkY2VkNjVj",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Close (Radio Edit)",
-        "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Close (Radio Edit)",
-      "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Forever Yours",
         "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 244133,
       "name": "I Need A Word",
       "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Close (Radio Edit)",
+        "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Close (Radio Edit)",
+      "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Open Door (See You Later)",
-        "url": "https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M"
-      },
-      "artists": [
-        {
-          "name": "Christon Gray",
-          "url": "https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2"
-        }
-      ],
-      "duration_ms": 255786,
-      "name": "Open Door (See You Later)",
-      "url": "https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Blessings on Blessings",
         "url": "https://open.spotify.com/album/5v2XFpXgYPT7lC9mZf1x9R"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 295063,
       "name": "Blessings on Blessings",
       "url": "https://open.spotify.com/track/3VBq4uuOxikF23PWXPCuGu"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Open Door (See You Later)",
+        "url": "https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M"
+      },
+      "artists": [
+        {
+          "name": "Christon Gray",
+          "url": "https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2"
+        }
+      ],
+      "duration_ms": 255786,
+      "name": "Open Door (See You Later)",
+      "url": "https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy"
     },
     {
       "added_at": "2020-06-03 14:33:10",

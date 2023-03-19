@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > ¡Picositos y con mucho sabor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,250 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,298 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 31 | [Si No La Tengo](https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk) | [Diablos Locos](https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY) | [15 Grandes](https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj) | 5:08 |
 | 32 | [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 |
 | 33 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
-| 34 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
-| 35 | [Paloma Ajena](https://open.spotify.com/track/0xQ9ffzl3I05FTDcYUnQ4X) | [La Banda Tecno](https://open.spotify.com/artist/6FIQoXCHsjUVZBFab3sXbM) | [Tropical & Rumbero: Vuelve](https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx) | 4:10 |
+| 34 | [Paloma Ajena](https://open.spotify.com/track/0xQ9ffzl3I05FTDcYUnQ4X) | [La Banda Tecno](https://open.spotify.com/artist/6FIQoXCHsjUVZBFab3sXbM) | [Tropical & Rumbero: Vuelve](https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx) | 4:10 |
+| 35 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
 | 36 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
 | 37 | [La Picare](https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB) | 4:20 |
 | 38 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 55 | [Guajira Sicodélica](https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12) | 3:32 |
 | 56 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 |
 | 57 | [Cariñito](https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 4:05 |
-| 58 | [La Bailadora](https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 3:25 |
+| 58 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
 | 59 | [¿Dónde estabas tú?](https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:43 |
-| 60 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
+| 60 | [La Bailadora](https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 3:25 |
 | 61 | [Sal con Limón](https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:01 |
 | 62 | [La Manzanita](https://open.spotify.com/track/2Kb2jBBCtrzxgvK00daHym) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pacto De Sangre](https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn) | 2:21 |
-| 63 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
-| 64 | [Negrita](https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 4:07 |
+| 63 | [Negrita](https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 4:07 |
+| 64 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
 | 65 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
 | 66 | [Traicion Y Olvido](https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 4:00 |
 | 67 | [Tongoneaito](https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:44 |
@@ -89,14 +89,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 79 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
 | 80 | [Cumbia Espacial](https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica \(Deluxe Version\)](https://open.spotify.com/album/2clte0oolrkkXFTJy72us2) | 4:05 |
 | 81 | [Cumbia Sobre el Mar](https://open.spotify.com/track/0xi0Z6QaaoeHWPahfTiISG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [Dog With a Rope](https://open.spotify.com/album/1DKfTnMLIUo2yXXSrfwVNH) | 6:17 |
-| 82 | [Cumbia En La Playa](https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 5:24 |
-| 83 | [Chango](https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 3:38 |
+| 82 | [Chango](https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 3:38 |
+| 83 | [Cumbia En La Playa](https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 5:24 |
 | 84 | [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 |
 | 85 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 |
 | 86 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
-| 87 | [Sensacion Latina](https://open.spotify.com/track/1z7YvRwJKKCxzEMLPA2WbL) | [Yucateco](https://open.spotify.com/artist/6cWxc7Lnk8MqzVZXiibgWN) | [Sensacion Latina](https://open.spotify.com/album/5Da24tiYjKHIhWSdqxV9cf) | 2:45 |
-| 88 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 |
-| 89 | [Babalu](https://open.spotify.com/track/2q6Ctk1nBJU59XtYhiN47b) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 4:29 |
+| 87 | [Babalu](https://open.spotify.com/track/2q6Ctk1nBJU59XtYhiN47b) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 4:29 |
+| 88 | [Sensacion Latina](https://open.spotify.com/track/1z7YvRwJKKCxzEMLPA2WbL) | [Yucateco](https://open.spotify.com/artist/6cWxc7Lnk8MqzVZXiibgWN) | [Sensacion Latina](https://open.spotify.com/album/5Da24tiYjKHIhWSdqxV9cf) | 2:45 |
+| 89 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 |
 | 90 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 |
 | 91 | [Cumbia De Los Pajaritos](https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 2:41 |
 | 92 | [Gypsy Woman](https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Gypsy Woman](https://open.spotify.com/album/41RCbCNUXDHDey6Uh5jyb0) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 99 | [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 |
 | 100 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 |
 
-Snapshot ID: `MTY3MTY0NDQ2NSwwMDAwMDAwMDg2ZDEzMDAzMWRiMWJhNmE1Mjc2ZmMyNjU3YTU4OWZm`
+Snapshot ID: `MTY3MTY0NDQ2NSwwMDAwMDAwMDBiNTM0NWRmNjBlMWExYjRmMmM4YzMxYmU3YzRkNWJj`

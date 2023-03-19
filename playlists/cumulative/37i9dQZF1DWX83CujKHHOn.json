@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 207954,
       "name": "half a world away",
       "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
@@ -5329,6 +5329,24 @@
     },
     {
       "album": {
+        "name": "this is what losing someone feels like",
+        "url": "https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172325,
+      "name": "this is what losing someone feels like",
+      "url": "https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ"
+    },
+    {
+      "album": {
         "name": "this is what ____ feels like (Vol. 1-4)",
         "url": "https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8"
       },
@@ -5402,6 +5420,24 @@
     {
       "album": {
         "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
+    },
+    {
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
       },
       "artists": [
@@ -5412,7 +5448,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"

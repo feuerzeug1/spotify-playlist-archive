@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Neeru Bajwa & Satinder Sartaaj
 
-724 songs - 1 day 15 hr 18 min
+726 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Challa](https://open.spotify.com/track/4vJ2p3DlOrxcnXv9e8rwLA) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu) | [Diamond Jatti](https://open.spotify.com/album/0U2GowEyLxUrHMuan0S4nG) | 2:31 | 2022-02-03 | 2022-02-12 |
 | [Challa](https://open.spotify.com/track/148aTrqgZEQg90n61CaAnH) | [Samar Veer](https://open.spotify.com/artist/349nyiVdtB4mKn6BhjfkY3) | [Challa](https://open.spotify.com/album/0NEs1XpHKrUBPwbiCgi6xF) | 3:38 | 2022-03-29 | 2022-04-06 |
 | [Challa \(feat\. Azaan Dil\)](https://open.spotify.com/track/2QN0B0vANRpoQdUgAM874H) | [Prabh Rai](https://open.spotify.com/artist/6BNvL3e1zBIf1YWCOVgFwb), [Azaan Dil](https://open.spotify.com/artist/3WU7z2n5UlHDkWkqQ61u6Q) | [Challa \(feat\. Azaan Dil\)](https://open.spotify.com/album/49U5ghoyFbBJ0ao5r1via2) | 2:40 | 2022-04-28 | 2022-05-11 |
+| [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 |  |
 | [Chalo Mannya](https://open.spotify.com/track/3JAHmBtj0tynb50kziPAlG) | [Romaana](https://open.spotify.com/artist/424s65ZBz4Alruua67iFmO) | [Chalo Mannya](https://open.spotify.com/album/6rMF3sY9ue7xNwKUBgaP4c) | 2:44 | 2022-04-21 | 2022-07-06 |
 | [Chan Nalon Sohna](https://open.spotify.com/track/2cl60OUzIMNChSkO0Twj92) | [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Sidhika Sharma](https://open.spotify.com/artist/7KnsZZEfgH7iwLdWDiQp0J) | [Chan Nalon Sohna \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/4CiwIxkpUHZqoipyZ8gCrk) | 3:51 | 2022-09-05 | 2022-09-23 |
 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 | 2021-12-02 | 2022-12-16 |
@@ -511,6 +512,7 @@
 | [QUEEN](https://open.spotify.com/track/6RwJPJVrPqi734Rg8syWFM) | [A Kay](https://open.spotify.com/artist/4ZPiabRclxJHc90C0eY8xh) | [QUEEN](https://open.spotify.com/album/1XhqqmtDLfZPh2BiJYygcc) | 3:42 | 2022-05-04 | 2022-05-11 |
 | [Queen](https://open.spotify.com/track/4xgtIHxjxYP33N4KBiTQay) | [Tera Sahib](https://open.spotify.com/artist/0r5sAOkjWfAbTbev99azaS) | [Queen](https://open.spotify.com/album/4FOXrgqdNcFI4AgxmyZVoC) | 2:51 | 2022-01-27 | 2022-02-01 |
 | [Raah](https://open.spotify.com/track/06SSvSFz7Bu1WXVw42M9lN) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 3:33 | 2022-02-17 | 2022-04-29 |
+| [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 |  |
 | [Raanjhe Ki Baaraat](https://open.spotify.com/track/2y1fMZZDDA9RFK4EUZcVul) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b) | [Raanjhe Ki Baaraat](https://open.spotify.com/album/795V3OXkEsDcaZQoVpHv4j) | 3:39 | 2022-03-10 | 2022-04-06 |
 | [Raatan Teriyan](https://open.spotify.com/track/5zYQ1uyhtDR64cJXX8iElB) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Pragati](https://open.spotify.com/artist/0DbVzPStkbvSMq7LQCHdUQ) | [Raatan Teriyan](https://open.spotify.com/album/2NsZM8ZbWRuA6MOSWdx6UW) | 3:13 | 2022-01-19 | 2022-02-01 |
 | [Rab \(from the Movie 'Sher Bagga'\)](https://open.spotify.com/track/0cxdYx46DmEPcULjPEDyQQ) | [Oye Kunaal](https://open.spotify.com/artist/7hf2qsbeILq7EBHCqWlO26) | [Rab \(from the Movie 'Sher Bagga'\)](https://open.spotify.com/album/5WgdYtGjAMrhowUK3nr0BC) | 3:16 | 2022-06-16 | 2022-07-06 |

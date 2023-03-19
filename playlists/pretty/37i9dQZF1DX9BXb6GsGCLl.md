@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,113 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,336 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 45 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 |
 | 46 | [Summer Feeling](https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Summer Feeling](https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY) | 3:00 |
 | 47 | [I Don't Know Why](https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [I Don't Know Why](https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj) | 3:27 |
-| 48 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 |
-| 49 | [More Than I Can Say](https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [More Than I Can Say](https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB) | 2:33 |
+| 48 | [More Than I Can Say](https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [More Than I Can Say](https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB) | 2:33 |
+| 49 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 |
 | 50 | [Slow Dance \(feat\. Ava Max\) \- Sam Feldt Remix](https://open.spotify.com/track/2wenGTypSYHXl1sN1pNC7X) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Slow Dance \(feat\. Ava Max\) \[Sam Feldt Remix\]](https://open.spotify.com/album/6Ol6C42O7AWnTkj8pHMHWv) | 3:13 |
 | 51 | [Way Less Sad](https://open.spotify.com/track/6g3XrmNrWVa33dZuxIhMbF) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:26 |
 | 52 | [Dandelion](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Dandelion](https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ) | 2:20 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 77 | [90s Kids](https://open.spotify.com/track/34evGV6SaoRLHTcXXUVOpb) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [90s Kids](https://open.spotify.com/album/3AAFCYRP4Rje75J6FORJMJ) | 2:43 |
 | 78 | [Better When You're Gone](https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Better When You're Gone](https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o) | 3:12 |
 | 79 | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [The Boy Next Door](https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9) | 2:43 |
-| 80 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 |
+| 80 | [Be Okay](https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Be Okay](https://open.spotify.com/album/6HlvjQ7eUBKvCJmYcSJZwR) | 2:21 |
 
-Snapshot ID: `MTYyOTQ0NzY1MywwMDAwMDAwMDJlZTZjNmVmYjVjNjViYzI0NWEzMzYyYmVlOWIwMDI5`
+Snapshot ID: `MTYyOTQ0NzY1MywwMDAwMDAwMGE1MTU5OTBhN2Q1NWI0ZmRiNDlkZGUyNDNhYWVhNzlk`

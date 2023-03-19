@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 416935,
+  "num_followers": 417338,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDE1NzZhZjE0MjAzMGMxZWEyNTdlOGFjYTFlZjg4YjBj",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGRiYjM2ZDVhNGM4MWI3NDUyNTA4NzhlODc3NjlhZTAx",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 368783,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 171785,
       "name": "Hold The Line (feat. A R I Z O N A)",
       "url": "https://open.spotify.com/track/6EBlOYNcZ8MrdEov9lEdV6"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 368783,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -915,6 +915,26 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "GALLERY",
         "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 224773,
       "name": "Young",
       "url": "https://open.spotify.com/track/1KeZgPUr54C8iz3FjqzVoz"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        }
-      ],
-      "duration_ms": 228361,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Runaways (feat. Teemu)",
         "url": "https://open.spotify.com/album/0cvwZJlRI7a6aUY3CB24dj"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 182400,
       "name": "Runaways (feat. Teemu)",
       "url": "https://open.spotify.com/track/7N3KIPb2x4FzKUeonhw9sd"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        }
+      ],
+      "duration_ms": 228361,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Music Is My Best Friend",
+        "url": "https://open.spotify.com/album/6Y9pKRKhOZ3t1ILhEFDXuZ"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Bad Ideas",
+      "url": "https://open.spotify.com/track/0uNU2DnGjyjzqeaK3z5rSi"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Sad Song (feat. TINI)",
         "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 154024,
       "name": "Sad Song (feat. TINI)",
       "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Music Is My Best Friend",
-        "url": "https://open.spotify.com/album/6Y9pKRKhOZ3t1ILhEFDXuZ"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Bad Ideas",
-      "url": "https://open.spotify.com/track/0uNU2DnGjyjzqeaK3z5rSi"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Strawtown",
-        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 188846,
-      "name": "On The Beach",
-      "url": "https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Here Today Gone Tomorrow",
         "url": "https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 313084,
       "name": "Facing the Sun",
       "url": "https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Strawtown",
+        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 188846,
+      "name": "On The Beach",
+      "url": "https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Souls",
+        "url": "https://open.spotify.com/album/4byzvWM79mkf6sd4vwXXJ9"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Riah",
+          "url": "https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9"
+        }
+      ],
+      "duration_ms": 215445,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/2s1AhFYnZAtSU5rk4lvwB7"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Cool Again (Prince Fox Remix)",
         "url": "https://open.spotify.com/album/0Igw3OQuE2WRXKO7aTyq36"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 218773,
       "name": "Rockabye (feat. Sean Paul & Anne-Marie) - Thomas Rasmus Chill Mix",
       "url": "https://open.spotify.com/track/122AOGwKIrI40hLGYRwirG"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Souls",
-        "url": "https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Riah",
-          "url": "https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/3O1uhWkr42NesFnVloLq2a"
     },
     {
       "added_at": "2022-01-18 14:54:04",

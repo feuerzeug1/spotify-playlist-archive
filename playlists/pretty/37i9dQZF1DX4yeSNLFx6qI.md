@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,731,428 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,731,590 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 66 | [No Querías Lastimarme](https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:44 |
 | 67 | [¿Qué Vas a Hacer?](https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:44 |
 | 68 | [Saturno](https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Saturno](https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6) | 4:13 |
-| 69 | [Con la Falta Que Me Haces](https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 2:44 |
-| 70 | [Regresa](https://open.spotify.com/track/1z9mOl4yaivulHoUBxuQvQ) | [Madison](https://open.spotify.com/artist/0NwGBRhszOv045HeCRAW7n), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Regresa](https://open.spotify.com/album/3Uxs7bly961sChdGGBbfbL) | 3:20 |
+| 69 | [Regresa](https://open.spotify.com/track/1z9mOl4yaivulHoUBxuQvQ) | [Madison](https://open.spotify.com/artist/0NwGBRhszOv045HeCRAW7n), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Regresa](https://open.spotify.com/album/3Uxs7bly961sChdGGBbfbL) | 3:20 |
+| 70 | [Con la Falta Que Me Haces](https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 2:44 |
 | 71 | [Te echo de menos](https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te echo de menos](https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj) | 3:14 |
 | 72 | [Arreglándome y Dañándome](https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF) | 4:04 |
-| 73 | [Vas A Quedarte](https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tráiler](https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw) | 3:46 |
-| 74 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 |
+| 73 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 |
+| 74 | [Vas A Quedarte](https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tráiler](https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw) | 3:46 |
 | 75 | [De la Ilusión Al Miedo](https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [De la Ilusión Al Miedo](https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx) | 4:05 |
 | 76 | [Si hubieras querido](https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si hubieras querido](https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt) | 3:41 |
 | 77 | [Vuelve](https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Vuelve](https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Fue Lo Mejor](https://open.spotify.com/track/662Z8N8YhRLVVCIKnxLNBg) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Fue Lo Mejor](https://open.spotify.com/album/7LMo6IdCd1P9BTGOYvbgZF) | 3:07 |
 | 100 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH) | 3:15 |
 
-Snapshot ID: `MTY3OTAxMTgwMywwMDAwMDAwMDQxMDM0NGU3M2JiMDc2M2U2ODMyMjc5ZDBiM2M2NzE4`
+Snapshot ID: `MTY3OTAxMTgwMywwMDAwMDAwMDU5NDBlODE4NDA3ZTJjMzMxNGI1MWNkZTJlYjU2ZTMx`

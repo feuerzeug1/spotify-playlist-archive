@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,633 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,650 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 10 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
 | 11 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
 | 12 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 |
-| 13 | [With me](https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Interest of Love \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q) | 3:46 |
-| 14 | [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 |
+| 13 | [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 |
+| 14 | [With me](https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Interest of Love \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q) | 3:46 |
 | 15 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 |
 | 16 | [Where the sea sleeps](https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 |
 | 17 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 38 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
 | 39 | [Especially For You](https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ) | [Lee Daneung](https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO) | [Especially For You](https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl) | 2:34 |
 | 40 | [Real Love](https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Love in Contract, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF) | 3:19 |
-| 41 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 |
-| 42 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
+| 41 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
+| 42 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 |
 | 43 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
 | 44 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 |
 | 45 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 52 | [Love in the Milky Way Cafe](https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1.0](https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c) | 2:52 |
 | 53 | [I LUV U \(with MIRANI\)](https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [I LUV U \(with MIRANI\)](https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1) | 3:55 |
 | 54 | [Marry Me](https://open.spotify.com/track/7BNV7EACj2jSl0fdiG6726) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Marry Me](https://open.spotify.com/album/0qkWVEZ616XWGaxME5RyHP) | 3:08 |
-| 55 | [ONLY YOU](https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 2:57 |
-| 56 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
+| 55 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
+| 56 | [ONLY YOU](https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 2:57 |
 | 57 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 |
 | 58 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 |
 | 59 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 |
 | 60 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 
-Snapshot ID: `MTY3ODUyMjU1MywwMDAwMDAwMGU5YjFkNWI5ZTNhNmM1NjQ2MzViYTgyNGY0NDU0MjM0`
+Snapshot ID: `MTY3ODUyMjU1MywwMDAwMDAwMDZmMGJiY2ZlM2ZmYWQxNmI2YWZhYmQ5Yjg2OGZlMjkx`

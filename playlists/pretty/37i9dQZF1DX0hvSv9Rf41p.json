@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with WHIPPED CREAM.",
-  "num_followers": 957214,
+  "num_followers": 957299,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGUyMWYxYjU0MGZlYzU4YjQ3OTUxMzE2NDQ0ZjBmYjkw",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDYyODJmNTkzZjlhOTlkMzIxMDBkMTU2OWYxYjQzMzQx",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1443,6 +1443,30 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/3PbKTYH2g4or5eeizzwOQ4"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Biometrix",
+          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/1VRgvtnfkkjgPw9a48KMiT"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Trials (NGHTMRE & SPACE LACES Club Mix)",
         "url": "https://open.spotify.com/album/5BhTksD3LCLkchjrS2I5HZ"
       },
@@ -1467,6 +1491,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Rude Boy 22 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "I'm Delighted",
         "url": "https://open.spotify.com/album/7DvM5EovlXacl7ngrQcI1h"
       },
@@ -1487,46 +1527,6 @@
       "duration_ms": 339200,
       "name": "I'm Delighted",
       "url": "https://open.spotify.com/track/3N6B80cmfOnaQGG7KWppyb"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Rude Boy 22 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/3PbKTYH2g4or5eeizzwOQ4"
-      },
-      "artists": [
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "Biometrix",
-          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/1VRgvtnfkkjgPw9a48KMiT"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Angels Landing",
+        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Angels Landing",
+      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Halfway Down (with Ashley Drake)",
         "url": "https://open.spotify.com/album/5kgb4YbeYYRAQ7fnFpBRBP"
       },
@@ -1687,22 +1707,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Angels Landing",
-        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
       },
       "artists": [
         {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "FrostTop",
-          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Angels Landing",
-      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
+      "duration_ms": 177656,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Ding Dong",
-        "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "Ding Dong",
-      "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Transport God",
         "url": "https://open.spotify.com/album/5IGurSLvJs2ZOPBqdZtuUF"
       },
@@ -1795,26 +1795,6 @@
       "duration_ms": 172857,
       "name": "Space Candy",
       "url": "https://open.spotify.com/track/6niRLPoOk9g29qJMdBobwg"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "HEAVENS DOOR",
-        "url": "https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "HEAVENS DOOR",
-      "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1859,6 +1839,26 @@
       "duration_ms": 214736,
       "name": "DIMENSIONAL",
       "url": "https://open.spotify.com/track/4trP47xiWSelndRjtYcGDF"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "HEAVENS DOOR",
+        "url": "https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "HEAVENS DOOR",
+      "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -2211,26 +2211,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Outcast",
-        "url": "https://open.spotify.com/album/7bzJEJoMYDnwJlZC3h9hBb"
-      },
-      "artists": [
-        {
-          "name": "INHUMAN",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 272431,
-      "name": "Outcast",
-      "url": "https://open.spotify.com/track/20eAFFTSJktGui5yaZ9DCr"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Light Garden",
         "url": "https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe"
       },
@@ -2247,6 +2227,26 @@
       "duration_ms": 223961,
       "name": "Salt",
       "url": "https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Outcast",
+        "url": "https://open.spotify.com/album/7bzJEJoMYDnwJlZC3h9hBb"
+      },
+      "artists": [
+        {
+          "name": "INHUMAN",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 272431,
+      "name": "Outcast",
+      "url": "https://open.spotify.com/track/20eAFFTSJktGui5yaZ9DCr"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/5yWY4gVRl4oJEuRSBbBOHq"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "duration_ms": 269623,
+      "name": "Forgive You Anyway",
+      "url": "https://open.spotify.com/track/5NpVwsN4IvmWUzWdn22ILw"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "EMBRACE",
         "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 196800,
       "name": "Within The Boundaries",
       "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/5yWY4gVRl4oJEuRSBbBOHq"
-      },
-      "artists": [
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        }
-      ],
-      "duration_ms": 269623,
-      "name": "Forgive You Anyway",
-      "url": "https://open.spotify.com/track/5NpVwsN4IvmWUzWdn22ILw"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Blicky",
-        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
-      },
-      "artists": [
-        {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Blicky",
-      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "CASHMERE",
         "url": "https://open.spotify.com/album/7n2XaVtj6fO1MFnKz5yh8V"
       },
@@ -2439,22 +2423,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "LEVIATHAN",
-        "url": "https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o"
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
       },
       "artists": [
         {
-          "name": "GRUMGULLY",
-          "url": "https://open.spotify.com/artist/5eNxx0VmxNINub3wOEzALm"
-        },
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
         }
       ],
-      "duration_ms": 163200,
-      "name": "LEVIATHAN",
-      "url": "https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2"
+      "duration_ms": 212413,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -2475,6 +2455,26 @@
       "duration_ms": 199875,
       "name": "Captive",
       "url": "https://open.spotify.com/track/6ZvgvFGY2Pv5iL8u0ptduc"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "LEVIATHAN",
+        "url": "https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o"
+      },
+      "artists": [
+        {
+          "name": "GRUMGULLY",
+          "url": "https://open.spotify.com/artist/5eNxx0VmxNINub3wOEzALm"
+        },
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "LEVIATHAN",
+      "url": "https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "\u00c6ON:ONE",
-        "url": "https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 195862,
-      "name": "Polaris",
-      "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Bang Harder",
         "url": "https://open.spotify.com/album/6XS7UbDpIqRIWNMxG5I8XV"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 164842,
       "name": "Bang Harder",
       "url": "https://open.spotify.com/track/3DrLjM8mwvw6YHDIO4cQJT"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "\u00c6ON:ONE",
+        "url": "https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
     },
     {
       "added_at": "2023-03-17 04:00:00",

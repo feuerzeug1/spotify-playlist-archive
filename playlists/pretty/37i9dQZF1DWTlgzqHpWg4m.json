@@ -1,12 +1,12 @@
 {
   "description": "welcome to the Golden State.",
-  "num_followers": 798459,
+  "num_followers": 798570,
   "original_name": "California Rock State",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGQyMmQzZDRmZDg1NjFmOTQ1MGE2YWM0NWVjYTMwODc5",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDU3YmJkZTgyMjk3ZDk3NTBjZmMwYTljZjU3MTJjODRi",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "She Wants Revenge",
-        "url": "https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR"
-      },
-      "artists": [
-        {
-          "name": "She Wants Revenge",
-          "url": "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
-        }
-      ],
-      "duration_ms": 284613,
-      "name": "Tear You Apart",
-      "url": "https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Fush Yu Mang (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 219866,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "She Wants Revenge",
+        "url": "https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR"
+      },
+      "artists": [
+        {
+          "name": "She Wants Revenge",
+          "url": "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
+        }
+      ],
+      "duration_ms": 284613,
+      "name": "Tear You Apart",
+      "url": "https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9"
     },
     {
       "added_at": "2023-02-24 05:01:00",

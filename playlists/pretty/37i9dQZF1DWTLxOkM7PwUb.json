@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 9528,
+  "num_followers": 9641,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMDg0MDU1ZTIwYTRkNTFjYjRmODBjOGYzNTY2ZWRmYzBm",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGRhYzZhYWJjYTViMWY1YjliNmU1MzQ1ODQ5ZTRjNGE1",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Keoland",
-        "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Miss U",
-      "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Si Te Vas",
         "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 240441,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Keoland",
+        "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -955,6 +955,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "MAWZ",
+        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "A tus Pies",
+      "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Sigues Preguntando (Remix)",
         "url": "https://open.spotify.com/album/0RxPmbaFmVq10fSVw5xeOv"
       },
@@ -1003,22 +1023,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
-      },
-      "artists": [
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU"
       },
@@ -1031,6 +1035,22 @@
       "duration_ms": 163466,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1051,26 +1071,6 @@
       "duration_ms": 245141,
       "name": "Dejar Atr\u00e1s / Rompe Corazones",
       "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "MAWZ",
-        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 211964,
-      "name": "A tus Pies",
-      "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
     },
     {
       "added_at": "2022-12-09 03:00:00",

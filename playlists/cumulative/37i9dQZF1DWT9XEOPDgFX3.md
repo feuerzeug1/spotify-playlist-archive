@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: hey, nothing
 
-311 songs - 19 hr 41 min
+312 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2022-01-21 | 2022-07-29 |
 | [Circles In The Firing Line \- Edit](https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Fever Dreams](https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr) | 3:27 | 2022-04-13 | 2023-03-11 |
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2022-04-13 | 2022-07-29 |
-| [Closing the Door on Us](https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Closing the Door on Us](https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3) | 2:15 | 2023-02-17 |  |
+| [Closing the Door on Us](https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz) | [Dexter in the Newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [Closing the Door on Us](https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3) | 2:15 | 2023-02-17 |  |
 | [Convention](https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:16 | 2022-04-13 | 2022-11-26 |
 | [Convention](https://open.spotify.com/track/2QnSMKFZw9dD2Fhp0bO3lb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:16 | 2022-12-16 |  |
 | [Cool Dry Place](https://open.spotify.com/track/1dHDITnfhOShBOAqyqGJnw) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/19KzfzLfugS5xEMPOVUQuv) | 5:00 | 2022-01-21 | 2022-07-28 |
@@ -102,7 +102,7 @@
 | [For Props](https://open.spotify.com/track/4ONnqJEwXq3RRoQBm2CuYH) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [For Props](https://open.spotify.com/album/37qOG7Mcy601w1oVaLd3Nc) | 3:43 | 2022-01-21 | 2022-07-29 |
 | [Forever \(New Feelings Version\)](https://open.spotify.com/track/0a3XINx8PuXVIwEiQoSdUd) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 4:05 | 2022-04-29 | 2022-07-29 |
 | [Forever You & I](https://open.spotify.com/track/6XBUQjHdbHeLvc45We8UZM) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [Forever You & I](https://open.spotify.com/album/1dWmrJhe6iXyMgZ9FjX1oi) | 4:06 | 2022-04-29 | 2022-06-26 |
-| [Friends](https://open.spotify.com/track/32irCtqVudXga5frCUDFVH) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Friends](https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD) | 3:02 | 2022-12-02 |  |
+| [Friends](https://open.spotify.com/track/32irCtqVudXga5frCUDFVH) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Friends](https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD) | 3:02 | 2022-12-02 | 2023-03-19 |
 | [Giant Palm](https://open.spotify.com/track/0iUorp8jbqv4YJRtD79ewf) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Giant Palm](https://open.spotify.com/album/0aenLd8evkQ9BQJbC9UlNd) | 4:36 | 2022-04-13 | 2022-07-29 |
 | [Giant Palm](https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Giant Palm](https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf) | 4:36 | 2022-04-29 |  |
 | [Giving Up](https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:10 | 2022-04-29 |  |
@@ -224,6 +224,7 @@
 | [Reliable Feelings](https://open.spotify.com/track/30LBzS7eykKBOpFbwlE4nX) | [Adeline Hotel](https://open.spotify.com/artist/3BOfygYBFwHTBFyCbsQVMv) | [Good Timing](https://open.spotify.com/album/095LNfAEI2EPWtL3Z3xVsX) | 2:46 | 2022-04-13 | 2022-07-28 |
 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 | 2022-04-29 |  |
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2022-04-13 | 2022-07-29 |
+| [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-03-17 |  |
 | [Robber](https://open.spotify.com/track/0Dmbh8ndIpIhRhhTpLRP6Z) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2BzlpJgHCH2MgTEdZNzirb) | 5:20 | 2022-01-21 | 2022-07-29 |
 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 | 2022-04-29 | 2023-03-18 |
 | [Roger](https://open.spotify.com/track/65Ht6DgQcFITmzl1tfTPbc) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Roger](https://open.spotify.com/album/2plWivfGWVm4a0xLT6ONWY) | 3:21 | 2022-04-13 | 2022-07-29 |

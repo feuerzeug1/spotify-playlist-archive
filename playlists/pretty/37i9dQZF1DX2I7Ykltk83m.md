@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Tommy Lefroy
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,035 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,147 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 37 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 |
 | 38 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
 | 39 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
-| 40 | [Who Am I But Someone](https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:42 |
-| 41 | [Hurt](https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:36 |
+| 40 | [Hurt](https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:36 |
+| 41 | [Who Am I But Someone](https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:42 |
 | 42 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
-| 43 | [Working for the Knife](https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Working for the Knife](https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE) | 2:38 |
-| 44 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 |
+| 43 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 |
+| 44 | [Working for the Knife](https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Working for the Knife](https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE) | 2:38 |
 | 45 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
 | 46 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 |
-| 47 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR) | 5:26 |
+| 47 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 |
 | 48 | [Not](https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 6:07 |
-| 49 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 |
+| 49 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR) | 5:26 |
 | 50 | [Interstate Vision](https://open.spotify.com/track/348FPMPFwLA7ucpCqNXyPl) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/2ayYjy02kHqMSMKHXOLRGp) | 2:42 |
 | 51 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 52 | [When You Know You Know](https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:08 |
@@ -101,23 +101,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 91 | [Be Careful With Yourself](https://open.spotify.com/track/0c8dhGhpolT4ByZ28RgIti) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 3:47 |
 | 92 | [Go Outside](https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Happy Birthday, Ratboy](https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn) | 2:49 |
 | 93 | [Impossible Weight \- feat\. Sharon Van Etten](https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9) | [Deep Sea Diver](https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Impossible Weight](https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi) | 3:22 |
-| 94 | [Slowly](https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:05 |
-| 95 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 |
-| 96 | [Destroyer](https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [The Lamb](https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL) | 3:12 |
+| 94 | [Destroyer](https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [The Lamb](https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL) | 3:12 |
+| 95 | [Slowly](https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:05 |
+| 96 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 |
 | 97 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 |
 | 98 | [Jump Rope Gazers](https://open.spotify.com/track/1awytjc79cueIqbstbKvDf) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Jump Rope Gazers](https://open.spotify.com/album/4MJqiRxj9jMveL9TxyE3Ji) | 5:12 |
 | 99 | [Astral Projection](https://open.spotify.com/track/6gGZlkeGM73KD01zYVAJVO) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:52 |
 | 100 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 |
 | 101 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk) | 4:39 |
-| 102 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
-| 103 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
+| 102 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
+| 103 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
 | 104 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
 | 105 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 |
 | 106 | [Water Me Down](https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 4:32 |
 | 107 | [Mommy](https://open.spotify.com/track/4E1PeFEoLqqbaeExw4FMed) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mommy](https://open.spotify.com/album/1MGBuGmrhdzOJtB5AY0Pby) | 3:07 |
 | 108 | [Free to Live in Colour](https://open.spotify.com/track/0SC5Qw42owQ0b4TGblRCex) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/2XCINSxKMX5TsEarfGQpme) | 3:14 |
-| 109 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 |
-| 110 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 |
+| 109 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 |
+| 110 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 |
 | 111 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
 | 112 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 |
 | 113 | [Rabbit Hole](https://open.spotify.com/track/0BFGclich9JXVCAS79P793) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Rabbit Hole](https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx) | 2:59 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 124 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 |
 | 125 | [Sucker](https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ) | 4:43 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGI0MTE3ZGI0MTBiNzhkMWU0OTNkMGQwNTNlNWFmZDNk`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDM1ODlhMTdlZjZhYTlhNzQyNjk3ZWM2YTQwODViNGFh`

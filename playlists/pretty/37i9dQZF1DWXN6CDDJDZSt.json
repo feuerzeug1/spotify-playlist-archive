@@ -1,12 +1,12 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
-  "num_followers": 58078,
+  "num_followers": 58122,
   "original_name": "This Is Puccini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA4ODA5NywwMDAwMDAwMDgwZjg3NDMzODc5YWY3MThmNmRmZWVhOWNkYTkwMDEy",
+  "snapshot_id": "MTY1NjA4ODA5NywwMDAwMDAwMDgwOTQ0ZTQ0NmMxZDgzM2IwYjkwM2I3NDI4MTQwMDg1",
   "tracks": [
     {
       "added_at": "2022-06-24 16:28:17",
@@ -495,70 +495,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini: Manon Lescaut",
-        "url": "https://open.spotify.com/album/1oCwyfHHbKKVemQ7cWK0p7"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Lucienne van Deyck",
-          "url": "https://open.spotify.com/artist/39ox68x7FbcfpfPjpjg9bc"
-        },
-        {
-          "name": "Miriam Gauci",
-          "url": "https://open.spotify.com/artist/52LR5vp2JpFTthGC4D4oOE"
-        },
-        {
-          "name": "Donald George",
-          "url": "https://open.spotify.com/artist/2QwnSHOr09HPQN9VbzTWTe"
-        },
-        {
-          "name": "Ludwig van Gijzegem",
-          "url": "https://open.spotify.com/artist/2KopJ5oqxTwzuJdGbme1hE"
-        },
-        {
-          "name": "Kaludi Kaludov",
-          "url": "https://open.spotify.com/artist/1Ya4OtvqBuntUzFOSEyYUD"
-        },
-        {
-          "name": "Henk Lauwers",
-          "url": "https://open.spotify.com/artist/3qfSWvsKiFFqdAc6KG0roO"
-        },
-        {
-          "name": "Marcel Rosca",
-          "url": "https://open.spotify.com/artist/3QgjRKH5xzfzwmfZGjKIOM"
-        },
-        {
-          "name": "Vicente Sardinero",
-          "url": "https://open.spotify.com/artist/2InKtitbk6jq1Pg3kkdyXY"
-        },
-        {
-          "name": "BRT Philharmonic Chorus",
-          "url": "https://open.spotify.com/artist/127WHFzR3CgJrDIwtGNLwo"
-        },
-        {
-          "name": "Jaak Gregoor Choir",
-          "url": "https://open.spotify.com/artist/6SUhK6ixazmRYIsOcCs5mI"
-        },
-        {
-          "name": "Belgian Radio and Television Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
-        },
-        {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
-        }
-      ],
-      "duration_ms": 138826,
-      "name": "Manon Lescaut: Act II: In quelle trine morbide",
-      "url": "https://open.spotify.com/track/7EAJFgCzn151tyy6gT90yy"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini: Turandot",
         "url": "https://open.spotify.com/album/727EIB96mioWGAGyTYnO5p"
       },
@@ -623,6 +559,70 @@
       "duration_ms": 116306,
       "name": "Turandot: Act I: Non piangere, Li\u00f9!",
       "url": "https://open.spotify.com/track/4LHZgCwBorIgqFGIEBcBYo"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Puccini: Manon Lescaut",
+        "url": "https://open.spotify.com/album/1oCwyfHHbKKVemQ7cWK0p7"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Lucienne van Deyck",
+          "url": "https://open.spotify.com/artist/39ox68x7FbcfpfPjpjg9bc"
+        },
+        {
+          "name": "Miriam Gauci",
+          "url": "https://open.spotify.com/artist/52LR5vp2JpFTthGC4D4oOE"
+        },
+        {
+          "name": "Donald George",
+          "url": "https://open.spotify.com/artist/2QwnSHOr09HPQN9VbzTWTe"
+        },
+        {
+          "name": "Ludwig van Gijzegem",
+          "url": "https://open.spotify.com/artist/2KopJ5oqxTwzuJdGbme1hE"
+        },
+        {
+          "name": "Kaludi Kaludov",
+          "url": "https://open.spotify.com/artist/1Ya4OtvqBuntUzFOSEyYUD"
+        },
+        {
+          "name": "Henk Lauwers",
+          "url": "https://open.spotify.com/artist/3qfSWvsKiFFqdAc6KG0roO"
+        },
+        {
+          "name": "Marcel Rosca",
+          "url": "https://open.spotify.com/artist/3QgjRKH5xzfzwmfZGjKIOM"
+        },
+        {
+          "name": "Vicente Sardinero",
+          "url": "https://open.spotify.com/artist/2InKtitbk6jq1Pg3kkdyXY"
+        },
+        {
+          "name": "BRT Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/127WHFzR3CgJrDIwtGNLwo"
+        },
+        {
+          "name": "Jaak Gregoor Choir",
+          "url": "https://open.spotify.com/artist/6SUhK6ixazmRYIsOcCs5mI"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "duration_ms": 138826,
+      "name": "Manon Lescaut: Act II: In quelle trine morbide",
+      "url": "https://open.spotify.com/track/7EAJFgCzn151tyy6gT90yy"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1351,6 +1351,38 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Puccini Discoveries",
+        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Coro Sinfonico di Milano Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/3Ls9FqEYODRC5mIOVXgZG2"
+        },
+        {
+          "name": "Gabriele Mugnai",
+          "url": "https://open.spotify.com/artist/2O0nEPPEns6H5Y30xrcIHr"
+        },
+        {
+          "name": "Roberto de Thierry",
+          "url": "https://open.spotify.com/artist/6xyZZCrrdHFtB2M90B8SW4"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 329840,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6MO860szdftqyhW84iE5Z6"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini: Turandot",
         "url": "https://open.spotify.com/album/727EIB96mioWGAGyTYnO5p"
       },
@@ -1419,38 +1451,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini Discoveries",
-        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Coro Sinfonico di Milano Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/3Ls9FqEYODRC5mIOVXgZG2"
-        },
-        {
-          "name": "Gabriele Mugnai",
-          "url": "https://open.spotify.com/artist/2O0nEPPEns6H5Y30xrcIHr"
-        },
-        {
-          "name": "Roberto de Thierry",
-          "url": "https://open.spotify.com/artist/6xyZZCrrdHFtB2M90B8SW4"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 329840,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6MO860szdftqyhW84iE5Z6"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Arias",
         "url": "https://open.spotify.com/album/54lNbesx2bw7HraNASuHBK"
       },
@@ -1475,6 +1475,30 @@
       "duration_ms": 266866,
       "name": "Suor Angelica: \"Senza mamma, o bimbo, tu sei morto\"",
       "url": "https://open.spotify.com/track/3315PY0lHeHKMSgB03pNO8"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Puccini Discoveries",
+        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 153360,
+      "name": "Corazzata Sicilia (On themes from \"La Boh\u00e8me\")",
+      "url": "https://open.spotify.com/track/7ovUESuSR4WeS1s0jfD3Ag"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1507,8 +1531,8 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini Discoveries",
-        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
+        "name": "Puccini: Orchestral Music",
+        "url": "https://open.spotify.com/album/2Mj1PrPGRLAV0LtmmF2wb7"
       },
       "artists": [
         {
@@ -1516,17 +1540,17 @@
           "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
         },
         {
-          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
         },
         {
           "name": "Riccardo Chailly",
           "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
         }
       ],
-      "duration_ms": 153360,
-      "name": "Corazzata Sicilia (On themes from \"La Boh\u00e8me\")",
-      "url": "https://open.spotify.com/track/7ovUESuSR4WeS1s0jfD3Ag"
+      "duration_ms": 745440,
+      "name": "Capriccio Sinfonico",
+      "url": "https://open.spotify.com/track/2hGvecdwtax1Ax8DTYANki"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1551,30 +1575,6 @@
       "duration_ms": 296826,
       "name": "Scherzo",
       "url": "https://open.spotify.com/track/0PnTiVLxeAAohl4c9WvfCz"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini: Orchestral Music",
-        "url": "https://open.spotify.com/album/2Mj1PrPGRLAV0LtmmF2wb7"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Deutsches Symphonie-Orchester Berlin",
-          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 745440,
-      "name": "Capriccio Sinfonico",
-      "url": "https://open.spotify.com/track/2hGvecdwtax1Ax8DTYANki"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1871,30 +1871,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini Discoveries",
-        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 105893,
-      "name": "Scossa Elettrica (Marcia Brillante)",
-      "url": "https://open.spotify.com/track/1O51hdkmFW9FQlCPOW5iYP"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini: Madama Butterfly - Highlights",
         "url": "https://open.spotify.com/album/48SeSKohhx57jPcNiWrsTc"
       },
@@ -1935,6 +1911,30 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Puccini Discoveries",
+        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 105893,
+      "name": "Scossa Elettrica (Marcia Brillante)",
+      "url": "https://open.spotify.com/track/1O51hdkmFW9FQlCPOW5iYP"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini : Messa di Gloria, Preludio sinfonico & Capriccio sinfonico (Apex)",
         "url": "https://open.spotify.com/album/7MR41NxI9mwEtNZig6rrW8"
       },
@@ -1955,6 +1955,50 @@
       "duration_ms": 309480,
       "name": "Puccini : Messa di Gloria : I Kyrie",
       "url": "https://open.spotify.com/track/2mX0cFyCNHDiRbtGn1K0kZ"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Puccini: Madama Butterfly",
+        "url": "https://open.spotify.com/album/2sLx3mkCwYywR1mMsZEW9g"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Coro dell'Accademia Nazionale Di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/0s7O03leh3CDPvzFu2qIaR"
+        },
+        {
+          "name": "Fabio Maria Capitanucci",
+          "url": "https://open.spotify.com/artist/2UJtjEpwcWob5RW4OM01NX"
+        },
+        {
+          "name": "Gregory Bonfatti",
+          "url": "https://open.spotify.com/artist/4C2Oz8KvPSkTS7LzeIkyTx"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 222986,
+      "name": "Puccini: Madama Butterfly, Act 1: \"Gran ventura\" (Butterfly, Pinkerton, Sharpless, Goro, Chorus)",
+      "url": "https://open.spotify.com/track/6K9qO26sczUVBqBxQUGmMl"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2019,50 +2063,6 @@
       "duration_ms": 356000,
       "name": "Manon Lescaut: Act II: Intermezzo",
       "url": "https://open.spotify.com/track/3pv4RscDG3IdEe9iaOegiT"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini: Madama Butterfly",
-        "url": "https://open.spotify.com/album/2sLx3mkCwYywR1mMsZEW9g"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Angela Gheorghiu",
-          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
-        },
-        {
-          "name": "Coro dell'Accademia Nazionale Di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/0s7O03leh3CDPvzFu2qIaR"
-        },
-        {
-          "name": "Fabio Maria Capitanucci",
-          "url": "https://open.spotify.com/artist/2UJtjEpwcWob5RW4OM01NX"
-        },
-        {
-          "name": "Gregory Bonfatti",
-          "url": "https://open.spotify.com/artist/4C2Oz8KvPSkTS7LzeIkyTx"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        }
-      ],
-      "duration_ms": 222986,
-      "name": "Puccini: Madama Butterfly, Act 1: \"Gran ventura\" (Butterfly, Pinkerton, Sharpless, Goro, Chorus)",
-      "url": "https://open.spotify.com/track/6K9qO26sczUVBqBxQUGmMl"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2471,6 +2471,58 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Puccini: The Great Operas",
+        "url": "https://open.spotify.com/album/2fMGewLRioOoYUCgZocVHS"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Gianna D'Angelo",
+          "url": "https://open.spotify.com/artist/1XLi3usPxxOgkEAxivBKZ1"
+        },
+        {
+          "name": "Ettore Bastianini",
+          "url": "https://open.spotify.com/artist/05Ul7kISvOfWTBHTJpBQdX"
+        },
+        {
+          "name": "Fernando Corena",
+          "url": "https://open.spotify.com/artist/4szVIYS0W4GAtsNY2mUQOp"
+        },
+        {
+          "name": "Renata Tebaldi",
+          "url": "https://open.spotify.com/artist/2RWHmppBK4tjdqxtuesmZI"
+        },
+        {
+          "name": "Carlo Bergonzi",
+          "url": "https://open.spotify.com/artist/3ALYsjti5tptGpfAgEYweV"
+        },
+        {
+          "name": "Renato Cesari",
+          "url": "https://open.spotify.com/artist/1R8uv9JWXZTMlUX8camGze"
+        },
+        {
+          "name": "Cesare Siepi",
+          "url": "https://open.spotify.com/artist/4XoFqKtEQHiuxL8CmVXLOO"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 306293,
+      "name": "La Boh\u00e8me / Act 2: \"Quando m'en vo'\" (Musetta's Waltz)",
+      "url": "https://open.spotify.com/track/4HYFxTh9Zebhe1HuJt8Yl5"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini: Turandot",
         "url": "https://open.spotify.com/album/727EIB96mioWGAGyTYnO5p"
       },
@@ -2535,58 +2587,6 @@
       "duration_ms": 326226,
       "name": "Turandot: Act II Scene 2: In questa reggia",
       "url": "https://open.spotify.com/track/6m2VBRsd40CWV2Y08PtIiG"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini: The Great Operas",
-        "url": "https://open.spotify.com/album/2fMGewLRioOoYUCgZocVHS"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Gianna D'Angelo",
-          "url": "https://open.spotify.com/artist/1XLi3usPxxOgkEAxivBKZ1"
-        },
-        {
-          "name": "Ettore Bastianini",
-          "url": "https://open.spotify.com/artist/05Ul7kISvOfWTBHTJpBQdX"
-        },
-        {
-          "name": "Fernando Corena",
-          "url": "https://open.spotify.com/artist/4szVIYS0W4GAtsNY2mUQOp"
-        },
-        {
-          "name": "Renata Tebaldi",
-          "url": "https://open.spotify.com/artist/2RWHmppBK4tjdqxtuesmZI"
-        },
-        {
-          "name": "Carlo Bergonzi",
-          "url": "https://open.spotify.com/artist/3ALYsjti5tptGpfAgEYweV"
-        },
-        {
-          "name": "Renato Cesari",
-          "url": "https://open.spotify.com/artist/1R8uv9JWXZTMlUX8camGze"
-        },
-        {
-          "name": "Cesare Siepi",
-          "url": "https://open.spotify.com/artist/4XoFqKtEQHiuxL8CmVXLOO"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 306293,
-      "name": "La Boh\u00e8me / Act 2: \"Quando m'en vo'\" (Musetta's Waltz)",
-      "url": "https://open.spotify.com/track/4HYFxTh9Zebhe1HuJt8Yl5"
     },
     {
       "added_at": "2022-06-24 16:28:17",

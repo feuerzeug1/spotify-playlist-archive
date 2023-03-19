@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment sont ici\. Cover : Dizzy DROS
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,564 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,976 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 11 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 |
 | 12 | [Nsiti](https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG) | 2:52 |
 | 13 | [Sur Pp \(feat\. Soolking\)](https://open.spotify.com/track/6ZKbxxzlGfC2d0s7p8hqjc) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [La vie de Many](https://open.spotify.com/album/28cZatUBH4ypo1q3ieocuc) | 3:12 |
-| 14 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 |
-| 15 | [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 |
-| 16 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 |
-| 17 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(feat\. Cian Ducrot\) \[Remix\]](https://open.spotify.com/album/2iBbNFC5oZdKfqQyiSEfXx) | 3:04 |
-| 18 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 |
-| 19 | [بالهدى](https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [بالهدى](https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc) | 3:57 |
-| 20 | [L'Étranger](https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [L'Étranger](https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO) | 3:29 |
-| 21 | [Gueule tapée](https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gueule tapée](https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM) | 3:26 |
-| 22 | [La street](https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 3:20 |
+| 14 | [La street](https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 3:20 |
+| 15 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 |
+| 16 | [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 |
+| 17 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 |
+| 18 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
+| 19 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 |
+| 20 | [بالهدى](https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [بالهدى](https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc) | 3:57 |
+| 21 | [L'Étranger](https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [L'Étranger](https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO) | 3:29 |
+| 22 | [Gueule tapée](https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gueule tapée](https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM) | 3:26 |
 | 23 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 |
 | 24 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
 | 25 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 |
 | 50 | [D O D O](https://open.spotify.com/track/2dJMDzMF5jMvVFKLTci81H) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:59 |
 
-Snapshot ID: `MTY3ODk2MDA2OSwwMDAwMDAwMDNjOTE0ZDI3ZTgzNmZlZGI3Mjg3MDMxOWZjMGYxZGNm`
+Snapshot ID: `MTY3OTE3NDAyMCwwMDAwMDAwMDEzYjM0MDRhNTRhMDIzZDcyYzQwYzY3NzU1N2M3YzQy`

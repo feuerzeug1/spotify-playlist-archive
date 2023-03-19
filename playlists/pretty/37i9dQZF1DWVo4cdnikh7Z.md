@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Maaveeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,747 likes - 67 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,013 likes - 67 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 7 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 |
 | 8 | [Adi Kattazhagu Karuvaachi \- From "Kalvan"](https://open.spotify.com/track/0E00EuJ1GOMPiRQ7CJiuet) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Maya Mahalingam](https://open.spotify.com/artist/3ZRvRF3pX8jt0mCMA9YLMg), [Ekadesi](https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c) | [Adi Kattazhagu Karuvaachi \(From "Kalvan"\)](https://open.spotify.com/album/4s2oSXBhlQxlg7XZBiYYT3) | 3:28 |
 | 9 | [Pagai Mudi \- From "Rudhran"](https://open.spotify.com/track/4ht6pNzlZJVS0enqLdHFXY) | [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [Karunakaran](https://open.spotify.com/artist/0fZ0aHWLYuLulTza4MsBTB), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Pagai Mudi \(From "Rudhran"\)](https://open.spotify.com/album/5AFctwjNatGv5zdjfRcLCT) | 4:30 |
-| 10 | [Bikili](https://open.spotify.com/track/4p1IRIy1G20NuFi8HBc3Lb) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV) | [Bikili \(From "Pichaikkaran 2"\)](https://open.spotify.com/album/6ZjmelujZY2C5bHzs7DQhD) | 3:58 |
+| 10 | [Bikili \(From "Pichaikkaran 2"\)](https://open.spotify.com/track/0z2uE6TNb6FOP1HBcFCh4a) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV) | [Bikili \(From "Pichaikkaran 2"\) \- Single](https://open.spotify.com/album/2Yn7g8dQzhnzRkExCzORHv) | 3:58 |
 | 11 | [Bramman \- From "Ghosty"](https://open.spotify.com/track/3XWSZSlxS1ImAJY9Ji117q) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Ghosty \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5BqzmInqcQCUoXsklZvune) | 4:13 |
 | 12 | [Mainaru Vetti Katti \(From "Dasara"\)](https://open.spotify.com/track/2bNnF0kKGMHFSaxXiitbFr) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Muthamil](https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2) | [Mainaru Vetti Katti \(From "Dasara"\) \- Single](https://open.spotify.com/album/0rGcHqbQ7KLQNuEpSfcmf2) | 3:23 |
 | 13 | [Naadodi Mannan](https://open.spotify.com/track/2Vf4t6mDApwQuWk9MAcZYM) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Vaathi](https://open.spotify.com/album/788JAnrm2ALh2sMjTT7BuZ) | 3:23 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 66 | [Mamakutty](https://open.spotify.com/track/7FsAdgPI7Q9hATDOoyErm6) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Pradeep Ranganathan](https://open.spotify.com/artist/5Kx2ruxFSUGdqCG7kJtet1), [Savitha Reddy](https://open.spotify.com/artist/0r9tuwwUaIN8e9xh19ZoWr), [A.U\. Navin Krubhakar](https://open.spotify.com/artist/666PYWUnhPbOc65Wzn745I) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 2:25 |
 | 67 | [Ennai Vittu \(From "Love Today"\)](https://open.spotify.com/track/3LP4QpKptfe2yEC7oG5iNa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ennai Vittu \(From "Love Today"\)](https://open.spotify.com/album/7u2XibFdWx7ru0qUKHgkOe) | 4:04 |
 
-Snapshot ID: `MTY3OTA1NzQxMSwwMDAwMDAwMDFhOTg1ODJjNzYyN2RjM2JkMWEzOTk3MzNjMDc3NjA5`
+Snapshot ID: `MTY3OTA1NzQxMSwwMDAwMDAwMDkzNDczYzZjOGM3OTY4YTAxNjNkMDJhZjdiNGQ1Y2Ji`

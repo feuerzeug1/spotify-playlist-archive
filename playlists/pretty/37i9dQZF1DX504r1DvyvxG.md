@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,561,083 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,561,615 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 50 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
 | 51 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 3:58 |
 | 52 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 |
-| 53 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 |
-| 54 | [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 |
+| 53 | [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 |
+| 54 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 |
 | 55 | [Blue Bayou](https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Simple Dreams](https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry) | 3:59 |
 | 56 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 |
 | 57 | [Hard Sun](https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 5:22 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 62 | [Where You Lead](https://open.spotify.com/track/0APt4t1Dab58sYmGQ4jgij) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:20 |
 | 63 | [Gold Dust Woman \- 2004 Remaster](https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:55 |
 | 64 | [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 |
-| 65 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [In the Wind](https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli) | 3:16 |
-| 66 | [The First Cut Is the Deepest](https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [A Night on the Town](https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd) | 4:31 |
+| 65 | [The First Cut Is the Deepest](https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [A Night on the Town](https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd) | 4:31 |
+| 66 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [In the Wind](https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli) | 3:16 |
 | 67 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:01 |
 | 68 | [Famous Blue Raincoat](https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Love And Hate](https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B) | 5:10 |
 | 69 | [One Of These Things First](https://open.spotify.com/track/0hNVjU6JKydHts0SAjHCno) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 4:50 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 74 | [Clay Pigeons](https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Fair and Square](https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ) | 4:27 |
 | 75 | [Me & Magdalena](https://open.spotify.com/track/1XxRYmDKuABtbtCozx3pA2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Good Times! \(Deluxe Edition\)](https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF) | 3:33 |
 | 76 | [Here Comes The Sun](https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw) | [Richie Havens](https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p) | [Live At The Cellar Door and at the Santa Monica Civic Auditorium](https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2) | 4:14 |
-| 77 | [The Book of Love](https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:42 |
-| 78 | [1952 Vincent Black Lightning](https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rumor And Sigh](https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ) | 4:43 |
+| 77 | [1952 Vincent Black Lightning](https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rumor And Sigh](https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ) | 4:43 |
+| 78 | [The Book of Love](https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:42 |
 | 79 | [Strangers \- 2020 Stereo Remaster](https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 3:21 |
 | 80 | [Country Road \- 2019 Remaster](https://open.spotify.com/track/2OBaVeRFXblWxoZHC4sryf) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:22 |
 | 81 | [That's the Way That the World Goes 'Round](https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [Little Bit Of Rain](https://open.spotify.com/track/09g4TuWLxMmrOTt1kzS47Z) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [It's So Hard To Tell Who's Going To Love You The Best](https://open.spotify.com/album/1O330PE8lc1dDXduHBwLXe) | 2:36 |
 | 100 | [Our Town](https://open.spotify.com/track/44gq8zKiyisjDCKRfcuk3N) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/4LluPNK62d1cUvD1ZL46bf) | 5:00 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGE3MTdiYWNmZTY3OGZlNDVkZDJmNjEzYjk5ZjMzYjdm`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGJkMzEyYjI3MDhiZDI0ZTY5ZGY1ZmZlNGNmYmJmN2Ey`

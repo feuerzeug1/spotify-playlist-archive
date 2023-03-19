@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Oliver Hazard
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,650 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,806 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

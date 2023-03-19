@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,907 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,263 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 18 | [Ghost \- Acoustic](https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX) | 4:29 |
 | 19 | [Tears Don't Fall \- Acoustic Version](https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 4:37 |
 | 20 | [I Wanna Get Lost With You \(Acoustic 2015\)](https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:17 |
-| 21 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 |
-| 22 | [Kryptonite](https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic Back Porch Jam](https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC) | 3:55 |
+| 21 | [Kryptonite](https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic Back Porch Jam](https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC) | 3:55 |
+| 22 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 |
 | 23 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:20 |
 | 24 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
 | 25 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Space \- Acoustic Version](https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Space \(Orchestral Version\)](https://open.spotify.com/album/620D8EVhCCJFc0Qif0uHnd) | 4:05 |
 | 50 | [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 |
 
-Snapshot ID: `MTY3MzQ1NjQwMCwwMDAwMDAwMDhkNTE2ZWJhODI1ZjQ5ZDJjM2MxY2NiM2JkY2I4NDhl`
+Snapshot ID: `MTY3MzQ1NjQwMCwwMDAwMDAwMDQyMTRjYTA2YzMwYWJkYzBlNGI3YTJjYThmZWRjNDQz`

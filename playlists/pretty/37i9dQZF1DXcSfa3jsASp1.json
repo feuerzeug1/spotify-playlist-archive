@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2010s.",
-  "num_followers": 33139,
+  "num_followers": 33175,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3NjA0NywwMDAwMDAwMGY1ZjNmZjFlZTUyMTNlYTYwMWRjODk3M2JiNTVlYWM2",
+  "snapshot_id": "MTY3Mzg3NjA0NywwMDAwMDAwMDZiYTgxMzkwZmJhZDJlMWUxNjViZGVjYzZhNjNkODVh",
   "tracks": [
     {
       "added_at": "2020-05-15 11:36:11",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 186826,
       "name": "My Songs Know What You Did In The Dark (Light Em Up)",
       "url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -471,22 +471,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 193546,
       "name": "Unsteady",
       "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Feel Invincible",
+      "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -519,18 +519,18 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
       "artists": [
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 229933,
-      "name": "Feel Invincible",
-      "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -583,38 +583,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Guitar Gangsters & Cadillac Blood",
         "url": "https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt"
       },
@@ -631,18 +599,18 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Tear in My Heart",
-      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
+      "duration_ms": 225973,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
     },
     {
       "added_at": "2021-04-09 06:31:21",
@@ -663,6 +631,38 @@
       "duration_ms": 239215,
       "name": "Princess of China",
       "url": "https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Tear in My Heart",
+      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -747,6 +747,22 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 240796,
+      "name": "Every Teardrop Is a Waterfall",
+      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 213093,
       "name": "Don't Threaten Me with a Good Time",
       "url": "https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240796,
-      "name": "Every Teardrop Is a Waterfall",
-      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 177048,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 177048,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
     },
     {
       "added_at": "2020-05-15 11:36:11",

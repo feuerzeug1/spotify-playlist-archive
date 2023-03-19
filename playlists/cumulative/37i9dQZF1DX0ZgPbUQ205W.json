@@ -4205,6 +4205,32 @@
     },
     {
       "album": {
+        "name": "Wille",
+        "url": "https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK"
+      },
+      "artists": [
+        {
+          "name": "Vincent Meissner",
+          "url": "https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL"
+        },
+        {
+          "name": "Josef Zeimetz",
+          "url": "https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca"
+        },
+        {
+          "name": "Henri Reichmann",
+          "url": "https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294800,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/77rbW6F9WjICIjf518rzhA"
+    },
+    {
+      "album": {
         "name": "Sora",
         "url": "https://open.spotify.com/album/33lnTreKJcXGwUwsKAhmxY"
       },
@@ -5468,7 +5494,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 229274,
       "name": "Where Do We Go From Here",
       "url": "https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV"

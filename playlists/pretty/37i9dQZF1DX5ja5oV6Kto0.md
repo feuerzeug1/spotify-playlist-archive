@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS?si=mWugfQs4RISsLpEMEkQwlw"> Amaarae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,916 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,949 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 47 | [Rolling Loud](https://open.spotify.com/track/6ySKC2g5tI9PE26OrUs3XN) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Rolling Loud](https://open.spotify.com/album/4CLuWbSzme2RhzTCZuPL8t) | 2:32 |
 | 48 | [On My Way](https://open.spotify.com/track/2mTU6HVWHYPIDefNUcj9fN) | [Tena Tenpo](https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN), [benmaelen](https://open.spotify.com/artist/7rQenKdDeM6d5o7GOBwWnq), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [On My Way](https://open.spotify.com/album/0u1jNMcDzXqgFU8aYpmCeh) | 3:26 |
 | 49 | [Kele](https://open.spotify.com/track/0BgmidEk74t9YNwGGt77Jl) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:25 |
-| 50 | [s\_t\_l](https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [s\_t\_l](https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK) | 3:26 |
+| 50 | [s\_t\_l](https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [s\_t\_l](https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK) | 3:26 |
 | 51 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 |
 | 52 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 | 53 | [LEAVE STORY](https://open.spotify.com/track/1dnWTQ4xBq7G3o73sxSLCd) | [Farky Farkunle](https://open.spotify.com/artist/75cgADDzuvcv2TBGqs9j2L), [Trill Xoe](https://open.spotify.com/artist/2sXZ11mv2mNOwcX9eInFXw) | [LEAVE STORY](https://open.spotify.com/album/6ymlOVf9UNYvqtD5wT4oie) | 2:09 |

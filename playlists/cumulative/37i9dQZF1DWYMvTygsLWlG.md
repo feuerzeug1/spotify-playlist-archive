@@ -4,7 +4,7 @@
 
 > Some of the worlds most beautiful love songs.
 
-416 songs - 1 day 4 hr 21 min
+417 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,8 @@
 | [To Be With You](https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR) | 3:28 | 2021-02-01 | 2022-07-29 |
 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 | 2022-05-30 |  |
 | [Tonight I Celebrate My Love](https://open.spotify.com/track/622nEHkm52E6ijVShcea9f) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Peabo Bryson Collection](https://open.spotify.com/album/2PZbzFwkxnZ3vfOeB1zoIZ) | 3:31 | 2021-02-01 | 2022-11-13 |
-| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-10-16\* |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2022-12-02 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-10-16\* | 2023-03-19 |
 | [Torn](https://open.spotify.com/track/0KDaN0HL3TcJVTbXlQCEsS) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/6HOvWskl058duikMCVOLcW) | 4:04 | 2021-10-16\* | 2021-11-19 |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best Of Bonnie Tyler](https://open.spotify.com/album/1CuFf5IslmlCno7DAFjrt9) | 4:29 | 2021-10-16\* | 2021-11-19 |
 | [True \- Single Edit](https://open.spotify.com/track/6eDYgjKl4vUgRusxb7THDu) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 5:29 | 2021-02-01 | 2022-11-14 |

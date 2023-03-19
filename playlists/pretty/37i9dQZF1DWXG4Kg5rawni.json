@@ -1,12 +1,12 @@
 {
   "description": "Adoradores cantando sobre o amor. Foto: Paulo Cesar Baruk",
-  "num_followers": 81121,
+  "num_followers": 81173,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA4MSwwMDAwMDAwMDZlM2U1M2M2YmE4NDNmZDllMDUwNzQ4NGU5ZTgxNzI3",
+  "snapshot_id": "MTY3ODQ5ODA4MSwwMDAwMDAwMGQ4ODczN2QzZmZjNTdhZGYyNmM4ZTgyZDBhOWNiNTNm",
   "tracks": [
     {
       "added_at": "2023-03-11 01:28:01",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "25 de fevereiro",
+        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        }
+      ],
+      "duration_ms": 185448,
+      "name": "eu te convido",
+      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "A B\u00ean\u00e7\u00e3o do Senhor",
         "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 236224,
       "name": "Doce Amor",
       "url": "https://open.spotify.com/track/4vC4IQZOBRPcdaxunvEvA1"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "25 de fevereiro",
-        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        }
-      ],
-      "duration_ms": 185448,
-      "name": "eu te convido",
-      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "N\u00e3o H\u00e1 Limites",
-        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 254676,
-      "name": "N\u00e3o H\u00e1 Limites",
-      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "O Jeito Que Voc\u00ea Me Olha",
         "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 198067,
       "name": "O Jeito Que Voc\u00ea Me Olha",
       "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Limites",
+        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 254676,
+      "name": "N\u00e3o H\u00e1 Limites",
+      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
-        "url": "https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 267772,
-      "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Apenas uma Can\u00e7\u00e3o de Amor",
         "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Can\u00e7\u00e3o do Amor",
-        "url": "https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD"
+        "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
+        "url": "https://open.spotify.com/album/7rFskntBzgFrrDxG76VHCT"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 208444,
-      "name": "Can\u00e7\u00e3o do Amor",
-      "url": "https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs"
+      "duration_ms": 267772,
+      "name": "Como Eu N\u00e3o Poderia Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/4iN9STysQ3gjrpsKkv8EoW"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -783,6 +767,22 @@
       "duration_ms": 172288,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Can\u00e7\u00e3o do Amor",
+        "url": "https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 208444,
+      "name": "Can\u00e7\u00e3o do Amor",
+      "url": "https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Um Novo Tempo",
-        "url": "https://open.spotify.com/album/3gnWedgsMqJPS0EEUpJQyE"
+        "name": "Como da Primeira Vez",
+        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
       },
       "artists": [
         {
-          "name": "Cristina Mel",
-          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Amor Sem Limites",
-      "url": "https://open.spotify.com/track/3UlT5ua4JXyS64vf1Y5ksz"
+      "duration_ms": 226626,
+      "name": "Como da Primeira Vez",
+      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "Um Novo Tempo",
+        "url": "https://open.spotify.com/album/3gnWedgsMqJPS0EEUpJQyE"
+      },
+      "artists": [
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Amor Sem Limites",
+      "url": "https://open.spotify.com/track/3UlT5ua4JXyS64vf1Y5ksz"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "Eyshila Falando de Amor",
         "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 258345,
       "name": "Meu Sonho",
       "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "Como da Primeira Vez",
-        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Como da Primeira Vez",
-      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2023-03-11 01:28:01",

@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 424073,
+  "num_followers": 424447,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODExMzg5MywwMDAwMDAwMDUxNWIwMjdhYTkzNWQ5N2JkZGQxOGUzYjNlZDE0ODg0",
+  "snapshot_id": "MTY3ODExMzg5MywwMDAwMDAwMGQ2YjE5NzM3NzIzNmZjNmUxY2NjZDZlM2IwZDU1YjYy",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
-      "added_at": "2023-03-18 00:45:58",
+      "added_at": "2023-03-19 01:02:36",
       "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
-      "added_at": "2023-03-18 00:45:58",
+      "added_at": "2023-03-19 01:02:36",
       "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
@@ -619,6 +619,46 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Headlights (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Headlights (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -643,46 +683,6 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Million Dollar Baby",
-        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Million Dollar Baby",
-      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Headlights (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Headlights (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK"
     },
     {
-      "added_at": "2023-03-18 00:45:58",
+      "added_at": "2023-03-19 01:02:36",
       "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 139422,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Rain In Ibiza",
         "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 141931,
       "name": "Rain In Ibiza",
       "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 139422,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Left & Right",
         "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 154838,
       "name": "Left & Right",
       "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1317,31 +1317,7 @@
       "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "You Can\u2019t Change Me (feat. Raye)",
-        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "You Can\u2019t Change Me (feat. Raye)",
-      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
-    },
-    {
-      "added_at": "2023-03-18 00:45:58",
+      "added_at": "2023-03-19 01:02:36",
       "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
@@ -1367,6 +1343,30 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "You Can\u2019t Change Me (feat. Raye)",
+        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "You Can\u2019t Change Me (feat. Raye)",
+      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1409,7 +1409,7 @@
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
     },
     {
-      "added_at": "2023-03-18 00:45:58",
+      "added_at": "2023-03-19 01:02:36",
       "album": {
         "name": "A Milli (SIDEPIECE Remix)",
         "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
@@ -1469,7 +1469,7 @@
       "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
     },
     {
-      "added_at": "2023-03-18 00:45:58",
+      "added_at": "2023-03-19 01:02:36",
       "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
@@ -1525,6 +1525,22 @@
       "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
     },
     {
+      "added_at": "2023-03-19 01:02:36",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 179528,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Give It to Me",
@@ -1539,22 +1555,6 @@
       "duration_ms": 186239,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "God On The Weekend",
-        "url": "https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        }
-      ],
-      "duration_ms": 180231,
-      "name": "God On The Weekend",
-      "url": "https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh"
     }
   ],
   "unique_name": "Beast Mode Dance",

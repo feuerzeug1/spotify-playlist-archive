@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > consider this an RSVP to littest wedding parties
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546 likes - 56 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,555 likes - 56 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

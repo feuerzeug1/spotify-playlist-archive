@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 5125,
+  "num_followers": 5135,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGYwNzYzZmI5NjBlNTU0NmQ4YmRiZjVkMmI2MWNmNDIw",
+  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMDE3NDc5ZTk5NDA4NGQ5MDY2NGRhYTRlMDk2MTU4Njlm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "LLC",
+        "url": "https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 137813,
+      "name": "LLC",
+      "url": "https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Outside (Better Days)",
         "url": "https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 215495,
       "name": "Outside (Better Days)",
       "url": "https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "LLC",
-        "url": "https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        }
-      ],
-      "duration_ms": 137813,
-      "name": "LLC",
-      "url": "https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H"
     },
     {
       "added_at": "2022-10-01 16:17:17",

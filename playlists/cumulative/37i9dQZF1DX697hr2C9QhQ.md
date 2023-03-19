@@ -4,7 +4,7 @@
 
 > Rock Legends from Ireland\. Cover: Phil Lynott
 
-52 songs - 3 hr 35 min
+54 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,10 +36,11 @@
 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 | 2022-03-17 |  |
 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 | 2022-03-17 |  |
 | [Mandinka](https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 3:47 | 2022-03-17 |  |
+| [Mary](https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub) | [The 4 Of Us](https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY), [Michael H\. Brauer](https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6) | [Songs For The Tempted](https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo) | 3:33 | 2022-03-17 |  |
 | [Miracle Drug](https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:54 | 2022-03-17 |  |
 | [N17](https://open.spotify.com/track/6AiLTwftiFAjGsnVDXBPnB) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [If This Is Rock and Roll, I Want My Old Job Back](https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR) | 4:36 | 2022-03-17 |  |
 | [Old Town](https://open.spotify.com/track/6TJZBDP3ZVAAoNpS8OzRyr) | [Phil Lynott](https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7) | [Philip Lynott Album](https://open.spotify.com/album/0lQcK9sk4xJET9NVNPfgFX) | 3:27 | 2022-03-17 |  |
-| [Parachute](https://open.spotify.com/track/12h3ZVYHOEMLBA3NDo5zGd) | [Something Happens](https://open.spotify.com/artist/6V7D7M2wECmGR8eBp9r4Kx) | [Stuck Together With God's Glue](https://open.spotify.com/album/0VC8DNqENeIyGehHX5nsuV) | 4:30 | 2022-03-17 |  |
+| [Parachute](https://open.spotify.com/track/12h3ZVYHOEMLBA3NDo5zGd) | [Something Happens](https://open.spotify.com/artist/6V7D7M2wECmGR8eBp9r4Kx) | [Stuck Together With God's Glue](https://open.spotify.com/album/0VC8DNqENeIyGehHX5nsuV) | 4:30 | 2022-03-17 | 2023-03-19 |
 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/24rv66H94QGVqIXHjA3kn6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 3:48 | 2022-03-17 |  |
 | [Rat Trap](https://open.spotify.com/track/4R8P78kaHXgaEKabSaioLv) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Classic Album Selection: Six Albums 1977\-1984](https://open.spotify.com/album/1M0U3K2D8pQp4dHQLZOaoV) | 5:10 | 2022-03-17 |  |
 | [Revelate](https://open.spotify.com/track/18OnYhBaL7FTC1mYonXPKv) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM) | [Fitzcarraldo](https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu) | 3:46 | 2022-03-17 | 2023-03-07 |
@@ -53,8 +54,9 @@
 | [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 | 2022-03-17 |  |
 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 | 2022-03-17 |  |
 | [The Great Defector](https://open.spotify.com/track/5r1y7XYDcTtDLJHzFgODOu) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Blue Lights on the Runway](https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS) | 4:40 | 2022-03-17 |  |
-| [The Rocker](https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 5:15 | 2022-03-17 |  |
+| [The Rocker](https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 5:15 | 2022-03-17 | 2023-03-19 |
 | [The Whole of the Moon \- 2004 Remaster](https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [This Is the Sea \(Deluxe Version\)](https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh) | 5:02 | 2022-03-17 |  |
+| [The World Is What You Make It](https://open.spotify.com/track/6kQRdMRHqzZUhNi1LRze9t) | [Paul Brady](https://open.spotify.com/artist/7lauB9o5ZYmU5lTBOw7w8L) | [Nobody Knows: The Best of Paul Brady](https://open.spotify.com/album/0zGYwHKbxTM9GVmSm5tRkB) | 4:11 | 2022-03-17 |  |
 | [This Is](https://open.spotify.com/track/01LRmW8mraxDsUdQAihs4P) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Shame About Lucy Moonhead](https://open.spotify.com/album/0Y3Fv3Cumn9g1GNFwUEMOY) | 3:51 | 2022-03-17 |  |
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 | 2022-03-17 |  |
 | [Whiskey In The Jar](https://open.spotify.com/track/2uLx3Gka9TGCz9Zgu7Uwav) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ), [Derek Varnals](https://open.spotify.com/artist/11lUPJP9GC5j2RRA7zVddw) | [Shades Of A Blue Orphanage](https://open.spotify.com/album/6jXNB46aXlL2oWY03GtFHy) | 5:45 | 2022-03-17 |  |

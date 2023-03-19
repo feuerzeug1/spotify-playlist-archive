@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,722 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,821 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 70 | [This Town Still Talks About You](https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 4:28 |
 | 71 | [Heartland](https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:31 |
 | 72 | [Pretty Hands](https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:20 |
-| 73 | [Better Than That](https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Better Than That](https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi) | 3:13 |
-| 74 | [Nothing New](https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Nothing New](https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee) | 3:38 |
+| 73 | [Nothing New](https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Nothing New](https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee) | 3:38 |
+| 74 | [Better Than That](https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Better Than That](https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi) | 3:13 |
 | 75 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDg4M2RlMmVlYjJiNjYxYjc0OTk4MjA0ODk5MjliZDli`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDBmMWJjZDM4ZjA0YzY2NWRiMjU1Mzk1OGZjYWMxZjI0`

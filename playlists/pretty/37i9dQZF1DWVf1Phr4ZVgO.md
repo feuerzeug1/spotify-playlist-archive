@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,885 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,127 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 10 | [Fever](https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 3:19 |
 | 11 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 |
 | 12 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
-| 13 | [September In The Rain](https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:09 |
-| 14 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 |
+| 13 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 |
+| 14 | [September In The Rain](https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:09 |
 | 15 | [A Kiss To Build A Dream On \- Single Version](https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:01 |
 | 16 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
 | 17 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 31 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
 | 32 | [In the Mood](https://open.spotify.com/track/6dZKWYSx5YBIme4SfpIHJ0) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Greatest Hits](https://open.spotify.com/album/7GiFhLj7OY98QpRwmlVUl8) | 3:31 |
 | 33 | [As Time Goes By](https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR) | 2:34 |
-| 34 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
-| 35 | [For Once in My Life](https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 2:33 |
+| 34 | [For Once in My Life](https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 2:33 |
+| 35 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
 | 36 | [Mr Bojangles](https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 3:17 |
 | 37 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
 | 38 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 99 | [Stardust](https://open.spotify.com/track/33rhFjtqI16a5Q0qI4VHaO) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [No Count Sarah](https://open.spotify.com/album/53B3ZugSBLBVQT9XftI5Xb) | 3:19 |
 | 100 | [Don't Sit Under The Apple Tree \(With Anyone Else But Me\)](https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Essential Glenn Miller](https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG) | 3:10 |
 
-Snapshot ID: `MTY3ODg2NjcxNiwwMDAwMDAwMDk1MWE3MmM0NGJjZDc0YjRlZjI2NDViZjdmOWViYjZk`
+Snapshot ID: `MTY3ODg2NjcxNiwwMDAwMDAwMDJlNjk5Y2M0N2I5ZGIyOWI3OTA2NDQxMDMzMzVkN2Ni`

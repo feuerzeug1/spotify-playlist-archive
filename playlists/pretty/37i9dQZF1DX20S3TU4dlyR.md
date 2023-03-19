@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,074 likes - 89 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,094 likes - 89 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 43 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
 | 44 | [Si No Fuera](https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Si No Fuera \- Single](https://open.spotify.com/album/1HEw09m1UAKkfpD1RcAnuW) | 3:38 |
 | 45 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
-| 46 | [Lo De Siempre](https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 3:22 |
-| 47 | [Luz y Compañía](https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:57 |
+| 46 | [Luz y Compañía](https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:57 |
+| 47 | [Lo De Siempre](https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 3:22 |
 | 48 | [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 |
 | 49 | [Cuanto Heredamos](https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cuanto Heredamos](https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL) | 3:28 |
 | 50 | [El Pescador](https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Rey Mago de las Nubes](https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78) | 3:05 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 53 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
 | 54 | [The Chicken](https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Groovin' High](https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2) | 7:15 |
 | 55 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
-| 56 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 |
-| 57 | [Emocionado](https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Emocionado](https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz) | 4:10 |
-| 58 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 |
+| 56 | [Emocionado](https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Emocionado](https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz) | 4:10 |
+| 57 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 |
+| 58 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 |
 | 59 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
 | 60 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 |
 | 61 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 88 | [El Cuento](https://open.spotify.com/track/6Z64rcX4toR740wFD9PCvT) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [El Cuento](https://open.spotify.com/album/2qselQbY8QZncTIS9Aenn2) | 3:10 |
 | 89 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
 
-Snapshot ID: `MTY3ODQwOTMyMCwwMDAwMDAwMDQ4ZDk0ODA0NjIwNWRkZTQ2ZTFkMTZjZjU5ZTVjMzlm`
+Snapshot ID: `MTY3ODQwOTMyMCwwMDAwMDAwMDlkNGI1NmQ5ODg4MzQ1YmEyMDA5NDdmYWRhNWUwMTEw`

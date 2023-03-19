@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,580 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,592 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 72 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
 | 73 | [Won't Be Long](https://open.spotify.com/track/2rw4cJKCCBYpZ57EFHE2Ih) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:45 |
 | 74 | [Hands on You](https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:52 |
-| 75 | [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 |
+| 75 | [Shovels & Dirt](https://open.spotify.com/track/6d2N6I8oVunoWKjjRqbxTq) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 4:01 |
 
-Snapshot ID: `MTY3Mjc2Njk2OCwwMDAwMDAwMGNmODg4NjYxZWMyYWUzMjExZWMyZDVjNzExY2I1OTJj`
+Snapshot ID: `MTY3Mjc2Njk2OCwwMDAwMDAwMDM4ZDg5ODgyM2ExMWQ5NDlhMTYzZGI3MjRmYzg5NmNj`

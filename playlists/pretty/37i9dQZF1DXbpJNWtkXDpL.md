@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a nuestros artista Radar México 2022!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,908 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,919 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 38 | [Barbie Ven](https://open.spotify.com/track/4QJN9tUM1gPGrS4LM9424u) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/2jWWAbKtp7ACnQcUT1a7eV) | 2:41 |
 | 39 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
 | 40 | [R9 Aleteo \(feat\. Dj Yaso\)](https://open.spotify.com/track/3smiIP1lD8dG4r4RjK5r0X) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dj Yaso](https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd) | [911](https://open.spotify.com/album/2wUqPgGEWs29RVjinkYXeC) | 2:46 |
-| 41 | [Mala Manía](https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Mala Manía](https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs) | 3:23 |
-| 42 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 |
+| 41 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 |
+| 42 | [Mala Manía](https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Mala Manía](https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs) | 3:23 |
 | 43 | [no me caigo tan bien](https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [no me caigo tan bien](https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI) | 3:28 |
 | 44 | [Mamixhula](https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Mamixhula](https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8) | 2:30 |
 | 45 | [Uh La La](https://open.spotify.com/track/238haksMvqT5hcKtznBLop) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Uh La La](https://open.spotify.com/album/37E856Cum11u0LJognB6Xp) | 3:30 |
-| 46 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
-| 47 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 |
-| 48 | [Más Tarde \- Remix](https://open.spotify.com/track/6RE8xvoIrJSBQGPSC6V3mr) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Más Tarde \(Remix\)](https://open.spotify.com/album/3YeYvTtjuhqI0syIeMAhaA) | 3:26 |
-| 49 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
+| 46 | [Más Tarde \- Remix](https://open.spotify.com/track/6RE8xvoIrJSBQGPSC6V3mr) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Más Tarde \(Remix\)](https://open.spotify.com/album/3YeYvTtjuhqI0syIeMAhaA) | 3:26 |
+| 47 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
+| 48 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
+| 49 | [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 |
 | 50 | [Empty Process](https://open.spotify.com/track/3nV6TxijHm8BJwZl7wjck8) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Glommy Afternoon](https://open.spotify.com/album/4k34ZmgvcK8b1ljA27Uu4d) | 2:56 |
 
-Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMDZkZTI5ODkwMTBiMDAyZWU5MWU5ZjJhOGI2Y2QyNWI1`
+Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMDI5MTMwNWM4ZDU3MzkzZDViMTliNmE2NGVmYTEyZjVj`

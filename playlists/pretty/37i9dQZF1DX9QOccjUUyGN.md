@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Krawk
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,740 likes - 74 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,743 likes - 74 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 65 | [Frio & Calculista](https://open.spotify.com/track/4J1c6maTGuWirmGCOgrfsK) | [Iasmin Turbininha](https://open.spotify.com/artist/0HeSaJ2OiMF7ZpdKTkTZF1), [Caio Fred](https://open.spotify.com/artist/7y8GW7hTfyk4FYKJNRJ709), [CereBeats](https://open.spotify.com/artist/4USYf94aCsO66aJqulSV2D) | [Frio & Calculista](https://open.spotify.com/album/3uAl8UgCy8Qgzff4RKl0rP) | 3:04 |
 | 66 | [Apenas o Começo](https://open.spotify.com/track/6lTq6zVD3RUTkCW0AIy92N) | [Baby V](https://open.spotify.com/artist/2fqG2rNsyOSNUiDeCWIS3U), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Bubblegun Studios](https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx) | [Apenas o Começo](https://open.spotify.com/album/7A69JKVv8hLqycZNInl7PW) | 3:25 |
 | 67 | [Chucro e Fechado](https://open.spotify.com/track/6PcaG53oajoKzr9CR4UDNZ) | [MC Vinny](https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Chucro e Fechado](https://open.spotify.com/album/5PlhbWKC7OS0bG9N0euZ9i) | 2:08 |
-| 68 | [Vida de Chefe](https://open.spotify.com/track/2amEICbtj99qNjYsURU2dB) | [Jovem Lucy](https://open.spotify.com/artist/0hBRC3XcpaS7YnZyQCLw7Y), [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq) | [Vida de Chefe](https://open.spotify.com/album/62x21AmDCotLt8Ou7lLL02) | 3:18 |
+| 68 | [Vida de Chefe](https://open.spotify.com/track/2amEICbtj99qNjYsURU2dB) | [Lucy](https://open.spotify.com/artist/63hfE92vmhBqSVXZIMUCRV), [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq) | [Vida de Chefe](https://open.spotify.com/album/62x21AmDCotLt8Ou7lLL02) | 3:18 |
 | 69 | [Gin & Campari](https://open.spotify.com/track/6KO5LTv13zmGhUCFNOssKl) | [EXQUEÇA TUDO PAPAI](https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb), [Vincent](https://open.spotify.com/artist/1oNEmlsYecF27VXffRlXDG), [Cattê](https://open.spotify.com/artist/3zDcpCuml9h74aIOs8Gx2W) | [Gin & Campari](https://open.spotify.com/album/3vetw3P5Zy65WWN5NNEqla) | 2:52 |
 | 70 | [Bombay](https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP) | [Mahô](https://open.spotify.com/artist/5B51c89els1SziVjz1WlLF), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Bombay](https://open.spotify.com/album/2HK7NYlKLW42yyRY6I6PYI) | 2:51 |
 | 71 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 |

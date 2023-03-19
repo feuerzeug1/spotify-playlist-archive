@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Aditi Singh Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,839 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,866 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bairiya](https://open.spotify.com/track/5oDqm3nmB6euAtKnDH8cQD) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Bairiya](https://open.spotify.com/album/0qDJp6YQp1s0C5kWoJrpKC) | 4:23 |
-| 2 | [Tere Mere](https://open.spotify.com/track/07RF13WWpYtCnnIEuoKLM7) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8) | [Tere Mere](https://open.spotify.com/album/1eu7DChmxi7jV7B58cylO9) | 3:55 |
+| 2 | [Tere Mere](https://open.spotify.com/track/07RF13WWpYtCnnIEuoKLM7) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Tere Mere](https://open.spotify.com/album/1eu7DChmxi7jV7B58cylO9) | 3:55 |
 | 3 | [Jaane Kyun](https://open.spotify.com/track/2XecqQiPVkouS73OYRzDC6) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0) | [Jaane Kyun](https://open.spotify.com/album/35tiVpTGRw9i7dBL9wUZ6J) | 2:19 |
 | 4 | [Tu Mera](https://open.spotify.com/track/530f9k05sgzkKs2RVhrb0G) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Prasoon Srivastava](https://open.spotify.com/artist/2WtV7IeOgedqbC6ckJiv1v) | [Tu Mera](https://open.spotify.com/album/0MnYB8f16tqgsEBxxh7mDI) | 3:03 |
 | 5 | [Tanhai](https://open.spotify.com/track/62LeQ9CgHd4ajbh78V4Doe) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn), [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [Tanhai](https://open.spotify.com/album/3lDxlt5P4NTn5PtocbqR4V) | 2:55 |

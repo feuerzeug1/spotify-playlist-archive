@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Molchat Doma on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,345 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,807 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 24 | [Пластинки](https://open.spotify.com/track/1OgLQdSMi9a7fZOqV96veS) | [Дурной Вкус](https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j) | [Пластинки](https://open.spotify.com/album/0jvMXv33xPDwS96RSQZe9U) | 3:04 |
 | 25 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 26 | [Anvil](https://open.spotify.com/track/4eKN8RPS06OHyk8dTdempU) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [VESSEL](https://open.spotify.com/album/2fiGmNRXBH0QMnkm4jswEr) | 3:29 |
-| 27 | [Judas Effect](https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 3:12 |
-| 28 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
+| 27 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
+| 28 | [Judas Effect](https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 3:12 |
 | 29 | [Люди Надоели](https://open.spotify.com/track/2gLAml7HPysxActxHTqdLq) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [С крыш наших домов](https://open.spotify.com/album/5JLoR1neszuPXlDwOSffYh) | 2:58 |
 | 30 | [Shoes At The Door](https://open.spotify.com/track/5MGFb7xPJRIdP0jn1L7Laj) | [Cactus Ponchos](https://open.spotify.com/artist/4puf0OYh6mMjTRFuprvekt) | [After The Show](https://open.spotify.com/album/4RYqUH75rF5jNWYWKztoAv) | 3:00 |
 | 31 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 |
 | 32 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 |
-| 33 | [Pain](https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 7:19 |
-| 34 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 |
+| 33 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 |
+| 34 | [Pain](https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 7:19 |
 | 35 | [mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [mitleerenhänden](https://open.spotify.com/album/2uUl09ieBEaFtKStbPrjmA) | 3:29 |
 | 36 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 | 37 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 |
@@ -60,22 +60,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 50 | [Heroes](https://open.spotify.com/track/4ymjspgq2OvYoPjOnsztnw) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 4:46 |
 | 51 | [Marian \- Version](https://open.spotify.com/track/4wBLUjwy4lFXNWzCuxDqfZ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always Collection](https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh) | 5:43 |
 | 52 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 |
-| 53 | [Ecstasy](https://open.spotify.com/track/4Sorp7a7ps9faLrKAzcwvX) | [Soviet Soviet](https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu) | [Fate](https://open.spotify.com/album/03ti9fj1guEvPZdYTAQ05D) | 3:03 |
-| 54 | [Space Echo](https://open.spotify.com/track/545WpZctvOyaIPJBhenv3Z) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Space Station](https://open.spotify.com/album/0S0y4THoNccPD2F5BWoS09) | 3:35 |
+| 53 | [Space Echo](https://open.spotify.com/track/545WpZctvOyaIPJBhenv3Z) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Space Station](https://open.spotify.com/album/0S0y4THoNccPD2F5BWoS09) | 3:35 |
+| 54 | [Ecstasy](https://open.spotify.com/track/4Sorp7a7ps9faLrKAzcwvX) | [Soviet Soviet](https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu) | [Fate](https://open.spotify.com/album/03ti9fj1guEvPZdYTAQ05D) | 3:03 |
 | 55 | [A Company](https://open.spotify.com/track/3Mf1kQUFstWEQQPZ9XluE4) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Memorabilia](https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY) | 2:58 |
 | 56 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 |
 | 57 | [Biessensoŭnasć](https://open.spotify.com/track/2R1Yk6vm11P3pLIrtBR4eM) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Skryvaj](https://open.spotify.com/album/4v7LVUKXfXJwsomhfHaefk) | 2:56 |
-| 58 | [Audiotool Day 2016](https://open.spotify.com/track/0mAYx7e7gOsH7wUQgrD8t2) | [Xtract](https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re) | [Audiotool Day 2016](https://open.spotify.com/album/3Zs4J3UFVJxLA2Bs0Iz6rA) | 3:57 |
+| 58 | [The Style Is Death](https://open.spotify.com/track/3BMBp3Ope7onUWMUCyZ2ok) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Alabaster Chamber](https://open.spotify.com/album/4vkFkFOTEusDOuy70rDrkL) | 3:57 |
 | 59 | [SEGA SUNSET](https://open.spotify.com/track/4wFwlekWkj23Vu900tKPum) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [RARITIES](https://open.spotify.com/album/0hk4v5Rn7oMCaMu1gGbw7s) | 3:02 |
-| 60 | [The Style Is Death](https://open.spotify.com/track/3BMBp3Ope7onUWMUCyZ2ok) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Alabaster Chamber](https://open.spotify.com/album/4vkFkFOTEusDOuy70rDrkL) | 3:57 |
+| 60 | [Audiotool Day 2016](https://open.spotify.com/track/0mAYx7e7gOsH7wUQgrD8t2) | [Xtract](https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re) | [Audiotool Day 2016](https://open.spotify.com/album/3Zs4J3UFVJxLA2Bs0Iz6rA) | 3:57 |
 | 61 | [По краю острова](https://open.spotify.com/track/0VJYAiu5uZzOCBPSqDrjJq) | [Ploho](https://open.spotify.com/artist/7yjnZ3eibFQRN65u1syJZg), [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [По краю острова](https://open.spotify.com/album/1QviwtPK0YQwvlPcwxs42s) | 3:41 |
 | 62 | [The Others](https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:40 |
 | 63 | [Honey](https://open.spotify.com/track/3ECXjRnXpSMKXskP4TLsTA) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [Violent Rains](https://open.spotify.com/album/7IZ2mNo4PPWCdsEuEKkGyU) | 3:32 |
 | 64 | [cabin](https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i) | 3:20 |
 | 65 | [Мёртв внутри](https://open.spotify.com/track/50kqsBYacoTWaNUJ7fNEjK) | [Electroforez](https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR), [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [505](https://open.spotify.com/album/1Gd5xQXl0i7qN5Zt4u4bIz) | 3:38 |
 | 66 | [Propagation](https://open.spotify.com/track/2MIF5EhJoAZ6cXgMqfAwdw) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Iteration](https://open.spotify.com/album/6x43T5KNDP5e0c4hV8x3Go) | 4:10 |
-| 67 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 |
-| 68 | [Plasticity](https://open.spotify.com/track/3nMXh9pQqC2nS5OAZrhy9s) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:11 |
+| 67 | [Plasticity](https://open.spotify.com/track/3nMXh9pQqC2nS5OAZrhy9s) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:11 |
+| 68 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 |
 | 69 | [Fate](https://open.spotify.com/track/53Zvj4xbSFKwSJeXjyocHK) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:17 |
 | 70 | [Paradise](https://open.spotify.com/track/4nQWhotmcrNRfOuu8EfmjF) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Paradise](https://open.spotify.com/album/2IjroX0bM8miBvBTqDRsKJ) | 5:35 |
 | 71 | [Sensation](https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Sensation](https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf) | 4:36 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 90 | [Incubus Succubus II](https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv) | 4:45 |
 | 91 | [Звук и темнота](https://open.spotify.com/track/1C2DCm6KwDa1bVBJM4Mh5Z) | [Дурной Вкус](https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j) | [Звук и темнота](https://open.spotify.com/album/56qzZ00inodGzhGPLT3wXL) | 3:30 |
 | 92 | [Тайна](https://open.spotify.com/track/7DJYUVyrJsNrMD0Do9r2k9) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Нам остается лишь ждать](https://open.spotify.com/album/2yU6jXlKENHSyVG2bI33UZ) | 3:01 |
-| 93 | [Into the Void](https://open.spotify.com/track/68FAxdemTDnum52uSSYUWd) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Chroma](https://open.spotify.com/album/6wIN1Dl6CDXyXPEVxjugqF) | 3:36 |
-| 94 | [Dot in the Sky](https://open.spotify.com/track/2JDYNDcTJVpkuqKiJrIghn) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 5:26 |
+| 93 | [Dot in the Sky](https://open.spotify.com/track/2JDYNDcTJVpkuqKiJrIghn) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 5:26 |
+| 94 | [Into the Void](https://open.spotify.com/track/68FAxdemTDnum52uSSYUWd) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Chroma](https://open.spotify.com/album/6wIN1Dl6CDXyXPEVxjugqF) | 3:36 |
 | 95 | [Your Master is calling](https://open.spotify.com/track/0TXfAQ5ohVQPzt4Mrr5azG) | [Pink Turns Blue](https://open.spotify.com/artist/47oP5alMot58ggzcFwldky) | [Meta](https://open.spotify.com/album/7fSBShSLe5Glx6sifNLdJF) | 7:43 |
 | 96 | [Rasengan](https://open.spotify.com/track/05RMPtk5ybYhkuY3qjlaHa) | [Turbo Knight](https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c) | [Rasengan](https://open.spotify.com/album/46rcx1ktEeepldl3FLpIIt) | 5:07 |
 | 97 | [Luces](https://open.spotify.com/track/4bgPDf0OLHytRSicJ8y9pa) | [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Luces](https://open.spotify.com/album/095CLldKK6xtvgrVsjXB7j) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 99 | [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 |
 | 100 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 |
 
-Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMDczMmI4OTkyZDkxZmNhMjk4YWFjODg4ZDE5ZDQ0ZDc0`
+Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMDljM2EwZWE2YmM2M2YzN2E0ZmRmYzU2ZmExNjJiOTRj`

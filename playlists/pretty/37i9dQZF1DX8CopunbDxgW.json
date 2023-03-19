@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: The Blaze",
-  "num_followers": 839081,
+  "num_followers": 839275,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMSwwMDAwMDAwMGE5YjE3ZWYxYzUwYTE0Y2MwOGM3MGMxOGY5MGVhMzgy",
+  "snapshot_id": "MTY3OTAyNTYwMSwwMDAwMDAwMGNkOTJhZjQxY2VlZDUyMTZhN2E3OWUyMWYzMmQ2M2E4",
   "tracks": [
     {
       "added_at": "2023-03-10 15:28:12",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Welcome To My Island (Remix)",
         "url": "https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3"
       },
@@ -703,18 +719,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "EXCEPTIONAL",
+        "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+      "duration_ms": 137739,
+      "name": "EXCEPTIONAL",
+      "url": "https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -739,26 +759,6 @@
       "duration_ms": 214539,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "EXCEPTIONAL",
-        "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 137739,
-      "name": "EXCEPTIONAL",
-      "url": "https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Beautiful Morning",
+        "url": "https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Beautiful Morning",
+      "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "More Content",
         "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 181873,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "6am",
-        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "6am",
-      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Beautiful Morning",
-        "url": "https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL"
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 187126,
-      "name": "Beautiful Morning",
-      "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Sunsleeper",
-        "url": "https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 220744,
-      "name": "Sunsleeper",
-      "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Slugger 1.4 [2014 Export.WAV]",
@@ -1163,6 +1147,58 @@
       "duration_ms": 248811,
       "name": "Slugger 1.4 [2014 Export.WAV]",
       "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        }
+      ],
+      "duration_ms": 246832,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Sunsleeper",
+        "url": "https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 220744,
+      "name": "Sunsleeper",
+      "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1187,58 +1223,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Flansie",
-          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
-        }
-      ],
-      "duration_ms": 246832,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Like The Old Days",
-        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 240041,
-      "name": "Like The Old Days",
-      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Differences",
         "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 140806,
       "name": "Differences",
       "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
+    },
+    {
+      "added_at": "2023-03-10 15:28:12",
+      "album": {
+        "name": "headstrong gunner",
+        "url": "https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 115651,
+      "name": "headstrong gunner",
+      "url": "https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6"
     },
     {
-      "added_at": "2023-03-10 15:28:12",
-      "album": {
-        "name": "headstrong gunner",
-        "url": "https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 115651,
-      "name": "headstrong gunner",
-      "url": "https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Disturb The Norm",
@@ -1331,22 +1315,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Better Now (feat. MARO)",
-        "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
+        "name": "Like The Old Days",
+        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 194110,
-      "name": "Better Now (feat. MARO)",
-      "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
+      "duration_ms": 240041,
+      "name": "Like The Old Days",
+      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1367,6 +1347,26 @@
       "duration_ms": 342000,
       "name": "Nova",
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Better Now (feat. MARO)",
+        "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 194110,
+      "name": "Better Now (feat. MARO)",
+      "url": "https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 172613,
       "name": "Done (Let\u2019s Get It)",
       "url": "https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1617,6 +1617,26 @@
       "url": "https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk"
     },
     {
+      "added_at": "2023-03-03 18:55:26",
+      "album": {
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 235932,
+      "name": "Lavender Haze - Jungle Remix",
+      "url": "https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6"
+    },
+    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "AudioLust & HigherLove",
@@ -1643,22 +1663,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Just Can't Get Enough",
-        "url": "https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 303124,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Wide Awake (feat. Charlie Houston)",
         "url": "https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6"
       },
@@ -1675,6 +1679,22 @@
       "duration_ms": 215039,
       "name": "Wide Awake (feat. Charlie Houston)",
       "url": "https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Just Can't Get Enough",
+        "url": "https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 303124,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1761,40 +1781,20 @@
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-03-03 21:59:48",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/0mP4FWMK4wPnA3WCH6VxTz"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 149840,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "WATER. (feat. Bryce Vine)",
-        "url": "https://open.spotify.com/album/6rin0eQVQWe4kAA7tCLmyX"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "WATER. (feat. Bryce Vine)",
-      "url": "https://open.spotify.com/track/57Zhe3iZ0PGDXm5qpeoXIh"
+      "duration_ms": 133037,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/3AHTWM55Eg8QY3u91VJEzZ"
     }
   ],
   "unique_name": "metropolis",

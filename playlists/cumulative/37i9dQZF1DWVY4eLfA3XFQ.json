@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 155520,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/0MzErqKtUmrdmCCNi8QAIA"
@@ -8705,6 +8705,28 @@
     },
     {
       "album": {
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
+    },
+    {
+      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg"
       },
@@ -12461,6 +12483,24 @@
     },
     {
       "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/7vjXdIFIMNYtqeb9Z4aK7D"
+      },
+      "artists": [
+        {
+          "name": "LUCATI",
+          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/5abSEI8UufWiodm2kiuDdj"
+    },
+    {
+      "album": {
         "name": "Overtime / Physically",
         "url": "https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED"
       },
@@ -12534,7 +12574,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 213750,
       "name": "Pam Pam",
       "url": "https://open.spotify.com/track/5vwDbalq8UurGS7tTz0ZlJ"

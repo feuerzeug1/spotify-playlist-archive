@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,956 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,960 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 38 | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6) | 5:03 |
 | 39 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
 | 40 | [Grow Old](https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Grow Old](https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb) | 3:04 |
-| 41 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 |
-| 42 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
-| 43 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
-| 44 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 |
+| 41 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
+| 42 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 |
+| 43 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 |
+| 44 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
 | 45 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |
 | 46 | [夢で逢えたら](https://open.spotify.com/track/3dTszgeHELrjirdYr5cjr1) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [夢で逢えたら](https://open.spotify.com/album/1ULNF5G2B4FJFqPuOJiaCy) | 4:05 |
 | 47 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 49 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 |
 | 50 | [something](https://open.spotify.com/track/0rL3ksbcpreSl6lMDPMqZ3) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [something](https://open.spotify.com/album/2ctyx8VCJH5qJOACnsr9fl) | 4:02 |
 
-Snapshot ID: `MTY3ODc1MjAyMywwMDAwMDAwMDcwZmM1OGRlNDgzODRjMDY3MzU5NjE3OTg4OWM1YjRh`
+Snapshot ID: `MTY3ODc1MjAyMywwMDAwMDAwMDNlMzZlNmU3MzQ1ZDdkYmZiYWNkMjY0NGNjNDVkNDll`

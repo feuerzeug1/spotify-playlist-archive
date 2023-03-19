@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 464675,
+  "num_followers": 464795,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MDI0MCwwMDAwMDAwMDM2Yjk5NWZmODE0MWI5Nzk3MzQ2NTkxNTcwZWVkMjFk",
+  "snapshot_id": "MTY3OTA0MDI0MCwwMDAwMDAwMDdmOTYxMzRkMTczNTVhNGU2NDBlNzg2MzkzOWI0Y2Nm",
   "tracks": [
     {
       "added_at": "2023-03-17 08:04:00",
@@ -423,18 +423,22 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "La 2blea",
-        "url": "https://open.spotify.com/album/7KfcmAvUwDPc3bUYLFje76"
+        "name": "Amandita",
+        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 325562,
-      "name": "La 2blea",
-      "url": "https://open.spotify.com/track/3gOVQmGQcg8djqU044liT1"
+      "duration_ms": 223469,
+      "name": "Amandita",
+      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -459,22 +463,18 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "Amandita",
-        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
+        "name": "La 2blea",
+        "url": "https://open.spotify.com/album/7KfcmAvUwDPc3bUYLFje76"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 223469,
-      "name": "Amandita",
-      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+      "duration_ms": 325562,
+      "name": "La 2blea",
+      "url": "https://open.spotify.com/track/3gOVQmGQcg8djqU044liT1"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 151750,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "Mujer\u00f3n",
         "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 151750,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
         "name": "BIEN O MAL",
         "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "Deporvidas",
-        "url": "https://open.spotify.com/album/1Dg49lijUJmKh5xSpT7joZ"
-      },
-      "artists": [
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 159028,
-      "name": "Deporvidas",
-      "url": "https://open.spotify.com/track/3m074dbYxbEfrPdbCdhnCS"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
         "name": "No Me Pregunten",
         "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 250285,
       "name": "No Me Pregunten",
       "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
+        "name": "Deporvidas",
+        "url": "https://open.spotify.com/album/1Dg49lijUJmKh5xSpT7joZ"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 159028,
+      "name": "Deporvidas",
+      "url": "https://open.spotify.com/track/3m074dbYxbEfrPdbCdhnCS"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 144438,
+      "name": "Relojito",
+      "url": "https://open.spotify.com/track/1yGJOaPtGUF8xDl3fALd17"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "Puerto Rican Mami",
         "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 144438,
-      "name": "Relojito",
-      "url": "https://open.spotify.com/track/1yGJOaPtGUF8xDl3fALd17"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1087,6 +1087,30 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "Kachipun",
+        "url": "https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW"
+      },
+      "artists": [
+        {
+          "name": "Metaling\u00fc\u00edstica",
+          "url": "https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "Kachipun",
+      "url": "https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "Chambean",
         "url": "https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3"
       },
@@ -1123,26 +1147,18 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "Kachipun",
-        "url": "https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW"
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
       },
       "artists": [
         {
-          "name": "Metaling\u00fc\u00edstica",
-          "url": "https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 168080,
-      "name": "Kachipun",
-      "url": "https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF"
+      "duration_ms": 164092,
+      "name": "100 TRACKS",
+      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 180000,
       "name": "Envidia",
       "url": "https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "SMILE BIX :)",
-        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 164092,
-      "name": "100 TRACKS",
-      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 150140,
+      "name": "23 FEB MADRID FREESTYLE",
+      "url": "https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "Llegue Pa Hacer Billetes",
         "url": "https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt"
       },
@@ -1323,30 +1339,6 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "Triple AAA",
-        "url": "https://open.spotify.com/album/4Qb2HD2mCm5rS6g1UD2MEs"
-      },
-      "artists": [
-        {
-          "name": "Junior Caldera",
-          "url": "https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp"
-        },
-        {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
-        },
-        {
-          "name": "Trainer",
-          "url": "https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Triple AAA",
-      "url": "https://open.spotify.com/track/1a6775Z53Ga6QuMWeJse5E"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
         "name": "FASHION DILLER",
         "url": "https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv"
       },
@@ -1367,18 +1359,26 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "SMILE BIX :)",
-        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+        "name": "Triple AAA",
+        "url": "https://open.spotify.com/album/4Qb2HD2mCm5rS6g1UD2MEs"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Junior Caldera",
+          "url": "https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp"
+        },
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        },
+        {
+          "name": "Trainer",
+          "url": "https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2"
         }
       ],
-      "duration_ms": 150140,
-      "name": "23 FEB MADRID FREESTYLE",
-      "url": "https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos"
+      "duration_ms": 175000,
+      "name": "Triple AAA",
+      "url": "https://open.spotify.com/track/1a6775Z53Ga6QuMWeJse5E"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "Dios Y Mi Fe",
-        "url": "https://open.spotify.com/album/1SttuNOvnL3HVDHled7wRM"
-      },
-      "artists": [
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 211968,
-      "name": "Dios Y Mi Fe",
-      "url": "https://open.spotify.com/track/0VO3n8Y01UTsZYCelzwu9M"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
         "name": "La Movie",
         "url": "https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 150422,
       "name": "No Creyeron",
       "url": "https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
+        "name": "Dios Y Mi Fe",
+        "url": "https://open.spotify.com/album/1SttuNOvnL3HVDHled7wRM"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 211968,
+      "name": "Dios Y Mi Fe",
+      "url": "https://open.spotify.com/track/0VO3n8Y01UTsZYCelzwu9M"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1999,6 +1999,42 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "Cuando Toca Toca",
+        "url": "https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Cuando Toca Toca",
+      "url": "https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
+        "name": "So\u00f1ando en PR",
+        "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Stripper X",
+      "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
       },
@@ -2039,42 +2075,6 @@
       "duration_ms": 179576,
       "name": "CLOACA",
       "url": "https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "So\u00f1ando en PR",
-        "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
-      },
-      "artists": [
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Stripper X",
-      "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "Cuando Toca Toca",
-        "url": "https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 184720,
-      "name": "Cuando Toca Toca",
-      "url": "https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
         "name": "Kevin, Hugo & Jorge",
         "url": "https://open.spotify.com/album/4kzxuzLBkbGGnqeQ3dO8JT"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 146622,
       "name": "Kevin, Hugo & Jorge",
       "url": "https://open.spotify.com/track/0tT1SLOTZfEud3LB7JTgxv"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "La Dieta del Barrio",
+        "url": "https://open.spotify.com/album/5Ny1vmeCcN2QXMRPUtTbFS"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "La Dieta del Barrio",
+      "url": "https://open.spotify.com/track/6CbApC7Ratt2fddBLCcFln"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
         "url": "https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 233286,
       "name": "XKITTLEZ (with Arcangel)",
       "url": "https://open.spotify.com/track/0EeeiUfFGbKYyvIQcI9TGf"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "La Dieta del Barrio",
-        "url": "https://open.spotify.com/album/5Ny1vmeCcN2QXMRPUtTbFS"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "La Dieta del Barrio",
-      "url": "https://open.spotify.com/track/6CbApC7Ratt2fddBLCcFln"
     },
     {
       "added_at": "2023-03-17 08:04:00",

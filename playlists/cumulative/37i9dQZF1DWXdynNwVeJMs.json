@@ -1432,10 +1432,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 444461,
       "name": "Marshland IV - Rays",
       "url": "https://open.spotify.com/track/1hLmjGsHWA5I2lTHIR9qoi"
+    },
+    {
+      "album": {
+        "name": "Marshland",
+        "url": "https://open.spotify.com/album/6F8GnBCcFlRs0XNYyQSL7s"
+      },
+      "artists": [
+        {
+          "name": "don Marsh V",
+          "url": "https://open.spotify.com/artist/2YCbuLwPm1iABWCnpvTOuh"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444453,
+      "name": "Marshland IV: Rays",
+      "url": "https://open.spotify.com/track/2wSpLck2vIjbaI8Ods0EH2"
     },
     {
       "album": {
@@ -1903,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Ubi Sunt",
+        "url": "https://open.spotify.com/album/429T2lTpq7WJOWcUKlxvQW"
+      },
+      "artists": [
+        {
+          "name": "H A S T",
+          "url": "https://open.spotify.com/artist/17uBeZave65bCISY0fRqZV"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212786,
+      "name": "Photonic",
+      "url": "https://open.spotify.com/track/67pi7bVSEkbbJJUF7e18Kc"
+    },
+    {
+      "album": {
         "name": "Photonic",
         "url": "https://open.spotify.com/album/2CWuZRmCPkN33i2dVZcb7M"
       },
@@ -1914,7 +1950,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 213253,
       "name": "Photonic",
       "url": "https://open.spotify.com/track/5R0GSuk5hmDMm7Nqqq6eoP"
@@ -2222,10 +2258,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 335920,
       "name": "SLECHGAAN",
       "url": "https://open.spotify.com/track/5KrLhcvytXRFBCsx2tQrdS"
+    },
+    {
+      "album": {
+        "name": "RAPIDMAN",
+        "url": "https://open.spotify.com/album/06u6LSWkFxLeFxgZjuQoAx"
+      },
+      "artists": [
+        {
+          "name": "RAPIDMAN",
+          "url": "https://open.spotify.com/artist/4hzVtNA2nyeXtSHA8Xr0y5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335933,
+      "name": "SLECHGAAN",
+      "url": "https://open.spotify.com/track/4jBvUU2BTttfiM5Cmpr6jc"
     },
     {
       "album": {

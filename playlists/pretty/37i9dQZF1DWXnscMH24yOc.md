@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,807 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,921 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 43 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
 | 44 | [Don't Start Now](https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Don't Start Now](https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh) | 3:47 |
 | 45 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
-| 46 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
-| 47 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 |
+| 46 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 |
+| 47 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
 | 48 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 |
 | 49 | [All Through the Night](https://open.spotify.com/track/32RC7EvEAUUn9aoQZlWT2e) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:17 |
 | 50 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 |
-| 51 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
-| 52 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
+| 51 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
+| 52 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
 | 53 | [Diamonds](https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [In Your Prime \- EP](https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX) | 4:07 |
 | 54 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
 | 55 | [Youth](https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Youth](https://open.spotify.com/album/5WjvWdND9pQf1bTZANVvvy) | 2:40 |
@@ -78,20 +78,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 68 | [Landslide](https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO) | 2:50 |
 | 69 | [Waterfalls](https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw) | 4:26 |
 | 70 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0) | 3:32 |
-| 71 | [Black Hole Sun](https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf) | [Nouela](https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30) | [Black Hole Sun](https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm) | 4:35 |
-| 72 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
+| 71 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
+| 72 | [Black Hole Sun](https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf) | [Nouela](https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30) | [Black Hole Sun](https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm) | 4:35 |
 | 73 | [Love You Like a Love Song](https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR) | [Cats On Trees](https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B) | [Cats On Trees \(Deluxe Edition\)](https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y) | 3:01 |
 | 74 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
 | 75 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
 | 76 | [Passionfruit](https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Passionfruit](https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A) | 3:32 |
 | 77 | [What Is Love](https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 3:08 |
-| 78 | [My City of Ruins](https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:16 |
-| 79 | [It Must Have Been Love](https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [It Must Have Been Love](https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB) | 4:07 |
-| 80 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 |
-| 81 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
+| 78 | [It Must Have Been Love](https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [It Must Have Been Love](https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB) | 4:07 |
+| 79 | [My City of Ruins](https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:16 |
+| 80 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
+| 81 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 |
 | 82 | [Hammond Song](https://open.spotify.com/track/4CQ7wd8WopTHgKGr3vVPiJ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 5:00 |
-| 83 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
-| 84 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
+| 83 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
+| 84 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
 | 85 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
 | 86 | [No Ordinary Love](https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 4:09 |
 | 87 | [Zombie](https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [The City Holds My Heart](https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Soul Meets Body](https://open.spotify.com/track/6MKXxE9Zz18KXyPO7T5vhI) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Soul Meets Body](https://open.spotify.com/album/2vZ09NrNvE2ekWg9WVRAT7) | 3:38 |
 | 100 | [How Deep is Your Love](https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Undercover Bros.](https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT) | 4:08 |
 
-Snapshot ID: `MTY0Nzk2MDAyOSwwMDAwMDAwMGU5YzNhYWZkZjc0MGQ0YjA4OTkyMGQ4YzMyMTE5OWI4`
+Snapshot ID: `MTY0Nzk2MDAyOSwwMDAwMDAwMDAwZmZjYjU2ZDNmNGQ0NjA1ZmQ2NmRiYTA5MDgwN2E4`

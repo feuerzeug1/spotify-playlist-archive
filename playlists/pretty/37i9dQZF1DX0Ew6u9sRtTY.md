@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ew6u9sRtTY.md) - [plain]
 
 > Remember these?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,945 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,163 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ew6u9sRtTY.md) - [plain]
 | 34 | [Got Your Money \(feat\. Kelis\)](https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Nigga Please](https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz) | 3:59 |
 | 35 | [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 |
 | 36 | [Saturday Night \- Radio Mix](https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Saturday Night Single](https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud) | 4:07 |
-| 37 | [One Of Us](https://open.spotify.com/track/1xNmF1Uep5OGutizZSbKvd) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Relish](https://open.spotify.com/album/1qgjfFOO3IMDimAuAWZLLt) | 5:20 |
-| 38 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 |
+| 37 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 |
+| 38 | [One Of Us](https://open.spotify.com/track/1xNmF1Uep5OGutizZSbKvd) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Relish](https://open.spotify.com/album/1qgjfFOO3IMDimAuAWZLLt) | 5:20 |
 | 39 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 |
 | 40 | [Jerk It Out](https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Love For The Streets](https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal) | 3:15 |
 | 41 | [Here Comes the Hotstepper \- Heartical Mix](https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Here Comes The Hotstepper](https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5) | 4:10 |
 | 42 | [Changes \- Radio Mix](https://open.spotify.com/track/2SdMEke7JCBEo8t60iyw2r) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Changes](https://open.spotify.com/album/5T513gBStZcClfbKCRkE9E) | 3:22 |
 | 43 | [The Ketchup Song \(Aserejé\) \- Spanglish Version](https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Hijas del Tomate](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) | 3:33 |
 | 44 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
-| 45 | [Rude](https://open.spotify.com/track/3tCwjWLicbjsMCvXhN0WOE) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Rude](https://open.spotify.com/album/2Qm9AzJHWLG9vbJCeXRaAW) | 3:44 |
-| 46 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 |
+| 45 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 |
+| 46 | [Rude](https://open.spotify.com/track/3tCwjWLicbjsMCvXhN0WOE) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Rude](https://open.spotify.com/album/2Qm9AzJHWLG9vbJCeXRaAW) | 3:44 |
 | 47 | [Who Let The Dogs Out](https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo) | [Baha Men](https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ) | [Who Let The Dogs Out](https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd) | 3:18 |
 | 48 | [Video Killed The Radio Star](https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF) | 4:13 |
 | 49 | [Turn Me On](https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Turn Me On \(Online Music\)](https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT) | 3:12 |
 | 50 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 
-Snapshot ID: `MTU5Mzc3NTQ3MSwwMDAwMDAwMDc0MzIxNjhlNmFiMmI2OWRhZmUxYTU5OTg3MWI4Zjg2`
+Snapshot ID: `MTU5Mzc3NTQ3MSwwMDAwMDAwMGIzNDVhMGMzMjNmMTAwNmMyNWMwMDU3MzBhZGQ1ZjM2`

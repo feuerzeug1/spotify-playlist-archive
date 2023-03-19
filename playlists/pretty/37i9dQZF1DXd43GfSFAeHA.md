@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > Hip\-Hop tracks from the Arab world\. Cover: Dizzy Dros
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,860 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,921 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,21 +29,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 19 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 |
 | 20 | [Wo Wo](https://open.spotify.com/track/4DOXUf71PoUQmF2IeCgJqw) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 3:31 |
 | 21 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 |
-| 22 | [Paradise](https://open.spotify.com/track/0dgxSqMys4w9qPvGSyyWHY) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paradise](https://open.spotify.com/album/3m0HTUkwIf64MyLbCfi3dR) | 2:57 |
-| 23 | [HVD](https://open.spotify.com/track/0HDgrspmVpjelFmCJ8OOoS) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [HVD](https://open.spotify.com/album/3Ka4gK10E7b7MjQnPZL1pX) | 4:12 |
+| 22 | [HVD](https://open.spotify.com/track/0HDgrspmVpjelFmCJ8OOoS) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [HVD](https://open.spotify.com/album/3Ka4gK10E7b7MjQnPZL1pX) | 4:12 |
+| 23 | [Paradise](https://open.spotify.com/track/0dgxSqMys4w9qPvGSyyWHY) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paradise](https://open.spotify.com/album/3m0HTUkwIf64MyLbCfi3dR) | 2:57 |
 | 24 | [Halloween](https://open.spotify.com/track/37TBQ5Mwx3SldaN03mMUru) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Halloween](https://open.spotify.com/album/0VdD8r7klztbY0Ilng4jxd) | 3:42 |
-| 25 | [trap roumi v4](https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [trap roumi v4](https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm) | 4:26 |
-| 26 | [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 |
+| 25 | [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 |
+| 26 | [trap roumi v4](https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [trap roumi v4](https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm) | 4:26 |
 | 27 | [Babel](https://open.spotify.com/track/2GFTYKi8fUQLUdBrEQcx8b) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Babel](https://open.spotify.com/album/1Xm9f3GltPZRXz87dneSDO) | 4:15 |
 | 28 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 |
 | 29 | [Dexter](https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Dexter](https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI) | 2:48 |
 | 30 | [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/track/0AhFYI98xsHPTqjWXwbrdV) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/album/57IuOz58Aic9351GUeol4V) | 2:47 |
 | 31 | [Business](https://open.spotify.com/track/600N1qOhl74PSwlDKbrJ7x) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 2:50 |
-| 32 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 |
+| 32 | [Talata Zayaha](https://open.spotify.com/track/48M1XgdOGc3Pti50SfgW0U) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Beyt El Ro3b](https://open.spotify.com/album/6qgcvg7IquOqjbgnBeRnfY) | 3:28 |
 | 33 | [L’allemagne \- Bonus](https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/25gV823TIXt2rIf9G9Mt01) | 3:01 |
-| 34 | [Talata Zayaha](https://open.spotify.com/track/48M1XgdOGc3Pti50SfgW0U) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Beyt El Ro3b](https://open.spotify.com/album/6qgcvg7IquOqjbgnBeRnfY) | 3:28 |
-| 35 | [KHABTA](https://open.spotify.com/track/4haYrG9E9kcu1inPdfsktK) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5daw2vuOQGUWyHYoUvKPEm) | 4:24 |
-| 36 | [Hana](https://open.spotify.com/track/1Yx2hUJcUoWhAPUlBd7Ipx) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Hana](https://open.spotify.com/album/3CyCOSe9Ir0vLkhoQ5VMTm) | 3:45 |
+| 34 | [KHABTA](https://open.spotify.com/track/4haYrG9E9kcu1inPdfsktK) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5daw2vuOQGUWyHYoUvKPEm) | 4:24 |
+| 35 | [Hana](https://open.spotify.com/track/1Yx2hUJcUoWhAPUlBd7Ipx) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Hana](https://open.spotify.com/album/3CyCOSe9Ir0vLkhoQ5VMTm) | 3:45 |
+| 36 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 |
 | 37 | [Niagara](https://open.spotify.com/track/4hPtfUDTbmXedQlQUCpIbg) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Niagara](https://open.spotify.com/album/4Z1D2DGlYtAWZvV0OwodJV) | 2:05 |
 | 38 | [Baby Blue](https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 2:42 |
 | 39 | [Napoli](https://open.spotify.com/track/5l37BFLcOujPniSPbmiIzy) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Zedk](https://open.spotify.com/artist/5eDzQ1aF3AyCoQC9uNTwzE) | [Napoli](https://open.spotify.com/album/62DlWYJwVkY82WK17OFdQl) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 49 | [Langa \(feat\. Khayyat\)](https://open.spotify.com/track/4VvgrTj4y6BIUYhh3J1Ab5) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [Langa \(feat\. Khayyat\)](https://open.spotify.com/album/6SlvwtudjfJmPilWo38MS3) | 2:50 |
 | 50 | [GHAREEB](https://open.spotify.com/track/56HnSz8IBgw9w5crh6gfqr) | [Shbash](https://open.spotify.com/artist/2SR6jVMQv7ahcivQ5y7fBA) | [GHAREEB](https://open.spotify.com/album/6HrRDDWIBvHOKAslzrpyRe) | 2:31 |
 
-Snapshot ID: `MTY3Nzc5ODAwMiwwMDAwMDAwMDcwMDM5NzdmMDM4NzNiY2IzNjdkMTIxZTNiY2NlMDk1`
+Snapshot ID: `MTY3Nzc5ODAwMiwwMDAwMDAwMDQ4ZDJlNDYxZGZiODEyMTEwYTRiMjEwYmMxNDk0MjFi`

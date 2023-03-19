@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 116169,
+  "num_followers": 116251,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDE0MGE5M2RhZjYxNzNkMTg2ZDM1NzI5YzgzODdjMzA0",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGIxNmJmMTQ2YTIzNjRjOTQ2YTMxODFlNmRlZWI3YWQz",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Ringling Road",
-        "url": "https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 150466,
-      "name": "Creek Don't Rise",
-      "url": "https://open.spotify.com/track/1dNQi8MaLrbMF2ibAYwUqS"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Red Eye EP",
         "url": "https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 319591,
       "name": "Kill a Man",
       "url": "https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Ringling Road",
+        "url": "https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 150466,
+      "name": "Creek Don't Rise",
+      "url": "https://open.spotify.com/track/1dNQi8MaLrbMF2ibAYwUqS"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV"
     },
     {
-      "added_at": "2023-03-18 01:30:12",
+      "added_at": "2023-03-19 00:51:44",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Leanna",
-        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Around Forever",
-      "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Unwanted Man",
         "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 256875,
       "name": "Unwanted Man",
       "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Leanna",
+        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Around Forever",
+      "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Settle Me Down",
-        "url": "https://open.spotify.com/album/6xTLQhjUBGvO1p3tvdfHIY"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 177083,
-      "name": "Settle Me Down",
-      "url": "https://open.spotify.com/track/3G6oU2xKe6pTiUzEXh1Nxt"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "American Soul",
         "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 189045,
       "name": "Boots",
       "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Settle Me Down",
+        "url": "https://open.spotify.com/album/6xTLQhjUBGvO1p3tvdfHIY"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 177083,
+      "name": "Settle Me Down",
+      "url": "https://open.spotify.com/track/3G6oU2xKe6pTiUzEXh1Nxt"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
     },
     {
-      "added_at": "2023-03-18 01:30:12",
+      "added_at": "2023-03-19 00:51:44",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6"
+        "name": "Waiting for the Fall",
+        "url": "https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid"
       },
       "artists": [
         {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+          "name": "Sam Riggs",
+          "url": "https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U"
         }
       ],
-      "duration_ms": 261268,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7"
+      "duration_ms": 217494,
+      "name": "Waiting for the Fall",
+      "url": "https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Waiting for the Fall",
-        "url": "https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid"
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6"
       },
       "artists": [
         {
-          "name": "Sam Riggs",
-          "url": "https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U"
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
         }
       ],
-      "duration_ms": 217494,
-      "name": "Waiting for the Fall",
-      "url": "https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk"
+      "duration_ms": 261268,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1631,18 +1631,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "My Mistake",
-        "url": "https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp"
+        "name": "Whiskey Over Wine",
+        "url": "https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs"
       },
       "artists": [
         {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+          "name": "David McMahon",
+          "url": "https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT"
+        },
+        {
+          "name": "Jake Parshall",
+          "url": "https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U"
         }
       ],
-      "duration_ms": 221400,
-      "name": "My Mistake",
-      "url": "https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g"
+      "duration_ms": 230933,
+      "name": "Whiskey Over Wine",
+      "url": "https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa"
     }
   ],
   "unique_name": "Texas Country Rewind",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover: Bhoomi Trivedi
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,996 likes - 38 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,050 likes - 38 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

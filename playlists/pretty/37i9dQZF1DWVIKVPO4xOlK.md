@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Chino Pacas
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,423 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,471 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 34 | [La Última Vez \- Deluxe](https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 4:12 |
 | 35 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
 | 36 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 |
-| 37 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
-| 38 | [Do It For LA \(LAFC Anthem\) \(feat\. Kid Ink\) \- Remix](https://open.spotify.com/track/6lbL6GT6vjCmP3CNchhTl6) | [DJ FLICT](https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Do It For LA \(LAFC Anthem\) \(feat\. Kid Ink\) \[Remix\]](https://open.spotify.com/album/4aMSvTVZ9lUXqhwjguXB8f) | 2:58 |
-| 39 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 |
+| 37 | [Peso a Peso](https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:37 |
+| 38 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
+| 39 | [Do It For LA \(LAFC Anthem\) \(feat\. Kid Ink\) \- Remix](https://open.spotify.com/track/6lbL6GT6vjCmP3CNchhTl6) | [DJ FLICT](https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Do It For LA \(LAFC Anthem\) \(feat\. Kid Ink\) \[Remix\]](https://open.spotify.com/album/4aMSvTVZ9lUXqhwjguXB8f) | 2:58 |
 | 40 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 |
 
-Snapshot ID: `MTY3OTA0MDg0MCwwMDAwMDAwMDMwZTQ5OTljNDQ0NTc2ZWUzMWFkNGVlOTI0OTQ0ODM2`
+Snapshot ID: `MTY3OTA0MDg0MCwwMDAwMDAwMGRlZWMxNDQ1NTRjOGJhMGZkZTQ4OGQxY2ZmNDU5ZDgz`

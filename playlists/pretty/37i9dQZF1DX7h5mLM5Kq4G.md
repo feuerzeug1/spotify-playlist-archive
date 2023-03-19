@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h5mLM5Kq4G.md) - [plain]
 
 > The songs we've been partying to in 2022\. Cover: David Guetta & Bebe Rexha \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,883 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,927 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h5mLM5Kq4G.md) - [plain]
 | 72 | [Jungle](https://open.spotify.com/track/3fSDSeR4mOGCldB3nhq7M1) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [USB](https://open.spotify.com/album/476NL3NiMsw9ptdw9j7oYd) | 3:18 |
 | 73 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
 | 74 | [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 |
-| 75 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:07 |
+| 75 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 |
 
-Snapshot ID: `MTY2OTgxNzQyNSwwMDAwMDAwMDY5Yzg2NzBiMGI0NjM0YTc1YzY1ODU2NTQxYWZmMDNh`
+Snapshot ID: `MTY2OTgxNzQyNSwwMDAwMDAwMDhhZGVjMmExN2Y3Y2E0NTVhZTY5OTE3MjViMzY2MGU3`

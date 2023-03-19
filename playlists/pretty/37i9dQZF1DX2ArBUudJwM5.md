@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Subamos el volumen a las mujeres \. Co\-curada por Maria Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,225 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,257 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 17 | [La Araña](https://open.spotify.com/track/4hOPF9upeZmmpXCXpro2bs) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [La Araña](https://open.spotify.com/album/7Fb2WjHd01JQGL6lKleSv7) | 2:29 |
 | 18 | [ESTÁS BUENÍSIMO](https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [ESTÁS BUENÍSIMO](https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5) | 3:31 |
 | 19 | [Faroles](https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Faroles](https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0) | 2:58 |
-| 20 | [Una Copa](https://open.spotify.com/track/1GSTIl2aoajD9UCQqW0SDX) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Una Copa](https://open.spotify.com/album/1fT8eNTmfMdwv08d60IknK) | 2:21 |
-| 21 | [SOLA](https://open.spotify.com/track/4m7ZXTzncCmDo1yCjNC4xh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [SOLA](https://open.spotify.com/album/6ibXgT9otExjpjJBdgzkp9) | 2:55 |
+| 20 | [SOLA](https://open.spotify.com/track/4m7ZXTzncCmDo1yCjNC4xh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [SOLA](https://open.spotify.com/album/6ibXgT9otExjpjJBdgzkp9) | 2:55 |
+| 21 | [Una Copa](https://open.spotify.com/track/1GSTIl2aoajD9UCQqW0SDX) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Una Copa](https://open.spotify.com/album/1fT8eNTmfMdwv08d60IknK) | 2:21 |
 | 22 | [Moon](https://open.spotify.com/track/1tosKE9RoZJeEmWJlhhZUv) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Moon](https://open.spotify.com/album/57uuWnwvILadWNMwTVOdZY) | 2:47 |
 | 23 | [Flower Power](https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:18 |
 | 24 | [Carajo](https://open.spotify.com/track/77AKXWSJHnHscFfovjvFJI) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Carajo](https://open.spotify.com/album/2bFagscYwDpB7WWoWJEHt2) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [TurraDesquiciá](https://open.spotify.com/track/5SH41WtAECBRfkdMvG8JBa) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4) | [TurraDesquiciá](https://open.spotify.com/album/2vLdxEnXKZYcnpV19qsXbh) | 2:18 |
 | 50 | [Pa las Gatas](https://open.spotify.com/track/4eOdZZe6wLFfHE3p99JDp6) | [Louly](https://open.spotify.com/artist/4iXaV8MoL2JmP9yhsPYv0Q), [Dj Lauuh](https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF) | [Pa las Gatas](https://open.spotify.com/album/5Lpze9WyNbQrSudLoe2xlv) | 2:25 |
 
-Snapshot ID: `MTY3ODEyNjA0MiwwMDAwMDAwMDVmMTJmYjU4YWI1ZjkxNTliYjE4YmY0ZmNjN2YzYjlh`
+Snapshot ID: `MTY3ODEyNjA0MiwwMDAwMDAwMGQyM2I0MWVkOTE3MTBiMmZhZmY5NjEyNzVlMmNjODE2`

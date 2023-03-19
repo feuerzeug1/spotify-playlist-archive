@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-289 songs - 21 hr 3 min
+290 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Sometimes We Do](https://open.spotify.com/track/4iWhQq5tD1XZVRhhpFdIS4) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Sometimes We Do](https://open.spotify.com/album/7cr2yeKvQHEpvvTPcl29zs) | 3:24 | 2023-02-14 |  |
 | [Song Dust](https://open.spotify.com/track/6xyDGPD0MeceKsXQ0OcZ8y) | [Karl Strømme](https://open.spotify.com/artist/5jw4NHPslG7CRCah8PbK7F) | [Song Dust](https://open.spotify.com/album/3gjZxipq6EELnrScGPc750) | 5:33 | 2022-02-03 | 2023-01-22 |
 | [Song Of Yearning](https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 8:16 | 2021-12-17 | 2022-11-19 |
+| [Sonne](https://open.spotify.com/track/77rbW6F9WjICIjf518rzhA) | [Vincent Meissner](https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL), [Josef Zeimetz](https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca), [Henri Reichmann](https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7) | [Wille](https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK) | 4:54 | 2023-03-16 |  |
 | [Sora](https://open.spotify.com/track/5uJ3moeNy2VtiI2elT6Lf6) | [Masako Ohta](https://open.spotify.com/artist/2pgRPx86AAtD7tiLhDxipZ), [Matthias Lindermayr](https://open.spotify.com/artist/5bfKMWNpRfMCx9TOMYYUyz) | [Sora](https://open.spotify.com/album/33lnTreKJcXGwUwsKAhmxY) | 3:45 | 2022-09-14 | 2022-11-10 |
 | [Sound Flower](https://open.spotify.com/track/6ihL2LDx69EHKQQgtWRvLd) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 5:55 | 2022-05-26 | 2022-10-08 |
 | [Space Wales](https://open.spotify.com/track/75xI0ZJzkULqWgDlSMOxmG) | [Petter Rylén](https://open.spotify.com/artist/6NEDpDwNHfds11P15WZu7c) | [Space Wales](https://open.spotify.com/album/4DhBbkOPIrXBILOiz9irUB) | 4:24 | 2021-12-17 | 2022-09-09 |
@@ -282,7 +283,7 @@
 | [We´ll Be Together Again](https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:05 | 2021-12-17 | 2022-08-18 |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-11-11 |  |
 | [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2021-12-17 | 2022-03-12 |
-| [Where Do We Go From Here](https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV) | [Benjamin Lackner](https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jérôme Regard](https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Last Decade](https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj) | 3:49 | 2023-03-09 |  |
+| [Where Do We Go From Here](https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV) | [Benjamin Lackner](https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jérôme Regard](https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Last Decade](https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj) | 3:49 | 2023-03-09 | 2023-03-19 |
 | [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 | 2023-02-23 |  |
 | [Winter](https://open.spotify.com/track/0TY99mhZgjAT1Nv3b2fnZr) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Winter](https://open.spotify.com/album/6y81cvtV64YclRmmivCI8U) | 5:29 | 2022-08-18 | 2022-09-01 |
 | [Winx](https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI) | [Echoes](https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx) | 5:07 | 2022-05-25 | 2022-11-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 94924,
+  "num_followers": 95019,
   "original_name": "Enganchados: Lentos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NjAzODMzOSwwMDAwMDAwMDg4ODQ2ZTk5ZWUzMGU3MDg2YTU4NzA2ZjlhYjcyMzU2",
+  "snapshot_id": "MTU5NjAzODMzOSwwMDAwMDAwMDlhYTRhZjcyNjQwYjAwYzg0Y2FlNzM2MGIwNDkyM2M1",
   "tracks": [
     {
       "added_at": "2020-07-29 15:58:59",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "My Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "18 Til I Die",
-        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 291666,
-      "name": "Have You Ever Really Loved A Woman?",
-      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 272133,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "18 Til I Die",
+        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "Have You Ever Really Loved A Woman?",
+      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
     },
     {
       "added_at": "2020-07-29 15:58:59",

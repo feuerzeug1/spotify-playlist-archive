@@ -4,7 +4,7 @@
 
 > Co\-curated by a number of our ambassadors for International Women’s Day\. Cover: Jamala.
 
-1,052 songs - 2 day 10 hr 12 min
+1,053 songs - 2 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -938,6 +938,7 @@
 | [worms](https://open.spotify.com/track/2gZPnIg5c7lZ5EcPgIqMLB) | [Karolina Beranova](https://open.spotify.com/artist/7qDwporWq9dPHjhV87Mb6W) | [please be gentle](https://open.spotify.com/album/1WQ8GV87JXh1SY5ulROxOr) | 2:34 | 2022-05-04 | 2022-06-01 |
 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/4Yip3hds5IHyT7AqoNHfmX) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:19 | 2022-01-05 | 2023-01-05 |
 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2023-03-01 | 2023-03-18 |
+| [Wuthering Heights \- 2018 Remaster](https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside \(2018 Remaster\)](https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc) | 4:28 | 2023-03-05 |  |
 | [Wytrzymam](https://open.spotify.com/track/1cbgaTsV1q6qZ3sfhIVHxh) | [Pola Rise](https://open.spotify.com/artist/3MTuYlKV6qbJXPLh7kmf4B) | [Wytrzymam](https://open.spotify.com/album/2NKBpcoWvoqam8c3JlBUYf) | 4:03 | 2023-02-01 | 2023-03-02 |
 | [x ti](https://open.spotify.com/track/6Ih6h9g3dUDc4MvIunXv6g) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [x ti](https://open.spotify.com/album/6ZeF95nJeLg3UIxQeppWKU) | 2:41 | 2023-02-01 | 2023-03-02 |
 | [Xin loi anh qua phien](https://open.spotify.com/track/0ZJcKRLc0dZp24G6MkvSnq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Ten On Ten](https://open.spotify.com/album/7nKT6mGRVlK7P6JZEMIvgX) | 4:05 | 2022-04-06 | 2022-05-05 |
@@ -966,7 +967,7 @@
 | [¡Falta!](https://open.spotify.com/track/2RvK4GS1RoAtFImYinow1Z) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R) | [Jesica Alegría](https://open.spotify.com/album/2UXcnZ1VHKmIOlPvZvi3lm) | 2:42 | 2022-05-04 | 2022-06-01 |
 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-09-07 | 2022-10-05 |
 | [¿Y Cómo?](https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 3:32 | 2023-01-04 | 2023-02-02 |
-| [¿Y Tú Qué Esperas?](https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [¿Y Tú Qué Esperas?](https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI) | 3:20 | 2023-03-01 |  |
+| [¿Y Tú Qué Esperas?](https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [¿Y Tú Qué Esperas?](https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI) | 3:20 | 2023-03-01 | 2023-03-19 |
 | [À tout jamais](https://open.spotify.com/track/048gupABMSEZEm1UEkxbTP) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [À tout jamais](https://open.spotify.com/album/7Lkk74RsYAycae1qV1fdxz) | 3:46 | 2022-09-07 | 2023-01-05 |
 | [Återvändsgränd](https://open.spotify.com/track/2glvJpNPCnuhAKLq1lIdWz) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Så mycket bättre 2022 \- Tolkningarna](https://open.spotify.com/album/20TlyZgpi1xGo3C4ECtG7h) | 3:15 | 2023-01-12 | 2023-02-02 |
 | [Återvändsgränd](https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Återvändsgränd](https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA) | 3:15 | 2023-01-04 | 2023-01-25 |

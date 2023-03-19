@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,805 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,864 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 34 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 35 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 |
 | 36 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 |
-| 37 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
-| 38 | [pour up](https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:05 |
+| 37 | [pour up](https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:05 |
+| 38 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
 | 39 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
 | 40 | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\)](https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\)](https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP) | 5:10 |
 | 41 | [The Worst In Me](https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:46 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 46 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
 | 47 | [Rose Rouge](https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Rose Rouge](https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D) | 4:37 |
 | 48 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 |
-| 49 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
-| 50 | [Wake Up, Get Down](https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Wake Up, Get Down](https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6) | 4:19 |
+| 49 | [LET IT RAIN](https://open.spotify.com/track/0zPiT8nesNRCXKWvK7ryHh) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN](https://open.spotify.com/album/3JYRLABN6Vnnq7aEb39mZ4) | 3:41 |
+| 50 | [Nobody Khan \(Ain't Nobody\)](https://open.spotify.com/track/0KynSPlg3g8OdZq6irgMH2) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Nobody Khan \(Ain't Nobody\)](https://open.spotify.com/album/7gxUTuaxmc484W0mfNyMk1) | 3:01 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGNhYzdmYTk3MmMxYzc0ZmIxNzI2YmM2YjAwMDU1NWJi`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDU1NmU4OTI3MjE2OGRiYzM3NGJlNGIzNjJiYjcyOWVi`

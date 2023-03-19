@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-191 songs - 13 hr 55 min
+192 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Englishman In New York](https://open.spotify.com/track/1pKn0aqTVilaBJDKWJ6Aaf) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun \(Expanded Edition\)](https://open.spotify.com/album/4NulPUAJ3mgNc7A0yohd2z) | 4:27 | 2018-12-12 | 2022-11-13 |
 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 | 2018-12-12 |  |
 | [Euerybody's Got To Learn Sometime](https://open.spotify.com/track/0Cj5bxoNKUjF2pBEsyvCSH) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [The Korgis Best](https://open.spotify.com/album/4ZHy6lwP7dacMqbTR221oW) | 4:11 | 2018-12-12 | 2022-07-29 |
-| [Everybody's Got To Learn Sometime](https://open.spotify.com/track/2PxyiPwogw6C9yu1jRgFiA) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [The Korgis Kollection](https://open.spotify.com/album/13sFIOMblyr8x7TwD546jN) | 4:11 | 2018-12-12 |  |
+| [Everybody's Got To Learn Sometime](https://open.spotify.com/track/2PxyiPwogw6C9yu1jRgFiA) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [The Korgis Kollection](https://open.spotify.com/album/13sFIOMblyr8x7TwD546jN) | 4:11 | 2018-12-12 | 2023-03-19 |
 | [Exile](https://open.spotify.com/track/7DHYLGnhdmeladlQ0LM0Nf) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Stars](https://open.spotify.com/album/72w5kKwWOO5b065Flb8hv2) | 4:22 | 2018-12-12 | 2022-11-14 |
 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 | 2018-12-12 |  |
 | [Eye In The Sky](https://open.spotify.com/track/39nNw4Q0wdS1N2185oD05x) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky](https://open.spotify.com/album/3rdohna6oEL211dRStkmOw) | 4:36 | 2018-12-12 | 2022-07-29 |
@@ -191,6 +191,7 @@
 | [White Eagle \- 1995 Remaster](https://open.spotify.com/track/5NNSddZXHgTFSbH2cUaH3Y) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [White Eagle](https://open.spotify.com/album/2A0SJoM4mCeUrnnahHLNOw) | 4:34 | 2018-12-12 |  |
 | [White Eagle \- 1995 Remaster](https://open.spotify.com/track/0D0V9aHKDAf2pGeYpkv8bN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [The Virgin Years: 1977\-1983](https://open.spotify.com/album/4m0s6OQ4k2mLNJRXhPQlX8) | 4:35 | 2018-12-12 | 2022-07-29 |
 | [Wild Theme](https://open.spotify.com/track/3y4PR76Jfpt1grXViXwWoh) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Music From Local Hero](https://open.spotify.com/album/6fLhTUrZZ1kppTuFw2Jboa) | 3:38 | 2018-12-12 | 2022-07-29 |
+| [Wild Theme](https://open.spotify.com/track/0RDDGPBOc9hgqQiBHvCBVi) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Local Hero](https://open.spotify.com/album/0xWqprLlB2Rjve0qQPoaaw) | 3:39 | 2018-12-12 |  |
 | [Will You?](https://open.spotify.com/track/4PtZnR7nR4zUlSm1efYvry) | [Hazel O'Connor](https://open.spotify.com/artist/7Dwkme6QjRdS4dF4eNNJ5Y) | [Breaking Glass](https://open.spotify.com/album/02m7p5Qxr1RZld36bUBjVK) | 4:49 | 2018-12-12 | 2022-07-29 |
 | [With God On Our Side](https://open.spotify.com/track/2UesoZg57jd9tvS81tFOHa) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/30C3EQGiT0zJQAI37XR9R7) | 6:37 | 2018-12-12 | 2022-07-29 |
 | [With God On Our Side](https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 6:40 | 2018-12-12 |  |

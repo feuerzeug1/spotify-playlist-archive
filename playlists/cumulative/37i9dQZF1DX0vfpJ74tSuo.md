@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-162 songs - 9 hr 57 min
+163 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [My Home Is In the Delta](https://open.spotify.com/track/5Qg734lkKdaPeE8ZYA6EwA) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [30 Delta Blues Classics](https://open.spotify.com/album/0iWDn4znn8wjK2prk2GBXR) | 4:01 | 2022-05-25 | 2022-07-29 |
 | [Natural Blues](https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Discover](https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl) | 4:07 | 2022-05-27 |  |
 | [Newbury](https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl) | [Emiliano Savini](https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv), [Liliana Richter](https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms) | [Newbury](https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3) | 3:18 | 2022-10-14 |  |
-| [North Carolina Bound \(Acoustic Duo\)](https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm) | [Lil Ed Williams](https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP) | [Keep On Walkin'](https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu) | 4:59 | 2023-01-20 |  |
+| [North Carolina Bound \(Acoustic Duo\)](https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm) | [Lil Ed Williams](https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP) | [Keep On Walkin'](https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu) | 4:59 | 2023-01-20 | 2023-03-19 |
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-25 |  |
 | [Only Porter at the Station](https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 4:27 | 2022-10-10 |  |
 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 | 2022-05-25 |  |
@@ -161,6 +161,7 @@
 | [Two Step Too](https://open.spotify.com/track/3qFPfJOLQanNyGcvduvG6p) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 3:06 | 2022-10-10 |  |
 | [Walkin Man](https://open.spotify.com/track/3lw5QiH1GDqRFVtpQpOd4g) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [I Started Out With Nothin And I Still Got Most Of It Left](https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr) | 2:42 | 2022-05-25 |  |
 | [Walking My Troubles Away](https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9) | [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Mystery Man](https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt) | 4:54 | 2022-05-25 |  |
+| [Wasting Time With You](https://open.spotify.com/track/6QMZqQ1BqqeNVknaEWzUhe) | [Pat Hodge](https://open.spotify.com/artist/2jy7wJNqGfrBHQpME3q2mk) | [Berkshire House Recordings Pt\. I](https://open.spotify.com/album/5DNRTQeL3O0kPgsCnqzXOi) | 2:56 | 2023-03-03 |  |
 | [Wee Baby Blues](https://open.spotify.com/track/0LA1P4jVcRRY5RgYPONRy2) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 3:20 | 2022-07-08 |  |
 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 | 2022-05-27 |  |
 | [Who You Gonna Hoo\-Doo Now](https://open.spotify.com/track/65LUKFzNaTOChsZPAZIUq2) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [The Beginning \(Remastered\)](https://open.spotify.com/album/5CijRmgFDpNamMyRoRGoZf) | 5:04 | 2022-07-08 |  |

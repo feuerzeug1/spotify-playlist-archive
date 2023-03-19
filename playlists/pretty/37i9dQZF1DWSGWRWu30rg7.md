@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  JESENN
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,758 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,760 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 13 | [Circles \- Live Version](https://open.spotify.com/track/3LCrnrz9vhjRaofttLF21T) | [Samo Rafael](https://open.spotify.com/artist/4VacCuYOOHgyuwVYpKq28y), [fortePLAY Music](https://open.spotify.com/artist/3ZzK76v0crPeRWWN0LjFmx) | [Circles \(Live Version\)](https://open.spotify.com/album/7gLXOYl3Y6Ne5XX2YM8fBS) | 3:51 |
 | 14 | [Wild Love](https://open.spotify.com/track/4igN6X4wwEwlSM51cYHqeY) | [Low Distance](https://open.spotify.com/artist/0zFT1LIDWKAq8iCHSK14bg) | [Wild Love](https://open.spotify.com/album/0FseCQZWhEbZIr6OdFec2p) | 3:16 |
 | 15 | [Roshan](https://open.spotify.com/track/5yEsfpScemXuxvL87s8VUC) | [Broddyfae](https://open.spotify.com/artist/2EwwnpXBQjTc4e9KkPWfLx) | [Roshan](https://open.spotify.com/album/45e0ENK58Lzmpvccu4Zck6) | 3:10 |
-| 16 | [NORTH$IDEKINGZ](https://open.spotify.com/track/6ZVaI6eQGEh54rO2w7f9ir) | [Kardo Arghost](https://open.spotify.com/artist/3a1ukwjBc1a3RjPoW4l9lH), [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld), [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Diego Xoxa](https://open.spotify.com/artist/2TKPJd286sTK900oy5j19d) | [NORTH$IDEKINGZ](https://open.spotify.com/album/7KCjkBFQq577jfzIBgJ96Y) | 5:05 |
+| 16 | [NORTH$IDEKINGZ](https://open.spotify.com/track/6ZVaI6eQGEh54rO2w7f9ir) | [Kardo Arghost](https://open.spotify.com/artist/3a1ukwjBc1a3RjPoW4l9lH), [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld), [El Six](https://open.spotify.com/artist/0mszflxsQbT6tB6MBWx09D), [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Diego Xoxa](https://open.spotify.com/artist/2TKPJd286sTK900oy5j19d) | [NORTH$IDEKINGZ](https://open.spotify.com/album/7KCjkBFQq577jfzIBgJ96Y) | 5:05 |
 | 17 | [Lovecruise](https://open.spotify.com/track/0QnYOnQ0MOOxVsI1sJf6nh) | [8rook D](https://open.spotify.com/artist/7zMK0MTIETByxESanmjv3Z), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Lovecruise](https://open.spotify.com/album/2YIPxvgFE3xWilsWggSUTh) | 4:03 |
 | 18 | [Let Go / The Remain / Welcome \(Live at Shoebox Sessions\)](https://open.spotify.com/track/7AdKqsTfcBGLRXN5tIIjKx) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM), [Shoemaker](https://open.spotify.com/artist/51HB3L9TveHiqJkU9dNs6L) | [Let Go / The Remain / Welcome \(Live at Shoebox Sessions\)](https://open.spotify.com/album/3kIVv7y6hJkLOn4D2L9eQ3) | 6:12 |
 | 19 | [Moving On](https://open.spotify.com/track/1FAoS4oRLG8LF954FncvmW) | [Mandy Robins](https://open.spotify.com/artist/5iOVM0hIzFufmc8186STkg) | [Moving On](https://open.spotify.com/album/5HxjsLtTDhJkT5fdGpk1vv) | 3:07 |

@@ -4,7 +4,7 @@
 
 > Uplifting anthems to power you through 'til the weekend.
 
-471 songs - 1 day 4 hr 27 min
+472 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,7 +470,8 @@
 | [You Can Call Me Al](https://open.spotify.com/track/02yw9dohfEmcPWOzFJ30Bs) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon \(Standard Version\)](https://open.spotify.com/album/3H7dMVS2PZHdr63Y7brNFE) | 4:36 | 2020-02-18 | 2022-07-29 |
 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 | 2020-08-27 |  |
 | [You Can Call Me Al](https://open.spotify.com/track/0zXG0Iyr3kCQzdAcaIGeVs) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Feel Good Friday](https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV) | 4:41 | 2020-08-27 | 2022-11-13 |
-| [You Got The Love \- New Voyager Radio Edit](https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX) | [The Source & Candi Staton](https://open.spotify.com/artist/2xkmkfqXFQHMk0zhFXMUq6), [The Source](https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [You Got the Love](https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB) | 3:13 | 2020-02-18 |  |
+| [You Got The Love \- New Voyager Radio Edit](https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX) | [The Source & Candi Staton](https://open.spotify.com/artist/2xkmkfqXFQHMk0zhFXMUq6), [The Source](https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [You Got the Love](https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB) | 3:13 | 2020-02-18 | 2023-03-19 |
+| [You Got The Love \- New Voyager Radio Edit](https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF) | [The Source & Candi Staton](https://open.spotify.com/artist/2xkmkfqXFQHMk0zhFXMUq6), [The Source](https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et), [Now Voyager](https://open.spotify.com/artist/5xC2m2EMWiVEgnAToVZku0) | [You Got the Love](https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs) | 3:13 | 2020-08-27 |  |
 | [You Gotta Be](https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [I Ain't Movin'](https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU) | 4:05 | 2020-02-18 |  |
 | [You Make Me Feel Like Dancing](https://open.spotify.com/track/7HUd6WF7HUvttHSpOWhjxj) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Journey – The Essential Leo Sayer](https://open.spotify.com/album/2qcpKdOFBiNMV7DNnTCW6x) | 3:38 | 2019-08-05 | 2020-02-06 |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2019-07-29\* |  |

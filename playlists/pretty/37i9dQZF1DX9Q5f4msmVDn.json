@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 6513,
+  "num_followers": 6542,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGViMWNjYzg1MTBjZTE3M2VjMmEyMjE1MDNmYmNmNDVh",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDZhZGNkMDQ1NTAwYmZlYzQ1MjM2MWFjN2IxZTYwZDBh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 193740,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2022-10-01 16:00:00",

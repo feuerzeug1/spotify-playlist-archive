@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Depeche Mode",
-  "num_followers": 381914,
+  "num_followers": 382202,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMTIwMCwwMDAwMDAwMDdiOWI0ZGJhZjFiMGJlZjc0YTAwZjc2ZmVhZTdlZDJm",
+  "snapshot_id": "MTY3OTAxMTIwMCwwMDAwMDAwMGZjMTkyYzdjZDFmODNiMjkxMTQ5NzJhMGFjMTBmNzgy",
   "tracks": [
     {
       "added_at": "2023-02-10 00:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 271560,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 271560,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Everybody Wants",
-        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Could Have Been Me",
-      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 240213,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Everybody Wants",
+        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 173320,
       "name": "Town Called Malice",
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
         "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 266160,
       "name": "Ashes to Ashes - 2017 Remaster",
       "url": "https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Songbird - 2004 Remaster",
-      "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+      "duration_ms": 200813,
+      "name": "Songbird - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 713191,
+      "name": "Pneuma",
+      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -1039,18 +1055,34 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Fear Inoculum",
-        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
       "artists": [
         {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 713191,
-      "name": "Pneuma",
-      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "A Message to You Rudy - 2015 Remaster",
+      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1077,38 +1109,6 @@
       "url": "https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p"
     },
     {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "A Message to You Rudy - 2015 Remaster",
-      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "The Shape I'm Takin'",
-        "url": "https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 215365,
-      "name": "The Shape I'm Takin'",
-      "url": "https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ"
-    },
-    {
       "added_at": "2023-03-10 00:00:00",
       "album": {
         "name": "My Cosmos Is Mine",
@@ -1123,22 +1123,6 @@
       "duration_ms": 316899,
       "name": "My Cosmos Is Mine",
       "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1159,6 +1143,38 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "The Shape I'm Takin'",
+        "url": "https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 215365,
+      "name": "The Shape I'm Takin'",
+      "url": "https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -1175,38 +1191,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "His N Hers",
-        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Babies",
-      "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Return of the Dream Canteen",
-        "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 202888,
-      "name": "The Drummer",
-      "url": "https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Sound Affects",
         "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 212786,
       "name": "That's Entertainment",
       "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "His N Hers",
+        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Screaming Suicide",
-        "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 330453,
-      "name": "Screaming Suicide",
-      "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Be Here Now (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 355866,
       "name": "Stand By Me - Remastered",
       "url": "https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Screaming Suicide",
+        "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
     },
     {
       "added_at": "2023-02-10 00:00:00",

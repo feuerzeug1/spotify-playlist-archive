@@ -4,7 +4,7 @@
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Chino Pacas
 
-331 songs - 17 hr 36 min
+332 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Judge Not](https://open.spotify.com/track/6NFbwWsDoXyqLKZsQq9dVP) | [The Bromigos](https://open.spotify.com/artist/7IstQm3HsOZGoNhX0LJo0C) | [Judge Not](https://open.spotify.com/album/1JLe0I0YpC6hJmEIkW265O) | 2:38 | 2023-02-15 | 2023-03-18 |
 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 | 2022-01-05 | 2022-04-23 |
 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 | 2022-07-08 | 2023-01-25 |
-| [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 | 2023-01-24 |  |
+| [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 | 2023-01-24 | 2023-03-19 |
 | [La 69](https://open.spotify.com/track/63uEWuaYuj733OpgVTeXi0) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX) | [La 69](https://open.spotify.com/album/0X1XUNnwxRztMcOCggZEC9) | 2:56 | 2022-01-05 | 2022-03-17 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-09-23 | 2023-01-25 |
 | [La Bicicleta](https://open.spotify.com/track/4IMcI4zguv2V9g1DHbK98T) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Bicicleta](https://open.spotify.com/album/10B51Bzh7TxUcm3t08GpQ1) | 3:45 | 2022-04-29 | 2022-09-24 |
@@ -240,6 +240,7 @@
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-27 | 2022-10-29 |
 | [Pasos Lentos](https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:04 | 2022-07-08 | 2022-09-24 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-01-05 | 2022-04-08 |
+| [Peso a Peso](https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:37 | 2023-03-17 |  |
 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 | 2022-02-25 | 2022-08-13 |
 | [Pistol Packin](https://open.spotify.com/track/6Cel5MA3hUownZYYp13pO6) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Parkside Baby](https://open.spotify.com/album/40xueAJsLMp79qy7VqLz2P) | 2:03 | 2022-10-21 | 2023-01-22 |
 | [PobreDiablo \- Interlude](https://open.spotify.com/track/6FHySSMAlWOPH2TbzKEzRS) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PobreDiablo \(Interlude\)](https://open.spotify.com/album/1RgNyfYRFkoMGW3hLusIf2) | 2:14 | 2022-02-11 | 2022-03-17 |

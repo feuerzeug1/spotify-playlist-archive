@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh.
 
-474 songs - 1 day 0 hr 5 min
+475 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 | 2021-12-17 | 2022-06-18 |
 | [SO DONE](https://open.spotify.com/track/5psEZhQu6lukjhavJo4AbC) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SO DONE](https://open.spotify.com/album/5fyH2H1o23bLNIxGu9JcMq) | 2:06 | 2022-03-25 | 2022-04-20 |
 | [So Sick \(feat\. blackbear\)](https://open.spotify.com/track/2LAqcZuU9nbOZrC7Nzdvtu) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 2:30 | 2022-03-25 | 2022-04-12 |
-| [Solo \(feat\. Demi Lovato\)](https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Solo \(feat\. Demi Lovato\)](https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3) | 3:42 | 2022-09-16 |  |
+| [Solo \(feat\. Demi Lovato\)](https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Solo \(feat\. Demi Lovato\)](https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3) | 3:42 | 2022-09-16 | 2023-03-19 |
 | [Someday](https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:07 | 2021-12-17 | 2022-02-26 |
 | [Sooner Or Later](https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sooner Or Later](https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt) | 3:20 | 2022-03-25 | 2022-06-21 |
 | [SOS \(feat\. Aloe Blacc\)](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 2:37 | 2022-04-01 | 2022-04-14 |
@@ -419,6 +419,7 @@
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-12-17 |  |
 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 | 2022-03-25 | 2022-04-20 |
 | [The Difference](https://open.spotify.com/track/5Cbc3v4DKzrwQAv3hlA9Hn) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [The Difference](https://open.spotify.com/album/6xgSmmAAK2Yd0kLYUelbYk) | 3:30 | 2021-12-17 | 2022-07-29 |
+| [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-15 |  |
 | [The Lake \(with Wrabel\)](https://open.spotify.com/track/0gmgCD6OoJMcoK5af0exA2) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Lake \(with Wrabel\)](https://open.spotify.com/album/4N9N4ceWgEzBABI0kSMw5H) | 2:47 | 2022-03-25 | 2022-04-21 |
 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 | 2022-03-25 |  |
 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 | 2022-03-25 |  |

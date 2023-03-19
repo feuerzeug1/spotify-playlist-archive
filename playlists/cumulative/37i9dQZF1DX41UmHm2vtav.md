@@ -4,7 +4,7 @@
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-164 songs - 8 hr 49 min
+165 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Be Here Now](https://open.spotify.com/track/3ZRtq6OtMiPXAr3jAljdOg) | [KTRYNA](https://open.spotify.com/artist/46bk8TsKZAshaoaL8cgRk1), [Gabzy \(BR\)](https://open.spotify.com/artist/4TCvOlVbfcTA34FliS72y6), [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5b3ofKnyipHDmiAnQeCVcU) | 3:04 | 2022-06-29 | 2022-07-28 |
 | [Beija Flor](https://open.spotify.com/track/2JBkXipDDMP1RChUeD7tfo) | [Pedro Medz](https://open.spotify.com/artist/4qPshkDVlRqhZKRkz6tzmv), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Geminix](https://open.spotify.com/artist/0cXaSTZkPtEdKShc4HyYR7), [Ricca](https://open.spotify.com/artist/5q7nxrrFLk1f7QG0HkLTds), [Kasthree](https://open.spotify.com/artist/5NPVnsOCV3ts9rhTb268M6) | [Beija Flor](https://open.spotify.com/album/0LyL8O3RDdfV83W5mWLDTx) | 3:02 | 2022-06-29 | 2022-07-26 |
 | [Bem Melhor \- KVSH Remix](https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Bem Melhor \(KVSH Remix\)](https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ) | 3:03 | 2022-06-29 |  |
-| [Blind](https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl) | 3:00 | 2022-08-26 |  |
+| [Blind](https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9) | 2:59 | 2023-02-17 |  |
+| [Blind](https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl) | 3:00 | 2022-08-26 | 2023-03-19 |
 | [Boa Sorte \(Alok, Vanessa da Mata e Cat Dealers\)](https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Boa Sorte \(Alok, Vanessa da Mata e Cat Dealers\)](https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF) | 3:11 | 2023-02-17 |  |
 | [Cadê Você](https://open.spotify.com/track/2AetRP6CvIuYDGB1hOyOyY) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Cadê Você](https://open.spotify.com/album/2WfDm5tqsrSVe0h82I7TpP) | 2:32 | 2022-06-29 | 2022-07-29 |
 | [Can't Get Over You](https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY), [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [Can't Get Over You](https://open.spotify.com/album/5McVvbere3ujsgUgEp5gGR) | 2:22 | 2022-06-29 |  |

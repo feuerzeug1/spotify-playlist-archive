@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Zeph
 
-1,564 songs - 3 day 7 hr 41 min
+1,565 songs - 3 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Drugs](https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Drugs](https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf) | 2:35 | 2019-05-26\* | 2020-06-29 |
 | [Dry Spell](https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Dry Spell](https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK) | 3:27 | 2022-05-27 | 2022-07-30 |
 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 | 2022-09-20 |  |
+| [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-19 |  |
 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-04-23 | 2021-11-19 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-06-25 |
 | [e\-z \(feat\. UPSAHL & Blu DeTiger\)](https://open.spotify.com/track/2FsHjcNkT4usTdV2b407Iq) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:45 | 2022-03-18 | 2022-07-16 |
@@ -415,7 +416,7 @@
 | [Enough](https://open.spotify.com/track/7fuuoc674qrUMZeF7xnWd6) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Enough](https://open.spotify.com/album/7y2kwuXOjteuyzRq3MqZY2) | 4:03 | 2021-07-16 | 2022-07-16 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-01-27 |  |
 | [Evening Buffalo](https://open.spotify.com/track/6w40GgWhGts8g6779DPXR3) | [Felix Snow](https://open.spotify.com/artist/1qskAseW7apRxJBpYAO9Yk) | [Evening Buffalo](https://open.spotify.com/album/0F5sTi9lCzlAoZN7IQvqFs) | 2:36 | 2019-05-26\* | 2019-06-15 |
-| [ever fallen?](https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [ever fallen?](https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo) | 2:48 | 2022-12-16 |  |
+| [ever fallen?](https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [ever fallen?](https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo) | 2:48 | 2022-12-16 | 2023-03-19 |
 | [Evergreen](https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Evergreen](https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo) | 3:54 | 2022-06-17 | 2022-07-11 |
 | [Every Color \(with Foster The People\)](https://open.spotify.com/track/5wrmiwRiM8v52XuVElTm0k) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Every Color \(with Foster The People\)](https://open.spotify.com/album/5w22XGr5Z2yOHy4UdLrmqt) | 3:54 | 2020-03-08 | 2021-04-05 |
 | [Every Heart But Mine](https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Every Heart But Mine](https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8) | 3:15 | 2023-02-24 |  |

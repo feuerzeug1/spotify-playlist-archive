@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 498113,
+  "num_followers": 498336,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDJlZTZjNmVmYjVjNjViYzI0NWEzMzYyYmVlOWIwMDI5",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGE1MTU5OTBhN2Q1NWI0ZmRiNDlkZGUyNDNhYWVhNzlk",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -959,26 +959,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "Loved By You (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "More Than I Can Say",
         "url": "https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 153197,
       "name": "More Than I Can Say",
       "url": "https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "Loved By You (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1611,22 +1611,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Going Dumb",
-        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
+        "name": "Be Okay",
+        "url": "https://open.spotify.com/album/6HlvjQ7eUBKvCJmYcSJZwR"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
         }
       ],
-      "duration_ms": 168601,
-      "name": "Going Dumb",
-      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
+      "duration_ms": 141600,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY"
     }
   ],
   "unique_name": "Powerwalk!",

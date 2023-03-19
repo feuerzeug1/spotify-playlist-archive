@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: LAVI$H",
-  "num_followers": 1349614,
+  "num_followers": 1350003,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDBhOWU4YTk3NmNmYzZjOTJlNmRlMDQ3Y2JmMWNmYmI0",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDg3OTdmMDFmNGQ4YTk2NTkzZjkwNWY5YzM5ZGExYWZm",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -933,6 +933,38 @@
       "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
     },
     {
+      "added_at": "2022-07-22 04:15:47",
+      "album": {
+        "name": "Suspension of Disbelief",
+        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 236206,
+      "name": "Sunbleach",
+      "url": "https://open.spotify.com/track/0SOqMJNpQyB2QkSaZqUQzV"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "I Love Being Invisible",
+        "url": "https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "duration_ms": 181227,
+      "name": "I Love Being Invisible",
+      "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
+    },
+    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "STRAWBERRY LOUIS VUITTON (Ft. Thundercat, Maeta)",
@@ -957,22 +989,6 @@
       "url": "https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "I Love Being Invisible",
-        "url": "https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI"
-      },
-      "artists": [
-        {
-          "name": "Rowena Fysx",
-          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
-        }
-      ],
-      "duration_ms": 181227,
-      "name": "I Love Being Invisible",
-      "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "SUGAR DIVE",
@@ -991,22 +1007,6 @@
       "duration_ms": 194109,
       "name": "SUGAR DIVE",
       "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
-    },
-    {
-      "added_at": "2022-07-22 04:15:47",
-      "album": {
-        "name": "Suspension of Disbelief",
-        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
-      },
-      "artists": [
-        {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        }
-      ],
-      "duration_ms": 236206,
-      "name": "Sunbleach",
-      "url": "https://open.spotify.com/track/0SOqMJNpQyB2QkSaZqUQzV"
     },
     {
       "added_at": "2022-07-24 02:54:27",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Gonna Go",
-        "url": "https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 177259,
-      "name": "Gonna Go",
-      "url": "https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Chrome Bull",
@@ -1093,6 +1077,22 @@
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
+      "added_at": "2022-07-15 04:02:46",
+      "album": {
+        "name": "Dog Daze",
+        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 144584,
+      "name": "Brewster",
+      "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
+    },
+    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Most Men - A COLORS SHOW",
@@ -1107,6 +1107,22 @@
       "duration_ms": 253375,
       "name": "Most Men - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Gonna Go",
+        "url": "https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 177259,
+      "name": "Gonna Go",
+      "url": "https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 222334,
       "name": "Water My Heart (feat. Mereba)",
       "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
-    },
-    {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "Dog Daze",
-        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 144584,
-      "name": "Brewster",
-      "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
     },
     {
       "added_at": "2022-08-19 04:17:01",
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "LIMBO (Sped Up Version)",
+        "url": "https://open.spotify.com/album/5gKGT4zR71qZ5ylVvWjzNB"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 212784,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/4zt9CUUI373CnqS91c76fV"
+    },
+    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Good Mornin'",
@@ -1235,22 +1251,6 @@
       "duration_ms": 142351,
       "name": "Good Mornin'",
       "url": "https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "LIMBO (Sped Up Version)",
-        "url": "https://open.spotify.com/album/5gKGT4zR71qZ5ylVvWjzNB"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 212784,
-      "name": "LIMBO",
-      "url": "https://open.spotify.com/track/4zt9CUUI373CnqS91c76fV"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "exodus the north star",
-        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "exodus the north star",
-      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Coffee in the Morning",
         "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 226453,
       "name": "Coffee in the Morning",
       "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 205354,
+      "name": "exodus the north star",
+      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1557,6 +1557,22 @@
       "url": "https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "What About Me?",
@@ -1587,22 +1603,6 @@
       "duration_ms": 265680,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt"
     },
     {
       "added_at": "2022-12-16 05:17:19",

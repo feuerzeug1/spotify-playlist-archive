@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "(still) WON'T4GETU",
+        "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374116,
+      "name": "(still) WON'T4GETU",
+      "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
+    },
+    {
+      "album": {
         "name": "Nfs Underground",
         "url": "https://open.spotify.com/album/1NpicqiYoLiAvCQlCQHvqM"
       },
@@ -60,7 +86,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 247234,
       "name": "2M3 2U",
       "url": "https://open.spotify.com/track/11wmWBDltWMVsHDIDRWVCc"
@@ -2310,7 +2336,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 156573,
       "name": "Elevated - Guz Remix",
       "url": "https://open.spotify.com/track/77ShCZTPBSOpX6D03RXKoP"
@@ -4790,6 +4816,24 @@
       "duration_ms": 134929,
       "name": "Luv 4 Real",
       "url": "https://open.spotify.com/track/54PGeitLMNZPRjA0Bhf6im"
+    },
+    {
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
     },
     {
       "album": {

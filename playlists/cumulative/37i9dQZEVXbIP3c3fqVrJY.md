@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-955 songs - 2 day 0 hr 49 min
+956 songs - 2 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [DĚLÁM TO PRO](https://open.spotify.com/track/2G35xNkg2HJ2K9utWEDq36) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [TRAPPIN LONELY](https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn) | 2:40 | 2022-05-30 | 2022-06-03 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-04-27 |
+| [Eat Your Young](https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt) | 4:02 | 2023-03-18 |  |
 | [EL PRESIDENTO](https://open.spotify.com/track/1ENsFFWq3SgzSIO473iHb2) | [Kabát](https://open.spotify.com/artist/2f1Czzz5n4BX80U6cksGr9) | [EL PRESIDENTO](https://open.spotify.com/album/2fz4P4mxu63oE9Pmd5Wpdx) | 2:03 | 2022-10-22 | 2022-10-30 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-02-05 | 2022-02-07 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2022-03-26 | 2022-03-28 |
@@ -758,7 +759,7 @@
 | [So Kere$](https://open.spotify.com/track/0MnTIb6C1DdhW00EeKUTpp) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [So Kere$](https://open.spotify.com/album/287O76jTne4yZ3JphdaWFL) | 2:45 | 2022-04-12 | 2022-04-17 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-11 | 2022-05-15 |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-27\* | 2023-02-21 |
-| [SOS](https://open.spotify.com/track/0fThlG4YBkCsRVSJkGpWAX) | [Koky](https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [SOS](https://open.spotify.com/album/5roPFnz41lhHqBL0l0kEQ4) | 3:44 | 2022-08-20 |  |
+| [SOS](https://open.spotify.com/track/0fThlG4YBkCsRVSJkGpWAX) | [Koky](https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [SOS](https://open.spotify.com/album/5roPFnz41lhHqBL0l0kEQ4) | 3:44 | 2022-08-20 | 2023-03-19 |
 | [SOS](https://open.spotify.com/track/20hAlPd1hKtN0PvLk28N1L) | [Koky](https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [SOS](https://open.spotify.com/album/5kEGmuoE7tJK8j1D9jbCmw) | 3:44 | 2022-06-08 | 2022-08-21 |
 | [Soundtrack](https://open.spotify.com/track/6FAQzRCF0unjLA8DBurmKp) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:39 | 2023-02-04 |  |
 | [SOUNDTRACK MALEJ METROPOLY](https://open.spotify.com/track/5H5j58iWC7dR0U2NOnBfXX) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [BIG BOY FM](https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5) | 2:32 | 2022-06-21 | 2022-06-23 |

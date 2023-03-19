@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: JAWNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,704,121 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,704,060 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 39 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 |
 | 40 | [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 |
 | 41 | [Cognitive Dissonance](https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Cognitive Dissonance](https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb) | 2:56 |
-| 42 | [Talk to You](https://open.spotify.com/track/6suxUONtPxkEPL3JHGX9SX) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:34 |
-| 43 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
+| 42 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
+| 43 | [Talk to You](https://open.spotify.com/track/6suxUONtPxkEPL3JHGX9SX) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:34 |
 | 44 | [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 |
 | 45 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 46 | [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 51 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 | 52 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 |
 | 53 | [slow down](https://open.spotify.com/track/2IKix80lBA5ppm6096p5U7) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [slow down](https://open.spotify.com/album/6esHeLToAEKkGVkjTbmd1i) | 2:50 |
-| 54 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 |
-| 55 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 |
+| 54 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 |
+| 55 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 |
 | 56 | [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 |
 | 57 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
 | 58 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 62 | [Museum](https://open.spotify.com/track/6liB5ag2B1cL6KYkWte2cU) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Museum](https://open.spotify.com/album/5IIzBn2NyWLRxDrVQy6L0g) | 3:35 |
 | 63 | [letting you go \- demo](https://open.spotify.com/track/5XMiziJ3bT3zHZzzHW2QtP) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [letting you go \(demo\)](https://open.spotify.com/album/0zcvrmnfKMWW31SisynhrZ) | 3:41 |
 | 64 | [Balcony](https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 2:31 |
-| 65 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 |
+| 65 | [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 |
 | 66 | [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 |
-| 67 | [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 |
+| 67 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 |
 | 68 | [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 |
 | 69 | [Melancholy](https://open.spotify.com/track/1KF7in1Tx1G5JzIVFw8Frj) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Melancholy](https://open.spotify.com/album/0O5rQMVVxqfoWgdYAUqxIT) | 2:25 |
 | 70 | [Let U Go](https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Let U Go](https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 74 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 |
 | 75 | [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDhkMGMwNDMwZDQ0NGI1ZGQzMGMxODc4MWE3NDczN2Rj`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGIxOGVjNmNkM2FhNTMwODM1ZDU3ZDY0NDY2MWExOTQ3`

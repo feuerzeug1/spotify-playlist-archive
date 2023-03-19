@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 328554,
+  "num_followers": 328707,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDZlOGRmMzgwZDI4MDAzM2NmOGQ0ZTlhZWFlZWYzZjNm",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDFiZmFhNGY0OTdjM2ZiNWI0Y2QzZTFkZTQxNThjYzI5",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
     },
     {
-      "added_at": "2021-04-16 04:00:00",
-      "album": {
-        "name": "Moonshadows",
-        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "Get With It",
-      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "VXNTX VXNTX",
@@ -897,20 +881,20 @@
       "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-04-16 04:00:00",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+        "name": "Moonshadows",
+        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
       },
       "artists": [
         {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+      "duration_ms": 186746,
+      "name": "Get With It",
+      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -931,6 +915,22 @@
       "duration_ms": 158620,
       "name": "Psychic Powers",
       "url": "https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
       "added_at": "2021-07-09 04:01:00",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Scratch My Itch",
-        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
-      },
-      "artists": [
-        {
-          "name": "The Soul Snatchers",
-          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Do You Wanna Get Down",
-      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
-    },
-    {
       "added_at": "2021-01-15 21:11:37",
       "album": {
         "name": "The Duke",
@@ -1003,6 +987,22 @@
       "duration_ms": 166760,
       "name": "The Duke",
       "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Scratch My Itch",
+        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
+      },
+      "artists": [
+        {
+          "name": "The Soul Snatchers",
+          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Do You Wanna Get Down",
+      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
     },
     {
       "added_at": "2021-12-24 05:01:00",
@@ -1089,6 +1089,22 @@
       "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
     },
     {
+      "added_at": "2021-11-26 05:01:00",
+      "album": {
+        "name": "Sir Somebody",
+        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Sir Somebody",
+      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
+    },
+    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Prospect Park West",
@@ -1103,6 +1119,22 @@
       "duration_ms": 176184,
       "name": "Prospect Park West",
       "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "False Prophets",
+        "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 352374,
+      "name": "False Prophets",
+      "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1123,22 +1155,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "False Prophets",
-        "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 352374,
-      "name": "False Prophets",
-      "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 184634,
       "name": "Permission to Land - 45",
       "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
-    },
-    {
-      "added_at": "2021-11-26 05:01:00",
-      "album": {
-        "name": "Sir Somebody",
-        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
-      },
-      "artists": [
-        {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Sir Somebody",
-      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
-      },
-      "artists": [
-        {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
-        }
-      ],
-      "duration_ms": 247630,
-      "name": "Just Funkin' Around",
-      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Assassin (The Paisley Park Session)",
@@ -1239,6 +1223,22 @@
       "duration_ms": 202457,
       "name": "Assassin - The Paisley Park Session",
       "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "duration_ms": 247630,
+      "name": "Just Funkin' Around",
+      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -1289,6 +1289,22 @@
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Basement Beat",
+        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
+      },
+      "artists": [
+        {
+          "name": "Chris Hazelton's Boogaloo 7",
+          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
+        }
+      ],
+      "duration_ms": 470371,
+      "name": "Bambu",
+      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
+    },
+    {
       "added_at": "2021-05-28 04:00:00",
       "album": {
         "name": "Getaway Car",
@@ -1307,22 +1323,6 @@
       "duration_ms": 208384,
       "name": "Getaway Car",
       "url": "https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Basement Beat",
-        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
-      },
-      "artists": [
-        {
-          "name": "Chris Hazelton's Boogaloo 7",
-          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
-        }
-      ],
-      "duration_ms": 470371,
-      "name": "Bambu",
-      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Soul Jazz Express",
-        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
-      },
-      "artists": [
-        {
-          "name": "Soul Jazz Express",
-          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Couple A Brownies",
-      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Funkafized Plus",
         "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 299000,
       "name": "Funkafized",
       "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Soul Jazz Express",
+        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
+      },
+      "artists": [
+        {
+          "name": "Soul Jazz Express",
+          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Couple A Brownies",
+      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
     }
   ],
   "unique_name": "Instrumental Funk",

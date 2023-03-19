@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 290530,
+  "num_followers": 290649,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyMjMyNCwwMDAwMDAwMDg1YzQzNWZlNGM3Y2QyOWJmYTVlNDVlYTYyY2E5MTQw",
+  "snapshot_id": "MTY3ODEyMjMyNCwwMDAwMDAwMGRlMzRmZjBjNWExMzg3YmZmZTY2MTZjMWIwNmM4YTAx",
   "tracks": [
     {
       "added_at": "2023-03-06 17:05:24",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2023-03-06 17:05:24",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/1kF9wxTUSexqZnufTN9wiX"
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        },
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
         }
       ],
-      "duration_ms": 288013,
-      "name": "Cuando Tus Ojos Me Miran (feat. India Martinez) - Vuelve en Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/20JGllbxlsQdPVQIgGZVMO"
+      "duration_ms": 187626,
+      "name": "Me Cans\u00e9 De Ti",
+      "url": "https://open.spotify.com/track/1pxmhFimjs0SGi5CH1OmXB"
     }
   ],
   "unique_name": "Amor y Desamor",

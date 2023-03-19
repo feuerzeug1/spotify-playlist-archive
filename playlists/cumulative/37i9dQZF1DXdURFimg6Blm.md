@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-376 songs - 18 hr 49 min
+377 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-02-24 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM) | 2:56 | 2022-04-22 | 2022-05-27 |
 | [Give It To Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 | 2022-05-20 |  |
-| [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 | 2023-01-06 |  |
+| [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 | 2023-01-06 | 2023-03-19 |
 | [Good Luck](https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Good Luck](https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg) | 3:55 | 2022-03-18 | 2022-04-23 |
 | [GOOD PUSS](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn) | 3:40 | 2022-01-07 | 2022-04-09 |
 | [Goodbye](https://open.spotify.com/track/7fWOBXSWN29kaE0spQjUW9) | [Matt Steffanina](https://open.spotify.com/artist/4KOoOdorXekT3hIgRQCqi8), [Siera](https://open.spotify.com/artist/2t2DBBFg6vpPplx5nrKJYn) | [Goodbye](https://open.spotify.com/album/2hP5VFNgorSXS2IPgioJnZ) | 2:10 | 2022-01-07 | 2022-03-12 |
@@ -329,6 +329,7 @@
 | [Survivors](https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Survivors](https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H) | 2:44 | 2022-03-11 | 2022-04-15 |
 | [Sweet Caroline](https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Sweet Caroline](https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT) | 3:30 | 2022-11-18 | 2023-02-25 |
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2022-01-07 | 2022-03-12 |
+| [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-19 |  |
 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-22 |  |
 | [Talamanca \- Vintage Culture Remix](https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talamanca \(Vintage Culture Remix\)](https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd) | 3:10 | 2022-01-07 | 2022-05-07 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2022-01-07 | 2022-10-29 |

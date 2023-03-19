@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > IYKYK 💔🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,229 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,498 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 52 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 |
 | 53 | [Tristeza Y Traicion](https://open.spotify.com/track/3otr23EypFovRCjnPODejZ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:39 |
 | 54 | [Todo A Su Tiempo](https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Todo A Su Tiempo](https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g) | 3:37 |
-| 55 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
-| 56 | [Y Cambió Mi Suerte](https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Y Cambió Mi Suerte](https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC) | 3:05 |
+| 55 | [Y Cambió Mi Suerte](https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Y Cambió Mi Suerte](https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC) | 3:05 |
+| 56 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 57 | [Me Consume](https://open.spotify.com/track/3tDG0JVZo0Y0KwRVZgYIa7) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:21 |
 | 58 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 |
 | 59 | [Ninguna Como Ella](https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:20 |
@@ -86,14 +86,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 76 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
 | 77 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
 | 78 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 |
-| 79 | [Disculpe Usted](https://open.spotify.com/track/0EoGITCf80uJ52Yk5BxUsV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Las Romanticas Favoritas de Fuerza Regida](https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj) | 3:26 |
-| 80 | [Enamorado](https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe) | [Malandro Enamorado](https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA) | 3:36 |
+| 79 | [Enamorado](https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe) | [Malandro Enamorado](https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA) | 3:36 |
+| 80 | [Disculpe Usted](https://open.spotify.com/track/0EoGITCf80uJ52Yk5BxUsV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Las Romanticas Favoritas de Fuerza Regida](https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj) | 3:26 |
 | 81 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 |
 | 82 | [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 |
 | 83 | [Yo Voy A Amarte](https://open.spotify.com/track/2DQWbH7mMQYRuftnYPlfqQ) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:46 |
 | 84 | [Me Vuelves Loco](https://open.spotify.com/track/6XecBnprrMoxhMiHHyvWN7) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Sad Boy Shit](https://open.spotify.com/album/7dfEFQgVDb6BKLsJmVdg00) | 4:36 |
-| 85 | [Tiempo](https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Tiempo](https://open.spotify.com/album/0YK6koGYXva8aceQpman6H) | 2:21 |
-| 86 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
+| 85 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
+| 86 | [Tiempo](https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Tiempo](https://open.spotify.com/album/0YK6koGYXva8aceQpman6H) | 2:21 |
 | 87 | [Antes y Después De Ti](https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Good Vibes Buenas Vibras](https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee) | 3:14 |
 | 88 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
 | 89 | [Ya Te Superé \- En Vivo](https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Ya Te Superé \(En Vivo\)](https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 99 | [Me Dejaste en Cero](https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Dejaste en Cero](https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv) | 3:20 |
 | 100 | [Mi Nena](https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww) | [Nueva Conducta](https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5) | [Mi Nena](https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF) | 2:29 |
 
-Snapshot ID: `MTY3ODM0NjYxNCwwMDAwMDAwMDI1ZTI0M2ZkZGNkMTBjOTA5OGYwYTdkOTFjYjQ4OGFh`
+Snapshot ID: `MTY3ODM0NjYxNCwwMDAwMDAwMDk2MTJkOGY4MDQwMmJiZmYyZWE5ODEwM2I1NjNlMjNh`

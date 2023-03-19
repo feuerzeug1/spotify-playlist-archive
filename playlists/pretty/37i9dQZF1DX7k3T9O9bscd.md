@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Temples on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,672 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,819 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 51 | [The Rat Catcher](https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ) | [Wucan](https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO) | [Reap the Storm](https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS) | 5:25 |
 | 52 | [Panic In Babylon](https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Aufheben](https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn) | 4:38 |
 | 53 | [Acid Crusher](https://open.spotify.com/track/1Jl2QiqrBXJOVxDx2WqnvO) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [Acid Crusher / Mount Swan](https://open.spotify.com/album/1jnKtfbJTAo2WddUGjuLyZ) | 14:56 |
-| 54 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
+| 54 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
 | 55 | [Back to Land](https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:17 |
-| 56 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
-| 57 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
+| 56 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
+| 57 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
 | 58 | [Seven Eight](https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [A Song For Paul](https://open.spotify.com/album/0w6knr7boQarN35qErXXeu) | 3:12 |
-| 59 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
-| 60 | [Nànnuflày](https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 5:03 |
-| 61 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 |
-| 62 | [Todo Bien](https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:33 |
+| 59 | [Nànnuflày](https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 5:03 |
+| 60 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
+| 61 | [Todo Bien](https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:33 |
+| 62 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 |
 | 63 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 |
 | 64 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
 | 65 | [Venus](https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk) | [The Exorcist GBG](https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV) | [The Exorcist GBG](https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu) | 2:54 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 70 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
 | 71 | [Marihuana](https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9) | 3:40 |
 | 72 | [Animal Noises](https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam) | [Here Lies Man](https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H) | [You Will Know Nothing](https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX) | 4:12 |
-| 73 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
-| 74 | [Jukebox Babe](https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Jukebox Babe](https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV) | 6:24 |
+| 73 | [Jukebox Babe](https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Jukebox Babe](https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV) | 6:24 |
+| 74 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
 | 75 | [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 |
 
-Snapshot ID: `MTY3ODk5OTgyMCwwMDAwMDAwMGRjMzViZTlhZGMwODhhZDk4ZWJlNjUzOWRlZGRjOTEw`
+Snapshot ID: `MTY3ODk5OTgyMCwwMDAwMDAwMDQ1MTE2OTFmYmU2MzIyNTZkNDkxOGE3YWUwNWI2Njhl`

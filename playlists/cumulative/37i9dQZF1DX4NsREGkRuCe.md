@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-247 songs - 12 hr 32 min
+248 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-07 |  |
 | [Forever \(Remix\)](https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Forever \(Remix\)](https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H) | 3:21 | 2022-06-08 |  |
 | [Free \(Sounds for Healing\)](https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Free \(Sounds for Healing\)](https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ) | 4:22 | 2022-10-13 | 2022-10-31 |
-| [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 | 2023-03-03 |  |
+| [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 | 2023-03-03 | 2023-03-19 |
 | [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 | 2023-02-23 | 2023-03-11 |
 | [Get My Money Right](https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get My Money Right](https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z) | 2:57 | 2022-06-30 | 2022-09-29 |
 | [Gimme Love](https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Gimme Love](https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4) | 2:51 | 2023-02-23 |  |
@@ -180,6 +180,7 @@
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2022-06-08 | 2022-08-26 |
 | [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 | 2023-02-16 | 2023-03-11 |
 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-12 | 2022-09-02 |
+| [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-19 |  |
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-23 |  |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 |  |
 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(feat\. Ayra Starr & Omah Lay\) \[Remix\]](https://open.spotify.com/album/689njStjzEujqVZtSDlpha) | 3:04 | 2023-03-03 |  |

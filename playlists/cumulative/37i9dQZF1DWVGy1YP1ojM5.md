@@ -4,7 +4,7 @@
 
 > Silky sounds for the sheets.
 
-194 songs - 11 hr 9 min
+195 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Damage](https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Damage](https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII) | 3:43 | 2023-02-02 |  |
 | [Demon Time](https://open.spotify.com/track/0BC0b1t148YdN82r0baRvi) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 4:01 | 2022-10-07 | 2023-02-04 |
 | [Dirty](https://open.spotify.com/track/0WVQchechJX4c0BXp8bHpv) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [ELEVATION](https://open.spotify.com/album/0S9DWXx2fextbZkqM9Xp5J) | 3:44 | 2022-10-03 | 2023-01-13 |
-| [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 | 2022-10-21 |  |
+| [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 | 2022-10-21 | 2023-03-19 |
 | [Don’t Make Me Wait](https://open.spotify.com/track/31UPS6TZYhhNFnTlie5gpB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:52 | 2022-10-03 | 2023-02-13 |
 | [Dream](https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:10 | 2022-10-03 |  |
 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 | 2022-10-03 |  |
@@ -78,6 +78,7 @@
 | [Get Me](https://open.spotify.com/track/6zGPytJiZmFuyVq7RTNO9G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Get Me](https://open.spotify.com/album/0GzsdiiItPCABfhuFIKiZi) | 3:05 | 2022-10-03 | 2023-02-13 |
 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 | 2023-02-12 |  |
 | [Glitter Ain't Gold](https://open.spotify.com/track/0XrKhZ9Ob6yqxpqcalNMFN) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Glitter Ain't Gold](https://open.spotify.com/album/2KYBKrXIlbnajS0P6UoQ2c) | 3:41 | 2021-08-13 | 2022-10-04 |
+| [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-17 |  |
 | [Gold Mine](https://open.spotify.com/track/4DbJoCosBqn8ydLYmusWkG) | [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN) | [Gold Mine](https://open.spotify.com/album/4an7MG3Pyon67w5DiT0Zin) | 3:01 | 2021-08-13 | 2022-07-28 |
 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 | 2021-08-13 | 2022-10-04 |
 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 | 2021-08-13 |  |

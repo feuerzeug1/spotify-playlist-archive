@@ -4,7 +4,7 @@
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
 
-176 songs - 11 hr 7 min
+177 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Biloxi](https://open.spotify.com/track/0usEptA5JIPH91TzfJgwuS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Heart Like a Levee](https://open.spotify.com/album/4rEEkztpEU1GBmy5uBYHUS) | 2:51 | 2019-06-07 | 2022-07-29 |
 | [Biloxi](https://open.spotify.com/track/64K5tnMgCe8IDouGq9NOda) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Heart Like a Levee](https://open.spotify.com/album/6LX8I9Fawu1RqXHgFbcgBo) | 2:51 | 2019-06-07 |  |
 | [Blind in the Fray](https://open.spotify.com/track/25hEexChI4sq7CH1K4hqh8) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/1A43T5C9vFdOXecyJAE1We) | 3:33 | 2019-06-07 | 2022-07-29 |
-| [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 | 2019-06-07 |  |
+| [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 | 2019-06-07 | 2023-03-19 |
 | [Bottomless Mimosas](https://open.spotify.com/track/1iUrILDOtKAunjb2cWjUFl) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Bottomless Mimosas](https://open.spotify.com/album/15c9x5IQtj60N8MQl70HFB) | 3:46 | 2019-06-07 | 2022-07-29 |
 | [Bottomless Mimosas](https://open.spotify.com/track/1pAwto1TwLjGVC11CY6XS1) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Tenderheart](https://open.spotify.com/album/3Wx7SJbPGyMrTuiBf4U3QU) | 3:46 | 2019-06-07 | 2022-07-11 |
 | [Bubbles in My Beer](https://open.spotify.com/track/2B3mWAyrWbOfCjvO6kkMAg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:31 | 2019-06-07 | 2022-06-09 |
@@ -138,6 +138,7 @@
 | [Sedona](https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:59 | 2019-06-07 |  |
 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 | 2019-06-07 |  |
 | [Should Have Known Better](https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 5:07 | 2019-06-07 | 2022-07-09 |
+| [Shovels & Dirt](https://open.spotify.com/track/6d2N6I8oVunoWKjjRqbxTq) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 4:01 | 2019-06-07 |  |
 | [Shovels & Dirt](https://open.spotify.com/track/7s55sjcxPmungNSC1enJTc) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:01 | 2019-06-07 | 2022-10-13 |
 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 | 2019-06-07 |  |
 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2019-06-07 |  |

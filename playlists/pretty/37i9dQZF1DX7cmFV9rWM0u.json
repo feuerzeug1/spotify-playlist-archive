@@ -1,15 +1,15 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.Dance",
-  "num_followers": 1858213,
+  "num_followers": 1858298,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI5MjAxOSwwMDAwMDAwMGMzOWFhN2FmODQyOTY4NGQwM2NlMWMzZDcwNWM0NGEx",
+  "snapshot_id": "MTY3ODI5MjAxOSwwMDAwMDAwMDhkZTIwYjQ5NjE5MDVmOGMzYzg5YWJhMjM4ZmRkMTUw",
   "tracks": [
     {
-      "added_at": "2023-03-18 01:10:26",
+      "added_at": "2023-03-19 01:03:34",
       "album": {
         "name": "Sopita",
         "url": "https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
     },
     {
-      "added_at": "2023-03-18 01:10:26",
+      "added_at": "2023-03-19 01:03:34",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-02-15 19:11:16",
       "album": {
+        "name": "BAILAR CONTIGO",
+        "url": "https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 223352,
+      "name": "BAILAR CONTIGO",
+      "url": "https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE"
+    },
+    {
+      "added_at": "2023-02-15 19:11:16",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2023-02-15 19:11:16",
-      "album": {
-        "name": "BAILAR CONTIGO",
-        "url": "https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 223352,
-      "name": "BAILAR CONTIGO",
-      "url": "https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE"
     },
     {
       "added_at": "2023-02-15 19:11:16",
@@ -743,30 +743,6 @@
     {
       "added_at": "2023-02-15 19:11:16",
       "album": {
-        "name": "SIMPLY THE BEST",
-        "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 236190,
-      "name": "SIMPLY THE BEST",
-      "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
-    },
-    {
-      "added_at": "2023-02-15 19:11:16",
-      "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
+    },
+    {
+      "added_at": "2023-02-15 19:11:16",
+      "album": {
+        "name": "SIMPLY THE BEST",
+        "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 236190,
+      "name": "SIMPLY THE BEST",
+      "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
     },
     {
       "added_at": "2023-02-15 19:11:16",

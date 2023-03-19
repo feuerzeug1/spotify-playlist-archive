@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-373 songs - 22 hr 31 min
+374 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 | 2022-08-05 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/3XpXhVtZwqh2eM5d9ieXT5) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/28a7IkiQxDoxGpAr8Cy0fP) | 3:16 | 2021-11-12 | 2022-07-29 |
 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2022-06-22 | 2022-11-26 |
-| [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 | 2021-11-12 |  |
+| [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 | 2021-11-12 | 2023-03-19 |
 | [artificial](https://open.spotify.com/track/0vvTPpHQ9pv5DsWXwKiTlz) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [artificial](https://open.spotify.com/album/1ocZVYlGbIgRcVXPJlpfuU) | 3:49 | 2022-03-19 | 2022-07-07 |
 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-11-12 | 2022-07-23 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-02 |  |
@@ -164,6 +164,7 @@
 | [Hysterical Us](https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:55 | 2022-06-22 | 2023-02-23 |
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-11-12 | 2022-07-29 |
 | [I Can See Clearly Now](https://open.spotify.com/track/12RfMGt8MdXrilOJNAhe6r) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [I Can See Clearly Now](https://open.spotify.com/album/7ijWsMC7YkQm4HiXwt9Epe) | 3:11 | 2022-06-22 | 2022-07-20 |
+| [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-08 |  |
 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz) | 4:37 | 2022-03-19 | 2023-01-28 |
 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 | 2022-08-05 |  |
 | [I Don't Wanna Be Funny Anymore](https://open.spotify.com/track/0kwBATkVUAG7JRMEosNUUs) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/6Ru52lwXvbPaAMSdyPOFsL) | 2:43 | 2021-11-12 | 2022-07-27 |

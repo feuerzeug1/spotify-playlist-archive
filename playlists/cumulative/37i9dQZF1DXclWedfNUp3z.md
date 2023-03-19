@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-352 songs - 1 day 0 hr 18 min
+353 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Behind the Eyes](https://open.spotify.com/track/7oFocF6NHEyASI4A8y0aCS) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR), [FSOL](https://open.spotify.com/artist/3jOeWmwth0yR5cuXLWXNme) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 6:26 | 2021-11-24 | 2022-04-21 |
 | [Besides You](https://open.spotify.com/track/0Ux83HlRGB8O4DPFXMPuT3) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Oliver](https://open.spotify.com/album/1Zy4HydcCJHo5KstRHgiRG) | 1:20 | 2021-10-20 | 2022-04-21 |
 | [Birdy Island](https://open.spotify.com/track/5NMOIpKNftWJ42W9wFGxct) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/3n2XRVTEOWVzxs6o0NcXgJ) | 2:27 | 2021-10-20 | 2022-07-29 |
-| [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 | 2022-09-03 |  |
+| [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 | 2022-09-03 | 2023-03-19 |
 | [Birki](https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Birki](https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP) | 4:03 | 2022-09-03 | 2022-10-22 |
 | [blinding tunnel](https://open.spotify.com/track/14AP7MGqCLnJfLGsrwzrKR) | [Sownbones](https://open.spotify.com/artist/0gIMQx6hCQ9COuMORi6SWA) | [helpless](https://open.spotify.com/album/0tCBu2Dsa20w0msgy5IXsr) | 2:15 | 2022-01-19 | 2022-07-28 |
 | [Bloom](https://open.spotify.com/track/1B8uasCODGeSlXrFBCvjWy) | [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa) | [Music for Growing Plants](https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM) | 4:16 | 2021-10-20 | 2022-07-29 |
@@ -182,6 +182,7 @@
 | [Marginalia \#48](https://open.spotify.com/track/6wVZmYHeNd4TJioyfMFdiV) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia III](https://open.spotify.com/album/6biHewklP04G9dU2nu5jhM) | 3:53 | 2022-02-23 |  |
 | [Mariposas](https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Mutaciones](https://open.spotify.com/album/5Dhc2E7m1T2e7gRzBtdRTg) | 3:44 | 2021-10-20 |  |
 | [Marshmallow](https://open.spotify.com/track/6N2yBySX0VhCVlVHKngirs) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/79tfjRNKLemO4c2dNXqJFR) | 3:55 | 2021-12-07 | 2023-03-08 |
+| [Marshmallow](https://open.spotify.com/track/2kjXaoPGBh9nOIjzaRd2Fv) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/5H6AKYiSVXgvWWCHQUTmO5) | 3:56 | 2021-12-07 |  |
 | [Mary, You Were Wrong](https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 4:58 | 2021-11-12 |  |
 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2021-11-12 | 2023-02-18 |
 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 | 2021-10-20 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,857 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,914 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 42 | [Suntan](https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan / Damocles](https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC) | 4:59 |
 | 43 | [Adore](https://open.spotify.com/track/3z9sAf9ptrSLpyRWR4jRiX) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Adore Life](https://open.spotify.com/album/2UutOV48eYbIPB6keWOqoP) | 5:03 |
 | 44 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 |
-| 45 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 |
-| 46 | [Pour Another](https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:20 |
+| 45 | [Pour Another](https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:20 |
+| 46 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 |
 | 47 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
 | 48 | [Big](https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 1:45 |
 | 49 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO) | 3:43 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
 | 55 | [Broke](https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY) | 8:01 |
 
-Snapshot ID: `MTY3OTA1ODUxMSwwMDAwMDAwMDUyMTYwMGZkMDc0NzU1Y2IyYTFkMWI5Mzk3NThkMDUy`
+Snapshot ID: `MTY3OTA1ODUxMSwwMDAwMDAwMGNlNTFhZjdlMTVjMDE1Zjk2ZjJiMWZkNGZiYjkzN2Jl`

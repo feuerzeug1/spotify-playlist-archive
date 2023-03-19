@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 197,
+  "num_followers": 198,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjU0OTIwMCwwMDAwMDAwMDEyZDc5MWJjMDhlZjMwN2RiYTA2ODFmZjE3MzA2ZDA0",
+  "snapshot_id": "MTY3MjU0OTIwMCwwMDAwMDAwMDc1OWRmNmUzODJlOThhZTJlNGNlMzFmNWE3MGRiMWZl",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "Language",
         "url": "https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 150360,
       "name": "Language",
       "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 175998,
-      "name": "Krank",
-      "url": "https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "Sonder Son",
         "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 159485,
       "name": "Talk 2 U",
       "url": "https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 175998,
+      "name": "Krank",
+      "url": "https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p"
     },
     {
       "added_at": "2023-01-01 05:00:00",

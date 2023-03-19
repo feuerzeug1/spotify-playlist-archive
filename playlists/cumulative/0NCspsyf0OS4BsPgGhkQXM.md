@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-705 songs - 1 day 14 hr 34 min
+707 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Back To U](https://open.spotify.com/track/19m23w2ANVhtB7rApM6pbN) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Back To U](https://open.spotify.com/album/0hKOffv9vWtya3CkEXrVhO) | 3:34 | 2022-01-14 |  |
 | [bad guy](https://open.spotify.com/track/4727RsuKMuY09HnC1ZD6yt) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ) | [bad guy](https://open.spotify.com/album/3Au2Jv6CGEyc9FLVT7moz9) | 2:18 | 2022-01-14 | 2022-02-10 |
 | [Bad Karma](https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG) | [Bad Karma](https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx) | 6:56 | 2022-11-22 |  |
+| [Bandaid \(with Corey Mouch\)](https://open.spotify.com/track/3v0uz2vv9JmVMVyppnHC7n) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7) | [Bandaid \(with Corey Mouch\)](https://open.spotify.com/album/0QZBvLW6rPnsKH72NoXa5e) | 3:52 | 2023-03-18 |  |
 | [Be Free](https://open.spotify.com/track/66CEPFHeeZuMTaODDOUwJj) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Be Free](https://open.spotify.com/album/1XWmso7QfG25h0xhu3eShw) | 3:12 | 2022-01-14 | 2022-01-29 |
 | [Better Alone \(with IDontloveu\)](https://open.spotify.com/track/3maRMTZGRVguZPqOBUFvOB) | [Jaxxtone](https://open.spotify.com/artist/3ASDNZT1AaVuC0bqu60oaY), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i), [IDontloveu](https://open.spotify.com/artist/6hw2y5rA6aoebyj53vUhZ3), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 3:37 | 2022-11-18 | 2023-02-22 |
 | [Better Than Me](https://open.spotify.com/track/4Shq8PnJys8dyqZ1qLg83S) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Better Than Me](https://open.spotify.com/album/6ZDd3G0zZEm80Z0kARthcm) | 3:03 | 2022-11-04 | 2022-11-24 |
@@ -371,6 +372,7 @@
 | [Losing My Mind](https://open.spotify.com/track/3DKWSWJsNtRQil4FsytGHD) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Losing My Mind](https://open.spotify.com/album/0OS7ve0wMwbUSyVGvcthMf) | 6:26 | 2022-02-07 | 2022-03-05 |
 | [Losing My Mind \(feat\. Chrysana\) \- Level Up](https://open.spotify.com/track/29iilplHGv73DSWaHWTo6T) | [Player1](https://open.spotify.com/artist/531qdIZUdxxz8LQ4j63zTP), [Chrysana](https://open.spotify.com/artist/4KWziL92moD1Dzajp7FBBB) | [Losing My Mind \(feat\. Chrysana\)](https://open.spotify.com/album/4IKNIWYIyJI1YN4q98bWtX) | 2:02 | 2022-06-03 | 2022-07-02 |
 | [Losing My Mind \- DVRKCLOUD Remix](https://open.spotify.com/track/6jiZm78Rk6jF2oxkj9yYGh) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Losing My Mind \(DVRKCLOUD Remix\)](https://open.spotify.com/album/0vAu4P2eBFJIt4ZlHCdziW) | 3:37 | 2022-03-01 | 2022-04-02 |
+| [Lost](https://open.spotify.com/track/4lXaDsnSigLjC0zzngrRxl) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [9 Worlds](https://open.spotify.com/artist/0IJ1W6ttg75kPsNGeVgkaV), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Lost](https://open.spotify.com/album/0Bk1KQZUDvL4Z9mmikVTcc) | 3:54 | 2023-03-18 |  |
 | [Lost](https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Lost](https://open.spotify.com/album/4718f8p5I2EHop2LwcPHah) | 3:08 | 2022-05-05 |  |
 | [Lost In My Mind](https://open.spotify.com/track/2J6k6GnFrWm3i5rueXr1p1) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Lost In My Mind](https://open.spotify.com/album/0zL7vKsNDJPLm91dliiMlX) | 3:15 | 2022-03-04 | 2022-04-02 |
 | [Lost Without You](https://open.spotify.com/track/5x7dCMY120aFbg33VxCjpG) | [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [KnownAsNat](https://open.spotify.com/artist/4CxkpkQVs7cguL10DtmyjR) | [Lost Without You](https://open.spotify.com/album/3ZMIql6dt08cpegtz4Gr7b) | 3:51 | 2022-02-04 | 2022-03-05 |

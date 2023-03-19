@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,059 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,127 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 21 | [Cuéntame](https://open.spotify.com/track/37GUXR9olqtMaujUjBVnPS) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Cuéntame](https://open.spotify.com/album/3dfx15tv6f6VzQMVuG9EJL) | 2:14 |
 | 22 | [El Gato](https://open.spotify.com/track/3qcoGUXKQkaBqx7l3adwM5) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [El Gato](https://open.spotify.com/album/4SZd5cByduZcWuhhB8QOGo) | 2:37 |
 | 23 | [El Hombre](https://open.spotify.com/track/5u6fbMWyFcC6NDIEaEvGKa) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [El Hombre](https://open.spotify.com/album/0x2SrOXprUVuOyqNqDCBPF) | 3:11 |
-| 24 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo un eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
+| 24 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
 | 25 | [Si Biri Bop](https://open.spotify.com/track/2Od4ynLerbqcKtjAdbX16Q) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Si Biri Bop](https://open.spotify.com/album/6W64HOtZtKsCRarGz334y1) | 2:55 |
-| 26 | [Qué Corre Por Tus Venas](https://open.spotify.com/track/1RBDz1zIbqmo6yjctXfU4R) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Qué Corre Por Tus Venas](https://open.spotify.com/album/0ZQIU1X7oG6PfrnkFnjQ00) | 3:35 |
+| 26 | [¿Qué Corre Por Tus Venas?](https://open.spotify.com/track/1RBDz1zIbqmo6yjctXfU4R) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [¿Qué Corre Por Tus Venas?](https://open.spotify.com/album/0ZQIU1X7oG6PfrnkFnjQ00) | 3:35 |
 | 27 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 |
 | 28 | [Rey](https://open.spotify.com/track/3rS6pLKhoZ8m0Z5vqgoCfc) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Rey](https://open.spotify.com/album/5IMv5sPdSP7leaSaehgacp) | 3:43 |
 | 29 | [CAPSULEANDO](https://open.spotify.com/track/2Qjn1SUdWlBD2Fb79uPUVw) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa) | [CAPSULEANDO](https://open.spotify.com/album/0gpy4ieYD73YIrAaOLkU9y) | 2:35 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [Acabo de Gastar](https://open.spotify.com/track/0H4do0yzcSZkrdr8wRU9yy) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Acabo de Gastar](https://open.spotify.com/album/1RuPitYvZD6PbzE0iWz3pC) | 3:35 |
 | 39 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 |
 | 40 | [Kiweed](https://open.spotify.com/track/2Fdol3DAuNvyfFsxTQKpAP) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Kiweed](https://open.spotify.com/album/0pggsrbIax2k63ZLJjeLcy) | 3:17 |
-| 41 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Luis Ernesto Perea Valdés](https://open.spotify.com/artist/0KraBV8fvH3totbf174ple), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 |
+| 41 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 |
 | 42 | [LEALTAD](https://open.spotify.com/track/1jlMnFogG1NeVbs8h4UUw1) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [LEALTAD](https://open.spotify.com/album/322JP4Usb0tyKnNQLdPgac) | 2:30 |
 | 43 | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/album/308VA4UV7GdELyQHd5TGLD) | 3:29 |
 | 44 | [Oye](https://open.spotify.com/track/1hfdlVMaj6oqYLugViIIjt) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Poncho De Nigris](https://open.spotify.com/artist/64uKFTM2qQ8J49bWPydbJO) | [Oye](https://open.spotify.com/album/1Ag8cRk4gHjVZmiI6rzrm8) | 4:07 |

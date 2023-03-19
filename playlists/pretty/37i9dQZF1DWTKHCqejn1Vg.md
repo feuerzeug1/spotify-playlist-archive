@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,927 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,966 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 46 | [Justin Bieber \(feat\. Jay Park\)](https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EMO \#1](https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu) | 3:37 |
 | 47 | [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 |
 | 48 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
-| 49 | [ROSE \(feat\. Skinny Brown, Homeboy\)](https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 4:27 |
-| 50 | [Kurkdjian](https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:30 |
-| 51 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 |
-| 52 | [Past Life](https://open.spotify.com/track/3fbKBCRcSEKUie3jEaxBgC) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [oceanfromtheblue](https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg) | 4:46 |
-| 53 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 |
+| 49 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 |
+| 50 | [ROSE \(feat\. Skinny Brown, Homeboy\)](https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 4:27 |
+| 51 | [Kurkdjian](https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:30 |
+| 52 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 |
+| 53 | [Past Life](https://open.spotify.com/track/3fbKBCRcSEKUie3jEaxBgC) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [oceanfromtheblue](https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg) | 4:46 |
 | 54 | [bag on you](https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [bag on you](https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg) | 2:24 |
 | 55 | [Too Many](https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:07 |
 | 56 | [I want to \(Feat\. meenoi\)](https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:33 |
 | 57 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
 | 58 | [You and I](https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 2:40 |
-| 59 | [Murder On The Dance Floor](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'M LOVIN' AMY](https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia) | 3:22 |
-| 60 | [waves](https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [waves](https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu) | 2:41 |
+| 59 | [waves](https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [waves](https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu) | 2:41 |
+| 60 | [Murder On The Dance Floor](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'M LOVIN' AMY](https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia) | 3:22 |
 
-Snapshot ID: `MTY3NzY2MTg1NiwwMDAwMDAwMDkxZDY2YjE1MWJlZTQzZTc4MzdiZDI1MGU0NzM4MmIw`
+Snapshot ID: `MTY3NzY2MTg1NiwwMDAwMDAwMDJhMGUyZGI4OGMzOGNlMjg3Mjk3ZjY4ZDQwZGI5Mjc5`

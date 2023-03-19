@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 16613,
+  "num_followers": 16655,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDE5MjI5ODNmYTQ0ZGEwMDBmYzdhNjBiZDM5N2NhZGI0",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDE3ZjMxODliZjJkOTFhN2ViOTU3MjQyZTg3M2U0Njlh",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -107,30 +107,26 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Raw (Tony Romera Remix)",
-        "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
+        "name": "Different Side",
+        "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
       "artists": [
         {
-          "name": "Julio Navas",
-          "url": "https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         },
         {
-          "name": "Gustavo Bravetti",
-          "url": "https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9"
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
         },
         {
-          "name": "David Amo",
-          "url": "https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+          "name": "Audio Bullys",
+          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Raw - Tony Romera Remix",
-      "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
+      "duration_ms": 193710,
+      "name": "Different Side",
+      "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -195,26 +191,30 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Different Side",
-        "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
+        "name": "Raw (Tony Romera Remix)",
+        "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+          "name": "Julio Navas",
+          "url": "https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr"
         },
         {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+          "name": "Gustavo Bravetti",
+          "url": "https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9"
         },
         {
-          "name": "Audio Bullys",
-          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
+          "name": "David Amo",
+          "url": "https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 193710,
-      "name": "Different Side",
-      "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
+      "duration_ms": 217500,
+      "name": "Raw - Tony Romera Remix",
+      "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
-      },
-      "artists": [
-        {
-          "name": "Zilka",
-          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
-        }
-      ],
-      "duration_ms": 158343,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
+      },
+      "artists": [
+        {
+          "name": "Zilka",
+          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
+        }
+      ],
+      "duration_ms": 158343,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -895,18 +895,34 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Ready For The Blues",
-        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
+        "name": "winter '23",
+        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
       },
       "artists": [
         {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
         }
       ],
-      "duration_ms": 300041,
-      "name": "Ready For The Blues",
-      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
+      "duration_ms": 370000,
+      "name": "buss it.",
+      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -927,18 +943,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "winter '23",
-        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
+        "name": "Ready For The Blues",
+        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
       },
       "artists": [
         {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
         }
       ],
-      "duration_ms": 370000,
-      "name": "buss it.",
-      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
+      "duration_ms": 300041,
+      "name": "Ready For The Blues",
+      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1179,6 +1195,38 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Beings of Light",
+        "url": "https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 423837,
+      "name": "Ramona",
+      "url": "https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy"
       },
@@ -1195,22 +1243,6 @@
       "duration_ms": 348315,
       "name": "Untitled A",
       "url": "https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Beings of Light",
-        "url": "https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 423837,
-      "name": "Ramona",
-      "url": "https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1267,6 +1299,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Superlicious",
+        "url": "https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Superlicious",
+      "url": "https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Rok The House",
         "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
       },
@@ -1299,22 +1347,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz"
-      },
-      "artists": [
-        {
-          "name": "The Archer",
-          "url": "https://open.spotify.com/artist/2e9kCl7laD7bkZLLAnkKTU"
-        }
-      ],
-      "duration_ms": 243809,
-      "name": "All I Want - Original Mix",
-      "url": "https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Nights into Mornings",
         "url": "https://open.spotify.com/album/1JEAxlq89t4yT0wIAMZqaw"
       },
@@ -1331,46 +1363,6 @@
       "duration_ms": 433043,
       "name": "Nights into Mornings - Joseph Capriati Remix",
       "url": "https://open.spotify.com/track/1w1XIiV4PABYIsRuyMRFmR"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Rebola (feat. DoFlow)",
-        "url": "https://open.spotify.com/album/28G8TNrYXVLIYLsFPXGeyK"
-      },
-      "artists": [
-        {
-          "name": "Gettoblaster",
-          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
-        },
-        {
-          "name": "Teklow",
-          "url": "https://open.spotify.com/artist/1EosnwOj5ddu5EyjpAUS9T"
-        },
-        {
-          "name": "DoFlow",
-          "url": "https://open.spotify.com/artist/2dCbK9C2lQSWpDEMb2P4Vs"
-        }
-      ],
-      "duration_ms": 173926,
-      "name": "Rebola (feat. DoFlow)",
-      "url": "https://open.spotify.com/track/0FLhTpx3k2uU1qVGxpiLhs"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Crayzee",
-        "url": "https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 173907,
-      "name": "Crayzee",
-      "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
     }
   ],
   "unique_name": "Minimal Tech",

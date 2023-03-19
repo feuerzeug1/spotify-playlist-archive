@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 
 > La playlist idéale pour prendre la route.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,421 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,483 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 4 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
 | 5 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 6 | [Walk of Life](https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 4:12 |
-| 7 | [No Roots](https://open.spotify.com/track/4bPWDXpN6MlTZBedxega3X) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [No Roots](https://open.spotify.com/album/1WrXMwb4VdsRzFFVVHvyN0) | 3:55 |
+| 7 | [No Roots](https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi) | 3:57 |
 | 8 | [America](https://open.spotify.com/track/2pyA5g5GLsJgetJGc1mwlF) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorwhat? The Best Of Razorlight](https://open.spotify.com/album/5ukcsAk1XLdl0dRIKE6D8L) | 4:12 |
 | 9 | [Don't Wait For Me](https://open.spotify.com/track/0LRIic8CC7KkwJNA1yLgnE) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [C'est La vie](https://open.spotify.com/album/2DpWqMGAYZlpIJhNpTZN9u) | 2:58 |
 | 10 | [Shine on My Way](https://open.spotify.com/track/6V7HtXMotzn8hYZQ9iZ0v1) | [Diva Faune](https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT) | [Dancing with Moonshine](https://open.spotify.com/album/3CTQoMPMvtQoV7ckzAGk0P) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 79 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 |
 | 80 | [Your Woman](https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women In Technology](https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6) | 4:19 |
 
-Snapshot ID: `MTY3NjM2NTUwOCwwMDAwMDAwMDA5MjJlNzljOGRhNTY1NzM0NzE2YzAwOTVlNDM3NmQ4`
+Snapshot ID: `MTY3NjM2NTUwOCwwMDAwMDAwMDkzMzYzNjhkZDQyYjk5Zjg0MjUyOWM4YmVlYjNlNzU2`

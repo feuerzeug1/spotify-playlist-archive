@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-591 songs - 1 day 9 hr 35 min
+592 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-26 |  |
 | [Amrikkka](https://open.spotify.com/track/55LLrj5aARUqCLoDEwAp7v) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [Amrikkka](https://open.spotify.com/album/6NE77IxMk4wzSQjFWlFAte) | 3:25 | 2021-03-27\* | 2021-05-28 |
 | [ANA DEAL](https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [ANA DEAL](https://open.spotify.com/album/2WMRjvOdsTaYJbOf6tQ0tL) | 3:15 | 2022-09-10 | 2022-12-13 |
-| [Ana Ghaltan](https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:27 | 2022-06-03 |  |
+| [Ana Ghaltan](https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:27 | 2022-06-03 | 2023-03-19 |
 | [Ana Mesh Naguib Sawiris](https://open.spotify.com/track/6x2NGy1xES5Ujzk2kNKIrd) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ana Mesh Naguib Sawiris](https://open.spotify.com/album/652mBvpZNQoZdP1UKg1HLs) | 2:55 | 2021-03-27\* | 2021-04-01 |
 | [Ana Negm](https://open.spotify.com/track/6CU68VwcV10VfulVQMfj3X) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:01 | 2022-09-25 |  |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-04-16 |  |
@@ -114,7 +114,7 @@
 | [Dari Ya Alby \(Acoustic Version\)](https://open.spotify.com/track/6KbqmoQMmDkRYuMjK5GfwY) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Hateer Min Tany](https://open.spotify.com/album/1dxhXWVkSc5AMwHnf5VdwQ) | 3:31 | 2023-02-06 | 2023-02-11 |
 | [Dawla](https://open.spotify.com/track/5BedaQpN3d92CLUVewl94E) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Dawla](https://open.spotify.com/album/2pERipFZNzfQPbKR19Od0B) | 2:56 | 2021-04-04 | 2021-08-16 |
 | [DAWLETNA](https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:38 | 2023-02-26 |  |
-| [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-04-29 |  |
+| [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-04-29 | 2023-03-19 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dawn FM](https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-09 | 2022-01-12 |
 | [Dede \(Freestyle\)](https://open.spotify.com/track/1yAvAOitPEt5tc4nmB2fBZ) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Dede \(Freestyle\)](https://open.spotify.com/album/1N6EEnBowOzCTL18BrxXFz) | 3:25 | 2022-04-05 | 2022-04-07 |
@@ -408,6 +408,7 @@
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-05-09 |
 | [Sayrena Ya Donia](https://open.spotify.com/track/7o6OBdhiwn3RX9BOa5JjMc) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Sayrena Ya Donia](https://open.spotify.com/album/77ybZ6FgVwUJihzcZoCg3K) | 4:20 | 2022-02-20 | 2022-08-31 |
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2021-05-14 | 2021-05-20 |
+| [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 |  |
 | [Setto Ana](https://open.spotify.com/track/1BVNW6ruCHYS7nHhLIGtLF) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [Setto Ana](https://open.spotify.com/album/49n9NvltTck1iJAWiqstbM) | 2:21 | 2022-04-09 | 2022-04-29 |
 | [Sham3 3id El Milad](https://open.spotify.com/track/0kcmuRtga0TXoKTOcfLRXr) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Sham3 3id El Milad](https://open.spotify.com/album/2ubz2Ex7oXN1nch00vvyKN) | 2:14 | 2021-04-01 | 2021-04-09 |
 | [Shei2 Ghayrek](https://open.spotify.com/track/4YPA0Hn3l89uUXltOcu4vK) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 4:03 | 2023-02-18 | 2023-02-22 |
@@ -520,7 +521,7 @@
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-10-09 |  |
 | [بانوراما](https://open.spotify.com/track/2PCSAQsUfYMnmWZ4Tmkqme) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Enzo](https://open.spotify.com/artist/4U1hl9bY2xazNNeiU42obk), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 5:45 | 2022-07-14 | 2022-07-17 |
 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 | 2021-10-22 | 2021-12-01 |
-| [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-06-27 | 2023-03-14 |
+| [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-06-27 |  |
 | [بعودة يا بلادى](https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى](https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8) | 3:11 | 2022-03-22 | 2022-04-07 |
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy) | 3:11 | 2022-04-06 | 2023-01-29 |
 | [بنت ابويا](https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [بنت ابويا](https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc) | 3:57 | 2023-02-04 | 2023-02-25 |

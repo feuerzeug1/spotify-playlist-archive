@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,203 likes - 74 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,789 likes - 74 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 57 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 |
 | 58 | [Not Nice](https://open.spotify.com/track/1DIFFX5zpjyxaJvA8YFEji) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:45 |
 | 59 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
-| 60 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
+| 60 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/5Y2QnajGC68sn1AWjdX3r3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 3:29 |
 | 61 | [Spookie Coochie](https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Spookie Coochie](https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR) | 2:48 |
 | 62 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 |
 | 63 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 73 | [ME FIRST](https://open.spotify.com/track/0MqAcZlEeS5q152ehuFDTr) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [ME FIRST](https://open.spotify.com/album/6OxThzjOBX7RToUOxjPppa) | 2:33 |
 | 74 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDlhZDU4MTI4OGY1NjBlNzM4YWZkYmY1NjEyYTNlYTc0`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGNhZTQyM2M0ZDJhNjUxMTE5YzUzOTgyNWZiYjBhZDkz`

@@ -3427,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "POWER - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3WsYrkH5xsidXVE9wTQLAS"
+      },
+      "artists": [
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "POWER - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0K7JXyHrinnADZ7wSPsZGu"
+    },
+    {
+      "album": {
         "name": "Premier amour",
         "url": "https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv"
       },

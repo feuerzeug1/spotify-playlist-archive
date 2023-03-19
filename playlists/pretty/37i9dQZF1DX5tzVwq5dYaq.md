@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > Musica che, come la primavera, rende tutto più bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,929 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,941 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 58 | [Pride \(with mxmtoon\)](https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Pride](https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN) | 2:49 |
 | 59 | [Look For The Good \- Single Version](https://open.spotify.com/track/4XI5GjQ6zcJXsDnuyOGGEa) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/4eTkXKtjSt3N5FqFhu2GZy) | 3:59 |
 | 60 | [The Sound Of Sunshine](https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [The Sound Of Sunshine](https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy) | 3:45 |
-| 61 | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO) | 2:52 |
-| 62 | [Girls Go Wild](https://open.spotify.com/track/5AOqxn4l8BHO0or40XxCuh) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:43 |
+| 61 | [Girls Go Wild](https://open.spotify.com/track/5AOqxn4l8BHO0or40XxCuh) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:43 |
+| 62 | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO) | 2:52 |
 | 63 | [It's All Right](https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:50 |
 | 64 | [Grow Old with Me](https://open.spotify.com/track/6xjxMWGsprmtUVMDaMhgH0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:02 |
 | 65 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 70 | [Wildfire](https://open.spotify.com/track/2Ro9FLIVhPwIQopSr48oJT) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:44 |
 | 71 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 |
 | 72 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
-| 73 | [June, After Dark](https://open.spotify.com/track/1nSWQ5Y7OcuGiWGdA1UYlr) | [Elliot Root](https://open.spotify.com/artist/2czQ8vG4i3wBWxfsAt4yqw) | [Thoughts From Yesterday](https://open.spotify.com/album/21bHaOy9Gsbw9B2nC0o4Y1) | 3:39 |
-| 74 | [Stay With Me \(feat\. Jeremy Zucker\)](https://open.spotify.com/track/65Bynqyt59f3fojjs1Uo41) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [In the Shape of a Dream](https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz) | 3:09 |
-| 75 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 |
+| 73 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 |
+| 74 | [June, After Dark](https://open.spotify.com/track/1nSWQ5Y7OcuGiWGdA1UYlr) | [Elliot Root](https://open.spotify.com/artist/2czQ8vG4i3wBWxfsAt4yqw) | [Thoughts From Yesterday](https://open.spotify.com/album/21bHaOy9Gsbw9B2nC0o4Y1) | 3:39 |
+| 75 | [Stay With Me \(feat\. Jeremy Zucker\)](https://open.spotify.com/track/65Bynqyt59f3fojjs1Uo41) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [In the Shape of a Dream](https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz) | 3:09 |
 | 76 | [Don't Let Me Down](https://open.spotify.com/track/4hoNqOv7FRMefk6yC83yqP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Don't Let Me Down](https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o) | 3:20 |
 | 77 | [Reality](https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:38 |
 | 78 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 99 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 |
 | 100 | [Nobody's Fault](https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 3:22 |
 
-Snapshot ID: `MTY3NzU5NjA3NSwwMDAwMDAwMDYxNjc2MjNlODAyNjZkMTljOTA2OWJhZGE4ODA3NWY2`
+Snapshot ID: `MTY3NzU5NjA3NSwwMDAwMDAwMDZkMTY4M2MwNGIzYjVlYjk3YTM1ZjQ1OTE2ODc2NzYy`

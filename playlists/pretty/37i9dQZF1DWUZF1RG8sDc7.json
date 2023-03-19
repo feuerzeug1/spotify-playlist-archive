@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 70227,
+  "num_followers": 70396,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIyMTg2NywwMDAwMDAwMDFmMDhjOWFjZTQ5NWFlYzc5Y2IxMTY3ZDQyNzU4Nzg0",
+  "snapshot_id": "MTY3MTIyMTg2NywwMDAwMDAwMGIwNjcyMWVlZmVlYWQ3ZjYxZTM4NDFmZDNkZWVmODJl",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "Corazon Vallenato",
+        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+        }
+      ],
+      "duration_ms": 298826,
+      "name": "Como Duele El Frio",
+      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "Son Para El Mundo",
         "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 237800,
       "name": "Esta Vida",
       "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Corazon Vallenato",
-        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
-        }
-      ],
-      "duration_ms": 298826,
-      "name": "Como Duele El Frio",
-      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
     },
     {
       "added_at": "2022-12-16 20:17:47",

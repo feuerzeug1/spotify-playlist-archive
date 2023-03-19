@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,118 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,133 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,26 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 27 | [The Nephilim](https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 2:35 |
 | 28 | [The Killing Lights](https://open.spotify.com/track/5ThgOYuTH92cHr32utoGyN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 4:03 |
 | 29 | [Aurelia](https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:54 |
-| 30 | [File 13](https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:48 |
-| 31 | [End Transmission](https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love](https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I) | 3:46 |
-| 32 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 |
+| 30 | [End Transmission](https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love](https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I) | 3:46 |
+| 31 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 |
+| 32 | [File 13](https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:48 |
 | 33 | [Begging For Trouble](https://open.spotify.com/track/5JdWKsA1x4DOpn8w25vJHg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:20 |
 | 34 | [God Called In Sick Today](https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI](https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw) | 3:21 |
-| 35 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
-| 36 | [Malleus Maleficarum](https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 4:01 |
+| 35 | [Malleus Maleficarum](https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 4:01 |
+| 36 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
 | 37 | [Far Too Near](https://open.spotify.com/track/6MrpnM2VIpyjPQdnqItSYe) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:48 |
-| 38 | [Trash Bat](https://open.spotify.com/track/77S5QQdlLJmr3HT8gMuWS9) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Missing Man](https://open.spotify.com/album/6vvN8noC5dToR8W9WZPyRO) | 2:07 |
-| 39 | [This Secret Ninja](https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 2:20 |
-| 40 | [Narrative Of Soul Against Soul](https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:29 |
+| 38 | [Two Of A Kind](https://open.spotify.com/track/2dHVJ38uK5AmAyl06MSBx6) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:29 |
+| 39 | [Narrative Of Soul Against Soul](https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:29 |
+| 40 | [This Secret Ninja](https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 2:20 |
 | 41 | [Looking Tragic](https://open.spotify.com/track/0IgDRS7Sop5ClSYNFMTUSy) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:37 |
-| 42 | [Two Of A Kind](https://open.spotify.com/track/2dHVJ38uK5AmAyl06MSBx6) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:29 |
-| 43 | [Still A Stranger](https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:49 |
-| 44 | [The Last Kiss](https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:02 |
-| 45 | [Escape From Los Angeles](https://open.spotify.com/track/5r46wLYpaQIwEHoS4cbdBC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 3:24 |
-| 46 | [A Deep Slow Panic](https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14) | 4:01 |
-| 47 | [Hidden Knives](https://open.spotify.com/track/01qfmGPqmz2nWuM22YxdC5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:56 |
-| 48 | [The Prayer Position](https://open.spotify.com/track/6DxOjwql8bm5hGn7WtRnS8) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:27 |
+| 42 | [Trash Bat](https://open.spotify.com/track/77S5QQdlLJmr3HT8gMuWS9) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Missing Man](https://open.spotify.com/album/6vvN8noC5dToR8W9WZPyRO) | 2:07 |
+| 43 | [The Last Kiss](https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:02 |
+| 44 | [Still A Stranger](https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:49 |
+| 45 | [A Deep Slow Panic](https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Burials](https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14) | 4:01 |
+| 46 | [Escape From Los Angeles](https://open.spotify.com/track/5r46wLYpaQIwEHoS4cbdBC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 3:24 |
+| 47 | [The Prayer Position](https://open.spotify.com/track/6DxOjwql8bm5hGn7WtRnS8) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:27 |
+| 48 | [Hidden Knives](https://open.spotify.com/track/01qfmGPqmz2nWuM22YxdC5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:56 |
 | 49 | [Caught](https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Caught](https://open.spotify.com/album/4ZPqvJHBWHaFjgSkhWQcOA) | 4:11 |
 | 50 | [Dulcería](https://open.spotify.com/track/146C9OBVvmmRUVLPA6O8k8) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 4:53 |
 
-Snapshot ID: `Mjc5ODQyNjYsMDAwMDAwMDBkMTBkMDgwNjE5YmY1MjA3ODA0MTgxZTcxYjM1OGQ1ZQ==`
+Snapshot ID: `Mjc5ODU3MDYsMDAwMDAwMDAxMGRmNTdiZTY3ZThkZWQzYzJjZTFlZjE1ZTk0NWQxYQ==`

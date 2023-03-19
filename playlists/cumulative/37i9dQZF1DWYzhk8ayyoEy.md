@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart
 
-73 songs - 4 hr 4 min
+74 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 | 2023-01-04 |  |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2023-01-04 |  |
 | [Our Moment](https://open.spotify.com/track/01cmDm4asTTxN4M82JovaU) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Our Moment](https://open.spotify.com/album/5uUBaBc5fc0dsaH7XpMLtZ) | 4:12 | 2023-01-28 |  |
-| [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 | 2023-01-04 |  |
+| [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 | 2023-01-04 | 2023-03-19 |
+| [Pray](https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:41 | 2023-03-10 |  |
 | [Promised Land \(Collab OG\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5OGnvOXpZk65xdmmt1AddZ) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:30 | 2023-01-04 |  |
 | [Purpose](https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:30 | 2023-01-04 |  |
 | [Remedy](https://open.spotify.com/track/3FNGP6PdIy5LwvRqyN0dK6) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Remedy](https://open.spotify.com/album/02hu2FF03LeNdAT6M2OMJU) | 3:24 | 2023-01-04 | 2023-01-29 |

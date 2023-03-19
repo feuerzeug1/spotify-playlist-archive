@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,197 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,196 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 49 | [Touch The Sky](https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 4:22 |
 | 50 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 |
 | 51 | [Waymaker](https://open.spotify.com/track/0hLsDRLsfvwExXMBeDS53k) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM), [Madelyn Berry](https://open.spotify.com/artist/0BQdLOsJd5icawEym8uBp0) | [Awaken: The Surrounded Experience](https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa) | 7:17 |
-| 52 | [Lion and the Lamb \- Studio](https://open.spotify.com/track/1uneiO81sTTdPvsjr54yPK) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Invisible](https://open.spotify.com/album/1axaX2Egn3WjsIrtjsxvrb) | 4:31 |
-| 53 | [Hope Has a Name](https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA) | 4:48 |
+| 52 | [Hope Has a Name](https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA) | 4:48 |
+| 53 | [Lion and the Lamb \- Studio](https://open.spotify.com/track/1uneiO81sTTdPvsjr54yPK) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Invisible](https://open.spotify.com/album/1axaX2Egn3WjsIrtjsxvrb) | 4:31 |
 | 54 | [One Thing Remains \- Radio Version](https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion Collection](https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn) | 3:59 |
 | 55 | [Be Enthroned \- Live](https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 8:05 |
 | 56 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 78 | [Behold Him](https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Behold Him](https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy) | 4:41 |
 | 79 | [Alive In You \- Live](https://open.spotify.com/track/7IZj7C9LM2jj0ISnyve3Ox) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 5:14 |
 | 80 | [Blood is Still the Blood \(feat\. Chandler Moore, Nicole Binion, Ryan Ofei\)](https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Nicole Binion](https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Jubilee](https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD) | 10:03 |
-| 81 | [Hope Is Awake](https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Hope Is Awake](https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP) | 5:18 |
-| 82 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
+| 81 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
+| 82 | [Hope Is Awake](https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Hope Is Awake](https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP) | 5:18 |
 | 83 | [God So Loved \- Live](https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 7:07 |
 | 84 | [Waymaker \(Live\)](https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 8:20 |
 | 85 | [Afraid To Say \(feat\. Lauren Walters\)](https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lauren Walters](https://open.spotify.com/artist/7q4d6AQkUPNfmZzBhzfnNt) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Endlessly](https://open.spotify.com/track/3JrygX9aQ8rAHoQ0Tsm3cq) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:35 |
 | 100 | [Calvary's Cross](https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [This Is Jesus](https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks) | 5:17 |
 
-Snapshot ID: `MTY3NjY5OTcxOSwwMDAwMDAwMDA4YzI0NzA0Y2Q5ZWY3YWRjYjQ1NTNkZDc2MDllN2E3`
+Snapshot ID: `MTY3NjY5OTcxOSwwMDAwMDAwMDcwODk2ZWYwYjZmYzI2ZTU0NzEwMGU4NGU5NTk4ZDQx`

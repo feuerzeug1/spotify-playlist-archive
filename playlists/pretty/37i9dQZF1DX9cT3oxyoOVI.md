@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 
 > romanticizing indie music
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,419 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,787 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 23 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
 | 24 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 |
 | 25 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
-| 26 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
-| 27 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 |
+| 26 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 |
+| 27 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
 | 28 | [No Wind Resistance!](https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP) | [Kinneret](https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ) | [DMZ](https://open.spotify.com/album/0k7dBuSv2qW747vD7XGGEr) | 3:18 |
 | 29 | [Sick Feeling](https://open.spotify.com/track/7zxLkZbUxITHabPzGN8Xgc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 2:35 |
 | 30 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 32 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
 | 33 | [Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Vertigo](https://open.spotify.com/album/58NrvyTDNC3JMpyKyX60uI) | 3:30 |
 | 34 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 |
-| 35 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
-| 36 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
+| 35 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
+| 36 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
 | 37 | [Impatience](https://open.spotify.com/track/3BiTSDAHDZeQSJEwM9EprI) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw) | [Impatience](https://open.spotify.com/album/5EHlNWLkGeSSpWkKpDNptJ) | 2:34 |
 | 38 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
 | 39 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 45 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 |
 | 46 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 |
 | 47 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
-| 48 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 |
-| 49 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/1oPd8gfPWu6zeKQX9flbpk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:10 |
+| 48 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/1oPd8gfPWu6zeKQX9flbpk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:10 |
+| 49 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 |
 | 50 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 |
 | 51 | [Awkward Conversations](https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03) | 3:19 |
 | 52 | [Dog Eat Dog](https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Dog Eat Dog](https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N) | 2:49 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 61 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
 | 62 | [Zéro](https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 2:51 |
 | 63 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
-| 64 | [YAKITORI](https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:44 |
-| 65 | [Swimming Pools](https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Swimming Pools](https://open.spotify.com/album/5Zcg17XUGy8YawKHEfBpff) | 2:38 |
+| 64 | [Swimming Pools](https://open.spotify.com/track/0g1q3xCsQ2KqjJQGONYGZ7) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Swimming Pools](https://open.spotify.com/album/5Zcg17XUGy8YawKHEfBpff) | 2:38 |
+| 65 | [YAKITORI](https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:44 |
 | 66 | [Empty Air](https://open.spotify.com/track/0uDk3TAVnAQXQmsrEuZHbc) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [I Don't Like Roses](https://open.spotify.com/album/58syBUrmo8UCiWFF2BuszZ) | 3:00 |
 | 67 | [the wire](https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [the wire](https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i) | 3:38 |
 | 68 | [confident](https://open.spotify.com/track/0l5RnR0hCX0PnOlYuR6x3q) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [I started a garden](https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 74 | [One Last Girl](https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:05 |
 | 75 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 |
 
-Snapshot ID: `MTY3NTA5MjE1OCwwMDAwMDAwMDI2NzZlMzNmYmMxZTY4YzMyNzFiNjgwMDkxNWYwMDVi`
+Snapshot ID: `MTY3NTA5MjE1OCwwMDAwMDAwMGJmMjJmNDFmYzIwYmUwMzE5OWIyY2JlMmY1OWQzYWIz`

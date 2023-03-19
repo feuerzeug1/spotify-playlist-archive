@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,882 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,053 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 37 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 |
 | 38 | [Dying in LA](https://open.spotify.com/track/18xmRkPWE0sGUzFyNNAAhN) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:49 |
 | 39 | [All I Need](https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:50 |
-| 40 | [Hearts / Wires](https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:20 |
-| 41 | [Hurricane](https://open.spotify.com/track/7FLVnDMOZXKRFgRM3C4aUG) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 6:12 |
+| 40 | [Hurricane](https://open.spotify.com/track/7FLVnDMOZXKRFgRM3C4aUG) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 6:12 |
+| 41 | [Hearts / Wires](https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:20 |
 | 42 | [All The Same](https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Dressed Up As Life](https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC) | 4:18 |
 | 43 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 |
 | 44 | [Liberation](https://open.spotify.com/track/3I0PsB3pr6PPyesjPIXjA9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 74 | [The Unknown](https://open.spotify.com/track/7Eg9qnJK7hI7LLoRsbvH2X) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 2:59 |
 | 75 | [Darlin'](https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 5:00 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDY0YWM3ZGMwM2VkNzBmMzZlNTdjMTMwNGU4NTIyNmI3`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMGMyNGJhNzdlMmNjYmExNGUyZjM4NzAzYjlhZWY2YjM0`

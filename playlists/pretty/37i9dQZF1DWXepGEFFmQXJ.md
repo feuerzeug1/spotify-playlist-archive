@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,225 likes - 77 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,560 likes - 77 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 12 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 |
 | 13 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 |
 | 14 | [Note To Self](https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Note To Self](https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2) | 3:13 |
-| 15 | [Acres](https://open.spotify.com/track/4JIWCqW9WFHYD7Snwxji7m) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Acres](https://open.spotify.com/album/59ZMKvAyxlAYf6IioYgSi0) | 3:52 |
+| 15 | [Acres](https://open.spotify.com/track/3C4L7c5JSB0ONiYli4Hplb) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Beer and Fishin'](https://open.spotify.com/album/1EpFGwrI0vUVf7YPhUgZCe) | 3:52 |
 | 16 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 |
 | 17 | [Broken](https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Broken](https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT) | 2:57 |
 | 18 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 76 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 |
 | 77 | [Millionaire](https://open.spotify.com/track/1YwOSZQrRDGHo0Im3phwZ0) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Millionaire](https://open.spotify.com/album/16Hm1tCsQ1W6spayxv6618) | 3:46 |
 
-Snapshot ID: `MTY3ODk3MTYwMCwwMDAwMDAwMDViOTQ5OTgxYzEzMGVkOTc4MjNiMmY2Y2NmZDE2M2M3`
+Snapshot ID: `MTY3ODk3MTYwMCwwMDAwMDAwMDViYjM5OTRjYmJlNzk3ZTMzNThiYWU1ZWJlNTYwZTkz`

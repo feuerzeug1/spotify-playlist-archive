@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-567 songs - 1 day 0 hr 11 min
+570 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Enchanted](https://open.spotify.com/track/1dsYQlcWbdFTeS7Ncdyx3m) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Enchanted](https://open.spotify.com/album/4cStBsyEqO7omSXEXzGzqy) | 2:27 | 2022-05-27 |  |
 | [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-05-27 |  |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-05-27 | 2023-03-06 |
+| [Erica](https://open.spotify.com/track/4PYHW0oWq4kLX0XtCcizUR) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Erica](https://open.spotify.com/album/5DWoL3P5WsSBjTieW3BlkA) | 2:06 | 2023-03-06 |  |
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2022-05-27 |  |
 | [Eternal Light](https://open.spotify.com/track/0utTxlkXq7mv67jgyL7XEg) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Eternal Light](https://open.spotify.com/album/0kKtZbnc8mRAEz6VMdhIZg) | 2:18 | 2022-05-27 |  |
 | [even slow](https://open.spotify.com/track/4CHuMXtt9m64sb3iun6DZc) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [even slow](https://open.spotify.com/album/7BikQrA6Onq2BGwAl6Rxbq) | 2:57 | 2022-05-27 | 2022-09-24 |
@@ -217,7 +218,7 @@
 | [Høstsol](https://open.spotify.com/track/4WSd5HfPN9mlJl4lSzoXw4) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Høstsol](https://open.spotify.com/album/17kenhwkiIX1zmroBRnfdH) | 2:09 | 2022-05-27 | 2023-01-26 |
 | [I found you](https://open.spotify.com/track/53LdGm0FF9hIH4GY1aytqr) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [I found you](https://open.spotify.com/album/46AgYDtzsWu8eczwGknUBW) | 2:17 | 2022-07-20 |  |
 | [I Remember](https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [I Remember](https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg) | 2:22 | 2022-05-27 | 2022-07-21 |
-| [I Try](https://open.spotify.com/track/2iqN4qtrdyp43YZONn3sgF) | [Helena Gabriel](https://open.spotify.com/artist/5AW3NFlJDX8SX4LoHNTZOO) | [I Try](https://open.spotify.com/album/6EZsJTZbEkW91ZFgpzCchU) | 1:49 | 2022-05-27 |  |
+| [I Try](https://open.spotify.com/track/2iqN4qtrdyp43YZONn3sgF) | [Helena Gabriel](https://open.spotify.com/artist/5AW3NFlJDX8SX4LoHNTZOO) | [I Try](https://open.spotify.com/album/6EZsJTZbEkW91ZFgpzCchU) | 1:49 | 2022-05-27 | 2023-03-19 |
 | [If Only](https://open.spotify.com/track/3NBuhsRRawz3pK7Y8MImwX) | [Jamie Bendrodt](https://open.spotify.com/artist/3NBXKIjJCcTcDmhq7cbyei) | [If Only](https://open.spotify.com/album/7K5p6bRBT9M1a9qzTPtvmQ) | 2:04 | 2022-05-27 | 2022-09-24 |
 | [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2022-05-27 | 2023-01-27 |
 | [Illusive Appearance](https://open.spotify.com/track/1TjW6B6oAQTyh4ca3r32DA) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Illusive Appearance](https://open.spotify.com/album/1B1fTeAhsxFmMQtRvsRqSF) | 3:09 | 2022-05-27 | 2022-09-24 |
@@ -374,6 +375,7 @@
 | [Parisian Walkways](https://open.spotify.com/track/0Iv417JLAl33iLcVvfnkul) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Parisian Walkways](https://open.spotify.com/album/1prLAGlb3KejKZWjOMWUIN) | 3:50 | 2023-02-20 |  |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-05-27 | 2023-01-21 |
 | [Penumbra](https://open.spotify.com/track/6ju8Yz9swqGjPAtHtWFDVM) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Penumbra](https://open.spotify.com/album/21kwKcryvuHzhqONHgQUAM) | 1:58 | 2022-05-27 | 2022-09-24 |
+| [petite valse](https://open.spotify.com/track/5TZ5OgfQaJGchkQtHDhMhs) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [petite valse](https://open.spotify.com/album/3s7rYgkSaI5b7NqNdEkgwF) | 2:13 | 2023-03-06 |  |
 | [Petrichor](https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Petrichor](https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz) | 2:27 | 2022-05-27 | 2023-01-21 |
 | [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 | 2022-05-27 | 2023-01-21 |
 | [Photogenic](https://open.spotify.com/track/2DTjH3rqfsetlLYd6kcMwf) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Photogenic](https://open.spotify.com/album/53lBBd1hwJ1hBmw5TIOAqt) | 2:14 | 2023-03-06 |  |
@@ -452,7 +454,7 @@
 | [Song for Marianne](https://open.spotify.com/track/2xlSPP16a3SSOLBPOvTDru) | [Shane Dillard](https://open.spotify.com/artist/4I3uP0iJu6cGL8H3HRJ6vq) | [Song for Marianne](https://open.spotify.com/album/26tnVVQif13uMyUux1Nsvc) | 2:13 | 2022-05-27 | 2022-09-29 |
 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 | 2022-05-27 |  |
 | [Sort Of Sentimental](https://open.spotify.com/track/56Wvp4BvcVgAosMtz1dkuV) | [Luke Dunn](https://open.spotify.com/artist/6YgUGLXjlKPOLwjAH7homB) | [Sort Of Sentimental](https://open.spotify.com/album/5sPc2pe8CqCNaZzdyJThXO) | 3:05 | 2023-02-06 |  |
-| [Soudainement](https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Soudainement](https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX) | 2:48 | 2022-05-27 |  |
+| [Soudainement](https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Soudainement](https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX) | 2:48 | 2022-05-27 | 2023-03-19 |
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-08-09 |  |
 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-05-27 | 2022-08-22 |
 | [Spring Shower](https://open.spotify.com/track/6mjeJniGJxw9q29cBHQKRH) | [Harbor Stone](https://open.spotify.com/artist/7IshNIQ1vOJIBFBx7FXfcn) | [Spring Shower](https://open.spotify.com/album/5cTl20iAy3UHlc1IIYyfWE) | 2:46 | 2022-05-27 |  |
@@ -535,7 +537,8 @@
 | [Vaikne](https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4) | [Rein Ilves](https://open.spotify.com/artist/1WkXyHkNDesVuoy1Q64ILn) | [Vaikne](https://open.spotify.com/album/5zCCxMWQbzOgzl4nij0PVT) | 2:07 | 2022-05-27 |  |
 | [Vale of Tears](https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Vale Of Tears](https://open.spotify.com/album/1t1VwebAkrX58MEDCi6ZLf) | 2:22 | 2022-05-27 |  |
 | [Velez\-Malaga](https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq) | [Rosa Monteiro](https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1) | [Velez\-Malaga](https://open.spotify.com/album/6bmGfliwOLuAcStJqB9sNl) | 3:14 | 2022-05-27 | 2022-12-06 |
-| [Velez\-Malaga](https://open.spotify.com/track/7lTwRNweZTKc9C4COzTihs) | [Rosa Monteiro](https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1) | [Relaxing Piano Classics](https://open.spotify.com/album/3pLxieuvyteE7gyAJYyAbz) | 3:14 | 2022-09-23 |  |
+| [Velez\-Malaga](https://open.spotify.com/track/7lTwRNweZTKc9C4COzTihs) | [Rosa Monteiro](https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1) | [Relaxing Piano Classics](https://open.spotify.com/album/3pLxieuvyteE7gyAJYyAbz) | 3:14 | 2022-09-23 | 2023-03-19 |
+| [Velvet Head](https://open.spotify.com/track/3qOUT5Azls5nmfgjE4aBHz) | [Tom Leaman](https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l) | [Velvet Head](https://open.spotify.com/album/3aYUpnis3GFRuCINuhpi8E) | 2:04 | 2023-03-06 |  |
 | [Venjan](https://open.spotify.com/track/1Q2GGydtsco68kLjwfyTMu) | [Harry Bergqvist](https://open.spotify.com/artist/7edUGJR9gORcdARCKR76ks) | [Venjan](https://open.spotify.com/album/7qnL09lriGNex377C6R0Ma) | 1:51 | 2022-05-27 | 2022-09-24 |
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-05-27 |  |
 | [Verses](https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Verses](https://open.spotify.com/album/0oEfniLgEookbXSSQSpIqE) | 3:15 | 2022-05-27 |  |

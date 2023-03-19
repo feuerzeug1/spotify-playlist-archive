@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,508 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,598 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 4 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
 | 5 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
 | 6 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
-| 7 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
-| 8 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
+| 7 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
+| 8 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
 | 9 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 10 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
 | 11 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 19 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 |
 | 20 | [Ocelot](https://open.spotify.com/track/55xZKTc8WnKY0r0G5y3NRP) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/2KdrIiL1UjCy9YDe6LnCzn) | 4:36 |
 | 21 | [The Mist](https://open.spotify.com/track/5i7jug3QciEvwbozP3pVlM) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Secrets of Castle](https://open.spotify.com/album/3KrF7sJyvkwbL4b3NpXh3a) | 2:54 |
-| 22 | [Until We Meet Again](https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1) | [Peak Twilight](https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Departure](https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7) | 3:09 |
-| 23 | [Crazy for You](https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx) | [Moai Beats](https://open.spotify.com/artist/5Zt96vfBQXmUB3fs3Qkm5q) | [Crazy for You](https://open.spotify.com/album/0RRw5IO6MRoPPOyQFq480D) | 4:10 |
+| 22 | [Crazy for You](https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx) | [Moai Beats](https://open.spotify.com/artist/5Zt96vfBQXmUB3fs3Qkm5q) | [Crazy for You](https://open.spotify.com/album/0RRw5IO6MRoPPOyQFq480D) | 4:10 |
+| 23 | [Until We Meet Again](https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1) | [Peak Twilight](https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Departure](https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7) | 3:09 |
 | 24 | [Preferences](https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Preferences](https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA) | 2:19 |
 | 25 | [I Still Like You](https://open.spotify.com/track/2P1pP6UfKgkUkCUzceAGEx) | [ビクター ＭＫＩＩ](https://open.spotify.com/artist/2lGJkXqpvUW77Kc6hcEIO8) | [Omoide](https://open.spotify.com/album/0N3ddx2vF7wsVEqtQRmfB1) | 2:20 |
 | 26 | [Forgotten](https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h) | [trxxshed](https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU), [Lomtre](https://open.spotify.com/artist/1k3LtgjJQgOGwjOyNSQuMJ) | [Far from Reality](https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i) | 2:07 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 47 | [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 |
 | 48 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 |
 | 49 | [heart cocktail](https://open.spotify.com/track/6cer5UGwSk3DT6774RxEXT) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9), [Alice333](https://open.spotify.com/artist/4RleTopZn6FPgixOm9Xkl3) | [heart cocktail](https://open.spotify.com/album/53XOdPgOyVUx1HDvwzb1Uz) | 2:56 |
-| 50 | [Distant Memory](https://open.spotify.com/track/7HL7aFk0ONq1QnlnDTtzov) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Distant Memory](https://open.spotify.com/album/5r4tbLxLxxotZV0qRQbpFG) | 2:43 |
+| 50 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 |
 
-Snapshot ID: `MTY3NzUzMTM3OSwwMDAwMDAwMGJlNTQ0ZTRmNDc3MjQwOTMzODgxODFmNTM5N2EwZTdl`
+Snapshot ID: `MTY3NzUzMTM3OSwwMDAwMDAwMDdhMmRiMjFmYWNmNjMzYWJjMTAxN2RkOTM2Mjc1Nzli`

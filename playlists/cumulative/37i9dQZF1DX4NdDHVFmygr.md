@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-237 songs - 12 hr 59 min
+238 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 | 2023-01-06 | 2023-02-07 |
 | [Papa](https://open.spotify.com/track/4nl8f2KRGtXZvpRe2aQbgw) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Papa](https://open.spotify.com/album/4xhwAhfQE2613qIp7kEhN0) | 2:41 | 2022-12-04 | 2023-01-18 |
 | [Porfavor](https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Porfavor](https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs) | 2:45 | 2021-12-25 | 2022-03-04 |
+| [POWER \- A COLORS SHOW](https://open.spotify.com/track/0K7JXyHrinnADZ7wSPsZGu) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [POWER \- A COLORS SHOW](https://open.spotify.com/album/3WsYrkH5xsidXVE9wTQLAS) | 2:53 | 2023-03-18 |  |
 | [Premier amour](https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Premier amour](https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv) | 3:08 | 2022-12-13 | 2022-12-21 |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 | 2023-02-22 |
 | [S7aba](https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [S7aba](https://open.spotify.com/album/3G7A0LhiXySh8bmjm0xSF7) | 2:56 | 2022-06-09 | 2022-07-17 |

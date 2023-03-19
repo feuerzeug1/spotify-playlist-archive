@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,929 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,934 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 15 | [Ya mi mama me decía](https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 3:11 |
 | 16 | [hey girl](https://open.spotify.com/track/5x9r0HaFznxQ32J2JZFhub) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 3:07 |
 | 17 | [Ojitos de Md](https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Ojitos de Md](https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv) | 2:17 |
-| 18 | [Amor Ferrari](https://open.spotify.com/track/1VPrFor2HSi3I6wStnfoHq) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Pierdas la Simpleza](https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N) | 2:45 |
+| 18 | [Sweet Honey](https://open.spotify.com/track/6o7rsXLvLgx2gmKLGDNe0g) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Everlasting](https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ) | 3:26 |
 | 19 | [La Pared](https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [La Pared](https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa) | 4:49 |
-| 20 | [Sweet Honey](https://open.spotify.com/track/6o7rsXLvLgx2gmKLGDNe0g) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Everlasting](https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ) | 3:26 |
+| 20 | [Amor Ferrari](https://open.spotify.com/track/1VPrFor2HSi3I6wStnfoHq) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Pierdas la Simpleza](https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N) | 2:45 |
 | 21 | [Oro de Abeja](https://open.spotify.com/track/2q3GgW71FqrEfFFtdWC3tJ) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Estado de Enlace](https://open.spotify.com/album/4wQOcHIqzPgS3dMbXWKy8z) | 3:48 |
 | 22 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 |
 | 23 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 50 | [Como un Dragón](https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 2:50 |
 | 51 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
 | 52 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
-| 53 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
-| 54 | [Quédate Cerca](https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2) | 3:35 |
+| 53 | [Quédate Cerca](https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2) | 3:35 |
+| 54 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
 | 55 | [Cristales](https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Cristales](https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK) | 3:45 |
 | 56 | [Ay Corazón \(Silencio\)](https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2) | 3:52 |
 | 57 | [La Flor](https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [La Flor](https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH) | 3:06 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 82 | [Semana Satán](https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Fantasía Moral](https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg) | 5:05 |
 | 83 | [Las Ruinas](https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q) | [Misile](https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0) | [Ruinas](https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0) | 5:02 |
 | 84 | [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 |
-| 85 | [Puede Ser Mortal](https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo) | [Feroe](https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a) | [Puede Ser Mortal](https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2) | 4:14 |
-| 86 | [Corte Superior](https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Corte Superior](https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG) | 3:56 |
+| 85 | [Corte Superior](https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Corte Superior](https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG) | 3:56 |
+| 86 | [Puede Ser Mortal](https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo) | [Feroe](https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a) | [Puede Ser Mortal](https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2) | 4:14 |
 | 87 | [Alguien Detrás de Mi](https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Parece A](https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9) | 3:48 |
 | 88 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
 | 89 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
 
-Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMGQzMWJiNDFiMDYwY2QxYTA5YTRmYmQwYzRjYTVlODFm`
+Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMDdjZjVhNmM0MWMxZDRhYjMyODk1MmEwNDg4YTdmM2Jk`

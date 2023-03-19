@@ -1,6 +1,6 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Sigourney K & KATNUF",
-  "num_followers": 254879,
+  "num_followers": 254905,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Leidseplein (feat. KATNUF)",
+        "name": "Leidseplein",
         "url": "https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC"
       },
       "artists": [
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 161831,
-      "name": "Leidseplein (feat. KATNUF)",
+      "name": "Leidseplein",
       "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Drink Teveel",
+        "name": "Drink Te Veel",
         "url": "https://open.spotify.com/album/2VEazsx4ZPjdFRyZTdYqum"
       },
       "artists": [
@@ -1317,7 +1317,7 @@
         }
       ],
       "duration_ms": 127998,
-      "name": "Drink Teveel",
+      "name": "Drink Te Veel",
       "url": "https://open.spotify.com/track/2XGCCGqoxXB6XjITU4y2Al"
     },
     {
@@ -1580,12 +1580,12 @@
           "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
         },
         {
-          "name": "Eva Simons",
-          "url": "https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA"
-        },
-        {
           "name": "Sevenn",
           "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Eva Simons",
+          "url": "https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA"
         }
       ],
       "duration_ms": 140783,
@@ -1692,7 +1692,7 @@
           "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
         }
       ],
-      "duration_ms": 212896,
+      "duration_ms": 212905,
       "name": "Weisse Fahnen",
       "url": "https://open.spotify.com/track/3b4Wdpk6yOx4iEXzfzpnJ9"
     },

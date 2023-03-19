@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Vincent Vissers & Jairzinho op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,148 likes - 103 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,185 likes - 103 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 |
 | 2 | [Bullshit](https://open.spotify.com/track/5TWAZg0WxDZxFkd3OqIzW1) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Bullshit](https://open.spotify.com/album/5oPOBewtDHaokf2ApJPkNX) | 2:45 |
 | 3 | [Terugweg](https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Terugweg](https://open.spotify.com/album/46lVBb2r3TX8sG9ViP0pii) | 2:43 |
-| 4 | [Leidseplein \(feat\. KATNUF\)](https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Leidseplein \(feat\. KATNUF\)](https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC) | 2:41 |
+| 4 | [Leidseplein](https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Leidseplein](https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC) | 2:41 |
 | 5 | [Camera](https://open.spotify.com/track/4twF3kjfCgl0MJIhbJlXca) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Camera](https://open.spotify.com/album/5Cv9zHrHO15rMIkDGEAiwp) | 2:26 |
 | 6 | [Vlinder](https://open.spotify.com/track/07anqvcBCZVR8AKn4RZEw1) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Vlinder](https://open.spotify.com/album/7oxJp1V8RBoIjXHx9x9dyi) | 3:15 |
 | 7 | [De Vergiffenis](https://open.spotify.com/track/112BxBbiiPs82A4B99v18s) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 2:54 |

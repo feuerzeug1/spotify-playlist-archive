@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 
 > The saddest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,514 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,568 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 | 42 | [Crying My Heart Out for You](https://open.spotify.com/track/1AkvPKQtV0IaHbMlw0cF8p) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:13 |
 | 43 | [I Hope She'll Be Happier with Him](https://open.spotify.com/track/4MWgDWsgpdHIOwIdLN9pNb) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hits & Rarities](https://open.spotify.com/album/6wZE4Eesz3b3wdrv9BRSKk) | 5:04 |
 | 44 | [Bad Luck](https://open.spotify.com/track/3OyEgS5Y0rdlnrapTke9sP) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Eddie Chamblee & His Orchestra](https://open.spotify.com/artist/5L0vJK0dN4dDCn2SjYUpQW) | [The Queen!](https://open.spotify.com/album/1iDTkNsswLznHgYP8DTSUN) | 2:54 |
-| 45 | [Someone Else's Roses](https://open.spotify.com/track/0QAyWF4Sy1vTfW3eJEhVAx) | [Joan Regan](https://open.spotify.com/artist/6HviRceqvDGNfw8PXqQgc0) | [Smile!](https://open.spotify.com/album/1T2AnbgmSiq3ko8x4GdaGC) | 2:21 |
-| 46 | [Good Morning Heartache](https://open.spotify.com/track/0kXTWwLrFYtQeVXgPQzTiv) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Tribute To The Lady](https://open.spotify.com/album/7IR2bLGz2TpcpfVZXV8bRs) | 2:09 |
+| 45 | [Good Morning Heartache](https://open.spotify.com/track/0kXTWwLrFYtQeVXgPQzTiv) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Tribute To The Lady](https://open.spotify.com/album/7IR2bLGz2TpcpfVZXV8bRs) | 2:09 |
+| 46 | [Someone Else's Roses](https://open.spotify.com/track/0QAyWF4Sy1vTfW3eJEhVAx) | [Joan Regan](https://open.spotify.com/artist/6HviRceqvDGNfw8PXqQgc0) | [Smile!](https://open.spotify.com/album/1T2AnbgmSiq3ko8x4GdaGC) | 2:21 |
 | 47 | [Backwater Blues](https://open.spotify.com/track/26uFDxLujO2qtZQrpu7eTt) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Eddie Chamblee & His Orchestra](https://open.spotify.com/artist/5L0vJK0dN4dDCn2SjYUpQW) | [The Queen!](https://open.spotify.com/album/1iDTkNsswLznHgYP8DTSUN) | 3:02 |
 | 48 | [TODAY I SING THE BLUES](https://open.spotify.com/track/6xY3S5g4wqeyE1fItzNBPa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Tribute To The Lady \(International Version\)](https://open.spotify.com/album/5s2DFcjjTKMiL9HYHij0uH) | 3:20 |
 
-Snapshot ID: `MTYyOTM2OTYxMiwwMDAwMDAwMGNkYTQ2YjhhNjIwMzA0ZjNjYzI5MGM3ZmNmNmUyNDk4`
+Snapshot ID: `MTYyOTM2OTYxMiwwMDAwMDAwMDRkNzJlNjliNzk0OTkzZmE0NTEwMTEyMWViNGFjYzkx`

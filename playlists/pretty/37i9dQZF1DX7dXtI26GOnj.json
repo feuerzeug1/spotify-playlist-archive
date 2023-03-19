@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Maluma",
-  "num_followers": 122281,
+  "num_followers": 122483,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDZhNjIxYTRlZTA0MDY1YTZhOGJhZTljOGQ0M2I4NjM1",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDgzNGE1OTk4NzE4YzljZDc5MDQ0MjM5ZDBmZmNhMzU2",
   "tracks": [
     {
       "added_at": "2023-03-10 21:08:06",
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
-      "added_at": "2023-03-18 00:44:40",
+      "added_at": "2023-03-19 01:05:24",
       "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-03-10 21:08:06",
       "album": {
-        "name": "Yonaguni",
-        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 206710,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
-    },
-    {
-      "added_at": "2023-03-10 21:08:06",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
+    },
+    {
+      "added_at": "2023-03-10 21:08:06",
+      "album": {
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
       "added_at": "2023-03-10 21:08:06",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-03-10 21:08:06",
       "album": {
+        "name": "NO voy a llorar :')",
+        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "NO voy a llorar :')",
+      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
+    },
+    {
+      "added_at": "2023-03-10 21:08:06",
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 241880,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
-    },
-    {
-      "added_at": "2023-03-10 21:08:06",
-      "album": {
-        "name": "NO voy a llorar :')",
-        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "NO voy a llorar :')",
-      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
     },
     {
       "added_at": "2023-03-10 21:08:06",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-03-10 21:08:06",
       "album": {
+        "name": "Binikini",
+        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 183048,
+      "name": "Binikini",
+      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
+    },
+    {
+      "added_at": "2023-03-10 21:08:06",
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
-    },
-    {
-      "added_at": "2023-03-10 21:08:06",
-      "album": {
-        "name": "Binikini",
-        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 183048,
-      "name": "Binikini",
-      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
     },
     {
       "added_at": "2023-03-10 21:08:06",

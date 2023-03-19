@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 171120,
       "name": "Certified",
       "url": "https://open.spotify.com/track/2Gn2bH14XiEMWdb1Y0iJJi"
@@ -6773,6 +6773,24 @@
     },
     {
       "album": {
+        "name": "Should Have Cared",
+        "url": "https://open.spotify.com/album/0ETiF2YCpnUMf0A9R8XPao"
+      },
+      "artists": [
+        {
+          "name": "nezsa",
+          "url": "https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Should Have Cared",
+      "url": "https://open.spotify.com/track/0AfGuZU5zRTJVQ48xNseAR"
+    },
+    {
+      "album": {
         "name": "Shoulda",
         "url": "https://open.spotify.com/album/3sQ1EVwf6xDXaNOK32a7h8"
       },
@@ -6868,7 +6886,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 131542,
       "name": "Smoke, Drink, Break Up (feat. Wale)",
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
@@ -6942,6 +6960,28 @@
       "duration_ms": 189546,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
+    },
+    {
+      "album": {
+        "name": "The Hurtbook (Homegirl Pack)",
+        "url": "https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193781,
+      "name": "So Be It (with Summer Walker) - Remix",
+      "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
     },
     {
       "album": {

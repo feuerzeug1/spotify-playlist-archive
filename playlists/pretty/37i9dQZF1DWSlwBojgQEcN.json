@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1761578,
+  "num_followers": 1761839,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGI0OTk0ZTJmMmY0N2Y0NDQ5YTEwOGM4YzE3N2NhYjEw",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGQwOGE5ODlmZDk2Y2VhMzNhOGQ4ZWIwNjZiNDYwNWEw",
   "tracks": [
     {
       "added_at": "2023-02-14 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-02-14 05:00:00",
       "album": {
-        "name": "Evermore",
-        "url": "https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 223846,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X"
-    },
-    {
-      "added_at": "2023-02-14 05:00:00",
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 255837,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/2jTkLdldm7xtHUfHKhzR7S"
+    },
+    {
+      "added_at": "2023-02-14 05:00:00",
+      "album": {
+        "name": "Evermore",
+        "url": "https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 223846,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X"
     },
     {
       "added_at": "2023-02-14 05:00:00",

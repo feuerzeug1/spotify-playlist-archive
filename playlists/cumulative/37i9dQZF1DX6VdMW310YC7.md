@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,452 songs - 4 day 4 hr 18 min
+1,453 songs - 4 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Don’t Doubt ur Vibe](https://open.spotify.com/track/6GGODyP2LIdbxIfYxy5UbN) | [Elon “EDM” Musk](https://open.spotify.com/artist/2WUTOhBxG2HjyKYFJrcSPB) | [Don’t Doubt ur Vibe](https://open.spotify.com/album/3QgUIdbSghCUjdRArtfegJ) | 4:01 | 2020-05-18 | 2020-10-09 |
 | [Don’t Let Get You Down \- Edit](https://open.spotify.com/track/6o8muWtNPh3PoVWOr2wUVy) | [Wajatta](https://open.spotify.com/artist/0Yh5vHNrVsgQ9UEcj8Rqss) | [Don’t Let Get You Down](https://open.spotify.com/album/5fdjWkMSINkbzSfLkanFcz) | 3:48 | 2020-05-18 | 2021-03-10 |
 | [Don’t Make Me Wait](https://open.spotify.com/track/5kuOKkzZKK6PKNT4KKoHZU) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [Joker Jaxx](https://open.spotify.com/artist/0p4lf0URwp0RR3NuQ1sBrJ) | [Casa Mirage EP](https://open.spotify.com/album/34TytAkF3zsBfMVippDJSd) | 4:04 | 2020-05-18 | 2020-07-03 |
-| [Don’t Worry](https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Don’t Worry](https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c) | 4:36 | 2021-12-10 |  |
+| [Don’t Worry](https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Don’t Worry](https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c) | 4:36 | 2021-12-10 | 2023-03-19 |
 | [Dorfex Bos \- Bassnectar Remix 2015 Version](https://open.spotify.com/track/4nhPLFdQIZyZzt6mw1mMoX) | [Dorfex Bos](https://open.spotify.com/artist/60lZ2sr01yS7uJQeq7zoPv), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Into the Sun](https://open.spotify.com/album/29e92rWX8k9EYyhi3COxtE) | 5:05 | 2020-05-22 | 2020-07-03 |
 | [Dreamer's Wake](https://open.spotify.com/track/320ePMZ8X0ugeffZk0wNzY) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:04 | 2020-02-29\* | 2020-03-16 |
 | [Dreaming](https://open.spotify.com/track/6CwaYw74Ba0TbvsUyrBIGL) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Dreaming](https://open.spotify.com/album/6oL3A2JHKBTyHl49aFOei2) | 4:45 | 2022-05-06 | 2022-12-29 |
@@ -384,6 +384,7 @@
 | [Explorers \(Instrumental\)](https://open.spotify.com/track/3pCXg1LVxAQVPFKQrMJ66W) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids \(The Instrumentals\)](https://open.spotify.com/album/77StEacT5IhWZLdj0Rj2W2) | 4:16 | 2020-03-20 | 2022-01-08 |
 | [Expressing What Matters](https://open.spotify.com/track/5r6i1lP5JR5sgtUirJpIZU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Expressing What Matters](https://open.spotify.com/album/2L9uIxYYxJm3zxUkDDMfs9) | 4:23 | 2020-05-18 | 2020-10-09 |
 | [Eyes](https://open.spotify.com/track/6vkFCzPmJ3beYG0zeevdmX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:50 | 2020-03-20 | 2020-07-03 |
+| [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 | 2023-03-10 |  |
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2021-11-12 | 2023-03-01 |
 | [Eyes Closed](https://open.spotify.com/track/1dmmZ4gkN8U6fYT8cOqAPE) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The Wave](https://open.spotify.com/album/0FPqSXvARe3Hr3xL2sEuIe) | 1:50 | 2020-05-18 | 2020-07-03 |
 | [FACES](https://open.spotify.com/track/3ypEkkF1BKWni32Ybod9gv) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:57 | 2020-05-18 | 2020-07-18 |

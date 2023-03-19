@@ -2714,10 +2714,6 @@
           "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
         },
         {
-          "name": "Luis Ernesto Perea Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0KraBV8fvH3totbf174ple"
-        },
-        {
           "name": "ALI Prod.",
           "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
@@ -61753,24 +61749,6 @@
     },
     {
       "album": {
-        "name": "Qu\u00e9 Corre Por Tus Venas",
-        "url": "https://open.spotify.com/album/0ZQIU1X7oG6PfrnkFnjQ00"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "date_added": "2023-03-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215013,
-      "name": "Qu\u00e9 Corre Por Tus Venas",
-      "url": "https://open.spotify.com/track/1RBDz1zIbqmo6yjctXfU4R"
-    },
-    {
-      "album": {
         "name": "Procedente",
         "url": "https://open.spotify.com/album/7EIkMp1lhoELiFfNmYZaxb"
       },
@@ -68563,7 +68541,7 @@
     },
     {
       "album": {
-        "name": "Solo un eco",
+        "name": "Solo Un Eco",
         "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
       "artists": [
@@ -81800,6 +81778,24 @@
       "duration_ms": 213509,
       "name": "\u00bfQUI\u00c9N T\u00da ERES?",
       "url": "https://open.spotify.com/track/6qWDIdglHcORIUVWk0rXQN"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Corre Por Tus Venas?",
+        "url": "https://open.spotify.com/album/0ZQIU1X7oG6PfrnkFnjQ00"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "\u00bfQu\u00e9 Corre Por Tus Venas?",
+      "url": "https://open.spotify.com/track/1RBDz1zIbqmo6yjctXfU4R"
     },
     {
       "album": {

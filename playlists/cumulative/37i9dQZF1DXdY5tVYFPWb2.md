@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-458 songs - 1 day 6 hr 19 min
+459 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [laundry](https://open.spotify.com/track/6d1IerctieMQJK055jr1DP) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [ERAM](https://open.spotify.com/album/3v0jkfKjD4uPmkcPxJGV3D) | 4:31 | 2022-06-07 | 2022-06-22 |
 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 | 2022-05-24 |  |
 | [Learn To Fly](https://open.spotify.com/track/6pwPSGSL84hSbKqXv6Iw9P) | [The Lamb](https://open.spotify.com/artist/6Df2pJCe7Ud1Q7kWvf68cx) | [The Lamb](https://open.spotify.com/album/0ZpfhsSYV2Jdxg4cAcUEyI) | 3:22 | 2023-02-14 | 2023-02-22 |
-| [Left Alone feat\. 土岐麻子](https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Left Alone feat\. 土岐麻子](https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r) | 4:10 | 2022-09-27 |  |
+| [Left Alone feat\. 土岐麻子](https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Left Alone feat\. 土岐麻子](https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r) | 4:10 | 2022-09-27 | 2023-03-19 |
 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 | 2022-12-06 | 2023-02-13 |
 | [lostpeople](https://open.spotify.com/track/14haJ18mwSL6BwqMDHS6qX) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [lostpeople](https://open.spotify.com/album/358geVKGrGtN2Tb9nNTw2P) | 3:39 | 2022-06-16 | 2022-06-22 |
 | [LOUDER](https://open.spotify.com/track/6el3HQiV8Mr0PtKULqjFcl) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [LOUDER](https://open.spotify.com/album/0LMs2Sa0fiAVmNYoQkBgCJ) | 3:55 | 2022-06-07 | 2023-01-13 |
@@ -193,6 +193,7 @@
 | [Open your eyes](https://open.spotify.com/track/1PkFHFWx0SMrlSJigw9y3o) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [YONA YONA WEEKENDERS](https://open.spotify.com/album/2MG9YtFTkhYta2Z9vOXqP9) | 4:09 | 2022-05-31 | 2022-07-13 |
 | [Outsider](https://open.spotify.com/track/3nrUk5haVUeTEhmczsCN5I) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [Outsider](https://open.spotify.com/album/0RaF0nzY9WklPv8AdyHonE) | 2:05 | 2022-05-24 | 2022-07-22 |
 | [Outsider](https://open.spotify.com/track/41JNAl5ZylGTIRWtm7dkv5) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [Outsider](https://open.spotify.com/album/1kZUCuLSXTnkjyk87yv6ZF) | 4:28 | 2022-07-12 | 2022-07-15 |
+| [Pacific Line](https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Pacific Line](https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx) | 4:11 | 2023-03-18 |  |
 | [PALE MOON](https://open.spotify.com/track/2VGhq0SfQJG8Ei4HoUE2od) | [paris match](https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof) | [PALE MOON](https://open.spotify.com/album/1XkeR4XzRHf2xv0YvWJ1fy) | 6:22 | 2022-09-27 | 2022-09-29 |
 | [PALE MOON](https://open.spotify.com/track/7KX3RiFmF4fbs5r3rcIsj6) | [paris match](https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof) | [PALE MOON](https://open.spotify.com/album/0V2HGG32RosZNMfjMXi5Lz) | 6:22 | 2022-09-27 | 2022-10-05 |
 | [PAPER DOLL](https://open.spotify.com/track/56k3tbMWCkxVIA71a7ozF2) | [monolog](https://open.spotify.com/artist/5WUI6RK8fhiAr4uglNc4mT), [AI ICHIKAWA](https://open.spotify.com/artist/3yp4pLgo4tSDtD6pbJSPa1) | [TWILIGHT TIME](https://open.spotify.com/album/0WNOuQ9sN0J3lV3pkzrJMu) | 2:37 | 2022-06-14 | 2022-06-22 |

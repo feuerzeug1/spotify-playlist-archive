@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u30a8\u30ec\u30d5\u30a1\u30f3\u30c8\u30ab\u30b7\u30de\u30b7",
-  "num_followers": 252180,
+  "num_followers": 252212,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNjAwMCwwMDAwMDAwMDkxMzA5ZTk4YWIwODExNTY4OTJkYjViOTcxYjUyNjk2",
+  "snapshot_id": "MTY3ODgwNjAwMCwwMDAwMDAwMGU2NzRiOWQ1MWQyNWUwYWE4MjRkZmNmMDA3ODFkYmJk",
   "tracks": [
     {
       "added_at": "2023-03-14 15:00:00",
@@ -655,8 +655,8 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "More Than Words",
-        "url": "https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC"
+        "name": "Blaze",
+        "url": "https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 230542,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
+      "duration_ms": 219360,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
         "name": "THE PROMISE",
         "url": "https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg"
       },
@@ -799,8 +783,24 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Blaze",
-        "url": "https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy"
+        "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
+      "url": "https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
+        "name": "More Than Words",
+        "url": "https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 219360,
-      "name": "Blaze",
-      "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
+      "duration_ms": 230542,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
     }
   ],
   "unique_name": "Big in Japan",

@@ -10833,6 +10833,24 @@
     },
     {
       "album": {
+        "name": "STRONZA",
+        "url": "https://open.spotify.com/album/1ZrtLkzxSec5esyny9a0Qz"
+      },
+      "artists": [
+        {
+          "name": "Gabri",
+          "url": "https://open.spotify.com/artist/2i5Mr9eps27ntnZ6JzyxA8"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202868,
+      "name": "STRONZA",
+      "url": "https://open.spotify.com/track/2BUgsyPmBE5hMQWxnemy2z"
+    },
+    {
+      "album": {
         "name": "Struggle",
         "url": "https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT"
       },

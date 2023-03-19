@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: MAJAN, Schmyt
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,494 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,730 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 |
 | 2 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
 | 3 | [Auf die Party](https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Auf die Party](https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt) | 2:44 |
-| 4 | [My Love](https://open.spotify.com/track/69eIYV80zISfItEDE0r0Ui) | [Lil\-K](https://open.spotify.com/artist/79hts1H3bhswabKZPnX9jB) | [My Love](https://open.spotify.com/album/3oRk46p3WHxtf2mLt9lmmR) | 3:04 |
+| 4 | [My Love](https://open.spotify.com/track/3m3QIzYUlZRJEOS6JDqoKp) | [ZIKI EZE](https://open.spotify.com/artist/5c5ujDpCTzhwtYhdCx3zuy) | [My Love](https://open.spotify.com/album/2HBYvuAjk7QAXuGTbdcZJM) | 3:01 |
 | 5 | [Panikweiß](https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Panikweiß](https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5) | 2:50 |
 | 6 | [Weit weg](https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Weit weg](https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv) | 2:41 |
 | 7 | [Mandala](https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Mandala](https://open.spotify.com/album/4dnEXvpTeEzyaN9zrk5hNX) | 2:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [here/hier](https://open.spotify.com/track/0xmR39qz8TYHv9fvyDnyND) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [here/hier](https://open.spotify.com/album/72NsiImn6WLTte7lxTQ9g8) | 2:50 |
 | 100 | [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDYwMjE1NmZkMDBiNmYxN2MxZGIxZWYxOWI1ZDVmODJi`
+Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDE3ZmQ4NzExMjY5MGViMDc2MGZkZDQwYjAyZTFiNWYw`

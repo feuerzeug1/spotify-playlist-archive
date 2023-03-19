@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Today's best pop to fuel your gaming\. Cover: BoyWithUke
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,695 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,417 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 85 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 |
 | 86 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 |
 | 87 | [Tukoh Taka \- Official FIFA Fan Festival™ Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 |
-| 88 | [Fight Back](https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Fight Back: The Collection](https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui) | 3:20 |
-| 89 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 |
+| 88 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 |
+| 89 | [Fight Back](https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Fight Back: The Collection](https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui) | 3:20 |
 | 90 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 |
 | 91 | [Lemonade](https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN) | 3:15 |
 | 92 | [Understand](https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 99 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 |
 | 100 | [Dancing in My Room](https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/3t1MvGhT6LU3fOIp3KMrta) | 3:00 |
 
-Snapshot ID: `MTY3ODEyMDc4NSwwMDAwMDAwMGIwZmNkMzcxNTNhNTU2YzNmZDU2OWRhODdiMzk5MmEy`
+Snapshot ID: `MTY3ODEyMDc4NSwwMDAwMDAwMDU5ZmU0MzFlOWE4M2QwMmYzOWI4YzgzOWE4ZTdmNmY0`

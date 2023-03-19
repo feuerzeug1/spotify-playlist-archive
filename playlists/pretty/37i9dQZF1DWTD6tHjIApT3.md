@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: eill
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,328 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,396 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 34 | [脱・借りてきた猫症候群](https://open.spotify.com/track/2TvslvlCJ0YVwQoAeMstDb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [コントラスト\(Special Edition\)](https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1) | 3:49 |
 | 35 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
 | 36 | [私達の幸せは](https://open.spotify.com/track/4zgRk1U4N08oswZqKeayN7) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [私達の幸せは](https://open.spotify.com/album/2Af1MUjWk8frRevDdHdrvy) | 5:24 |
-| 37 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 |
+| 37 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 |
 | 38 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 |
 | 39 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
 | 40 | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/1YXrGKtu8iNnBl1tL6EvdH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/album/0RjeR3PLe9fCu7G3bQh96v) | 3:45 |
-| 41 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 |
+| 41 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 |
 | 42 | [Winter](https://open.spotify.com/track/40XyTJ777XE0bcJH4bcVcg) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Naked](https://open.spotify.com/album/4YEGqUeqECz2jcsENlcBSi) | 3:19 |
-| 43 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
+| 43 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 |
 | 44 | [LOVEBIRDS](https://open.spotify.com/track/5NYZlE8wMHWSL4snS7snIj) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [LOVEBIRDS](https://open.spotify.com/album/62btGm0Kjc8bIvyT71euDJ) | 3:35 |
-| 45 | [恋泥棒。](https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋泥棒。](https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0) | 3:39 |
+| 45 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
 | 46 | [Period & Prelude](https://open.spotify.com/track/2g5t9kLiQySvjSkhpsK6j5) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [Period & Prelude](https://open.spotify.com/album/022ckq5LsHUzjBbFooMTKy) | 5:29 |
-| 47 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 |
+| 47 | [恋泥棒。](https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋泥棒。](https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0) | 3:39 |
 | 48 | [Time of adult](https://open.spotify.com/track/52BmVOetghDJzb1LtVYx3n) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [Time of adult](https://open.spotify.com/album/6729vNYmT495Qsn8IQuE83) | 3:27 |
 | 49 | [Final Call](https://open.spotify.com/track/23UvqSjWD2dilIjKkCd2pf) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Final Call](https://open.spotify.com/album/5GWBGzUQ7053833dmf2rge) | 3:34 |
 | 50 | [Mistakes](https://open.spotify.com/track/0UojKdaPtcnw7DDh9R33tX) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [Mistakes](https://open.spotify.com/album/4hdRFduT29SvN8VGPhEzBM) | 3:01 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 54 | [どうせなら](https://open.spotify.com/track/3DR0n6s6j44UpU4HxmZKu5) | [三品瑠香](https://open.spotify.com/artist/2g0GsRYLm3PyW8QWLSqwZn) | [どうせなら](https://open.spotify.com/album/1IynaW4ycIqWiKs9u5IGId) | 2:46 |
 | 55 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 |
 | 56 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
-| 57 | [恋](https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [恋](https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4) | 4:20 |
+| 57 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 |
 | 58 | [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 |
 | 59 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
 | 60 | [TOKYO 4AM](https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TOKYO 4AM](https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X) | 3:21 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 63 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 |
 | 64 | [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 |
 | 65 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
-| 66 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 |
+| 66 | [恋](https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [恋](https://open.spotify.com/album/4z4NBSgbcMmonNtY4BxpO4) | 4:20 |
 | 67 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 |
 | 68 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
-| 69 | [私の瞳は黒い色](https://open.spotify.com/track/3pZq5VOrxhinAoHRx4TLBt) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [パレードが続くなら](https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ) | 4:28 |
-| 70 | [17さいのうた。](https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [17さいのうた。](https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO) | 5:09 |
+| 69 | [17さいのうた。](https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [17さいのうた。](https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO) | 5:09 |
+| 70 | [私の瞳は黒い色](https://open.spotify.com/track/3pZq5VOrxhinAoHRx4TLBt) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [パレードが続くなら](https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ) | 4:28 |
 | 71 | [Finale.](https://open.spotify.com/track/3KvRIvP9kzP2JTljShpSJu) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Pre\-Romance / Finale.](https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG) | 4:02 |
 | 72 | [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 |
 | 73 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [Heart](https://open.spotify.com/track/5Telaq6UCXw3kG6nepeLp1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:31 |
 | 100 | [TRUMAN](https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [WHOOPEE](https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK) | 3:36 |
 
-Snapshot ID: `MTY3ODk3ODgwMCwwMDAwMDAwMDQ0YjFjNmNkMWM3ZTYwN2M2Y2E0MTZjODU3NzVjM2E2`
+Snapshot ID: `MTY3ODk3ODgwMCwwMDAwMDAwMGJjMWRlZjRlMDc3NjFhYmYxMDBmZmY1MmU5MzRhMmI5`

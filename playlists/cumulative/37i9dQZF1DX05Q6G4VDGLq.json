@@ -2825,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "Hum Sweet Serenades",
+        "url": "https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF"
+      },
+      "artists": [
+        {
+          "name": "Motor City Trio",
+          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183290,
+      "name": "Hum Sweet Serenades",
+      "url": "https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm"
+    },
+    {
+      "album": {
         "name": "I awake",
         "url": "https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q"
       },
@@ -4402,7 +4420,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 288368,
       "name": "Living In Paradise",
       "url": "https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm"

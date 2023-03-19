@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,570 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,598 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 19 | [Plastic](https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:08 |
 | 20 | [Daydream](https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Joba](https://open.spotify.com/artist/2t64CHsmWouJNyXSwy5q2q) | [Daydream feat\. Joba](https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ) | 3:20 |
 | 21 | [Vibe](https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Vibe](https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn) | 2:24 |
-| 22 | [Bet She Looks Like You](https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:45 |
-| 23 | [Where the Money Flows](https://open.spotify.com/track/35592qATAP1u72mO9oelLc) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 5:13 |
+| 22 | [Where the Money Flows](https://open.spotify.com/track/35592qATAP1u72mO9oelLc) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 5:13 |
+| 23 | [Bet She Looks Like You](https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:45 |
 | 24 | [Ayahuasca](https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Ayahuasca](https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6) | 8:28 |
 | 25 | [When U Go \- Edit](https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [When U Go](https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI) | 3:32 |
 | 26 | [I'm Right Here](https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [Unusable Love](https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p) | 4:41 |
 | 27 | [In Your Eyes \(feat\. Charlotte Day Wilson\) \[Nosaj Thing Remix\]](https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [In Your Eyes \(feat\. Charlotte Day Wilson\) \[Nosaj Thing Remix\]](https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0) | 3:20 |
 | 28 | [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 |
 | 29 | [INT.](https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone’s EP I](https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d) | 1:27 |
-| 30 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 |
-| 31 | [Surf](https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Boom Boom On The Roof, Boom Boom In Your Ears](https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP) | 2:55 |
-| 32 | [Mercury](https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2) | 5:35 |
+| 30 | [Surf](https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Boom Boom On The Roof, Boom Boom In Your Ears](https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP) | 2:55 |
+| 31 | [Mercury](https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2) | 5:35 |
+| 32 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 |
 | 33 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 |
 | 34 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 |
 | 35 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 48 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 |
 | 49 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 |
 | 50 | [Canyon](https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX) | [Glded](https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH) | [Canyon](https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT) | 3:09 |
-| 51 | [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 |
-| 52 | [Get Light](https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:28 |
+| 51 | [Get Light](https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:28 |
+| 52 | [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 |
 | 53 | [I've Always Been](https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Zach Berro](https://open.spotify.com/artist/6t13QrSLbiVtlvksmoBgfH) | [I've Always Been](https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV) | 1:54 |
 | 54 | [Home \(feat\. LEES\)](https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home \(feat\. LEES\)](https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt) | 3:18 |
-| 55 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
-| 56 | [Our Story](https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1) | 2:25 |
+| 55 | [Our Story](https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1) | 2:25 |
+| 56 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
 | 57 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
 | 58 | [You](https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA) | [Only Emily](https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT) | [EP 2](https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4) | 2:50 |
 | 59 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
 | 60 | [Fragment II](https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur) | [Fragments](https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub) | 5:39 |
 
-Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMGQzMzYwMTBkN2EyMGE2N2Q1YzY0NGYwYTdhMjE3OGZj`
+Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMGNmYzllZDJkYmE1NTMyNjEyMWZjZTBjMWE1OGZjZTYx`

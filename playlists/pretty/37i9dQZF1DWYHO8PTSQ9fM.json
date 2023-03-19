@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : Dizzy DROS",
-  "num_followers": 256564,
+  "num_followers": 256976,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk2MDA2OSwwMDAwMDAwMDNjOTE0ZDI3ZTgzNmZlZGI3Mjg3MDMxOWZjMGYxZGNm",
+  "snapshot_id": "MTY3OTE3NDAyMCwwMDAwMDAwMDEzYjM0MDRhNTRhMDIzZDcyYzQwYzY3NzU1N2M3YzQy",
   "tracks": [
     {
       "added_at": "2023-03-16 09:47:49",
@@ -239,6 +239,26 @@
     {
       "added_at": "2023-03-16 09:47:49",
       "album": {
+        "name": "Ind\u00e9pendance",
+        "url": "https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "La street",
+      "url": "https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04"
+    },
+    {
+      "added_at": "2023-03-16 09:47:49",
+      "album": {
         "name": "Dawk Lya",
         "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
       },
@@ -291,22 +311,18 @@
     {
       "added_at": "2023-03-16 09:47:49",
       "album": {
-        "name": "People (feat. Cian Ducrot) [Remix]",
-        "url": "https://open.spotify.com/album/2iBbNFC5oZdKfqQyiSEfXx"
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
       "artists": [
         {
           "name": "Libianca",
           "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 184633,
-      "name": "People (feat. Cian Ducrot)",
-      "url": "https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q"
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-03-16 09:47:49",
@@ -375,26 +391,6 @@
       "duration_ms": 206000,
       "name": "Gueule tap\u00e9e",
       "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
-    },
-    {
-      "added_at": "2023-03-16 09:47:49",
-      "album": {
-        "name": "Ind\u00e9pendance",
-        "url": "https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "La street",
-      "url": "https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04"
     },
     {
       "added_at": "2023-03-16 09:47:49",

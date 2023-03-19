@@ -1,6 +1,6 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 8834,
+  "num_followers": 8838,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
@@ -34,6 +34,10 @@
         {
           "name": "mau from nowhere",
           "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
         }
       ],
       "duration_ms": 206014,

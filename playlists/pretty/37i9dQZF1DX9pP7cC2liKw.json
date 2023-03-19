@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 111212,
+  "num_followers": 111582,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMDA1NSwwMDAwMDAwMDM4MzBmNjE5NzQxZWEzNmE1Zjc2ZGIwZmY2ZmVkOWY0",
+  "snapshot_id": "MTY3OTAxMDA1NSwwMDAwMDAwMGViYWIyMWZhMzFhNzQzYjQ3ODRjMjhjNjBkMTMxY2U3",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/1wXeMZqegwYZ2zWtrwvXab"
     },
     {
-      "added_at": "2023-03-18 01:17:06",
+      "added_at": "2023-03-19 01:04:13",
       "album": {
         "name": "Dj friendly",
         "url": "https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o"
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 219600,
       "name": "Hipn\u00f3tico",
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2022-09-29 01:47:59",
@@ -781,6 +781,26 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Estaci\u00f3n Esperanza",
+        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 316721,
+      "name": "Estaci\u00f3n Esperanza",
+      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
       "added_at": "2022-11-17 23:06:29",
       "album": {
         "name": "El Sabor del Viejo Mar",
@@ -803,26 +823,6 @@
       "duration_ms": 263265,
       "name": "El Sabor del Viejo Mar",
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Estaci\u00f3n Esperanza",
-        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 316721,
-      "name": "Estaci\u00f3n Esperanza",
-      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Safe Passage",
         "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 273946,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -947,22 +963,6 @@
       "duration_ms": 506655,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Bennu",
-        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Chapinero",
-      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1069,46 +1069,6 @@
       "url": "https://open.spotify.com/track/3RvzGjAhYiOGNFToYyIdTH"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Claremont 56: 10 Years, Pt. 1",
-        "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
-      },
-      "artists": [
-        {
-          "name": "Para\u00edso",
-          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
-        },
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 429913,
-      "name": "Teu Sorriso - Jex Opolis Remix",
-      "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Carnavalera",
-        "url": "https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 227984,
-      "name": "Carnavalera",
-      "url": "https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0"
-    },
-    {
       "added_at": "2022-11-03 18:27:44",
       "album": {
         "name": "Mientras Tanto",
@@ -1131,6 +1091,46 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Carnavalera",
+        "url": "https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 227984,
+      "name": "Carnavalera",
+      "url": "https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Claremont 56: 10 Years, Pt. 1",
+        "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
+      },
+      "artists": [
+        {
+          "name": "Para\u00edso",
+          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
+        },
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 429913,
+      "name": "Teu Sorriso - Jex Opolis Remix",
+      "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
     },
     {
       "added_at": "2023-02-02 00:29:46",
@@ -1181,38 +1181,6 @@
       "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
-      "added_at": "2023-01-02 21:43:35",
-      "album": {
-        "name": "Noest\u00e1saqu\u00ed",
-        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Jallalla",
@@ -1231,6 +1199,38 @@
       "duration_ms": 340616,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/7lcLZXcsDQmCLBzFjZZ3nF"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
+    },
+    {
+      "added_at": "2023-01-02 21:43:35",
+      "album": {
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
+      },
+      "artists": [
+        {
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v"
+      },
+      "artists": [
+        {
+          "name": "Mente Org\u00e1nica",
+          "url": "https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT"
+        }
+      ],
+      "duration_ms": 310401,
+      "name": "Manos",
+      "url": "https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1"
+    },
+    {
       "added_at": "2023-02-28 04:33:05",
       "album": {
         "name": "Crux Australis",
@@ -1287,22 +1303,6 @@
       "duration_ms": 306863,
       "name": "Crux Australis",
       "url": "https://open.spotify.com/track/1pWWrnSxMW5DniwdPXDE3B"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Ondatr\u00f3pica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
     }
   ],
   "unique_name": "Tulum Vibes",

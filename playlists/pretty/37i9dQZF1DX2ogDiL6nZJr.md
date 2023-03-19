@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,205 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,733 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 12 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
 | 13 | [coney island \(feat\. The National\)](https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:35 |
 | 14 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 |
-| 15 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
-| 16 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
+| 15 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
+| 16 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
 | 17 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 |
 | 18 | [The Love](https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 2:38 |
 | 19 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
@@ -54,23 +54,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 44 | [Stuck](https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Stuck](https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ) | 3:39 |
 | 45 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 |
 | 46 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 |
-| 47 | [A Lingering Love](https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:36 |
-| 48 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
+| 47 | [ready now](https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [ready now](https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3) | 2:56 |
+| 48 | [A Lingering Love](https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:36 |
 | 49 | [Same Kind of People](https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Same Kind of People](https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz) | 4:02 |
-| 50 | [ready now](https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [ready now](https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3) | 2:56 |
+| 50 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 51 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
 | 52 | [Belo Horizonte](https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 3:46 |
 | 53 | [Chariot](https://open.spotify.com/track/1ZHboJHdP97xyCaQWuP9h6) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Chariot](https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0) | 3:20 |
 | 54 | [Spiders](https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:48 |
 | 55 | [Golden Rope](https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Golden Rope](https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8) | 3:40 |
-| 56 | [Chin Up](https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Chin Up](https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T) | 4:25 |
-| 57 | [Maybe October](https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Maybe October](https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX) | 2:44 |
-| 58 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 |
-| 59 | [Low](https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Low](https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY) | 4:34 |
+| 56 | [Maybe October](https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Maybe October](https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX) | 2:44 |
+| 57 | [Chin Up](https://open.spotify.com/track/1Q5gm2dsPwvJeQPQeNs2nv) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Chin Up](https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T) | 4:25 |
+| 58 | [Low](https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Low](https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY) | 4:34 |
+| 59 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 |
 | 60 | [All That You Are](https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 4:10 |
 | 61 | [Blurred](https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 5:05 |
-| 62 | [Sink In](https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:20 |
-| 63 | [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 |
+| 62 | [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 |
+| 63 | [Sink In](https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:20 |
 | 64 | [Mia & Keira \(Days To Come\)](https://open.spotify.com/track/3am2Y5mLijaA94DaKBX1QA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [New Estate](https://open.spotify.com/album/6bBdlXIj1C6nON50J8TMb7) | 4:18 |
 | 65 | [One Evening](https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:36 |
 | 66 | [Comment Allez\-Vous?](https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Brave New Woman](https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1) | 3:19 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 88 | [Tenderfoot](https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N) | [The Day](https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN) | [Tenderfoot](https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV) | 2:08 |
 | 89 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 |
 | 90 | [Spark](https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Oceanic](https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk) | 4:24 |
-| 91 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
-| 92 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
+| 91 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
+| 92 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
 | 93 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 |
 | 94 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
 | 95 | [This Here Island](https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [This Here Island](https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 99 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
 | 100 | [quite alright](https://open.spotify.com/track/1LEGkagVxaB3oEjfbhz2a1) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/2iKnUX26YQtb43UgO0yLBr) | 5:15 |
 
-Snapshot ID: `MTY3Nzc1NTU2MCwwMDAwMDAwMDI4YTk5ZTg4ZTc2YTRhYWZhNjhhYTBiZjBiN2M0ODI1`
+Snapshot ID: `MTY3Nzc1NTU2MCwwMDAwMDAwMDJiZGNkZDZiNTEwMDBhZjM3NjVhNDMwMDc3NzA4NjE2`

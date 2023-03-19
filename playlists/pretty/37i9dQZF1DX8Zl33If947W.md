@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,170 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,330 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 30 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
 | 31 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
 | 32 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 |
-| 33 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
-| 34 | [Nur geträumt](https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:40 |
+| 33 | [Nur geträumt](https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:40 |
+| 34 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
 | 35 | [Wenn du tanzt](https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Grande](https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW) | 3:50 |
 | 36 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
 | 37 | [Wenn ich wein](https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wenn ich wein](https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 49 | [Kippe](https://open.spotify.com/track/2sGo9dFNIxXsNktL1pvM7s) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Kippe](https://open.spotify.com/album/6zlZKGfrubfGewJU8pD7fk) | 2:39 |
 | 50 | [Tag ein Tag aus](https://open.spotify.com/track/0m21WyNPuPOwYsxxgBsnVn) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L), [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Liebeskummerparty](https://open.spotify.com/album/0u5DLCi7p5AED8y7vxNqQY) | 2:44 |
 
-Snapshot ID: `MTY3ODA5MDg2MCwwMDAwMDAwMGI0ZGUyN2UwZWQwNzU1M2E5MTNiODJhM2U2Nzg5N2Qw`
+Snapshot ID: `MTY3ODA5MDg2MCwwMDAwMDAwMDRhZmE2NjA5YWIzM2UzYjUwOGQ3OWE4NzJlMmQzYmJj`

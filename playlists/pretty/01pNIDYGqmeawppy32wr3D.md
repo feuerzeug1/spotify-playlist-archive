@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/01pNIDYGqmeawppy32wr3D.md) - [plain]
 
 > Best hip hop throwbacks from the 2000 – 2010s with hits from Missy Elliott, T.I., Dr\. Dre, and more!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 343,869 likes - 115 songs - 7 hr 49 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 343,858 likes - 115 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 |
 | 2 | [Can't Let You Go \(feat\. Mike Shorey & Lil' Mo\)](https://open.spotify.com/track/6lrRIfQDcikJ5y5DtyZPuJ) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Mike Shorey](https://open.spotify.com/artist/15qg3Tr23aMVGAruYtlMdg), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 3:43 |
 | 3 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 |
-| 4 | [It's Goin' Down \(feat\. Nitti\)](https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
+| 4 | [It's Goin' Down \(feat\. Nitti\)](https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [NITTI](https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
 | 5 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
 | 6 | [Shawty \(feat\. T Pain\)](https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 4:15 |
 | 7 | [Lollipop](https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:59 |

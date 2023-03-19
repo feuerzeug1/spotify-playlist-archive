@@ -4708,6 +4708,24 @@
     {
       "album": {
         "name": "0792",
+        "url": "https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb"
+      },
+      "artists": [
+        {
+          "name": "GRLS",
+          "url": "https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202844,
+      "name": "una pistola",
+      "url": "https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb"
+    },
+    {
+      "album": {
+        "name": "0792",
         "url": "https://open.spotify.com/album/71DiIrIpNnWV6So3CDIlGJ"
       },
       "artists": [
@@ -4718,7 +4736,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 202844,
       "name": "una pistola",
       "url": "https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m"

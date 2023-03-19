@@ -1,12 +1,12 @@
 {
   "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: Ayra Starr",
-  "num_followers": 280369,
+  "num_followers": 280532,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDdhMmNkMmE3N2YwNzRiYTM5MjQ1YTc0NTBiMTVlNzI5",
+  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDcxM2RmMTlmYjY0NzRmMWU4NTdhNWExNWFkMGUzMDcy",
   "tracks": [
     {
       "added_at": "2023-03-03 00:00:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Namek",
-        "url": "https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Namek",
-      "url": "https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
         "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Namek",
+        "url": "https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Namek",
+      "url": "https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -528,17 +528,25 @@
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
       "artists": [
         {
           "name": "Fireboy DML",
           "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+      "duration_ms": 232155,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -656,25 +664,17 @@
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
       },
       "artists": [
         {
           "name": "Fireboy DML",
           "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 232155,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2023-03-03 00:00:00",

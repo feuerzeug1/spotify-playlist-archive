@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Virlán García en portada.
 
-224 songs - 11 hr 59 min
+225 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [El Poder de Tu Mirada](https://open.spotify.com/track/1eN387v5wRFvSHHBwtCxQW) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [No Te Pido Mucho](https://open.spotify.com/album/1HWPwiFJ5jmVP9dIjfFPYA) | 3:40 | 2021-12-27 | 2023-03-18 |
 | [El Tony](https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [El Tony](https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu) | 2:45 | 2022-05-13 | 2022-09-24 |
 | [Ella](https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 4:19 | 2022-06-03 |  |
+| [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-03-17 |  |
 | [Empezar de Nuevo](https://open.spotify.com/track/7hCT8qcGvyVr0FQmpoCI93) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Empezar de Nuevo](https://open.spotify.com/album/6J6C7D6kL82ie5XKRTUqrK) | 3:47 | 2022-11-03 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-07-01 |  |
 | [En Los Puritos Huesos](https://open.spotify.com/track/4sZ6iSju5q7mLnlXmTJzYl) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [En Los Puritos Huesos](https://open.spotify.com/album/4z5VgUjce9nlhjNUaX0gst) | 2:19 | 2022-09-23 | 2022-11-04 |
@@ -192,7 +193,7 @@
 | [Si Una Vez \- En Vivo](https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:54 | 2022-01-14 | 2023-01-21 |
 | [Sigo Aqui](https://open.spotify.com/track/12wuxFcfZF015vy3XgoZsr) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:34 | 2022-07-01 | 2023-01-21 |
 | [Sin Instructivo](https://open.spotify.com/track/0LWOMX9KX6651zRuMunVSH) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Sin Instructivo](https://open.spotify.com/album/6MVd7rogG9g2kCmt6fy22j) | 3:06 | 2022-12-02 | 2023-01-21 |
-| [Solo Por Preguntar](https://open.spotify.com/track/6qyU3iqMTvr4FpSO2i6Xu3) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Solo Por Preguntar](https://open.spotify.com/album/5ZditFs5OPmmeogH5e2Xi4) | 3:16 | 2023-02-17 |  |
+| [Solo Por Preguntar](https://open.spotify.com/track/6qyU3iqMTvr4FpSO2i6Xu3) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Solo Por Preguntar](https://open.spotify.com/album/5ZditFs5OPmmeogH5e2Xi4) | 3:16 | 2023-02-17 | 2023-03-19 |
 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2022-07-12 |  |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-03-29 | 2022-07-29 |
 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 | 2023-02-17 | 2023-03-18 |

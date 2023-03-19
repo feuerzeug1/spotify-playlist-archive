@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,120 songs - 2 day 9 hr 38 min
+1,121 songs - 2 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-03-22 | 2022-04-03 |
 | [Chora Pestista](https://open.spotify.com/track/2pRnBqG0J8FGcL8CbW6U1A) | [La Banda Loka Liberal](https://open.spotify.com/artist/1MBvUFXEGwNhT7cfqJYap9) | [Chora Pestista](https://open.spotify.com/album/1AxOq1oAY4qwAfQsrMVuGw) | 2:27 | 2022-10-31 | 2022-11-07 |
 | [Chrissy, Wake Up](https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV) | [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [Chrissy, Wake Up](https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb) | 1:05 | 2022-07-19 | 2022-08-04 |
+| [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-18 |  |
 | [Chuva de Prata \- Ao Vivo](https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A Pele do Futuro Ao Vivo](https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a) | 3:49 | 2022-11-11 | 2022-11-19 |
 | [Chuvas de Deus \(Speed Up\)](https://open.spotify.com/track/5UqBrA3bSYlncrJjnR8f01) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Chuvas de Deus](https://open.spotify.com/album/7Bzi85vC1PEOFseVvF1u21) | 3:36 | 2023-02-25 | 2023-03-15 |
 | [Chá de Sumiço](https://open.spotify.com/track/4NqXNw4el61UgqPMA3h0td) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Jall](https://open.spotify.com/artist/04svf3dGgcwEVgJ0MlV0M2), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Chá de Sumiço](https://open.spotify.com/album/5gZHI7YWiuCrvW1v861e0i) | 2:48 | 2022-06-04 | 2022-07-25 |
@@ -407,7 +408,7 @@
 | [Flor Que Se Cheira \- Remix](https://open.spotify.com/track/07OQY25FhaFVWHsealHFSu) | [Hyago Gomes](https://open.spotify.com/artist/4RxoNU65Os6pHkmuEzSlTg), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Flor Que Se Cheira \(Remix\)](https://open.spotify.com/album/2ejVHfVoQLoHfAPXjHAiZD) | 2:17 | 2022-04-26 | 2022-04-28 |
 | [Flow Espacial](https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Flow Espacial](https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX) | 2:45 | 2023-02-28 | 2023-03-02 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-07 | 2023-03-12 |
-| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 |  |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-03-19 |
 | [FOGO E GASOLINA](https://open.spotify.com/track/52EYWdjiulHaehpexuowyh) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [Red](https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:01 | 2023-01-17 | 2023-03-12 |
 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 | 2022-04-19 | 2022-04-21 |
 | [Foi Mal](https://open.spotify.com/track/72ZWM4zubkEb4vd00kypvk) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:45 | 2022-12-20 | 2022-12-28 |

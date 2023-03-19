@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Cultura Profética
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,367 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,471 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo un eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
+| 1 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
 | 2 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
 | 3 | [Arbol Sin Hojas](https://open.spotify.com/track/1B4XhExXA4NswSQPetDuEg) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Vivi En Do](https://open.spotify.com/album/1nqhr6N5KbIaUbsTXq5WCa) | 3:19 |
 | 4 | [Antonia](https://open.spotify.com/track/5n40SAKMk89wdWyhTfWzx4) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 4:08 |

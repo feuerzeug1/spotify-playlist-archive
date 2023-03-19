@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,805 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,986 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 74 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 |
 | 75 | [This One's for You \(feat\. Zara Larsson\) \(Official Song UEFA EURO 2016\)](https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [This One's for You \(feat\. Zara Larsson\) \[Official Song UEFA EURO 2016\]](https://open.spotify.com/album/7EvlnQaVuUuFLIeSuE6nRq) | 3:27 |
 | 76 | [Move Your Body \- Alan Walker Remix](https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 |
-| 77 | [Astronomia](https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL) | 3:18 |
-| 78 | [I Want You To Know](https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:00 |
+| 77 | [I Want You To Know](https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:00 |
+| 78 | [Astronomia](https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL) | 3:18 |
 | 79 | [Red Lights](https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:22 |
 | 80 | [You & Me \- Flume Remix](https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(The Remixes\)](https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB) | 4:42 |
 | 81 | [Save The World](https://open.spotify.com/track/65hRZOQkVjmBdusz1N7aOv) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Save The World](https://open.spotify.com/album/728voOLBbJUBgK2vooghcS) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 99 | [\#SELFIE](https://open.spotify.com/track/1HOlb9rdNOmy9b1Fakicjo) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [\#SELFIE](https://open.spotify.com/album/3OeA4rJ9XJNAygyNyTc2sI) | 3:03 |
 | 100 | [Peanut Butter Jelly](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:23 |
 
-Snapshot ID: `MTY2ODQxNzMxMCwwMDAwMDAwMDNiMTZhMzdmNzg5MjcxMGMwNjY5NjZkYTgyNzRjNjA0`
+Snapshot ID: `MTY2ODQxNzMxMCwwMDAwMDAwMDM0ZTkzYjg3ODNiMjEwYjI5MGE4ZmYxZjJmMDc1NTc0`

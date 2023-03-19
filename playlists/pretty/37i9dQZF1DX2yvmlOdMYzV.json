@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 875218,
+  "num_followers": 875794,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA4MzM2OSwwMDAwMDAwMGJjM2MzMGVjZjkyODQzNzRiOTBiZDM1MWY0ZTM1MTU3",
+  "snapshot_id": "MTY3OTA4MzM2OSwwMDAwMDAwMDUxNmFlYWE4Yjk3Nzg0Yzk3ZTk4ZDM1Mjc3NTFmZDg4",
   "tracks": [
     {
       "added_at": "2023-02-16 15:18:53",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
     },
     {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 255401,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Motions",
@@ -615,22 +631,6 @@
       "duration_ms": 208860,
       "name": "Motions",
       "url": "https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 255401,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -701,38 +701,6 @@
       "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 262651,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia"
-      },
-      "artists": [
-        {
-          "name": "August Charles",
-          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
-        }
-      ],
-      "duration_ms": 237049,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
-    },
-    {
       "added_at": "2023-03-04 19:39:48",
       "album": {
         "name": "Again",
@@ -751,6 +719,22 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia"
+      },
+      "artists": [
+        {
+          "name": "August Charles",
+          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
+        }
+      ],
+      "duration_ms": 237049,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
         "name": "'Justments",
         "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
@@ -763,6 +747,26 @@
       "duration_ms": 229573,
       "name": "Can We Pretend",
       "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -787,22 +791,18 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT"
+      "duration_ms": 262651,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
-        }
-      ],
-      "duration_ms": 205479,
-      "name": "Such A Thing",
-      "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -1071,18 +1051,22 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
         }
       ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+      "duration_ms": 205479,
+      "name": "Such A Thing",
+      "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Archives & Lullabies",
-        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
       },
       "artists": [
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 215625,
-      "name": "Leave While I Love You",
-      "url": "https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ"
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1133,6 +1117,22 @@
       "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
     },
     {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Archives & Lullabies",
+        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "Leave While I Love You",
+      "url": "https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Sheet Music",
@@ -1147,6 +1147,22 @@
       "duration_ms": 188333,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1169,20 +1185,20 @@
       "url": "https://open.spotify.com/track/53cvnLRalWWOb42dcHL0yZ"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+      "duration_ms": 204033,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1201,20 +1217,24 @@
       "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c"
+        "name": "Tam Tam",
+        "url": "https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "JADA",
+          "url": "https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM"
         }
       ],
-      "duration_ms": 204033,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
+      "duration_ms": 212933,
+      "name": "Tam Tam",
+      "url": "https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1247,26 +1267,6 @@
       "duration_ms": 148085,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Tam Tam",
-        "url": "https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "JADA",
-          "url": "https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Tam Tam",
-      "url": "https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
+        "name": "As Days Go By",
+        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
+      },
+      "artists": [
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+        }
+      ],
+      "duration_ms": 222654,
+      "name": "As Days Go By",
+      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/6FU20y55c31IEB6YEFzeYB"
       },
@@ -1357,20 +1373,24 @@
       "url": "https://open.spotify.com/track/7CFxO2nX0rV1L94i55PNRO"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "As Days Go By",
-        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
       },
       "artists": [
         {
-          "name": "Paulade",
-          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
         }
       ],
-      "duration_ms": 222654,
-      "name": "As Days Go By",
-      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
+      "duration_ms": 151266,
+      "name": "311 (with Gwen Bunn)",
+      "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1395,22 +1415,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
         }
       ],
-      "duration_ms": 151266,
-      "name": "311 (with Gwen Bunn)",
-      "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1481,22 +1497,6 @@
       "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "KMS - A COLORS SHOW",
@@ -1565,6 +1565,26 @@
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "PHILEO Deluxe",
+        "url": "https://open.spotify.com/album/1k6aTE36jvyDr7QJLtgwKM"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        },
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        }
+      ],
+      "duration_ms": 182698,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/5mMjaAT0B4Q3p2ToSeTVi7"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "BY THE WAY",
@@ -1621,26 +1641,6 @@
       "url": "https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "PHILEO Deluxe",
-        "url": "https://open.spotify.com/album/1k6aTE36jvyDr7QJLtgwKM"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        },
-        {
-          "name": "Flwr Chyld",
-          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
-        }
-      ],
-      "duration_ms": 182698,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/5mMjaAT0B4Q3p2ToSeTVi7"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Not a Statistic",
@@ -1675,6 +1675,22 @@
       "duration_ms": 246144,
       "name": "I'll Be Loving You",
       "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1727,22 +1743,6 @@
       "duration_ms": 161274,
       "name": "A Dream",
       "url": "https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
       "added_at": "2023-03-10 05:00:00",

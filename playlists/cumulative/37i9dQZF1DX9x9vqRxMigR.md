@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: The Milk Carton Kids
 
-485 songs - 1 day 7 hr 38 min
+486 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Get to Know Someone](https://open.spotify.com/track/3OmOQVuo23fwcncXf0UdeV) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Funeral for My Past](https://open.spotify.com/album/2rtING8KxtmLyi9PPgqwn8) | 3:32 | 2021-02-23 | 2022-04-26 |
 | [Gettin Around to It](https://open.spotify.com/track/6HF3cJgSO8SVcpHQuHIBl9) | [Kaiti Jones](https://open.spotify.com/artist/1KsCQ3RFaVZzA3JhiZJkY3) | [Gettin Around to It](https://open.spotify.com/album/1EvHygCGtWSkcCG9oPQ9Un) | 3:49 | 2021-02-23 | 2022-04-26 |
 | [Ghost in the Fog](https://open.spotify.com/track/1f0pxjDXfDT1cB1H0vcvim) | [Rum Ragged](https://open.spotify.com/artist/3C98MKP4oHJRxdNCnbRZIf) | [Rum Ragged](https://open.spotify.com/album/2tZ5BOygABi5RoXzzJ0rhy) | 4:18 | 2021-02-23 | 2022-04-26 |
-| [Ghosts](https://open.spotify.com/track/0zZPnAzBX5Yxe93GOplpTB) | [Rebecca Loebe](https://open.spotify.com/artist/6FmVqyaRJUiBBLYroaonM4) | [Give up Your Ghosts](https://open.spotify.com/album/699Ce84v4nIVEd33lsbCYf) | 3:22 | 2023-01-24 |  |
+| [Ghosts](https://open.spotify.com/track/0zZPnAzBX5Yxe93GOplpTB) | [Rebecca Loebe](https://open.spotify.com/artist/6FmVqyaRJUiBBLYroaonM4) | [Give up Your Ghosts](https://open.spotify.com/album/699Ce84v4nIVEd33lsbCYf) | 3:22 | 2023-01-24 | 2023-03-19 |
 | [Giants](https://open.spotify.com/track/73VMfHiV1Kj29kIVdbq4Gc) | [Leela Gilday](https://open.spotify.com/artist/0nSstpr48Xb3fVs5AZHOLN) | [Giants](https://open.spotify.com/album/52lNf5ZsMwkOdvqncospfp) | 3:54 | 2023-01-24 |  |
 | [Give It A Rest](https://open.spotify.com/track/28bfZFD8441ZCEDSRNiolF) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Give It A Rest](https://open.spotify.com/album/0Gd4RR6b7LVRH4H5mbzhdu) | 3:38 | 2023-01-24 |  |
 | [Give Me Love](https://open.spotify.com/track/6gzIak7jaxXRpSNboDcQXt) | [Cat Ridgeway](https://open.spotify.com/artist/1QiJcTuLMPB2rSF7cO2aVx), [Shawn Mullins](https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N) | [Give Me Love](https://open.spotify.com/album/5Q28yZWsQzSWNy3FlZs61l) | 3:54 | 2023-01-24 |  |
@@ -301,6 +301,7 @@
 | [Not Worth the Whisky](https://open.spotify.com/track/1cdOIZtubfZpXQ6ADbjtU5) | [Sarah King](https://open.spotify.com/artist/21QsVLDSgYT7RWCC6aRBV5) | [Not Worth the Whisky](https://open.spotify.com/album/52yywjHl3HUjw8uTEWPF9J) | 3:01 | 2022-04-25 | 2023-01-25 |
 | [Nothing's Changed](https://open.spotify.com/track/4irZfzudAZkwXQE8bbLLqD) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [Nothing's Changed](https://open.spotify.com/album/64yEhq11PH8yOUGTTIrwrk) | 2:53 | 2021-02-23 | 2022-04-26 |
 | [Now And Then](https://open.spotify.com/track/2cvLgQyaHeeobkPVVVc1mV) | [The Magpies](https://open.spotify.com/artist/6uOGY4KpxPDYc4VmvYbcxW) | [Undertow](https://open.spotify.com/album/1z61ckbYH5MCubyrVUkCTK) | 3:54 | 2023-01-24 |  |
+| [Nutshimit](https://open.spotify.com/track/5wM1FyGMbJ5Mkuy3ouo03g) | [Bon Débarras](https://open.spotify.com/artist/1U0fRRuyOoLOSDJdmI9OQf), [Joséphine Bacon](https://open.spotify.com/artist/1kxTMxIJ00x29Xb0UVA6QS) | [Repères](https://open.spotify.com/album/4U9j5in3e1aPLgfEmCYzeJ) | 5:15 | 2023-01-24 |  |
 | [O amor te dá](https://open.spotify.com/track/1Uyg8kS8raUmS5tDYRRcsP) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Fragma](https://open.spotify.com/album/5Vwvi7lEBw808vJfDsGEkd) | 4:07 | 2021-02-23 | 2022-04-26 |
 | [O Death](https://open.spotify.com/track/0hBcnTQnRdxx6cutL5NCTY) | [Basset](https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3) | [Basset EP](https://open.spotify.com/album/2gmdibaeAbb8ePc8elPKQF) | 4:03 | 2022-04-25 | 2023-01-25 |
 | [Ocean Eyes](https://open.spotify.com/track/2unzrbPY6eI23LJmCFtjiE) | [The Burney Sisters](https://open.spotify.com/artist/7f0YHd5aLgWGySiOnJaTPE) | [Ocean Eyes](https://open.spotify.com/album/1iGQgZ8s2jgQ8k3kGdS5eh) | 2:56 | 2023-01-24 |  |

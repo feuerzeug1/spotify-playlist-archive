@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-476 songs - 1 day 3 hr 21 min
+477 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Agua](https://open.spotify.com/track/4OWi0FuiCj3Yy178rGV9NB) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [La Loba](https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR) | 3:06 | 2022-01-21 | 2022-07-26 |
 | [Aguatera](https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 3:23 | 2022-05-06 | 2022-07-26 |
 | [Aire](https://open.spotify.com/track/0G4PDFHuz6aqu0V86r16Lj) | [Vera de Venus](https://open.spotify.com/artist/5lR5pky9TFKe1hHGf6VFjD), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Visceral](https://open.spotify.com/album/4sCoPWal6Oyfz3kGG6bUPG) | 3:20 | 2022-03-18 | 2022-07-23 |
-| [Alcohólica Funcional](https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Alcohólica Funcional](https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z) | 2:41 | 2022-01-21 |  |
+| [Alcohólica Funcional](https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Alcohólica Funcional](https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z) | 2:41 | 2022-01-21 | 2023-03-19 |
 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 | 2023-03-03 |  |
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-02-03 |  |
 | [Algo de Mi Canción](https://open.spotify.com/track/0aS0PniXL2T1lGOALsrWRh) | [Camila Sapin](https://open.spotify.com/artist/4VWYsx7VsRf0Ir5UUT6pMk), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Algo de Mi Canción](https://open.spotify.com/album/5tuHB7wXoQGjeCokaSfyil) | 3:53 | 2022-03-18 | 2022-06-29 |
@@ -442,6 +442,7 @@
 | [Todo Va A Cambiar](https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [Todo Va A Cambiar](https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg) | 2:27 | 2022-05-06 |  |
 | [Torpe](https://open.spotify.com/track/5xfiwqLO6R21eRzWnjw7J4) | [Agustina Bécares](https://open.spotify.com/artist/6rC1DqYU1RqOE8aNV1RAf2) | [Torpe](https://open.spotify.com/album/5pPQfx95y0PSGvGohtBDO5) | 2:42 | 2022-04-01 | 2022-04-16 |
 | [Tu Paisaje](https://open.spotify.com/track/3Bmt4jOf8kcJteJdvtEZNs) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:05 | 2022-01-14 | 2022-07-27 |
+| [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 | 2023-03-17 |  |
 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 | 2022-04-20 | 2022-07-29 |
 | [Tú crees que es normal?](https://open.spotify.com/track/0fvhVnXL3Nxc6UtjHSOReA) | [Dadalú](https://open.spotify.com/artist/1b8V4W56uUKVMcxeOVPtXt) | [El mapa de los días](https://open.spotify.com/album/63DY7CyV6Cl4UnoRn3IJnj) | 2:13 | 2022-01-21 | 2022-07-15 |
 | [Un día lo encontré](https://open.spotify.com/track/3oUpoOrGSqMWXtDnZMBRtZ) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Un día lo encontré](https://open.spotify.com/album/4yw8y4WyyfYFYNeOa7ngog) | 3:00 | 2022-01-21 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,370 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,403 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 23 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
 | 24 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 |
 | 25 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
-| 26 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 |
-| 27 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
+| 26 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
+| 27 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 |
 | 28 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
-| 29 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
-| 30 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
+| 29 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
+| 30 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
 | 31 | [Enamórate De Alguien Más](https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Enamórate De Alguien Más](https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb) | 3:49 |
 | 32 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 |
 | 33 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 66 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
 | 67 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
 | 68 | [Solo Mía](https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Solo Mía](https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc) | 4:15 |
-| 69 | [me haces bien](https://open.spotify.com/track/4I31qeJXdtVgG7a7RIxPTj) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [MALOS Y BUENOS RECUERDOS](https://open.spotify.com/album/3rwYRSMbEuUiuxqDmgZUhJ) | 2:52 |
-| 70 | [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 |
+| 69 | [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 |
+| 70 | [me haces bien](https://open.spotify.com/track/4I31qeJXdtVgG7a7RIxPTj) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [MALOS Y BUENOS RECUERDOS](https://open.spotify.com/album/3rwYRSMbEuUiuxqDmgZUhJ) | 2:52 |
 | 71 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 |
 | 72 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 |
 | 73 | [Thunder](https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX) | [Fink's Mood](https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8) | [Thunder](https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 99 | [Tu Paisaje](https://open.spotify.com/track/3Bmt4jOf8kcJteJdvtEZNs) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:05 |
 | 100 | [Eres Tú](https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Eres Tú](https://open.spotify.com/album/21fMKfrrSkfaUvvWu5wrJR) | 2:39 |
 
-Snapshot ID: `MTY3Mzg5NjE2NCwwMDAwMDAwMDIzMjA0MmZlODRjNWNhNWRmZDgwNThlYWM2OTVkZjc0`
+Snapshot ID: `MTY3Mzg5NjE2NCwwMDAwMDAwMGRiNTQwNDRmYWE5ZGJkYjc3ZDEzNzg5NjI3ZGM0ZGE5`

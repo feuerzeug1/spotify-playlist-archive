@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 
 > Desde Culiacán, Sinaloa, Ozz nos comparte las rolitas que no pueden faltar a la hora de echarse un aguachile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,706 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,829 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 | 48 | [El Sinaloense \- En Vivo](https://open.spotify.com/track/6ZJYh8V3pOBygETxlw57Du) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo CDMX](https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT) | 3:21 |
 | 49 | [La Bola \(Pelotero a la Bola\)](https://open.spotify.com/track/2pdaGbHeRy6i5DJuWbLg3t) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty) | 3:30 |
 | 50 | [La Rabia](https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [El Favorito](https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4) | 3:13 |
-| 51 | [La Playa](https://open.spotify.com/track/7IMQ45yz4zOg1A0cBsHvCx) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Ayer, Hoy Y Siempre Con..\. Valentín Elizalde](https://open.spotify.com/album/0vkG9pqDfFB6ljZ9SFw9FM) | 3:03 |
+| 51 | [La Playa](https://open.spotify.com/track/02kI6xrg3MqVgfZwjS61cc) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [ME SIENTO A TODO DAR](https://open.spotify.com/album/1TUw3pFW3N22zP7j3JqcXI) | 3:03 |
 | 52 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 |
 | 53 | [La Mujer del Pelotero](https://open.spotify.com/track/7CjNZMpa03xdHh6YKq1bkf) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [La Mujer del Pelotero](https://open.spotify.com/album/2ZYMElqmRsjho63sBx6q4z) | 3:28 |
 | 54 | [La Gitanilla \- Live](https://open.spotify.com/track/60vZYP66KjdyQ6brbSOjYx) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pa' Las De Vidrio \(Live\)](https://open.spotify.com/album/7InJQUmbBBEUqDZZMMJ4C8) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 | 74 | [El Ahualoca](https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 3:34 |
 | 75 | [La Repetidora](https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:35 |
 
-Snapshot ID: `MTY3NTEwNTg1MSwwMDAwMDAwMDE1OTZmYTA2NjAxZDY2ZjU0MWM3NTI3ZDc0YTA2ZmFj`
+Snapshot ID: `MTY3NTEwNTg1MSwwMDAwMDAwMDQ2ZjNmNzdkODliOTg1MDU2OWEwNTlmZjljYWQ1ODY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 
 > All 80s, all ballads\. Cover: Michael Bolton
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,818 likes - 85 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,093 likes - 85 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 17 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 18 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
 | 19 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
-| 20 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
-| 21 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
+| 20 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
+| 21 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
 | 22 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 |
 | 23 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Arthur \- The Album \[Original Soundtrack\]](https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB) | 3:54 |
 | 24 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 57 | [On The Wings Of Love](https://open.spotify.com/track/6AEdWbrFREOUNmI1hMPbyc) | [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Jeffrey Osborne](https://open.spotify.com/album/0Z4d4VItwYl3FavOak829u) | 4:01 |
 | 58 | [Wind Beneath My Wings](https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Beaches \(Original Soundtrack Recording\)](https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9) | 4:53 |
 | 59 | [Through The Years](https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Share Your Love](https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6) | 4:46 |
-| 60 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 5:54 |
-| 61 | [Crazy for You \- Edit](https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:45 |
+| 60 | [Crazy for You \- Edit](https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:45 |
+| 61 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 5:54 |
 | 62 | [Truly](https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Lionel Richie](https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ) | 3:20 |
 | 63 | [Love Will Lead You Back](https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:37 |
 | 64 | [Suddenly](https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \(Expanded Edition\)](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 3:54 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 80 | [Listen To Your Heart](https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 5:28 |
 | 81 | [Only You](https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:15 |
 | 82 | [Eternal Flame](https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Everything](https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9) | 3:55 |
-| 83 | [You And I](https://open.spotify.com/track/7sWlOFUnQShNdxgk1B0TuW) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78), [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Radio Romance](https://open.spotify.com/album/532JCZV9eoJkF8fgOtwYkE) | 4:01 |
+| 83 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 |
 | 84 | [That's What Friends Are For \(with Elton John, Gladys Knight & Stevie Wonder\)](https://open.spotify.com/track/1cOj24fUMnBSXhtp7waHVW) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Greatest Hits 1979\-1990](https://open.spotify.com/album/0HpZFxWfSL8V4wzEtUvGFo) | 4:16 |
-| 85 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 |
+| 85 | [You And I](https://open.spotify.com/track/7sWlOFUnQShNdxgk1B0TuW) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78), [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Radio Romance](https://open.spotify.com/album/532JCZV9eoJkF8fgOtwYkE) | 4:01 |
 
-Snapshot ID: `MTY3MjI1Njg0OSwwMDAwMDAwMDQwMzkwMDdkYjA1YWZhYmYyMmY5MGY4MTE3OGFhMjkz`
+Snapshot ID: `MTY3MjI1Njg0OSwwMDAwMDAwMGFjM2UzNTFiODhmZjZmMDgxYjBhZjI2YmYyNGRhMTJk`

@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by CATT. Learn more in our playlist clips!",
-  "num_followers": 24846,
+  "num_followers": 24847,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDM4NTI3MzkwNjRlZWE1MjgzY2FiMWNhMTRjOTU3OWY3",
+  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDgyMGRhY2I0ZmQyOWJjOTI2NWEwODdiMGU0MzlkYjQ5",
   "tracks": [
     {
       "added_at": "2023-03-06 09:38:59",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "call me cat",
+        "url": "https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U"
+      },
+      "artists": [
+        {
+          "name": "PAENDA",
+          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "call me cat",
+      "url": "https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "MONDLICHT",
         "url": "https://open.spotify.com/album/4yDyWOKjSLyruosIWQ7usx"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 182080,
       "name": "MONDLICHT",
       "url": "https://open.spotify.com/track/2FSK3jttHrWDlVA3DigDPg"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "call me cat",
-        "url": "https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U"
-      },
-      "artists": [
-        {
-          "name": "PAENDA",
-          "url": "https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz"
-        }
-      ],
-      "duration_ms": 140453,
-      "name": "call me cat",
-      "url": "https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Sophie Lindinger",
-        "url": "https://open.spotify.com/album/3l5jkXQVX52tNOur0DUZ3G"
-      },
-      "artists": [
-        {
-          "name": "Sophie Lindinger",
-          "url": "https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g"
-        }
-      ],
-      "duration_ms": 246469,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/2lPy2tSERqF7Hm542vqimv"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Therapies",
         "url": "https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 189909,
       "name": "Therapies",
       "url": "https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Sophie Lindinger",
+        "url": "https://open.spotify.com/album/3l5jkXQVX52tNOur0DUZ3G"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lindinger",
+          "url": "https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g"
+        }
+      ],
+      "duration_ms": 246469,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/2lPy2tSERqF7Hm542vqimv"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/1wnqQGGmZi7o7jHZ8nhku4"
-      },
-      "artists": [
-        {
-          "name": "AINIE",
-          "url": "https://open.spotify.com/artist/4ws7LzBaXuN1H5b8FbLxqS"
-        }
-      ],
-      "duration_ms": 156584,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/7d9xvjLCcK0egWfG5i3LTS"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "TRAUM",
         "url": "https://open.spotify.com/album/3dW70AYuaeZVJkwmfiQl6i"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 132008,
       "name": "TRAUM",
       "url": "https://open.spotify.com/track/6TUJs76PxY3geuAHoJSvF4"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/1wnqQGGmZi7o7jHZ8nhku4"
+      },
+      "artists": [
+        {
+          "name": "AINIE",
+          "url": "https://open.spotify.com/artist/4ws7LzBaXuN1H5b8FbLxqS"
+        }
+      ],
+      "duration_ms": 156584,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/7d9xvjLCcK0egWfG5i3LTS"
     },
     {
       "added_at": "2023-03-06 09:38:59",

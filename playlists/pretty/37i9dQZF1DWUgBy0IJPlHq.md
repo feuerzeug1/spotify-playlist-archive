@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Margo Price & Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,491 likes - 140 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,578 likes - 140 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

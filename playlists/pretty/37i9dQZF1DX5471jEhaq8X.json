@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover: Tony Aguirre & Grupo Los de la O",
-  "num_followers": 582770,
+  "num_followers": 582799,
   "original_name": "Corridos 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjIwMSwwMDAwMDAwMGZkNDI2MDA3ZmUwMWUxZjVmNzFhNGU2OTg1ZDI3ZGQy",
+  "snapshot_id": "MTY3OTAzMjIwMSwwMDAwMDAwMGI0YjU0Y2VhMjAzNDhmOGI1M2NlMzVhNGQ0NDZjZTFm",
   "tracks": [
     {
       "added_at": "2023-03-17 05:50:01",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "Flaco Salgueiro",
-        "url": "https://open.spotify.com/album/4qM2J7FwcX2wCo1hxZEH10"
+        "name": "Ranchero de M\u00e1s",
+        "url": "https://open.spotify.com/album/7uBBrLqp1FIE39OSoSXmwY"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 182767,
-      "name": "Flaco Salgueiro",
-      "url": "https://open.spotify.com/track/26gjboIAI5bQevZS7aRg8C"
+      "duration_ms": 190317,
+      "name": "Ranchero de M\u00e1s",
+      "url": "https://open.spotify.com/track/4z6wOysi4P2lQhl2lCJZXO"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "Ranchero de M\u00e1s",
-        "url": "https://open.spotify.com/album/7uBBrLqp1FIE39OSoSXmwY"
+        "name": "Flaco Salgueiro",
+        "url": "https://open.spotify.com/album/4qM2J7FwcX2wCo1hxZEH10"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 190317,
-      "name": "Ranchero de M\u00e1s",
-      "url": "https://open.spotify.com/track/4z6wOysi4P2lQhl2lCJZXO"
+      "duration_ms": 182767,
+      "name": "Flaco Salgueiro",
+      "url": "https://open.spotify.com/track/26gjboIAI5bQevZS7aRg8C"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "La Elegancia Se Mir\u00f3",
-        "url": "https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 208011,
-      "name": "La Elegancia Se Miro",
-      "url": "https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
         "name": "La Vida Es Bella",
         "url": "https://open.spotify.com/album/3X2lM2vUzWvCb4OjFiFN4u"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 174546,
       "name": "La Vida Es Bella",
       "url": "https://open.spotify.com/track/0E3tJRyG1FMEMFSovJEMUe"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
+        "name": "La Elegancia Se Mir\u00f3",
+        "url": "https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 208011,
+      "name": "La Elegancia Se Miro",
+      "url": "https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "Sigue El Imperio Rifando",
-        "url": "https://open.spotify.com/album/3O9dOd6JyMPKfoAInKHO0V"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Sigue El Imperio Rifando",
-      "url": "https://open.spotify.com/track/3xyWvWTuiR3mCSltXPInDD"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
         "name": "Hijo De La Garita (En Vivo)",
         "url": "https://open.spotify.com/album/4RW0Jf3HbcC1tZonsglBU2"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 181418,
       "name": "Hijo De La Garita (En Vivo)",
       "url": "https://open.spotify.com/track/1H0I6j34tXIW9QN6FM0tmB"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
+        "name": "Sigue El Imperio Rifando",
+        "url": "https://open.spotify.com/album/3O9dOd6JyMPKfoAInKHO0V"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Sigue El Imperio Rifando",
+      "url": "https://open.spotify.com/track/3xyWvWTuiR3mCSltXPInDD"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
+        "name": "El E",
+        "url": "https://open.spotify.com/album/53IaApkElVU8RnqPwFFxF1"
+      },
+      "artists": [
+        {
+          "name": "Miguel Gonzalez",
+          "url": "https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT"
+        },
+        {
+          "name": "Javier Olguin",
+          "url": "https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt"
+        }
+      ],
+      "duration_ms": 183763,
+      "name": "El E",
+      "url": "https://open.spotify.com/track/6AgCihW2mcPi2zKx4jqnW0"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
         "name": "Traigo Un Equip\u00f3n",
         "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
       },
@@ -2035,26 +2055,6 @@
       "duration_ms": 150678,
       "name": "El Matrix",
       "url": "https://open.spotify.com/track/5B3gw7EcyIODNP9K542xfl"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
-        "name": "El E",
-        "url": "https://open.spotify.com/album/53IaApkElVU8RnqPwFFxF1"
-      },
-      "artists": [
-        {
-          "name": "Miguel Gonzalez",
-          "url": "https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT"
-        },
-        {
-          "name": "Javier Olguin",
-          "url": "https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt"
-        }
-      ],
-      "duration_ms": 183763,
-      "name": "El E",
-      "url": "https://open.spotify.com/track/6AgCihW2mcPi2zKx4jqnW0"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "El HR",
-        "url": "https://open.spotify.com/album/0PQslANkIRy4xouYhrWysF"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "El HR",
-      "url": "https://open.spotify.com/track/03HiUavmLfXA52gy9kbJMQ"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
         "name": "Barba De Herencia",
         "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 204675,
       "name": "Barba De Herencia",
       "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
+        "name": "El HR",
+        "url": "https://open.spotify.com/album/0PQslANkIRy4xouYhrWysF"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "El HR",
+      "url": "https://open.spotify.com/track/03HiUavmLfXA52gy9kbJMQ"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "Clave 40",
-        "url": "https://open.spotify.com/album/6UGDJVYkpaUCw9ad848B9j"
-      },
-      "artists": [
-        {
-          "name": "Arturo Coronel y el Buen Estilo",
-          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Clave 40",
-      "url": "https://open.spotify.com/track/2jYohPlIUyc3td0eG6i83O"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
         "name": "En La Vagancia",
         "url": "https://open.spotify.com/album/30k2FK0REuWdEHE7mFpK4K"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 153138,
       "name": "Como Anillo Al Dedo",
       "url": "https://open.spotify.com/track/6lXPojOyE25Doq3QXSsXTg"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
+        "name": "Clave 40",
+        "url": "https://open.spotify.com/album/6UGDJVYkpaUCw9ad848B9j"
+      },
+      "artists": [
+        {
+          "name": "Arturo Coronel y el Buen Estilo",
+          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Clave 40",
+      "url": "https://open.spotify.com/track/2jYohPlIUyc3td0eG6i83O"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "No Fue Por Suerte (En Vivo)",
-        "url": "https://open.spotify.com/album/5jLl1BrU3HkKqrdQFrdvk5"
-      },
-      "artists": [
-        {
-          "name": "Doble Vision",
-          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
-        }
-      ],
-      "duration_ms": 186674,
-      "name": "No Fue Por Suerte (En Vivo)",
-      "url": "https://open.spotify.com/track/6ei8QQ1AVmz1pPXayot3P7"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
         "name": "Corridos B\u00e9licos y Tumbados",
         "url": "https://open.spotify.com/album/3yDTGxDqmTTtMmaDrfF5qg"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 192888,
       "name": "Mi Estilo",
       "url": "https://open.spotify.com/track/78nwSwV5jNuoaBXaeDsskt"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
+        "name": "No Fue Por Suerte (En Vivo)",
+        "url": "https://open.spotify.com/album/5jLl1BrU3HkKqrdQFrdvk5"
+      },
+      "artists": [
+        {
+          "name": "Doble Vision",
+          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
+        }
+      ],
+      "duration_ms": 186674,
+      "name": "No Fue Por Suerte (En Vivo)",
+      "url": "https://open.spotify.com/track/6ei8QQ1AVmz1pPXayot3P7"
     },
     {
       "added_at": "2023-03-17 05:50:01",

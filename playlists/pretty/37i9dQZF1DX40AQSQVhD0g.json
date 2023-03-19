@@ -1,12 +1,12 @@
 {
   "description": "Buenas vibras para limpiar la casa! The best vibes to keep the house clean!",
-  "num_followers": 192346,
+  "num_followers": 192461,
   "original_name": "Cleaning Kit en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODMxMzg1MSwwMDAwMDAwMGE0YTU1OTA4MzEyZTYwYzhjZjhmZjU2MGZhMjVmODNk",
+  "snapshot_id": "MTY3ODMxMzg1MSwwMDAwMDAwMGM1ZGFmM2NiMTA4MDY2YWE5OTIwZDFhN2M1ZWViMTJk",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
     },
     {
-      "added_at": "2023-03-18 01:12:41",
+      "added_at": "2023-03-19 00:47:19",
       "album": {
         "name": "1000CANCIONES",
         "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
@@ -1051,42 +1051,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Celestial",
-        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
+        "name": "Nina Sky",
+        "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
       },
       "artists": [
         {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
         },
         {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+          "name": "Jabba",
+          "url": "https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Ser O Parecer",
-      "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
+      "duration_ms": 232000,
+      "name": "Move Ya Body",
+      "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1143,22 +1123,42 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Nina Sky",
-        "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
       "artists": [
         {
-          "name": "Nina Sky",
-          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
         },
         {
-          "name": "Jabba",
-          "url": "https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA"
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Move Ya Body",
-      "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+      "duration_ms": 211466,
+      "name": "Ser O Parecer",
+      "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
     },
     {
       "added_at": "2023-02-24 05:00:00",

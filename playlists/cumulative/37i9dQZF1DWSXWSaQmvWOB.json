@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 186200,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/7AEEEVNZCENxzU4J2V6Ah9"
@@ -7421,6 +7421,32 @@
     },
     {
       "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/3o6zpnwxSC8PeIQkdP5V1w"
+      },
+      "artists": [
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "FATHERDUDE",
+          "url": "https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196534,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/6folHlbbLuRgOtNj6fS5OS"
+    },
+    {
+      "album": {
         "name": "Not Today Mate",
         "url": "https://open.spotify.com/album/6a1IXJ5uCSDmNngN10IZRV"
       },
@@ -10965,6 +10991,24 @@
     },
     {
       "album": {
+        "name": "IRONEYE",
+        "url": "https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C"
+      },
+      "artists": [
+        {
+          "name": "Adja",
+          "url": "https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239813,
+      "name": "To be naive",
+      "url": "https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu"
+    },
+    {
+      "album": {
         "name": "Toking, Dozing",
         "url": "https://open.spotify.com/album/30aPHVy3HJiFXkeDJetqTL"
       },
@@ -11212,7 +11256,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 260853,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9"

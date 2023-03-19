@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: NMIXX\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,112 likes - 371 songs - 21 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,297 likes - 371 songs - 21 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 102 | [Asphalt \(feat\. pH\-1\)](https://open.spotify.com/track/58mChQUTpqCnaGYC6CCSD0) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Asphalt \(feat\. pH\-1\)](https://open.spotify.com/album/6opRDXGetgN7pAaReSCb1N) | 2:56 |
 | 103 | [FIX YOU](https://open.spotify.com/track/3MpZeEXf4DpkPnuQeofIsk) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [TAN 1st Anniversary Special Album \[ESSEGE\]](https://open.spotify.com/album/0zHuqyBWbGG9pmGrBSxLdA) | 3:33 |
 | 104 | [Wish](https://open.spotify.com/track/5fgNE9JusosZULPTh9uSti) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Wish](https://open.spotify.com/album/1WxDwpztDVDIke5AqjeS2C) | 2:44 |
-| 105 | [ouu weeeeeee](https://open.spotify.com/track/3y0IgO0UXVS2tOXBwlEYo7) | [lil thunder](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW) | [Demon girl](https://open.spotify.com/album/4GT0c9mZjRJsD7SuTHFl1I) | 2:18 |
+| 105 | [ouu weeeeeee](https://open.spotify.com/track/2EjpgnLNcREqUCBcWNU9OA) | [lil thunder](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW) | [Demon girl](https://open.spotify.com/album/3FE3HYVNQo4l5wQi3Q2uMk) | 2:18 |
 | 106 | [Wonderful Night](https://open.spotify.com/track/5hpXHCKrUYmGdHdCKDaBW6) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Taxidriver2 OST Part.4](https://open.spotify.com/album/0CWcFm1c9U4gORPNgWWgzd) | 3:34 |
 | 107 | [The Memories that we drew](https://open.spotify.com/track/4mj5miegWWEuxBjLpTIXEA) | [Of Us](https://open.spotify.com/artist/0uToSXV5zGhOWK0wv2fBFv), [이정석](https://open.spotify.com/artist/32R8sZMuoan0Uf19J0mVOS), [Ritten](https://open.spotify.com/artist/75JxqNI8nTvBEmb05JG5pa), [이선주](https://open.spotify.com/artist/599p4Ji4SikmwIUCsM4EDv), [Shin su gyeom](https://open.spotify.com/artist/2TTGHpxAofBozIh7G1vJMl), [Shin ho ji](https://open.spotify.com/artist/5oMVH63KLP3gS8tQWf7Zrg) | [The Memories that we drew](https://open.spotify.com/album/2ksUwvKZNy5Ii6Tteb8Zyb) | 4:32 |
 | 108 | [Wastebasket](https://open.spotify.com/track/3QY3CDmE6u27ebv1rOaVEB) | [That](https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL), [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT) | [Wastebasket](https://open.spotify.com/album/21zldMTHiinNXkE6xl36iF) | 2:36 |
@@ -380,4 +380,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 370 | [풍등](https://open.spotify.com/track/4LRwxYACbFQpM8cWbQVBS5) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [ONE](https://open.spotify.com/album/5SHzzLq6kYCnAqnMfgs20f) | 4:08 |
 | 371 | [Flowing Stars](https://open.spotify.com/track/4bqdJ586sowMxaWSDr8U4B) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Flowing Stars](https://open.spotify.com/album/5Rc2FJYoM29NlMerMWj7AY) | 4:15 |
 
-Snapshot ID: `MTY3OTA0NzI0MywwMDAwMDAwMDhmYmI5ZDY2Zjc5YzNhOWU1N2VjZjRmNmRlOTI2YjE3`
+Snapshot ID: `MTY3OTA0NzI0MywwMDAwMDAwMDVkZDBkMWI1NTE2NjgzNDMzYmRhM2JkZmU3MGRmYjU3`

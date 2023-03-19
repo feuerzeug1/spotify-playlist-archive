@@ -1971,24 +1971,6 @@
     },
     {
       "album": {
-        "name": "Wanted You to Know",
-        "url": "https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6"
-      },
-      "artists": [
-        {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
-        }
-      ],
-      "date_added": "2021-12-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177952,
-      "name": "that'd be alright",
-      "url": "https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN"
-    },
-    {
-      "album": {
         "name": "that'd be alright",
         "url": "https://open.spotify.com/album/3Itg7NVVyUe4fUJ8Jt56vP"
       },
@@ -2004,6 +1986,24 @@
       "duration_ms": 177952,
       "name": "that'd be alright",
       "url": "https://open.spotify.com/track/2MuIQnJTw4dEGntnK6MSNn"
+    },
+    {
+      "album": {
+        "name": "Wanted You to Know",
+        "url": "https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "that'd be alright",
+      "url": "https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN"
     },
     {
       "album": {

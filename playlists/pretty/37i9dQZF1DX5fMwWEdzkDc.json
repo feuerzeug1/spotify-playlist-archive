@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8244,
+  "num_followers": 8262,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMGViMDQxOGQzMjQ5ODEzY2U3YzcxYzk3MGZhZjYxZDVh",
+  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMGFmOGQ1OGJjZTBmZjYwNDRmYWRjYTRjYzFiOTgwYmYz",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -191,6 +191,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "Kissing You",
+      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Hexagonal",
         "url": "https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 284626,
       "name": "\ud5e4\uc5b4\uc9c0\uc9c0 \ubabb\ud558\ub294 \uc5ec\uc790, \ub5a0\ub098\uac00\uc9c0 \ubabb\ud558\ub294 \ub0a8\uc790 Can't Breakup Girl, Can't Breakaway Boy (feat. \uc815\uc778 Jung In)",
       "url": "https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Girls' Generation",
-        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "Kissing You",
-      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -679,8 +679,8 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Girls On Top",
-        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+        "name": "My Name - The 4th Album",
+        "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 218653,
-      "name": "Girls On Top",
-      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
+      "duration_ms": 193026,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -795,8 +795,8 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "My Name - The 4th Album",
-        "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 193026,
-      "name": "My Name",
-      "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
+      "duration_ms": 218653,
+      "name": "Girls On Top",
+      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -863,6 +863,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "F.Scott Fitzgerald's Way Of Love",
+        "url": "https://open.spotify.com/album/36QzXSj6vmA5tOpylKeZeL"
+      },
+      "artists": [
+        {
+          "name": "2am",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "duration_ms": 228453,
+      "name": "\ub108\ub3c4 \ub098\ucc98\ub7fc I Wonder If You Hurt Like Me",
+      "url": "https://open.spotify.com/track/2NDEW4uf4rvM5FytTtBrbZ"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 271986,
       "name": "\uc5b4\ub5a4\uac00\uc694",
       "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "It's Different",
-        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
-      },
-      "artists": [
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -911,18 +911,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "F.Scott Fitzgerald's Way Of Love",
-        "url": "https://open.spotify.com/album/36QzXSj6vmA5tOpylKeZeL"
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
       },
       "artists": [
         {
-          "name": "2am",
-          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 228453,
-      "name": "\ub108\ub3c4 \ub098\ucc98\ub7fc I Wonder If You Hurt Like Me",
-      "url": "https://open.spotify.com/track/2NDEW4uf4rvM5FytTtBrbZ"
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Virginalness Bloom",
+        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
+      },
+      "artists": [
+        {
+          "name": "\ucc44\uc5f0",
+          "url": "https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Re - Feel",
         "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 259626,
       "name": "Break Away",
       "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Virginalness Bloom",
-        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
-      },
-      "artists": [
-        {
-          "name": "\ucc44\uc5f0",
-          "url": "https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Type B (1)",
-        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
-      },
-      "artists": [
-        {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Dropping the Tears",
         "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 238628,
       "name": "LOVE119 (feat. MC Mong)",
       "url": "https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Type B (1)",
+        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
+      },
+      "artists": [
+        {
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "My Fair Lady (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6IPH808fsWagTBK9SusndW"
+        "name": "\uac70\uc9d3\ub9d0",
+        "url": "https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
         }
       ],
-      "duration_ms": 221066,
-      "name": "Hot Stuff",
-      "url": "https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a"
+      "duration_ms": 226038,
+      "name": "\uac70\uc9d3\ub9d0 Pt. 1",
+      "url": "https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\uac70\uc9d3\ub9d0",
-        "url": "https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5"
+        "name": "My Fair Lady (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6IPH808fsWagTBK9SusndW"
       },
       "artists": [
         {
-          "name": "T-ARA",
-          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 226038,
-      "name": "\uac70\uc9d3\ub9d0 Pt. 1",
-      "url": "https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM"
+      "duration_ms": 221066,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a"
     },
     {
       "added_at": "2021-03-11 16:26:11",

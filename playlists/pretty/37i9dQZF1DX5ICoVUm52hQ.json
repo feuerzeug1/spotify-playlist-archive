@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con las Letras de estas canciones, no querr\u00e1s soltar el micr\u00f3fono!",
-  "num_followers": 124013,
+  "num_followers": 124116,
   "original_name": "Karaoke Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxNTIyMiwwMDAwMDAwMGM4MDc3ZjYyNDk5ZDY5ODhjZTU1YTZlM2NkNDQ1NjBj",
+  "snapshot_id": "MTYwMzUxNTIyMiwwMDAwMDAwMDgwODA4NzMxZTQ5Y2JhOTAxY2NhYTMzNTc0OWVmMzJj",
   "tracks": [
     {
       "added_at": "2020-10-24 04:53:42",
@@ -111,18 +111,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
         }
       ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+      "duration_ms": 185920,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -167,18 +167,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
         {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Rosa Pastel",
-      "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -415,6 +415,22 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 295533,
       "name": "Mis Ojos Lloran Por Ti",
       "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Atado A Tu Amor",
         "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 284466,
       "name": "Dejar\u00eda Todo",
       "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -871,6 +871,22 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 273008,
+      "name": "Secreto De Amor",
+      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 273008,
-      "name": "Secreto De Amor",
-      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Fantas\u00eda o realidad",
-        "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Aunque no te pueda ver",
-      "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "El Momento",
         "url": "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 248373,
       "name": "Lucha De Gigantes",
       "url": "https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Fantas\u00eda o realidad",
+        "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Aunque no te pueda ver",
+      "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
+        "name": "Dj Pablito Presenta- La Factor\u00eda",
+        "url": "https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb"
+      },
+      "artists": [
+        {
+          "name": "DJ Pablito",
+          "url": "https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5"
+        },
+        {
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        },
+        {
+          "name": "Joycee",
+          "url": "https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
         "name": "Sereno",
         "url": "https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv"
       },
@@ -1131,30 +1155,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Dj Pablito Presenta- La Factor\u00eda",
-        "url": "https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb"
-      },
-      "artists": [
-        {
-          "name": "DJ Pablito",
-          "url": "https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5"
-        },
-        {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
-        },
-        {
-          "name": "Joycee",
-          "url": "https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 332040,
       "name": "Experiencia Religiosa",
       "url": "https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
+        "name": "Tierna La Noche",
+        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        }
+      ],
+      "duration_ms": 281520,
+      "name": "Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Tierna La Noche",
-        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
-      },
-      "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "Az\u00facar Amargo",
-      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Motel",
         "url": "https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 220773,
       "name": "Dime Ven",
       "url": "https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1323,22 +1339,6 @@
       "duration_ms": 214933,
       "name": "A\u00fan Hay Algo",
       "url": "https://open.spotify.com/track/6fqpsCQ7jF7OgQolXgYovX"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Olv\u00eddame y Pega la Vuelta",
-      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
     },
     {
       "added_at": "2020-10-24 04:53:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,765 likes - 70 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,819 likes - 70 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 28 | [Long Distance](https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:33 |
 | 29 | [Love That Burns](https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 5:04 |
 | 30 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
-| 31 | [Too Many Dirty Dishes \- Remastered](https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 6:52 |
-| 32 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
+| 31 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
+| 32 | [Too Many Dirty Dishes \- Remastered](https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 6:52 |
 | 33 | [You Shook Me](https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 4:15 |
 | 34 | [Same Old Blues](https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:34 |
 | 35 | [Groaning the Blues \- Live at the Fillmore, San Francisco, 1994](https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Nothing But the Blues \(Live\)](https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc) | 7:10 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 40 | [I Shall Know Him](https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Singing In My Soul](https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw) | 3:44 |
 | 41 | [Waiting For The Dawn](https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Waiting For The Dawn](https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV) | 5:50 |
 | 42 | [Help The Poor](https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Regal](https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2) | 2:38 |
-| 43 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 |
-| 44 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 |
-| 45 | [When Will You Tell Him About Me?](https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [The Chicago Way](https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS) | 4:29 |
+| 43 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 |
+| 44 | [When Will You Tell Him About Me?](https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [The Chicago Way](https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS) | 4:29 |
+| 45 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 |
 | 46 | [I Need Love So Bad](https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 2:36 |
 | 47 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 |
 | 48 | [Sufferin' With The Blues](https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Wish Someone Would Care](https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY) | 2:20 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 56 | [I Got News For You](https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp) | [Andrew Brown](https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:01 |
 | 57 | [No More Lonely Nights](https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 5:19 |
 | 58 | [I've Lost My Baby](https://open.spotify.com/track/1K3L55HIhx61FIn173umta) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 4:17 |
-| 59 | [Sanctified, Holy And Hateful](https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 5:29 |
-| 60 | [Drown in My Own Tears](https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Soul for the Heart](https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4) | 4:35 |
+| 59 | [Drown in My Own Tears](https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Soul for the Heart](https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4) | 4:35 |
+| 60 | [Sanctified, Holy And Hateful](https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 5:29 |
 | 61 | [Walkin' Blues](https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Midnight Call](https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99) | 4:48 |
 | 62 | [If You Gotta Make a Fool of Somebody \- 2008 Remaster](https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:00 |
 | 63 | [Love Is Gone](https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [Memphis Moonlight](https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8) | 4:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 69 | [What Am I Living For](https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd) | [Wilbert Harrison](https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6) | [Peepin' And Hidin'](https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV) | 3:43 |
 | 70 | [Brand New](https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Brand New](https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q) | 6:59 |
 
-Snapshot ID: `MTY3ODk4ODE0OSwwMDAwMDAwMDU2NDA0YzA5M2E4ZmFjNmZkM2Y5NGIyNGM3Y2RjMzkx`
+Snapshot ID: `MTY3ODk4ODE0OSwwMDAwMDAwMDI3MGQ4MjMyM2M0MWM5ZGJjMzQ5NjE2YzdiYWNiMWRm`

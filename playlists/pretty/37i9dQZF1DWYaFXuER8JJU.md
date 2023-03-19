@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del norteño en vivo\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,485 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,582 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 38 | [La Novena Maravilla \- En Vivo](https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 2:53 |
 | 39 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 |
 | 40 | [Abrazado De Un Poste \- En Vivo](https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lorenzo De Monteclaro](https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:12 |
-| 41 | [Fuiste Mala](https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Fuiste Mala](https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM) | 3:24 |
-| 42 | [Aguanta Corazon](https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:17 |
+| 41 | [Aguanta Corazon](https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:17 |
+| 42 | [Fuiste Mala](https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Fuiste Mala](https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM) | 3:24 |
 | 43 | [El Viajecito](https://open.spotify.com/track/5a8BD719zyuFnj4b0vDh6o) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' la Raza](https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU) | 3:56 |
 | 44 | [Con Olor A Hierba \- Live](https://open.spotify.com/track/1JEKSgB0Z0mRUuSVzOimu8) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:49 |
 | 45 | [Popurri De Cumbias \(En Vivo\)](https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Hacienda Heights](https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl) | 8:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 74 | [Simplemente Gracias \- En Vivo](https://open.spotify.com/track/7kTbcfiAVDGv2VBxddSrEf) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:37 |
 | 75 | [La Pasadita \- En Vivo](https://open.spotify.com/track/5drGB8Ndu2UNBzx6lxssKF) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Vivo F.P.](https://open.spotify.com/album/4KidE7Z3S1i4ZuTPHJyblk) | 3:34 |
 
-Snapshot ID: `MTY3NDA4NzUyNCwwMDAwMDAwMDUwYWI0ZmQ2M2VjMTJmNTIxNmYxNDFlY2ZlYjJlNTM0`
+Snapshot ID: `MTY3NDA4NzUyNCwwMDAwMDAwMGNlNTJiOTE0OTZlMjI0M2E5N2E1OWZmN2RiZmZhY2Yx`

@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "All Of The Girls You Loved Before",
+        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221407,
+      "name": "All Of The Girls You Loved Before",
+      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+    },
+    {
+      "album": {
         "name": "Raised Under Grey Skies (Deluxe)",
         "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
@@ -706,6 +724,24 @@
       "duration_ms": 131824,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV"
+    },
+    {
+      "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131824,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs"
     },
     {
       "album": {
@@ -4162,7 +4198,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 206080,
       "name": "Eleven (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
@@ -7870,7 +7906,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 252657,
       "name": "Innocence and Sadness",
       "url": "https://open.spotify.com/track/1nJatkqxWH7TQwBrP39yNd"
@@ -11620,7 +11656,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -12506,7 +12542,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 240226,
       "name": "Run (feat. Ed Sheeran) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T"

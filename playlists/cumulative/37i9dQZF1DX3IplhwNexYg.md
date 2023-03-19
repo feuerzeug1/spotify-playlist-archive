@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Black Honey
 
-384 songs - 21 hr 37 min
+385 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [ILY2](https://open.spotify.com/track/6TFNpbspD3whCDW98LvMSY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/3nBehmaH78kXLIQhImNnOH) | 3:45 | 2022-09-29 | 2022-10-13 |
 | [ILY2](https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k) | 3:45 | 2022-10-06 | 2023-02-11 |
 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 | 2022-09-29 |  |
+| [In My Head](https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [In My Head](https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ) | 3:18 | 2023-03-17 |  |
 | [in my ways](https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [in my ways](https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU) | 2:23 | 2023-02-10 |  |
 | [Iron Lung](https://open.spotify.com/track/2XpOjMiHSOCfEPfvtZoqW9) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Wrong Girl, Honey](https://open.spotify.com/album/5TZUx1zHRakzdtq7kPY7oJ) | 3:01 | 2021-03-09 | 2022-01-17 |
 | [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 | 2022-08-18 | 2023-01-22 |
@@ -219,7 +220,7 @@
 | [Late Teens](https://open.spotify.com/track/376W9y1HicyWrGiHInYdzZ) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Late Teens](https://open.spotify.com/album/7bwleaGVTYLtJagViscDrC) | 3:25 | 2021-03-09 | 2022-01-17 |
 | [Lay Your Troubles on Me](https://open.spotify.com/track/7HxflaQez3QfWoehXQ1B5T) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Lay Your Troubles on Me](https://open.spotify.com/album/4kSn6blI3HVRI0lD9WoD8H) | 3:51 | 2023-02-10 | 2023-03-03 |
 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 | 2022-08-18 | 2022-10-07 |
-| [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-10-06 |  |
+| [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-10-06 | 2023-03-19 |
 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 | 2022-08-18 | 2022-10-07 |
 | [Let's Go](https://open.spotify.com/track/0FGRPpBeQxkGEpnIChlnf8) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Let's Go](https://open.spotify.com/album/09PcwXJ6Kdt2M6ezSCYnQb) | 2:22 | 2021-04-30 | 2022-02-04 |
 | [Liffey](https://open.spotify.com/track/6JWsaKAJaqznc19DLk5d00) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:19 | 2021-03-09 | 2022-01-22 |

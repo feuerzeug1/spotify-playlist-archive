@@ -4,7 +4,7 @@
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-191 songs - 9 hr 43 min
+192 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Alone, Pt\. II](https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Alone, Pt\. II](https://open.spotify.com/album/700MviIgFKNTldTXmOAFOr) | 2:59 | 2021-08-20 |  |
 | [Back of Your Head](https://open.spotify.com/track/4Nxo4PVVFePtkEG3G0LuD9) | [Ea Kaya](https://open.spotify.com/artist/2cMDCP6zOLaPPbOXMD4193) | [Back of Your Head](https://open.spotify.com/album/16kpdNRYt5KexZJLBXUOog) | 3:54 | 2021-08-20 | 2022-07-25 |
 | [Be Kind](https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Be Kind](https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r) | 3:01 | 2021-08-20 | 2023-03-06 |
+| [Be Okay](https://open.spotify.com/track/0RYE1h1i5s9iXwaAjcf5VY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Be Okay](https://open.spotify.com/album/6HlvjQ7eUBKvCJmYcSJZwR) | 2:21 | 2021-08-20 |  |
 | [Be Okay \(with HRVY\)](https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Be Okay \(with HRVY\)](https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v) | 2:21 | 2021-08-20 | 2022-07-29 |
 | [Beast and Beauty](https://open.spotify.com/track/2rVyuYkkxF3VIW47Aq5tEG) | [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4) | [Beast and Beauty](https://open.spotify.com/album/5uuv4vYnILdQZ891fW3sbQ) | 3:14 | 2021-08-20 | 2022-07-27 |
 | [Beautiful People \(feat\. Khalid\) \- NOTD Remix](https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Beautiful People \(feat\. Khalid\) \[NOTD Remix\]](https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2) | 2:42 | 2021-08-20 |  |
@@ -58,7 +59,7 @@
 | [Forgive Me Friend](https://open.spotify.com/track/6LS5QB8GW8raREqEEQPEMs) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Swedish Jam Factory](https://open.spotify.com/artist/599aGczoZFptUe5tbS43LT) | [Forgive Me Friend](https://open.spotify.com/album/4CIX8ETHN8XMY8t2UAOzlR) | 3:36 | 2021-08-20 | 2022-07-13 |
 | [fuck, i’m lonely \- Ofenbach Remix](https://open.spotify.com/track/4fCAOaMs0PYL58OijKp2IS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [fuck, i'm lonely \(Ofenbach Remix\)](https://open.spotify.com/album/1vtHFX1NTE4awfd2sR1VGP) | 2:58 | 2021-08-20 | 2022-07-20 |
 | [Get To Know You](https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Get To Know You](https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU) | 3:21 | 2021-08-20 |  |
-| [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 | 2021-08-20 |  |
+| [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 | 2021-08-20 | 2023-03-19 |
 | [Gotta Let Go](https://open.spotify.com/track/4dSS4hwl81hvbfMsIogJGZ) | [Hypanda](https://open.spotify.com/artist/04SWu4kCwYK5DjY6V7KoEk), [IA](https://open.spotify.com/artist/3WQjK7s42mxoKkkJDxr0kq) | [Gotta Let Go](https://open.spotify.com/album/2PoKnh9999RydFOKgKbFt6) | 3:10 | 2021-08-20 | 2022-07-01 |
 | [Graveyard](https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:01 | 2021-08-20 |  |
 | [Ground Running](https://open.spotify.com/track/2FWzDejXsMF3sYvwERZaSY) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Lexicon](https://open.spotify.com/album/7rG9gW5v1pDOHzAuWRjguP) | 3:21 | 2021-08-20 | 2022-07-28 |

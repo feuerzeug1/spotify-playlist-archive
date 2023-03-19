@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,088 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,168 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 46 | [Galileia](https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Galileia](https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV) | 2:37 |
 | 47 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 |
 | 48 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
-| 49 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
-| 50 | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE) | 3:25 |
+| 49 | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE) | 3:25 |
+| 50 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 
-Snapshot ID: `MTY3ODQ5ODA2NywwMDAwMDAwMGE4ZDlmMTVmOGYxZTMxNjY4NjFiZWE0YmQ2MmE5NzJl`
+Snapshot ID: `MTY3ODQ5ODA2NywwMDAwMDAwMDBmMjUyMDRkYzlhZTc0YTdlNDRiNWY4NjUxZjM2M2Ey`

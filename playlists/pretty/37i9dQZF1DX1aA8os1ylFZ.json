@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 228381,
+  "num_followers": 228417,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODMxMDQ1MiwwMDAwMDAwMDRkYmE5MjExNDM0NWNhMmI4ZjA3MTZiYWRjY2Y0ZmM5",
+  "snapshot_id": "MTY3ODMxMDQ1MiwwMDAwMDAwMDE4N2I4M2UzNTg1ODhjMzAxYzA5MjczZDM5ZWQwMGM5",
   "tracks": [
     {
       "added_at": "2023-03-07 14:02:53",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-03-07 14:02:53",
       "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
+    },
+    {
+      "added_at": "2023-03-07 14:02:53",
+      "album": {
         "name": "Conflict Of Interest",
         "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 274400,
       "name": "10,000 Tears (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA"
-    },
-    {
-      "added_at": "2023-03-07 14:02:53",
-      "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
     },
     {
       "added_at": "2023-03-07 14:02:53",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2023-03-07 14:02:53",
       "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+        "name": "If Pretty Was A Person",
+        "url": "https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Hylan Starr",
+          "url": "https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 173968,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+      "duration_ms": 156297,
+      "name": "If Pretty Was A Person",
+      "url": "https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo"
     },
     {
       "added_at": "2023-03-07 14:02:53",
@@ -1315,22 +1319,38 @@
     {
       "added_at": "2023-03-07 14:02:53",
       "album": {
-        "name": "If Pretty Was A Person",
-        "url": "https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T"
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
       "artists": [
         {
-          "name": "Hylan Starr",
-          "url": "https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 156297,
-      "name": "If Pretty Was A Person",
-      "url": "https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo"
+      "duration_ms": 173968,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+    },
+    {
+      "added_at": "2023-03-07 14:02:53",
+      "album": {
+        "name": "Talk About Love (feat. Young Thug)",
+        "url": "https://open.spotify.com/album/29K1jMNI9pOIzCG3rtzm0p"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Talk About Love (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1qA9TnEJ2sUub9QkN9K3Mv"
     },
     {
       "added_at": "2023-03-07 14:02:53",
@@ -1359,26 +1379,6 @@
       "duration_ms": 176470,
       "name": "No Games",
       "url": "https://open.spotify.com/track/5AGhBP57akSYR9rW7NPsoy"
-    },
-    {
-      "added_at": "2023-03-07 14:02:53",
-      "album": {
-        "name": "Talk About Love (feat. Young Thug)",
-        "url": "https://open.spotify.com/album/29K1jMNI9pOIzCG3rtzm0p"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Talk About Love (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1qA9TnEJ2sUub9QkN9K3Mv"
     },
     {
       "added_at": "2023-03-07 14:02:53",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-03-07 14:02:53",
       "album": {
-        "name": "Petty",
-        "url": "https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 195078,
-      "name": "Petty",
-      "url": "https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo"
-    },
-    {
-      "added_at": "2023-03-07 14:02:53",
-      "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 179000,
       "name": "Fool 4 U",
       "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
+    },
+    {
+      "added_at": "2023-03-07 14:02:53",
+      "album": {
+        "name": "Petty",
+        "url": "https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 195078,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo"
     },
     {
       "added_at": "2023-03-07 14:02:53",
@@ -1551,38 +1551,6 @@
     {
       "added_at": "2023-03-07 14:02:53",
       "album": {
-        "name": "Insensitive",
-        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
-    },
-    {
-      "added_at": "2023-03-07 14:02:53",
-      "album": {
-        "name": "On Lock",
-        "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 161677,
-      "name": "On Lock",
-      "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
-    },
-    {
-      "added_at": "2023-03-07 14:02:53",
-      "album": {
         "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
         "url": "https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD"
       },
@@ -1603,6 +1571,38 @@
       "duration_ms": 230680,
       "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
+    },
+    {
+      "added_at": "2023-03-07 14:02:53",
+      "album": {
+        "name": "On Lock",
+        "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 161677,
+      "name": "On Lock",
+      "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
+    },
+    {
+      "added_at": "2023-03-07 14:02:53",
+      "album": {
+        "name": "Insensitive",
+        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2023-03-07 14:02:53",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-03-07 14:02:53",
       "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Haile",
-          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
-        }
-      ],
-      "duration_ms": 195976,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
-    },
-    {
-      "added_at": "2023-03-07 14:02:53",
-      "album": {
         "name": "Tweety",
         "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 218048,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
+    },
+    {
+      "added_at": "2023-03-07 14:02:53",
+      "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        }
+      ],
+      "duration_ms": 195976,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
     }
   ],
   "unique_name": "R&B Magic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Camille Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,016 likes - 88 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,151 likes - 88 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 7 | [Billow Gently](https://open.spotify.com/track/0y35QjZtAK3bGxwsiKmssf) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Billow Gently](https://open.spotify.com/album/12A7tN2PisImkNMTb7es9f) | 3:15 |
 | 8 | [Anna's Theme](https://open.spotify.com/track/6YF1dwqfJs2khtmiUvtE8K) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Anna's Theme](https://open.spotify.com/album/1NUN5BS2lgbM45AoMgLOcu) | 1:55 |
 | 9 | [with you \- sleep rework](https://open.spotify.com/track/3LC9cw2EUfnxkce9bTcIuf) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [drift](https://open.spotify.com/album/1zF8UZSu4zDHVSqbFmsI5L) | 3:20 |
-| 10 | [Movement 7 \- Pt\. 1](https://open.spotify.com/track/2mj2ejvdKWhwTrPrzLhpqn) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Daniel Pioro](https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Movement 7 \- Pt\. 1](https://open.spotify.com/album/04QlmCX2d7pEiyTUoswQky) | 4:23 |
+| 10 | [Movement 7 \- Pt\. 1](https://open.spotify.com/track/2mj2ejvdKWhwTrPrzLhpqn) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Movement 7 \- Pt\. 1](https://open.spotify.com/album/04QlmCX2d7pEiyTUoswQky) | 4:23 |
 | 11 | [Bever](https://open.spotify.com/track/2qGjPCf6IrOHsL0R7ZMgUc) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Bever](https://open.spotify.com/album/76MxEE7cFCRtuOM1nGHukz) | 3:57 |
 | 12 | [Adieu](https://open.spotify.com/track/6FWiBFCqVMEvsqR55B83BQ) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Brodsky Quartet](https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf), [Julian Jacobsen](https://open.spotify.com/artist/3BxoTaW1q8gZLhHXPxzNxG) | [Golden Oldies – More Favourite Encores](https://open.spotify.com/album/6kfVR0aOq5RMUvdHQXDU4f) | 2:40 |
 | 13 | [álom](https://open.spotify.com/track/1IBr13goWoraQ7xjx4ta4H) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [álom](https://open.spotify.com/album/4k5CvyfGWeUHPqw9rnOnjs) | 4:51 |

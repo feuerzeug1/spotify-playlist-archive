@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Unknown Mortal Orchestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,962 likes - 180 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,044 likes - 180 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 148 | [Big Smoke](https://open.spotify.com/track/66miBbiy913lgyKOCdFta0) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Big Smoke](https://open.spotify.com/album/55jejAjtHUgzIbF2Lde861) | 3:38 |
 | 149 | [Baby](https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Baby](https://open.spotify.com/album/1bSMgGLERBaeOJgsgt3ldN) | 3:40 |
 | 150 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 |
-| 151 | [Closing the Door on Us](https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Closing the Door on Us](https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3) | 2:15 |
+| 151 | [Closing the Door on Us](https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz) | [Dexter in the Newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [Closing the Door on Us](https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3) | 2:15 |
 | 152 | [After All](https://open.spotify.com/track/6wuJXtirfIartyLOSSDno9) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [After All](https://open.spotify.com/album/3yNmwe7tHm0YXMPAHfrxjr) | 2:21 |
 | 153 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 |
 | 154 | [flame](https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:03 |

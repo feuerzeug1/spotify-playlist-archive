@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-390 songs - 22 hr 15 min
+391 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,8 @@
 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 | 2021-04-30 |  |
 | [Time's Up](https://open.spotify.com/track/1HnOKK0Q6p69vKqlrjLQmL) | [Esther Vallee](https://open.spotify.com/artist/1MsFOjiTLxGO1tk61A4Uut) | [Time's Up](https://open.spotify.com/album/3rbxTKe1CK8AF5zgCdQwqk) | 2:55 | 2021-04-30 | 2022-02-02 |
 | [To Die For](https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Die For](https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf) | 3:13 | 2021-04-30 |  |
-| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-04-30 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2021-04-30 |  |
+| [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-04-30 | 2023-03-19 |
 | [Too Much To H8](https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Too Much To H8](https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g) | 2:52 | 2021-04-30 | 2022-07-29 |
 | [TOOTIMETOOTIMETOOTIME](https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:27 | 2021-04-30 |  |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 | 2021-04-30 |  |
@@ -365,10 +366,10 @@
 | [True \- Single Edit](https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \- The Digital E.P.](https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn) | 5:29 | 2021-04-30 |  |
 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 | 2021-04-30 |  |
 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 | 2021-04-30 | 2022-11-13 |
-| [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 | 2021-04-30 |  |
+| [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 | 2021-04-30 | 2023-03-19 |
 | [Unwritten](https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/1meis09isQJFDA65afUTt8) | 4:19 | 2021-04-30 | 2022-07-29 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2021-04-30 |  |
-| [Up All Night](https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Up All Night](https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2) | 2:37 | 2021-04-30 | 2022-12-30 |
+| [Up All Night](https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Up All Night](https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2) | 2:37 | 2021-04-30 |  |
 | [Uptown Girl](https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:14 | 2021-04-30 | 2022-11-13 |
 | [Us](https://open.spotify.com/track/59z0L6S0GDNCiliSk3yiX0) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Sorry For Writing All The Songs About You](https://open.spotify.com/album/6CiVtN4VsFrhaeh9xAaDvD) | 2:57 | 2021-04-30 | 2022-07-29 |
 | [Use You](https://open.spotify.com/track/7LHdg8zRyjdwiV2RpBKL8x) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [cry.baby](https://open.spotify.com/album/4cPb0Ej857PhMEXh0YmrCM) | 2:54 | 2021-04-30 | 2022-05-09 |

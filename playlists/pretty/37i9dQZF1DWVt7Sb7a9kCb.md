@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,174 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,180 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 60 | [Seguro Te Pierdo](https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Seguro Te Pierdo](https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt) | 2:54 |
 | 61 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
 | 62 | [Fanático \(feat\. Feid & De La Ghetto\) \- Remix](https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Fanático \(feat\. Feid & De La Ghetto\) \[Remix\]](https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO) | 5:10 |
-| 63 | [Maviri](https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Maviri](https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd) | 2:15 |
-| 64 | [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 |
+| 63 | [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 |
+| 64 | [Maviri](https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Maviri](https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd) | 2:15 |
 | 65 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
 | 66 | [Ponte Pa' Mi](https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Ponte Pa' Mi](https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1) | 3:22 |
-| 67 | [CONTIGO LA PASO CABRON](https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CONTIGO LA PASO CABRON](https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu) | 2:35 |
-| 68 | [Enchule](https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Enchule](https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY) | 3:05 |
+| 67 | [Enchule](https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Enchule](https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY) | 3:05 |
+| 68 | [CONTIGO LA PASO CABRON](https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CONTIGO LA PASO CABRON](https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu) | 2:35 |
 | 69 | [Amor en Coma](https://open.spotify.com/track/0kRU83ecI57Iw1kPTeUwK5) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:19 |
 | 70 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 |
 | 71 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 79 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 |
 | 80 | [Desamor Feliz \- Remix](https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Desamor Feliz \(Remix\)](https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA) | 2:56 |
 
-Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMGMwNjFiZDhlYjcyZTAzMTk0NDljMDQ4YTM5MTE2ZDc3`
+Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMDhjZjNmZDBlM2Q3YWUyZmRjMTg0MDQ1MDA4MmExYTFm`

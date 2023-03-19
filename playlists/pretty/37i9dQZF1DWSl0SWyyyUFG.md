@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,799 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,124 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,17 +69,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 59 | [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 |
 | 60 | [Arreando La Mula](https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 3:03 |
 | 61 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/2EjxmOw1V5MZ40S7rCiHeP) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Tesoros De Coleccion \- \-Victor Cordero A Traves De Sus Mas Bellas Canciones Y Sus Mejores Interpretes](https://open.spotify.com/album/2wx0qAtALUWK0IfGfpCJdJ) | 3:04 |
-| 62 | [Isla Virgen](https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Enamorado De Ti](https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR) | 3:00 |
-| 63 | [Al Mismo Nivel](https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 2:22 |
+| 62 | [Al Mismo Nivel](https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 2:22 |
+| 63 | [Isla Virgen](https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Enamorado De Ti](https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR) | 3:00 |
 | 64 | [Te He Prometido](https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 3:12 |
 | 65 | [Río Rebelde](https://open.spotify.com/track/2tkxHULxMGrgDNkTvcZBhR) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [La Única](https://open.spotify.com/album/4P57WSgHURvfiwilKSOfzH) | 2:52 |
 | 66 | [Aventurero Y Loco](https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA) | [Banda La Pirinola](https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y) | [Banda La Pirinola](https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5) | 3:27 |
 | 67 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
-| 68 | [Y Nos Dieron Las Diez](https://open.spotify.com/track/5VkxZvqAG7uJNWB9ZuP2ok) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 3:51 |
-| 69 | [Vuelve Por Favor](https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:29 |
+| 68 | [Vuelve Por Favor](https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:29 |
+| 69 | [Anda Borracho El Buey](https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [California Adiós](https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl) | 2:46 |
 | 70 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 |
 | 71 | [Chiquilla Cariñosa](https://open.spotify.com/track/2iYIFcJsRJqve6j2YKJ91e) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Ahy Te Va Kora](https://open.spotify.com/album/6uv5LHEjoT0mvY3AFJG52h) | 2:34 |
-| 72 | [Anda Borracho El Buey](https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [California Adiós](https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl) | 2:46 |
+| 72 | [Y Nos Dieron Las Diez](https://open.spotify.com/track/5VkxZvqAG7uJNWB9ZuP2ok) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 3:51 |
 | 73 | [Borracho Moriré](https://open.spotify.com/track/2DxXeD084VPwQDQxTiTaSo) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Ladrón de Amor](https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p) | 3:25 |
 | 74 | [El Ranchero Chido](https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Super Exitos](https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0) | 2:43 |
 | 75 | [MI Vida Sin Ti](https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Evolution](https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3) | 4:12 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 99 | [Qué Sabrosa Está](https://open.spotify.com/track/1RFumKyLtFKNeUjdRtV8J2) | [Mexicano](https://open.spotify.com/artist/5LsvX0qNNtRQgnkzJlKbwL) | [Su Majestad Mi Banda El Mexicano Con Ustedes...](https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl) | 4:00 |
 | 100 | [Que Bonito](https://open.spotify.com/track/5ctUlKWjf53PUEwKFn59B3) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Ya No Tengo Corazon](https://open.spotify.com/album/61Gw1065ztt8ntsn2r7wP7) | 2:57 |
 | 101 | [Y.M.C.A](https://open.spotify.com/track/2qhoPqOEdy3fFxTw9IlOk4) | [Banda con Angel](https://open.spotify.com/artist/4st0uAeIFkWMwrC5dzCmW0) | [Volvere](https://open.spotify.com/album/57eKtbyg848bTblG5xwWky) | 3:43 |
-| 102 | [La Soledad](https://open.spotify.com/track/2h6K5lo2HxfDzkZYVpqmy6) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [El Amor de Tu Vida](https://open.spotify.com/album/1jdPDHO3AB6jQdOSxoNhYZ) | 3:49 |
-| 103 | [El Anónimo](https://open.spotify.com/track/1lHWO3zuDdyi1pXYFGaQmS) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Borracho Moriré](https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu) | 2:29 |
+| 102 | [El Anónimo](https://open.spotify.com/track/1lHWO3zuDdyi1pXYFGaQmS) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Borracho Moriré](https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu) | 2:29 |
+| 103 | [La Soledad](https://open.spotify.com/track/2h6K5lo2HxfDzkZYVpqmy6) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [El Amor de Tu Vida](https://open.spotify.com/album/1jdPDHO3AB6jQdOSxoNhYZ) | 3:49 |
 | 104 | [Te Estaré Esperando](https://open.spotify.com/track/3IyUWwRHrMYHNdatyRcCEr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 4:04 |
 | 105 | [Tu Historia Fue Conmigo](https://open.spotify.com/track/3E3HYSdWWnQ2b964rTHKJg) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:17 |
 | 106 | [Compárame](https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 3:45 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 124 | [La Fea](https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:54 |
 | 125 | [Mis Recuerdos](https://open.spotify.com/track/1ULtstKTT3ARXBF1cRFIL1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 4:40 |
 
-Snapshot ID: `MTY3MjQyMjkxOSwwMDAwMDAwMDM4Y2YyNWMxNGE1N2JhOTIyMzJkY2RjYWEyMDNiZTEy`
+Snapshot ID: `MTY3MjQyMjkxOSwwMDAwMDAwMGQyOGRmNDM2Yzk1MDE4NTM0YTg2NGFjMGRlNTM1MzNm`

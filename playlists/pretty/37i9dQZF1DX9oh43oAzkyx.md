@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,608 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,208 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 58 | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/album/0SO86DCFiwaTqchBpujace) | 3:12 |
 | 59 | [LIKE ME \(feat\. 42 Dugg & Lil Baby\)](https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:12 |
 | 60 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
-| 61 | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/45M6MPP3yI5I1PXse40lpR) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:55 |
-| 62 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 |
+| 61 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 |
+| 62 | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/45M6MPP3yI5I1PXse40lpR) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:55 |
 | 63 | [AHHH HA](https://open.spotify.com/track/2bPI4TKM4oTxl2SijUXM2J) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:06 |
 | 64 | [Said Sum](https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:35 |
 | 65 | [NO TRENDS](https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:31 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [THE REV3NGE](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [THE REV3NGE](https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1) | 2:27 |
 | 76 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGNiMmU5Y2Y4OTAxN2Y1NjgzMGU5MTEwOGNmMGY4MTk3`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDYyMGExNTQwY2NhNzQzYTY1ZTM2ZDM3MzNhZGQyM2Fj`

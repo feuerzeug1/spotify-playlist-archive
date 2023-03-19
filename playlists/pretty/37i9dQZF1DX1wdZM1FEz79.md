@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: J.YUNA\(제이유나\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,735 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,922 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 25 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 |
 | 26 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 27 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
-| 28 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
-| 29 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
+| 28 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
+| 29 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
 | 30 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 31 | [Time’s Up](https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [The Interest of Love \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao) | 3:46 |
 | 32 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 48 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 | 49 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 |
 | 50 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 |
-| 51 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
-| 52 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 |
+| 51 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 |
+| 52 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 
-Snapshot ID: `MTY3NzczOTc5OCwwMDAwMDAwMGYyZWFhYTU3OGUxNmJmMGNkM2I1ZTdiODg0YWI3NDA0`
+Snapshot ID: `MTY3NzczOTc5OCwwMDAwMDAwMGVkZGFjMzM0MTcyN2JiNDQ5YTYwY2RmOWI0M2IyNjU4`

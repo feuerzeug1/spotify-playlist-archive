@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Ghetto Kids en portada.",
-  "num_followers": 55504,
+  "num_followers": 55498,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGQyY2EyOGRkMmEwYWZjNzk5YWIzOTJmODIxYzJhMWZi",
+  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMDk5YWNkNGExMGViZDc4YzkyY2MyNTZmY2FlMWQyODhm",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -127,7 +127,7 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Te Vas",
+        "name": "Te vas",
         "url": "https://open.spotify.com/album/6sAbLFsioGx77UDFe3acfp"
       },
       "artists": [
@@ -137,7 +137,7 @@
         }
       ],
       "duration_ms": 202560,
-      "name": "Te Vas",
+      "name": "Te vas",
       "url": "https://open.spotify.com/track/2X4YMUlzehFWJWV4AGLCdl"
     },
     {
@@ -731,18 +731,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Las de Octubre",
-        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
+        "name": "ICE BLUE",
+        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Opium G",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
         }
       ],
-      "duration_ms": 165408,
-      "name": "Las de Octubre",
-      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
+      "duration_ms": 174000,
+      "name": "GYAL",
+      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -787,66 +791,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "ICE BLUE",
-        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
+        "name": "Las de Octubre",
+        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
       },
       "artists": [
         {
-          "name": "Opium G",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
-        },
-        {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 174000,
-      "name": "GYAL",
-      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
-    },
-    {
-      "added_at": "2022-11-25 02:28:29",
-      "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI"
-      },
-      "artists": [
-        {
-          "name": "Dani Torres",
-          "url": "https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5"
-        },
-        {
-          "name": "Gotex",
-          "url": "https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl"
-        },
-        {
-          "name": "Elvis de Yongol",
-          "url": "https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Viaje",
-      "url": "https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Tas Clara",
-        "url": "https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Tas Clara",
-      "url": "https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2"
+      "duration_ms": 165408,
+      "name": "Las de Octubre",
+      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -871,6 +827,50 @@
       "duration_ms": 178741,
       "name": "Necesito un Break de Tanta Pendejad*",
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Tas Clara",
+        "url": "https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Tas Clara",
+      "url": "https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2"
+    },
+    {
+      "added_at": "2022-11-25 02:28:29",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI"
+      },
+      "artists": [
+        {
+          "name": "Dani Torres",
+          "url": "https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5"
+        },
+        {
+          "name": "Gotex",
+          "url": "https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl"
+        },
+        {
+          "name": "Elvis de Yongol",
+          "url": "https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Viaje",
+      "url": "https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1009,6 +1009,26 @@
       "url": "https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd"
     },
     {
+      "added_at": "2023-03-10 06:00:00",
+      "album": {
+        "name": "Flama",
+        "url": "https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Mayki Graff",
+          "url": "https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Flama",
+      "url": "https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug"
+    },
+    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "hembrismo",
@@ -1039,26 +1059,6 @@
       "duration_ms": 223000,
       "name": "hebilla",
       "url": "https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr"
-    },
-    {
-      "added_at": "2023-03-10 06:00:00",
-      "album": {
-        "name": "Flama",
-        "url": "https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "Mayki Graff",
-          "url": "https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Flama",
-      "url": "https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug"
     },
     {
       "added_at": "2023-03-03 06:00:00",

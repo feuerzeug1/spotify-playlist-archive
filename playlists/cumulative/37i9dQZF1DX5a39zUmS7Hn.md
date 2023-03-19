@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Depeche Mode
 
-244 songs - 17 hr 31 min
+245 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Remember We Were Lovers](https://open.spotify.com/track/51TM4SSltkpKkL0ZlrpfCg) | [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o), [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta), [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Remember We Were Lovers](https://open.spotify.com/album/4nqCtPyJLpPpr2H087hKNC) | 4:16 | 2022-06-06 | 2022-07-05 |
 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 | 2022-12-02 |  |
 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 | 2022-04-08 | 2022-07-29 |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-02-10 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-04-08 | 2022-07-29 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-28 | 2023-03-18 |
 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 | 2022-07-28 | 2022-09-09 |
@@ -213,7 +214,7 @@
 | [The Buzz](https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Hate for Sale](https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t) | 3:50 | 2022-04-08 | 2022-07-29 |
 | [The Celtic Soul Brothers \(More, Please, Thank You\)](https://open.spotify.com/track/6K9wIZpz2D8xNt7jPURm54) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 3:13 | 2022-04-08 | 2022-07-29 |
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 | 2022-12-02 |  |
-| [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-13 |  |
+| [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-13 | 2023-03-19 |
 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:12 | 2022-05-27 | 2023-02-02 |
 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 | 2022-07-28 |  |
 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 | 2022-07-28 |  |

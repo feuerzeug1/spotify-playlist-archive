@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 16771,
+  "num_followers": 16803,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMGEyMzJiZGMyYmM1ZDFhZWQ0NThmODEwYWRkNGQwYzRi",
+  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMDFhMDYyZWU5Mjc0YWJmMjY2MTQ2ZGM3YzIyMGJjNWE3",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Bueno y M\u00e1s",
-        "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 270863,
-      "name": "Carro de Fuego",
-      "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "De Verdad",
         "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 283200,
       "name": "Mia",
       "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Bueno y M\u00e1s",
+        "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 270863,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/4cowySOrdhav97PZipt4Uz"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 335960,
-      "name": "Mi Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/1RKBf3NxIYZXKZNzdrXg69"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Serie Platino: Eddie Santiago",
         "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 303106,
       "name": "Me Fallaste",
       "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/4cowySOrdhav97PZipt4Uz"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 335960,
+      "name": "Mi Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/1RKBf3NxIYZXKZNzdrXg69"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 262680,
-      "name": "El Todopoderoso",
-      "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
+      "duration_ms": 299960,
+      "name": "Tu Me Quemas",
+      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 299960,
-      "name": "Tu Me Quemas",
-      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+      "duration_ms": 262680,
+      "name": "El Todopoderoso",
+      "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -699,6 +699,22 @@
       "duration_ms": 414706,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 259578,
+      "name": "Ay Amor, Cuando Hablan las Miradas",
+      "url": "https://open.spotify.com/track/2ocrrzqQCZc2cSnXDRw57E"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -731,22 +747,6 @@
       "duration_ms": 300106,
       "name": "Lady Laura",
       "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 259578,
-      "name": "Ay Amor, Cuando Hablan las Miradas",
-      "url": "https://open.spotify.com/track/2ocrrzqQCZc2cSnXDRw57E"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "La Industria Salsera",
-        "url": "https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq"
-      },
-      "artists": [
-        {
-          "name": "Chiquito Team Band",
-          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Lupita",
-      "url": "https://open.spotify.com/track/65ozlDhNyDL0JsZvPCwMjP"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "CON PERMISO DE MIS MAYORES",
         "url": "https://open.spotify.com/album/1rOnROZrwtjRlBNfU55BSm"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 245434,
       "name": "Ran Kan Kan",
       "url": "https://open.spotify.com/track/1igx29PgdkqLO2JMxW17Je"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "La Industria Salsera",
+        "url": "https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq"
+      },
+      "artists": [
+        {
+          "name": "Chiquito Team Band",
+          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Lupita",
+      "url": "https://open.spotify.com/track/65ozlDhNyDL0JsZvPCwMjP"
     },
     {
       "added_at": "2023-03-17 00:52:56",

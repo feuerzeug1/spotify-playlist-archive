@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1731428,
+  "num_followers": 1731590,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMTgwMywwMDAwMDAwMDQxMDM0NGU3M2JiMDc2M2U2ODMyMjc5ZDBiM2M2NzE4",
+  "snapshot_id": "MTY3OTAxMTgwMywwMDAwMDAwMDU5NDBlODE4NDA3ZTJjMzMxNGI1MWNkZTJlYjU2ZTMx",
   "tracks": [
     {
       "added_at": "2023-03-17 00:10:03",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-17 00:10:03",
       "album": {
-        "name": "20 -- 21",
-        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 164380,
-      "name": "Con la Falta Que Me Haces",
-      "url": "https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd"
-    },
-    {
-      "added_at": "2023-03-17 00:10:03",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/3Uxs7bly961sChdGGBbfbL"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 200346,
       "name": "Regresa",
       "url": "https://open.spotify.com/track/1z9mOl4yaivulHoUBxuQvQ"
+    },
+    {
+      "added_at": "2023-03-17 00:10:03",
+      "album": {
+        "name": "20 -- 21",
+        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 164380,
+      "name": "Con la Falta Que Me Haces",
+      "url": "https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd"
     },
     {
       "added_at": "2023-03-17 00:10:03",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-17 00:10:03",
       "album": {
-        "name": "Tr\u00e1iler",
-        "url": "https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Vas A Quedarte",
-      "url": "https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ"
-    },
-    {
-      "added_at": "2023-03-17 00:10:03",
-      "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 208986,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
+    },
+    {
+      "added_at": "2023-03-17 00:10:03",
+      "album": {
+        "name": "Tr\u00e1iler",
+        "url": "https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Vas A Quedarte",
+      "url": "https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ"
     },
     {
       "added_at": "2023-03-17 00:10:03",

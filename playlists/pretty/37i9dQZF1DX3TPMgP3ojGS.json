@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 339533,
+  "num_followers": 339785,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMDg0NTIxMTJmNDVhY2ZmNzc1ZWIyOTI2OGE2YWEzNGYx",
+  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMGM3ZDhlNzdhMzFmNzBkZDJlYTZmZjQ0ZDI0OTc0NWJi",
   "tracks": [
     {
       "added_at": "2023-03-07 15:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
-      },
-      "artists": [
-        {
-          "name": "Miriam Raye",
-          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
-        }
-      ],
-      "duration_ms": 191980,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "Mist",
         "url": "https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 122698,
       "name": "Mist",
       "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
+      },
+      "artists": [
+        {
+          "name": "Miriam Raye",
+          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
+        }
+      ],
+      "duration_ms": 191980,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+        }
+      ],
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
-        }
-      ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "along the path",
-        "url": "https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU"
+        "name": "Coulant",
+        "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
       },
       "artists": [
         {
-          "name": "Zecil Malka",
-          "url": "https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp"
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
         }
       ],
-      "duration_ms": 127835,
-      "name": "along the path",
-      "url": "https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv"
+      "duration_ms": 148500,
+      "name": "Coulant",
+      "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Coulant",
-        "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Coulant",
-      "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "along the path",
+        "url": "https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU"
+      },
+      "artists": [
+        {
+          "name": "Zecil Malka",
+          "url": "https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp"
+        }
+      ],
+      "duration_ms": 127835,
+      "name": "along the path",
+      "url": "https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
-      },
-      "artists": [
-        {
-          "name": "Michiel Borstlap",
-          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "Meditabundus",
         "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
+      },
+      "artists": [
+        {
+          "name": "Michiel Borstlap",
+          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
         "name": "Cascada",
         "url": "https://open.spotify.com/album/7IQlp6U0qYQuaYZqgD96Z0"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P"
+        "name": "The Water Floats",
+        "url": "https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8"
       },
       "artists": [
         {
-          "name": "Ji\u0159\u00ed Hor\u00e1k",
-          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
+          "name": "Howie Paget",
+          "url": "https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he"
         }
       ],
-      "duration_ms": 122125,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8"
+      "duration_ms": 139500,
+      "name": "The Water Floats",
+      "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "The Water Floats",
-        "url": "https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8"
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P"
       },
       "artists": [
         {
-          "name": "Howie Paget",
-          "url": "https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he"
+          "name": "Ji\u0159\u00ed Hor\u00e1k",
+          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
         }
       ],
-      "duration_ms": 139500,
-      "name": "The Water Floats",
-      "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
+      "duration_ms": 122125,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "A New Path",
-        "url": "https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw"
-      },
-      "artists": [
-        {
-          "name": "Damien Jeunet",
-          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
-        }
-      ],
-      "duration_ms": 113758,
-      "name": "A New Path",
-      "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "Evenings on Instagram, Pt. I",
         "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 61000,
       "name": "And So the Story Began",
       "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "A New Path",
+        "url": "https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "duration_ms": 113758,
+      "name": "A New Path",
+      "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Le jardin de ma grand-m\u00e8re",
-        "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Kowalski",
-          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
-        }
-      ],
-      "duration_ms": 176567,
-      "name": "Le jardin de ma grand-m\u00e8re",
-      "url": "https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "Os ventos do amor",
         "url": "https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 120066,
       "name": "Os ventos do amor",
       "url": "https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "Le jardin de ma grand-m\u00e8re",
+        "url": "https://open.spotify.com/album/3ymxOpl4kkojv90nh6nPpv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Kowalski",
+          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
+        }
+      ],
+      "duration_ms": 176567,
+      "name": "Le jardin de ma grand-m\u00e8re",
+      "url": "https://open.spotify.com/track/2AE6p5RRHnLxAllP1zdXPt"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Sicilienne",
-        "url": "https://open.spotify.com/album/3zOBVDSipEOvDzHVfhSwG0"
-      },
-      "artists": [
-        {
-          "name": "Sounds from a Box",
-          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
-        }
-      ],
-      "duration_ms": 180224,
-      "name": "Sicilienne",
-      "url": "https://open.spotify.com/track/0ATCSA5YcOdy8jRY3FRJSe"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "Florence",
         "url": "https://open.spotify.com/album/5HHbM8l9wGabUeDTFkQn4f"
       },
@@ -1603,18 +1587,34 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Dualities",
-        "url": "https://open.spotify.com/album/4t57BfTbtsSquhUsYXBQTm"
+        "name": "Sicilienne",
+        "url": "https://open.spotify.com/album/3zOBVDSipEOvDzHVfhSwG0"
       },
       "artists": [
         {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+          "name": "Sounds from a Box",
+          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
         }
       ],
-      "duration_ms": 129306,
-      "name": "Dualities",
-      "url": "https://open.spotify.com/track/5t9WS1mp1WGOqz6lJut8za"
+      "duration_ms": 180224,
+      "name": "Sicilienne",
+      "url": "https://open.spotify.com/track/0ATCSA5YcOdy8jRY3FRJSe"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "Om \u00e4n bara f\u00f6r en stund",
+        "url": "https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH"
+      },
+      "artists": [
+        {
+          "name": "Maya \u00c5str\u00f6m",
+          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
+        }
+      ],
+      "duration_ms": 158591,
+      "name": "Om \u00e4n bara f\u00f6r en stund",
+      "url": "https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY"
     }
   ],
   "unique_name": "Coffee and Piano",

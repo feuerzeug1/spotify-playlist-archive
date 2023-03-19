@@ -695,6 +695,32 @@
     },
     {
       "album": {
+        "name": "MRTHN",
+        "url": "https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169986,
+      "name": "Acolyte (feat. Dadju & Ninho)",
+      "url": "https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy"
+    },
+    {
+      "album": {
         "name": "Autobahn",
         "url": "https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII"
       },
@@ -1174,10 +1200,28 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 182067,
       "name": "AMBER",
       "url": "https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe"
+    },
+    {
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "AMBER",
+      "url": "https://open.spotify.com/track/5Q967UCPfCsQeEgFhT1umT"
     },
     {
       "album": {
@@ -1612,7 +1656,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2036,7 +2080,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 196653,
       "name": "B22",
       "url": "https://open.spotify.com/track/19f3WsiGZq0nG0bboLa7th"
@@ -3210,7 +3254,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 167960,
       "name": "Bo\u00eete \u00e0 Gants",
       "url": "https://open.spotify.com/track/0074XGa4ytWx2s1o48jO3y"
@@ -3348,6 +3392,24 @@
       "duration_ms": 211613,
       "name": "Br\u00fble",
       "url": "https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy"
+    },
+    {
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177973,
+      "name": "BR\u00dbLURES INDIENNES",
+      "url": "https://open.spotify.com/track/24vDSi6wZW34oY8sTrgQf7"
     },
     {
       "album": {
@@ -4147,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "CARTIER PANTH\u00c8RE",
+      "url": "https://open.spotify.com/track/14sdOJ9PZHGZaJmrxrbpSh"
+    },
+    {
+      "album": {
         "name": "Cartier Panth\u00e8re",
         "url": "https://open.spotify.com/album/2sXfEROFW7ZUESK44AXb5j"
       },
@@ -4750,10 +4830,32 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 143280,
       "name": "Cod\u00e9ine 19",
       "url": "https://open.spotify.com/track/3Q8qW4OUBQWLZaNLR9TxFr"
+    },
+    {
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192213,
+      "name": "COEUR DE ICE (feat. Damso)",
+      "url": "https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c"
     },
     {
       "album": {
@@ -5504,7 +5606,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 163920,
       "name": "Criminel",
       "url": "https://open.spotify.com/track/1o3nr1jAxdDigVleBhTVFG"
@@ -5602,6 +5704,24 @@
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196346,
+      "name": "C\u00d4T\u00c9 HUBLOT",
+      "url": "https://open.spotify.com/track/0R6Hx28x5lgpIUWD6ltX7e"
     },
     {
       "album": {
@@ -6952,7 +7072,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 139100,
       "name": "D\u00e9cembre",
       "url": "https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk"
@@ -7178,6 +7298,24 @@
       "duration_ms": 216360,
       "name": "El Pichichi",
       "url": "https://open.spotify.com/track/0MeAtCOaryGdIZQQDkxn9v"
+    },
+    {
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85813,
+      "name": "ELECTRO",
+      "url": "https://open.spotify.com/track/6Pvo7NI5Wq3ajPPgocxm6o"
     },
     {
       "album": {
@@ -7504,6 +7642,24 @@
       "duration_ms": 197066,
       "name": "Envahir",
       "url": "https://open.spotify.com/track/0L7UbnUoxbr6JhbcvB0wsU"
+    },
+    {
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "ENVIE7VIE",
+      "url": "https://open.spotify.com/track/0lSB2n0DEvA2mnsGI9qI5f"
     },
     {
       "album": {
@@ -8570,7 +8726,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 186253,
       "name": "Free YSL",
       "url": "https://open.spotify.com/track/0cFS3AMF9Lhj3CNoFvwjvY"
@@ -8666,6 +8822,24 @@
       "duration_ms": 182700,
       "name": "Friendships (Lost My Love)",
       "url": "https://open.spotify.com/track/0lQ2obtzmAsJu9xk3D6FqH"
+    },
+    {
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110266,
+      "name": "FROSTIES",
+      "url": "https://open.spotify.com/track/4bGWT7GWjqaO1Sj9ZbUtEG"
     },
     {
       "album": {
@@ -9214,6 +9388,24 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "GORG\u00c9E POUR LES MORTS",
+      "url": "https://open.spotify.com/track/0iGn8hkjQrEW2Mwb4oV9dk"
     },
     {
       "album": {
@@ -11655,6 +11847,24 @@
     },
     {
       "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165573,
+      "name": "L'ARMOIRE",
+      "url": "https://open.spotify.com/track/5R9ZGpFYnzW3WmVGk2uh4J"
+    },
+    {
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm"
       },
@@ -12082,7 +12292,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 244040,
       "name": "La Force Tranquille",
       "url": "https://open.spotify.com/track/3qqCJBsk3i4emDYMzTwNub"
@@ -12220,6 +12430,24 @@
       "duration_ms": 163546,
       "name": "La loi du plus fort",
       "url": "https://open.spotify.com/track/6B8weBKcdSVs3LbS8E6Yeb"
+    },
+    {
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207560,
+      "name": "LA LUMI\u00c8RE",
+      "url": "https://open.spotify.com/track/3Bc9vObMRjShmk339aD5JA"
     },
     {
       "album": {
@@ -14649,6 +14877,24 @@
     },
     {
       "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135813,
+      "name": "MAKE UP",
+      "url": "https://open.spotify.com/track/637PqFl8HYdCuSQXhqwkOb"
+    },
+    {
+      "album": {
         "name": "Authentic",
         "url": "https://open.spotify.com/album/5cmjUzsRFXb7KyejfkphQ0"
       },
@@ -14700,7 +14946,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 194253,
       "name": "Malemb\u00e9",
       "url": "https://open.spotify.com/track/0dAdLqKqFPmOzkPiTA4V2K"
@@ -15234,7 +15480,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 188573,
       "name": "Maybach",
       "url": "https://open.spotify.com/track/1roybe6TpPG0elVCDUhPdg"
@@ -16822,6 +17068,24 @@
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198386,
+      "name": "NOCHEY",
+      "url": "https://open.spotify.com/track/1ndtoMKQj4N3quUzJvPEsK"
     },
     {
       "album": {
@@ -20256,7 +20520,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 162480,
       "name": "Sadio (feat. Offset)",
       "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
@@ -23009,6 +23273,28 @@
     },
     {
       "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/6QPFWJJLKKPjnwRQJ1OwSC"
+    },
+    {
+      "album": {
         "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
         "url": "https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE"
       },
@@ -23024,7 +23310,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 168087,
       "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
       "url": "https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u"
@@ -23968,7 +24254,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 161920,
       "name": "Velar",
       "url": "https://open.spotify.com/track/2MGSHTuIsRqGmYqjswWiBB"
@@ -24639,6 +24925,24 @@
     },
     {
       "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188466,
+      "name": "ZAZA",
+      "url": "https://open.spotify.com/track/3qA5qgPKXsElkU8TRjNx7u"
+    },
+    {
+      "album": {
         "name": "JVLIVS II",
         "url": "https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7"
       },
@@ -24690,7 +24994,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 190384,
       "name": "\u00c0 L'AUBE",
       "url": "https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW"
@@ -24950,7 +25254,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 199346,
       "name": "\u0394. Dieu ne ment jamais",
       "url": "https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK"

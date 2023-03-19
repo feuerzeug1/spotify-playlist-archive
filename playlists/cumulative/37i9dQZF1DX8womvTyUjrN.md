@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Ela Taubert
 
-337 songs - 17 hr 10 min
+338 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-03-21 | 2022-05-21 |
 | [20 Minutos](https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [20 Minutos](https://open.spotify.com/album/1IgtGBd7kISzw15xkFwllh) | 3:23 | 2022-05-13 | 2022-07-26 |
 | [737 \- Live](https://open.spotify.com/track/0jV5XudI1NaiDqHFunNplU) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Live Sessions](https://open.spotify.com/album/0cWyYl8QBnndPhH04eCSov) | 2:54 | 2022-10-28 | 2022-12-10 |
-| [A Poca Luz](https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [A Poca Luz](https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS) | 2:27 | 2022-12-16 |  |
+| [A Poca Luz](https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [A Poca Luz](https://open.spotify.com/album/0Rqw4dJZ7Bp5Y28zqMxMLS) | 2:27 | 2022-12-16 | 2023-03-19 |
 | [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 | 2022-03-21 | 2022-04-02 |
 | [a tu manera](https://open.spotify.com/track/2UulR6rTDXUGiPUkw01EMG) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [a tu manera](https://open.spotify.com/album/7JSN1eVuYb4smT9EhBqK4g) | 2:57 | 2022-12-09 | 2023-01-28 |
 | [Abajito](https://open.spotify.com/track/5bXTL6PtdA9g1TFE0VZC7O) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Abajito](https://open.spotify.com/album/3sANLBZnUFkmGCe2FV2QLY) | 2:27 | 2023-03-03 |  |
@@ -222,6 +222,7 @@
 | [No Es Normal](https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 3:32 | 2022-03-21 | 2022-04-21 |
 | [No Estamos Tan Locos](https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [No Estamos Tan Locos](https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3) | 3:26 | 2022-08-08 | 2022-10-29 |
 | [No Hace Falta Que Lo Digas](https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [No Hace Falta Que Lo Digas](https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ) | 3:38 | 2022-10-07 | 2023-01-15 |
+| [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 | 2023-03-17 |  |
 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 | 2023-02-17 |  |
 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-04-15 | 2022-05-14 |
 | [No te lloro más](https://open.spotify.com/track/5GueXL3NIds0FZgGIv6L6c) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Pinta y Colorea](https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI) | 2:56 | 2022-03-21 | 2022-06-13 |

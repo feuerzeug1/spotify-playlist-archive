@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 65672,
+  "num_followers": 66746,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMDFhZGFkMDk0YjEwODdkZWVmMTQyZTZhNzEwMzM4Mzkz",
+  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMDU5MmU4ZGFjNjA4NWY2ZTI5MGI2OTA3N2VjYjgyMWE0",
   "tracks": [
     {
       "added_at": "2022-12-21 18:21:03",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 224493,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+      "duration_ms": 224493,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Like a Stone",
-      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Like a Stone",
+      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Burbujas de Cristal",
         "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
         }
       ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+      "duration_ms": 218546,
+      "name": "Jump Around - 30 Years Remaster",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
       },
       "artists": [
         {
-          "name": "House Of Pain",
-          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 218546,
-      "name": "Jump Around - 30 Years Remaster",
-      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 302493,
+      "name": "Cruz de navajas",
+      "url": "https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 302493,
-      "name": "Cruz de navajas",
-      "url": "https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "News Of The World (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "La Pachanga",
         "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 254865,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Giros",
-        "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "11 Y 6",
-      "url": "https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 241626,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Giros",
+        "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "11 Y 6",
+      "url": "https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 313925,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Chanchos Amigos",
         "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 262066,
       "name": "Quereme As\u00ed",
       "url": "https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/2c965LEDRNrXXCeBOAAwns"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5FqYA8KfiwsQvyBI4IamnY"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 266746,
       "name": "Guitarras Blancas",
       "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/2c965LEDRNrXXCeBOAAwns"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5FqYA8KfiwsQvyBI4IamnY"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 191066,
       "name": "Sol\u00edn",
       "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Reggae Mexicano",
-        "url": "https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4"
-      },
-      "artists": [
-        {
-          "name": "Ganja",
-          "url": "https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Caminando",
-      "url": "https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Viviendo de Noche",
         "url": "https://open.spotify.com/album/2Oo8AfNU3dyQPi8tNHbSoU"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 246060,
       "name": "Viviendo de Noche",
       "url": "https://open.spotify.com/track/5TmobGkcbz4oYhtvPcmTDF"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Reggae Mexicano",
+        "url": "https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4"
+      },
+      "artists": [
+        {
+          "name": "Ganja",
+          "url": "https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Caminando",
+      "url": "https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc"
     },
     {
       "added_at": "2022-12-21 18:21:03",

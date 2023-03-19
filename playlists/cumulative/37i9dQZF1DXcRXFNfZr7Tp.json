@@ -4161,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
+    },
+    {
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -11828,7 +11846,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -11868,7 +11886,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 184633,
       "name": "People (feat. Cian Ducrot)",
       "url": "https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q"

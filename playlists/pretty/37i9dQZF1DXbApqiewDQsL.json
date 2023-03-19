@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Adriel Favela, Zion & Lennox",
-  "num_followers": 19565,
+  "num_followers": 19583,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMDg2NiwwMDAwMDAwMDkwNDNjYmQyOGY4NmViYjY0NTJkN2E3MjgwODFhZDIz",
+  "snapshot_id": "MTY3OTE3NjQ4NiwwMDAwMDAwMGIwYjI1NWQzZjJjYzYxNzI0OGIxMThiZjZiZjI0ZTgw",
   "tracks": [
     {
       "added_at": "2023-03-17 05:27:46",
@@ -49,6 +49,26 @@
       "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
     },
     {
+      "added_at": "2023-03-18 21:54:36",
+      "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
       "added_at": "2023-03-17 05:27:46",
       "album": {
         "name": "AMG",
@@ -75,26 +95,6 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "Que Vuelvas",
-        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 169418,
-      "name": "Que Vuelvas",
-      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
-    },
-    {
-      "added_at": "2023-03-17 05:27:46",
-      "album": {
         "name": "EL HECHIZO",
         "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
       },
@@ -111,6 +111,26 @@
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
+    },
+    {
+      "added_at": "2023-03-17 05:27:46",
+      "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -135,22 +155,6 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
-    },
-    {
-      "added_at": "2023-03-17 05:27:46",
-      "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
@@ -167,6 +171,22 @@
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2023-03-17 05:27:46",
+      "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -207,26 +227,6 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 275194,
-      "name": "Jugaste y Sufr\u00ed",
-      "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
-    },
-    {
-      "added_at": "2023-03-17 05:27:46",
-      "album": {
         "name": "Llorar y Llorar (con Carin Leon)",
         "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
       },
@@ -243,6 +243,26 @@
       "duration_ms": 169705,
       "name": "Llorar y Llorar - con Carin Leon",
       "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
+    },
+    {
+      "added_at": "2023-03-17 05:27:46",
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 275194,
+      "name": "Jugaste y Sufr\u00ed",
+      "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -367,26 +387,6 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 227814,
-      "name": "SI SUPIERAS",
-      "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
-    },
-    {
-      "added_at": "2023-03-17 05:27:46",
-      "album": {
         "name": "Da\u00f1ado (Deluxe)",
         "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
       },
@@ -439,6 +439,26 @@
       "duration_ms": 171724,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
+    },
+    {
+      "added_at": "2023-03-17 05:27:46",
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 227814,
+      "name": "SI SUPIERAS",
+      "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -523,6 +543,26 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
+        "name": "Pacas Verdes (feat. Ovi)",
+        "url": "https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 170925,
+      "name": "Pacas Verdes",
+      "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
+    },
+    {
+      "added_at": "2023-03-17 05:27:46",
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
       },
@@ -543,22 +583,22 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "Pacas Verdes (feat. Ovi)",
-        "url": "https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb"
+        "name": "Que Triste",
+        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         },
         {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 170925,
-      "name": "Pacas Verdes",
-      "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
+      "duration_ms": 226339,
+      "name": "Que Triste",
+      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -639,26 +679,6 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "Que Triste",
-        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 226339,
-      "name": "Que Triste",
-      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
-    },
-    {
-      "added_at": "2023-03-17 05:27:46",
-      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb"
       },
@@ -723,26 +743,6 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "El Chivo",
-        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 275400,
-      "name": "El Chivo (feat. T3r Elemento)",
-      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
-    },
-    {
-      "added_at": "2023-03-17 05:27:46",
-      "album": {
         "name": "Soy El Diablo (Remix)",
         "url": "https://open.spotify.com/album/37zRKUEX9zhmGThutsr2Fo"
       },
@@ -759,6 +759,26 @@
       "duration_ms": 193621,
       "name": "Soy El Diablo - Remix",
       "url": "https://open.spotify.com/track/7pNAvsuTCFaXzSSUmfBPxz"
+    },
+    {
+      "added_at": "2023-03-17 05:27:46",
+      "album": {
+        "name": "El Chivo",
+        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "El Chivo (feat. T3r Elemento)",
+      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -1107,26 +1127,18 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "Enfermo de Riqueza",
-        "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
+        "name": "Conozco La Calle",
+        "url": "https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH"
       },
       "artists": [
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 234611,
-      "name": "Enfermo de Riqueza",
-      "url": "https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s"
+      "duration_ms": 140312,
+      "name": "Conozco La Calle",
+      "url": "https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -1155,18 +1167,26 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "Conozco La Calle",
-        "url": "https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH"
+        "name": "Enfermo de Riqueza",
+        "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
       },
       "artists": [
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         }
       ],
-      "duration_ms": 140312,
-      "name": "Conozco La Calle",
-      "url": "https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX"
+      "duration_ms": 234611,
+      "name": "Enfermo de Riqueza",
+      "url": "https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -1191,30 +1211,6 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "100 A\u00f1os (Con Calibre 50)",
-        "url": "https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 215092,
-      "name": "100 A\u00f1os - Con Calibre 50",
-      "url": "https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO"
-    },
-    {
-      "added_at": "2023-03-17 05:27:46",
-      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/6EwsJc0zPtxdk40DlUXGP6"
       },
@@ -1235,6 +1231,30 @@
       "duration_ms": 224395,
       "name": "Qu\u00e9 Maldici\u00f3n - Remix",
       "url": "https://open.spotify.com/track/3tHes0wml6ededP4ZVEwET"
+    },
+    {
+      "added_at": "2023-03-17 05:27:46",
+      "album": {
+        "name": "100 A\u00f1os (Con Calibre 50)",
+        "url": "https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 215092,
+      "name": "100 A\u00f1os - Con Calibre 50",
+      "url": "https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -1383,26 +1403,6 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Se Me Va A Quemar El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2VedKSBZCY9ucVSlXNnxGc"
-    },
-    {
-      "added_at": "2023-03-17 05:27:46",
-      "album": {
         "name": "Me Ven Manejando",
         "url": "https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S"
       },
@@ -1419,6 +1419,26 @@
       "duration_ms": 205538,
       "name": "Me Ven Manejando",
       "url": "https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK"
+    },
+    {
+      "added_at": "2023-03-17 05:27:46",
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "Se Me Va A Quemar El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2VedKSBZCY9ucVSlXNnxGc"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -1487,26 +1507,6 @@
     {
       "added_at": "2023-03-17 05:27:46",
       "album": {
-        "name": "No Hay Pedo",
-        "url": "https://open.spotify.com/album/5o7CtNJewla3ScdV8RrePn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sigma",
-          "url": "https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 183840,
-      "name": "No Hay Pedo",
-      "url": "https://open.spotify.com/track/7FMa8CKN1im2uXR9bArJvX"
-    },
-    {
-      "added_at": "2023-03-17 05:27:46",
-      "album": {
         "name": "Desde El Infierno",
         "url": "https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n"
       },
@@ -1527,6 +1527,26 @@
       "duration_ms": 210600,
       "name": "Flow Dragon",
       "url": "https://open.spotify.com/track/0sraRgvPfsDbFaPH5IyAdF"
+    },
+    {
+      "added_at": "2023-03-17 05:27:46",
+      "album": {
+        "name": "No Hay Pedo",
+        "url": "https://open.spotify.com/album/5o7CtNJewla3ScdV8RrePn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sigma",
+          "url": "https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 183840,
+      "name": "No Hay Pedo",
+      "url": "https://open.spotify.com/track/7FMa8CKN1im2uXR9bArJvX"
     },
     {
       "added_at": "2023-03-17 05:27:46",
@@ -1599,26 +1619,6 @@
       "duration_ms": 291773,
       "name": "Sigo In\u00e9dito - Remix",
       "url": "https://open.spotify.com/track/2bTxNLc9yBOxsIxyq5XvSA"
-    },
-    {
-      "added_at": "2023-03-17 05:27:46",
-      "album": {
-        "name": "Desde El Infierno",
-        "url": "https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 147101,
-      "name": "Saco La Paca",
-      "url": "https://open.spotify.com/track/1OWYOkf5VApIjWnOynKFJH"
     }
   ],
   "unique_name": "Internacional Mexicano",

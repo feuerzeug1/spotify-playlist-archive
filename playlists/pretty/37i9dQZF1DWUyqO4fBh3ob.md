@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,127 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,164 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 3 | [Seket El Kalam](https://open.spotify.com/track/7AFuJ7RH19rEML28nWb7oF) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Seket El Kalam](https://open.spotify.com/album/7vENdfNGO5G9E713VdAUPw) | 4:15 |
 | 4 | [Lamma Bada Yatathana](https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 4:01 |
 | 5 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 |
-| 6 | [SAWWAN](https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [SAWWAN](https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF) | 2:26 |
+| 6 | [Jouwana](https://open.spotify.com/track/57Z2cIxwm4ifUhcDxhA0Cv) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Jouwana](https://open.spotify.com/album/6Gct58maHMB57OcDx0cjfc) | 3:24 |
 | 7 | [Ma Mallet](https://open.spotify.com/track/1OI4XNIu41l772o9ISTBJi) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Sarya Al Sawas 2014](https://open.spotify.com/album/3yG6gpurU66JMHIE0oQk9V) | 4:12 |
 | 8 | [Dommini](https://open.spotify.com/track/4GoVy9n0I926WTMhTlb4ya) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Best Of Anas Kareem](https://open.spotify.com/album/4rtJ3PxDElkyKjP9YamhCH) | 4:50 |
 | 9 | [Takke](https://open.spotify.com/track/24eGKJJ9SAHbwMukylkTEH) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Takke](https://open.spotify.com/album/4NDlYRT9ZWH0mmXlRKAM4m) | 3:28 |
 | 10 | [Gheyrik Ma Bekhtar](https://open.spotify.com/track/4LtVyR8CvxoI7hHLIfJGLW) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Best Of Hussein El Deek](https://open.spotify.com/album/6NnyYbSJErbQluhkGCnemW) | 3:57 |
 | 11 | [Ana Baashaak](https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ana Baashaak](https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG) | 37:02 |
-| 12 | [Jouwana](https://open.spotify.com/track/57Z2cIxwm4ifUhcDxhA0Cv) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Jouwana](https://open.spotify.com/album/6Gct58maHMB57OcDx0cjfc) | 3:24 |
+| 12 | [SAWWAN](https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [SAWWAN](https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF) | 2:26 |
 | 13 | [Ya Magnon](https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ya Magnon](https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X) | 4:32 |
 | 14 | [Hal El Garih](https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi) | 3:21 |
 | 15 | [Bahebak Mn Baad Allah](https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bahebak Mn Baad Allah](https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 49 | [Wala Fuse \- Special Version](https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Wala Fuse \(Special Version\)](https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI) | 3:07 |
 | 50 | [Abu Dub](https://open.spotify.com/track/6X3XDA36ekI3xQ75QkfKdZ) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Abu Dub](https://open.spotify.com/album/35zz7cXSUfe67McbGGrRk6) | 4:49 |
 
-Snapshot ID: `MTY3NzM2OTc4NiwwMDAwMDAwMDY4Mjc5YWQ2YzNjODk2NzI2YmJkMzBkNTAzZTViOTg5`
+Snapshot ID: `MTY3NzM2OTc4NiwwMDAwMDAwMDU5NGFjNjUyNWFlMDAzMjk1MDU1Y2MyNTA3ZDM2Yzcz`

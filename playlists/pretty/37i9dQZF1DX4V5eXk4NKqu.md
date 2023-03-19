@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks right now, featuring maye.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,074 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,101 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 13 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 |
 | 14 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
 | 15 | [Continental](https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Continental](https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME) | 3:24 |
-| 16 | [Be Mine](https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Be Mine](https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm) | 2:44 |
-| 17 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
+| 16 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
+| 17 | [Be Mine](https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Be Mine](https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm) | 2:44 |
 | 18 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
 | 19 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 20 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 |
@@ -55,20 +55,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 45 | [Match](https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Match](https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79) | 3:25 |
 | 46 | [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 |
 | 47 | [SUBCONSCIENTE](https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
-| 48 | [Perreo Bonito](https://open.spotify.com/track/1JiXHnf0TqWFuKiFeGChHz) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Perreo Bonito](https://open.spotify.com/album/0HCSF1DdzkwdJjhIyB026B) | 3:07 |
-| 49 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
+| 48 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
+| 49 | [Perreo Bonito](https://open.spotify.com/track/1JiXHnf0TqWFuKiFeGChHz) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Perreo Bonito](https://open.spotify.com/album/0HCSF1DdzkwdJjhIyB026B) | 3:07 |
 | 50 | [FRESH](https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MIMO](https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21) | 2:31 |
 | 51 | [Golden Mirror](https://open.spotify.com/track/3rySmg1BCN3yA4FcqVvSIX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [It Was a Home](https://open.spotify.com/album/03ik0WUdejkxQy4Jc4iexg) | 3:44 |
 | 52 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
 | 53 | [Better With You](https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 2:36 |
 | 54 | [todo bien :\-\)](https://open.spotify.com/track/7Fp82vLuGKV6xYv9z3W9F2) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [todo bien :\-\)](https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS) | 2:56 |
 | 55 | [Ya no estoy aquí](https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Ya no estoy aquí](https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6) | 3:22 |
-| 56 | [Vas](https://open.spotify.com/track/0J5HUUAIzTupxaWZ6WVk2c) | [Blssom](https://open.spotify.com/artist/66xgo99rMsMKLL1JknCawn) | [Blssom](https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb) | 3:44 |
-| 57 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
-| 58 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 |
+| 56 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 |
+| 57 | [Vas](https://open.spotify.com/track/0J5HUUAIzTupxaWZ6WVk2c) | [Blssom](https://open.spotify.com/artist/66xgo99rMsMKLL1JknCawn) | [Blssom](https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb) | 3:44 |
+| 58 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
 | 59 | [Te Espero Aquí](https://open.spotify.com/track/5cTyKJd1pHOxTt8pt8hAi7) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 4:11 |
-| 60 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
-| 61 | [Dead Leaves](https://open.spotify.com/track/6GoHJOvRcdEPmcjgylYg1b) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Dead Leaves](https://open.spotify.com/album/1P1LPexTVBon26jRalV2Fb) | 2:12 |
+| 60 | [Dead Leaves](https://open.spotify.com/track/6GoHJOvRcdEPmcjgylYg1b) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Dead Leaves](https://open.spotify.com/album/1P1LPexTVBon26jRalV2Fb) | 2:12 |
+| 61 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
 | 62 | [RQR](https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [RQR](https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb) | 2:57 |
 | 63 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
 | 64 | [Cohen's Cumbia](https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 2:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 69 | [DARK CLOUDS](https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [DARK CLOUDS](https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz) | 3:08 |
 | 70 | [Yo Creo en el Amor](https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz) | [REIIINA](https://open.spotify.com/artist/5rMLCHF00RKiN5BQxjUBLT) | [Yo Creo en el Amor](https://open.spotify.com/album/5aazCzx0PIyWPw1DfoUPQQ) | 2:51 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGZmNzgzZDI0ODQzNmE5NzFmNGRiNmZkMmJlNzE3YjFm`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGYwOTM0N2Q3YjI5YWZkYWYzMjljOGE1ZjhkOTQxNzJh`

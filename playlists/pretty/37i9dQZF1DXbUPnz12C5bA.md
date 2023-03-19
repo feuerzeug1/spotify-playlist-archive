@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,991 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,063 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 8 | [Busca Un Confidente](https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc) | 4:06 |
 | 9 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:54 |
 | 10 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 |
-| 11 | [Esta Vida](https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Son Para El Mundo](https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3) | 3:57 |
+| 11 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 |
 | 12 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 |
-| 13 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 |
+| 13 | [Esta Vida](https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Son Para El Mundo](https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3) | 3:57 |
 | 14 | [Sin Medir Distancias](https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Brindo Con El Alma](https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM) | 5:00 |
 | 15 | [Que pena](https://open.spotify.com/track/2YXvjidOJH62npeeKr2iZR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Beto Villa](https://open.spotify.com/artist/2xScahn880efYSHWp8SpsC) | [La Combinacion Vallenata Elite Vol\. 5](https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6) | 5:33 |
 | 16 | [Sirena Encantada](https://open.spotify.com/track/3LhmbxCgjX7E7xYBEUn30Y) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 49 | [Dile](https://open.spotify.com/track/1MGlNhK0XHWaeh5CfXmU2Y) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Ponte a la Moda](https://open.spotify.com/album/5EArLgK3ztJCjEdBb71nGn) | 4:11 |
 | 50 | [Te Perdone](https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [La Invitación](https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W) | 4:43 |
 
-Snapshot ID: `MTY3NjMzMDIzNSwwMDAwMDAwMDYwY2Q0MjMxZmZiOGJlNDI5NjRkNGFiMmIwOWZiNWUz`
+Snapshot ID: `MTY3NjMzMDIzNSwwMDAwMDAwMDYxNTkxYTUwNjc1NmM0ZWY0ZjU4ZjY3MDgwOGI3ZWMw`

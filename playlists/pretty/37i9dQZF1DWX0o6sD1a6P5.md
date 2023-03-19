@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Tiwa Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,159 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,878 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 8 | [In Love](https://open.spotify.com/track/4WM7I8zRXJ6qjl4kuHeHrF) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Trafic Inter](https://open.spotify.com/album/4gPe7bl2PI7Jv1acB0J3gw) | 3:01 |
 | 9 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
 | 10 | [Biberon](https://open.spotify.com/track/2bCaPPU40lstpe69VQphqD) | [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [Que l'Amour se Répande](https://open.spotify.com/album/033XOmNNUrgQD0dUj88EiK) | 2:57 |
-| 11 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(feat\. Cian Ducrot\) \[Remix\]](https://open.spotify.com/album/2iBbNFC5oZdKfqQyiSEfXx) | 3:04 |
+| 11 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 12 | [Tourner la page \(épisode 2\)](https://open.spotify.com/track/2ZP3TeVINLtHuDjo2lJQMe) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 2:45 |
 | 13 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 |
 | 14 | [DIS\-MOI OUI](https://open.spotify.com/track/7HS3aGgUkTzXRLBTt6aE5m) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [ROUGE](https://open.spotify.com/album/7C5XPJuaRuOj3wBrdZYtQW) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Destiny](https://open.spotify.com/track/7zC2GxAopVulErd3DNGyPO) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Destiny](https://open.spotify.com/album/1lhPYoALoFeKqF3Azi1mMF) | 3:19 |
 | 50 | [Family Problem](https://open.spotify.com/track/09uz7ZgINfKSXcTPT2zrLb) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [GENESIS](https://open.spotify.com/album/0MrECtDGFvoeXxvsS7y9XV) | 3:41 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMGQzNTE2MTc5YzM1YmE5MWZmNzVjM2FlYzRiY2UwMTFh`
+Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMGY4NTRlN2VhZjQwMmE1MDdiYzA0MWU3NWI1M2UxNTMz`

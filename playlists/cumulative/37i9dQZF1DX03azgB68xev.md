@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-336 songs - 18 hr 48 min
+337 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Higher Ground](https://open.spotify.com/track/6uGKLZ6z8ogdfDRDwOReTf) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Episode 1 \- EP](https://open.spotify.com/album/2fARr0hI02WNfm4vL6MsWx) | 3:06 | 2021-10-31 | 2023-01-14 |
 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 | 2021-10-31 | 2022-07-28 |
 | [Hills & Horizons](https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hills & Horizons](https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h) | 3:32 | 2023-01-13 |  |
-| [Hold Me](https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Hold Me](https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB) | 3:20 | 2023-01-13 |  |
+| [Hold Me](https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Hold Me](https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB) | 3:20 | 2023-01-13 | 2023-03-19 |
 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 | 2023-01-13 |  |
 | [Hold You Tight](https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Hold You Tight](https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR) | 2:55 | 2023-01-13 |  |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2021-10-31 | 2023-01-14 |
@@ -301,6 +301,7 @@
 | [This Is Freedom \(Ain't No Rock\) \- Live](https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [This Is Freedom \(Ain't No Rock\) \[Live\]](https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v) | 5:44 | 2023-01-13 |  |
 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 | 2023-01-13 |  |
 | [This Is Our Moment](https://open.spotify.com/track/658dIjAW5hbwzOdgVn6IFp) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [This Is Our Moment](https://open.spotify.com/album/716YnS34UV1sbXuUIKMnst) | 3:47 | 2023-01-13 | 2023-01-17 |
+| [This Is The Love](https://open.spotify.com/track/2LS7Ww44t936USz0gg4k1w) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [This Is The Love](https://open.spotify.com/album/3qJbjQzqUv8AOQBlOEXlNr) | 2:46 | 2023-01-13 |  |
 | [This Love](https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [This Love](https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC) | 3:17 | 2023-01-13 |  |
 | [This World Is Not My Home](https://open.spotify.com/track/36Q3K9sJqgjCyGbHWW7u63) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [This World Is Not My Home](https://open.spotify.com/album/65rWZ61zIkHGrclFdek0bp) | 2:42 | 2021-10-31 | 2022-07-29 |
 | [This World Is Not My Home](https://open.spotify.com/track/4jw2RRaFiovU5CmQBAwzFt) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 2:42 | 2021-10-31 | 2022-11-18 |

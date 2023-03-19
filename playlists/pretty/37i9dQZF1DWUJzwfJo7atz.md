@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 
 > cute moments in fields and on dancefloors \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,531 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,709 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 27 | [Love Reigns](https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:54 |
 | 28 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 |
 | 29 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
-| 30 | [UUUU](https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP) | 6:29 |
-| 31 | [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 |
+| 30 | [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 |
+| 31 | [UUUU](https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP) | 6:29 |
 | 32 | [Can We Still Be Friends?](https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Can We Still Be Friends?](https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC) | 4:03 |
 | 33 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
 | 34 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 47 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
 | 48 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 |
 | 49 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 |
-| 50 | [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 |
+| 50 | [Alright](https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Alright](https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi) | 4:55 |
 
-Snapshot ID: `MTY2OTgxOTg1NCwwMDAwMDAwMGQ0NTJmYWZlM2RmZWMxNjg1ZWYwZTQxOTMxM2Q1YWM1`
+Snapshot ID: `MTY2OTgxOTg1NCwwMDAwMDAwMGJmZGM4OTgwMjZiZTEyNjczMjg2NTcwYjM5YWU0NGNh`

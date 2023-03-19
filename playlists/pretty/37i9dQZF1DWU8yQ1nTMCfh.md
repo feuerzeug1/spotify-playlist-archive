@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,427 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,438 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 21 | [Cuesta Arriba](https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cuesta Arriba](https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU) | 2:44 |
 | 22 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
 | 23 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
-| 24 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 |
-| 25 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 |
+| 24 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 |
+| 25 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 |
 | 26 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 |
 | 27 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 28 | [La Petite Mort](https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Petite Mort](https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd) | 4:51 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 40 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 |
 | 41 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 |
 | 42 | [Despídete Bien](https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Despídete Bien](https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np) | 3:12 |
-| 43 | [Zero](https://open.spotify.com/track/3zOHI5gwoN5juUNhnVpuwP) | [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Zero](https://open.spotify.com/album/1bmBBthA6UzKtGn8TGm6yx) | 2:48 |
-| 44 | [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 |
-| 45 | [Ha Sido](https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Ha Sido](https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK) | 4:11 |
+| 43 | [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 |
+| 44 | [Zero](https://open.spotify.com/track/3zOHI5gwoN5juUNhnVpuwP) | [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Zero](https://open.spotify.com/album/1bmBBthA6UzKtGn8TGm6yx) | 2:48 |
+| 45 | [Sentimientos Encontrados](https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Renacimiento](https://open.spotify.com/album/1bgDT6xm0mP29HMfGTbpAm) | 3:32 |
 | 46 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 |
-| 47 | [Sentimientos Encontrados](https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Renacimiento](https://open.spotify.com/album/1bgDT6xm0mP29HMfGTbpAm) | 3:32 |
-| 48 | [No Me Lo Creo Ni Yo](https://open.spotify.com/track/1YGwkzw6RVFsO2h9RkDB47) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [No Me Lo Creo Ni Yo](https://open.spotify.com/album/35uAGAZg9bWa5JCkXjSKWv) | 2:50 |
-| 49 | [Tu Tiempo](https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:25 |
+| 47 | [Ha Sido](https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Ha Sido](https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK) | 4:11 |
+| 48 | [Tu Tiempo](https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:25 |
+| 49 | [No Me Lo Creo Ni Yo](https://open.spotify.com/track/1YGwkzw6RVFsO2h9RkDB47) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [No Me Lo Creo Ni Yo](https://open.spotify.com/album/35uAGAZg9bWa5JCkXjSKWv) | 2:50 |
 | 50 | [Traidora](https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Traidora](https://open.spotify.com/album/46yK79DN46OjOnQusajJb0) | 3:10 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDczNzRmMDdkYWZiOGRmY2QxNGVlZWNmMmZmYWQ2NTBj`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDQwMTEwNmZmMDU0NzkwZjlkZmQ2ZTdiZjFlZDE1NDE2`

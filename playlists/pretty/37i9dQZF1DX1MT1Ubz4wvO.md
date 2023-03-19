@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Los Bunkers en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,773 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,791 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rey](https://open.spotify.com/track/3rS6pLKhoZ8m0Z5vqgoCfc) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Rey](https://open.spotify.com/album/5IMv5sPdSP7leaSaehgacp) | 3:43 |
 | 2 | [Ayer Fuimos Diablos](https://open.spotify.com/track/26Z9plFOvWCk5enTwFSGq1) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Ayer Fuimos Diablos](https://open.spotify.com/album/255SOL5Ta1eMJpiWjXXgvK) | 3:48 |
-| 3 | [Flashbacks](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Flashbacks](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
+| 3 | [Flashbacks](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Flashbacks](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
 | 4 | [CABI](https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CABI](https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N) | 2:01 |
 | 5 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 |
 | 6 | [Me Haces Sonreír](https://open.spotify.com/track/5WC0OIk0R1cJIxEHeElAaJ) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [Me Haces Sonreír](https://open.spotify.com/album/1V6m77XJ6uBSDCqQ9dbhTB) | 3:19 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,834 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,838 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 |
-| 2 | [s\_t\_l](https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [s\_t\_l](https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK) | 3:26 |
+| 2 | [s\_t\_l](https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [s\_t\_l](https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK) | 3:26 |
 | 3 | [Lights Down Low](https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Riunga](https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN) | [R\-/LBT](https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc) | 3:50 |
 | 4 | [Closure](https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nae](https://open.spotify.com/artist/2BlQIEUVv6FAUGMCf5aOCJ) | [Closure](https://open.spotify.com/album/71R0HfuCZtkH69OyEyMMU3) | 2:28 |
 | 5 | [Camille](https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Camille](https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo) | 2:38 |

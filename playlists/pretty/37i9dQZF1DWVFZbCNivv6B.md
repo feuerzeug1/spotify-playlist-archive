@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Hip\-hop 100% mexicano, puras rimas de la calle\. Snow Tha Product en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,384 likes - 97 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,583 likes - 97 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 5 | [Orígenes Vivos](https://open.spotify.com/track/5vClRBOUMbPCdV6WXp9PCG) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Orígenes Vivos](https://open.spotify.com/album/1kbseorYh6sNkawXLqS5VD) | 4:22 |
 | 6 | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/album/308VA4UV7GdELyQHd5TGLD) | 3:29 |
 | 7 | [Otra Bala](https://open.spotify.com/track/6aSyWYtMLf7S3XyOkZPvbo) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Otra Bala](https://open.spotify.com/album/3wXuxf14i0TeW7XUy01Xgu) | 3:08 |
-| 8 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Luis Ernesto Perea Valdés](https://open.spotify.com/artist/0KraBV8fvH3totbf174ple), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 |
+| 8 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 |
 | 9 | [Sin Ti](https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Ti](https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i) | 5:46 |
 | 10 | [No Te Alejes De Mi](https://open.spotify.com/track/3mDkHnmVYtzc6zB4lb7s49) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [No Te Alejes De Mi](https://open.spotify.com/album/46lt1bADO5Fl34WJoxEjnU) | 2:48 |
 | 11 | [Top Rank](https://open.spotify.com/track/06Ikc0xyxc62eJ7LSIrZC3) | [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [Top Rank](https://open.spotify.com/album/20YVpil3sY0AZLfoNAySuS) | 2:05 |

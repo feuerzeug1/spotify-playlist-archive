@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-466 songs - 1 day 12 hr 22 min
+467 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2022-11-12 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-11-12 |  |
 | [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2022-11-12 |  |
+| [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-16 |  |
 | [Come Sunday](https://open.spotify.com/track/3Nctgma8nqUtYcfOUbmSLn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Come Sunday](https://open.spotify.com/album/2ntGI3niS9mmoSvTdt4BtS) | 3:29 | 2022-02-10 |  |
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2023-03-10 |  |
 | [Counting Sheep](https://open.spotify.com/track/4Z1gZdDIGrnV7OvHdSyzJM) | [Addison Frei](https://open.spotify.com/artist/4NfMAQV9vkPudAdPGTDKSq), [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P) | [Time and Again](https://open.spotify.com/album/7AbI9I8qhECFl9dxFnphs6) | 4:08 | 2022-02-10 |  |
@@ -225,7 +226,7 @@
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2023-03-10 |  |
 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 | 2022-07-07 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2022-11-12 |  |
-| [Liten Jazzballong Revisited](https://open.spotify.com/track/3Q8mDlDBHw5lPNvMcXgBoe) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Liten Jazzballong Revisited](https://open.spotify.com/album/5qIPdiTo9jJsd1Fl3VIO8d) | 6:11 | 2022-03-03 |  |
+| [Liten Jazzballong Revisited](https://open.spotify.com/track/3Q8mDlDBHw5lPNvMcXgBoe) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Liten Jazzballong Revisited](https://open.spotify.com/album/5qIPdiTo9jJsd1Fl3VIO8d) | 6:11 | 2022-03-03 | 2023-03-19 |
 | [Little Girl Blue](https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Standards In Norway](https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt) | 6:43 | 2022-02-10 |  |
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-11-12 |  |
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,327 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,361 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 12 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
 | 13 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
 | 14 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 |
-| 15 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
-| 16 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 |
+| 15 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 |
+| 16 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
 | 17 | [Notion](https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion \- EP](https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5) | 5:41 |
 | 18 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 19 | [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 43 | [Mortals](https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 3:08 |
 | 44 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 |
 | 45 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
-| 46 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
-| 47 | [Tarifa](https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:50 |
+| 46 | [Tarifa](https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:50 |
+| 47 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
 | 48 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
 | 49 | [This Is What You Did](https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:12 |
 | 50 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 70 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 |
 | 71 | [The Impossible Task of Feeling Complete](https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:07 |
 | 72 | [Love of Her Life](https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Love of Her Life](https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ) | 4:01 |
-| 73 | [I’ll Go Running](https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx) | 3:56 |
-| 74 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
+| 73 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 |
+| 74 | [I’ll Go Running](https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx) | 3:56 |
 | 75 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
 | 76 | [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 |
 | 77 | [Vessel](https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Vessel](https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd) | 3:28 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 82 | [Giant](https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm) | [Matrimony](https://open.spotify.com/artist/4V5UtbLYaFishr7psURF3Q) | [Montibello Memories](https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3) | 3:51 |
 | 83 | [Luster](https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ) | [Twin Oaks](https://open.spotify.com/artist/2EhsRPMmPKBic0M4pFJkWk) | [Luster](https://open.spotify.com/album/6BgYFVZUvMm05vtCdnxh9d) | 3:20 |
 | 84 | [Lincoln, Nebraska](https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH) | 2:23 |
-| 85 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
-| 86 | [I Don't Want to Let You Down](https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Don't Want To Let You Down b/w All Over Again](https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9) | 4:02 |
+| 85 | [I Don't Want to Let You Down](https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Don't Want To Let You Down b/w All Over Again](https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9) | 4:02 |
+| 86 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
 | 87 | [Turn To Dust](https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:07 |
 | 88 | [I’ll Still Have Me \- Aquilo Remix](https://open.spotify.com/track/4j2TkLdMzMSN9EaC5Cy4eJ) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I’ll Still Have Me \(Aquilo Remix\)](https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr) | 4:04 |
 | 89 | [We Cannot Resist](https://open.spotify.com/track/068ZytZuPeqoSgaffebBVD) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [Animal](https://open.spotify.com/album/1UiSJKr1F1Y3ZwbCw67JV2) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
 | 100 | [Moment Feed](https://open.spotify.com/track/6JsUqtsVNboWCl8fWZMX1o) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Calming Night Partner](https://open.spotify.com/album/3Xy8Iod03tm1nOXCQCq0p7) | 4:27 |
 
-Snapshot ID: `MTY3ODgwNzg0MywwMDAwMDAwMGI2NmJmNDUyNzIwNGU5MWFkZTc2NzEyMjBjYTI3MGZk`
+Snapshot ID: `MTY3ODgwNzg0MywwMDAwMDAwMDVlNGRjOWZjNDNlZDQ5OTk4NzEwMzQ5NjA2OTJiMjg4`

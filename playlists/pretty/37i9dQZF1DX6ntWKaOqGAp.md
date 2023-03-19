@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: フジファブリック & フレデリック
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,466 likes - 90 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,517 likes - 90 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 243809,
       "name": "All I Want - Original Mix",
       "url": "https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 173907,
       "name": "Crayzee",
       "url": "https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3"
@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
+    },
+    {
+      "album": {
         "name": "Maybe Not",
         "url": "https://open.spotify.com/album/6uN87iMBCYoavfRE6jIcjg"
       },
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 173926,
       "name": "Rebola (feat. DoFlow)",
       "url": "https://open.spotify.com/track/0FLhTpx3k2uU1qVGxpiLhs"
@@ -2413,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Superlicious",
+        "url": "https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Superlicious",
+      "url": "https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm"
+    },
+    {
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq"
       },
@@ -2428,6 +2464,24 @@
       "duration_ms": 197502,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
+    },
+    {
+      "album": {
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "album": {

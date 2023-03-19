@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,105 likes - 56 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,200 likes - 56 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 16 | [Qua Ngày Mai \- 2018](https://open.spotify.com/track/6aCkeFgaHGiIxRAPGEk9P9) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe) | [Qua Ngày Mai \(2018\)](https://open.spotify.com/album/3XI0babfSGTn56c1kedLte) | 2:40 |
 | 17 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 |
 | 18 | [Ai Đưa Em Về](https://open.spotify.com/track/39TAKt2hL8sdhVTFCNfm2Y) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/1wkAoUayWVlX0ayIbiWlCq) | 3:53 |
-| 19 | [Dear \(feat\. Lê Hiếu\)](https://open.spotify.com/track/7sEIHN9lpk8ad8iIAYnR5Y) | [Gonzo](https://open.spotify.com/artist/3IYeC0G8TDXtqYwhXlZJDt), [Lê Hiếu](https://open.spotify.com/artist/4sOvsEM0ooH149joyEm7Wg) | [Dear \(feat\. Lê Hiếu\)](https://open.spotify.com/album/40lqWjkvl5fN6kMWAiuBkr) | 4:20 |
+| 19 | [Dear \(feat\. Lê Hiếu\)](https://open.spotify.com/track/7sEIHN9lpk8ad8iIAYnR5Y) | [Gonzo](https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF), [Lê Hiếu](https://open.spotify.com/artist/4sOvsEM0ooH149joyEm7Wg) | [Dear \(feat\. Lê Hiếu\)](https://open.spotify.com/album/40lqWjkvl5fN6kMWAiuBkr) | 4:20 |
 | 20 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 |
 | 21 | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ) | 4:15 |
 | 22 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 |

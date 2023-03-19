@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 224619,
+  "num_followers": 224691,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMDQyYzEwZDljYjY5MTllMDVkNjgzY2RmOGVkYzY2ODc3",
+  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMGU0M2UyMGEzYzI5MDkxNTQ0YTg2YTBiM2EzN2U0MTQ1",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "January Flower (Deluxe)",
+        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 203874,
+      "name": "Save Me - Bonus Track",
+      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "January Flower (Deluxe)",
-        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 203874,
-      "name": "Save Me - Bonus Track",
-      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Way, Truth, Life",
         "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 173500,
       "name": "Way, Truth, Life",
       "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Broken Places",
-        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
-      },
-      "artists": [
-        {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Broken Places",
-      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Keep Your Head Up (Radio Version)",
         "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
+        "name": "Broken Places",
+        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
       },
       "artists": [
         {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
         }
       ],
-      "duration_ms": 211880,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
+      "duration_ms": 255693,
+      "name": "Broken Places",
+      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -875,6 +859,22 @@
       "duration_ms": 205377,
       "name": "Future",
       "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Something to Say",
-        "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 244172,
-      "name": "Something to Say",
-      "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "King of Victory",
         "url": "https://open.spotify.com/album/56V12Ppm9gzP0E4S8rFpY5"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 218853,
       "name": "King of Victory",
       "url": "https://open.spotify.com/track/6TWRgFPkaEQJrOSDissdhj"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Something to Say",
+        "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        }
+      ],
+      "duration_ms": 244172,
+      "name": "Something to Say",
+      "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Move of Heaven",
-        "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
-      },
-      "artists": [
-        {
-          "name": "Awaken Music",
-          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
-        }
-      ],
-      "duration_ms": 339706,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Get A Life",
         "url": "https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 110413,
       "name": "Get A Life",
       "url": "https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Move of Heaven",
+        "url": "https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD"
+      },
+      "artists": [
+        {
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+        }
+      ],
+      "duration_ms": 339706,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 249495,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2022-12-16 05:02:00",

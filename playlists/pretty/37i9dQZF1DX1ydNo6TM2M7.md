@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our setlists this year\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,282 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,283 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 41 | [Go \- Anfisa Letyago Remix](https://open.spotify.com/track/2DILDB3AW4KcxN1zyOVw3s) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Reprise \- Remixes](https://open.spotify.com/album/1ebgTtKt8c9dMZADohgv7v) | 5:38 |
 | 42 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 |
 | 43 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 |
-| 44 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 |
+| 44 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 |
 | 45 | [Rock You All Night](https://open.spotify.com/track/4ZWMufnPh7Ssz29veIMEwR) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Rock You All Night](https://open.spotify.com/album/00l6WmD4J0WnsR0Lis12UR) | 3:26 |
 | 46 | [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 |
 | 47 | [It's A Killa](https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt) | 3:20 |

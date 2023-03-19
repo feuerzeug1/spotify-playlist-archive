@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,871 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,058 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 30 | [Slow Hand](https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Southern Comfort](https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9) | 2:54 |
 | 31 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 |
 | 32 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/37GWhu8R61gTStMvVQfDuE) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Sings Heart Songs](https://open.spotify.com/album/0426RVFAsCAeiUcCOq0J1V) | 2:03 |
-| 33 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
+| 33 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
 | 34 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
-| 35 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
+| 35 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 36 | [Act Naturally](https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:23 |
 | 37 | [I Believe In You](https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [I Believe In You](https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG) | 4:06 |
 | 38 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 62 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:16 |
 | 63 | [Sea of Heartbreak](https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [RCA Country Legends: Don Gibson](https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As) | 2:35 |
 | 64 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 |
-| 65 | [Y'all Come Back Saloon](https://open.spotify.com/track/790HdFZdub1eobl2iLzcem) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [You're The One](https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ) | 2:54 |
-| 66 | [Is Anybody Goin' to San Antone](https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Charley Pride's 10th Album](https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl) | 2:13 |
+| 65 | [Is Anybody Goin' to San Antone](https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Charley Pride's 10th Album](https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl) | 2:13 |
+| 66 | [Y'all Come Back Saloon](https://open.spotify.com/track/790HdFZdub1eobl2iLzcem) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [You're The One](https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ) | 2:54 |
 | 67 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
 | 68 | [Talking In Your Sleep](https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:54 |
 | 69 | [You Never Even Called Me By My Name](https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 5:14 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 85 | [Who's Gonna Fill Their Shoes](https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Super Hits](https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR) | 3:15 |
 | 86 | [Baby Don't Get Hooked on Me](https://open.spotify.com/track/4z51Gf7Ppt9Lmu5zmnUIz9) | [Mac Davis](https://open.spotify.com/artist/6HX8AbXUFaYRtlqKb4CCo0) | [Baby Don't Get Hooked On Me](https://open.spotify.com/album/2xFMzRc1yucPQIk8P0CcxM) | 3:03 |
 | 87 | [The Auctioneer](https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [At Your Request…](https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85) | 2:48 |
-| 88 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
-| 89 | [One Promise Too Late](https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [What Am I Gonna Do About You](https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL) | 3:25 |
+| 88 | [One Promise Too Late](https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [What Am I Gonna Do About You](https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL) | 3:25 |
+| 89 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
 | 90 | [Skip a Rope](https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L) | [Henson Cargill](https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv) | [All\-American Cowboy](https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0) | 2:40 |
 | 91 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:07 |
 | 92 | [I Can Help](https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [The Best Of Billy Swan](https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 99 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
 | 100 | [I Walk The Line \- Single Version](https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Get Rhythm / I Walk the Line](https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH) | 2:43 |
 
-Snapshot ID: `MTY1MTg2NTg3OCwwMDAwMDAwMDdkZTMzMjQyYTFhMmY4YmQyZDZlMWQ3MzcxYmZmYmY2`
+Snapshot ID: `MTY1MTg2NTg3OCwwMDAwMDAwMGM4MWYwYzhmMzllN2NkNmRmMjBkN2Y5NTc2MDU5YzFj`

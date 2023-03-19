@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-69 songs - 4 hr 35 min
+72 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Chad Fareeda Kothey Utte](https://open.spotify.com/track/4IgCmYl6e9msF6NwqLF8KV) | [Samarjeet Randhava](https://open.spotify.com/artist/0CQ4IAP1aTbl4CsanNOZ57) | [Samarjeet Randhava's Sufi Rockland](https://open.spotify.com/album/71FkXqsYbZSX71T3FeoM6i) | 3:34 | 2021-11-03 |  |
 | [Challa](https://open.spotify.com/track/2rfnZnHrgIpciZb78nWwKX) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4qlU0pl3svPl0jArs2Upo7) | 6:46 | 2022-07-16 |  |
 | [Challa](https://open.spotify.com/track/4Au2BuSo70ozHs8TFE2dwh) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara](https://open.spotify.com/album/55LNP0Gwa2VONSPlxbycVW) | 6:46 | 2021-11-03 | 2022-07-29 |
+| [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 |  |
 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Walia](https://open.spotify.com/artist/00HXgtYHCfo0SAKRg1JJl5) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 | 2021-11-03 |  |
 | [Chan Kithan](https://open.spotify.com/track/3V94RK5PxcSSRCxhEWBIuQ) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Chan Kithan](https://open.spotify.com/album/34bEDfoNeAjmHWnkmPT5ky) | 3:51 | 2023-02-01 |  |
 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 | 2021-11-03 |  |
@@ -60,6 +61,7 @@
 | [Kangi Wanwan \- Live](https://open.spotify.com/track/7pKDQawo9ClvxVmRBYTzaM) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kangi Wanwan / Bobby Jeth \(Live\) \- Single](https://open.spotify.com/album/2Xgp2lbLFymILvM4XtqAKU) | 4:10 | 2021-11-03 |  |
 | [Latthe Di Chadar](https://open.spotify.com/track/7ChxPqmCd0XQB8TXMGGg9V) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/67THXG06aDn1odJW7DRGqa) | 3:02 | 2022-07-16 |  |
 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 | 2021-11-03 | 2022-07-29 |
+| [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 |  |
 | [Madhaniya](https://open.spotify.com/track/7JhqIABcX6GZLbVRbbKsKZ) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Madhaniya](https://open.spotify.com/album/1PxxiGMkxPXAqVNT5IvJX8) | 2:04 | 2021-11-03 |  |
 | [Majhe Diye Mombattiye](https://open.spotify.com/track/2gP09WRLU9PajUoOgCDYWU) | [Balkar Sidhu](https://open.spotify.com/artist/6uBqTShUAXu6jwhxxvhuhZ) | [Best of Balkar Sidhu](https://open.spotify.com/album/72HqqELNR5MK8wGgPxjOfQ) | 7:31 | 2021-11-03 |  |
 | [Mathe Te Chamkan Vaal \- Live](https://open.spotify.com/track/3SkUaDTh5M4BDdQOLzLiol) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Mathe Te Chamkan Vaal / Gidde Vich \(Live\) \- Single](https://open.spotify.com/album/4FMCAGhni2EPuBGxw6Dq9O) | 3:38 | 2021-11-03 |  |
@@ -68,6 +70,7 @@
 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 | 2021-11-03 |  |
 | [Pinda Vichon Pind \- Folk Recreation](https://open.spotify.com/track/1jEzFM4KUY7Zi2X7taKiZ8) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY) | [Pinda Vichon Pind \(Folk Recreation\)](https://open.spotify.com/album/5yFJPxffYbmIqmSdybpk1A) | 2:17 | 2021-11-03 |  |
 | [Punjabi Folk Boliyan](https://open.spotify.com/track/4KVJYdubRM0owXUyZabLTR) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Punjabi Folk Boliyan](https://open.spotify.com/album/6tTzfqYgGphqYBAu1y3ijP) | 3:05 | 2022-09-15 |  |
+| [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 |  |
 | [Ranjhana](https://open.spotify.com/track/1upV3GcdtYBdoDwOzUjo60) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Ranjhana](https://open.spotify.com/album/5Nt2hF22SqOBga62QCh5bI) | 2:37 | 2021-11-03 |  |
 | [Sajna Ve Sajna](https://open.spotify.com/track/4eIOdicpfNZq1CHTD6U2BW) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/33JWCJhCr7UJMa3UZbeNeJ) | 6:22 | 2021-11-03 | 2022-07-29 |
 | [Sajna Ve Sajna](https://open.spotify.com/track/6xs5hAwj3Quf8TdRov5OaV) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/4pB975QwnkBHQ1yptO10T2) | 6:22 | 2022-07-16 |  |

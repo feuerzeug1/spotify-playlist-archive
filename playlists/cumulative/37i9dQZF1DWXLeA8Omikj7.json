@@ -266,7 +266,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 427200,
       "name": "[Time] Place",
       "url": "https://open.spotify.com/track/7y5KNFzUITQC3ObeFkf9cj"
@@ -3511,6 +3511,32 @@
     },
     {
       "album": {
+        "name": "EVEN MORE D4TA",
+        "url": "https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "Kin Leonn",
+          "url": "https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK"
+        },
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271795,
+      "name": "EASY PREY - yeule & Kin Leonn Remix",
+      "url": "https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh"
+    },
+    {
+      "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
       },
@@ -5658,7 +5684,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 198389,
       "name": "Half Awake",
       "url": "https://open.spotify.com/track/2UUVwDVZYR5StS7Si0SxrP"
@@ -7672,7 +7698,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 711026,
       "name": "Luminous Beings",
       "url": "https://open.spotify.com/track/3Ha9TeaqCdcS6cqKmFGCO3"
@@ -8784,7 +8810,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 255512,
       "name": "No Motivation",
       "url": "https://open.spotify.com/track/7I8ekwvvCq0gaxBMaxco3l"
@@ -9900,6 +9926,24 @@
       "duration_ms": 351879,
       "name": "Polyparty",
       "url": "https://open.spotify.com/track/1D4JdD2b3kIO51p4GSAzXi"
+    },
+    {
+      "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298027,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/5et8DWvvtMND8WzRDeql3n"
     },
     {
       "album": {

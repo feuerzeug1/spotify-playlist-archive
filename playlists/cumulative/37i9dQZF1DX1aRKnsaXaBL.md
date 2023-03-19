@@ -4,7 +4,7 @@
 
 > Catching sunsets con indie rock de fondo.
 
-54 songs - 3 hr 7 min
+55 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Control](https://open.spotify.com/track/5YVwv9bfy4PX1uRhQUk1sO) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Why You?](https://open.spotify.com/album/1g1STbZaWPnAD4rabVe8tg) | 5:04 | 2023-03-10 |  |
 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 | 2023-03-10 |  |
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2023-03-10 |  |
+| [Daria](https://open.spotify.com/track/1N5gxXUVDRx7SIr6xN47zL) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Daria](https://open.spotify.com/album/6X6iitQfdcFj9dBmOjfGEy) | 3:43 | 2023-03-17 |  |
 | [dejarse querer](https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:03 | 2023-03-10 |  |
 | [Dejarte Ir](https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir También Es Amar](https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi) | 3:12 | 2023-03-10 |  |
 | [El Ding Dong](https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Ding Dong](https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp) | 2:39 | 2023-03-10 |  |
@@ -45,7 +46,7 @@
 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 | 2023-03-10 |  |
 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 | 2023-03-10 |  |
 | [mi pobre angelito 2](https://open.spotify.com/track/5smZX3A2NyCZW2Kfmrvv4z) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 2:41 | 2023-03-10 |  |
-| [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 | 2023-03-10 |  |
+| [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 | 2023-03-10 | 2023-03-19 |
 | [NO TE ALEJES](https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ) | 3:30 | 2023-03-10 |  |
 | [Nos Soltamos](https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:34 | 2023-03-10 |  |
 | [nostalgia](https://open.spotify.com/track/0t3uKEc44wvDzMsmCPRach) | [AZTRO](https://open.spotify.com/artist/59Mz51MhHOOKjJFsM4cSzU), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [nostalgia](https://open.spotify.com/album/6hwBv8CvjmxQwAtNkHaAY2) | 3:15 | 2023-03-10 |  |

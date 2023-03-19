@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,565 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,597 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 11 | [Fuma](https://open.spotify.com/track/1AYFgqbN7PuAFQ9gBf6DFx) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 3:12 |
 | 12 | [Fuera de Lugar](https://open.spotify.com/track/2BWTYAiWbBGCJeKbQ6rpFA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 3:16 |
 | 13 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 |
-| 14 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 |
-| 15 | [Love](https://open.spotify.com/track/0jr2ZsIcB1GePjA8JsfJeT) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Love Paraíso](https://open.spotify.com/album/3bgsX1oDXZ6qxGWgOWZNVt) | 4:54 |
+| 14 | [Love](https://open.spotify.com/track/0jr2ZsIcB1GePjA8JsfJeT) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Love Paraíso](https://open.spotify.com/album/3bgsX1oDXZ6qxGWgOWZNVt) | 4:54 |
+| 15 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 |
 | 16 | [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 |
 | 17 | [Young Girl](https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Funk Your Bones \(Side B\)](https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT) | 3:16 |
 | 18 | [Despacio](https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Chango](https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa) | 3:05 |
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 20 | [Gordo Funky](https://open.spotify.com/track/24uwH6cnhvjLtwBxrNS21N) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Como Nunca](https://open.spotify.com/album/4Pp1hdXYkrDZSkwDuTFVnO) | 3:12 |
 | 21 | [Parar el Tiempo](https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC) | 4:09 |
 | 22 | [Rotos](https://open.spotify.com/track/5lnj71eABvEXkCcslEgZ90) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Buitres & Co.](https://open.spotify.com/album/0vWBiSLqLV03kUnvrGhi1q) | 3:45 |
-| 23 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
-| 24 | [Óyeme Bien](https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Óyeme Bien](https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2) | 3:49 |
+| 23 | [Óyeme Bien](https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Óyeme Bien](https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2) | 3:49 |
+| 24 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
 | 25 | [muero x ti](https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [muero x ti](https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4) | 3:57 |
 | 26 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 27 | [Bajo las Luces](https://open.spotify.com/track/53cRE3WlbO3mH0f9npC1FP) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Bajo las Luces](https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC) | 3:32 |
-| 28 | [NQP \(No Quiero Parar\)](https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2) | [Dan.co](https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X) | [NQP \(No Quiero Parar\)](https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW) | 3:02 |
-| 29 | [Funky Fiesta](https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Cheo Pardo](https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:20 |
+| 28 | [Funky Fiesta](https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Cheo Pardo](https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:20 |
+| 29 | [NQP \(No Quiero Parar\)](https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2) | [Dan.co](https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X) | [NQP \(No Quiero Parar\)](https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW) | 3:02 |
 | 30 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 |
 | 31 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 |
 | 32 | [Lentes Negros](https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK) | [Primavera Club](https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG) | [Dorama](https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm) | 4:50 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 38 | [Pequeñines](https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W), [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w) | [Pequeñines](https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX) | 3:47 |
 | 39 | [Asturión](https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ) | [Cocofunka](https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD) | [CAMALOVE](https://open.spotify.com/album/7jJijowxod92mie0y9XAj7) | 4:14 |
 | 40 | [Rompecabezas](https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC) | 5:32 |
-| 41 | [Big Night](https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Big Night](https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w) | 3:15 |
-| 42 | [Añejo](https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:35 |
+| 41 | [Añejo](https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:35 |
+| 42 | [Big Night](https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Big Night](https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w) | 3:15 |
 | 43 | [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 |
 | 44 | [No Puedo Parar](https://open.spotify.com/track/18jJegd092oIkvSWiezdW3) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Fino](https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl) | 4:03 |
 | 45 | [Midnight Caller](https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Youth Attraction](https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC) | 5:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 49 | [nuncatevayasnunca](https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut) | [Floridablanca](https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp) | [Hay frases que sólo escuchamos de noche](https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS) | 3:57 |
 | 50 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
 
-Snapshot ID: `MTY3OTAxNDY1NiwwMDAwMDAwMDY3MjU3MzdiMjM5MzJmNWJlZmJlZjA4NjNhYjZmNzU4`
+Snapshot ID: `MTY3OTAxNDY1NiwwMDAwMDAwMGRiNTg0ZTYxNzc4MGI2ZDI5ZTM0YTUxOWJhOTg3YTEz`

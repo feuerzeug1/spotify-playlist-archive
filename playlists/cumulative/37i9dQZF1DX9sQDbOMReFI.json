@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 294266,
       "name": "Late Night Hype",
       "url": "https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx"
@@ -1508,6 +1508,24 @@
       "duration_ms": 196466,
       "name": "More Than A Player",
       "url": "https://open.spotify.com/track/3dEOHQ7KHzgBSStXvj6Df1"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218186,
+      "name": "Murder Was The Case",
+      "url": "https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu"
     },
     {
       "album": {

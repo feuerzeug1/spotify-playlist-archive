@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 247212,
+  "num_followers": 247274,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDViYzBiMGYxODRkNGU4YzM4OTUyYTE1MWVhMzRiNWM0",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDM2MTljNGQ2ZTcxZDU4NzQ0OTc4YzZmNzZiNjc2MDFh",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+        "name": "July (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+      "duration_ms": 152280,
+      "name": "July (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -335,22 +339,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "July (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 152280,
-      "name": "July (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2023-03-10 05:00:00",

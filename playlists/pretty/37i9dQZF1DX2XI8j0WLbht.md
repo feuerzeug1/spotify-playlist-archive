@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,814 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,876 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 76 | [El Chico de Mi Rosal](https://open.spotify.com/track/67OKXj9tIZutfy8cg3od5k) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:39 |
 | 77 | [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 |
 | 78 | [Aguanieve](https://open.spotify.com/track/0UxWsiffUoloR5OwAtNwjw) | [Leonardo Prieto](https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc) | [Aguanieve](https://open.spotify.com/album/1bJ4D0bCiX8U5FE0D3H0gy) | 7:53 |
-| 79 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 |
+| 79 | [Mezcal](https://open.spotify.com/track/0taw82ovKIdw6kIVdhhVWE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3yRXQ2hZhMonFkkrNeK5sS) | 3:52 |
 | 80 | [Algo tiene que estar mal](https://open.spotify.com/track/27YjMWjTzP09QVrkMIfFgX) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Algo tiene que estar mal](https://open.spotify.com/album/7rnNcAe5fUOj9JbneWRbaa) | 4:19 |
 | 81 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 |
 | 82 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 99 | [La Canícula](https://open.spotify.com/track/5kQ2OzJ6OJZgkc3u7P65ey) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Canícula](https://open.spotify.com/album/5fw1tmc1GBEunY8wjXgGBA) | 3:07 |
 | 100 | [Eso](https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Eso](https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W) | 4:02 |
 
-Snapshot ID: `MTY3Nzg2MzM0MSwwMDAwMDAwMGMwYWE3ZDU1YmZlODlmZmVmNzNjN2ZjN2Y1MjdkMThi`
+Snapshot ID: `MTY3Nzg2MzM0MSwwMDAwMDAwMDlkZjM1YzNjY2MwMGY1ODAyZmEzZDdkYjhkMGE5OTdk`

@@ -4,7 +4,7 @@
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: NMIXX\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-4,569 songs - 11 day 0 hr 54 min
+4,570 songs - 11 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2859,7 +2859,8 @@
 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 | 2022-07-13 | 2022-07-28 |
 | [Outlaw Zone \(Feat\. Yumdda, RB NINE & YLN Foreign\)](https://open.spotify.com/track/2k4pZDSiyidi8HwHnbVtME) | [Choo](https://open.spotify.com/artist/6hAqtKCaOISAG24LhlNqdr), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Abbotsford](https://open.spotify.com/album/5kSemw15EKzzRDLVNlqeue) | 3:12 | 2022-04-19 | 2022-04-23 |
 | [Ouu Ouu](https://open.spotify.com/track/0OXfreKm4ZITn1vCcZLlo7) | [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:24 | 2022-04-19 | 2022-05-03 |
-| [ouu weeeeeee](https://open.spotify.com/track/3y0IgO0UXVS2tOXBwlEYo7) | [lil thunder](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW) | [Demon girl](https://open.spotify.com/album/4GT0c9mZjRJsD7SuTHFl1I) | 2:18 | 2023-03-13 |  |
+| [ouu weeeeeee](https://open.spotify.com/track/2EjpgnLNcREqUCBcWNU9OA) | [lil thunder](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW) | [Demon girl](https://open.spotify.com/album/3FE3HYVNQo4l5wQi3Q2uMk) | 2:18 | 2023-03-17 |  |
+| [ouu weeeeeee](https://open.spotify.com/track/3y0IgO0UXVS2tOXBwlEYo7) | [lil thunder](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW) | [Demon girl](https://open.spotify.com/album/4GT0c9mZjRJsD7SuTHFl1I) | 2:18 | 2023-03-13 | 2023-03-19 |
 | [Over That](https://open.spotify.com/track/7A4ZnRRrvnkpxENPHkGdEN) | [ROCKY](https://open.spotify.com/artist/4EqyJYhsMeyzJLdQNlRMef) | [Broke Rookie Star \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6s1yABIimFcJMLabEc4huW) | 3:30 | 2022-05-22 | 2022-06-10 |
 | [Over You](https://open.spotify.com/track/6w4hZ9LHM2m1xHqnPvrDPk) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [Over You](https://open.spotify.com/album/1WuXGnoEW3POjOwzaO3We2) | 3:15 | 2022-05-22 | 2022-06-10 |
 | [over you](https://open.spotify.com/track/61433ZY1sgJDjhAEy2WvNu) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [over you](https://open.spotify.com/album/5luARthI9NAWcLRo03wXMS) | 2:56 | 2022-06-16 | 2022-06-24 |

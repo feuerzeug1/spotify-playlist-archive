@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,151 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,218 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 18 | [Murió La Flor](https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 3:22 |
 | 19 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
 | 20 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
-| 21 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
-| 22 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 |
+| 21 | [Mediterraneo](https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:25 |
+| 22 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 23 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 |
 | 24 | [Adoro](https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:21 |
 | 25 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 38 | [El Nazareno](https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 5:39 |
 | 39 | [Un Gato en la Oscuridad \- Un Gato en Blu](https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 4:03 |
 | 40 | [Rasguña las Piedras](https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 3:11 |
-| 41 | [Te Tuve Y Te Perdí](https://open.spotify.com/track/1kLVCrHGL5xX8QgGkXa2N0) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Te Tuve Y Te Perdí](https://open.spotify.com/album/7v5b8xqXgv2JUJrTjaJrh5) | 2:38 |
-| 42 | [Linda](https://open.spotify.com/track/5xUq5PLTPA7CTlAXihrxSD) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Linda](https://open.spotify.com/album/0Sa8iYYa4GrOmEQ2krwnTq) | 3:49 |
+| 41 | [Linda](https://open.spotify.com/track/5xUq5PLTPA7CTlAXihrxSD) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Linda](https://open.spotify.com/album/0Sa8iYYa4GrOmEQ2krwnTq) | 3:49 |
+| 42 | [Te Tuve Y Te Perdí](https://open.spotify.com/track/1kLVCrHGL5xX8QgGkXa2N0) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Te Tuve Y Te Perdí](https://open.spotify.com/album/7v5b8xqXgv2JUJrTjaJrh5) | 2:38 |
 | 43 | [Ese Hombre](https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:11 |
 | 44 | [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:31 |
 | 45 | [No Tengo Dinero](https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 3:06 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 89 | [Por Creer en Ti](https://open.spotify.com/track/4rwhcZ5qKOae4CGp78LSjG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 Éxitos](https://open.spotify.com/album/3sMYq7e2hCexGBrFA73dS7) | 2:01 |
 | 90 | [Lágrimas y Lluvia](https://open.spotify.com/track/3rMg1HEQFyLnZBJTAmKd7o) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:59 |
 
-Snapshot ID: `MTY3NjY2NzU3MSwwMDAwMDAwMDQ2YjE0M2E2OTkyM2VlNTBiMjMxNTAxZmU4ZTQ0NGI2`
+Snapshot ID: `MTY3NjY2NzU3MSwwMDAwMDAwMDYxN2U4MjgxN2VmOGY3ZjNhZjEzYzFkOGI1MTNkOGJh`

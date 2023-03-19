@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,721 likes - 17 songs - 59 min 51 sec
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,724 likes - 17 songs - 59 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 8 | [Believe In Music](https://open.spotify.com/track/3xZcJMwrpm65gGTfA3ngL1) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Believe In Music](https://open.spotify.com/album/0Ylixg5nZtbN9HCeRdxb3n) | 3:08 |
 | 9 | [Mantra](https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Mantra](https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe) | 3:21 |
 | 10 | [How it is \- Subshift Remix](https://open.spotify.com/track/0Hfss4Bbjukqm44GRxsJvF) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Don Malaa – After Hours](https://open.spotify.com/album/2Cbwm5jHgXBW2KrKtGiCVY) | 4:51 |
-| 11 | [Badman \- Local Singles Remix](https://open.spotify.com/track/1vNLe8YOY2YGcqbLiLG45a) | [Eldeanyo](https://open.spotify.com/artist/3EkEijMYyNbjtWkzClnMbd) | [Badman \(Local Singles Remix\)](https://open.spotify.com/album/5MAsDqZnXGDPxkf55c0UDo) | 3:13 |
+| 11 | [Badman \- Local Singles Remix](https://open.spotify.com/track/1vNLe8YOY2YGcqbLiLG45a) | [Eldeanyo](https://open.spotify.com/artist/3EkEijMYyNbjtWkzClnMbd), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Badman \(Local Singles Remix\)](https://open.spotify.com/album/5MAsDqZnXGDPxkf55c0UDo) | 3:13 |
 | 12 | [El Amor](https://open.spotify.com/track/26LoKxqANCxvLm0Kci5hQR) | [DOUG!](https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [El Amor](https://open.spotify.com/album/7F1GCP5HnR0QRSd67H0nzH) | 3:29 |
 | 13 | [In The Dark \- AIMMIA Remix](https://open.spotify.com/track/2yRsW0gmoWU2vmWLNryoDm) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [AIMMIA](https://open.spotify.com/artist/3ORadKGfvLXgYQ8xv5D2jV) | [In The Dark \(Remixes\)](https://open.spotify.com/album/1diiV6GiJOftAXHzgL7uy7) | 3:45 |
 | 14 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |

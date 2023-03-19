@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,634 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,193 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 61 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 |
 | 62 | [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 |
 | 63 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 |
-| 64 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 |
-| 65 | [Haven \- feat\. Hana Hope](https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Haven \(feat\. Hana Hope\)](https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9) | 3:16 |
+| 64 | [Haven \- feat\. Hana Hope](https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Haven \(feat\. Hana Hope\)](https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9) | 3:16 |
+| 65 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 |
 | 66 | [Eyes](https://open.spotify.com/track/5hztfJs7VAjS4c4IWc3lZc) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Eyes](https://open.spotify.com/album/2VSREGDOr59t7uOXZ8B7s7) | 2:50 |
 | 67 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100) | 3:14 |
 | 68 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 85 | [Roll](https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F) | 3:35 |
 | 86 | [祈り](https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6) | 3:37 |
 | 87 | [Lonely](https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Yonawo House](https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX) | 3:31 |
-| 88 | [LaLaLa](https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [LaLaLa](https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL) | 2:55 |
+| 88 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 |
 | 89 | [REFERENCE \- Original Mix](https://open.spotify.com/track/67MF4RXq1oFbZMCVm65Xf3) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [KRICK](https://open.spotify.com/artist/4vD5wi2rLVnQoXKspx48x2) | [REFERENCES \- EP](https://open.spotify.com/album/5ISqyDSGXcR83zToqysegL) | 4:34 |
-| 90 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 |
-| 91 | [骨まで愛して](https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [骨まで愛して](https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0) | 3:26 |
+| 90 | [骨まで愛して](https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [骨まで愛して](https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0) | 3:26 |
+| 91 | [LaLaLa](https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [LaLaLa](https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL) | 2:55 |
 | 92 | [Sweet Sticky Thing\(feat\. mabanua, さらさ\)](https://open.spotify.com/track/1zyxIRfVUbmGO7wqDBstJE) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Sweet Sticky Thing\(feat\. mabanua, さらさ\)](https://open.spotify.com/album/30Yo1lmnPPt7egHTk6kIqR) | 4:20 |
 | 93 | [Moon Prison](https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Moon Prison](https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE) | 2:45 |
 | 94 | [GOOD GAME](https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [GOOD GAME](https://open.spotify.com/album/0bjtXbZa2wuFABI2UiTlTc) | 3:19 |
 | 95 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 |
-| 96 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 |
-| 97 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 |
+| 96 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 |
+| 97 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 |
 | 98 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 |
 | 99 | [Cinderella](https://open.spotify.com/track/3X5C1Q3V5dIsIKq2Duj0PK) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/5OSFxPHnLpbNav9WmFU9VK) | 4:35 |
 | 100 | [offshore](https://open.spotify.com/track/6sXJHN2YrlEtmhgXyjDp7u) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [offshore](https://open.spotify.com/album/2FYMP9FOs7du0tHHFFpwyt) | 8:04 |
 
-Snapshot ID: `MTY3ODk3ODgwMCwwMDAwMDAwMDRmZDJlZmY3ZmQzZjM5NTZkYzM2MjljN2MwZGFjNWYx`
+Snapshot ID: `MTY3ODk3ODgwMCwwMDAwMDAwMGUzZjIzMDE4N2VkNjJhZDE3ZmY3ZGY5YmE3ZmQxMDdk`

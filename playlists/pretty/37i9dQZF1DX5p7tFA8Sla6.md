@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,431 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,453 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 49 | [Miss Madison](https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 3:30 |
 | 50 | [Funk Ain't Ova](https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 3:51 |
 | 51 | [Highly Compatible](https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 6:05 |
-| 52 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
+| 52 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 |
 | 53 | [Head](https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO) | 4:45 |
-| 54 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 |
+| 54 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
 | 55 | [Slippery When Wet](https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 3:17 |
 | 56 | [Boogie Witcha, Baby](https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy) | [Larry Graham & Graham Central Station](https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5) | [My Radio Sure Sounds Good To Me](https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq) | 3:47 |
 | 57 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 82 | [Got Me Funked Up](https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [The Deep End](https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29) | 3:32 |
 | 83 | [Water](https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Reggie Watkins](https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z), [carlos sosa](https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL), [Fernanco Castillo](https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:33 |
 | 84 | [Miss Mess](https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV), [Iwan VanHetten](https://open.spotify.com/artist/2aeUMFKtymkdC7J7ZH30WY) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 5:32 |
-| 85 | [Liar](https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Circle](https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl) | 4:31 |
-| 86 | [Back to the Funkture](https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O) | [Alissia](https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO) | [Back to the Funkture](https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz) | 4:01 |
+| 85 | [Back to the Funkture](https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O) | [Alissia](https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO) | [Back to the Funkture](https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz) | 4:01 |
+| 86 | [Liar](https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Circle](https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl) | 4:31 |
 | 87 | [Superstatic](https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Life In The City](https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio) | 4:05 |
 | 88 | [Losin' Streak \(feat\. Daniel Merriweather\)](https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Vs.](https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY) | 3:44 |
 | 89 | [Let's Take a Ride](https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Funk!](https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf) | 3:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 97 | [Jurassic Funk](https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:19 |
 | 98 | [Pocket \(Radio Edit\)](https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed) | [The Lionyls](https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU) | [Pocket \(Radio Edit\)](https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q) | 3:47 |
 | 99 | [Mindblastin'](https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [Mindblastin'](https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy) | 4:21 |
-| 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
+| 100 | [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 |
 
-Snapshot ID: `MTYzODkwNDkzOSwwMDAwMDAwMGUyZWRhMDBhYWM0NDI5MTAzMjE4M2UxOWZlYzc4ZWNm`
+Snapshot ID: `MTYzODkwNDkzOSwwMDAwMDAwMDlmZmJlZjBkNGRlYWM4Yjk1NGRiMDI5MzI5Njk3NzUx`

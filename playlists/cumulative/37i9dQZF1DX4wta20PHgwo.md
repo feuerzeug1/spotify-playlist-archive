@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-328 songs - 1 day 6 hr 28 min
+329 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Avec le temps](https://open.spotify.com/track/5uBpbSDljWMFtKxMYHsmpY) | [Giovanni Guidi](https://open.spotify.com/artist/0VAje6P3IhEGip401fqMAY) | [Avec le temps](https://open.spotify.com/album/5fdgxokqyJvryTNsva6nwr) | 6:33 | 2020-05-02\* | 2022-11-13 |
 | [Average](https://open.spotify.com/track/229ZWFvNqnE1dEgVbBLCVB) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Rainbow Sign](https://open.spotify.com/album/38R6cFBDMpVGvwx7Vuz4D5) | 11:12 | 2022-03-10 | 2022-11-16 |
 | [Azalea](https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7) | [Playing The Room](https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US) | 3:41 | 2020-05-02\* | 2022-10-08 |
+| [Balanced](https://open.spotify.com/track/3mFKpIwPki7CWYrt66vxD6) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Balanced](https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ) | 8:32 | 2023-03-16 |  |
 | [Ballad Of The Sad Young Men](https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4) | [Marcin Wasilewski](https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF), [Slawomir Kurkiewicz](https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR), [Michal Miskiewicz](https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT) | [Faithful](https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2) | 5:29 | 2021-02-17 |  |
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 |  |
 | [Before I Go](https://open.spotify.com/track/4GjFlTH2UmREIYxcux8Ovh) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Cloud 10](https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun) | 6:05 | 2022-09-08 | 2022-12-21 |
@@ -216,7 +217,7 @@
 | [Part VIII \- Live](https://open.spotify.com/track/2JRTt8P8Orx1iSQS8t0DA3) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Part VIII \(Live\)](https://open.spotify.com/album/45UxbVT9bQtR6LvPFFqxWo) | 5:18 | 2020-12-04 | 2022-10-08 |
 | [Perfectly Unhappy](https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:41 | 2022-04-28 | 2022-10-08 |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-03-10 | 2022-06-23 |
-| [Prelude](https://open.spotify.com/track/3nt2gUt7V9Z01aAljXZip2) | [Jacob Roved Quintet](https://open.spotify.com/artist/7GtNzyMUm0JLoKs8XrxqCB), [Jacob Roved](https://open.spotify.com/artist/4NuB9MixMoBdiyfcifI9A7) | [Dawn](https://open.spotify.com/album/6oPbbOKJyk9plm5gyA4psH) | 2:21 | 2022-09-06 |  |
+| [Prelude](https://open.spotify.com/track/3nt2gUt7V9Z01aAljXZip2) | [Jacob Roved Quintet](https://open.spotify.com/artist/7GtNzyMUm0JLoKs8XrxqCB), [Jacob Roved](https://open.spotify.com/artist/4NuB9MixMoBdiyfcifI9A7) | [Dawn](https://open.spotify.com/album/6oPbbOKJyk9plm5gyA4psH) | 2:21 | 2022-09-06 | 2023-03-19 |
 | [Procession](https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:30 | 2022-01-27 |  |
 | [Queen B](https://open.spotify.com/track/6fzf7eqYOoL7vnvckc7JqM) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [QUIVER](https://open.spotify.com/album/0lznYmFpKh6rskuyqrEwXk) | 6:27 | 2021-05-14 | 2021-09-07 |
 | [Quiet Corner](https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6) | [Shalosh](https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX) | [Broken Balance](https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb) | 2:40 | 2020-12-04 | 2022-12-26 |

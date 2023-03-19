@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,346 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,353 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 5 | [Desire](https://open.spotify.com/track/5vuOY89Toj7pBC2YhLG8rX) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Desire](https://open.spotify.com/album/351qO6P8FcABXFsYPUfdDf) | 4:58 |
 | 6 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 |
 | 7 | [Big Grey Boxes](https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [Big Grey Boxes](https://open.spotify.com/album/3yRIBEQNXCCikZuuHSYprK) | 4:19 |
-| 8 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
-| 9 | [LOVE YOU SO](https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Love You So](https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55) | 3:14 |
-| 10 | [Wild Palomino](https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:18 |
+| 8 | [Wild Palomino](https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:18 |
+| 9 | [Love you so](https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Love you so](https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55) | 3:14 |
+| 10 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
 | 11 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 |
 | 12 | [Bittersweet](https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl) | [Rich McFeather](https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm) | [Bittersweet](https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb) | 3:35 |
 | 13 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Burlesque Desert Window](https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Burlesque Desert Window](https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4) | 2:59 |
 | 50 | [The Longest Journey](https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx) | 3:48 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDBlZTNhMjNlNzg3NWVhMDk1OWE4YjRmNzVkZTgyZTIx`
+Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMGFmN2RkYTdjNDA1YjgxZjJhNzllZDViYjMyNzY5Y2My`

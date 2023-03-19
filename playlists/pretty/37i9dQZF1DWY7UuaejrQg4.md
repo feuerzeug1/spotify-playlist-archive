@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,432 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,466 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 31 | [summer depression](https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR) | 2:31 |
 | 32 | [Lemon Boy](https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 4:32 |
 | 33 | [TOOTIMETOOTIMETOOTIME](https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:27 |
-| 34 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 |
-| 35 | [Casio](https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:54 |
+| 34 | [Casio](https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:54 |
+| 35 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 |
 | 36 | [Tranz](https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 2:42 |
 | 37 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 |
 | 38 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 90 | [I Can't Stand It](https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 2:57 |
 | 91 | [Star Treatment](https://open.spotify.com/track/0FgNSsaSZTvbLXUumSO8LQ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp) | 5:54 |
 | 92 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
-| 93 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 |
-| 94 | [Forever](https://open.spotify.com/track/5VJJE6CH2Re3GCcOuubmIB) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:44 |
+| 93 | [Forever](https://open.spotify.com/track/5VJJE6CH2Re3GCcOuubmIB) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:44 |
+| 94 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 |
 | 95 | [Set to Attack](https://open.spotify.com/track/7sI80PK0P3tDCvULKszqzL) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Francis Trouble](https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp) | 3:28 |
 | 96 | [Calm](https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Calm](https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L) | 3:28 |
 | 97 | [The Reason](https://open.spotify.com/track/41nihGw6vE5iB5SjdyzadQ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sleeping with Roses](https://open.spotify.com/album/1wgg1RCgP9dCaCKnnwpQOW) | 3:04 |
 | 98 | [Heat Wave](https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 5:08 |
 | 99 | [Better](https://open.spotify.com/track/32T61xmNSIXhGkEszzs0t8) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Better \(SG Lewis x Clairo\)](https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd) | 3:13 |
-| 100 | [Miracle](https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:08 |
+| 100 | [Cheetah Tongue](https://open.spotify.com/track/0Pa1cE18FyJqPNQZSeCl0c) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi) | 3:39 |
 
-Snapshot ID: `MTY0Njc1MjAyNiwwMDAwMDAwMGVkYjk1N2ZlNWJhZDkyNjNmYTBkMTVkYWVhZDE1NTEz`
+Snapshot ID: `MTY0Njc1MjAyNiwwMDAwMDAwMDhhMDE2ZDYwNGM4YzIzYzI5YjlmNjI5Y2E4MDI1OWEy`

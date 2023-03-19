@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 233202,
+  "num_followers": 233656,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMDZkMzI3MzE1OGI5MjI0OTEzOWQ5ZTFmM2QxNTA3YzY2",
+  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMDBlY2FhYTBlYTUwMDZhMjk0NmM3ODY0MWMyMjY3YmM2",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Hideaway / That Look - Single",
-        "url": "https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk"
-      },
-      "artists": [
-        {
-          "name": "De'Lacy",
-          "url": "https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Hideaway - Deep Dish Radio Edit",
-      "url": "https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Boss Drum",
         "url": "https://open.spotify.com/album/0F9CFeVQEAcmbYNqZzWt9W"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 375693,
       "name": "Ebeneezar Goode - Beatmasters Mix",
       "url": "https://open.spotify.com/track/2w6c7A9bfstvqCVOCF6UmV"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Hideaway / That Look - Single",
+        "url": "https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk"
+      },
+      "artists": [
+        {
+          "name": "De'Lacy",
+          "url": "https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Hideaway - Deep Dish Radio Edit",
+      "url": "https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X"
     },
     {
       "added_at": "2021-09-17 08:34:50",

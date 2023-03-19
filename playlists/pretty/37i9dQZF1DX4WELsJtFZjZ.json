@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 639455,
+  "num_followers": 640298,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM0ODAzOCwwMDAwMDAwMGNkZGY2ZDhkYTdjM2I5NWM1NzQ4MmM4ZmE5MTg1ZmEz",
+  "snapshot_id": "MTY3ODM0ODAzOCwwMDAwMDAwMGFkYjI1YTJiMzkyMzcyYjM2MzcyMWNmN2IyMWJkNGI4",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Chicago 17 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "You're the Inspiration - 2006 Remaster",
-      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Chicago 17 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "You're the Inspiration - 2006 Remaster",
+      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "No Brakes",
-        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
       "artists": [
         {
-          "name": "John Waite",
-          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
+      "duration_ms": 354880,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "John Waite",
+          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
         }
       ],
-      "duration_ms": 354880,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
+      "duration_ms": 269760,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "I'll Be Over You",
-      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Double Fantasy: Stripped Down",
         "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 212933,
       "name": "Woman - Remastered 2010",
       "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Winelight",
-        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 443773,
-      "name": "Just the Two of Us",
-      "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Winelight",
+        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 443773,
+      "name": "Just the Two of Us",
+      "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "From Time To Time - The Singles Collection",
         "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Woman in Love",
-      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Heart Break",
-        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
+        "name": "Jeffrey Osborne",
+        "url": "https://open.spotify.com/album/0Z4d4VItwYl3FavOak829u"
       },
       "artists": [
         {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+          "name": "Jeffrey Osborne",
+          "url": "https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK"
         }
       ],
-      "duration_ms": 297706,
-      "name": "Can You Stand The Rain",
-      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
+      "duration_ms": 241760,
+      "name": "On The Wings Of Love",
+      "url": "https://open.spotify.com/track/6AEdWbrFREOUNmI1hMPbyc"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Heart Break",
+        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 297706,
+      "name": "Can You Stand The Rain",
+      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 246040,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Jeffrey Osborne",
-        "url": "https://open.spotify.com/album/0Z4d4VItwYl3FavOak829u"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Osborne",
-          "url": "https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "On The Wings Of Love",
-      "url": "https://open.spotify.com/track/6AEdWbrFREOUNmI1hMPbyc"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "I've Never Been To Me",
-        "url": "https://open.spotify.com/album/7rXwVP5P5mfUQUTYYD6Jza"
-      },
-      "artists": [
-        {
-          "name": "Charlene",
-          "url": "https://open.spotify.com/artist/52o9SO5Qt09Vr9bDCbTbmu"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "I've Never Been To Me",
-      "url": "https://open.spotify.com/track/6DMOzL2zPZBAW0LDYCYLWm"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Ammonia Avenue (Expanded Edition)",
         "url": "https://open.spotify.com/album/0RuvKbx3Zwa1LDkL9uEuTX"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 251853,
       "name": "Don't Answer Me",
       "url": "https://open.spotify.com/track/3IeVrRu0jOlwOkTwD9AykT"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "I've Never Been To Me",
+        "url": "https://open.spotify.com/album/7rXwVP5P5mfUQUTYYD6Jza"
+      },
+      "artists": [
+        {
+          "name": "Charlene",
+          "url": "https://open.spotify.com/artist/52o9SO5Qt09Vr9bDCbTbmu"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "I've Never Been To Me",
+      "url": "https://open.spotify.com/track/6DMOzL2zPZBAW0LDYCYLWm"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2247,6 +2247,22 @@
       "duration_ms": 258901,
       "name": "It Might Be You",
       "url": "https://open.spotify.com/track/2Qmx8W62PEz88T7cGjHDug"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Black & White (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2287,6 +2303,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "The End Of The Innocence",
         "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
@@ -2315,38 +2347,6 @@
       "duration_ms": 270133,
       "name": "Turn Back The Clock",
       "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Black & White (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
     },
     {
       "added_at": "2023-01-24 23:00:00",

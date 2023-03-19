@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,413 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,438 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 47 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
 | 48 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
 | 49 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
-| 50 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
+| 50 | [Viaje Andino](https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M) | [Paulopulus](https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo), [Juan Luis Pereira](https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40) | [Viaje de Mixturas](https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA) | 4:06 |
 
-Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMGRjYTg1MjFkZDE1ZjhkYThjMjc5M2MzNzVmZDQ5YThl`
+Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMGRmNjdiZTMwOTk3NGRiYzE0YWRmNmYyMmVkZDNiZTYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: DOK2, Blase, Black nut, Jimmy Page, Smugglers\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,503 likes - 136 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,514 likes - 136 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 8 | [FREAKY \(Prod\. hyeminsong\)](https://open.spotify.com/track/44SqDRR0kHV6h4jYJ8q5sm) | [AP Alchemy](https://open.spotify.com/artist/6lJCpS9H1iVfMT6W0HkDRO) | [FREAKY \(Prod\. hyeminsong\)](https://open.spotify.com/album/0JSuPMHCACEmPOF9tv0Lwj) | 7:09 |
 | 9 | [Bitchy](https://open.spotify.com/track/0RbG4Av6fT3V2VxrPBWtLH) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 1:51 |
 | 10 | [Survival Of The Fittest \(Prod\. By mil house\)](https://open.spotify.com/track/4ALx76Q5mn6Q6o8v3W1fPa) | [AP Alchemy](https://open.spotify.com/artist/6lJCpS9H1iVfMT6W0HkDRO) | [Survival Of The Fittest \(Prod\. By mil house\)](https://open.spotify.com/album/4jj4I54uEKaFnOmG6fYInr) | 4:35 |
-| 11 | [Sensei season 1](https://open.spotify.com/track/0pRlrqpg3TDfwtlUanEAz1) | [SILKYBOIS](https://open.spotify.com/artist/19e5d7VkNQCFklPG8Iqdy5) | [THE JAB PACK Pt\. 1](https://open.spotify.com/album/62jrUkd4yvBlazYp5UvyJz) | 2:51 |
+| 11 | [senseiseason](https://open.spotify.com/track/0pRlrqpg3TDfwtlUanEAz1) | [SILKYBOIS](https://open.spotify.com/artist/19e5d7VkNQCFklPG8Iqdy5) | [THE JAB PACK Pt\. 1](https://open.spotify.com/album/62jrUkd4yvBlazYp5UvyJz) | 2:51 |
 | 12 | [YG \- Spotify Singles](https://open.spotify.com/track/0QeZDFhBQGIrFgkmaIEko9) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Spotify Singles](https://open.spotify.com/album/0PAZM8z8Xa56Lmp0DZzTSp) | 3:09 |
 | 13 | [Young Boy \(Feat\. oygli\)](https://open.spotify.com/track/47QBxoKfR7WCXdJbkcGE2G) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [Trapstar Lifestyle](https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY) | 3:12 |
 | 14 | [YnR Shit](https://open.spotify.com/track/5eVFmgEEGG673mkRYGc2u8) | [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [YNR VS ALL](https://open.spotify.com/album/2K65RodurSpx5oPT94nG9b) | 4:16 |

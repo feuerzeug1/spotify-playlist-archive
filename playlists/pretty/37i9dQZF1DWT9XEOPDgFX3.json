@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: hey, nothing",
-  "num_followers": 62507,
+  "num_followers": 62583,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGIzM2RmNDJkZjljMGFhMzI4NWU1NjJlMzEyYTFlNThm",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDZjYTI0OTBhMGU1Yjk4NGQzOWFiMjA4MGI0MTM5MWI1",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "I'm Not Like Alice",
-        "url": "https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL"
+        "name": "to Perth, before the border closes",
+        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
       },
       "artists": [
         {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 136153,
-      "name": "I'm Not Like Alice",
-      "url": "https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5"
+      "duration_ms": 176733,
+      "name": "to Perth, before the border closes",
+      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "to Perth, before the border closes",
-        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
+        "name": "I'm Not Like Alice",
+        "url": "https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
         }
       ],
-      "duration_ms": 176733,
-      "name": "to Perth, before the border closes",
-      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
+      "duration_ms": 136153,
+      "name": "I'm Not Like Alice",
+      "url": "https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Vanilla Sky",
+        "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "King Street",
+      "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Vanilla Sky",
-        "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "King Street",
-      "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Dibujos De Mi Alma",
-        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 252574,
-      "name": "Dibujos De Mi Alma",
-      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Tell Me What You Want",
         "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 242186,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Dibujos De Mi Alma",
+        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 252574,
+      "name": "Dibujos De Mi Alma",
+      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
-      },
-      "artists": [
-        {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Forever Turned Around",
         "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 190466,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -979,18 +995,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+        "name": "squirrel song",
+        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
       },
       "artists": [
         {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
         }
       ],
-      "duration_ms": 246666,
-      "name": "Everything I had",
-      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
+      "duration_ms": 108794,
+      "name": "squirrel song",
+      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "squirrel song",
-        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
       "artists": [
         {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
         }
       ],
-      "duration_ms": 108794,
-      "name": "squirrel song",
-      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
+      "duration_ms": 246666,
+      "name": "Everything I had",
+      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1048,8 +1064,8 @@
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "Dexter in the Newsagent",
+          "url": "https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp"
         }
       ],
       "duration_ms": 135338,
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Song for Nick Drake",
         "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Bad girl",
+      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Deep Routed",
         "url": "https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD"
       },
@@ -1403,6 +1403,38 @@
       "duration_ms": 226699,
       "name": "Deep Routed",
       "url": "https://open.spotify.com/track/1SHekIQ0GuWgnFBJ8d615m"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Making You Up",
+        "url": "https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8"
+      },
+      "artists": [
+        {
+          "name": "Baseball Game",
+          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
+        }
+      ],
+      "duration_ms": 219595,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1439,38 +1471,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Salt Circle",
-        "url": "https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs"
-      },
-      "artists": [
-        {
-          "name": "Eliza McLamb",
-          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
-        }
-      ],
-      "duration_ms": 260721,
-      "name": "Salt Circle",
-      "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 290053,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Let It Be",
         "url": "https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9"
       },
@@ -1503,34 +1503,34 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Fun House",
-        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
       },
       "artists": [
         {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
         }
       ],
-      "duration_ms": 192520,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
+      "duration_ms": 290053,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
     },
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "bike again",
-        "url": "https://open.spotify.com/album/0BPzUTfIjnEmv7nIg1RRxl"
+        "name": "Salt Circle",
+        "url": "https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs"
       },
       "artists": [
         {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+          "name": "Eliza McLamb",
+          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
         }
       ],
-      "duration_ms": 184853,
-      "name": "bike again",
-      "url": "https://open.spotify.com/track/2D7pGG31lR1WNjPY4x8gEY"
+      "duration_ms": 260721,
+      "name": "Salt Circle",
+      "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1551,6 +1551,38 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "bike again",
+        "url": "https://open.spotify.com/album/0BPzUTfIjnEmv7nIg1RRxl"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "bike again",
+      "url": "https://open.spotify.com/track/2D7pGG31lR1WNjPY4x8gEY"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Fun House",
+        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1563,6 +1595,22 @@
       "duration_ms": 247258,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Greatest Part",
+        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 169257,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1583,22 +1631,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Making You Up",
-        "url": "https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8"
-      },
-      "artists": [
-        {
-          "name": "Baseball Game",
-          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
-        }
-      ],
-      "duration_ms": 219595,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -1611,22 +1643,6 @@
       "duration_ms": 281252,
       "name": "Truth Nugget",
       "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "The Greatest Part",
-        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 169257,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 327440,
-      "name": "Hard Drive",
-      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "At the Moonbase",
         "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
       },
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
       "artists": [
         {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
         }
       ],
-      "duration_ms": 215793,
-      "name": "Pick Apart",
-      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+      "duration_ms": 327440,
+      "name": "Hard Drive",
+      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1907,66 +1907,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "i only sing about food",
-        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
       "artists": [
         {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
         }
       ],
-      "duration_ms": 144586,
-      "name": "i only sing about food",
-      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/6Hfps8ijDGS0blJR1YqvZ5"
-      },
-      "artists": [
-        {
-          "name": "Lael Neale",
-          "url": "https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF"
-        }
-      ],
-      "duration_ms": 170497,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/478PwX4m7LBB6nOMFGl2U7"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "needy",
-        "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 232419,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
-      },
-      "artists": [
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 289987,
-      "name": "Homes",
-      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+      "duration_ms": 215793,
+      "name": "Pick Apart",
+      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -2003,6 +1955,70 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "needy",
+        "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 232419,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "i only sing about food",
+        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "i only sing about food",
+      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/6Hfps8ijDGS0blJR1YqvZ5"
+      },
+      "artists": [
+        {
+          "name": "Lael Neale",
+          "url": "https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF"
+        }
+      ],
+      "duration_ms": 170497,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/478PwX4m7LBB6nOMFGl2U7"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 289987,
+      "name": "Homes",
+      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Valley",
         "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 233789,
       "name": "chamomile",
       "url": "https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD"
-      },
-      "artists": [
-        {
-          "name": "j solomon",
-          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
     },
     {
       "added_at": "2023-03-17 04:00:00",

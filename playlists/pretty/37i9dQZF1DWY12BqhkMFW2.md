@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,628 likes - 35 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,753 likes - 35 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 22 | [Yearning For Your Love](https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 4:56 |
 | 23 | [Ribbon in the Sky](https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 6:22 |
 | 24 | [So Amazing](https://open.spotify.com/track/4dIlsObD9oacRCF9hJloyA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 4:10 |
-| 25 | [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 |
-| 26 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
+| 25 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
+| 26 | [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 |
 | 27 | [If Only You Knew](https://open.spotify.com/track/5G9j51Sxq2YjpNxeRkpcnJ) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [I Missed Us](https://open.spotify.com/album/11nfQrY5KJRrnqSyvR3Fn8) | 5:09 |
 | 28 | [Open Your Eyes](https://open.spotify.com/track/6zteCNciM9nCkDUa86oH3R) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Sketches Of A Man](https://open.spotify.com/album/7JmLvvLBFLczkeKOuEmeiH) | 3:21 |
 | 29 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Right And A Wrong Way](https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 5:11 |
 | 35 | [Love Don't Live Here Anymore](https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 4:17 |
 
-Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMGM4OTQwYjM4YzY5ZjEzOGNmZjViNGY2ZGFhNjEwMzA0`
+Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDQ4MzRkMDI3MmUzMmY1ZGRjZDY4ZDEzOWE0MjYyNzk1`

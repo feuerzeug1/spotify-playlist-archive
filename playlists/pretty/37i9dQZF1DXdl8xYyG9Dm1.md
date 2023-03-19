@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=fojlNFrTTAqXuhHrXxWftA"> AKA </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,078 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,166 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 61 | [Wavy \(feat\. Sarkodie\)](https://open.spotify.com/track/7mD6V6JHA0daZKOvVrBKp7) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Wavy \(feat\. Sarkodie\)](https://open.spotify.com/album/2zeHV57xWREaaxS5S3hhoB) | 4:11 |
 | 62 | [Lord Protect My Steppings](https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Love is War](https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq) | 2:01 |
 | 63 | [Midf \(Money I Dey Find\)](https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Quarantunes](https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV) | 3:40 |
-| 64 | [Long Way from Home](https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [YP & Azanti, Vol\. 1](https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK) | 3:01 |
-| 65 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
+| 64 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
+| 65 | [Long Way from Home](https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [YP & Azanti, Vol\. 1](https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK) | 3:01 |
 | 66 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 |
 | 67 | [Hmm \- Remix](https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h) | [Hmm \(Remix\)](https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb) | 3:30 |
 | 68 | [Animalistic](https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Animalistic](https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds) | 2:46 |
 | 69 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 |
 | 70 | [Romantic Rivals](https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm) | [Romantic Rivals](https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE) | 4:15 |
 
-Snapshot ID: `MTY3OTAzNjk1MSwwMDAwMDAwMDkyMDkwNDk1M2RkYmZlMzU5MGU2NTE2OGEwNTAwMTBm`
+Snapshot ID: `MTY3OTAzNjk1MSwwMDAwMDAwMDhiZGYxNzllZWExNjAwN2E3ZTZkNjAyNzgyYmQ4ZTQ0`

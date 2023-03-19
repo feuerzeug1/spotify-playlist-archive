@@ -1,6 +1,6 @@
 {
   "description": "New music from popular Hindi artists. Cover- Aditi Singh Sharma",
-  "num_followers": 19839,
+  "num_followers": 19866,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
@@ -50,6 +50,10 @@
         {
           "name": "Javed-Mohsin",
           "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
         }
       ],
       "duration_ms": 235847,

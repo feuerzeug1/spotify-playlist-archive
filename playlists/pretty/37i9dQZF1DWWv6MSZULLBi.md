@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Safia Nolin
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,883 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,876 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

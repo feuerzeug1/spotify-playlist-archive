@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ezhel",
-  "num_followers": 1197485,
+  "num_followers": 1197954,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA2Nzg3NywwMDAwMDAwMDQ0ZDU3NzFhZWNkMGI5MWNhZjVjZTQwM2I1NjNjN2Ux",
+  "snapshot_id": "MTY3OTEyNDMzNiwwMDAwMDAwMDdjMzZjNDk2OWI3Mjc2ZWQ4MDBjMTBkZGQ5OTZiYmYx",
   "tracks": [
     {
       "added_at": "2023-03-16 21:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 274959,
       "name": "Paspartu",
       "url": "https://open.spotify.com/track/0ufocYYqahx6pVSERRj4HL"
-    },
-    {
-      "added_at": "2023-03-16 21:00:00",
-      "album": {
-        "name": "VAMPIR",
-        "url": "https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 216119,
-      "name": "VAMPIR",
-      "url": "https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU"
     },
     {
       "added_at": "2023-03-16 21:00:00",
@@ -83,18 +67,18 @@
     {
       "added_at": "2023-03-16 21:00:00",
       "album": {
-        "name": "AFFETMEM",
-        "url": "https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg"
+        "name": "VAMPIR",
+        "url": "https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0"
       },
       "artists": [
         {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
         }
       ],
-      "duration_ms": 182117,
-      "name": "AFFETMEM",
-      "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
+      "duration_ms": 216119,
+      "name": "VAMPIR",
+      "url": "https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU"
     },
     {
       "added_at": "2023-03-16 21:00:00",
@@ -111,6 +95,22 @@
       "duration_ms": 159112,
       "name": "MERVE - Masada Chivas",
       "url": "https://open.spotify.com/track/1QR6XjncDYLxeYCmxPb2Ab"
+    },
+    {
+      "added_at": "2023-03-16 21:00:00",
+      "album": {
+        "name": "BAYBAY",
+        "url": "https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 191275,
+      "name": "BAYBAY",
+      "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
     },
     {
       "added_at": "2023-03-16 21:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-03-16 21:00:00",
       "album": {
-        "name": "EL CHAVO",
-        "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 171641,
-      "name": "ZOR",
-      "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"
-    },
-    {
-      "added_at": "2023-03-16 21:00:00",
-      "album": {
         "name": "\u0130MPARATOR",
         "url": "https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 124716,
       "name": "\u0130MPARATOR",
       "url": "https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa"
+    },
+    {
+      "added_at": "2023-03-16 21:00:00",
+      "album": {
+        "name": "AFFETMEM",
+        "url": "https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 182117,
+      "name": "AFFETMEM",
+      "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
     },
     {
       "added_at": "2023-03-16 21:00:00",
@@ -227,6 +227,22 @@
       "duration_ms": 149732,
       "name": "Diyardan Diyara",
       "url": "https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55"
+    },
+    {
+      "added_at": "2023-03-16 21:00:00",
+      "album": {
+        "name": "EL CHAVO",
+        "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "duration_ms": 171641,
+      "name": "ZOR",
+      "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"
     },
     {
       "added_at": "2023-03-16 21:00:00",
@@ -275,22 +291,6 @@
     {
       "added_at": "2023-03-16 21:00:00",
       "album": {
-        "name": "BAYBAY",
-        "url": "https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 191275,
-      "name": "BAYBAY",
-      "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
-    },
-    {
-      "added_at": "2023-03-16 21:00:00",
-      "album": {
         "name": "10MG",
         "url": "https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 190270,
       "name": "VUR",
       "url": "https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF"
-    },
-    {
-      "added_at": "2023-03-16 21:00:00",
-      "album": {
-        "name": "yok muydu vaktin bana?",
-        "url": "https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC"
-      },
-      "artists": [
-        {
-          "name": "G\u00fcne\u015f",
-          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "yok muydu vaktin bana?",
-      "url": "https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm"
     },
     {
       "added_at": "2023-03-16 21:00:00",
@@ -375,8 +359,8 @@
     {
       "added_at": "2023-03-16 21:00:00",
       "album": {
-        "name": "10.000 Par\u00e7a",
-        "url": "https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7"
+        "name": "yok muydu vaktin bana?",
+        "url": "https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC"
       },
       "artists": [
         {
@@ -384,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
         }
       ],
-      "duration_ms": 141570,
-      "name": "10.000 Par\u00e7a",
-      "url": "https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O"
+      "duration_ms": 187333,
+      "name": "yok muydu vaktin bana?",
+      "url": "https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm"
     },
     {
       "added_at": "2023-03-16 21:00:00",
@@ -459,6 +443,22 @@
       "duration_ms": 186407,
       "name": "KONTROL",
       "url": "https://open.spotify.com/track/6aWMgtj4rlhKjMqxYzxexi"
+    },
+    {
+      "added_at": "2023-03-16 21:00:00",
+      "album": {
+        "name": "10.000 Par\u00e7a",
+        "url": "https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "duration_ms": 141570,
+      "name": "10.000 Par\u00e7a",
+      "url": "https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O"
     },
     {
       "added_at": "2023-03-16 21:00:00",

@@ -4,7 +4,7 @@
 
 > Desde Culiacán, Sinaloa, Ozz nos comparte las rolitas que no pueden faltar a la hora de echarse un aguachile.
 
-90 songs - 4 hr 46 min
+91 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [La Gripa](https://open.spotify.com/track/2xRxYAw3XRcT1LGI0AnZuz) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:23 | 2022-01-20 |  |
 | [La Mujer del Pelotero](https://open.spotify.com/track/7CjNZMpa03xdHh6YKq1bkf) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [La Mujer del Pelotero](https://open.spotify.com/album/2ZYMElqmRsjho63sBx6q4z) | 3:28 | 2022-01-20 |  |
 | [La Playa](https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:59 | 2022-01-20 | 2022-07-29 |
-| [La Playa](https://open.spotify.com/track/7IMQ45yz4zOg1A0cBsHvCx) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Ayer, Hoy Y Siempre Con..\. Valentín Elizalde](https://open.spotify.com/album/0vkG9pqDfFB6ljZ9SFw9FM) | 3:03 | 2022-01-20 |  |
+| [La Playa](https://open.spotify.com/track/02kI6xrg3MqVgfZwjS61cc) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [ME SIENTO A TODO DAR](https://open.spotify.com/album/1TUw3pFW3N22zP7j3JqcXI) | 3:03 | 2023-01-30 |  |
+| [La Playa](https://open.spotify.com/track/7IMQ45yz4zOg1A0cBsHvCx) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Ayer, Hoy Y Siempre Con..\. Valentín Elizalde](https://open.spotify.com/album/0vkG9pqDfFB6ljZ9SFw9FM) | 3:03 | 2022-01-20 | 2023-03-19 |
 | [La Rabia](https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [El Favorito](https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4) | 3:13 | 2022-01-20 |  |
 | [La Repetidora](https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:35 | 2022-01-20 |  |
 | [Lo Que Termina En ER](https://open.spotify.com/track/73dvcR2zDiIaHSGIlMVM0r) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 2:11 | 2022-01-20 | 2023-02-01 |

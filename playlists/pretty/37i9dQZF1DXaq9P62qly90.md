@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,207 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,211 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 20 | [Harmonize](https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Leylines](https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G) | 5:07 |
 | 21 | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
 | 22 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
-| 23 | [10 Laws](https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [The Education of the Individual Soul](https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot) | 4:19 |
-| 24 | [Garden](https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:56 |
+| 23 | [Garden](https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:56 |
+| 24 | [10 Laws](https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [The Education of the Individual Soul](https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot) | 4:19 |
 | 25 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
 | 26 | [Letter to Lady J](https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Location 13 \(Deluxe Version\)](https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc) | 4:15 |
 | 27 | [Stronger \- Acoustic](https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Stronger \(Acoustic\)](https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 |
 | 50 | [Lifeguard](https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:27 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDk0NGM1ZGY5Y2YwMTI0MjAxMWZjODRlZDI1ODdiYWQx`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDYwOThkMjRhNzc1ZWZjYmYyNzFiZjIxNmFjY2VlOTZh`

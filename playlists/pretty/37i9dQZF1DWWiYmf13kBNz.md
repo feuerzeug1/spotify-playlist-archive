@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,402 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,577 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 30 | [I'm In The Mood For Love](https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:29 |
 | 31 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 |
 | 32 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
-| 33 | [Call Me Irresponsible](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
-| 34 | [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 |
+| 33 | [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 |
+| 34 | [Call Me Irresponsible](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
 | 35 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
 | 36 | [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 |
 | 37 | [Love Is Here To Stay \- Remastered 1998](https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 49 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 |
 | 50 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 |
 
-Snapshot ID: `MTY3NTk3NjAwOSwwMDAwMDAwMDMzZTA3MjJkYWNlYTRhNGUxZDUyYmY3YTg5Nzc4YzBl`
+Snapshot ID: `MTY3NTk3NjAwOSwwMDAwMDAwMGUwYzk2NDRlOTNiODdiOTUxOWU4ZDFjYmRkZWNlZDY5`

@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 174024,
+  "num_followers": 174222,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg2ODg2NywwMDAwMDAwMGQwZDcwNGQ1ODFiMDE0ZjI3ZTQ0OGIwMGRkMmQyOGQ1",
+  "snapshot_id": "MTY3ODg2ODg2NywwMDAwMDAwMDBkMzNlNDEzMjVhZDAwNDdiNmI0MzAxZTlhNzVmNWQ5",
   "tracks": [
     {
       "added_at": "2023-03-15 08:27:47",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "You Better Go Now",
-        "url": "https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "You Better Go Now",
-      "url": "https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j"
-    },
-    {
-      "added_at": "2023-03-15 08:27:47",
-      "album": {
         "name": "The Touch Of Your Lips",
         "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 499533,
       "name": "The touch of your lips",
       "url": "https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P"
+    },
+    {
+      "added_at": "2023-03-15 08:27:47",
+      "album": {
+        "name": "You Better Go Now",
+        "url": "https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "You Better Go Now",
+      "url": "https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+        "name": "Ultimate Peggy Lee",
+        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 226680,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
+      "duration_ms": 150053,
+      "name": "Hallelujah, I Love Him So",
+      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "Ultimate Peggy Lee",
-        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Hallelujah, I Love Him So",
-      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
-    },
-    {
-      "added_at": "2023-03-15 08:27:47",
-      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 174280,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
+    },
+    {
+      "added_at": "2023-03-15 08:27:47",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "Sinatra's Sinatra",
+        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+      "duration_ms": 209066,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "Sinatra's Sinatra",
-        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
+        "name": "Carmen McRae For Lovers",
+        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 209066,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP"
+      "duration_ms": 229226,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "Carmen McRae For Lovers",
-        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
-    },
-    {
-      "added_at": "2023-03-15 08:27:47",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 339893,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
+    },
+    {
+      "added_at": "2023-03-15 08:27:47",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
+        "name": "Some Nice Things I've Missed",
+        "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "What Are You Doing The Rest Of Your Life?",
+      "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
+    },
+    {
+      "added_at": "2023-03-15 08:27:47",
+      "album": {
         "name": "Dinah Sings, Previn Plays",
         "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 211133,
       "name": "That's All",
       "url": "https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9"
-    },
-    {
-      "added_at": "2023-03-15 08:27:47",
-      "album": {
-        "name": "Some Nice Things I've Missed",
-        "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "What Are You Doing The Rest Of Your Life?",
-      "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 521200,
-      "name": "Let's Do It (Let's Fall In Love)",
-      "url": "https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO"
-    },
-    {
-      "added_at": "2023-03-15 08:27:47",
-      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 206986,
       "name": "I'm Confessin' (That I Love You) - Remastered",
       "url": "https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg"
+    },
+    {
+      "added_at": "2023-03-15 08:27:47",
+      "album": {
+        "name": "Ella And Louis Again",
+        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 521200,
+      "name": "Let's Do It (Let's Fall In Love)",
+      "url": "https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 150720,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
+      "duration_ms": 162000,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 162000,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
+      "duration_ms": 150720,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "Unforgettable Songs",
-        "url": "https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 133680,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh"
-    },
-    {
-      "added_at": "2023-03-15 08:27:47",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 312840,
       "name": "I'm Getting Sentimental Over You",
       "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
+    },
+    {
+      "added_at": "2023-03-15 08:27:47",
+      "album": {
+        "name": "Unforgettable Songs",
+        "url": "https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 133680,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4W2LV899ys1sJTTlu40EPh"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "So Warm",
-        "url": "https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn"
-    },
-    {
-      "added_at": "2023-03-15 08:27:47",
-      "album": {
         "name": "It's a Blue World (2015 Remastered Version)",
         "url": "https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 203773,
       "name": "You Leave Me Breathless - 2015 Remastered Version",
       "url": "https://open.spotify.com/track/3MmiQ6gww1XjbWuJXIgZ9f"
+    },
+    {
+      "added_at": "2023-03-15 08:27:47",
+      "album": {
+        "name": "So Warm",
+        "url": "https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn"
     },
     {
       "added_at": "2023-03-15 08:27:47",

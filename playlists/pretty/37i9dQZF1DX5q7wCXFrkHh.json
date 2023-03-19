@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 57169,
+  "num_followers": 57290,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg3MjA1NSwwMDAwMDAwMDNjODM0YjZiODFjZTUxYzViOGQ4MzMyMTBkYmU5NGNi",
+  "snapshot_id": "MTY3ODg3MjA1NSwwMDAwMDAwMGQ5NGQxNzU1M2VjNTM2NDEyYWVkMjg0YmRhMjJlZDg0",
   "tracks": [
     {
       "added_at": "2023-03-02 07:49:38",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-03-02 07:49:38",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 379533,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
-    },
-    {
-      "added_at": "2023-03-02 07:49:38",
-      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 340333,
       "name": "Bag's Groove",
       "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
+    },
+    {
+      "added_at": "2023-03-02 07:49:38",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 379533,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
     },
     {
       "added_at": "2023-03-02 07:49:38",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-03-02 07:49:38",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
-    },
-    {
-      "added_at": "2023-03-02 07:49:38",
-      "album": {
         "name": "Oscar Peterson Plays The Cole Porter Songbook",
         "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 150733,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/3A1NOwqErSnpNuvdeW1RHy"
+    },
+    {
+      "added_at": "2023-03-02 07:49:38",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
     },
     {
       "added_at": "2023-03-02 07:49:38",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-03-02 07:49:38",
       "album": {
-        "name": "The Shearing Piano",
-        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "On The Street Where You Live",
-      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
-    },
-    {
-      "added_at": "2023-03-02 07:49:38",
-      "album": {
         "name": "The Art Tatum Solo Masterpieces, Vol. 7",
         "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 235093,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+    },
+    {
+      "added_at": "2023-03-02 07:49:38",
+      "album": {
+        "name": "The Shearing Piano",
+        "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
     },
     {
       "added_at": "2023-03-02 07:49:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-02 07:49:38",
       "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
-    },
-    {
-      "added_at": "2023-03-02 07:49:38",
-      "album": {
         "name": "Ready Take One",
         "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 227323,
       "name": "High Wire",
       "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
+    },
+    {
+      "added_at": "2023-03-02 07:49:38",
+      "album": {
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
     },
     {
       "added_at": "2023-03-02 07:49:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-02 07:49:38",
       "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 343826,
-      "name": "Re: Person I Knew",
-      "url": "https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP"
-    },
-    {
-      "added_at": "2023-03-02 07:49:38",
-      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 301773,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C"
+    },
+    {
+      "added_at": "2023-03-02 07:49:38",
+      "album": {
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 343826,
+      "name": "Re: Person I Knew",
+      "url": "https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP"
     },
     {
       "added_at": "2023-03-02 07:49:38",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-03-02 07:49:38",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus",
-        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 318400,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa"
-    },
-    {
-      "added_at": "2023-03-02 07:49:38",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 209560,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/4JswQ5RPx2SBuU3kxxeazr"
+    },
+    {
+      "added_at": "2023-03-02 07:49:38",
+      "album": {
+        "name": "Jazz Impressions Of Black Orpheus",
+        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 318400,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa"
     },
     {
       "added_at": "2023-03-02 07:49:38",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-03-02 07:49:38",
       "album": {
-        "name": "Criss-Cross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "Rhythm-A-Ning",
-      "url": "https://open.spotify.com/track/0IbD8xojkJgwh9lLu8hoxg"
-    },
-    {
-      "added_at": "2023-03-02 07:49:38",
-      "album": {
         "name": "Mary Lou Williams Presents Black Christ of the Andes",
         "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 190680,
       "name": "My Blue Heaven",
       "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
+    },
+    {
+      "added_at": "2023-03-02 07:49:38",
+      "album": {
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Rhythm-A-Ning",
+      "url": "https://open.spotify.com/track/0IbD8xojkJgwh9lLu8hoxg"
     },
     {
       "added_at": "2023-03-02 07:49:38",

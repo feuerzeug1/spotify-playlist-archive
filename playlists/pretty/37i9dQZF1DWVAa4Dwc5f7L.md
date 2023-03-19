@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Becky G & Omega
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,472 likes - 99 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,538 likes - 99 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 21 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
 | 22 | [La Tanga](https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Internacional](https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3) | 4:27 |
 | 23 | [La Hora De Bailar](https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Sandy & Papo MC](https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88) | 4:50 |
-| 24 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
-| 25 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
+| 24 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
+| 25 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
 | 26 | [Merengue Electronico \(Rompe Consola\)](https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [El Dueño Del Flow \(Bonus Track Version\)](https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep) | 3:51 |
 | 27 | [A Pedir Su Mano](https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:55 |
 | 28 | [Tú](https://open.spotify.com/track/1fdvF8aq4sagcs8eabTjDR) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 3:53 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 36 | [Pegadito Suavecito](https://open.spotify.com/track/7FFpxe3RMrRhG63dFtgRed) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Fito Blanko](https://open.spotify.com/artist/5eYDJJfPXinVZq2mXleOSW) | [One Flag](https://open.spotify.com/album/6IDeGLzTfjld3DzSbgnSUt) | 3:46 |
 | 37 | [La Quiero a Morir](https://open.spotify.com/track/66cquyyzQVJr3XFTokrHxl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Hijos Del Rey](https://open.spotify.com/album/014dlhTlNSo8mOUN4IwWal) | 5:06 |
 | 38 | [Morena Ven](https://open.spotify.com/track/0ejCXxg1xLNengD587zpAe) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Mundialmente Sabrosos](https://open.spotify.com/album/3aGmmQS34YIRNjNPf27r39) | 4:21 |
-| 39 | [Niña Bonita \- Remastered 2020](https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \(Remastered 2020 / 10 Anniversary\)](https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam) | 3:35 |
-| 40 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
+| 39 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
+| 40 | [Niña Bonita \- Remastered 2020](https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \(Remastered 2020 / 10 Anniversary\)](https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam) | 3:35 |
 | 41 | [Mi Reina](https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [La Makina..\. A Mil](https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn) | 4:10 |
 | 42 | [La Morena](https://open.spotify.com/track/2gU7z6VLvHtrRCZvLhVehS) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Poder de New York](https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji) | 4:48 |
 | 43 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 98 | [La Pastilla](https://open.spotify.com/track/6laC9qdbtt83hHAikUpt27) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Éxitos](https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ) | 4:18 |
 | 99 | [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDMxYjdmOGY5NmFlMDFiNTFhYjk3YTgxM2U4OTNmYzFm`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDk5ZDhiODdiM2Q1NmQ5NDkyYzUxNTQzY2RiMmQwZDNj`

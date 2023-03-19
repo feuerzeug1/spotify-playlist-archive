@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-357 songs - 1 day 7 hr 4 min
+358 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 |  |
 | [Apostle](https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Apostle](https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 | 2022-11-25 | 2023-02-24 |
+| [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 |  |
 | [As Above So Below](https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN) | 4:59 | 2022-07-13 |  |
 | [As Above So Below](https://open.spotify.com/track/5T6FioXGDdd5kw4I3HpHH1) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/7FKHNF62tKyP6ejTQ1qo2m) | 5:01 | 2022-07-13 | 2022-07-29 |
 | [Atomic Chapel](https://open.spotify.com/track/5Ie3VqOrOkiBGy3jXmTUxC) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Demonoir](https://open.spotify.com/album/6oJJJgHeX9b90lz7Vvkzu4) | 6:24 | 2022-07-13 | 2022-07-25 |
@@ -294,7 +295,7 @@
 | [Svart Industriell Olycka](https://open.spotify.com/track/4eDKFcJDDoUcUYlK2cdemJ) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III : Angst](https://open.spotify.com/album/7EkBKDQY4vPdkoEiW0fFUv) | 8:05 | 2022-07-13 | 2022-07-29 |
 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 | 2022-09-16 | 2023-02-11 |
 | [Szex Witchery](https://open.spotify.com/track/2rfMZCzlXaGsrCiSdllKcT) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Szex Witchery](https://open.spotify.com/album/4POysr62d7E2iOCLDHe5sS) | 3:59 | 2022-01-21 | 2022-02-11 |
-| [The Battle of Sudden Flame](https://open.spotify.com/track/2QO98YRV4B4A9K83INntza) | [Dawn Ray'd](https://open.spotify.com/artist/4SgdAGvT4cBCGFGmIzBtUC) | [The Battle of Sudden Flame](https://open.spotify.com/album/336fD24e1ziXJrjooaz85S) | 3:27 | 2023-02-10 |  |
+| [The Battle of Sudden Flame](https://open.spotify.com/track/2QO98YRV4B4A9K83INntza) | [Dawn Ray'd](https://open.spotify.com/artist/4SgdAGvT4cBCGFGmIzBtUC) | [The Battle of Sudden Flame](https://open.spotify.com/album/336fD24e1ziXJrjooaz85S) | 3:27 | 2023-02-10 | 2023-03-19 |
 | [The Book of Breath](https://open.spotify.com/track/7hA0Cv3sWhKIjKbpnMcg1G) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [The Book of Breath](https://open.spotify.com/album/1YXcHOfyzrJduglh9NWgOG) | 4:35 | 2022-03-10 | 2022-07-25 |
 | [The Bride of Corinth](https://open.spotify.com/track/7Hzq8rzkH0LjKSRSXwFXYD) | [Theatres Des Vampires](https://open.spotify.com/artist/4vNrZHCyGyELnv8tAgZZRt) | [In Nomine Sanguinis](https://open.spotify.com/album/1gHTP0xHAJkLiiYtm3U6Oa) | 3:37 | 2021-12-17 | 2022-07-27 |
 | [The Celestial Keeper](https://open.spotify.com/track/3OQ3r2qzMj1gBpfQpo4HEZ) | [Fall Of The Leafe](https://open.spotify.com/artist/74wuD78VWnyGSwDvVtrQwn) | [Evanescent, Everfading](https://open.spotify.com/album/1zv5yNwJ91m73bxYe0r87V) | 4:29 | 2023-02-15 | 2023-03-18 |

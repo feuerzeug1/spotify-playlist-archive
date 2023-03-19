@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 152965,
+  "num_followers": 153234,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzIwMCwwMDAwMDAwMGRhNzc3NzUyMjk3YmE1YjM1ZTdjZDlhMTY2YjQ1NmY3",
+  "snapshot_id": "MTY3ODQxNzIwMCwwMDAwMDAwMDQ3NmFkMjRiOGNmZjY5ZDlmZTE0ZTY4M2JhZjUxM2Ni",
   "tracks": [
     {
       "added_at": "2023-03-10 03:00:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "Si Te Vas (Vivo)",
-        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
-        }
-      ],
-      "duration_ms": 275375,
-      "name": "Si Te Vas - Vivo",
-      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
         "name": "Los M\u00e1s Grandes Exitos",
         "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
       },
@@ -831,34 +811,22 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+        "name": "Si Te Vas (Vivo)",
+        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
-        "name": "Yo No S\u00e9 Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3vlIfLtvvxFaFsuZ9XimoN"
-      },
-      "artists": [
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
         {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
         }
       ],
-      "duration_ms": 170240,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l"
+      "duration_ms": 275375,
+      "name": "Si Te Vas - Vivo",
+      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -883,6 +851,38 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
+        "name": "Yo No S\u00e9 Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3vlIfLtvvxFaFsuZ9XimoN"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 204669,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
         "name": "Boleto al Amor",
         "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
         "name": "Olv\u00eddame Si Puedes",
         "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
         "name": "Regalo de Dios",
         "url": "https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 178893,
       "name": "Esa Te Dej\u00f3",
       "url": "https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -979,22 +995,6 @@
       "duration_ms": 198066,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
-        "name": "Un Homenaje al Cielo",
-        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -1051,6 +1051,38 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
+        "name": "Soplando Fuerte / Un Fen\u00f3meno Natural",
+        "url": "https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Una R\u00e1faga De Amor",
+      "url": "https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "Sigo Mi Camino",
+        "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Yo Te Esperare",
+      "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1071,18 +1103,18 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "Sigo Mi Camino",
-        "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK"
       },
       "artists": [
         {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
         }
       ],
-      "duration_ms": 164022,
-      "name": "Yo Te Esperare",
-      "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
+      "duration_ms": 253266,
+      "name": "Nunca me faltes",
+      "url": "https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -1119,38 +1151,6 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "El Maestro",
-        "url": "https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK"
-      },
-      "artists": [
-        {
-          "name": "Antonio Rios",
-          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Nunca me faltes",
-      "url": "https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
-        "name": "Solo (Amistad... o Nada!!!)",
-        "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
-      },
-      "artists": [
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 205740,
-      "name": "C\u00f3mo Pude Amarla",
-      "url": "https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "Soplando Fuerte / Un Fen\u00f3meno Natural",
-        "url": "https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC"
+        "name": "Solo (Amistad... o Nada!!!)",
+        "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Una R\u00e1faga De Amor",
-      "url": "https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN"
+      "duration_ms": 205740,
+      "name": "C\u00f3mo Pude Amarla",
+      "url": "https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -1211,6 +1211,22 @@
       "duration_ms": 152666,
       "name": "Como Te Lo Digo",
       "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "Creciendo",
+        "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tan S\u00f3lo Amantes",
+      "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "Creciendo",
-        "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
+        "name": "Sa, Za...Sabor",
+        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
         }
       ],
-      "duration_ms": 236066,
-      "name": "Tan S\u00f3lo Amantes",
-      "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
+      "duration_ms": 233613,
+      "name": "Porque te amo",
+      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -1371,54 +1387,6 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Amor Pirata",
-      "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
-        "name": "Sa, Za...Sabor",
-        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Porque te amo",
-      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
       },
@@ -1447,6 +1415,38 @@
       "duration_ms": 240720,
       "name": "Con \u00c9l No Soportas",
       "url": "https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Amor Pirata",
+      "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
         "name": "Vete de Mi Lado",
         "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
       },
@@ -1531,22 +1515,6 @@
       "duration_ms": 187533,
       "name": "Vete de Mi Lado",
       "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 211044,
-      "name": "Quitame Ese Hombre",
-      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -1567,6 +1535,38 @@
       "duration_ms": 145516,
       "name": "Chau",
       "url": "https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 211044,
+      "name": "Quitame Ese Hombre",
+      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
     },
     {
       "added_at": "2023-03-10 03:00:00",

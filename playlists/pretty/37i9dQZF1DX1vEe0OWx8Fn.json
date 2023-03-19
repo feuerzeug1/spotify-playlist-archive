@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 65607,
+  "num_followers": 65645,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMDg4YjIyOGM2MzhlYjA0N2E0NmRlN2JkZjA2M2Y0Mzkx",
+  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMDBmZWM4MzkxZDU2YzZjMDVlZWI3ZjlmYThjZTg5NjAz",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -719,22 +719,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "off saint dominique EP",
-        "url": "https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD"
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
       },
       "artists": [
         {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        },
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
         }
       ],
-      "duration_ms": 156225,
-      "name": "fall apart (with glaive)",
-      "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
+      "duration_ms": 173304,
+      "name": "{ The Dreamer's Hotel }",
+      "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -759,18 +755,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
+        "name": "off saint dominique EP",
+        "url": "https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD"
       },
       "artists": [
         {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        },
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 173304,
-      "name": "{ The Dreamer's Hotel }",
-      "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
+      "duration_ms": 156225,
+      "name": "fall apart (with glaive)",
+      "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
     },
     {
       "added_at": "2022-12-08 13:00:09",

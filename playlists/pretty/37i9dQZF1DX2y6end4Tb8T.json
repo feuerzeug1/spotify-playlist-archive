@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 49084,
+  "num_followers": 49114,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMGQ5MTExYmNkNGVmZGE1MTUxMmM1NGI5YWEyN2RjOGVj",
+  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMGQxNjhiZDdhYTcxOTE1NmI2ODMxZWVhZjhmNWI4MTJl",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Los Dioses",
-        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 278280,
-      "name": "Los Dioses",
-      "url": "https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Tren Thomas",
         "url": "https://open.spotify.com/album/63Bc1jFmC0eRj07FrE12tF"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 195807,
       "name": "Tren Thomas",
       "url": "https://open.spotify.com/track/2215X6fteco2cgMa8I8ifV"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Los Dioses",
+        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 278280,
+      "name": "Los Dioses",
+      "url": "https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Supremo",
+        "url": "https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "Pal De Pesos",
+      "url": "https://open.spotify.com/track/5t5cqgdnx1pH1ghzZtXL3K"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "Louis Vuitton",
         "url": "https://open.spotify.com/album/4t3sXSCawi8FXH0aQEyUAW"
       },
@@ -1887,26 +1907,6 @@
       "duration_ms": 201698,
       "name": "Teca",
       "url": "https://open.spotify.com/track/47hR4k0HXKligeRvMiQAbQ"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Supremo",
-        "url": "https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Pal De Pesos",
-      "url": "https://open.spotify.com/track/5t5cqgdnx1pH1ghzZtXL3K"
     },
     {
       "added_at": "2021-11-12 16:22:17",

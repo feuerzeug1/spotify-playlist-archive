@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 208746,
+  "num_followers": 209569,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTUzOSwwMDAwMDAwMDg3ZDA2ZGJhZjEzYzZiZDFhYjIyMTQwYTAyMzI3NDMx",
+  "snapshot_id": "MTY2OTk2NTUzOSwwMDAwMDAwMDIwZmZmOGVlODUwM2IwYzQ2MTFjYTI5MWZlYjRhNzA1",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Stealers Wheel",
-        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Rumours",
@@ -535,6 +519,22 @@
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -617,20 +617,20 @@
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
         }
       ],
-      "duration_ms": 365466,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 193346,
       "name": "Don't Stop - 2004 Remaster",
       "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 365466,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -985,20 +985,20 @@
       "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "30 Years Of Funk: 1969-1999 The Anthology",
-        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
       },
       "artists": [
         {
-          "name": "Grand Funk Railroad",
-          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Some Kind Of Wonderful - Remastered 1999",
-      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
+      "duration_ms": 248360,
+      "name": "Young Hearts Run Free",
+      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1017,20 +1017,20 @@
       "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Young Hearts Run Free (US Internet Release)",
-        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
+        "name": "30 Years Of Funk: 1969-1999 The Anthology",
+        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
       },
       "artists": [
         {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
         }
       ],
-      "duration_ms": 248360,
-      "name": "Young Hearts Run Free",
-      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
+      "duration_ms": 202733,
+      "name": "Some Kind Of Wonderful - Remastered 1999",
+      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Bang a Gong (Get It On) - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Tom Jones Sings She's A Lady",
         "url": "https://open.spotify.com/album/1t0bCr3iI98gdcfwZ2YeVX"
       },
@@ -1473,20 +1457,20 @@
       "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+      "duration_ms": 267000,
+      "name": "Bang a Gong (Get It On) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1503,6 +1487,22 @@
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "War And Peace",
-        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
-      },
-      "artists": [
-        {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "War",
-      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "We Are Family (1995 Remaster)",
@@ -1583,6 +1567,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "War And Peace",
+        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+        "name": "Billy Ocean (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
       },
       "artists": [
         {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
         }
       ],
-      "duration_ms": 184640,
-      "name": "You Don't Mess Around with Jim",
-      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
+      "duration_ms": 210973,
+      "name": "Red Light Spells Danger",
+      "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Billy Ocean (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
       "artists": [
         {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 210973,
-      "name": "Red Light Spells Danger",
-      "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
+      "duration_ms": 184640,
+      "name": "You Don't Mess Around with Jim",
+      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1761,6 +1761,22 @@
       "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "I Love To Love - The Best Of",
+        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
+      },
+      "artists": [
+        {
+          "name": "Tina Charles",
+          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "I Love to Love",
+      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "In The Right Place",
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "I Love To Love - The Best Of",
-        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
-      },
-      "artists": [
-        {
-          "name": "Tina Charles",
-          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "I Love to Love",
-      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -1807,42 +1807,6 @@
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
-    },
-    {
-      "added_at": "2022-08-11 07:51:07",
-      "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "We Go Together - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1863,6 +1827,42 @@
       "duration_ms": 363973,
       "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+    },
+    {
+      "added_at": "2022-08-11 07:51:07",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "We Go Together - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Never Can Say Goodbye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Never Can Say Goodbye - Single Version",
+      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "I Remember Yesterday",
         "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Never Can Say Goodbye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Never Can Say Goodbye - Single Version",
-      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
     },
     {
       "added_at": "2021-09-08 13:31:49",

@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 105600,
+  "num_followers": 105697,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MzI4NSwwMDAwMDAwMGZlMmM1ZjQwYTEyNmZjNWYwYWE4MzRkYmZiMjQ0ODRk",
+  "snapshot_id": "MTY3Nzg2MzI4NSwwMDAwMDAwMGE1ZjI0ZmIxNmVmZjVjYmQxN2ZlOWMwNDUzZmUwMDgz",
   "tracks": [
     {
       "added_at": "2023-02-17 06:00:00",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
     },
     {
-      "added_at": "2023-03-18 01:12:15",
+      "added_at": "2023-03-19 01:43:58",
       "album": {
         "name": "Te Mereces Un Amor",
         "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Alborada Ranchera",
-        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Cuatro Milpas",
-      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 171733,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Alborada Ranchera",
+        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "T\u00fa Sigues Siendo El Mismo",
-        "url": "https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp"
-      },
-      "artists": [
-        {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
-        }
-      ],
-      "duration_ms": 162829,
-      "name": "Con Mis Propias Manos",
-      "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Por Amor A M\u00e9xico",
         "url": "https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 215026,
       "name": "Cielo Rojo - Duet Version",
       "url": "https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "T\u00fa Sigues Siendo El Mismo",
+        "url": "https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp"
+      },
+      "artists": [
+        {
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
+        }
+      ],
+      "duration_ms": 162829,
+      "name": "Con Mis Propias Manos",
+      "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 233879,
-      "name": "Uno Y Uno",
-      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Divas Rancheras",
         "url": "https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 206506,
       "name": "El Herradero",
       "url": "https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 233879,
+      "name": "Uno Y Uno",
+      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
     },
     {
       "added_at": "2023-02-17 06:00:00",

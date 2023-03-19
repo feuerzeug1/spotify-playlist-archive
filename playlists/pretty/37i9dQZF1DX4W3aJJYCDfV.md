@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Hozier \(pictured\), venbee, Nothing But Thieves and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,157 likes - 119 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,196 likes - 119 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 95 | [Good Time](https://open.spotify.com/track/5XUirzoMLaO0qsiHZTY3Mo) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Good Time](https://open.spotify.com/album/6dJO0DBV6QxLIHjYytOmzO) | 2:52 |
 | 96 | [Retrograde](https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Retrograde](https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd) | 3:05 |
 | 97 | [One Last Kiss](https://open.spotify.com/track/18eAx5erb3zJjipQnET3dw) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [One Last Kiss](https://open.spotify.com/album/01Ioe36XNbdd8RyRnHXiaT) | 3:26 |
-| 98 | [Down](https://open.spotify.com/track/0V81ilTutjgjJAiuiCTQaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Flores](https://open.spotify.com/artist/3pF2NzCK5q2w8JA6bfEOjh) | [Down](https://open.spotify.com/album/3bznDB2stjAYvngIIN7dRk) | 4:41 |
+| 98 | [Down](https://open.spotify.com/track/0V81ilTutjgjJAiuiCTQaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Flores](https://open.spotify.com/artist/7gjUyv57FGMKDu9agyqW1Z) | [Down](https://open.spotify.com/album/3bznDB2stjAYvngIIN7dRk) | 4:41 |
 | 99 | [FACE MYSELF](https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [FACE MYSELF](https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u) | 3:47 |
 | 100 | [18+](https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [18+](https://open.spotify.com/album/6oveIE1VtjcawBs2UlM3Mn) | 3:13 |
 | 101 | [i think i'm scum](https://open.spotify.com/track/4u3ICfPBa83niklr7idyVc) | [YourCuzMarcus](https://open.spotify.com/artist/2uzoLrIZDZiMtSWTh32x5N) | [i think i'm scum](https://open.spotify.com/album/2oRvewNgMmEJW5FijyNNM1) | 3:05 |

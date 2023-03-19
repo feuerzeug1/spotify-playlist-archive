@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 70s.",
-  "num_followers": 1256203,
+  "num_followers": 1256830,
   "original_name": "70s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODAzNjYzNywwMDAwMDAwMDAyYTAxOTY4MGE0MmNlMmNkYzFmOTVlZjFlMmI2ZDBk",
+  "snapshot_id": "MTY3ODAzNjYzNywwMDAwMDAwMDE1NDQ3MGE0M2JkM2M4NDBlNjg2Nzg2NjU2OGUwNGZk",
   "tracks": [
     {
       "added_at": "2023-03-05 17:17:17",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-05 17:17:17",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
-    },
-    {
-      "added_at": "2023-03-05 17:17:17",
-      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 284906,
       "name": "Me and Mrs. Jones",
       "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+    },
+    {
+      "added_at": "2023-03-05 17:17:17",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
     },
     {
       "added_at": "2023-03-05 17:17:17",

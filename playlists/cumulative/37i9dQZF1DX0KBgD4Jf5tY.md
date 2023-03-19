@@ -4,7 +4,7 @@
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:4OcuLUpqOjSYlrZN8W87Qn">comeilmiele</a>
 
-644 songs - 1 day 8 hr 17 min
+645 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [Stoccolma](https://open.spotify.com/track/7hsbFCXE4Q3GWHyAO8SJZE) | [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Stoccolma](https://open.spotify.com/album/4eweWKEWbfTRVPwnf5AFZo) | 2:09 | 2022-10-10 | 2022-11-18 |
 | [Stracci](https://open.spotify.com/track/0qTSaROdllmPApG3LUuzgR) | [Cate](https://open.spotify.com/artist/0W4rRhGtsRNewRb2pNPsdp) | [Stracci](https://open.spotify.com/album/7ww722Zs75H83LVP4z398c) | 2:54 | 2023-01-05 | 2023-02-03 |
 | [STRESS](https://open.spotify.com/track/52FZgfDkjdGX1EwREBtKj6) | [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU) | [STRESS](https://open.spotify.com/album/65kkbupUXDk2YNaAV2GXTX) | 2:59 | 2022-07-14 | 2022-08-26 |
+| [STRONZA](https://open.spotify.com/track/2BUgsyPmBE5hMQWxnemy2z) | [Gabri](https://open.spotify.com/artist/2i5Mr9eps27ntnZ6JzyxA8) | [STRONZA](https://open.spotify.com/album/1ZrtLkzxSec5esyny9a0Qz) | 3:22 | 2023-03-16 |  |
 | [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 | 2022-04-08 | 2022-05-06 |
 | [Stupido](https://open.spotify.com/track/1HbeSRRvgFWCRg7B6GAG7o) | [Voglio Tutto](https://open.spotify.com/artist/0l7l0zslmsXWkHCM6hZ34C) | [Stupido](https://open.spotify.com/album/3x5ls4mKI2qM6AGl4hPSCx) | 2:19 | 2022-10-27 | 2022-12-01 |
 | [Stupido cielo](https://open.spotify.com/track/5BMtEGrwyx2FXnOPxm9CKA) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Stupido cielo](https://open.spotify.com/album/55eX2Z5Nm3Dv6uaS01NkXX) | 2:55 | 2022-07-04 | 2023-01-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 39272,
+  "num_followers": 39318,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMTM5NCwwMDAwMDAwMDM1OTNmZTdjNDkxYzdhYTMyYTRmY2JhYWVlZTIyMWU3",
+  "snapshot_id": "MTY1NjMyMTM5NCwwMDAwMDAwMDNmZDRkYjZmOTRkM2IxYmYyOTU4MTEzMjdhMTBlZjMy",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -271,6 +271,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Symphony No. 6",
+        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 1784293,
+      "name": "Symphony No. 6 in A Minor: IV. Finale. Allegro moderato - Live at Philharmonie, Berlin, 2004",
+      "url": "https://open.spotify.com/track/1gN6KMDACiBI08J31DSQmZ"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler, G.: Symphony No. 8, \"Symphony of a Thousand\"",
         "url": "https://open.spotify.com/album/27tv3ht9zh1vEimrzmN3FF"
       },
@@ -339,30 +363,6 @@
       "duration_ms": 230666,
       "name": "Symphony No. 8 in E-Flat Major, \"Symphony of a Thousand\": Dir, der Unberuhrbaren - Du schwebst zu Hohen der ewigen Reiche -",
       "url": "https://open.spotify.com/track/6VU155VZpBpveXfAuSYeuj"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 6",
-        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 1784293,
-      "name": "Symphony No. 6 in A Minor: IV. Finale. Allegro moderato - Live at Philharmonie, Berlin, 2004",
-      "url": "https://open.spotify.com/track/1gN6KMDACiBI08J31DSQmZ"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -495,30 +495,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
-        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "duration_ms": 305760,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": IV. Urlicht. Sehr feierlich, aber schlicht",
-      "url": "https://open.spotify.com/track/4j82Pmshbiv9dNumhlw7CL"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler Symphony No. 5",
         "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
       },
@@ -539,6 +515,30 @@
       "duration_ms": 761280,
       "name": "Symphony No. 5 In C Sharp Minor: 1. Trauermarsch (In gemessenem Schritt. Streng. Wie ein Kondukt - Pl\u00f6tzlich schneller. Leidenschaftlich. Wild - Tempo I)",
       "url": "https://open.spotify.com/track/6NkqiE2wqfCz0mhjcV0WXj"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
+        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "duration_ms": 305760,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": IV. Urlicht. Sehr feierlich, aber schlicht",
+      "url": "https://open.spotify.com/track/4j82Pmshbiv9dNumhlw7CL"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -703,42 +703,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler, G.: Symphony No. 3 / Symphony No. 10: Adagio",
-        "url": "https://open.spotify.com/album/1AVc4ybEES08rKYnECFE6e"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Ewa Podles",
-          "url": "https://open.spotify.com/artist/695u8FxP070ZAwSg47cIJI"
-        },
-        {
-          "name": "Cracow Boys' Choir",
-          "url": "https://open.spotify.com/artist/3D9GfiiFKK0ufUX6gkwslT"
-        },
-        {
-          "name": "Cracow Philharmonic Chorus",
-          "url": "https://open.spotify.com/artist/5yOXXuw8o46aOG8SmFtAgs"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Symphony No. 3 in D Minor: V. Lustig im Tempo und keck im Ausdruck",
-      "url": "https://open.spotify.com/track/4KsoqmJJis8uvvXOAjnU4M"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/7yu4NWQJVCcsOryunJ8MBp"
       },
@@ -791,6 +755,42 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler, G.: Symphony No. 3 / Symphony No. 10: Adagio",
+        "url": "https://open.spotify.com/album/1AVc4ybEES08rKYnECFE6e"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Ewa Podles",
+          "url": "https://open.spotify.com/artist/695u8FxP070ZAwSg47cIJI"
+        },
+        {
+          "name": "Cracow Boys' Choir",
+          "url": "https://open.spotify.com/artist/3D9GfiiFKK0ufUX6gkwslT"
+        },
+        {
+          "name": "Cracow Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/5yOXXuw8o46aOG8SmFtAgs"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Symphony No. 3 in D Minor: V. Lustig im Tempo und keck im Ausdruck",
+      "url": "https://open.spotify.com/track/4KsoqmJJis8uvvXOAjnU4M"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Symphony No. 9",
         "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
       },
@@ -839,6 +839,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Lieder",
+        "url": "https://open.spotify.com/album/19GdtV83xdWPPx8PxkYeZg"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Bernarda Fink",
+          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+        },
+        {
+          "name": "Anthony Spiri",
+          "url": "https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Winterlied",
+      "url": "https://open.spotify.com/track/74RyXlypy4lkNesWXoDpbo"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
         "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
       },
@@ -863,8 +887,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Lieder",
-        "url": "https://open.spotify.com/album/19GdtV83xdWPPx8PxkYeZg"
+        "name": "Mahler Symphony No. 5",
+        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
       },
       "artists": [
         {
@@ -872,17 +896,17 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Bernarda Fink",
-          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+          "name": "Gyeonggi Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
         },
         {
-          "name": "Anthony Spiri",
-          "url": "https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM"
+          "name": "Shi-Yeon Sung",
+          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
         }
       ],
-      "duration_ms": 204693,
-      "name": "Winterlied",
-      "url": "https://open.spotify.com/track/74RyXlypy4lkNesWXoDpbo"
+      "duration_ms": 940372,
+      "name": "Symphony No. 5 In C Sharp Minor: 5. Rondo-Finale (Allegro)",
+      "url": "https://open.spotify.com/track/6CkYMdE7d2b2WAuKIzaXLk"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -935,30 +959,6 @@
       "duration_ms": 222800,
       "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
       "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler Symphony No. 5",
-        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Gyeonggi Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
-        },
-        {
-          "name": "Shi-Yeon Sung",
-          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
-        }
-      ],
-      "duration_ms": 940372,
-      "name": "Symphony No. 5 In C Sharp Minor: 5. Rondo-Finale (Allegro)",
-      "url": "https://open.spotify.com/track/6CkYMdE7d2b2WAuKIzaXLk"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1459,30 +1459,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler 9",
-        "url": "https://open.spotify.com/album/2ZgKIsyj14wcl8GEL1LLC6"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 1773213,
-      "name": "Symphony No. 9 in D Major: I. Andante comodo - Live From Walt Disney Concert Hall, Los Angeles / 2012",
-      "url": "https://open.spotify.com/track/483VMfYNqtUAxcEWXRVvDn"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\"",
         "url": "https://open.spotify.com/album/3VHp7AHPIHyGpvMxTzJKGF"
       },
@@ -1503,6 +1479,30 @@
       "duration_ms": 95493,
       "name": "Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": I. Teil. Hymnus. Veni, creator spiritus!",
       "url": "https://open.spotify.com/track/6vtHsZ6rrJvcoUy2tmNpkt"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler 9",
+        "url": "https://open.spotify.com/album/2ZgKIsyj14wcl8GEL1LLC6"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 1773213,
+      "name": "Symphony No. 9 in D Major: I. Andante comodo - Live From Walt Disney Concert Hall, Los Angeles / 2012",
+      "url": "https://open.spotify.com/track/483VMfYNqtUAxcEWXRVvDn"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1559,30 +1559,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Das Lied von der Erde",
-        "url": "https://open.spotify.com/album/3dIr8dqvuo0y2wmpSx4fyi"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Das Lied von der Erde: III. Von der Jugend",
-      "url": "https://open.spotify.com/track/6fAj71NW0waaUp5BunIb3n"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 7",
         "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
       },
@@ -1627,6 +1603,30 @@
       "duration_ms": 1009173,
       "name": "Mahler: Symphony No. 3 in D Minor: III. Comodo, Scherzando. Ohne Hast",
       "url": "https://open.spotify.com/track/2orh65w2YtrAgTZHVtBEf9"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/3dIr8dqvuo0y2wmpSx4fyi"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Das Lied von der Erde: III. Von der Jugend",
+      "url": "https://open.spotify.com/track/6fAj71NW0waaUp5BunIb3n"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1699,8 +1699,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler 9",
-        "url": "https://open.spotify.com/album/2ZgKIsyj14wcl8GEL1LLC6"
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
       },
       "artists": [
         {
@@ -1708,17 +1708,13 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
         }
       ],
-      "duration_ms": 984626,
-      "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
-      "url": "https://open.spotify.com/track/6vjx3iXxIXR8PZFX7ku3Bj"
+      "duration_ms": 632386,
+      "name": "Symphony No. 2 in C Minor, \"Resurrection\": II. Andante moderato",
+      "url": "https://open.spotify.com/track/2gC4HKZ2Bhubhi3dgICGay"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1747,8 +1743,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "David Zinman Conducts Mahler Symphonies",
-        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
+        "name": "Mahler 9",
+        "url": "https://open.spotify.com/album/2ZgKIsyj14wcl8GEL1LLC6"
       },
       "artists": [
         {
@@ -1756,13 +1752,17 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 632386,
-      "name": "Symphony No. 2 in C Minor, \"Resurrection\": II. Andante moderato",
-      "url": "https://open.spotify.com/track/2gC4HKZ2Bhubhi3dgICGay"
+      "duration_ms": 984626,
+      "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
+      "url": "https://open.spotify.com/track/6vjx3iXxIXR8PZFX7ku3Bj"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1799,26 +1799,6 @@
       "duration_ms": 349497,
       "name": "Symphony No. 8: II - VII. H\u00f6chste Herrscherin der Welt! - Live",
       "url": "https://open.spotify.com/track/4W2C9mMIoYrC48RVrlCUXU"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "David Zinman Conducts Mahler Symphonies",
-        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 610386,
-      "name": "Symphony No. 2 in C Minor, \"Resurrection\": III. In ruhig fliessender Bewegung",
-      "url": "https://open.spotify.com/track/5gE04PX9nAFkZrIXgoENBm"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1891,6 +1871,26 @@
       "duration_ms": 309186,
       "name": "Symphony No. 8 in E flat - \"Symphony of a Thousand\" - Part One: Hymnus \"Veni creator spiritus\": \"Accende lumen sensibus\"",
       "url": "https://open.spotify.com/track/1MVQZ6IHffWxf5y2Yf3SVw"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 610386,
+      "name": "Symphony No. 2 in C Minor, \"Resurrection\": III. In ruhig fliessender Bewegung",
+      "url": "https://open.spotify.com/track/5gE04PX9nAFkZrIXgoENBm"
     },
     {
       "added_at": "2022-06-27 09:16:34",

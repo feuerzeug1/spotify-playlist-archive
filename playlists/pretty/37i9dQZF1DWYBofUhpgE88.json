@@ -1,12 +1,12 @@
 {
   "description": "La carica giusta per i tuoi allenamenti!",
-  "num_followers": 299773,
+  "num_followers": 299915,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMxODc5NywwMDAwMDAwMDYzMGMxYzAxZDc4ZjE2ZGMzMWRiMDhiNGViMzJiNDc2",
+  "snapshot_id": "MTY3MDMxODc5NywwMDAwMDAwMDA2MGM3NGFmNTA2YTZmM2NhYmFiMTNhNmYzOWEzOGRi",
   "tracks": [
     {
       "added_at": "2022-12-06 09:26:37",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-12-06 09:26:37",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
-    },
-    {
-      "added_at": "2022-12-06 09:26:37",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+    },
+    {
+      "added_at": "2022-12-06 09:26:37",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": "2022-12-06 09:26:37",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-12-06 09:26:37",
       "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Black Skinhead",
+      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+    },
+    {
+      "added_at": "2022-12-06 09:26:37",
+      "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 194571,
       "name": "La Bellavita (feat. Jul)",
       "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
-    },
-    {
-      "added_at": "2022-12-06 09:26:37",
-      "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Black Skinhead",
-      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
     },
     {
       "added_at": "2022-12-06 09:26:37",
@@ -927,22 +927,18 @@
     {
       "added_at": "2022-12-06 09:26:37",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 196760,
-      "name": "Enemies (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF"
+      "duration_ms": 181661,
+      "name": "Non Abbiamo Et\u00e0",
+      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
       "added_at": "2022-12-06 09:26:37",
@@ -963,18 +959,22 @@
     {
       "added_at": "2022-12-06 09:26:37",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 181661,
-      "name": "Non Abbiamo Et\u00e0",
-      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
+      "duration_ms": 196760,
+      "name": "Enemies (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF"
     },
     {
       "added_at": "2022-12-06 09:26:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 
 > The south got something to say\. Cover: Trina
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,009 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,224 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 | 22 | [Let's Go \(feat\. Big D & Twista\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Bigg D](https://open.spotify.com/artist/25BLFLt2ivDMxIlvao7lnU), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 |
 | 23 | [I'm N Luv \(Wit a Stripper\) \(feat\. Mike Jones\)](https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:59 |
 | 24 | [Rosa Parks](https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:24 |
-| 25 | [It's Goin' Down \(feat\. Nitti\)](https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
+| 25 | [It's Goin' Down \(feat\. Nitti\)](https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [NITTI](https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
 | 26 | [What's Your Fantasy \(Featuring Shawna\)](https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Back For The First Time](https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV) | 4:35 |
 | 27 | [Bring Em Out](https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Urban Legend](https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil) | 3:36 |
 | 28 | [Slow Motion](https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Soulja Slim](https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd) | [Juve The Great](https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A) | 4:08 |

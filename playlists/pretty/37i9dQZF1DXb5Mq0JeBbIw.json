@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 149969,
+  "num_followers": 149993,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNTgyMCwwMDAwMDAwMDIzMWY2YzI1OGFkNTNmYjY0ZDM0MDlmMDY0OGMyMzdm",
+  "snapshot_id": "MTY3ODgwNTgyMCwwMDAwMDAwMDhkN2ZiYTlhZWM1NTVhN2U2MGZmNjMwODYxNzcyZGI5",
   "tracks": [
     {
       "added_at": "2023-02-24 11:06:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "IT'S YOU (feat. keshi) [Stripped Version]",
         "url": "https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 158742,
       "name": "IT'S YOU (feat. keshi) - Stripped Version",
       "url": "https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2023-02-24 11:06:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Can I Be Him (Acoustic Live Version)",
-        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Can I Be Him - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Dancing On My Own (Acoustic)",
         "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 253482,
       "name": "Dancing On My Own - Acoustic",
       "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Can I Be Him (Acoustic Live Version)",
+        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Can I Be Him - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Where Light Pours In",
-        "url": "https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "~how i'm feeling~ (the extras)",
         "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 252681,
       "name": "Modern Loneliness - acoustic",
       "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Where Light Pours In",
+        "url": "https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Schulz",
+          "url": "https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Dear Earth, I\u2019m Lost",
         "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 234133,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa"
-      },
-      "artists": [
-        {
-          "name": "Daniel Schulz",
-          "url": "https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Wonderwall",
-        "url": "https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG"
-      },
-      "artists": [
-        {
-          "name": "Ryan Innes",
-          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
-        }
-      ],
-      "duration_ms": 236094,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Paradise (with Olivia Holt) [Acoustic]",
         "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 229267,
       "name": "Paradise (with Olivia Holt) - Acoustic",
       "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        }
+      ],
+      "duration_ms": 236094,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Used To Be Friends",
-        "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 335503,
-      "name": "Used To Be Friends",
-      "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Dancing (Mumbai Wedding)",
         "url": "https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg"
       },
@@ -1643,18 +1627,34 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I'm on Fire",
-        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
+        "name": "Used To Be Friends",
+        "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 140130,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
+      "duration_ms": 335503,
+      "name": "Used To Be Friends",
+      "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b"
     }
   ],
   "unique_name": "Soft Morning",

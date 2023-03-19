@@ -4,7 +4,7 @@
 
 > A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...
 
-50 songs - 3 hr 13 min
+51 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [This House Is...](https://open.spotify.com/track/1Kk4Ux0pZoPIiNyYdy1tbc) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [The House \(Soundtrack From The Netflix Special\)](https://open.spotify.com/album/3HjTcz4IvJiwHJZMlNfifs) | 4:07 | 2023-01-12 |  |
 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 | 2023-03-03 |  |
 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 | 2023-01-13 |  |
-| [una pistola](https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/71DiIrIpNnWV6So3CDIlGJ) | 3:22 | 2023-03-17 |  |
+| [una pistola](https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb) | 3:22 | 2023-03-17 |  |
+| [una pistola](https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/71DiIrIpNnWV6So3CDIlGJ) | 3:22 | 2023-03-17 | 2023-03-19 |
 
 \*This playlist was first scraped on 2023-03-18. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-53 songs - 2 hr 55 min
+54 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,13 @@
 | [Back To The Top](https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw) | 3:18 | 2022-11-30 |  |
 | [Bloodbath](https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bloodbath](https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt) | 3:20 | 2022-11-30 |  |
 | [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 | 2022-11-30 |  |
+| [Captive](https://open.spotify.com/track/6ZvgvFGY2Pv5iL8u0ptduc) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Captive](https://open.spotify.com/album/6Lqrl0jg68hcV4GhGTYT4H) | 3:19 | 2022-11-30 |  |
 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 | 2022-11-30 |  |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2022-11-30 |  |
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-11-30 |  |
 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/44J9wUVTFIGKmjDJb4e5Oq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 3:19 | 2022-11-30 |  |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-11-30 |  |
-| [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 | 2022-11-30 |  |
+| [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 | 2022-11-30 | 2023-03-19 |
 | [Desire](https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Revive EP](https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r) | 3:08 | 2022-11-30 |  |
 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-11-30 |  |
 | [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 | 2022-11-30 | 2023-03-02 |

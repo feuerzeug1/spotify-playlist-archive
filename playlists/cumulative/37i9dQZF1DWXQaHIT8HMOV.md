@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-116 songs - 5 hr 57 min
+117 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Fancy \(Certified\)](https://open.spotify.com/track/3xprrkNbBQCFEiTkyb8HSE) | [Myko Truth](https://open.spotify.com/artist/5laGyrSWJnEz06EFsz6AqC) | [Fancy \(Certified\)](https://open.spotify.com/album/1tO3MYFUu0srbXZisGj3Y5) | 2:47 | 2022-07-29 | 2022-08-20 |
 | [Feel Like](https://open.spotify.com/track/7CTDjJSzz6qyR0SIjRsAlZ) | [Fm Kid](https://open.spotify.com/artist/3lQP8Rliiz1HAHNyZCdMM6) | [Feel Like](https://open.spotify.com/album/2bUvNyLhtfvFmAeaSuJAOb) | 3:06 | 2022-09-30 | 2022-10-07 |
 | [Follow](https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Follow](https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd) | 3:30 | 2022-07-29 |  |
+| [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 | 2022-11-25 |  |
 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 | 2023-01-12 | 2023-02-11 |
-| [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 | 2023-01-12 |  |
+| [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 | 2023-01-12 | 2023-03-19 |
 | [Geza Bugeza](https://open.spotify.com/track/5fZzENyrqSsaxlUdMEjYpH) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Chronicles Of A Woman](https://open.spotify.com/album/3aZbRfKKvhnPtuYgaEdxSD) | 2:20 | 2023-01-12 | 2023-01-21 |
 | [Glory To The King](https://open.spotify.com/track/5hjIkgoGSlKlip1L0t3FyL) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Glory To The King](https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2) | 2:30 | 2023-03-07 |  |
 | [Gwookya](https://open.spotify.com/track/3DtERsS1lSUwcCV4MZHIdF) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Gwookya](https://open.spotify.com/album/08qkq3hZAmP91oAuQHxnXg) | 2:41 | 2022-07-29 | 2022-10-26 |

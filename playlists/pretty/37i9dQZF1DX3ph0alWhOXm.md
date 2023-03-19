@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,907 likes - 95 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,990 likes - 95 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 27 | [Rain Is A Good Thing](https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 2:56 |
 | 28 | [Beer For My Horses](https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:24 |
 | 29 | [It's Five O'Clock Somewhere \(with Jimmy Buffett\)](https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:50 |
-| 30 | [Smoke A Little Smoke](https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 3:11 |
+| 30 | [Boys 'Round Here \(feat\. Pistol Annies & Friends\)](https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 4:48 |
 | 31 | [What Was I Thinkin'](https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Dierks Bentley](https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ) | 4:20 |
 | 32 | [Beer Can’t Fix](https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:29 |
-| 33 | [Boys 'Round Here \(feat\. Pistol Annies & Friends\)](https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 4:48 |
+| 33 | [Smoke A Little Smoke](https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 3:11 |
 | 34 | [It Ain't My Fault](https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 3:36 |
 | 35 | [Last Name](https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:01 |
 | 36 | [Red Solo Cup](https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:43 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 80 | [Same Beer Different Problem](https://open.spotify.com/track/2bLa8N2vtooX5Sc0r1NmzO) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Same Beer Different Problem](https://open.spotify.com/album/699sP9cMgoC77MayudRDkk) | 3:00 |
 | 81 | [Fastest Girl in Town](https://open.spotify.com/track/6sXK2Fq7Ibi3SN6qYyQgIG) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 3:17 |
 | 82 | [Zero Trucks](https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Zero Trucks](https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi) | 2:42 |
-| 83 | [I Love This Bar](https://open.spotify.com/track/2EZWdLnLPwL97JcfNlBoM1) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 5:33 |
-| 84 | [I Gotta Get Drunk \(with Willie Nelson\)](https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [My Very Special Guests](https://open.spotify.com/album/3am7sXkWVQ9mpldg5KtrUm) | 2:10 |
+| 83 | [I Gotta Get Drunk \(with Willie Nelson\)](https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [My Very Special Guests](https://open.spotify.com/album/3am7sXkWVQ9mpldg5KtrUm) | 2:10 |
+| 84 | [I Love This Bar](https://open.spotify.com/track/2EZWdLnLPwL97JcfNlBoM1) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 5:33 |
 | 85 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
 | 86 | [Longneck Way To Go](https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Longneck Way To Go](https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg) | 3:08 |
 | 87 | [All Night](https://open.spotify.com/track/3QZ0JGwujsufdE5yiONIzO) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [All Night](https://open.spotify.com/album/52uIfGoV32jVlyZDWf0pMk) | 2:48 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 94 | [Beer Thirty](https://open.spotify.com/track/1F3s1BbWYoCBa8I84GhzZB) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Tight Rope](https://open.spotify.com/album/5B9PdR9B1YsmpOxnS4pHWL) | 2:36 |
 | 95 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
 
-Snapshot ID: `MTY3NDA3ODk0MywwMDAwMDAwMDM2YjQ5YTBmNjAzNjg3Mzc5NzBjMDJjODhkYzBhNDNl`
+Snapshot ID: `MTY3NDA3ODk0MywwMDAwMDAwMDYxODA2ZjEwMTRiMmVkYjk2ODUwMjU3MGEyZTkxNGUx`

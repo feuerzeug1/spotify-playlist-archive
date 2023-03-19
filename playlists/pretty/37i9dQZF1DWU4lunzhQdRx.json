@@ -1,12 +1,12 @@
 {
   "description": "yeah it was love then it was just married",
-  "num_followers": 70208,
+  "num_followers": 70511,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2Njc2NCwwMDAwMDAwMDcwMTJjMzBjZDBmYWU5MDU0Y2M3Y2VjYjBlYTkxZTBi",
+  "snapshot_id": "MTY3Nzg2Njc2NCwwMDAwMDAwMDNmMGIwMzU4MWFiNDAwZjA5NWVlODk5NDQyY2ZkZjBm",
   "tracks": [
     {
       "added_at": "2023-02-15 15:21:40",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-15 15:21:40",
       "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261842,
+      "name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8"
+    },
+    {
+      "added_at": "2023-02-15 15:21:40",
+      "album": {
         "name": "Hemingway's Whiskey",
         "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 242840,
       "name": "You and Tequila (feat. Grace Potter)",
       "url": "https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk"
-    },
-    {
-      "added_at": "2023-02-15 15:21:40",
-      "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261842,
-      "name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8"
     },
     {
       "added_at": "2023-02-15 15:21:40",

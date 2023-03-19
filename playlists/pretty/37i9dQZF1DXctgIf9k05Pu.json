@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 228158,
+  "num_followers": 228254,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMGFlZTAzZTA0MThjZTI2MTBlZGY5ZmRkMTc3YzM3ZTlk",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDUxNGQ5MDk4OGM1MjcxMzNiYzI4MDU1ZDNhZTI3YjVi",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -687,34 +687,18 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "recreation",
-        "url": "https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg"
+        "name": "waking up in the park",
+        "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
       },
       "artists": [
         {
-          "name": "Leavv",
-          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
         }
       ],
-      "duration_ms": 112941,
-      "name": "fountain",
-      "url": "https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Summer Picnic",
-        "url": "https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND"
-      },
-      "artists": [
-        {
-          "name": "Jordy Chandra",
-          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
-        }
-      ],
-      "duration_ms": 115384,
-      "name": "Summer Picnic",
-      "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
+      "duration_ms": 68571,
+      "name": "waking up in the park",
+      "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -735,18 +719,34 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "waking up in the park",
-        "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
+        "name": "Summer Picnic",
+        "url": "https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND"
       },
       "artists": [
         {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
         }
       ],
-      "duration_ms": 68571,
-      "name": "waking up in the park",
-      "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
+      "duration_ms": 115384,
+      "name": "Summer Picnic",
+      "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "recreation",
+        "url": "https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg"
+      },
+      "artists": [
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "fountain",
+      "url": "https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT"
     },
     {
       "added_at": "2022-02-02 00:21:48",

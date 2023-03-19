@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-249 songs - 13 hr 17 min
+250 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Coming Back For You](https://open.spotify.com/track/6VVvzNsWQd62FIQyc4zBSR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:56 | 2022-11-04 | 2022-11-21 |
 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2022-08-18 | 2023-02-17 |
 | [Cracks of You](https://open.spotify.com/track/2ERqWwFLCzEGV1YPtKfxB6) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Cracks of You](https://open.spotify.com/album/6yEXMFSLXCMnATdGEG95Hm) | 2:56 | 2022-12-02 | 2022-12-09 |
-| [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 |  |
+| [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2023-03-19 |
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 | 2022-06-24 | 2022-11-12 |
 | [Dangerous](https://open.spotify.com/track/3EduKNInzbDCPYjIDw5SG4) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Dangerous](https://open.spotify.com/album/29rDZXLQeZNoSpBqOY6ibI) | 3:01 | 2022-08-18 |  |
 | [Dangerous Hearts](https://open.spotify.com/track/2FmOfwMOIL2WFEOcV08AKd) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Signs](https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK) | 3:30 | 2022-12-18 | 2023-02-04 |
@@ -233,6 +233,7 @@
 | [Time N Affection](https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 | 2022-06-24 | 2023-02-11 |
 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-06-24 |  |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-10-21 |  |
+| [troublin \- A COLORS SHOW](https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [troublin \- A COLORS SHOW](https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K) | 2:25 | 2023-03-17 |  |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-28 | 2022-11-26 |
 | [Unpopular Opinion](https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Unpopular Opinion](https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK) | 3:11 | 2022-10-13 | 2022-10-29 |
 | [Unrelatable](https://open.spotify.com/track/6yzoGCk37lkUPvf16ZvInu) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Unrelatable](https://open.spotify.com/album/1GHNWbUWzVVlZ0pn9GXyKd) | 2:40 | 2022-11-04 | 2022-12-09 |

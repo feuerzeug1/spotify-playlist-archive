@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Subamos el volumen a las mujeres\. Co\-curada por Francisca Valenzuela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,498 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,499 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 35 | [el humo](https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [el humo](https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN) | 4:06 |
 | 36 | [Somos Hermanas](https://open.spotify.com/track/3SW2TbBtYupZDVeHiiAku5) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Sof Tot](https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Somos Hermanas](https://open.spotify.com/album/2VdoxpDbGIyzgXJDMyKSPR) | 4:25 |
 | 37 | [Valientes](https://open.spotify.com/track/7kEJ3ajOHug4iTG3ogQtQd) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Claroscuro](https://open.spotify.com/album/0BJVfmQhzjNLJuupXUzRQ5) | 4:01 |
-| 38 | [Que no te haga falta nada](https://open.spotify.com/track/0ShKnHt3NjEhcyby0TGOWu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 5:56 |
-| 39 | [Flor de Lavanda](https://open.spotify.com/track/7cUUunnDFcu9AHiuF0fs9n) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Flor de Lavanda](https://open.spotify.com/album/3fgTrA9QqwF9IT67R7gCK0) | 2:49 |
-| 40 | [Yanara](https://open.spotify.com/track/5a9THIgXiVQYFbmwwoKZaw) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Canciones Que Acunan](https://open.spotify.com/album/5pcVQVkLAg5dl2L2Y0DhEN) | 4:05 |
-| 41 | [Quememos el Reino](https://open.spotify.com/track/0QLJWqX0Taif8Hb6JGmy9e) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Rey](https://open.spotify.com/album/5jU98FSu18DrwrXBCkGJpN) | 4:27 |
+| 38 | [Flor de Lavanda](https://open.spotify.com/track/7cUUunnDFcu9AHiuF0fs9n) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Flor de Lavanda](https://open.spotify.com/album/3fgTrA9QqwF9IT67R7gCK0) | 2:49 |
+| 39 | [Que no te haga falta nada](https://open.spotify.com/track/0ShKnHt3NjEhcyby0TGOWu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 5:56 |
+| 40 | [Quememos el Reino](https://open.spotify.com/track/0QLJWqX0Taif8Hb6JGmy9e) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Rey](https://open.spotify.com/album/5jU98FSu18DrwrXBCkGJpN) | 4:27 |
+| 41 | [Yanara](https://open.spotify.com/track/5a9THIgXiVQYFbmwwoKZaw) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Canciones Que Acunan](https://open.spotify.com/album/5pcVQVkLAg5dl2L2Y0DhEN) | 4:05 |
 | 42 | [Ya No Más](https://open.spotify.com/track/2NupxcN9n8pbHYYn34idT9) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Ya No Más](https://open.spotify.com/album/4ywrUZCcBtpJaUF5NqDPDE) | 1:00 |
 | 43 | [Paz Mental](https://open.spotify.com/track/6qrpKBnajPTZqri62rOJYh) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Khali Polo](https://open.spotify.com/artist/6p4jLNz7drGHvovCmCEX8t) | [Paz Mental](https://open.spotify.com/album/4X40KrzSuLlgRlPzB69vzK) | 2:56 |
 | 44 | [Otra Vez](https://open.spotify.com/track/0FyjvQWS65rG8v3vnB3snN) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Otra Vez](https://open.spotify.com/album/3xpy8pqDLXKIAmb3AsYBhJ) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Tan en el Aire](https://open.spotify.com/track/3FR4AnFf2zbYaesNbLpSiK) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 3:24 |
 | 50 | [Todo Va a Andar Bien](https://open.spotify.com/track/40gB7Xjf1lU61cxUc3UBCw) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Pa´ Tu Corazón](https://open.spotify.com/album/7JzbpfQPJp43G5DaLS6kvg) | 2:44 |
 
-Snapshot ID: `MTY3NzYzOTYwMCwwMDAwMDAwMGU3MGMzZGE2YzhiMjE2MDllMmE3MzZiYzk5ZDgzMjlj`
+Snapshot ID: `MTY3NzYzOTYwMCwwMDAwMDAwMDZhNDgzNTdiZGY5MTAzY2E4MGQ5YjVlNzZkMDA4NTA0`

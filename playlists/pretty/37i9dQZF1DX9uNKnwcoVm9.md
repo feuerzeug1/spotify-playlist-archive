@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,643 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,818 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 23 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 |
 | 24 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/636y223sbqgNNVeH7s5qkp) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:52 |
 | 25 | [Veo Llover](https://open.spotify.com/track/19Gbb0udRUmOM0vmsKB358) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Listo Para Nuestro Encuentro](https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O) | 3:00 |
-| 26 | [Hay Una Fuente En Mí](https://open.spotify.com/track/5QcC5tFnqsNOjxksGXZHCB) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Santo Es El Señor](https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS) | 4:33 |
-| 27 | [Gloria En Lo Alto](https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 5:00 |
+| 26 | [Gloria En Lo Alto](https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 5:00 |
+| 27 | [Hay Una Fuente En Mí](https://open.spotify.com/track/5QcC5tFnqsNOjxksGXZHCB) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Santo Es El Señor](https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS) | 4:33 |
 | 28 | [Dios de Lo Imposible](https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [David Reyes](https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 7:30 |
 | 29 | [Me Paro En La Brecha](https://open.spotify.com/track/3pM6OolQIxI5YZl77qwD3t) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Me Paro En La Brecha](https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol) | 3:51 |
 | 30 | [Dios Siempre Tiene el Control](https://open.spotify.com/track/25uL5bEmMZ0ObN8A7HH2n9) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Dios Siempre Tiene el Control](https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv) | 4:49 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 37 | [Llevame Al Lugar Santísimo](https://open.spotify.com/track/68ejKEwjnLJrJgu2ozQdJQ) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Glorificad a Jehová](https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd) | 5:13 |
 | 38 | [Jesús Mi Fiel Amigo \(En Vivo\)](https://open.spotify.com/track/3PjVBq8W5RaxNn9vTtoKxT) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Jesús Mi Fiel Amigo \(En Vivo\)](https://open.spotify.com/album/1Gfe5J0a7yrs4FsDtuAiQA) | 6:50 |
 | 39 | [No Crezcas Mas](https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Irreversible](https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV) | 4:20 |
-| 40 | [Bendito Jesus](https://open.spotify.com/track/2RW5lhGNfI0dKwVrx446iT) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 4:56 |
+| 40 | [El Señor es mi pastor](https://open.spotify.com/track/49PeNHITwNkd2gIP4zMOoQ) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Eres Todopoderoso](https://open.spotify.com/album/6ykvhppb9hjACDxW3pVgMD) | 4:18 |
 | 41 | [Jehová Es Mi Guerrero/Le Llaman \(Reprise\)](https://open.spotify.com/track/5IsqUSeMnxmoEdX9Ooot0r) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR) | 2:16 |
 | 42 | [Danzo en el Río \(En Vivo\)](https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:41 |
 | 43 | [Vengo A Adorarte](https://open.spotify.com/track/0c7KZFqrJwvIlaVtmTsJh3) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 5:19 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 47 | [Iglesia](https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [La Compilación](https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe) | 4:05 |
 | 48 | [El Borde De Su Manto](https://open.spotify.com/track/6tYqerwTycPh7ooEszkobq) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Vivo Para Cristo](https://open.spotify.com/album/1qgCskTkH93V8WYbltMZMn) | 8:47 |
 | 49 | [Mi Historia De Amor](https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 3:16 |
-| 50 | [El Señor es mi pastor](https://open.spotify.com/track/49PeNHITwNkd2gIP4zMOoQ) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Eres Todopoderoso](https://open.spotify.com/album/6ykvhppb9hjACDxW3pVgMD) | 4:18 |
+| 50 | [Bendito Jesus](https://open.spotify.com/track/2RW5lhGNfI0dKwVrx446iT) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 4:56 |
 | 51 | [Me rindo ante ti](https://open.spotify.com/track/1yOT1gkct6I0w4wPBNc3y1) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:14 |
 | 52 | [¿A Quién Iré?](https://open.spotify.com/track/2n3PEgcF39O9S5z6gR0175) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Vuelve](https://open.spotify.com/album/4YXb45eHQPeutBVlzBKWfI) | 6:25 |
 | 53 | [No Me Digas Adiós](https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Dios Siempre Tiene el Control](https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Asi Señor](https://open.spotify.com/track/5BfuA0EhIYYg4sjxyVYAOD) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Lo Mejor De Gadiel Espinoza](https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k) | 6:00 |
 | 100 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
 
-Snapshot ID: `MTYwNjIyNDIxOCwwMDAwMDAwMDM0MGYwMmYzZmU4MGI4ZWQ5ZWY2NjcxYThlZmFmOGFj`
+Snapshot ID: `MTYwNjIyNDIxOCwwMDAwMDAwMDk3NjE5MmY2NjZkYzQwOWFiMjI2NjBiODNlYTRiODBh`

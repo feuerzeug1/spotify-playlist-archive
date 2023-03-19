@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > Sit back and unwind to the most selamba songs around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,152 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,186 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 39 | [Other Half](https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Other Half](https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv) | 3:35 |
 | 40 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX) | 3:23 |
 | 41 | [juice](https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [juice](https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2) | 3:15 |
-| 42 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
-| 43 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
+| 42 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
+| 43 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
 | 44 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
 | 45 | [Good For A Time \(feat\. Bea Lorenzo\)](https://open.spotify.com/track/3uan6scrspVI9GQQWdtya2) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Bea Lorenzo](https://open.spotify.com/artist/6IwtJ7xt7qhukLAqLwHvzG) | [Good For A Time \(feat\. Bea Lorenzo\)](https://open.spotify.com/album/3KjBwYUsTtWGFVJ2IjV6qs) | 2:24 |
 | 46 | [do me right](https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [relationshit](https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2) | 2:58 |
-| 47 | [my only](https://open.spotify.com/track/15T6FzdI9TMOwKA0iTO44O) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [my only](https://open.spotify.com/album/77THIeUyd2AAlIt6WKryGu) | 2:53 |
-| 48 | [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 |
+| 47 | [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 |
+| 48 | [my only](https://open.spotify.com/track/15T6FzdI9TMOwKA0iTO44O) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [my only](https://open.spotify.com/album/77THIeUyd2AAlIt6WKryGu) | 2:53 |
 | 49 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 |
 | 50 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
 | 51 | [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 61 | [not sorry](https://open.spotify.com/track/54NOOVmxzoBvz0l7P4RzVl) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [not sorry](https://open.spotify.com/album/3YqOzRpFaqa2a79SN7VkoJ) | 2:46 |
 | 62 | [Better With You](https://open.spotify.com/track/0XyHpJN5Unt4IT4Bf2Gezn) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Better With You](https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC) | 2:46 |
 | 63 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
-| 64 | [Hopelessly Devoted To You](https://open.spotify.com/track/1FNvwHvFCJoFzt80H8L6QR) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Hopelessly Devoted To You](https://open.spotify.com/album/2MK7qxuZhopOH2KzdnHds2) | 3:38 |
-| 65 | [Make Me Wanna](https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Make Me Wanna](https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG) | 2:19 |
+| 64 | [Make Me Wanna](https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Make Me Wanna](https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG) | 2:19 |
+| 65 | [Hopelessly Devoted To You](https://open.spotify.com/track/1FNvwHvFCJoFzt80H8L6QR) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Hopelessly Devoted To You](https://open.spotify.com/album/2MK7qxuZhopOH2KzdnHds2) | 3:38 |
 | 66 | [Pulang](https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh), [Aj](https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37) | [Pulang](https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3) | 4:20 |
 | 67 | [Daylight](https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds), [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Daylight](https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4) | 3:59 |
-| 68 | [I.L.S.M](https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [I.L.S.M \(I Love Sadness More\)](https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f) | 3:05 |
-| 69 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 |
+| 68 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 |
+| 69 | [I.L.S.M](https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [I.L.S.M \(I Love Sadness More\)](https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f) | 3:05 |
 | 70 | [Castaway](https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Rouge](https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ) | 4:29 |
 
-Snapshot ID: `MTY3Njk0OTE3MCwwMDAwMDAwMGZhNjFlNmQzM2MxM2Y1ZTJlYjBjY2IwN2M3NDZhMWJl`
+Snapshot ID: `MTY3Njk0OTE3MCwwMDAwMDAwMDBlMmU3ZjZhMGQyM2E3NTRhZDE2ZjRiZmFjMGY2ZTQ3`

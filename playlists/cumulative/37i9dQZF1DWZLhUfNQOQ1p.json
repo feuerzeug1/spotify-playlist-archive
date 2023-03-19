@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451362,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
+    },
+    {
+      "album": {
         "name": "Give Me a Light",
         "url": "https://open.spotify.com/album/3xeGedO2mQCVHzO4WiC0WA"
       },
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 192472,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"

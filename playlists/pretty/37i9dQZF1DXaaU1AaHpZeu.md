@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: rusowksy, Saramalacara
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,954 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,975 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [brujita](https://open.spotify.com/track/6kYLN1jiNx0e7cdj6QsHrM) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [BABAYAGA](https://open.spotify.com/album/2p8CEb59obQ62nhqLbTE6I) | 2:39 |
 | 2 | [Maybe Baby](https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe) | 3:47 |
 | 3 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
-| 4 | [Bolero](https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 4:03 |
+| 4 | [Bolero](https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 4:03 |
 | 5 | [Strong Emotions](https://open.spotify.com/track/5vESv7xXAIhEL9UA1N6uav) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Strong Emotions](https://open.spotify.com/album/4VuK9WBr3m6VgYorAK69iE) | 3:47 |
 | 6 | [⟡ solitude ⟡](https://open.spotify.com/track/0085Y1oLaWiAB94I4iQo8N) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [⟡ solitude ⟡](https://open.spotify.com/album/13zX2as4ggekSgaZEVYEIv) | 1:57 |
 | 7 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 |

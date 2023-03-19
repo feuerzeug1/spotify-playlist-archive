@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 25588,
+  "num_followers": 25623,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDJhN2Q0NGVhMTE5MWZhNjc5ZjE3ZGNmZWY1ZTM4NDI3",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDFjNDY0NWVmZWNlZDEyZWNiOGI4MDJhNDE4OGZmNTgy",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Straight from the Bario EP",
-        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
-      },
-      "artists": [
-        {
-          "name": "R.B.M.",
-          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
-        }
-      ],
-      "duration_ms": 372800,
-      "name": "The Bombero Remix 96",
-      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Set My Spirit Free (feat. Sandy Rivera)",
         "url": "https://open.spotify.com/album/2rFxKv5g2o34oZEYcCpzvN"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
       },
       "artists": [
         {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+          "name": "R.B.M.",
+          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
         }
       ],
-      "duration_ms": 440320,
-      "name": "Curious - Vocal Mix",
-      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
+      "duration_ms": 372800,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1099,6 +1083,22 @@
       "duration_ms": 479413,
       "name": "Northern Lights - The Prime Cutz Mix",
       "url": "https://open.spotify.com/track/3oGL7qdd5bCUQNdFnbPm5J"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 440320,
+      "name": "Curious - Vocal Mix",
+      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1155,18 +1155,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+        "name": "The Beat That Makes U Move",
+        "url": "https://open.spotify.com/album/0NgAVAE4LTJlyI0FoMxFCw"
       },
       "artists": [
         {
           "name": "Bass Hitt",
           "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        },
+        {
+          "name": "Dreamgirl Vee",
+          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
         }
       ],
-      "duration_ms": 427132,
-      "name": "Hey! - The Rhythm Hype Mix",
-      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
+      "duration_ms": 459080,
+      "name": "The Beat That Makes U Move - The Rhythm Hype Mix",
+      "url": "https://open.spotify.com/track/6KLnL6hVI2W1dXtZzT0Xkb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1259,22 +1263,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
-        }
-      ],
-      "duration_ms": 342621,
-      "name": "My People - My People Mix",
-      "url": "https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "C'mon",
         "url": "https://open.spotify.com/album/5eBXQcItnTE8LVg3CBIzCe"
       },
@@ -1287,6 +1275,22 @@
       "duration_ms": 258906,
       "name": "Give It All To You - 92 Remix",
       "url": "https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9",
+          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+        }
+      ],
+      "duration_ms": 334220,
+      "name": "We Can Make It - The 'I Believe' Dub",
+      "url": "https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

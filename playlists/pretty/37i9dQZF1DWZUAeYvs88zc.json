@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 520716,
+  "num_followers": 521000,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA3MTQ0MCwwMDAwMDAwMDIxNjUxMTYxNmJkNDhhMjU4MTE2N2NiZjE0NTIwZWU4",
+  "snapshot_id": "MTY3OTA3MTQ0MCwwMDAwMDAwMGNmZjdjZjIxMzZhMWJlODIzM2VhZjcxZjczNzEwOWYw",
   "tracks": [
     {
       "added_at": "2023-02-24 04:19:52",
@@ -569,23 +569,7 @@
       "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
     },
     {
-      "added_at": "2023-02-24 04:19:52",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
-    },
-    {
-      "added_at": "2023-03-18 01:06:10",
+      "added_at": "2023-03-19 01:22:28",
       "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
@@ -603,6 +587,22 @@
       "duration_ms": 183925,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
+    },
+    {
+      "added_at": "2023-02-24 04:19:52",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
       "added_at": "2023-02-24 04:19:52",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-02-24 04:19:52",
       "album": {
+        "name": "Sorry To Me Too",
+        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "Sorry To Me Too",
+      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
+    },
+    {
+      "added_at": "2023-02-24 04:19:52",
+      "album": {
         "name": "You Know What I Need",
         "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
-    },
-    {
-      "added_at": "2023-02-24 04:19:52",
-      "album": {
-        "name": "Sorry To Me Too",
-        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "Sorry To Me Too",
-      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
     },
     {
       "added_at": "2023-02-24 04:19:52",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-02-24 04:19:52",
       "album": {
-        "name": "Not Sad Anymore",
-        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 195563,
-      "name": "Not Sad Anymore",
-      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
-    },
-    {
-      "added_at": "2023-02-24 04:19:52",
-      "album": {
         "name": "Half Written Story",
         "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 216083,
       "name": "I Love You's",
       "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
+    },
+    {
+      "added_at": "2023-02-24 04:19:52",
+      "album": {
+        "name": "Not Sad Anymore",
+        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 195563,
+      "name": "Not Sad Anymore",
+      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
     },
     {
       "added_at": "2023-02-24 04:19:52",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-24 04:19:52",
       "album": {
-        "name": "AudioLust & HigherLove",
-        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 216018,
-      "name": "Oh Laura",
-      "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
-    },
-    {
-      "added_at": "2023-02-24 04:19:52",
-      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 196760,
       "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg"
+    },
+    {
+      "added_at": "2023-02-24 04:19:52",
+      "album": {
+        "name": "AudioLust & HigherLove",
+        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 216018,
+      "name": "Oh Laura",
+      "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
     },
     {
       "added_at": "2023-02-24 04:19:52",

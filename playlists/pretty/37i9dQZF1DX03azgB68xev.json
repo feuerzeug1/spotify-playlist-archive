@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 195432,
+  "num_followers": 195491,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMGE1MDUyZDQ2ZGI0NjUyZDFkN2JjYWU5MzdmMjliMGE4",
+  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDIwYWM2NGUwMDUwNzUzMWU1OGRmMDY5ZTc2NDZlMTdi",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -291,22 +291,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
+        "name": "Say Goodbye (Say Hello)",
+        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        },
-        {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
         }
       ],
-      "duration_ms": 193007,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp"
+      "duration_ms": 195358,
+      "name": "Say Goodbye (Say Hello)",
+      "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -327,18 +323,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Say Goodbye (Say Hello)",
-        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
       },
       "artists": [
         {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
         }
       ],
-      "duration_ms": 195358,
-      "name": "Say Goodbye (Say Hello)",
-      "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
+      "duration_ms": 193007,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        }
-      ],
-      "duration_ms": 170397,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 296666,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "duration_ms": 170397,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Jireh (Reyer Remix)",
+        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Esther Lisette",
+          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Jireh - Reyer Remix",
+      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Won't Stop (Reyer Remix)",
         "url": "https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh"
       },
@@ -963,26 +983,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Jireh (Reyer Remix)",
-        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
-      },
-      "artists": [
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "Esther Lisette",
-          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Jireh - Reyer Remix",
-      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 209429,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1015,22 +1031,6 @@
       "duration_ms": 344125,
       "name": "This Is Freedom (Ain't No Rock) - Live",
       "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
-      },
-      "artists": [
-        {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Father",
-        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 213281,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Smell The Roses",
         "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 253940,
       "name": "Smell The Roses",
       "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 213281,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB"
+        "name": "This Is The Love",
+        "url": "https://open.spotify.com/album/3qJbjQzqUv8AOQBlOEXlNr"
       },
       "artists": [
         {
-          "name": "Vanessa Campagna",
-          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 200357,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5"
+      "duration_ms": 166306,
+      "name": "This Is The Love",
+      "url": "https://open.spotify.com/track/2LS7Ww44t936USz0gg4k1w"
     }
   ],
   "unique_name": "Pop for Life",

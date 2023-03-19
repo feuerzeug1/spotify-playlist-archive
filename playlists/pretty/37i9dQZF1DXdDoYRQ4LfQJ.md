@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > The hottest corridos in the US! Bien Al Tiro con Natanel Cano, Peso Pluma & Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,531 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,240 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 50 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 |
 | 51 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 |
 | 52 | [Porte Exuberante](https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:33 |
-| 53 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
-| 54 | [El Vago De Los Nike](https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:56 |
+| 53 | [El Vago De Los Nike](https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:56 |
+| 54 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
 | 55 | [El Bélico](https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles](https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq) | 2:05 |
 | 56 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
 | 57 | [Aerolínea Carrillo](https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 2:54 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 77 | [A Lo Lejos Me Veran](https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:28 |
 | 78 | [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 |
 | 79 | [Ojos De Maniaco](https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 3:38 |
-| 80 | [En El Camino](https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 2:48 |
-| 81 | [Mi Religión](https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 3:14 |
+| 80 | [Mi Religión](https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 3:14 |
+| 81 | [En El Camino](https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 2:48 |
 | 82 | [El Carrito](https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Carrito](https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98) | 2:58 |
 | 83 | [Soy Alegre](https://open.spotify.com/track/16WS0oVYnZMpl9ePTof7eH) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 3:09 |
 | 84 | [Ahora Todo Es Diferente](https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ahora Todo Es Diferente](https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP) | 3:45 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 89 | [Siempre Clave](https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Clave 702](https://open.spotify.com/artist/3dBuaGsQYVTgxHkNxBNyL2) | [Siempre Clave](https://open.spotify.com/album/5UouRJGXvLDXqlriqFMSKe) | 3:14 |
 | 90 | [Golpes De La Vida](https://open.spotify.com/track/1tRweipg9OAhZbsSCDhGg0) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/26wkRvTr3hzG0xXgPpcg9f) | 3:42 |
 | 91 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 |
-| 92 | [LoLo Felix](https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 3:34 |
-| 93 | [El Monstro 7](https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:22 |
+| 92 | [El Monstro 7](https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:22 |
+| 93 | [LoLo Felix](https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 3:34 |
 | 94 | [Se Divisan](https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Se Divisan](https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ) | 2:40 |
 | 95 | [Denver Ruleteamos](https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Denver Ruleteamos](https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY) | 3:32 |
 | 96 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 99 | [Sencillo Soy](https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Sencillo Soy](https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv) | 2:52 |
 | 100 | [Rolling One](https://open.spotify.com/track/40hjNYfeyudUJU3QHGW0t1) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 4:03 |
 
-Snapshot ID: `MTY3OTAzNTA5NywwMDAwMDAwMDc4OGZmODAzNjhjMzYwYTczYTY2ZGRhYjM4MjA2ZDQ2`
+Snapshot ID: `MTY3OTAzNTA5NywwMDAwMDAwMGJkYTQyMzlkYjA0ZDc2YTRlOGRhMjExZmI1YzgwMzE2`

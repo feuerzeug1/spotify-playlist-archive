@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Orquesta Candela
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,293 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,376 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 18 | [Tu Amor Fue una Mentira](https://open.spotify.com/track/6BnqTZLQNh3bLSuGOHqLoa) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:36 |
 | 19 | [Muchahita](https://open.spotify.com/track/5yGFm9tvElzhY4DkEl45h5) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/37Vtar7W83nFn6pfFbVu0s) | 3:24 |
 | 20 | [Si Esta Casa Hablara](https://open.spotify.com/track/7aLA9WPyVfmB3WeciQ6Fb3) | [Orquesta La Única Tropical](https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK) | [Sin Fronteras](https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx) | 3:44 |
-| 21 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
+| 21 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
 | 22 | [Por Que un Hombre No Llora](https://open.spotify.com/track/3WXuIhwbCGYvzLEfyvGYOU) | [Los Tigres de la Cumbia](https://open.spotify.com/artist/044y0XSznUpOIzgp61qwT1) | [Porque un Hombre No Llora](https://open.spotify.com/album/5yuZLJjoc41D8Di7y2nlbW) | 4:30 |
-| 23 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
+| 23 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
 | 24 | [Puro Corazón](https://open.spotify.com/track/2mEVUW5UL7iDK5DnomVvOy) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Puro Corazón](https://open.spotify.com/album/6J6p32z5lFri9g2K1iwGjo) | 3:09 |
 | 25 | [Cervecero](https://open.spotify.com/track/5tt27Q87bSQG4OjYtj8aPh) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 5:26 |
 | 26 | [Pensando en Ti](https://open.spotify.com/track/6ZRWmk8bYmHCcseZqyykWR) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Directo al Corazón, Vol\. 18](https://open.spotify.com/album/7qMhIUFDDzM9uEIlhT5mnE) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [Lejos de Ti](https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [Lejos de Ti](https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6) | 4:01 |
 | 50 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
 
-Snapshot ID: `MTY3NzUxODg4NSwwMDAwMDAwMDRiYmZjNmEwNTJjY2UyZWNjYWE2OGJmYmZlNTYxZTNk`
+Snapshot ID: `MTY3NzUxODg4NSwwMDAwMDAwMGM4NWZhMjY1MGE0MGY1ZDM1MDk2ZmUwNGIwYmUyODVl`

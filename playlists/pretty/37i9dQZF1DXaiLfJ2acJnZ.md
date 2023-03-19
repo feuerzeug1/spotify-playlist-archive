@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,294 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,310 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 50 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 | 51 | [East End Coast](https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:46 |
 | 52 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 |
-| 53 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
-| 54 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
+| 53 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
+| 54 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
 | 55 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 |
 | 56 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 |
 | 57 | [Ain't Got No Friends](https://open.spotify.com/track/579xAs0iqnYWRZQJfjAW9U) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Ain't Got No Friends](https://open.spotify.com/album/3OWRyVAA36otEE4Rn50wok) | 2:27 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 76 | [Thinking About You](https://open.spotify.com/track/5qOlWfTdKPafaINlhpVY5V) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Thinking About You](https://open.spotify.com/album/138lSNAApov9p0YikNh5gh) | 3:21 |
 | 77 | [unbreak ur heart](https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [unbreak ur heart](https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt) | 3:23 |
 | 78 | [Summer Fling](https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Summer Fling](https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE) | 3:35 |
-| 79 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 |
-| 80 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
+| 79 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
+| 80 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 |
 
-Snapshot ID: `MTY3ODgwNzI4MCwwMDAwMDAwMGJkNWIwZTYxYmM1OGVmMjhmZDM2NzBlNDQxZGU3NTM2`
+Snapshot ID: `MTY3ODgwNzI4MCwwMDAwMDAwMGFhYTE3NjdiYzIxOWE5ZWZkYmNjNWZmOWEyZDlkNjQ0`

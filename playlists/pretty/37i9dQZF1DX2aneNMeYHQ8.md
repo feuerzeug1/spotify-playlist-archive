@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,920 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,934 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 37 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
 | 38 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 |
 | 39 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 |
-| 40 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 |
+| 40 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 |
 | 41 | [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 |
-| 42 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 |
+| 42 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 |
 | 43 | [Survivor](https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:01 |
 | 44 | [Meant to Be](https://open.spotify.com/track/31rivbCbEbXiRyHtQqfiED) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Meant to Be](https://open.spotify.com/album/2J8uPVOmhwfuHN2dWVb2RA) | 4:17 |
 | 45 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 50 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 |
 | 51 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
 | 52 | [Hurricane Coming](https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Hurricane Coming](https://open.spotify.com/album/2d1iNTtLFGZs5aXlEKSUfC) | 3:32 |
-| 53 | [Lose It](https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 5:30 |
-| 54 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
+| 53 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
+| 54 | [Lose It](https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 5:30 |
 | 55 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 |
 | 56 | [My Babe](https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:47 |
 | 57 | [Miami](https://open.spotify.com/track/6Swa2wkTqv5AzmeptAdn4d) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Miami](https://open.spotify.com/album/3wApCcYjKiRA68wVVF3V1n) | 4:44 |
@@ -93,15 +93,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 83 | [scream!](https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [scream!](https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY) | 3:19 |
 | 84 | [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 |
 | 85 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 |
-| 86 | [Restive](https://open.spotify.com/track/6FisNYBVI8wlCcTSjcF2xs) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Restive](https://open.spotify.com/album/0XWKS67204DceSV6pQaUz4) | 3:28 |
-| 87 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 |
+| 86 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 |
+| 87 | [Restive](https://open.spotify.com/track/6FisNYBVI8wlCcTSjcF2xs) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Restive](https://open.spotify.com/album/0XWKS67204DceSV6pQaUz4) | 3:28 |
 | 88 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
 | 89 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 |
 | 90 | [Nowhere To Go](https://open.spotify.com/track/0jvNCLA1OcJzhBzNyFzyhr) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Blink Twice](https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe) | 3:41 |
 | 91 | [Crutch](https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Crutch](https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi) | 3:43 |
 | 92 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 |
-| 93 | [No Reason](https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [No Reason](https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3) | 2:39 |
-| 94 | [Just Around The Corner](https://open.spotify.com/track/3YA98Jkasip4SS2vpOT3Iv) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Just Around The Corner](https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG) | 2:55 |
+| 93 | [Just Around The Corner](https://open.spotify.com/track/3YA98Jkasip4SS2vpOT3Iv) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Just Around The Corner](https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG) | 2:55 |
+| 94 | [No Reason](https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [No Reason](https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3) | 2:39 |
 | 95 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 |
 | 96 | [Geometry](https://open.spotify.com/track/6vR6PqBvhUFM0lFJtfJm79) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/2y5dQYzr7Q4me0JhXU2RcD) | 4:25 |
 | 97 | [Love Love Love](https://open.spotify.com/track/7uHLE0CpfsRl6Cil3965jn) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/3L8hsIkIH21xMPiRjalZmH) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Tour Death Song](https://open.spotify.com/track/0aQpkTdFY2WYJSbdyGlHHO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Tour Death Song](https://open.spotify.com/album/46aV2GOdnc1EGfspj2dC5u) | 4:57 |
 | 100 | [What’s Done is Done](https://open.spotify.com/track/4x4Wf1lCavlpuZQ7yyAswq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [One is One](https://open.spotify.com/album/6SKy6TBTLjbC96dMV8blQJ) | 3:30 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDNjNWY0YTM0NzNkMTQ5MjJmMmNlOWM5M2YxMmY4NjZh`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDhmNjgxMDYzNWQyNTM1OWUzZjc4ZmY5OTRkNTQ0NmYy`

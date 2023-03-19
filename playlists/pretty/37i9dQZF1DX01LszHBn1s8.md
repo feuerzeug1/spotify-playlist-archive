@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'm so thankful for all of the girls you've loved before 💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,468 likes - 649 songs - 1 day 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,645 likes - 649 songs - 1 day 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 72 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 |
 | 73 | [people pleaser \- higher & faster](https://open.spotify.com/track/4ujYFnZw9B8lUQG4W305HP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [people pleaser \(higher & faster\)](https://open.spotify.com/album/6JKimNcUW0lsJze5e61SXX) | 1:58 |
 | 74 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
-| 75 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(feat\. Cian Ducrot\) \[Remix\]](https://open.spotify.com/album/2iBbNFC5oZdKfqQyiSEfXx) | 3:04 |
+| 75 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 76 | [Never Let Me Down Again \- Tsangarides Mix](https://open.spotify.com/track/4pLWKQTxzR0kFoDeDAJvVk) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Never Let Me Down Again](https://open.spotify.com/album/5j9NrtMAfGuEc7dqz59tU1) | 4:22 |
 | 77 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
 | 78 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
@@ -658,4 +658,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 648 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 649 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MTY3OTAyOTIwMCwwMDAwMDAwMGI2ZDY5NTM2NWEzODVjNDg0MDZlZjhlM2QwMDZjMTcx`
+Snapshot ID: `MTY3OTAyOTIwMCwwMDAwMDAwMDgxYmRjMmUwNDJkZTM1YmU3NWM2NWVlN2RlMWFjN2U5`

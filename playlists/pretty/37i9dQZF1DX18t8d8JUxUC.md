@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,468 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 22 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 |
 | 23 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 |
 | 24 | [Una Vez Más](https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Una Vez Más](https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi) | 3:37 |
-| 25 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 |
-| 26 | [Las Flores](https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 2:38 |
+| 25 | [Las Flores](https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 2:38 |
+| 26 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 |
 | 27 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 |
 | 28 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
 | 29 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 37 | [Otros Colores](https://open.spotify.com/track/2ZJcPJHV298BPY4XsdBLD8) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Aroma A Nostalgia](https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL) | 5:51 |
 | 38 | [El Hombre Que Casi Conoció a Michi Panero](https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Desaparezca Aquí](https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf) | 5:45 |
 | 39 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
-| 40 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 |
-| 41 | [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 |
+| 40 | [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 |
+| 41 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 |
 | 42 | [Te Lo Debo Contar](https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:56 |
 | 43 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
 | 44 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 |
-| 45 | [Norte](https://open.spotify.com/track/1oro7qxc5WjpcOGhaE0yA3) | [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Norte](https://open.spotify.com/album/491eK0UesCR8GfsDsUSJMz) | 3:10 |
-| 46 | [Bajo el cielo azul de Marte](https://open.spotify.com/track/3uGEd3peltuV0SEympCowM) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre Padre Marte](https://open.spotify.com/album/63AhXYacnlHnitNe6qG334) | 4:34 |
+| 45 | [Bajo el cielo azul de Marte](https://open.spotify.com/track/3uGEd3peltuV0SEympCowM) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre Padre Marte](https://open.spotify.com/album/63AhXYacnlHnitNe6qG334) | 4:34 |
+| 46 | [Norte](https://open.spotify.com/track/1oro7qxc5WjpcOGhaE0yA3) | [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Norte](https://open.spotify.com/album/491eK0UesCR8GfsDsUSJMz) | 3:10 |
 | 47 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 |
 | 48 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 |
 | 49 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
-| 50 | [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 |
+| 50 | [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGI0OGZjOWFiNWYwYmQxZDFmMmQ0MTNiYjA2ZjQ3ZDM3`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDc5NmJkMzc3NGU2MTYxNjNhNDI0MDcwOTg5YTNlZTdk`

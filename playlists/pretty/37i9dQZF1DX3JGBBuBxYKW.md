@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,274 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,301 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 17 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 |
 | 18 | [Me Vas a Extrañar](https://open.spotify.com/track/3KOxcKaiZSFYIcHnr8PIKB) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 3:48 |
 | 19 | [Nunca Es Suficiente](https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Nunca Es Suficiente](https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq) | 4:16 |
-| 20 | [Cumbia de los Dos](https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Cumbia de los Dos](https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi) | 4:24 |
-| 21 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 |
+| 20 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 |
+| 21 | [Cumbia de los Dos](https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Cumbia de los Dos](https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi) | 4:24 |
 | 22 | [Frente a Frente](https://open.spotify.com/track/1BPay9AmvLAAVaShW3YU8a) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Frente a Frente](https://open.spotify.com/album/4VYKH1Hd5X53WoWpxgE0gg) | 3:25 |
-| 23 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 |
+| 23 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 |
 | 24 | [Fuera](https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Tiempo de Cambio](https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP) | 3:22 |
 | 25 | [POR TI](https://open.spotify.com/track/6I1hlGt5m9PP1WLITfUwSG) | [Karla Melo](https://open.spotify.com/artist/61gIbdm4Yrxnomgkr9SrDw) | [POR TI](https://open.spotify.com/album/4or3HMLEPoR58uKAekYbOj) | 3:02 |
 | 26 | [Tomate el Palo \(feat\. Leo García\)](https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:25 |
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 53 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 |
 | 54 | [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 |
 | 55 | [Llévame](https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:53 |
-| 56 | [Placer y Olvido](https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Placer y Olvido \(En Vivo\)](https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP) | 1:22 |
+| 56 | [En tu pelo](https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Noche Fantástica](https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj) | 3:37 |
 | 57 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 |
 | 58 | [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 |
-| 59 | [En tu pelo](https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Noche Fantástica](https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj) | 3:37 |
+| 59 | [Placer y Olvido](https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Placer y Olvido \(En Vivo\)](https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP) | 1:22 |
 | 60 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 |
 | 61 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
 | 62 | [Amor Tóxico](https://open.spotify.com/track/7hxfaH77Qepfk8ARHzSp2z) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor Tóxico](https://open.spotify.com/album/0wGToLsV8vdaavtTQiPcUF) | 4:07 |
-| 63 | [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 |
-| 64 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
-| 65 | [Falso Malo](https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Música del Alma](https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ) | 3:27 |
+| 63 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
+| 64 | [Falso Malo](https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Música del Alma](https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ) | 3:27 |
+| 65 | [Yo Tonta, No](https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep) | 4:00 |
 
-Snapshot ID: `MTY3NzgxMjQwMCwwMDAwMDAwMGFlMTY0N2E1MzVmNGY4ZjU1NmYzNmEyMDA2ZWU1YTNk`
+Snapshot ID: `MTY3NzgxMjQwMCwwMDAwMDAwMGE1NTY4MjYxODMzMmU0ODRkNmU5NzUyYzE3NGQyZDAz`

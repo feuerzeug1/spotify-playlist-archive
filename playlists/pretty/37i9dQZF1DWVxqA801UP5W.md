@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Sam Ryder
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,639 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,655 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 46 | [WOW \- Imanbek Remix](https://open.spotify.com/track/07dzaQfXNcQPVm149RGlMg) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [WOW \(Imanbek Remix\)](https://open.spotify.com/album/0c04EkrQHr79i4rU53qTRQ) | 3:07 |
 | 47 | [911 \- Charli XCX & A\. G\. Cook Remix](https://open.spotify.com/track/4xx8LCv4tUv7PNk6g7VQmY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 4:13 |
 | 48 | [Rasputin \- Majestic Club VIP Remix](https://open.spotify.com/track/6FO4K7MrMoYkc5BlpX5LNV) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin \(Remixes\)](https://open.spotify.com/album/19TzoU9GkP6UpHGMgZaUdJ) | 5:45 |
-| 49 | [OK Not To Be OK \- Duke & Jones Remix](https://open.spotify.com/track/3qRBN8te6leaLPLXQ7ML9A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [OK Not To Be OK \(Duke & Jones Remix\)](https://open.spotify.com/album/3VEYp7SGrFbn6P91uTiY5J) | 2:34 |
-| 50 | [Nice To Meet Ya \- Diplo Remix](https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nice To Meet Ya \(Diplo Remix\)](https://open.spotify.com/album/3UuXPv0M71CU6m3On0wIwb) | 3:35 |
+| 49 | [Nice To Meet Ya \- Diplo Remix](https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nice To Meet Ya \(Diplo Remix\)](https://open.spotify.com/album/3UuXPv0M71CU6m3On0wIwb) | 3:35 |
+| 50 | [OK Not To Be OK \- Duke & Jones Remix](https://open.spotify.com/track/3qRBN8te6leaLPLXQ7ML9A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [OK Not To Be OK \(Duke & Jones Remix\)](https://open.spotify.com/album/3VEYp7SGrFbn6P91uTiY5J) | 2:34 |
 
-Snapshot ID: `MTY1NTczMTAxMCwwMDAwMDAwMDhmODY1NDgyNDM2NzVkNmMyOWMxZWRjNTAxYjJjNGEx`
+Snapshot ID: `MTY1NTczMTAxMCwwMDAwMDAwMGYxMzc5NTc3OTdjOWZhMGZmODJkMWZmMjQwNGZhOWEw`

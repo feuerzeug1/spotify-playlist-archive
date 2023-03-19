@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-259 songs - 15 hr 30 min
+260 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-16 |  |
 | [440hz \(feat\. Daichi Yamamoto x Koh\)](https://open.spotify.com/track/1bWEsD4W8gClixY0NpZh91) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [A440](https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe) | 4:27 | 2023-01-26 |  |
 | [All In](https://open.spotify.com/track/4Ks8tQBpkf3mStOv6KDPDc) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [All In](https://open.spotify.com/album/31i76UJJxEFOkDpFVEvhcE) | 4:00 | 2022-11-10 | 2022-12-21 |
-| [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-17 |  |
+| [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-17 | 2023-03-19 |
 | [All Through the Night](https://open.spotify.com/track/36LFopdtzqjhLU6syX7oJ7) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/63EgBU4cXiOTNaPDLbKN1z) | 3:01 | 2023-02-07 | 2023-02-22 |
 | [All Through the Night](https://open.spotify.com/track/6mLeXPjNAiOcyY3Ae2bQ6M) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn) | 3:01 | 2023-02-07 | 2023-02-09 |
 | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/track/29k925te93jCuDE5xj0xIV) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp) | 4:30 | 2023-01-19 | 2023-03-01 |
@@ -220,6 +220,7 @@
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 | 2022-10-20 |  |
 | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA) | 5:26 | 2022-11-29 | 2023-01-26 |
 | [Tip Of The Flame](https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:33 | 2022-10-20 | 2022-11-30 |
+| [To Be Yours \(feat\. Claud\)](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours \(feat\. Claud\)](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 | 2023-03-16 |  |
 | [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 | 2022-10-20 | 2022-11-09 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-23 |  |
 | [TRUE ROMANCE](https://open.spotify.com/track/2Z5YReCk1v75kXOOJnz6Dw) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [TRUE ROMANCE](https://open.spotify.com/album/28fndfGuME4dOzZ4UH4zOB) | 3:26 | 2022-11-15 | 2022-11-30 |

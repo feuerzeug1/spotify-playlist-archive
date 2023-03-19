@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 77945,
+  "num_followers": 78064,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyNzIwMCwwMDAwMDAwMGYyM2Y2MzY0MjYwNWE1YTY2N2ZkMmVlNTZkMDdmYjQz",
+  "snapshot_id": "MTY3NTIyNzIwMCwwMDAwMDAwMDUxNjdmMThhMDRjMWMzOGZjMDhmNjJmMDAyZGMwMjVm",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Jars Of Clay",
-        "url": "https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ"
-      },
-      "artists": [
-        {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Speechless",
         "url": "https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 237708,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Jars Of Clay",
+        "url": "https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/1fPm3avdEiN8fm9V3N1iGk"
+      },
+      "artists": [
+        {
+          "name": "The Benjamin Gate",
+          "url": "https://open.spotify.com/artist/5xNrsi292mrWxvM4g5bqOG"
+        }
+      ],
+      "duration_ms": 250125,
+      "name": "All Over Me",
+      "url": "https://open.spotify.com/track/48UADGUoDwrBOkTVxWjzaP"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/6O9oaYFECfRRBV5z2g0fbV"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 257973,
       "name": "Entertaining Angels",
       "url": "https://open.spotify.com/track/5lJEym4sjfKZJ20AAjpe1k"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/1fPm3avdEiN8fm9V3N1iGk"
-      },
-      "artists": [
-        {
-          "name": "The Benjamin Gate",
-          "url": "https://open.spotify.com/artist/5xNrsi292mrWxvM4g5bqOG"
-        }
-      ],
-      "duration_ms": 250125,
-      "name": "All Over Me",
-      "url": "https://open.spotify.com/track/48UADGUoDwrBOkTVxWjzaP"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Seven Day Jesus",
-        "url": "https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP"
-      },
-      "artists": [
-        {
-          "name": "Seven Day Jesus",
-          "url": "https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa"
-        }
-      ],
-      "duration_ms": 210768,
-      "name": "Butterfly - Seven Day Jesus Album Version",
-      "url": "https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Best Of Plumb",
         "url": "https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 246106,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Seven Day Jesus",
+        "url": "https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP"
+      },
+      "artists": [
+        {
+          "name": "Seven Day Jesus",
+          "url": "https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa"
+        }
+      ],
+      "duration_ms": 210768,
+      "name": "Butterfly - Seven Day Jesus Album Version",
+      "url": "https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD"
     },
     {
       "added_at": "2023-02-01 04:53:20",

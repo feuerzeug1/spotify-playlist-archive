@@ -4,7 +4,7 @@
 
 > West African love stories wrapped up in song
 
-221 songs - 11 hr 1 min
+222 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Keep On Rocking](https://open.spotify.com/track/6QI1X3HslfwOzp1ccx7x4k) | [Avante](https://open.spotify.com/artist/6LdpGXaKgNqCJBxRVRJoG3), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Frayz](https://open.spotify.com/artist/6TNvrjv0tBqhehlialweyH) | [Keep On Rocking](https://open.spotify.com/album/0UhiIEs4OSp0xzAEfISdMI) | 2:54 | 2022-09-01 | 2022-10-14 |
 | [King](https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:45 | 2022-02-11 |  |
 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 |  |
-| [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 | 2022-02-11 |  |
+| [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 | 2022-02-11 | 2023-03-19 |
 | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/album/4SGcHxa7P2vKHNknKXYRXu) | 2:48 | 2022-02-11 | 2023-02-24 |
 | [Koma](https://open.spotify.com/track/05QBSYagui3cfuxySqprhx) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Koma](https://open.spotify.com/album/5f4J2kU6M8Dax39aE7wNeo) | 2:31 | 2023-01-13 | 2023-01-28 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-16 | 2023-02-24 |
@@ -157,6 +157,7 @@
 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 | 2022-02-11 | 2022-08-26 |
 | [Ole Gan](https://open.spotify.com/track/5mkGlDnaz1DCJZ5B2NyPkj) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Ole Gan](https://open.spotify.com/album/6ey8rNqRKrbcxFdO2zulry) | 2:53 | 2022-12-02 | 2023-02-21 |
 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 | 2023-02-25 |
+| [One Of A Kind](https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [One Of A Kind](https://open.spotify.com/album/58SSPXzU66q7GdFqUPxCaU) | 2:56 | 2023-03-17 |  |
 | [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-13 | 2023-02-24 |
 | [Options](https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Options](https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s) | 2:55 | 2022-02-11 | 2022-10-04 |
 | [Ouu Ahh](https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu Ahh](https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C) | 2:45 | 2023-03-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > For all of us searching for that island life aesthetic\. Relajados y disfrutando la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,496 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 19 | [Lo Hice, Te Dejé](https://open.spotify.com/track/3PKhRDUCDckxRypmC5RhO6) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE) | 3:06 |
 | 20 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
 | 21 | [Perreo Bonito](https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Perreo Bonito](https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc) | 3:07 |
-| 22 | [Amuleto](https://open.spotify.com/track/32aNloyjcFTw3ST8fkEVUX) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/6AybhPKCqRGzCphbZc1jGW) | 3:49 |
-| 23 | [Tan Difícil de Entender](https://open.spotify.com/track/2KkQ9qiUzA7SHwCadQtI8u) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 2:05 |
+| 22 | [Tan Difícil de Entender](https://open.spotify.com/track/2KkQ9qiUzA7SHwCadQtI8u) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 2:05 |
+| 23 | [Amuleto](https://open.spotify.com/track/32aNloyjcFTw3ST8fkEVUX) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/6AybhPKCqRGzCphbZc1jGW) | 3:49 |
 | 24 | [Siento por Ciento](https://open.spotify.com/track/5h3at89Zr0tv2AKaL8oXMC) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Siento por Ciento](https://open.spotify.com/album/1mqgokTnTTkTMjZQ86V0g1) | 2:54 |
 | 25 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
 | 26 | [Serenatas Frente al Mar](https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Serenatas Frente al Mar](https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie) | 3:17 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 33 | [La Mirada](https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [La Mirada](https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC) | 3:14 |
 | 34 | [Volero](https://open.spotify.com/track/02QLmfHOTdKBha0QzK6Axv) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 3:11 |
 | 35 | [Ojitos de Aceituna](https://open.spotify.com/track/0Gwk4OQjtkHFHqrSzMQXYb) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:47 |
-| 36 | [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 |
+| 36 | [Todo contigo](https://open.spotify.com/track/6syVXJ8MF5axHLZ6A1TGMn) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Todo contigo](https://open.spotify.com/album/3ao3IZ5b6UH0WnD60tW5Vt) | 3:19 |
 | 37 | [La Peninsula](https://open.spotify.com/track/5OtvhDI7MTXUNJD4bd4RhZ) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz](https://open.spotify.com/album/6UJu3BPFmTGvzclsV8k4bI) | 3:00 |
-| 38 | [Todo contigo](https://open.spotify.com/track/6syVXJ8MF5axHLZ6A1TGMn) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Todo contigo](https://open.spotify.com/album/3ao3IZ5b6UH0WnD60tW5Vt) | 3:19 |
+| 38 | [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 |
 | 39 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
 | 40 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 |
 | 41 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 49 | [En Otra Vida](https://open.spotify.com/track/6jxwnoSEnnhmPWqCylbyEH) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [En Otra Vida](https://open.spotify.com/album/6krx2ErzaeocE6TXn7JglP) | 3:06 |
 | 50 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDdjMGRhMWJlYmU4OTg5Y2FhODcwZjhjZGU4N2QzNjhl`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGYyMzVjZjRhMGUxNTI4OGFhZGQ5NjhkMzIyYjBlOTFm`

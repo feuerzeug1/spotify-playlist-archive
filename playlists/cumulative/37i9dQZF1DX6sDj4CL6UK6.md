@@ -4,7 +4,7 @@
 
 > Best of Indian English tracks\. Cover\- Prateek Kuhad
 
-159 songs - 9 hr 17 min
+161 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Everything's Fine?](https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Everything's Fine?](https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8) | 4:19 | 2022-03-25 | 2022-05-26 |
 | [Faces of The Moon](https://open.spotify.com/track/3ojKMFsQjJC2vx9h5c3RNB) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Self Help Radio](https://open.spotify.com/album/7BcuPEUyxXNmRjRIlFX24v) | 4:48 | 2022-03-25 | 2022-05-25 |
 | [Faking Concern](https://open.spotify.com/track/479UQ7H4E9LFs7pJwDsJF6) | [Ishita Parakh](https://open.spotify.com/artist/0Fb1hND25pyPt3JSQAjIIV) | [Faking Concern](https://open.spotify.com/album/2rxkw4WM0iQ2kPIBx1AZ0I) | 2:40 | 2022-12-20 | 2023-02-16 |
-| [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-19 |  |
+| [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 | 2023-03-09 |  |
+| [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-19 | 2023-03-19 |
 | [Figure 8](https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Outlast](https://open.spotify.com/album/1wznIFQEKfVFPRD6MCH9AW) | 4:31 | 2022-03-25 | 2023-02-25 |
 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 | 2022-03-25 |  |
 | [Fooling Myself](https://open.spotify.com/track/6Lq5hNjil6j9xWwXqXfHv7) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Emily Coupe](https://open.spotify.com/artist/0RJ6bq5MxjA0D8uAG6GHJb) | [Fooling Myself](https://open.spotify.com/album/1vHKyM6FTrN1r74juua4kq) | 3:24 | 2022-11-09 | 2023-02-08 |
@@ -89,7 +90,8 @@
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-03-25 |  |
 | [Josephine On The Floor](https://open.spotify.com/track/65acdnLjDjysEy1nMGu6jM) | [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [Josephine On The Floor](https://open.spotify.com/album/4LxOKY3zx94ld1aXxqgDE4) | 4:27 | 2023-02-06 |  |
 | [Jukebox Of History \- Title Track](https://open.spotify.com/track/5TckSQXTGcIBl17jE7yY0F) | [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Jukebox Of History](https://open.spotify.com/album/00xX5TjEFY70OoI3Vo1mXv) | 3:08 | 2022-05-06 | 2022-05-28 |
-| [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 | 2022-03-25 |  |
+| [Just A Word](https://open.spotify.com/track/3XWRc74od1pT7MUkGiJmoW) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:00 | 2023-03-09 |  |
+| [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 | 2022-03-25 | 2023-03-19 |
 | [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 | 2022-09-20 |  |
 | [Keep](https://open.spotify.com/track/4eYkUYICxHoejgygQmBZR9) | [Meghana Mokhasi](https://open.spotify.com/artist/1o2ZuDHSBbuSRRdPiBaSGW) | [Keep \- Single](https://open.spotify.com/album/0VlDd0PvwmbCvCZO4qGcK5) | 2:24 | 2022-03-25 |  |
 | [L.O.M.L.](https://open.spotify.com/track/7MQelLtQ66g9YiR3fbbCT8) | [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [L.O.M.L.](https://open.spotify.com/album/1NvBy15OHNgf2z7RcF2PH0) | 3:24 | 2023-01-31 |  |

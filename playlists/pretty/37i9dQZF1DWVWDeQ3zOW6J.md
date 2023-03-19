@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,360 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,396 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 50 | [El Faisán](https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [El Maestro](https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH) | 8:22 |
 | 51 | [Ahora me da pena](https://open.spotify.com/track/3ogUFoUSvXN7GLb0Q0EAgu) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Fe, Esperanza y Caridad](https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII) | 6:44 |
 | 52 | [Marejada Feliz](https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 9](https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT) | 7:22 |
-| 53 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |
-| 54 | [Prende El Fogón](https://open.spotify.com/track/5o1kiwkFXoJET4FW4pKtlE) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Desde Puerto Rico A Nueva York](https://open.spotify.com/album/1vqHcNBGzfBymZFfceTcML) | 5:12 |
+| 53 | [Prende El Fogón](https://open.spotify.com/track/5o1kiwkFXoJET4FW4pKtlE) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Desde Puerto Rico A Nueva York](https://open.spotify.com/album/1vqHcNBGzfBymZFfceTcML) | 5:12 |
+| 54 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |
 | 55 | [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 |
 | 56 | [Alo Alo](https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [Salsa De La Mata, Vol\. 2](https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk) | 4:51 |
-| 57 | [Yerbero Moderno](https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 2:56 |
-| 58 | [La Esquina Del Movimiento](https://open.spotify.com/track/28eTHRQGyFfQPqzwNWCYws) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Nelson Pinedo](https://open.spotify.com/artist/68YsvVAGVdlaJpk5sA21pq) | [¿Quién Será?](https://open.spotify.com/album/1RajdvWppURk9ULx1dzNSV) | 2:36 |
+| 57 | [La Esquina Del Movimiento](https://open.spotify.com/track/28eTHRQGyFfQPqzwNWCYws) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Nelson Pinedo](https://open.spotify.com/artist/68YsvVAGVdlaJpk5sA21pq) | [¿Quién Será?](https://open.spotify.com/album/1RajdvWppURk9ULx1dzNSV) | 2:36 |
+| 58 | [Yerbero Moderno](https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 2:56 |
 | 59 | [Brujeria](https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7), [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Yayo El Indio](https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG) | [Aqui Estoy Yo, Vol\. 1](https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry) | 3:27 |
 | 60 | [Salsa Y Sabor](https://open.spotify.com/track/6PK9NhUfcPQL5vfkg44dYE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Para los Rumberos](https://open.spotify.com/album/0NO0lAOqHxaM5wCdSZ8x8P) | 3:01 |
 
-Snapshot ID: `MTY3NjMyODk1MCwwMDAwMDAwMDM4NzdkZjQ5YzQ5MTk4OTI5ODc1ODNjYmIxZWRiNWQ2`
+Snapshot ID: `MTY3NjMyODk1MCwwMDAwMDAwMDI1ZjVkMzBkNzI4OGE1ZWIwMTg0ZGYxODVkNjljOTFk`

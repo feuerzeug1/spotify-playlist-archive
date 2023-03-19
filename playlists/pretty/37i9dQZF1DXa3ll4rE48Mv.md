@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Witch Fever
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,424 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,521 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 10 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 |
 | 11 | [Fences](https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Fences](https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj) | 3:58 |
 | 12 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 |
-| 13 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 |
-| 14 | [Damage](https://open.spotify.com/track/4wnQakFNePOBNxRDYqgeix) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV) | [Steady Damage](https://open.spotify.com/album/6Y1wY8wtyTz65k4hhfrPy2) | 3:07 |
+| 13 | [Damage](https://open.spotify.com/track/4wnQakFNePOBNxRDYqgeix) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV) | [Steady Damage](https://open.spotify.com/album/6Y1wY8wtyTz65k4hhfrPy2) | 3:07 |
+| 14 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 |
 | 15 | [The Rent](https://open.spotify.com/track/61aNP3upsNJMLRdWf8Mj5v) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [The Rent](https://open.spotify.com/album/7ctFtUf0RzsBUNzOIkl1kL) | 2:53 |
 | 16 | [Seashore](https://open.spotify.com/track/6kQ3W5LMxh6ftjEBssYgAd) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 3:28 |
 | 17 | [Becky](https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O) | [be your own PET](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Get Damaged](https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk) | 3:00 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 27 | [Always Happy](https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Always Happy](https://open.spotify.com/album/3Pygq0SBpzO6CKbdLjrYEa) | 2:38 |
 | 28 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
 | 29 | [G.L.O.S.S\. \(We're from the Future\)](https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f) | [G.L.O.S.S.](https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU) | [Demo 2015](https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl) | 1:31 |
-| 30 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
-| 31 | [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 |
+| 30 | [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 |
+| 31 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
 | 32 | [Pigs Is Pigs](https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 1:56 |
 | 33 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 |
 | 34 | [Fuck the Cistem](https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg) | [The Muslims](https://open.spotify.com/artist/0k4t6CgTa017VoLxokJn8t) | [Mayo Supreme](https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y) | 2:52 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 47 | [CCCHOKEMEEE](https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A) | [Danny Denial](https://open.spotify.com/artist/6jzsOmxoZhStlS4jaJy95U) | [Fuck Danny Denial](https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR) | 3:25 |
 | 48 | [Brighter Days \(Are Before Us\)](https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Model Citizen](https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5) | 3:03 |
 | 49 | [Let's Make Out](https://open.spotify.com/track/6sFBi0lIQ2tWedzNcFDnkR) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 2:55 |
-| 50 | [Bird in Space](https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL) | 4:51 |
-| 51 | [Total 90](https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Total 90](https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj) | 2:43 |
+| 50 | [Total 90](https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Total 90](https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj) | 2:43 |
+| 51 | [Bird in Space](https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL) | 4:51 |
 | 52 | [Tinder Girl](https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:17 |
 | 53 | [This Is What We Look Like](https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q) | [Personal Best](https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64) | [Arnos Vale](https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5) | 3:43 |
 | 54 | [Night in the Woods](https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5) | [Gender Chores](https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi) | [Night in the Woods](https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0) | 3:03 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 73 | [Down](https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp) | [Thelma and the Sleaze](https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57) | [Fuck, Marry, Kill](https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT) | 4:12 |
 | 74 | [Miranda](https://open.spotify.com/track/7JuocCvYUBbC0X1bZj6guM) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Miranda](https://open.spotify.com/album/7M5VeWYg64LLnKe5yvVDo2) | 4:00 |
 | 75 | [Divine Violence](https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl) | [itoldyouiwouldeatyou](https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe) | [Divine Violence](https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4) | 3:22 |
-| 76 | [Precious and Perfect](https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD) | [Sports Bra](https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b) | [Talk It Out](https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61) | 3:00 |
-| 77 | [House Party](https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89) | [La Luna](https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g) | [Always Already](https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy) | 1:53 |
+| 76 | [House Party](https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89) | [La Luna](https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g) | [Always Already](https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy) | 1:53 |
+| 77 | [Precious and Perfect](https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD) | [Sports Bra](https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b) | [Talk It Out](https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61) | 3:00 |
 | 78 | [Sissy Fists](https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ) | [Queen Zee](https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL) | [Queen Zee](https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk) | 2:23 |
 | 79 | [Jillian](https://open.spotify.com/track/5l3tZXrt8t84oaQMArZv6q) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Dream Nails](https://open.spotify.com/album/0V68qsHQh9pancGCrfcxev) | 2:39 |
 | 80 | [Dream Partner](https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3) | [Wolf Girl](https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX) | [Every Now and Then](https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt) | 2:34 |
 
-Snapshot ID: `MTY3NDU2ODgwMCwwMDAwMDAwMGJkZTFmNmY5ZjdkODNhZjc0ZGZjM2QzODQyMzAxYmU0`
+Snapshot ID: `MTY3NDU2ODgwMCwwMDAwMDAwMDA2YTM2ZjkxZGEyYTBlMDAyNWNmY2UwM2I0MDZiN2Vk`

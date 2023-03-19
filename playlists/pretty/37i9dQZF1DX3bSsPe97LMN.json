@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Rub\u00e9n Figueroa en portada.",
-  "num_followers": 51297,
+  "num_followers": 51327,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMDZiOThiYmExZWRhOWY3NDdmNGE2NmQ2ZDc4MjZiNjQx",
+  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMDkxMGY4YjlhYmI3MDViZjhmYTAxZDNmMjQwNTY5MmFk",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Yo Soy El Bueno (En Vivo)",
-        "url": "https://open.spotify.com/album/3aDn1xUk7p7Ec9CCgl1NtY"
-      },
-      "artists": [
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 176613,
-      "name": "Yo Soy El Bueno - En Vivo",
-      "url": "https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael",
         "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 186624,
       "name": "Tambi\u00e9n Me Llamo Ismael",
       "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Yo Soy El Bueno (En Vivo)",
+        "url": "https://open.spotify.com/album/3aDn1xUk7p7Ec9CCgl1NtY"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 176613,
+      "name": "Yo Soy El Bueno - En Vivo",
+      "url": "https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
+        "name": "El Flaco",
+        "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 147957,
+      "name": "El Flaco",
+      "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
         "name": "Al Ladito De Mi Sombra",
         "url": "https://open.spotify.com/album/1YAJoaesc067ftdir8W1EE"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "El Flaco",
-        "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 147957,
-      "name": "El Flaco",
-      "url": "https://open.spotify.com/track/583JJj5Uo5xjqdpZ3ood1q"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "Soy Nayarita",
         "url": "https://open.spotify.com/album/3DTxuAjvu0P7tZlEmdA6Pv"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 189052,
       "name": "Soy Nayarita",
       "url": "https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Peque\u00f1a y Frag\u00edl",
-        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 173837,
-      "name": "Peque\u00f1a y Frag\u00edl",
-      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1151,6 +1135,38 @@
       "duration_ms": 143683,
       "name": "Somos de la Mayiza (El Checo)",
       "url": "https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Peque\u00f1a y Frag\u00edl",
+        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 173837,
+      "name": "Peque\u00f1a y Frag\u00edl",
+      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "Casa en Llamas",
         "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
       },
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
+        "name": "Hombre Normal",
+        "url": "https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04"
+      },
+      "artists": [
+        {
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
+        }
+      ],
+      "duration_ms": 254999,
+      "name": "Hombre Normal",
+      "url": "https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
         "name": "Bajo la Lluv\u00eda",
         "url": "https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 154017,
       "name": "Bajo la Lluv\u00eda",
       "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Hombre Normal",
-        "url": "https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04"
-      },
-      "artists": [
-        {
-          "name": "Bajo Perfil",
-          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
-        }
-      ],
-      "duration_ms": 254999,
-      "name": "Hombre Normal",
-      "url": "https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Onda Sabanera & Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,740 likes - 64 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,857 likes - 64 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 36 | [Perdoname / Te Quiero a Ti \- En Vivo](https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 4:29 |
 | 37 | [La Ventanita / Beso a Beso](https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 8:03 |
 | 38 | [Decir Adiós \- En Vivo](https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Show En Parque Recondo](https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG) | 2:11 |
-| 39 | [Soy Mala Fama \- En Vivo](https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [20 Años Agitando el Avispero \(En Vivo\)](https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9) | 3:18 |
-| 40 | [Después De Ti](https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 1:21 |
+| 39 | [Después De Ti](https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 1:21 |
+| 40 | [Soy Mala Fama \- En Vivo](https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [20 Años Agitando el Avispero \(En Vivo\)](https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9) | 3:18 |
 | 41 | [Tu Sin Mi \- En Vivo](https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:41 |
 | 42 | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL) | 5:30 |
 | 43 | [Los Pibes Chorros / Solo Le Pido a Dios / Botellero](https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 4:47 |
 | 44 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:04 |
 | 45 | [Adios Amor Adios \- En Vivo](https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:55 |
 | 46 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
-| 47 | [La Misma Cancion \(En Vivo\)](https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [La Misma Cancion \(En Vivo\)](https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV) | 3:02 |
-| 48 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
-| 49 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 |
+| 47 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 |
+| 48 | [La Misma Cancion \(En Vivo\)](https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [La Misma Cancion \(En Vivo\)](https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV) | 3:02 |
+| 49 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
 | 50 | [Pibe Cantina](https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:15 |
 | 51 | [Hoy Te Vi / El Paredon \- En Vivo](https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv) | 5:12 |
 | 52 | [La Danza del Humo / Llegamos los Pibes Chorros / Mabel](https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 8:16 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 |
 | 64 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
 
-Snapshot ID: `MTY3ODk5NjQ3NSwwMDAwMDAwMDAyZjk4MWQwMzNlOTIzMzgyMjZlMGMzZTdhODMyNTQ1`
+Snapshot ID: `MTY3ODk5NjQ3NSwwMDAwMDAwMDUxN2Y4NzdkNzVmNDFkMTliNzhlMjUzZGZkNTU5YjBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/4gP93834jVbocef9R42gQz?si=E9SyvXp9Rs2fj13j9vm27w" > Kwaku DMC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,394 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,417 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 17 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 | 18 | [COLD](https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [COLD](https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0) | 2:09 |
 | 19 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 |
-| 20 | [Bougie and Thick](https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko) | [Bougie and Thick](https://open.spotify.com/album/3ILEi9iWRNrCEiteWk0FeR) | 1:51 |
+| 20 | [Bougie and Thick](https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [AT Martian](https://open.spotify.com/artist/37aE8EiBoUxAP0VLex7Ow9) | [Bougie and Thick](https://open.spotify.com/album/3ILEi9iWRNrCEiteWk0FeR) | 1:51 |
 | 21 | [Ekorso](https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Ekorso](https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork) | 3:44 |
 | 22 | [Hmm \- Remix](https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h) | [Hmm \(Remix\)](https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb) | 3:30 |
 | 23 | [AGYEIWAA](https://open.spotify.com/track/6jiUTqGMy6CeiQtCxIjKKa) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [AGYEIWAA](https://open.spotify.com/album/4dhGN9UWrhHHR0DhhxfZKo) | 3:31 |

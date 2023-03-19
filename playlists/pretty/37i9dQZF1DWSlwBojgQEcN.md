@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,761,578 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,761,839 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 32 | [Wait for You](https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj) | 3:13 |
 | 33 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 |
 | 34 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 |
-| 35 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 |
-| 36 | [Awake My Soul](https://open.spotify.com/track/2jTkLdldm7xtHUfHKhzR7S) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:15 |
+| 35 | [Awake My Soul](https://open.spotify.com/track/2jTkLdldm7xtHUfHKhzR7S) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:15 |
+| 36 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 |
 | 37 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
 | 38 | [Breathe Again \- Acoustic](https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Breathe Again \(Acoustic\)](https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D) | 3:18 |
 | 39 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 99 | [My Sweet Refuge](https://open.spotify.com/track/0PjNDvcERee30Gvr5OCCHz) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Quiet Man \(Deluxe Edition\)](https://open.spotify.com/album/0OtB923QBS47Dm0jyolDN4) | 4:41 |
 | 100 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGI0OTk0ZTJmMmY0N2Y0NDQ5YTEwOGM4YzE3N2NhYjEw`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGQwOGE5ODlmZDk2Y2VhMzNhOGQ4ZWIwNjZiNDYwNWEw`

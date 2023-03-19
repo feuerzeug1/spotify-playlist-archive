@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 17008,
+  "num_followers": 17016,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDc3YTNkNGVkNzk3NjNjYWJiYTgwOTQ4YWJlODYzNWRm",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDY3NDNjZTUwZjdmOGZhZjIwOGZjYmQwZGY0ZGI1ZWEz",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
     },
     {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 63720,
-      "name": "Rattlin' Change",
-      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Still",
@@ -531,6 +515,22 @@
       "duration_ms": 315178,
       "name": "Here Comes the Flood",
       "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 63720,
+      "name": "Rattlin' Change",
+      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 221430,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Unrepentant",
         "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
         }
       ],
-      "duration_ms": 277160,
-      "name": "Change In Me (The Rebirth)",
-      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
+      "duration_ms": 174892,
+      "name": "Keep Your Light on Mama",
+      "url": "https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn"
     },
     {
       "added_at": "2021-04-27 23:04:41",
@@ -635,34 +651,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2"
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
       },
       "artists": [
         {
-          "name": "Jared James Nichols",
-          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
         }
       ],
-      "duration_ms": 174892,
-      "name": "Keep Your Light on Mama",
-      "url": "https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 221430,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+      "duration_ms": 277160,
+      "name": "Change In Me (The Rebirth)",
+      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
       "added_at": "2020-10-21 17:37:12",

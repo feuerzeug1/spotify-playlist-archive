@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "All Of The Girls You Loved Before",
+        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221407,
+      "name": "All Of The Girls You Loved Before",
+      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+    },
+    {
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -1513,6 +1531,32 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319963,
+      "name": "Baby again..",
+      "url": "https://open.spotify.com/track/6dVgCHMZrWG0tQ4HPeu4aw"
+    },
+    {
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
@@ -1768,7 +1812,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -2706,7 +2750,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 185610,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/3pvzk44kwy8u46wtglCKzd"
@@ -5620,6 +5664,24 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
     },
     {
       "album": {
@@ -10426,7 +10488,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 121411,
       "name": "Kommunikatsiooni Probleem",
       "url": "https://open.spotify.com/track/7JDPjTzXu2rIbWjoAmKPLq"
@@ -14305,6 +14367,24 @@
     },
     {
       "album": {
+        "name": "M\u00f5tled mu peale",
+        "url": "https://open.spotify.com/album/2Ucjt6nwah1AleWMzKkdRS"
+      },
+      "artists": [
+        {
+          "name": "Clicherik & M\u00e4x",
+          "url": "https://open.spotify.com/artist/2K5ujJoG9L4INBflflfxtk"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "M\u00f5tled mu peale",
+      "url": "https://open.spotify.com/track/58nRZ85BvjTJmGqVkbtGDW"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -17056,7 +17136,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -17190,7 +17270,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 162973,
       "name": "River",
       "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
@@ -17320,7 +17400,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -18112,6 +18192,24 @@
       "duration_ms": 179439,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9"
+    },
+    {
+      "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
       "album": {
@@ -19300,7 +19398,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-19",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"

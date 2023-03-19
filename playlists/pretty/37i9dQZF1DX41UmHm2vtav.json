@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 396008,
+  "num_followers": 396405,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwMjg2MCwwMDAwMDAwMGUzZGRjZWU4M2Y3MGFjZGFhN2Y0ZGEwODVmOGJkZTBk",
+  "snapshot_id": "MTY3NjYwMjg2MCwwMDAwMDAwMDMwN2NjNWMyN2M1ZGJiZDM1Mjg2YmY3NjFkZTU0YjFl",
   "tracks": [
     {
       "added_at": "2023-02-17 03:01:00",
@@ -271,26 +271,6 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Anuncia\u00e7\u00e3o (Jopin Remix)",
-        "url": "https://open.spotify.com/album/5qqCJjqk0FjKmQ5ZiFD2Gs"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 205238,
-      "name": "Anuncia\u00e7\u00e3o - Jopin Remix",
-      "url": "https://open.spotify.com/track/5MU0hFRrFjG0IxKOKa1IPp"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
         "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
         "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
@@ -323,6 +303,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
+        "name": "Anuncia\u00e7\u00e3o (Jopin Remix)",
+        "url": "https://open.spotify.com/album/5qqCJjqk0FjKmQ5ZiFD2Gs"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 205238,
+      "name": "Anuncia\u00e7\u00e3o - Jopin Remix",
+      "url": "https://open.spotify.com/track/5MU0hFRrFjG0IxKOKa1IPp"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
         "name": "Cante por N\u00f3s",
         "url": "https://open.spotify.com/album/7zsQ5suVlsbukzTjgAzrpm"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Live Your Life",
-        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 200574,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/5daWuGgRobKJj2FG0dgYXo"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 124226,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/3PJvNwNj6AhlVxm69dcyTB"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 200574,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -555,22 +555,18 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Tempos Modernos",
-        "url": "https://open.spotify.com/album/63zhf4PV2rfoHI0kdk7W5s"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa"
       },
       "artists": [
         {
-          "name": "Make U Sweat",
-          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 215104,
-      "name": "Tempos Modernos",
-      "url": "https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl"
+      "duration_ms": 224262,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -599,18 +595,22 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa"
+        "name": "Tempos Modernos",
+        "url": "https://open.spotify.com/album/63zhf4PV2rfoHI0kdk7W5s"
       },
       "artists": [
         {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+          "name": "Make U Sweat",
+          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 224262,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB"
+      "duration_ms": 215104,
+      "name": "Tempos Modernos",
+      "url": "https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -1015,22 +1035,18 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
       },
       "artists": [
         {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -1183,6 +1199,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
         "name": "I Do (with Zeeba)",
         "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
       },
@@ -1243,22 +1279,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+        "name": "Hoje Caminhei (Remix)",
+        "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Cazt",
+          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
         },
         {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+        },
+        {
+          "name": "\u00d8NEhead",
+          "url": "https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
+      "duration_ms": 140826,
+      "name": "Hoje Caminhei - Remix",
+      "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -1287,46 +1327,6 @@
       "duration_ms": 376680,
       "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
       "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
-        "name": "Hoje Caminhei (Remix)",
-        "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
-      },
-      "artists": [
-        {
-          "name": "Cazt",
-          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
-        },
-        {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
-        },
-        {
-          "name": "\u00d8NEhead",
-          "url": "https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Hoje Caminhei - Remix",
-      "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
         "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
         "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 209032,
       "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
       "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
     },
     {
       "added_at": "2023-02-17 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 606860,
+  "num_followers": 607297,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODcwODg5NCwwMDAwMDAwMGVhOTY2NTA5NjM0YjYyOWYyYzI5NjI2Njc2YjhkOTg0",
+  "snapshot_id": "MTY3ODcwODg5NCwwMDAwMDAwMDNlNmM1YmFjN2Q4OTg0NjgwOTFlMWEyM2U5MjQ5M2U2",
   "tracks": [
     {
       "added_at": "2023-03-06 15:19:10",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
     },
     {
+      "added_at": "2023-03-19 01:06:10",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "CAROLINA",
+      "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
+    },
+    {
       "added_at": "2023-03-06 15:19:10",
       "album": {
         "name": "Ferxxo 100",
@@ -567,22 +583,6 @@
       "duration_ms": 167973,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
-    },
-    {
-      "added_at": "2023-03-18 00:09:47",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "CAROLINA",
-      "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
     },
     {
       "added_at": "2023-03-06 15:19:10",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-06 15:19:10",
       "album": {
-        "name": "23 Preguntas",
-        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 251221,
-      "name": "23 Preguntas",
-      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
-    },
-    {
-      "added_at": "2023-03-06 15:19:10",
-      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 212653,
       "name": "Porno",
       "url": "https://open.spotify.com/track/34ZngZgo8xicbt1EE8Ob8Z"
+    },
+    {
+      "added_at": "2023-03-06 15:19:10",
+      "album": {
+        "name": "23 Preguntas",
+        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 251221,
+      "name": "23 Preguntas",
+      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
     },
     {
       "added_at": "2023-03-06 15:19:10",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-03-06 15:19:10",
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 195769,
-      "name": "COSITAS",
-      "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
-    },
-    {
-      "added_at": "2023-03-06 15:19:10",
-      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -1443,18 +1423,22 @@
     {
       "added_at": "2023-03-06 15:19:10",
       "album": {
-        "name": "Para Mi Ex",
-        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         }
       ],
-      "duration_ms": 187191,
-      "name": "Extasy",
-      "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
+      "duration_ms": 195769,
+      "name": "COSITAS",
+      "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
     },
     {
       "added_at": "2023-03-06 15:19:10",
@@ -1483,6 +1467,42 @@
       "duration_ms": 310860,
       "name": "En Tu Cuerpo - Remix",
       "url": "https://open.spotify.com/track/3dEtfTtCXWW7N8WQ9FD29z"
+    },
+    {
+      "added_at": "2023-03-06 15:19:10",
+      "album": {
+        "name": "Para Mi Ex",
+        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 187191,
+      "name": "Extasy",
+      "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
+    },
+    {
+      "added_at": "2023-03-06 15:19:10",
+      "album": {
+        "name": "M\u00e1s de Ti",
+        "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 266835,
+      "name": "M\u00e1s de Ti",
+      "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
     },
     {
       "added_at": "2023-03-06 15:19:10",
@@ -1527,6 +1547,26 @@
     {
       "added_at": "2023-03-06 15:19:10",
       "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Imaginaste",
+      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
+    },
+    {
+      "added_at": "2023-03-06 15:19:10",
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6OWLWa5E6O0GaQ3flVPioL"
       },
@@ -1547,26 +1587,6 @@
       "duration_ms": 216000,
       "name": "Dominicana",
       "url": "https://open.spotify.com/track/7qetypYpvINP4AJ3fZNsGm"
-    },
-    {
-      "added_at": "2023-03-06 15:19:10",
-      "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Imaginaste",
-      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
     },
     {
       "added_at": "2023-03-06 15:19:10",
@@ -1599,26 +1619,6 @@
       "duration_ms": 289933,
       "name": "No Te Enamores - Remix",
       "url": "https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt"
-    },
-    {
-      "added_at": "2023-03-06 15:19:10",
-      "album": {
-        "name": "M\u00e1s de Ti",
-        "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 266835,
-      "name": "M\u00e1s de Ti",
-      "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
     },
     {
       "added_at": "2023-03-06 15:19:10",

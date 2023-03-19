@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svensk punk från förr och nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,836 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,850 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Die Mauer](https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön](https://open.spotify.com/album/3fZyzR2Qeu8d5h8FsejF1I) | 4:04 |
 | 2 | [Så Jävla Bra](https://open.spotify.com/track/2IcGqSD8NBLrKSjfTQAlgB) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [3](https://open.spotify.com/album/0bPWq9dByUtckQQ9ReT1sY) | 3:53 |
-| 3 | [Leningrad skyline](https://open.spotify.com/track/6HFVHZt5xRuPpiqFKXbJ6W) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 3:27 |
-| 4 | [Alla vill till himmelen men ingen vill dö](https://open.spotify.com/track/0bdo2vF0PUZ9k0WaK9kKuu) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv), [Martin Westerstrand](https://open.spotify.com/artist/5t6WDMTCzu4scrQiLn3rPC) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:57 |
+| 3 | [Alla vill till himmelen men ingen vill dö](https://open.spotify.com/track/0bdo2vF0PUZ9k0WaK9kKuu) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv), [Martin Westerstrand](https://open.spotify.com/artist/5t6WDMTCzu4scrQiLn3rPC) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:57 |
+| 4 | [Leningrad skyline](https://open.spotify.com/track/6HFVHZt5xRuPpiqFKXbJ6W) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 3:27 |
 | 5 | [Sibirien](https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV) | [Trubbel](https://open.spotify.com/artist/6cdyHr4eKkFvA3lVDNzJ6M) | [Trubbel](https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K) | 1:25 |
 | 6 | [Lilla Björn Och Lilla Tiger](https://open.spotify.com/track/4UTTtBZGgpaNCkYH1E3lIO) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 3:09 |
 | 7 | [Tro Rätt Tro Fel](https://open.spotify.com/track/7CNyBCHfFMRCQRFeTT5r8p) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM) | 3:57 |
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 9 | [800°](https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Kärlek och uppror](https://open.spotify.com/album/0n2TPFl1JX4hWzt0iC4Dx0) | 3:47 |
 | 10 | [Bakom Spegeln](https://open.spotify.com/track/19RCzCRRAaIVVSf2WDtVRB) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Finito](https://open.spotify.com/album/4GVLOGsaNo2NGkLtq6IBRt) | 2:52 |
 | 11 | [Håll höjd](https://open.spotify.com/track/0HvIpVm3SxEYMi7F02sfNK) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Som en dålig film](https://open.spotify.com/album/3EHdMsEKuqUtvAhProY9Hc) | 5:08 |
-| 12 | [En vacker död stad](https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Det är ni som e dom konstiga, det är jag som e normal](https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H) | 3:13 |
-| 13 | [Dra Åt Helvete](https://open.spotify.com/track/2NLoDpuaf96GLxXH7Nv9tJ) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [3](https://open.spotify.com/album/0bPWq9dByUtckQQ9ReT1sY) | 4:07 |
+| 12 | [Dra Åt Helvete](https://open.spotify.com/track/2NLoDpuaf96GLxXH7Nv9tJ) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [3](https://open.spotify.com/album/0bPWq9dByUtckQQ9ReT1sY) | 4:07 |
+| 13 | [En vacker död stad](https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Det är ni som e dom konstiga, det är jag som e normal](https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H) | 3:13 |
 | 14 | [Älska Mig](https://open.spotify.com/track/3iSt8hTzeb5SKdHLVwTFcc) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sanningens Morgon](https://open.spotify.com/album/4L8BOlcLg6VbsLeT9bbdXm) | 3:05 |
 | 15 | [Dricka Sprit Och Hålla Käften](https://open.spotify.com/track/3EtDZnjDsQxkj5c54Lmvoa) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 3:27 |
 | 16 | [Luft](https://open.spotify.com/track/0K6YetKSOrm4HPP1kBxtuX) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Efter Allt](https://open.spotify.com/album/3zEzsyQSqze5kbJLqjUnv4) | 3:37 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 |
 | 65 | [Alaska](https://open.spotify.com/track/2tFsLCGvOirHBRBeC4JxcK) | [EPA](https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj) | [Tretton Övningar i Mindfulness](https://open.spotify.com/album/38BvEgilcgoviVitJEqpKc) | 2:40 |
 
-Snapshot ID: `MTY3Nzg1NDk5NSwwMDAwMDAwMDFlYWIzOTBiYzNkN2RkNDU1YWYzMWU0MjgzY2IzNjQx`
+Snapshot ID: `MTY3Nzg1NDk5NSwwMDAwMDAwMDg4MGNlZTJjY2ExNDUxZTc1YmY1YTNkZGViOTY4NDU4`

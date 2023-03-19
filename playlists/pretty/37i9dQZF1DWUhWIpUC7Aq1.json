@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 87544,
+  "num_followers": 87615,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgzMDY3MiwwMDAwMDAwMDg0OTVhZGEzZWMwZjBlZWI5NGQ4NzM3MzcxNmEyYzM2",
+  "snapshot_id": "MTY3ODgzMDY3MiwwMDAwMDAwMGU1MjRkY2EzNWJlNmU1NjlhMGMwZDZhNjlkYjRlMjA3",
   "tracks": [
     {
       "added_at": "2023-03-14 21:50:42",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
-      "added_at": "2023-03-18 00:10:43",
+      "added_at": "2023-03-19 01:11:27",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 360106,
-      "name": "The Girl",
-      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 360106,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
     },
     {
       "added_at": "2023-03-14 21:50:42",

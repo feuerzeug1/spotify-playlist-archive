@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 83625,
+  "num_followers": 83642,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk3ODgwMCwwMDAwMDAwMGI4NGU3N2FhNDAxZDJkMDJhOTgxOTliZmY5N2QyZjAx",
+  "snapshot_id": "MTY3ODk3ODgwMCwwMDAwMDAwMDhkZDU3Zjg5Zjc2MjE2OGM2YzExM2NkYjM2MDE5Yjhl",
   "tracks": [
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "a little more time",
-        "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 210202,
-      "name": "a little more time",
-      "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
+      "duration_ms": 156798,
+      "name": "hate to be lame",
+      "url": "https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1147,22 +1151,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "a little more time",
+        "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 156798,
-      "name": "hate to be lame",
-      "url": "https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl"
+      "duration_ms": 210202,
+      "name": "a little more time",
+      "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL"
+        "name": "Stay Anything",
+        "url": "https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 194050,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY"
+      "duration_ms": 208282,
+      "name": "Stay Anything",
+      "url": "https://open.spotify.com/track/0XC3NNlml0mClzs23YtBiL"
     }
   ],
   "unique_name": "Mid Tempo Magic",
