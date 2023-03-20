@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Lil Uzi Vert",
-  "num_followers": 202354,
+  "num_followers": 202374,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAwNzY2MCwwMDAwMDAwMGY1MDdhZGI0MzI3ZTY1ZTJhZDE3YWVmN2M5YjQxNGRm",
+  "snapshot_id": "MTY3OTAwNzY2MCwwMDAwMDAwMGY3OGRlM2QyYjU2NWYyOWZhNGUwZWJkNGI5ZGRiMTQ1",
   "tracks": [
     {
       "added_at": "2023-03-16 23:01:00",
@@ -240,16 +240,16 @@
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         },
         {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        },
+        {
           "name": "Kerchak",
           "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         },
         {
           "name": "Leto",
           "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
         }
       ],
       "duration_ms": 194201,
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-16 23:01:00",
       "album": {
-        "name": "Aft\u00ebrLyfe",
-        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 143466,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/3HqGDrSOZ6LbBfX5EsiaAj"
-    },
-    {
-      "added_at": "2023-03-16 23:01:00",
-      "album": {
         "name": "MOTTO",
         "url": "https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 217271,
       "name": "MOTTO",
       "url": "https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk"
+    },
+    {
+      "added_at": "2023-03-16 23:01:00",
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 143466,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/3HqGDrSOZ6LbBfX5EsiaAj"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-16 23:01:00",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
-    },
-    {
-      "added_at": "2023-03-16 23:01:00",
-      "album": {
         "name": "Die Young (feat. 347aidan)",
         "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+    },
+    {
+      "added_at": "2023-03-16 23:01:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-03-16 23:01:00",
       "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 197692,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
-    },
-    {
-      "added_at": "2023-03-16 23:01:00",
-      "album": {
         "name": "Munch (Feelin\u2019 U)",
         "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-03-16 23:01:00",
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+        "name": "My All",
+        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 231220,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
+      "duration_ms": 197692,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1331,6 +1315,42 @@
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
+    },
+    {
+      "added_at": "2023-03-16 23:01:00",
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 231220,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
+    },
+    {
+      "added_at": "2023-03-16 23:01:00",
+      "album": {
+        "name": "TO THE MOON",
+        "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
+      },
+      "artists": [
+        {
+          "name": "Jnr Choi",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "TO THE MOON",
+      "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1375,26 +1395,6 @@
       "duration_ms": 245240,
       "name": "We Caa Done (feat. Drake)",
       "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
-    },
-    {
-      "added_at": "2023-03-16 23:01:00",
-      "album": {
-        "name": "TO THE MOON",
-        "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
-      },
-      "artists": [
-        {
-          "name": "Jnr Choi",
-          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
-        },
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "TO THE MOON",
-      "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-03-16 23:01:00",
       "album": {
-        "name": "Underrated",
-        "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
-      },
-      "artists": [
-        {
-          "name": "Lil Eazzyy",
-          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
-        }
-      ],
-      "duration_ms": 128014,
-      "name": "Onna Come Up",
-      "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
-    },
-    {
-      "added_at": "2023-03-16 23:01:00",
-      "album": {
         "name": "Rover (feat. DTG)",
         "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-03-16 23:01:00",
       "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "duration_ms": 128014,
+      "name": "Onna Come Up",
+      "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
+    },
+    {
+      "added_at": "2023-03-16 23:01:00",
+      "album": {
         "name": "Fighting Demons (Deluxe)",
         "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
@@ -1523,26 +1523,6 @@
       "duration_ms": 259672,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
-    },
-    {
-      "added_at": "2023-03-16 23:01:00",
-      "album": {
-        "name": "GOATED.",
-        "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 197380,
-      "name": "GOATED. (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1567,6 +1547,26 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+    },
+    {
+      "added_at": "2023-03-16 23:01:00",
+      "album": {
+        "name": "GOATED.",
+        "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 197380,
+      "name": "GOATED. (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2023-03-16 23:01:00",
       "album": {
+        "name": "Mbappe (Remix)",
+        "url": "https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 237344,
+      "name": "Mbappe - Remix",
+      "url": "https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu"
+    },
+    {
+      "added_at": "2023-03-16 23:01:00",
+      "album": {
         "name": "Feeling Myself",
         "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
       },
@@ -1647,22 +1667,6 @@
       "duration_ms": 182769,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
-    },
-    {
-      "added_at": "2023-03-16 23:01:00",
-      "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 137107,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1683,6 +1687,22 @@
       "duration_ms": 175774,
       "name": "Night Away (Dance) (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
+    },
+    {
+      "added_at": "2023-03-16 23:01:00",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1723,22 +1743,18 @@
     {
       "added_at": "2023-03-16 23:01:00",
       "album": {
-        "name": "Mbappe (Remix)",
-        "url": "https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         }
       ],
-      "duration_ms": 237344,
-      "name": "Mbappe - Remix",
-      "url": "https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu"
+      "duration_ms": 176666,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1799,6 +1815,34 @@
     {
       "added_at": "2023-03-16 23:01:00",
       "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 217954,
+      "name": "Peso a Peso",
+      "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
+    },
+    {
+      "added_at": "2023-03-16 23:01:00",
+      "album": {
         "name": "Right On",
         "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
       },
@@ -1811,22 +1855,6 @@
       "duration_ms": 213975,
       "name": "Right On",
       "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2023-03-16 23:01:00",
-      "album": {
-        "name": "LA Leakers Freestyle",
-        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "LA Leakers Freestyle",
-      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1847,18 +1875,18 @@
     {
       "added_at": "2023-03-16 23:01:00",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD"
+        "name": "LA Leakers Freestyle",
+        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
       },
       "artists": [
         {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc"
+      "duration_ms": 178000,
+      "name": "LA Leakers Freestyle",
+      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
     },
     {
       "added_at": "2023-03-16 23:01:00",
@@ -1903,22 +1931,6 @@
       "duration_ms": 247714,
       "name": "Rich MF (feat. Polo G & Lil Durk)",
       "url": "https://open.spotify.com/track/6cUHiQEECDl5m3WFGQ1GCR"
-    },
-    {
-      "added_at": "2023-03-16 23:01:00",
-      "album": {
-        "name": "Pelele",
-        "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Pelele",
-      "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
     }
   ],
   "unique_name": "Rap Internazionale",

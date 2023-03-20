@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,683 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,827 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 47 | [Be Free](https://open.spotify.com/track/56lz6rWxzgLWYDmGXxkeJB) | [Paper Dragon](https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai) | [Be Free](https://open.spotify.com/album/3UcwpRzAtmNpWWW5gfJ58s) | 3:51 |
 | 48 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 |
 | 49 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
-| 50 | [Believe](https://open.spotify.com/track/6G8sFs8Nw2yQ6zHLmSSb7r) | [Malaky](https://open.spotify.com/artist/43DHa7Q1IhECAE5YtN3jHQ) | [Serenity EP](https://open.spotify.com/album/1F5ChgvE0QsH7Pb3ScmYTz) | 4:47 |
+| 50 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 |
 
-Snapshot ID: `MTY3NDY2MDAxOCwwMDAwMDAwMGU5NDE1MmExNDkwMGQ3NjhjYzY3ZGNmYjc0MmE2YTFm`
+Snapshot ID: `MTY3NDY2MDAxOCwwMDAwMDAwMDIwZDZlMWVhMWJmYWJiZGM5MDVjZTkyY2U5ZTE1MjEx`

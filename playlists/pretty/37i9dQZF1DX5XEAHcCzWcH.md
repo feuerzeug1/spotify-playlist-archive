@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,266 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,314 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 29 | [Take It Easy](https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Down In Mississippi](https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH) | 3:43 |
 | 30 | [Feel So Blue](https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 5:21 |
 | 31 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
-| 32 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
-| 33 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
-| 34 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
+| 32 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
+| 33 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
+| 34 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
 | 35 | [Anytime, Anyplace, Anywhere](https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 3:09 |
 | 36 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |
 | 37 | [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/6Y9Eaqa5gdLvTj6dBTqGXS) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 50 | [Make Me a Pallet on the Floor](https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD), [Mama Yancey](https://open.spotify.com/artist/43jwl4inLITN5Xu7D7XcFu) | [Chicago Piano Volume 1](https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC) | 4:34 |
 | 51 | [Rockin' with Red \- Remastered 2002](https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp) | [Piano Red](https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx) | [That's All Right \(When the Sun Goes Down series\)](https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3) | 2:30 |
 | 52 | [Early in the Morning](https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music](https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb) | 3:05 |
-| 53 | [Whistling Alex Moore's Blues](https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte) | [Alex Moore](https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1) | [From North Dallas to the East Side](https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9) | 3:07 |
-| 54 | [West Side Woman](https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm) | [Lovie Lee](https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM) | [Good Candy](https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea) | 6:32 |
-| 55 | [I Love My Baby](https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ) | [Bob Gaddy](https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2) | [Harlem Blues Operator](https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3) | 2:30 |
-| 56 | [Mean Old Train](https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57), [Giles Robson](https://open.spotify.com/artist/3X0t4rhxfWybl1HrB2x2y3) | [Journeys To The Heart Of The Blues](https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z) | 3:03 |
+| 53 | [West Side Woman](https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm) | [Lovie Lee](https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM) | [Good Candy](https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea) | 6:32 |
+| 54 | [Mean Old Train](https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57), [Giles Robson](https://open.spotify.com/artist/3X0t4rhxfWybl1HrB2x2y3) | [Journeys To The Heart Of The Blues](https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z) | 3:03 |
+| 55 | [Whistling Alex Moore's Blues](https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte) | [Alex Moore](https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1) | [From North Dallas to the East Side](https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9) | 3:07 |
+| 56 | [I Love My Baby](https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ) | [Bob Gaddy](https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2) | [Harlem Blues Operator](https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3) | 2:30 |
 | 57 | [Boot That Thing](https://open.spotify.com/track/5rwqwMmEWAqwRTDyUKba0u) | [Ken Saydak](https://open.spotify.com/artist/3CbqTmz4MT9cGAUZsGeFbJ) | [Tribute: Delmark's 65th Anniversary](https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi) | 4:00 |
 | 58 | [Pocketful Of Money](https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY) | [Roosevelt Sykes](https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5) | [The Honeydripper](https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm) | 2:32 |
 | 59 | [Some Nerve](https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [The Blues Singer](https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK) | 3:05 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 63 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
 | 64 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDY1NjI0YThkM2M3MzkwOTAwOWE1ZmI3YWU2MTA5YjNh`
+Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMGVkNmI4NTgyOTM4MjA5NGRkYjBkMGY1YmUxNzVlZGNm`

@@ -488,7 +488,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 148721,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5"
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 177973,
       "name": "BR\u00dbLURES INDIENNES",
       "url": "https://open.spotify.com/track/24vDSi6wZW34oY8sTrgQf7"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 185720,
       "name": "CARTIER PANTH\u00c8RE",
       "url": "https://open.spotify.com/track/14sdOJ9PZHGZaJmrxrbpSh"
@@ -2916,7 +2916,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -3720,7 +3720,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 196346,
       "name": "C\u00d4T\u00c9 HUBLOT",
       "url": "https://open.spotify.com/track/0R6Hx28x5lgpIUWD6ltX7e"
@@ -4952,7 +4952,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 85813,
       "name": "ELECTRO",
       "url": "https://open.spotify.com/track/6Pvo7NI5Wq3ajPPgocxm6o"
@@ -5176,7 +5176,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 140413,
       "name": "ENVIE7VIE",
       "url": "https://open.spotify.com/track/0lSB2n0DEvA2mnsGI9qI5f"
@@ -6538,7 +6538,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 186600,
       "name": "GORG\u00c9E POUR LES MORTS",
       "url": "https://open.spotify.com/track/0iGn8hkjQrEW2Mwb4oV9dk"
@@ -7272,7 +7272,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -10396,7 +10396,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 135813,
       "name": "MAKE UP",
       "url": "https://open.spotify.com/track/637PqFl8HYdCuSQXhqwkOb"
@@ -10996,6 +10996,28 @@
       "duration_ms": 197773,
       "name": "Millions",
       "url": "https://open.spotify.com/track/70jyIxNr3R5k3bofVYX9GS"
+    },
+    {
+      "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
       "album": {
@@ -11990,16 +12012,16 @@
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         },
         {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        },
+        {
           "name": "Kerchak",
           "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         },
         {
           "name": "Leto",
           "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
         }
       ],
       "date_added": "2023-03-17",
@@ -13874,7 +13896,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -15254,7 +15276,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -17062,7 +17084,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
@@ -18230,7 +18252,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 188466,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/3qA5qgPKXsElkU8TRjNx7u"

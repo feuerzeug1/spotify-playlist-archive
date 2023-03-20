@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 40077,
+  "num_followers": 40082,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMyNDQ4MTEwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMyNTM2NTYyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "S\u00f6ngvakeppnin 2023",
         "url": "https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6V3PuVse7g4ACKljlzGY1Q"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "Vinn Vi\u00f0 \u00dea\u00f0",
         "url": "https://open.spotify.com/album/4hdv2UMj4Zxt29oCKXIkaB"
@@ -117,7 +117,39 @@
       "url": "https://open.spotify.com/track/0yecDQdx8NxpvcswRJM6uh"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "prettyboitjokko",
+        "url": "https://open.spotify.com/album/1Xbk0KZIk6gqEWuPglEVZm"
+      },
+      "artists": [
+        {
+          "name": "PATRi!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "duration_ms": 173402,
+      "name": "prettyboitjokko",
+      "url": "https://open.spotify.com/track/0DQMOUDb0DKv13raO9L6Sg"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -141,23 +173,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "prettyboitjokko",
-        "url": "https://open.spotify.com/album/1Xbk0KZIk6gqEWuPglEVZm"
-      },
-      "artists": [
-        {
-          "name": "PATRi!K",
-          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
-        }
-      ],
-      "duration_ms": 173402,
-      "name": "prettyboitjokko",
-      "url": "https://open.spotify.com/track/0DQMOUDb0DKv13raO9L6Sg"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -168,32 +184,44 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
-        "name": "\u00c9g er",
-        "url": "https://open.spotify.com/album/7tmK2LbXz1nwsvYOEBAO4a"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "J\u00fal\u00ed Hei\u00f0ar",
-          "url": "https://open.spotify.com/artist/6tcHrf8DzKfQvpkQQBKSOT"
-        },
-        {
-          "name": "Kristmundur Axel",
-          "url": "https://open.spotify.com/artist/2hZoJ9EKrV6YLfUKebCZCo"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 200454,
-      "name": "\u00c9g er",
-      "url": "https://open.spotify.com/track/2V3gHXcnmbHJcRHR2H6GRT"
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "St\u00f3r agnar\u00f6gn",
+        "url": "https://open.spotify.com/album/3kD0eb4wgmccYXYOhFZoL1"
+      },
+      "artists": [
+        {
+          "name": "BR\u00cdET",
+          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
+      "url": "https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
@@ -213,39 +241,7 @@
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "St\u00f3r agnar\u00f6gn",
-        "url": "https://open.spotify.com/album/3kD0eb4wgmccYXYOhFZoL1"
-      },
-      "artists": [
-        {
-          "name": "BR\u00cdET",
-          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
-      "url": "https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -261,23 +257,7 @@
       "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -288,12 +268,48 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "\u00c9g er",
+        "url": "https://open.spotify.com/album/7tmK2LbXz1nwsvYOEBAO4a"
+      },
+      "artists": [
+        {
+          "name": "J\u00fal\u00ed Hei\u00f0ar",
+          "url": "https://open.spotify.com/artist/6tcHrf8DzKfQvpkQQBKSOT"
+        },
+        {
+          "name": "Kristmundur Axel",
+          "url": "https://open.spotify.com/artist/2hZoJ9EKrV6YLfUKebCZCo"
+        }
+      ],
+      "duration_ms": 200454,
+      "name": "\u00c9g er",
+      "url": "https://open.spotify.com/track/2V3gHXcnmbHJcRHR2H6GRT"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -313,119 +329,23 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+        "name": "Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
       },
       "artists": [
         {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
         }
       ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+      "duration_ms": 175161,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "Klisja",
-        "url": "https://open.spotify.com/album/0ZGe30TpHx7mXykUkvJJBn"
-      },
-      "artists": [
-        {
-          "name": "Emmsj\u00e9 Gauti",
-          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
-        }
-      ],
-      "duration_ms": 199855,
-      "name": "Klisja",
-      "url": "https://open.spotify.com/track/38KOnmdRLQrizMIFHIwuOA"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -441,27 +361,7 @@
       "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -477,7 +377,151 @@
       "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "S\u00f6ngvakeppnin 2023",
+        "url": "https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd"
+      },
+      "artists": [
+        {
+          "name": "Langi Seli og Skuggarnir",
+          "url": "https://open.spotify.com/artist/5Dt3IycJC1qOSBhO2Kp1EK"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/0AUnkB4NPJuk8bIBkF0MzC"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "Klisja",
+        "url": "https://open.spotify.com/album/0ZGe30TpHx7mXykUkvJJBn"
+      },
+      "artists": [
+        {
+          "name": "Emmsj\u00e9 Gauti",
+          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
+        }
+      ],
+      "duration_ms": 199855,
+      "name": "Klisja",
+      "url": "https://open.spotify.com/track/38KOnmdRLQrizMIFHIwuOA"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 125852,
+      "name": "Frost er \u00fati fuglinn minn",
+      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 193282,
+      "name": "Sof\u00f0u",
+      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "T\u00e1rin falla h\u00e6gt",
         "url": "https://open.spotify.com/album/1gqsQjO45RmdqGsgl000qB"
@@ -497,23 +541,7 @@
       "url": "https://open.spotify.com/track/6Vd8hxisvvbtZloYVH5kAo"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "FINN EKKI \u00c1 M\u00c9R",
-        "url": "https://open.spotify.com/album/3EGL65u9sdxW7qtyV6Yqbq"
-      },
-      "artists": [
-        {
-          "name": "Eyj\u00f3",
-          "url": "https://open.spotify.com/artist/7ib2xIMmsCRfxxl3l3lVUA"
-        }
-      ],
-      "duration_ms": 133072,
-      "name": "FINN EKKI \u00c1 M\u00c9R",
-      "url": "https://open.spotify.com/track/15vmwNFKUc1uE92JOjsyRx"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -524,12 +552,112 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+      "duration_ms": 99752,
+      "name": "S\u00f3lskin",
+      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 182090,
+      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
+      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "S\u00f6ngvakeppnin 2023",
+        "url": "https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd"
+      },
+      "artists": [
+        {
+          "name": "Dilj\u00e1",
+          "url": "https://open.spotify.com/artist/2Zy3uwssLs81VYxqIj1Hcv"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Lifandi inn\u00ed m\u00e9r",
+      "url": "https://open.spotify.com/track/3ZSdT4vKdqPEcdWyh9rLWC"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/6VA3f0QiadO0atzIRCZdHw"
+      },
+      "artists": [
+        {
+          "name": "Dilj\u00e1",
+          "url": "https://open.spotify.com/artist/2Zy3uwssLs81VYxqIj1Hcv"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/7wD30C4OrUzpj8ycl4PeSt"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "Starboy (Deluxe)",
         "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
@@ -549,135 +677,7 @@
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "S\u00f6ngvakeppnin 2023",
-        "url": "https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd"
-      },
-      "artists": [
-        {
-          "name": "Langi Seli og Skuggarnir",
-          "url": "https://open.spotify.com/artist/5Dt3IycJC1qOSBhO2Kp1EK"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/0AUnkB4NPJuk8bIBkF0MzC"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/6VA3f0QiadO0atzIRCZdHw"
-      },
-      "artists": [
-        {
-          "name": "Dilj\u00e1",
-          "url": "https://open.spotify.com/artist/2Zy3uwssLs81VYxqIj1Hcv"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/7wD30C4OrUzpj8ycl4PeSt"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "S\u00f6ngvakeppnin 2023",
-        "url": "https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd"
-      },
-      "artists": [
-        {
-          "name": "Dilj\u00e1",
-          "url": "https://open.spotify.com/artist/2Zy3uwssLs81VYxqIj1Hcv"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Lifandi inn\u00ed m\u00e9r",
-      "url": "https://open.spotify.com/track/3ZSdT4vKdqPEcdWyh9rLWC"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
@@ -693,43 +693,23 @@
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
@@ -745,7 +725,23 @@
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -765,23 +761,7 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
@@ -797,47 +777,43 @@
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 195373,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -861,20 +837,44 @@
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
     },
     {
-      "added_at": "2023-03-18 09:48:30",
+      "added_at": "2023-03-19 10:22:42",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Kona",
+        "url": "https://open.spotify.com/album/4FyzzmUFi1NWMBuwUSmLru"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
         }
       ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+      "duration_ms": 297865,
+      "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
+      "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
+    },
+    {
+      "added_at": "2023-03-19 10:22:42",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     }
   ],
   "unique_name": "Top 50 - Iceland",

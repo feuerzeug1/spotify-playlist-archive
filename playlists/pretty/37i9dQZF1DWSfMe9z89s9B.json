@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: LAVI$H",
-  "num_followers": 1350003,
+  "num_followers": 1350414,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDg3OTdmMDFmNGQ4YTk2NTkzZjkwNWY5YzM5ZGExYWZm",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDMxZWFjM2IyYzc5MzI5MWE5MTk1NmVhMWVkZWI3MDBk",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -81,10 +81,10 @@
       "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-02-24 05:23:50",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -177,10 +177,10 @@
       "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
     },
     {
-      "added_at": "2023-02-24 05:23:50",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -581,26 +581,6 @@
       "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "WHITE CROCS (with Ryan Trey)",
-        "url": "https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        }
-      ],
-      "duration_ms": 147773,
-      "name": "WHITE CROCS (with Ryan Trey)",
-      "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "All For You",
@@ -619,6 +599,26 @@
       "duration_ms": 183354,
       "name": "All For You",
       "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "WHITE CROCS (with Ryan Trey)",
+        "url": "https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 147773,
+      "name": "WHITE CROCS (with Ryan Trey)",
+      "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -709,20 +709,20 @@
       "url": "https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "CHERIMOYA",
-        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
+        "name": "deadman",
+        "url": "https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Souly Had",
+          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
         }
       ],
-      "duration_ms": 129080,
-      "name": "CHERIMOYA",
-      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
+      "duration_ms": 130909,
+      "name": "deadman",
+      "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -741,20 +741,20 @@
       "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2022-07-22 14:09:12",
       "album": {
-        "name": "deadman",
-        "url": "https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa"
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
       "artists": [
         {
-          "name": "Souly Had",
-          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 130909,
-      "name": "deadman",
-      "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
+      "duration_ms": 189000,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -773,20 +773,20 @@
       "url": "https://open.spotify.com/track/1rKdNSA119ByMxI9chV5J6"
     },
     {
-      "added_at": "2022-07-22 14:09:12",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+        "name": "CHERIMOYA",
+        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
+      "duration_ms": 129080,
+      "name": "CHERIMOYA",
+      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "duration_ms": 243071,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "SUGAR DIVE",
@@ -1009,6 +1025,22 @@
       "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
       "added_at": "2022-07-24 02:54:27",
       "album": {
         "name": "Sinner",
@@ -1025,36 +1057,20 @@
       "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2022-07-15 04:02:46",
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv"
+        "name": "Dog Daze",
+        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
       },
       "artists": [
         {
-          "name": "Idman",
-          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
         }
       ],
-      "duration_ms": 243071,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+      "duration_ms": 144584,
+      "name": "Brewster",
+      "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 187938,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
-    },
-    {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "Dog Daze",
-        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 144584,
-      "name": "Brewster",
-      "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1123,22 +1123,6 @@
       "duration_ms": 177259,
       "name": "Gonna Go",
       "url": "https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 173377,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
     },
     {
       "added_at": "2023-02-24 05:23:50",
@@ -1177,6 +1161,22 @@
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 173377,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
+    },
+    {
       "added_at": "2023-02-24 05:23:50",
       "album": {
         "name": "phases (feat. Kojey Radical)",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "LIMBO (Sped Up Version)",
+        "url": "https://open.spotify.com/album/5gKGT4zR71qZ5ylVvWjzNB"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 212784,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/4zt9CUUI373CnqS91c76fV"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 140556,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "LIMBO (Sped Up Version)",
-        "url": "https://open.spotify.com/album/5gKGT4zR71qZ5ylVvWjzNB"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 212784,
-      "name": "LIMBO",
-      "url": "https://open.spotify.com/track/4zt9CUUI373CnqS91c76fV"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1283,6 +1283,22 @@
       "duration_ms": 222654,
       "name": "As Days Go By",
       "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1373,20 +1389,24 @@
       "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-02-24 05:23:50",
       "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+        "name": "Technicolor Love (feat. redveil)",
+        "url": "https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn"
       },
       "artists": [
         {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        },
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
         }
       ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+      "duration_ms": 194029,
+      "name": "Technicolor Love (feat. redveil)",
+      "url": "https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1407,26 +1427,6 @@
       "duration_ms": 119999,
       "name": "BOWLiNG (feat. Thundercat)",
       "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
-    },
-    {
-      "added_at": "2023-02-24 05:23:50",
-      "album": {
-        "name": "Technicolor Love (feat. redveil)",
-        "url": "https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        },
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 194029,
-      "name": "Technicolor Love (feat. redveil)",
-      "url": "https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF"
     },
     {
       "added_at": "2022-11-18 05:00:00",

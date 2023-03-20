@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 103167,
+  "num_followers": 103216,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMGQ4NGY3MWI4MmE3ODVmYzFjNjU3MmQ3MDVkMjUxYTBh",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDVlOGU1M2E4NjE2ZGE4MjYyYWIzMzIyYjZkNWE0ZmQx",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -243,6 +243,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 526890,
       "name": "Champion - Live",
       "url": "https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254115,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -727,6 +727,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "The God Who Fights For Me",
+        "url": "https://open.spotify.com/album/18Z3YpB4jp3MEuJ2E9bmVE"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 225228,
+      "name": "The God Who Fights for Me",
+      "url": "https://open.spotify.com/track/1KuROOkDBlMbDSHiULDEM6"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Church Of The City (Live)",
         "url": "https://open.spotify.com/album/1eQch9c6HSlHyy9HJmGV1J"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "The God Who Fights For Me",
-        "url": "https://open.spotify.com/album/18Z3YpB4jp3MEuJ2E9bmVE"
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
       "artists": [
         {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
         }
       ],
-      "duration_ms": 225228,
-      "name": "The God Who Fights for Me",
-      "url": "https://open.spotify.com/track/1KuROOkDBlMbDSHiULDEM6"
+      "duration_ms": 199078,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -779,22 +795,6 @@
       "duration_ms": 272000,
       "name": "We Fall Down / Agnus Dei - Medley",
       "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 199078,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "He Wears A Crown (Live At CrossBridge)",
-        "url": "https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 312018,
-      "name": "He Wears A Crown - Live",
-      "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "As For Me & My House (Live)",
         "url": "https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ"
       },
@@ -2159,6 +2143,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "He Wears A Crown (Live At CrossBridge)",
+        "url": "https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 312018,
+      "name": "He Wears A Crown - Live",
+      "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Altars",
         "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
       },
@@ -2171,22 +2171,6 @@
       "duration_ms": 321533,
       "name": "Both Sides",
       "url": "https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 285690,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2211,6 +2195,22 @@
       "duration_ms": 420693,
       "name": "More Than Anything - Live",
       "url": "https://open.spotify.com/track/1KRr2mxRM0BPNoqMVg7fHX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 285690,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "God of the Breakthrough",
-        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
-      },
-      "artists": [
-        {
-          "name": "Crossroads Music",
-          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "God of the Breakthrough",
-      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The King In All His Beauty",
         "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 240766,
       "name": "The King In All His Beauty",
       "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "God of the Breakthrough",
+        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Music",
+          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "God of the Breakthrough",
+      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
     },
     {
       "added_at": "2021-06-12 04:00:40",

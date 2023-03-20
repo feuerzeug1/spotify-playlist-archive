@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 72728,
+  "num_followers": 72890,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDRmNzQ4NDgxYjc1OTIyMjA0Yjk2OGI2ZjBiOGU3ZWNh",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDEwOTBjYTc2MTA3MWMzOWY1NzRhNTIzMjA0MDQ1ZGRm",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
         }
       ],
-      "duration_ms": 194886,
-      "name": "Male Fantasy",
-      "url": "https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX"
+      "duration_ms": 261911,
+      "name": "Rose Pink Cadillac",
+      "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Rose Pink Cadillac",
-        "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
       },
       "artists": [
         {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 261911,
-      "name": "Rose Pink Cadillac",
-      "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
+      "duration_ms": 194886,
+      "name": "Male Fantasy",
+      "url": "https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "remember the mornings",
-        "url": "https://open.spotify.com/album/64FL2oQINZPAIfz3axVOU7"
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
       "artists": [
         {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 202354,
-      "name": "remember the mornings",
-      "url": "https://open.spotify.com/track/27kcZEJvhkb1rzZS9gCpdA"
+      "duration_ms": 206693,
+      "name": "Princess of China - Acoustic",
+      "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

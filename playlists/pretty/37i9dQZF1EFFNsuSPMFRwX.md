@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2VhD3nIxhifASqPJzWRjCj">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 28 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 29 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 20 | [Change](https://open.spotify.com/track/4tm4ucTjb7eJ85iz9tZjnt) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [The Golden Child](https://open.spotify.com/album/52iN0AN48yBH5pF6C65ZmI) | 2:36 |
 | 21 | [My Theme Song](https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
 | 22 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 |
-| 23 | [Mi Amour](https://open.spotify.com/track/2HeeT7iaAay4KADoEGDyUB) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 5:06 |
-| 24 | [No Relief](https://open.spotify.com/track/2OnlsrZ5hbJkn8n4bALs9w) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 4:31 |
-| 25 | [Smokey Mirrors](https://open.spotify.com/track/595nKxCNnFgftXqRFNy7E0) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:10 |
-| 26 | [Now & Then](https://open.spotify.com/track/4zj8zdzgK2bvRpK11kbWtp) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
-| 27 | [Stay by Your Phone](https://open.spotify.com/track/64b4SSKDAW21DBBC8aXi4L) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Imagine Not Knowing](https://open.spotify.com/album/6YPjAMPVTJrGRAHXbhMgnO) | 3:48 |
-| 28 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
+| 23 | [Paid In Full](https://open.spotify.com/track/1RQ38nLe5BiB6SneqIPCpZ) | [DJ Bubba](https://open.spotify.com/artist/38hnmRmRWrRibnjmtQQ91Y), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [P1](https://open.spotify.com/artist/5JsVRWPRBOzxoPOWPIdGTc), [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Paid In Full](https://open.spotify.com/album/6U0isZJ2ryGi3YfoH6shvG) | 2:51 |
+| 24 | [Mi Amour](https://open.spotify.com/track/2HeeT7iaAay4KADoEGDyUB) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 5:06 |
+| 25 | [No Relief](https://open.spotify.com/track/2OnlsrZ5hbJkn8n4bALs9w) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 4:31 |
+| 26 | [Smokey Mirrors](https://open.spotify.com/track/595nKxCNnFgftXqRFNy7E0) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:10 |
+| 27 | [Now & Then](https://open.spotify.com/track/4zj8zdzgK2bvRpK11kbWtp) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
+| 28 | [Stay by Your Phone](https://open.spotify.com/track/64b4SSKDAW21DBBC8aXi4L) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Imagine Not Knowing](https://open.spotify.com/album/6YPjAMPVTJrGRAHXbhMgnO) | 3:48 |
+| 29 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
 
-Snapshot ID: `Mjc5ODQ5NzcsMDAwMDAwMDBkNDk3MTQ3MDI3NzA5ZjJhMDNmNDY5OGI4MzY4ZWM3OQ==`
+Snapshot ID: `Mjc5ODc4NTcsMDAwMDAwMDAzN2Y2YWVhNmYwMzQxYzM3ZjI1ODhmYjkzNmZhMjQ1YQ==`

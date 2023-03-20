@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,670 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,677 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Rainbow after tears](https://open.spotify.com/track/0roXkvp5MkCJw6cKJkMNKZ) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [Rainbow after tears](https://open.spotify.com/album/0ZdSWbmhh1HkEoPrbOfFC1) | 4:42 |
 | 60 | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 |
 
-Snapshot ID: `MTY3ODY1OTY2NCwwMDAwMDAwMDFmYzAyMjYxNTI0ZmVhNTQ3NzViYmM4M2Y1MmU5ZDA5`
+Snapshot ID: `MTY3OTIzODAwMCwwMDAwMDAwMGJmZTkwNDRiMjAwOGVlOGVjNjYwNTEyYjlkZjQxZGJm`

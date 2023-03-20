@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 ### [Fresh Dance Pop](https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53)
 
-> The hottest new pop with the all the drops\. Cover: Felix Cartel & Daya
+> The hottest new pop with all the drops\. Cover: Felix Cartal & Daya
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,501 likes - 62 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,794 likes - 62 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 61 | [Forever \(feat\. Elley Duhé\)](https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Forever](https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp) | 3:07 |
 | 62 | [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGUyMjgyMGIzM2U1MDI5ZTM3MWIzZTk0ZjIyMTc1NzMy`
+Snapshot ID: `MTY3OTI1NTU1MCwwMDAwMDAwMDI3ZWZkYTM1ZDI5MTE3MTZlZjJlMzg4ZTAwZjgwOWNi`

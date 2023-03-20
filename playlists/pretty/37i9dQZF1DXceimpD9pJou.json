@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Townix",
-  "num_followers": 120523,
+  "num_followers": 120568,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzg3MSwwMDAwMDAwMGE3NGQwODk0MWZmMjdlNzk1ODA2Yjc0Y2M2ZWQwZjgw",
+  "snapshot_id": "MTY3OTAzMzg3MSwwMDAwMDAwMDI2MTNhYjUyMGUxNWFhZmY4OTE3ODhmYWIyMjUzOThh",
   "tracks": [
     {
       "added_at": "2023-03-17 06:17:51",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
+        "name": "El Vallenato Se Hizo En El Cielo",
+        "url": "https://open.spotify.com/album/55DJMVVDfU0onoLET3nRYL"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 230012,
+      "name": "Dios Es Bueno",
+      "url": "https://open.spotify.com/track/4o5eigcocInKgfuWXjBRzJ"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
         "name": "Mi Alma Clama",
         "url": "https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI"
       },
@@ -599,22 +619,18 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
-        "name": "El Vallenato Se Hizo En El Cielo",
-        "url": "https://open.spotify.com/album/55DJMVVDfU0onoLET3nRYL"
+        "name": "Mirar\u00e9 al Rey",
+        "url": "https://open.spotify.com/album/2HhLV8haJsCasFUU5XppEi"
       },
       "artists": [
         {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
         }
       ],
-      "duration_ms": 230012,
-      "name": "Dios Es Bueno",
-      "url": "https://open.spotify.com/track/4o5eigcocInKgfuWXjBRzJ"
+      "duration_ms": 272375,
+      "name": "Mirar\u00e9 al Rey",
+      "url": "https://open.spotify.com/track/2nbbn4N4hhGP9GJ5aB3DLE"
     },
     {
       "added_at": "2023-03-17 06:17:51",
@@ -647,22 +663,6 @@
       "duration_ms": 209600,
       "name": "Route 777",
       "url": "https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
-        "name": "Mirar\u00e9 al Rey",
-        "url": "https://open.spotify.com/album/2HhLV8haJsCasFUU5XppEi"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 272375,
-      "name": "Mirar\u00e9 al Rey",
-      "url": "https://open.spotify.com/track/2nbbn4N4hhGP9GJ5aB3DLE"
     },
     {
       "added_at": "2023-03-17 06:17:51",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
-        "name": "Love Shines - EP",
-        "url": "https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 321697,
-      "name": "Brilla Tu Amor",
-      "url": "https://open.spotify.com/track/59huk4RfMDJiRfgYaicID9"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
         "name": "No Other Place Is Higher (No Hay Lugar M\u00e1s Alto) [Live]",
         "url": "https://open.spotify.com/album/70hQlXfdGSJVAVrkHguQH7"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
+        "name": "Love Shines - EP",
+        "url": "https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 321697,
+      "name": "Brilla Tu Amor",
+      "url": "https://open.spotify.com/track/59huk4RfMDJiRfgYaicID9"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
         "name": "La Sunamita",
         "url": "https://open.spotify.com/album/7GbFb1xFRpMbgo8Okhbz8O"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 260415,
       "name": "La Sunamita",
       "url": "https://open.spotify.com/track/7ibUK5N6EfaIoWiYj9THeX"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/2EY4pQVYSyIwj2AqDjXMnR"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/3zMUVEga5pGIrSac7wo36B"
     },
     {
       "added_at": "2023-03-17 06:17:51",
@@ -803,6 +787,22 @@
       "duration_ms": 206875,
       "name": "Barra Libre",
       "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/2EY4pQVYSyIwj2AqDjXMnR"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/3zMUVEga5pGIrSac7wo36B"
     },
     {
       "added_at": "2023-03-17 06:17:51",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
+        "name": "Acerqu\u00e9monos",
+        "url": "https://open.spotify.com/album/3dWRgcWgaBCY18uyPDBSA5"
+      },
+      "artists": [
+        {
+          "name": "Francisco Orantes",
+          "url": "https://open.spotify.com/artist/7glAmfFJ7UecnLwNApqKGE"
+        }
+      ],
+      "duration_ms": 176348,
+      "name": "El Poder de la Lengua",
+      "url": "https://open.spotify.com/track/6JfKR3tfEPvuxnOOEuJdbl"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
         "name": "Luz del Mundo",
         "url": "https://open.spotify.com/album/4DMzIfDwDPSgJPPRLiSe6n"
       },
@@ -967,38 +983,6 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
-        "name": "Acerqu\u00e9monos",
-        "url": "https://open.spotify.com/album/3dWRgcWgaBCY18uyPDBSA5"
-      },
-      "artists": [
-        {
-          "name": "Francisco Orantes",
-          "url": "https://open.spotify.com/artist/7glAmfFJ7UecnLwNApqKGE"
-        }
-      ],
-      "duration_ms": 176348,
-      "name": "El Poder de la Lengua",
-      "url": "https://open.spotify.com/track/6JfKR3tfEPvuxnOOEuJdbl"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
-        "name": "De Vuelta En Casa",
-        "url": "https://open.spotify.com/album/2bJxv5zIIeTa5dv3mVZ9ic"
-      },
-      "artists": [
-        {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
-        }
-      ],
-      "duration_ms": 258591,
-      "name": "De Vuelta En Casa",
-      "url": "https://open.spotify.com/track/0sNJ2skUpF9cZ6MChDR4S9"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
         "name": "DESCIENDE",
         "url": "https://open.spotify.com/album/657rmp4lA80ef4lczkEqkw"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 484484,
       "name": "Desciende",
       "url": "https://open.spotify.com/track/6KfG2byrs7f0Drb17Jzi7N"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
+        "name": "De Vuelta En Casa",
+        "url": "https://open.spotify.com/album/2bJxv5zIIeTa5dv3mVZ9ic"
+      },
+      "artists": [
+        {
+          "name": "Samuel Adri\u00e1n",
+          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+        }
+      ],
+      "duration_ms": 258591,
+      "name": "De Vuelta En Casa",
+      "url": "https://open.spotify.com/track/0sNJ2skUpF9cZ6MChDR4S9"
     },
     {
       "added_at": "2023-03-17 06:17:51",
@@ -1083,6 +1083,26 @@
       "duration_ms": 259345,
       "name": "Que No Se Apague",
       "url": "https://open.spotify.com/track/3MwstJdyWcYQXwZyRO4l5B"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
+        "name": "Estoy aqu\u00ed + Espont\u00e1neo",
+        "url": "https://open.spotify.com/album/3WWwx4OXCYJPbIRViWqvBW"
+      },
+      "artists": [
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        },
+        {
+          "name": "Selah Worship",
+          "url": "https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA"
+        }
+      ],
+      "duration_ms": 487272,
+      "name": "Estoy aqu\u00ed + Espont\u00e1neo",
+      "url": "https://open.spotify.com/track/1qfaI8s3IaVYLpC7iSPYzH"
     },
     {
       "added_at": "2023-03-17 06:17:51",
@@ -1179,26 +1199,6 @@
       "duration_ms": 378109,
       "name": "Mix Vals",
       "url": "https://open.spotify.com/track/6T33OgocPQg4SvFCTeGu7q"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
-        "name": "Estoy aqu\u00ed + Espont\u00e1neo",
-        "url": "https://open.spotify.com/album/3WWwx4OXCYJPbIRViWqvBW"
-      },
-      "artists": [
-        {
-          "name": "Factor de Cambio",
-          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
-        },
-        {
-          "name": "Selah Worship",
-          "url": "https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA"
-        }
-      ],
-      "duration_ms": 487272,
-      "name": "Estoy aqu\u00ed + Espont\u00e1neo",
-      "url": "https://open.spotify.com/track/1qfaI8s3IaVYLpC7iSPYzH"
     },
     {
       "added_at": "2023-03-17 06:17:51",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
-        "name": "Buena Vida",
-        "url": "https://open.spotify.com/album/29iJsmE53SGJFhemP8mUOf"
-      },
-      "artists": [
-        {
-          "name": "Ilish",
-          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
-        }
-      ],
-      "duration_ms": 160495,
-      "name": "Buena Vida",
-      "url": "https://open.spotify.com/track/3fuiao6CI71UuBowr8sji1"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
         "name": "A Tu Gracia (Nueva Versi\u00f3n)",
         "url": "https://open.spotify.com/album/7y7cawbU803BJVdTFoSrLS"
       },
@@ -1383,22 +1367,6 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
-        "name": "SIGO EN PIE",
-        "url": "https://open.spotify.com/album/2IK84JtQHLI3KV47FPWpoc"
-      },
-      "artists": [
-        {
-          "name": "Jess Santana",
-          "url": "https://open.spotify.com/artist/3NmdKlXrC2msjN6e8jz9Y3"
-        }
-      ],
-      "duration_ms": 186427,
-      "name": "SIGO EN PIE",
-      "url": "https://open.spotify.com/track/0QZFGW1DuIEyMIfYNMCSYq"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
         "name": "Saint Rodolfo",
         "url": "https://open.spotify.com/album/5qBqFDpYiK9Fkygwkypq8j"
       },
@@ -1411,6 +1379,38 @@
       "duration_ms": 167250,
       "name": "Pobre Coraz\u00f3n Roto",
       "url": "https://open.spotify.com/track/7DPJ2Rlpqo8SFEiNI6X732"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
+        "name": "Buena Vida",
+        "url": "https://open.spotify.com/album/29iJsmE53SGJFhemP8mUOf"
+      },
+      "artists": [
+        {
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        }
+      ],
+      "duration_ms": 160495,
+      "name": "Buena Vida",
+      "url": "https://open.spotify.com/track/3fuiao6CI71UuBowr8sji1"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
+        "name": "SIGO EN PIE",
+        "url": "https://open.spotify.com/album/2IK84JtQHLI3KV47FPWpoc"
+      },
+      "artists": [
+        {
+          "name": "Jess Santana",
+          "url": "https://open.spotify.com/artist/3NmdKlXrC2msjN6e8jz9Y3"
+        }
+      ],
+      "duration_ms": 186427,
+      "name": "SIGO EN PIE",
+      "url": "https://open.spotify.com/track/0QZFGW1DuIEyMIfYNMCSYq"
     },
     {
       "added_at": "2023-03-17 06:17:51",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
-        "name": "Al \u00fanico Dios",
-        "url": "https://open.spotify.com/album/52TNvMWyYySDV4VOKpytIV"
-      },
-      "artists": [
-        {
-          "name": "Pablo Miranda",
-          "url": "https://open.spotify.com/artist/0qK7qFm4XpIGxm4H03nk5A"
-        }
-      ],
-      "duration_ms": 252644,
-      "name": "Al \u00fanico Dios",
-      "url": "https://open.spotify.com/track/54xxbYbJxbgQpMdrAVDQlt"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
         "name": "Alfarero",
         "url": "https://open.spotify.com/album/6b2HwdOqARYnIDErYDC0gj"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
+        "name": "Al \u00fanico Dios",
+        "url": "https://open.spotify.com/album/52TNvMWyYySDV4VOKpytIV"
+      },
+      "artists": [
+        {
+          "name": "Pablo Miranda",
+          "url": "https://open.spotify.com/artist/0qK7qFm4XpIGxm4H03nk5A"
+        }
+      ],
+      "duration_ms": 252644,
+      "name": "Al \u00fanico Dios",
+      "url": "https://open.spotify.com/track/54xxbYbJxbgQpMdrAVDQlt"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
         "name": "Cantar\u00e9",
         "url": "https://open.spotify.com/album/3tww2awmNYdBPuGGdlxhG3"
       },
@@ -1563,26 +1563,6 @@
       "duration_ms": 349714,
       "name": "Cantar\u00e9",
       "url": "https://open.spotify.com/track/2jmfeAffpUj9j00tqZlrw6"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
-        "name": "En el Estudio con Creyente.7 Vol.7",
-        "url": "https://open.spotify.com/album/4BgHxXpWVBfxr59YvrpnPp"
-      },
-      "artists": [
-        {
-          "name": "D-One Music",
-          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
-        },
-        {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "En el Estudio con Creyente.7 Vol.7",
-      "url": "https://open.spotify.com/track/3TfvpY7APbVNkGR9wcaC75"
     },
     {
       "added_at": "2023-03-17 06:17:51",
@@ -1607,6 +1587,26 @@
       "duration_ms": 226956,
       "name": "M\u00e9xico Para Cristo",
       "url": "https://open.spotify.com/track/3guzKZgcadoU48gEKG6Ptd"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
+        "name": "En el Estudio con Creyente.7 Vol.7",
+        "url": "https://open.spotify.com/album/4BgHxXpWVBfxr59YvrpnPp"
+      },
+      "artists": [
+        {
+          "name": "D-One Music",
+          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
+        },
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "En el Estudio con Creyente.7 Vol.7",
+      "url": "https://open.spotify.com/track/3TfvpY7APbVNkGR9wcaC75"
     },
     {
       "added_at": "2023-03-17 06:17:51",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-03-17 06:17:51",
       "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/3F6XF185i2FBoM2LRQCyxC"
+      },
+      "artists": [
+        {
+          "name": "A\u00f1o Cero",
+          "url": "https://open.spotify.com/artist/5Gkiy2b9FCiZbLdJvsC1dS"
+        }
+      ],
+      "duration_ms": 176147,
+      "name": "Dos acordes",
+      "url": "https://open.spotify.com/track/21Q9zdgHdaEw6CPzvtaEZd"
+    },
+    {
+      "added_at": "2023-03-17 06:17:51",
+      "album": {
         "name": "Gracia",
         "url": "https://open.spotify.com/album/1LEU3KZzu86vHAr6TgPbXd"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 128509,
       "name": "MVP",
       "url": "https://open.spotify.com/track/4u3dVr4tX4si47kSuWDPyD"
-    },
-    {
-      "added_at": "2023-03-17 06:17:51",
-      "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/3F6XF185i2FBoM2LRQCyxC"
-      },
-      "artists": [
-        {
-          "name": "A\u00f1o Cero",
-          "url": "https://open.spotify.com/artist/5Gkiy2b9FCiZbLdJvsC1dS"
-        }
-      ],
-      "duration_ms": 176147,
-      "name": "Dos acordes",
-      "url": "https://open.spotify.com/track/21Q9zdgHdaEw6CPzvtaEZd"
     },
     {
       "added_at": "2023-03-17 06:17:51",

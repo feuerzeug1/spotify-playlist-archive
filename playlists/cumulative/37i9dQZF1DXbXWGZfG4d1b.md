@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-421 songs - 1 day 1 hr 7 min
+422 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Morir por Vos \(No Puedo\)](https://open.spotify.com/track/6tECZ1eUtbe3mPq61BCYkW) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O), [Ravioli Juan](https://open.spotify.com/artist/66NrjJ1V6I3BL8tkYMg8OU) | [Errores Coleccionables](https://open.spotify.com/album/224G5BiBybfnDOvVzmvCPG) | 3:08 | 2022-06-03 | 2022-07-23 |
 | [Multiverso](https://open.spotify.com/track/6fPmHiU0CXGbk2JfljoAe6) | [Portobel](https://open.spotify.com/artist/4D4LYABcCVmUcodiy86goS), [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Preludio](https://open.spotify.com/album/0rKDiwLNpdoJGUAolXyuYU) | 4:21 | 2022-06-03 | 2022-07-27 |
 | [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2022-11-11 | 2022-12-06 |
+| [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 | 2023-03-17 |  |
 | [Máquina del Tiempo](https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr) | 4:23 | 2022-06-03 | 2022-07-29 |
 | [Máquina del Tiempo](https://open.spotify.com/track/4WSXSCey336mwrz9e9qt1E) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/1X4eZWyp8zYdzdK1W2aPN1) | 4:23 | 2022-07-15 |  |
 | [Más o Menos Bien](https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/33szFJNdxgVGQa518rOohL) | 4:13 | 2022-06-03 | 2022-07-29 |
@@ -417,7 +418,7 @@
 | [Vida](https://open.spotify.com/track/3nZMXTL9qtXzNn1yQPAy6s) | [Condor](https://open.spotify.com/artist/1wKXDhoZlEhCOf7Uga3EG0) | [Vida](https://open.spotify.com/album/70iY2hw89DbDF06TGTnn7A) | 5:01 | 2022-07-01 | 2022-07-24 |
 | [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 | 2022-06-03 | 2022-07-28 |
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-06-03 | 2022-07-24 |
-| [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 | 2022-06-03 |  |
+| [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 | 2022-06-03 | 2023-03-20 |
 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 | 2022-07-01 | 2023-03-03 |
 | [ya fue / ya está](https://open.spotify.com/track/31VaZ78vgHa1N5J9oLvFAi) | [Equipo Nacional](https://open.spotify.com/artist/3vYmeeuL2e2C0MqNdAVAXE) | [ya fue / ya está](https://open.spotify.com/album/3wATlKrcm7Y7NDfbJQwIal) | 4:03 | 2022-07-01 | 2022-07-24 |
 | [Ya Hablamos de Esto](https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ), [Amelia](https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ) | [Ya Hablamos de Esto](https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f) | 3:22 | 2022-07-01 | 2022-07-28 |

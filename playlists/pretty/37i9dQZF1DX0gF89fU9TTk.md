@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,423 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,488 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 42 | [Eyes On You \- Live](https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Eyes On You \(Live\)](https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5) | 3:53 |
 | 43 | [Wild](https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Wild](https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd) | 3:54 |
 | 44 | [Every Little Thing](https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [III \(Reimagined\)](https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO) | 3:22 |
-| 45 | [Tightrope](https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Ages](https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k) | 3:44 |
-| 46 | [Way Truth Life \- Live](https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Revival \(Live\)](https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J) | 3:20 |
+| 45 | [Way Truth Life \- Live](https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Revival \(Live\)](https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J) | 3:20 |
+| 46 | [Tightrope](https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Ages](https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k) | 3:44 |
 | 47 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 |
 | 48 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
 | 49 | [Nothing But Good](https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Nothing But Good](https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08) | 3:45 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 63 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 |
 | 64 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
 | 65 | [Kerosene](https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Kerosene](https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq) | 3:04 |
-| 66 | [Earth](https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [Elements](https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H) | 3:20 |
-| 67 | [It's Coming](https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [It's Coming](https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j) | 2:34 |
+| 66 | [It's Coming](https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [It's Coming](https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j) | 2:34 |
+| 67 | [Earth](https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [Elements](https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H) | 3:20 |
 | 68 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
 | 69 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
 | 70 | [Jesus Is The Key](https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Jesus Is The Key](https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L) | 6:29 |
 | 71 | [Alibi](https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hills & Horizons](https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h) | 3:01 |
-| 72 | [All I Want](https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Madison Russell](https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld) | [Canyon Worship 2021](https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ) | 3:28 |
+| 72 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
 | 73 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
-| 74 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
+| 74 | [All I Want](https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Madison Russell](https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld) | [Canyon Worship 2021](https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ) | 3:28 |
 | 75 | [Heaven On Earth \- Radio Single](https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Heaven On Earth](https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL) | 3:45 |
 
-Snapshot ID: `MTY3NjY5NDkyNCwwMDAwMDAwMDMxODYzNDI4ZjYxOTRjYjVhM2NkM2NkOWUxMjM2MTVi`
+Snapshot ID: `MTY3NjY5NDkyNCwwMDAwMDAwMDAzYzI1NDUxY2ZhM2ZmM2I5ZTUxYjUxMTA5NDNkNWQ4`

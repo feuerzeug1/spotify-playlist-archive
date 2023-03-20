@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: Passion
 
-217 songs - 22 hr 28 min
+218 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Fixed on You](https://open.spotify.com/track/5Etqm8yfRZYsXMbzesYcfv) | [Soul City Worship](https://open.spotify.com/artist/5LtsEFW2aTWHrlwv5R49pP), [Jeremy Lopez](https://open.spotify.com/artist/2DBZ6F91cM0AyuKRF25Jej) | [No\. 2](https://open.spotify.com/album/6ofhAoxpeCQk140gagz0bL) | 5:55 | 2022-02-19 | 2023-03-11 |
 | [For My Good \- Live](https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp) | [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Aiva Jenkins](https://open.spotify.com/artist/0kHsjUrgZWShkTeraeXGBd), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [The Turning](https://open.spotify.com/album/6E9CCZc8nUZqridnjbTAgR) | 5:04 | 2022-09-11 |  |
 | [Forever & Amen \(with Kari Jobe\) \- Live](https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Forever & Amen](https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB) | 9:50 | 2022-09-17 |  |
-| [Free Indeed \(Wonder\) \- Live](https://open.spotify.com/track/7iTIDFY3e9xCWibY08qFUx) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2) | [Free Indeed \(Wonder\) \[Live\]](https://open.spotify.com/album/4wtrL9uem0EyVuuJAWTn1w) | 4:40 | 2022-09-11 |  |
+| [Free Indeed \(Wonder\) \- Live](https://open.spotify.com/track/7iTIDFY3e9xCWibY08qFUx) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2) | [Free Indeed \(Wonder\) \[Live\]](https://open.spotify.com/album/4wtrL9uem0EyVuuJAWTn1w) | 4:40 | 2022-09-11 | 2023-03-20 |
 | [Glory Fills This Room](https://open.spotify.com/track/7fr7c3qi690uH1nzMlCXms) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Glory Fills This Room](https://open.spotify.com/album/2OXY0lBShlKDQUBc1BdRFh) | 5:21 | 2022-02-19 | 2023-03-11 |
 | [Glory, Honor, Power \- Studio Version](https://open.spotify.com/track/2lw2B35ZgYPxW0SSo12867) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Glory, Honor, Power \(Studio Version\)](https://open.spotify.com/album/4P7KK4m7bAjZ1o7CUB3yi2) | 3:41 | 2022-02-19 | 2022-09-12 |
 | [God Is Love \- Live](https://open.spotify.com/track/1X6MCzayZJhr1EQps2JnaK) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [God Is Love \(Live\)](https://open.spotify.com/album/13D2WiELpo5psoweUyadXT) | 5:48 | 2022-03-19 | 2022-09-12 |
@@ -86,6 +86,7 @@
 | [Grace Like Waters](https://open.spotify.com/track/4nIcCKDmnK8TlpKOPErbGx) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp) | [Grace Like Waters](https://open.spotify.com/album/3lNZtu2l9ucttcXOdK0M01) | 6:12 | 2022-02-19 | 2022-09-12 |
 | [Gratitude \- Live](https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Gratitude \(Live\)](https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl) | 6:16 | 2022-09-11 | 2023-03-11 |
 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 | 2022-02-19 |  |
+| [Greater Than It All \- Live](https://open.spotify.com/track/4Vqvuy5Z4Lhn5wdqFDpTjx) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Greater Than It All \(Live\)](https://open.spotify.com/album/0beZjVg2wi1FiDYA7abeFe) | 4:52 | 2023-03-20 |  |
 | [Growing Pains Pt\. 2](https://open.spotify.com/track/3JT72Odgjboph3SnXhDbzk) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 2:27 | 2022-09-11 |  |
 | [Halfway Empty \- Live](https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Halfway Empty \(Live\)](https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw) | 3:45 | 2023-03-11 |  |
 | [Have Your Way](https://open.spotify.com/track/6MMJiOg5LDdCKQvcJdmkEk) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Land Of The Living](https://open.spotify.com/album/5GPB5HPfsC9UnN6iWjDDpp) | 6:13 | 2022-02-19 | 2023-03-11 |

@@ -4,7 +4,7 @@
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 53 min
+31 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,11 +20,12 @@
 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 | 2023-03-17 |  |
 | [In My Way](https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [In My Way](https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9) | 3:20 | 2023-03-17 |  |
 | [It's Gonna Be Okay, Baby](https://open.spotify.com/track/5lH5KTgUiP5CSjGctZusTQ) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 5:44 | 2023-03-17 |  |
-| [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 | 2023-03-17 |  |
+| [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 | 2023-03-17 | 2023-03-20 |
 | [Loudspeaker](https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 3:30 | 2023-03-17 |  |
 | [Motivation \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 3:26 | 2023-03-17 |  |
 | [Navy Blue](https://open.spotify.com/track/62fQs5LcdcyambpTxDnjmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:58 | 2023-03-17 |  |
 | [Nihilist \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Promising Young Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL) | 3:25 | 2023-03-17 |  |
+| [No Idea](https://open.spotify.com/track/4X0P4EdiA3HBqqKFnlV5n7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 2:54 | 2023-03-19 |  |
 | [Number One Fan](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:25 | 2023-03-17 |  |
 | [Pink Light](https://open.spotify.com/track/2zmGJTOfCKljp9HEffLM78) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:11 | 2023-03-17 |  |
 | [Relief Next to Me](https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Tegan and Sara Present the Con X: Covers](https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9) | 2:57 | 2023-03-17 |  |

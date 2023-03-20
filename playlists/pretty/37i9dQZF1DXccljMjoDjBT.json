@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: REO Speedwagon",
-  "num_followers": 220122,
+  "num_followers": 220402,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDMyNCwwMDAwMDAwMDkwY2UzZmRjNzZjOWI3NjdkYTRlZWQ1MDM1OGU5NGUw",
+  "snapshot_id": "MTY3NDA4MDMyNCwwMDAwMDAwMDBhNmY4NTU1NzQzOWFmN2QwZmNjOGJjZjk1NDU2M2Fk",
   "tracks": [
     {
       "added_at": "2023-01-18 22:18:44",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+        "name": "Heartbeat City (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+      "duration_ms": 234332,
+      "name": "Drive - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Heartbeat City (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
       "artists": [
         {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 234332,
-      "name": "Drive - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2023-01-18 22:18:44",

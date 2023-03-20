@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104316,
+  "num_followers": 104305,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODYxNjMxOCwwMDAwMDAwMGE3YWMxMDM0MjlmNzYyNGI0MDI3ODc2NTdkMTBjOGY5",
+  "snapshot_id": "MTY3ODYxNjMxOCwwMDAwMDAwMGQyNzljZjNmZmM1MDY4NDM2MWEyOTdlMTE1ZWM5YjU0",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Before We Met",
+        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
+      },
+      "artists": [
+        {
+          "name": "Minik Jakobsen",
+          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
+        }
+      ],
+      "duration_ms": 113285,
+      "name": "Before We Met",
+      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Hungarian Dances / Waltzes, Op. 39",
         "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 94333,
       "name": "16 Waltzes, Op. 39: No. 15 In A Flat Major",
       "url": "https://open.spotify.com/track/7ouW02587AzIaGnK0gh8St"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Before We Met",
-        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
-      },
-      "artists": [
-        {
-          "name": "Minik Jakobsen",
-          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
-        }
-      ],
-      "duration_ms": 113285,
-      "name": "Before We Met",
-      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Relaxing Piano (Neoclassical Sessions)",
-        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
-      },
-      "artists": [
-        {
-          "name": "Kalen Elmsley",
-          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
-        }
-      ],
-      "duration_ms": 184220,
-      "name": "Spheroidal",
-      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Air from Air",
         "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
       },
@@ -211,18 +195,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
       },
       "artists": [
         {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
         }
       ],
-      "duration_ms": 100013,
-      "name": "Written on the Sky",
-      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -243,6 +227,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 100013,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Box of Memories",
         "url": "https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 162160,
       "name": "Box of Memories",
       "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Lisser",
+        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
+      },
+      "artists": [
+        {
+          "name": "Miran",
+          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
+        }
+      ],
+      "duration_ms": 125041,
+      "name": "Lisser",
+      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -327,38 +343,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Lisser",
-        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
-      },
-      "artists": [
-        {
-          "name": "Miran",
-          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
-        }
-      ],
-      "duration_ms": 125041,
-      "name": "Lisser",
-      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Adesso",
-        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Adesso",
-      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Cygne Noir",
         "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Adesso",
+        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Adesso",
+      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Snowed In",
         "url": "https://open.spotify.com/album/0kKMS7wWm7xonBa1Zf133X"
       },
@@ -403,22 +403,6 @@
       "duration_ms": 148500,
       "name": "Snowed In",
       "url": "https://open.spotify.com/track/1spPkmhaejcIpnjmP6nxq3"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Whirling sky",
-        "url": "https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU"
-      },
-      "artists": [
-        {
-          "name": "Tamara Blake",
-          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
-        }
-      ],
-      "duration_ms": 169874,
-      "name": "Whirling sky",
-      "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -439,6 +423,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Whirling sky",
+        "url": "https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU"
+      },
+      "artists": [
+        {
+          "name": "Tamara Blake",
+          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
+        }
+      ],
+      "duration_ms": 169874,
+      "name": "Whirling sky",
+      "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Starry Sky",
-        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
-      },
-      "artists": [
-        {
-          "name": "April Baxter",
-          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Starry Sky",
-      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Nocturnes op.3",
         "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 154714,
       "name": "Nocturnes op.3",
       "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Starry Sky",
+        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Starry Sky",
+      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
+      },
+      "artists": [
+        {
+          "name": "Renato Luigi",
+          "url": "https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Hope Street Tunnel Blues: Music for Piano By Philip Glass and Alvin Curran",
         "url": "https://open.spotify.com/album/1czSDn7BftdygjY200OXTy"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 353146,
       "name": "Opening",
       "url": "https://open.spotify.com/track/1QmhkjuUlosROqKk59sBSK"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
-      },
-      "artists": [
-        {
-          "name": "Renato Luigi",
-          "url": "https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Paragon",
-        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
-      },
-      "artists": [
-        {
-          "name": "Anton Lebedev",
-          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Paragon",
-      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 165902,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Paragon",
+        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
+      },
+      "artists": [
+        {
+          "name": "Anton Lebedev",
+          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Paragon",
+      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Finding Rain",
-        "url": "https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq"
+        "name": "Unyielding Faith",
+        "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
       },
       "artists": [
         {
-          "name": "Emily Rubye",
-          "url": "https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp"
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
         }
       ],
-      "duration_ms": 134915,
-      "name": "Next",
-      "url": "https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx"
+      "duration_ms": 158000,
+      "name": "Unyielding Faith",
+      "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Unyielding Faith",
-        "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
+        "name": "Finding Rain",
+        "url": "https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq"
       },
       "artists": [
         {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+          "name": "Emily Rubye",
+          "url": "https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Unyielding Faith",
-      "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
+      "duration_ms": 134915,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx"
     },
     {
       "added_at": "2023-03-12 10:18:38",

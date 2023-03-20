@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Case Closed"! アニメ「名探偵コナン」の世界を彩る音楽をプレイリストで。©2020 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,589 likes - 111 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,639 likes - 111 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 30 | [夢みたあとで](https://open.spotify.com/track/3XXNRyv7zudimJ8g9Z5CW6) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [SPARKLE \~筋書き通りのスカイブルー\~](https://open.spotify.com/album/50m7D6u4qmuDHWFUn81J4Q) | 4:57 |
 | 31 | [Overture](https://open.spotify.com/track/2YbhiSSMXZUTBZiu9m6qIC) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [志庵](https://open.spotify.com/album/73WUOY439t3etQzBlReMgH) | 4:19 |
 | 32 | [キミがいれば \- 十字路ヴァージョン](https://open.spotify.com/track/0SOFfTJMGdeyb4HZaE1dDP) | [Reiko](https://open.spotify.com/artist/2gNfmIDlKDgwqbilGU5i94) | [名探偵コナン 迷宮の十字路 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4USo0BCeycCmbYn8Z2peAv) | 3:03 |
-| 33 | [Time after time \~花舞う街で\~](https://open.spotify.com/track/6p7zWUrMceo4GrJyFQFlGY) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:01 |
+| 33 | [Time after time \~花舞う街で\~ \(theater version\)](https://open.spotify.com/track/6p7zWUrMceo4GrJyFQFlGY) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:10 |
 | 34 | [明日を夢見て](https://open.spotify.com/track/5TKZqlpqmtl4XvSTmeW1vm) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [明日を夢見て](https://open.spotify.com/album/0r9ZkQ0hO5jrdfLVk6jgDA) | 4:35 |
 | 35 | [風のららら](https://open.spotify.com/track/7cLJvR63HvCDOFuCT8cTi4) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:20 |
 | 36 | [君という光](https://open.spotify.com/track/6yivWdTBQXrtN04ij4zNb3) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [Crystallize \~君という光\~](https://open.spotify.com/album/7J0IdHpDAPCbrBnwiTCvJ9) | 5:08 |

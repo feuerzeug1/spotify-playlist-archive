@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,072 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,069 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 32 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
 | 33 | [Tethered, Wrapped Around](https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 3:15 |
 | 34 | [Begin Again](https://open.spotify.com/track/2ksgMG1hHFHV979phZ2lkd) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Begin Again \- EP](https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN) | 4:35 |
-| 35 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 |
-| 36 | [Low](https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Low](https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY) | 4:34 |
+| 35 | [Low](https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Low](https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY) | 4:34 |
+| 36 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 |
 | 37 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 |
 | 38 | [Scream Drive Faster](https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m) | 4:00 |
 | 39 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 81 | [Goodbye Blue](https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Goodbye Blue](https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro) | 4:01 |
 | 82 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
 | 83 | [A.M\. AM](https://open.spotify.com/track/1tZW8iinOpafycLyeif7zX) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:56 |
-| 84 | [I've Got A Girl](https://open.spotify.com/track/0z88v5OzBLTyqtoicF2rtH) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [I've Got A Girl](https://open.spotify.com/album/23koinchIREk5uVwOcrIPe) | 3:28 |
-| 85 | [Five and Dime](https://open.spotify.com/track/3HgwWsgkhXJ2LsEFWywrHj) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 2:53 |
+| 84 | [Five and Dime](https://open.spotify.com/track/3HgwWsgkhXJ2LsEFWywrHj) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 2:53 |
+| 85 | [I've Got A Girl](https://open.spotify.com/track/0z88v5OzBLTyqtoicF2rtH) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [I've Got A Girl](https://open.spotify.com/album/23koinchIREk5uVwOcrIPe) | 3:28 |
 | 86 | [Wallflower](https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI) | [Latir](https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr) | [Wallflower](https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y) | 3:04 |
 | 87 | [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 |
 | 88 | [Rooftop Dancing](https://open.spotify.com/track/69TJLfGTUYSugs2Yi1dnG3) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Rooftop Dancing](https://open.spotify.com/album/3PvStgRH7gl0LF6tw09yuq) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 99 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 |
 | 100 | [Big Skies, Silly Faces](https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Big Skies, Silly Faces](https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc) | 3:55 |
 
-Snapshot ID: `MTY3NDY5MzEyMCwwMDAwMDAwMGEwN2NhNmU4MjNkODllNGZkYmRhZmMyZWVjOGVhZDBi`
+Snapshot ID: `MTY3NDY5MzEyMCwwMDAwMDAwMDljY2IwODdkNzY1MzM1MTI2NWIxODljNjgxYmQ2N2U4`

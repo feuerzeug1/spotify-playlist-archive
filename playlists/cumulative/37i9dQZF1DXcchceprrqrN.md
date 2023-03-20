@@ -4,7 +4,7 @@
 
 > self\-reinvention never sounded so good.
 
-80 songs - 4 hr 11 min
+81 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Fast in My Car](https://open.spotify.com/track/5HqY0PolOVfmhTgCTih4HF) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:42 | 2022-11-04 | 2022-12-30 |
 | [Fast in My Car](https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:42 | 2022-09-23 |  |
 | [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 | 2022-09-23 | 2022-11-11 |
-| [God Is a Circle](https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa) | 3:32 | 2023-01-13 |  |
+| [God Is a Circle](https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa) | 3:32 | 2023-01-13 | 2023-03-20 |
+| [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 | 2023-01-13 |  |
 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 | 2022-11-10 | 2023-02-02 |
 | [GOOD GRIEF](https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BUMMER](https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz) | 2:58 | 2023-01-13 |  |
 | [Hangover Game](https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu) | 2:16 | 2022-09-23 |  |

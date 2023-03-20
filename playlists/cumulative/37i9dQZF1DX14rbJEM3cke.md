@@ -4,7 +4,7 @@
 
 > New Rock driving the current, every week\. Cover: Connie Constance, artwork by Ian Woods
 
-184 songs - 9 hr 18 min
+185 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Gimme](https://open.spotify.com/track/4Lq4AYUBFGZBGRplAs4vkr) | [Hero The Band](https://open.spotify.com/artist/2PZZXkVyUo7SV4wfKwa8FW), [Cantrell](https://open.spotify.com/artist/1YRb0vKj0YIlbEyuexYlXv) | [Gimme](https://open.spotify.com/album/6Aoov6tPM1rt3hicLb8qo4) | 2:31 | 2022-02-12 | 2022-03-18 |
 | [Gimme Chocolate!!](https://open.spotify.com/track/16D5bGymrzpi9ZlnYXB5ql) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BABYMETAL](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) | 3:50 | 2022-07-22 | 2022-08-27 |
 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 | 2022-07-22 | 2022-08-27 |
-| [God Is a Circle](https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa) | 3:32 | 2023-02-01 |  |
+| [God Is a Circle](https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa) | 3:32 | 2023-02-01 | 2023-03-20 |
+| [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 | 2023-02-24 |  |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2022-02-12 | 2022-06-04 |
 | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty) | 2:34 | 2022-06-03 | 2023-02-02 |
 | [Green Eyes](https://open.spotify.com/track/1iMOLNyzKtIMucwZzQSjZi) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 3:49 | 2022-07-22 | 2022-08-27 |

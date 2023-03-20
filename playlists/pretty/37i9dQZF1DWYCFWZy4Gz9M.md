@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Ancient North African rhythms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,192 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,239 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 22 | [Soudani](https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 5:12 |
 | 23 | [Bania Bambara](https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa Or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 7:20 |
 | 24 | [Yobadi](https://open.spotify.com/track/5DbrFW9JN9I10x6YlN48Xv) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Roots & Plugged](https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn) | 4:30 |
-| 25 | [44](https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10) | [Omri Mor](https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9), [Mehdi Nassouli](https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ), [Karim Ziad](https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8) | [Assala](https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS) | 7:53 |
-| 26 | [Chalaban \- Live](https://open.spotify.com/track/7eBSPitHLvqS4y6Ik7dD8f) | [Chalaban](https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG) | [Moroccan Spring \(Live\)](https://open.spotify.com/album/29xpcwtYHON3dbSKInrTzl) | 5:43 |
+| 25 | [Chalaban \- Live](https://open.spotify.com/track/7eBSPitHLvqS4y6Ik7dD8f) | [Chalaban](https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG) | [Moroccan Spring \(Live\)](https://open.spotify.com/album/29xpcwtYHON3dbSKInrTzl) | 5:43 |
+| 26 | [44](https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10) | [Omri Mor](https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9), [Mehdi Nassouli](https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ), [Karim Ziad](https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8) | [Assala](https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS) | 7:53 |
 | 27 | [Lalla Mira \- Jan Rase Remix](https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W) | [Gnawa Impulse](https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ) | [Jah Gnawi](https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u) | 4:05 |
 | 28 | [Bambraka](https://open.spotify.com/track/49CaWsZQFw6B37mbgSWdHr) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK), [Griselda Sanderson](https://open.spotify.com/artist/4x8C8KuFsIRjGluQFZ6ZZa) | [The Gnawa Caravan: Salt](https://open.spotify.com/album/00S0tQ90OytZxNKHtQRFlA) | 7:24 |
 | 29 | [Sidi Koumy](https://open.spotify.com/track/15pwgz1YF0jYkXhGsZTCnD) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61), [Amida Boussou](https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5), [Hassan Boussou](https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI), [Abdelkebir Merchane](https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4), [Zef Zaf](https://open.spotify.com/artist/1cs08TsXSdpGOwfbOmm4yq), [Abdelkebir Amlil](https://open.spotify.com/artist/7GhnTjzgICUgcz64gGZuGh) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 9:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 49 | [Baniyorkoy](https://open.spotify.com/track/1Igxw5lYI0lGE9sHj1pefi) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK) | [Gnawa London](https://open.spotify.com/album/0D3b0UUxknxOaxWy69Q26D) | 5:23 |
 | 50 | [Baba Arabi](https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN) | [Gnawa Njoum Experience](https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l) | [Gnawa Njoum Experience](https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh) | 6:15 |
 
-Snapshot ID: `MTY3MDMyNjUwNywwMDAwMDAwMDJmOGFiYzkyM2JlODQ4M2I3ZTdkNDEwYzVlYWEzZjFl`
+Snapshot ID: `MTY3MDMyNjUwNywwMDAwMDAwMGQyYWQ2YWYyMTRhZTIwZDJiNGEwMWI3YmJjYmVkZGJh`

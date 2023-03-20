@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > The best indie covers\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,483 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,500 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 16 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 |
 | 17 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 |
 | 18 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
-| 19 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 |
-| 20 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 |
+| 19 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 |
+| 20 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 |
 | 21 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
-| 22 | [I'm On Fire](https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm on Fire](https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI) | 2:38 |
-| 23 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
+| 22 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
+| 23 | [I'm On Fire](https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm on Fire](https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI) | 2:38 |
 | 24 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
 | 25 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
 | 26 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 63 | [Nothing Breaks Like A Heart](https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/0zBZokjXEln00OETFLesm2) | 3:16 |
 | 64 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
 | 65 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 |
-| 66 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 |
-| 67 | [West Coast \(I'm In Love\)](https://open.spotify.com/track/3ktl9MwJgnAanqqkcTXue8) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [West Coast \(I'm In Love\)](https://open.spotify.com/album/0R3khnzqHN3bLsoZk1y36m) | 3:32 |
+| 66 | [West Coast \(I'm In Love\)](https://open.spotify.com/track/3ktl9MwJgnAanqqkcTXue8) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [West Coast \(I'm In Love\)](https://open.spotify.com/album/0R3khnzqHN3bLsoZk1y36m) | 3:32 |
+| 67 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 |
 | 68 | [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 |
 | 69 | [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 |
 | 70 | [More Than This](https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Music From The Pen Gala 1983](https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 74 | [Can't Take My Eyes Off You](https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [Can't Take My Eyes Off You / 3BadSoSad \- Edit](https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP) | 3:29 |
 | 75 | [West Coast](https://open.spotify.com/track/3JjqTp1P1igYmNHFPb6SDH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [West Coast](https://open.spotify.com/album/3XZP9FEuWaS66Gquo2cKaa) | 3:15 |
 
-Snapshot ID: `MTY3OTAyOTIwMCwwMDAwMDAwMDgwZmYzNjEwNDgxODM2MDI1ZTQzMWJmNzhjNzYyZTg1`
+Snapshot ID: `MTY3OTAyOTIwMCwwMDAwMDAwMDI2NWE2OTJjYWViNTc0MzRlNTkwYzU1ZDcxZTQ3NmEz`

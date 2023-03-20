@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-151 songs - 13 hr 10 min
+153 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Kilombito Mal \(feat\. Antonia Montero\)](https://open.spotify.com/track/4KEyvTU5LmxxyXw08bhnJ1) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Kilombito Mal](https://open.spotify.com/album/5cuo25ITqxcBFV4VxkUcrP) | 8:19 | 2022-06-03 | 2022-07-29 |
 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 | 2022-11-11 |  |
 | [La Nariz Rosada](https://open.spotify.com/track/3do6W1ZZXTJJKtlykfJygL) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [DJ Mara](https://open.spotify.com/artist/1OUuxQNvF1uRYOtLgv9Ood) | [La Nariz Rosada](https://open.spotify.com/album/2tSCpX7cYOsbZc09ABcBVt) | 4:40 | 2022-08-26 |  |
+| [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 | 2023-03-17 |  |
 | [Lightspeed](https://open.spotify.com/track/36PkmbHlfH1JYwoFJS1S0q) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Lightspeed](https://open.spotify.com/album/4NnuKQveWvoRFjl3A0IZqe) | 6:22 | 2022-06-24 | 2022-07-21 |
 | [Like It Is](https://open.spotify.com/track/3O9ed5dnmz1T3O2o0OtnJp) | [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Kids Love Acid House](https://open.spotify.com/album/4ETe9T1phkZPjTMCQDn4Cb) | 7:00 | 2022-06-03 | 2022-07-27 |
 | [Lipid](https://open.spotify.com/track/3073MbpcoDvWkBe3xZXkio) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Lipid](https://open.spotify.com/album/650mCjH1OTX40TgmzzkOP7) | 6:18 | 2022-06-03 | 2022-07-29 |
@@ -88,7 +89,7 @@
 | [Moody Fuse](https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Moody Fuse](https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh) | 6:51 | 2022-07-15 | 2022-10-30 |
 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 | 2022-07-01 |  |
 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 | 2022-06-03 |  |
-| [Nana](https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Nana](https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt) | 2:47 | 2022-09-09 |  |
+| [Nana](https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Nana](https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt) | 2:47 | 2022-09-09 | 2023-03-20 |
 | [Nights into Mornings \- Joseph Capriati Remix](https://open.spotify.com/track/1w1XIiV4PABYIsRuyMRFmR) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf) | [Nights into Mornings](https://open.spotify.com/album/1JEAxlq89t4yT0wIAMZqaw) | 7:13 | 2023-03-17 |  |
 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 | 2022-06-03 |  |
 | [No More \- Original Mix](https://open.spotify.com/track/5Q9WUuPzfsUYEbDp63vHfG) | [Alfrenk](https://open.spotify.com/artist/6HLdgf2zPz9ZhjZJxtgVwJ), [Massimo Solinas](https://open.spotify.com/artist/2yaNRPVE9ZAPIZVYKcCw1R) | [No More EP](https://open.spotify.com/album/2rRJgXc2vsqqetBZNadhno) | 6:05 | 2022-07-15 | 2022-07-28 |
@@ -112,7 +113,7 @@
 | [Regulate](https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Regulate](https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO) | 2:34 | 2023-03-03 |  |
 | [Rizzla \- Mochakk Remix](https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rizzla \(Mochakk Remix\)](https://open.spotify.com/album/2blv3hfKbwCQubKJmCoNpw) | 5:21 | 2022-08-19 |  |
 | [Rock Your Body](https://open.spotify.com/track/5EUwuAkfYwO25Yq9lJWjQO) | [Scarda](https://open.spotify.com/artist/0IDb0RLWCibAJ6hV7By04g) | [Rock Your Body](https://open.spotify.com/album/1l0T2RCpVpDhfJV5jRbdpQ) | 6:57 | 2022-07-08 | 2022-07-26 |
-| [Rok The House](https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Rok The House](https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1) | 4:15 | 2022-06-03 |  |
+| [Rok The House](https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Rok The House](https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1) | 4:15 | 2022-06-03 | 2023-03-20 |
 | [Roll Play](https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Roll Play](https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s) | 3:23 | 2022-06-03 |  |
 | [Roxy's Sweat \- Original Mix](https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Roxy's Sweat EP](https://open.spotify.com/album/3s740hEDYRuSEjwnuw385t) | 5:07 | 2022-07-01 | 2022-08-31 |
 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 | 2022-06-24 |  |
@@ -144,6 +145,7 @@
 | [The Source](https://open.spotify.com/track/0IGSz0dzwfcon4rI6kyLTU) | [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [The Source](https://open.spotify.com/album/4770p58faNGmjvEwsafhXX) | 7:54 | 2022-06-03 | 2022-07-14 |
 | [The Truth](https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [The True Secrets](https://open.spotify.com/album/6b3y486Y43QZ5VFmaNI5WH) | 6:24 | 2022-07-15 | 2022-08-23 |
 | [The Truth](https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [The True Secrets](https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i) | 6:24 | 2022-07-15 | 2023-01-02 |
+| [This Energy](https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [This Energy EP](https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU) | 3:18 | 2023-03-17 |  |
 | [Tonight](https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Tonight EP](https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y) | 5:52 | 2022-06-24 |  |
 | [Trigger Technology](https://open.spotify.com/track/29e8sjYkArwTiNxKNEgvpX) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Trigger Technology](https://open.spotify.com/album/61Hv14MDmklquNTnwh55wo) | 3:34 | 2022-06-03 | 2022-06-11 |
 | [Trip](https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Trip](https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B) | 3:43 | 2022-09-16 |  |

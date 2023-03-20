@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,719 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,818 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 56 | [Another Song About Love](https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:11 |
 | 57 | [Love in the West](https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Love in the West](https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH) | 2:18 |
 | 58 | [Love Letter](https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Love Letter](https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd) | 2:59 |
-| 59 | [Baby Will You Love Me](https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Baby Will You Love Me](https://open.spotify.com/album/2w38sOFtpwryYpMROouND9) | 3:33 |
-| 60 | [Your Love](https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 2:38 |
+| 59 | [Your Love](https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 2:38 |
+| 60 | [Baby Will You Love Me](https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Baby Will You Love Me](https://open.spotify.com/album/2w38sOFtpwryYpMROouND9) | 3:33 |
 | 61 | [The Day Before You \- Acoustic](https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Writer's Room: An Acoustic EP](https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5) | 3:32 |
 | 62 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 |
 | 63 | [Don't Deserve You](https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:11 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 83 | [Can't Help Falling In Love \- LIGHT](https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [brooke](https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng) | [Can't Help Falling In Love](https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y) | 2:51 |
 | 84 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 |
 | 85 | [Feel The Waters](https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:04 |
-| 86 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 |
-| 87 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
+| 86 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
+| 87 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 |
 | 88 | [SHE](https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [SHE](https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH) | 3:44 |
 | 89 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
 | 90 | [Praying For You](https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:34 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 97 | [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 |
 | 98 | [Big Ole Love](https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew It Would Be So Hard to Be Myself](https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh) | 3:50 |
 | 99 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
-| 100 | [Loving A Person \- Reimagined](https://open.spotify.com/track/1NYmaX6ByXEUdhojO01jMu) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [What Makes It Through](https://open.spotify.com/album/4YFHM5vLJLbBFCS0nhC0mi) | 3:57 |
+| 100 | [Love Will Never Fail \(I Corinthians 13\)](https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY) | [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [Love Will Never Fail](https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h) | 3:19 |
 
-Snapshot ID: `MTY3NTE1OTI3MiwwMDAwMDAwMDhlMDEyNDY5NzgyMGQzN2M2Y2Y5OTdiNWViYzk5OTJl`
+Snapshot ID: `MTY3NTE1OTI3MiwwMDAwMDAwMDBmMTI0NjFjMjJhOGFkMGMyN2Y1YjgwNjJjMjczOTU4`

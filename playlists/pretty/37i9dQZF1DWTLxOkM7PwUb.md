@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,641 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,730 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 70 | [Me Prefiere A Mi](https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:46 |
 | 71 | [Sexy \(feat\. KHEA & Duki\)](https://open.spotify.com/track/67598hFUFPWCIEy8biXn9D) | [Eich](https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Sexy \(feat\. KHEA & Duki\)](https://open.spotify.com/album/2lHn3ehlogEok7DEUe1yfC) | 4:14 |
 | 72 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 |
-| 73 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 |
-| 74 | [Mi Llamada \(Remix\)](https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Mi Llamada \(Remix\)](https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA) | 6:54 |
+| 73 | [Mi Llamada \(Remix\)](https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Mi Llamada \(Remix\)](https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA) | 6:54 |
+| 74 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 |
 | 75 | [Lágrimas](https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d) | 2:45 |
 | 76 | [Me Gusta](https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Me Gusta](https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42) | 2:38 |
 | 77 | [TU CINTURA](https://open.spotify.com/track/35rGCxanzxooL6R32BuMu6) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [PUNKDEMIA](https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Calle 2 \- Remix](https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Coscu](https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm) | [Calle 2 \(Remix\)](https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07) | 3:42 |
 | 100 | [Ke Sientes](https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Ke Sientes](https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX) | 3:27 |
 
-Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMGRhYzZhYWJjYTViMWY1YjliNmU1MzQ1ODQ5ZTRjNGE1`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMGVmMjdmYjE5MGUyZGVjZWVhZmE0Y2VhZjAxMWM1ODNm`

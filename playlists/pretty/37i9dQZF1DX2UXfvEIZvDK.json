@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 644114,
+  "num_followers": 644450,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgxOTAwMSwwMDAwMDAwMGVmZTg4YTBmYjczMGM3NjUzMWYxMzIwMDRkYTdmMTg0",
+  "snapshot_id": "MTY3ODgxOTAwMSwwMDAwMDAwMGEwMmRjZDhhMmYwNTc4N2M0NzEzMzkyODg4ODFiNWM4",
   "tracks": [
     {
       "added_at": "2023-03-14 18:36:41",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-14 18:36:41",
       "album": {
-        "name": "The Devil And God Are Raging Inside Me",
-        "url": "https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy"
-      },
-      "artists": [
-        {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
-        }
-      ],
-      "duration_ms": 318266,
-      "name": "Jesus Christ",
-      "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"
-    },
-    {
-      "added_at": "2023-03-14 18:36:41",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 250293,
       "name": "Thirty-Three - Remastered 2012",
       "url": "https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs"
+    },
+    {
+      "added_at": "2023-03-14 18:36:41",
+      "album": {
+        "name": "The Devil And God Are Raging Inside Me",
+        "url": "https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy"
+      },
+      "artists": [
+        {
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+        }
+      ],
+      "duration_ms": 318266,
+      "name": "Jesus Christ",
+      "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"
     },
     {
       "added_at": "2023-03-14 18:36:41",

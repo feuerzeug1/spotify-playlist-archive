@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1980s.
 
-675 songs - 1 day 23 hr 52 min
+676 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 | 2021-02-25 | 2021-05-28 |
 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 | 2020-06-29 | 2022-01-11 |
 | [Codo \(...düse im Sauseschritt\)](https://open.spotify.com/track/5qvdVmvmbMGWMcmZ60vlPu) | [Döf](https://open.spotify.com/artist/5xe7HDWTqgaLdbbu2Csos2) | [Die NDW Hits \- Das beste aus 40 Jahren Hitparade](https://open.spotify.com/album/6ypc5eEE03irAWsdfgkmko) | 4:24 | 2019-08-27 | 2019-08-28 |
+| [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:20 | 2023-02-02 |  |
 | [Cold as Ice \- 2008 Remaster](https://open.spotify.com/track/3iM9wFGlyR28IBZrXYZK9j) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [No End in Sight: The Very Best of Foreigner](https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO) | 3:20 | 2019-06-25 | 2021-10-16 |
 | [Come On Eileen](https://open.spotify.com/track/3xKsPtA5XG91Zlh0SyycmM) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Come On Eileen / Dubious](https://open.spotify.com/album/6NzkNnLVrSumwkftZcNfkn) | 3:25 | 2019-05-26\* | 2020-06-12 |
 | [Come On Eileen](https://open.spotify.com/track/5uzNa0SBGOe5pPnstWHMCt) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay \(Deluxe Edition\)](https://open.spotify.com/album/2t3JY6Pch53HxDu7sipMP7) | 4:33 | 2019-08-26 | 2019-09-20 |
@@ -324,7 +325,7 @@
 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 | 2019-05-29 |  |
 | [Jag mår illa](https://open.spotify.com/track/7C8NhwOrNbsqi9YcF2rstE) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [35\-åringen](https://open.spotify.com/album/3cgsWnZfS3Y4SZdo9pgd7H) | 4:06 | 2019-08-26 | 2019-08-27 |
 | [Je te promets](https://open.spotify.com/track/1zw40jMntljzbGsl0KJboE) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/5KAz1HC0P31pabmIceTd7Q) | 4:37 | 2019-08-27 | 2019-08-28 |
-| [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 | 2022-06-02 |  |
+| [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 | 2022-06-02 | 2023-03-20 |
 | [Jessie's Girl](https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/5MeeResNCJfmDmwmHX4w2D) | 3:14 | 2019-05-26\* | 2022-06-15 |
 | [Jose Cuervo](https://open.spotify.com/track/5i3m1HZBzurdMu9zzjBY7r) | [Shelly West](https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ) | [West By West](https://open.spotify.com/album/69bnhASEHbw38nmeKzHrFX) | 2:42 | 2019-08-26 | 2019-08-27 |
 | [Jump \(For My Love\)](https://open.spotify.com/track/4k0bXm9Q4RaTuYi09i4lKK) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Fire! The Very Best of The Pointer Sisters](https://open.spotify.com/album/091NaILFpszQchbFnIFiIX) | 4:23 | 2019-06-02 | 2020-04-25 |

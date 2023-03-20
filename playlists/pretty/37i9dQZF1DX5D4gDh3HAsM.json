@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 514167,
+  "num_followers": 514105,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDQ4ZGFjZGU2OTYyYWRlNzc1ODYzYmI2MjYzMjI5NDUw",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGIwYTdlNGE1NTY3MzcwZGY4ZTgwNjUwYzQ5YTU0NDU5",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Christmas Greetings",
         "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 183412,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
       "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "Greensleeves",
-      "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas Cookin'",
-        "url": "https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        },
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 360133,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Together Again (Remastered 2003)",
         "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 194133,
       "name": "A Child Is Born - Remastered 2003",
       "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Christmas Cookin'",
+        "url": "https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        },
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 360133,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas in the Rockies",
-        "url": "https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 226917,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 154080,
       "name": "Little Jack Frost Get Lost",
       "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Christmas in the Rockies",
+        "url": "https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 226917,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l"
     },
     {
       "added_at": "2021-11-12 15:48:58",

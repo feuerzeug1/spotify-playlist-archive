@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,790 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,839 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 30 | [Quando Eu Me Chamar Saudade](https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF) | [Nelson Cavaquinho](https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5) | [Série Documento \- Nelson Cavaquinho](https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k) | 3:27 |
 | 31 | [Faz uma loucura por mim \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:14 |
 | 32 | [O Mar Serenou](https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 2:59 |
-| 33 | [Chove e Não Molha](https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF) | [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 2:24 |
-| 34 | [Caciqueando \- Ao Vivo](https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Péricles](https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow) | [Roda de Samba do Fundo de Quintal no Cacique de Ramos \(Ao Vivo\)](https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5) | 2:26 |
+| 33 | [Caciqueando \- Ao Vivo](https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Péricles](https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow) | [Roda de Samba do Fundo de Quintal no Cacique de Ramos \(Ao Vivo\)](https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5) | 2:26 |
+| 34 | [Chove e Não Molha](https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF) | [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 2:24 |
 | 35 | [Nas Asas da Canção](https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN) | [Nelson Sargento](https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL) | [Versátil](https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM) | 4:06 |
 | 36 | [Mulheres \- Ao Vivo No Rio De Janeiro / 2007](https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Ao Vivo Com Os Amigos](https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug) | 3:23 |
 | 37 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 49 | [Partideiro Sem Nó Na Garganta](https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Marcelo D2 \- Canta Bezerra Da Silva](https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP) | 3:42 |
 | 50 | [Eu e Você Sempre \- Ao Vivo](https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Jorge 70: Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8) | 4:11 |
 
-Snapshot ID: `MTY3NDY2MjcwOSwwMDAwMDAwMDQzNjRiMjM1MGI4ODY3YjM2NGUwNTdlZTljYTcwZmVk`
+Snapshot ID: `MTY3NDY2MjcwOSwwMDAwMDAwMGZlOGM5OWFiMTMwZWQ5NjA5YTM1MTcyMmU0M2M1OTQ0`

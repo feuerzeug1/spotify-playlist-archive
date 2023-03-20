@@ -876,6 +876,24 @@
     {
       "album": {
         "name": "deadly ever after",
+        "url": "https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196880,
+      "name": "deadly ever after",
+      "url": "https://open.spotify.com/track/49RVuMbXGzYwu7Q8Jec5Yw"
+    },
+    {
+      "album": {
+        "name": "deadly ever after",
         "url": "https://open.spotify.com/album/4enQcVUMRm6zWjYEJSwByi"
       },
       "artists": [
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2020-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 203200,
       "name": "peachy",
       "url": "https://open.spotify.com/track/0isrhXBLy3hrbG6ZrNOBmK"

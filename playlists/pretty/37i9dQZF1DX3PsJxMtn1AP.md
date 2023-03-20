@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,401 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,489 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 17 | [Honey](https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 3:23 |
 | 18 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 |
 | 19 | [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 |
-| 20 | [Oceans Niagara](https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Oceans Niagara](https://open.spotify.com/album/05lNHHSVcb58JiL1d0kPIr) | 4:31 |
+| 20 | [Oceans Niagara](https://open.spotify.com/track/57zPzYQf43mAewduTJPJLp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:31 |
 | 21 | [Same Old Story](https://open.spotify.com/track/1xDVhh7gk3g9lkzRNQUDBq) | [En Attendant Ana](https://open.spotify.com/artist/7mKMQWOBVDivOhswm33WDL) | [Same Old Story](https://open.spotify.com/album/5JXZ12A2U4nl2vsywrUpb4) | 2:40 |
 | 22 | [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
 | 23 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Can't Give You Up](https://open.spotify.com/track/6o5qFSBREXQPvSTJY353I2) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Can't Give You Up](https://open.spotify.com/album/0fZGtVLj6azebynm7MuYeB) | 5:17 |
 | 50 | [Just Leave The Past Behind \- Human Version](https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq) | [Genis](https://open.spotify.com/artist/0Bcv2l62XJ2dND1hjO4pJw), [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Just Leave The Past Behind](https://open.spotify.com/album/69sTttBrKs2MQBoND8cDcU) | 3:42 |
 
-Snapshot ID: `MTY3OTA3MzkxOSwwMDAwMDAwMDRiOTg0ZDFhYjNkMmIyZWJiODZiZTdhZTRhZWM4OWY5`
+Snapshot ID: `MTY3OTA3MzkxOSwwMDAwMDAwMGY2M2RkMjNhOWRmMzFkZjdiN2VkNTY5NGE0ODRkOWEw`

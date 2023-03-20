@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Black Honey
 
-385 songs - 21 hr 40 min
+386 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 | 2022-11-18 |  |
 | [Kids 1995](https://open.spotify.com/track/6NbywDH5W9ZaSNWlnqAcAB) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Kids 1995](https://open.spotify.com/album/70LOOk3n3ZDNtAvJ6JJ6aP) | 4:36 | 2022-10-06 | 2023-01-21 |
 | [Kill the Chord](https://open.spotify.com/track/1Kc3CxhNiZdgHQV4udkLgY) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 3:25 | 2021-03-09 | 2022-01-17 |
+| [King of Nothing](https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:29 | 2023-03-17 |  |
 | [Kleptomaniac](https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Disconnected Happy](https://open.spotify.com/album/12HqkWeJ7g1Tck2eRoGUda) | 2:50 | 2022-04-01 | 2022-08-19 |
 | [Knuckles](https://open.spotify.com/track/0TbHtLbf1Q4pVg1hgcXWZd) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire \(Extended Edition\)](https://open.spotify.com/album/1Wh165Ol4TJwaHKFGcwoP4) | 2:40 | 2022-10-13 | 2022-11-13 |
 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 | 2022-10-13 |  |
@@ -253,7 +254,7 @@
 | [No Rule](https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [No Rule](https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE) | 5:25 | 2022-11-18 |  |
 | [Nose](https://open.spotify.com/track/24pTdId1OUK4ybjDtfp9jO) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Nose](https://open.spotify.com/album/5p4sXCeDxa2UjT7ChfUitJ) | 3:22 | 2023-01-20 | 2023-02-27 |
 | [Nosebleed](https://open.spotify.com/track/3poXkdY1Jti4QPmJprD8kG) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Heart\-Shaped Bruise](https://open.spotify.com/album/1uzFv8mv9cidZxIztJLBmy) | 3:25 | 2023-03-03 | 2023-03-18 |
-| [Nosebleed](https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Nosebleed](https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn) | 3:26 | 2022-10-06 |  |
+| [Nosebleed](https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Nosebleed](https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn) | 3:26 | 2022-10-06 | 2023-03-20 |
 | [Not Strong Enough](https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:54 | 2023-03-03 |  |
 | [Oblivion!](https://open.spotify.com/track/7kbVobcMAcn9tPSjwYG5uT) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [All These Dreams](https://open.spotify.com/album/6wIUAvOBQ6riiRHElALRGN) | 3:20 | 2022-08-18 | 2022-09-23 |
 | [Odds Are It's Blue](https://open.spotify.com/track/6ZvXyUlPkuFK04sAqaWY6U) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Odds Are It's Blue](https://open.spotify.com/album/1WHx1beOfbbcKHxBJUOnmd) | 3:04 | 2021-07-30 | 2022-03-11 |

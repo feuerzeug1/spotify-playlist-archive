@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Kx5, Kaskade, deadmau5
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,579 likes - 85 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,629 likes - 85 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 60 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
 | 61 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 62 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 |
-| 63 | [Inhale / Exhale](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 |
+| 63 | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 |
 | 64 | [Pay It No Mind](https://open.spotify.com/track/4sV3lFXdxg0xDtmt3IwRYr) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Pay It No Mind](https://open.spotify.com/album/6mFhdt0e4DjyQ9U7lLqvGV) | 3:47 |
 | 65 | [Creepin in the Shadow \- Original Mix](https://open.spotify.com/track/01lpiNuE2762wUx4IImGV3) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Creepin in the Shadow](https://open.spotify.com/album/1t0dcAbDxYfH9r0Zzg5ewY) | 6:13 |
 | 66 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 |

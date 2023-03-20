@@ -1595,6 +1595,32 @@
     },
     {
       "album": {
+        "name": "Pathu Thala (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6y3yImd357ZGmMfb0mb1ts"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shuba",
+          "url": "https://open.spotify.com/artist/6CeM0KkzPqfufYDUJjYpll"
+        },
+        {
+          "name": "Nivas",
+          "url": "https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191107,
+      "name": "Raawadi",
+      "url": "https://open.spotify.com/track/2akGl5QjvPr5Prw8a5D513"
+    },
+    {
+      "album": {
         "name": "Rakita Rakita Rakita (From \"Jagame Thandhiram\")",
         "url": "https://open.spotify.com/album/3YSoAYHmI70SD6Wb7f4k1q"
       },

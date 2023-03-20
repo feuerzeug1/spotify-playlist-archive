@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 > Need a playlist for Valentine's Day 2023? Feeling all the butterflies in your stomach? Feel all the feels with this playlist
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 148,085 likes - 52 songs - 3 hr 5 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 148,082 likes - 52 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

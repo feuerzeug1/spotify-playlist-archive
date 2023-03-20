@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Shane & Shane
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,455 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,589 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

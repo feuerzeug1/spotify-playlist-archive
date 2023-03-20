@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,448 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,535 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 5 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 |
 | 6 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 |
 | 7 | [Let It Slide](https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Big Bottle of Joy](https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4) | 3:34 |
-| 8 | [A Thousand Heartaches](https://open.spotify.com/track/2GXG2FPTU6zMsr8qaL52HU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/2YDalbMwI6cOhTzTCUwvCc) | 5:00 |
+| 8 | [A Thousand Heartaches](https://open.spotify.com/track/3M4wqYQdjjQMEtEVprBflj) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blood Brothers](https://open.spotify.com/album/5KE2nGwb7wlAw4DdwlMXV4) | 5:00 |
 | 9 | [Dance Monkey](https://open.spotify.com/track/4W3UeFjutmOG80XCTgioWT) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Dance Monkey](https://open.spotify.com/album/1uUxV8oH2qs8wRApyp62Rn) | 3:33 |
 | 10 | [Little White Lies \- Stripped Back](https://open.spotify.com/track/5zNEdMjH38ll8AmDYhRW4X) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx), [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Little White Lies \(Stripped Back\)](https://open.spotify.com/album/0XF5GRWo02OlsvnzXlM398) | 2:32 |
 | 11 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:01 |
 | 100 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 |
 
-Snapshot ID: `MTY3ODQ2OTg0MiwwMDAwMDAwMDY2NWVhYjUwMjQ0MTIzZTQ3MGE3ZTE3YWI1NmZkZTlj`
+Snapshot ID: `MTY3ODQ2OTg0MiwwMDAwMDAwMDIzYTdlYTdkYzkwMDgyOWUzYjQ3MzAxMjgxZjVhNWJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: The Moldy Peaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 434 likes - 52 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 443 likes - 52 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 23 | [Coffee, God, And Cigarettes](https://open.spotify.com/track/0SQmgir2AkvVKa3snPcn2z) | [Mischief Brew](https://open.spotify.com/artist/73U1Zb71I5JwgC1qVqZ8NO) | [Songs From Under The Sink](https://open.spotify.com/album/1Adkukn6Z9MjyI1bw53nh9) | 2:20 |
 | 24 | [Loose Lips](https://open.spotify.com/track/3v9YeMpkmyHhtdazNUEvNq) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 2:27 |
 | 25 | [Your Heart Is a Muscle the Size of Your Fist \- Live](https://open.spotify.com/track/1nQgPRVQN9fM1VdZdMNsC5) | [Ramshackle Glory](https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g) | [Live the Dream](https://open.spotify.com/album/217MWnvPkioCSCh1LO8YBr) | 3:40 |
-| 26 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 |
-| 27 | [Death Machine](https://open.spotify.com/track/0QhIPhFmn8hXoZywxjYvHr) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Death Machine / White Ghosts](https://open.spotify.com/album/3mVxKF8QO4dbGAZK958ZW7) | 1:53 |
+| 26 | [Death Machine](https://open.spotify.com/track/0QhIPhFmn8hXoZywxjYvHr) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Death Machine / White Ghosts](https://open.spotify.com/album/3mVxKF8QO4dbGAZK958ZW7) | 1:53 |
+| 27 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 |
 | 28 | [Obligatory Folk Punk Song](https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD) | [Panucci's Pizza](https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi) | [All The Toppings](https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC) | 1:51 |
 | 29 | [Hungry Dog in the Street](https://open.spotify.com/track/6gyQhi8Dy7YNOQVXW9DYND) | [The Taxpayers](https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy) | ["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm) | 1:41 |
 | 30 | [Walk Away](https://open.spotify.com/track/36hTYlFbEsH2SOu24KJNtH) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 4:16 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 37 | [Tangled in Ropes](https://open.spotify.com/track/78IKSH3rgDaL8GyXV06OKP) | [Holy Locust](https://open.spotify.com/artist/53pzYGtCFFFYEnDy7I21KQ) | [Fever Dream](https://open.spotify.com/album/6Voz4CbRCeBmjOAl6cQYeO) | 5:14 |
 | 38 | [Habits Held](https://open.spotify.com/track/0g5P2jUXS1MajSvTqB9Xzr) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [How Did It Seem To You?](https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA) | 2:03 |
 | 39 | [Critical Hit](https://open.spotify.com/track/2XCxUexRr4mxLqBwZoHg9I) | [Ghost Mice](https://open.spotify.com/artist/0TF5GTnQ6cdDVRhfGyIXM2) | [Death and Hatred to Mankind](https://open.spotify.com/album/5lIeYBB9sGqFZHPasYTr8t) | 1:59 |
-| 40 | [owlz](https://open.spotify.com/track/1QhV1fB6S4dZq8YYlJEMIM) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Diagonal](https://open.spotify.com/album/6uY20cDnA4MsRjrAFtDYfb) | 3:15 |
-| 41 | [Devil's Will](https://open.spotify.com/track/12A6vaFlMMGVOxwTrLjexL) | [Cousin Boneless](https://open.spotify.com/artist/5fPPvbwNTcwUlHEnupabeg) | [Revel in the Rubble](https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf) | 3:54 |
+| 40 | [Devil's Will](https://open.spotify.com/track/12A6vaFlMMGVOxwTrLjexL) | [Cousin Boneless](https://open.spotify.com/artist/5fPPvbwNTcwUlHEnupabeg) | [Revel in the Rubble](https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf) | 3:54 |
+| 41 | [owlz](https://open.spotify.com/track/1QhV1fB6S4dZq8YYlJEMIM) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Diagonal](https://open.spotify.com/album/6uY20cDnA4MsRjrAFtDYfb) | 3:15 |
 | 42 | [I Saw a Hippie Girl on 8th Ave](https://open.spotify.com/track/1lmsq361YTwZC9ftorAGIu) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [It's the Ones Who've Cracked That the Light Shines Through](https://open.spotify.com/album/4GqPBbYTgJ8PrYV3fSB7Db) | 2:02 |
 | 43 | [Once a Loser Aways a Loser](https://open.spotify.com/track/4FBoTpxUkJtJsr5qyY3mSF) | [HappyHappy](https://open.spotify.com/artist/6lBNYwZyzu3pes9Ldf9mkw) | [HappyHappy](https://open.spotify.com/album/2GuPxUaRFiBW2ThTYmT3xp) | 4:57 |
 | 44 | [heavens to murgatroyd! \(exit stage left, even!\)](https://open.spotify.com/track/0GkZUyS44NvAOp4aRQK0RM) | [The Official Bard of Baldwin County](https://open.spotify.com/artist/1t9P3blGpfZPEOwNIfwk9f) | [the patron saint of something](https://open.spotify.com/album/6bv9D8AebF3JvroDuozvND) | 2:50 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 51 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 |
 | 52 | [Be Happy](https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi) | [A Day Without Love](https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD) | [Be Happy, Today](https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H) | 3:00 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDgxYmRjNTQ3N2RjNmMyMmQ5MGJkMDg5ZTQwZmM3MDJm`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGJkNzQ0MTg3YTg0NDdmMjIxMzJiYTA5ZDc0MjBiOGZh`

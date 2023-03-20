@@ -3666,7 +3666,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
@@ -4020,6 +4020,24 @@
       "duration_ms": 191493,
       "name": "We Fall In",
       "url": "https://open.spotify.com/track/396KYYOGDOwE7YooXmFedN"
+    },
+    {
+      "album": {
+        "name": "We Fall In",
+        "url": "https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "We Fall In",
+      "url": "https://open.spotify.com/track/3gJbk7cVA8krFgfVVN0Edm"
     },
     {
       "album": {

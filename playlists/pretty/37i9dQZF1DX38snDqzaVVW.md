@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,777 likes - 54 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,928 likes - 54 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

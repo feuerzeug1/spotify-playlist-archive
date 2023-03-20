@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 31 min
+87 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Creo Estar Soñando \(En Vivo\)](https://open.spotify.com/track/03nTMMyuSh6FRmf4ZTVS0N) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Creo Estar Soñando \(En Vivo\)](https://open.spotify.com/album/5MM8PZx0hPCGqOXemg9OjJ) | 2:34 | 2022-06-01 |  |
 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 | 2022-06-01 |  |
 | [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 | 2023-01-20 | 2023-01-29 |
+| [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 | 2023-03-19 |  |
 | [De Aqui Paya](https://open.spotify.com/track/6U5rCJ8xJmZxNe3fbg1X7Q) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos 2019 Vol\. 2](https://open.spotify.com/album/7qWQtf7ia2Bf8q22TPMn8D) | 2:58 | 2022-06-01 |  |
 | [De Seattle Hasta San Diego](https://open.spotify.com/track/6cJZ0jt8KxTz8RXQDpmiUK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Seattle Hasta San Diego](https://open.spotify.com/album/2JpiptY2bA7LrAdybMIY7f) | 3:22 | 2022-06-01 | 2022-10-13 |
 | [Dejate De Cosas](https://open.spotify.com/track/3as1oPfPMw6Dj4r0T8wRDF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Dejate De Cosas \(En Vivo\)](https://open.spotify.com/album/15Agp87LSD2IlX96CKQ3ZD) | 2:05 | 2022-06-01 | 2023-03-14 |
@@ -82,7 +83,7 @@
 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 | 2022-10-15 |  |
 | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR) | 3:31 | 2022-06-01 |  |
 | [Recostada En La Cama \(En Vivo\)](https://open.spotify.com/track/67ooe4ll0LOFRzvfTeJHCQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Recostada En La Cama \(En Vivo\)](https://open.spotify.com/album/0IFlKx4CBD5vRGKNkjZ2oU) | 3:07 | 2022-06-01 | 2022-07-04 |
-| [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/track/2aTuyF8tSigB00E9CNMkHm) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/album/6PzecOlrZjmYIGkNkVtY6E) | 3:23 | 2022-06-01 |  |
+| [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/track/2aTuyF8tSigB00E9CNMkHm) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/album/6PzecOlrZjmYIGkNkVtY6E) | 3:23 | 2022-06-01 | 2023-03-20 |
 | [Si de Bélicos Hablamos \(En Vivo\)](https://open.spotify.com/track/2fTo0N3x8JCEy3iSVNMiHx) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Si de Bélicos Hablamos \(En Vivo\)](https://open.spotify.com/album/3l4KUKS3RgieBHWLmyjJ3Q) | 2:36 | 2023-01-01 |  |
 | [Si Respetan, Respeto](https://open.spotify.com/track/0aaodlJgJ1NriUhyt1K6Sn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Si Respetan, Respeto](https://open.spotify.com/album/4Ug2MkxrrHtdgx6Qg59KUi) | 3:36 | 2022-06-01 | 2022-08-05 |
 | [Siempre Pendientes](https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN) | 3:06 | 2023-02-06 |  |

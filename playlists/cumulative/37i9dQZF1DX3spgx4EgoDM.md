@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-274 songs - 17 hr 9 min
+275 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Llorar](https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88) | 3:43 | 2022-07-05 |  |
 | [Lloraras por Mi](https://open.spotify.com/track/6RIbI3LsAZXfkBo5L48YoB) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Chapa C](https://open.spotify.com/artist/5tGexnJ20XnSHoqqP7bjZC), [Bryan Alvez](https://open.spotify.com/artist/6FZjAN4tUrVUtL1YcJvUsQ) | [Lloraras por Mi](https://open.spotify.com/album/6NeslMHNyo6imAQNkEOaly) | 2:38 | 2022-07-05 | 2022-07-28 |
 | [Llorarás Más De Diez Veces](https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aún Sigue La Lección](https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D) | 3:31 | 2022-07-05 | 2023-03-13 |
+| [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 | 2023-02-10 |  |
 | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr) | [Los Bonnitos](https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Lo Intentamos \(feat\. Grupo Play\)](https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x) | 3:12 | 2022-07-05 | 2022-07-29 |
 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 | 2022-07-05 | 2022-07-26 |
 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 | 2022-07-05 |  |
@@ -251,7 +252,7 @@
 | [Todo Lo Encuentro En Ti](https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Fake Lover](https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz) | 3:24 | 2022-07-05 | 2022-07-24 |
 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 | 2022-07-05 |  |
 | [Tomando Alcohol](https://open.spotify.com/track/0MYP3aoAnQboUrNQ12dcFR) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En el Ojo del Huracán](https://open.spotify.com/album/3cVoxcpHC36i7ZYn9o8aSh) | 3:19 | 2022-07-05 | 2022-07-27 |
-| [Tomando Alcohol](https://open.spotify.com/track/0Qs8MDrbTbf8nQERrBxl3U) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:19 | 2022-10-28 |  |
+| [Tomando Alcohol](https://open.spotify.com/track/0Qs8MDrbTbf8nQERrBxl3U) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:19 | 2022-10-28 | 2023-03-20 |
 | [Tonta](https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [25 Exitos Vol\. 1 \(USA\)](https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ) | 3:10 | 2022-07-05 |  |
 | [Tramposa Y Mentirosa](https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:32 | 2022-07-05 | 2023-03-13 |
 | [Tramposa y Mentirosa](https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:32 | 2023-02-10 |  |

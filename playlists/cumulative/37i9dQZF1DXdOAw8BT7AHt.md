@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Los Bitchos
 
-103 songs - 5 hr 12 min
+104 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Desire](https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Desire](https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay) | 1:55 | 2023-02-06 |  |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-12-02 |  |
 | [Eight Fivers](https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Most Normal](https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0) | 2:20 | 2022-12-02 |  |
+| [Eight Minute Machine](https://open.spotify.com/track/6CzwNvnU0bcgFqqtkLVOZn) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [At The Hotspot](https://open.spotify.com/album/6LqyeIEJRcA5eb0bcUovLi) | 2:26 | 2023-03-03 |  |
 | [Empathy My Ass](https://open.spotify.com/track/4uuyKzULwc4cmXJDHGzF29) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Empathy My Ass](https://open.spotify.com/album/3ib6m6kJEhcwUsJC2sE7EQ) | 3:02 | 2023-01-09 | 2023-01-29 |
 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-06 |  |
 | [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 | 2023-03-03 |  |
@@ -110,6 +111,6 @@
 | [Who Am I](https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Who Am I](https://open.spotify.com/album/112fCF19lmyd56p14czHBO) | 1:46 | 2023-03-03 |  |
 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 | 2022-12-02 |  |
 | [Wishing You Hell](https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Wishing You Hell](https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa) | 3:14 | 2022-12-02 |  |
-| [Your Turn](https://open.spotify.com/track/3CvH1OoTxZCSrGTGJTKjoM) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Cairn](https://open.spotify.com/artist/6KxIsdPhNIBjLcChkonQsv) | [Your Turn](https://open.spotify.com/album/6H0dHLT0ZCo2Gymy5Fey59) | 2:23 | 2023-03-03 |  |
+| [Your Turn](https://open.spotify.com/track/3CvH1OoTxZCSrGTGJTKjoM) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Cairn](https://open.spotify.com/artist/6KxIsdPhNIBjLcChkonQsv) | [Your Turn](https://open.spotify.com/album/6H0dHLT0ZCo2Gymy5Fey59) | 2:23 | 2023-03-03 | 2023-03-20 |
 
 \*This playlist was first scraped on 2023-01-15. Prior content cannot be recovered.

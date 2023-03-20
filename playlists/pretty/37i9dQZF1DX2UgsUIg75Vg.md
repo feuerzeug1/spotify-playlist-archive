@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: CoCo Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,314,017 likes - 130 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,314,363 likes - 130 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

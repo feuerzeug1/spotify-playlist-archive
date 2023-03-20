@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-296 songs - 18 hr 57 min
+297 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Moon Song](https://open.spotify.com/track/6sALLrBPX30ptG1HWH6vmW) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 4:37 | 2021-10-22 | 2022-07-26 |
 | [Morgan, I might](https://open.spotify.com/track/4iVOmOgUWI6tyqKvwyINXN) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right](https://open.spotify.com/album/65l2iPEXg8EDMUY8lUs50z) | 3:17 | 2021-10-22 | 2022-05-04 |
 | [Morning](https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Steady Now](https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY) | 4:22 | 2021-10-22 |  |
-| [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 | 2021-10-22 |  |
+| [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 | 2021-10-22 | 2023-03-20 |
 | [multiverse](https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw), [PEMBROKE](https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE) | [multiverse](https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC) | 2:59 | 2023-02-13 |  |
 | [My Arms Were Always Around You](https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [My Arms Were Always Around You](https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc) | 3:20 | 2021-10-22 |  |
 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 | 2021-10-22 |  |
@@ -191,6 +191,7 @@
 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 | 2022-05-27 |  |
 | [Pool Party](https://open.spotify.com/track/190WzVuLms9YUO0sx3RD9N) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/1BAQysvP0rnwlOqcFeijh3) | 4:15 | 2022-05-27 | 2022-07-31 |
 | [Pool Party](https://open.spotify.com/track/5xpm8e4mSOSUjmDzqJ182p) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Pool Party](https://open.spotify.com/album/7gMiyE2nOi20VGGW5VVkJY) | 4:15 | 2021-10-22 | 2022-01-20 |
+| [Pool Party](https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY) | 4:15 | 2023-03-17 |  |
 | [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 | 2021-10-22 | 2022-07-29 |
 | [Raining in June](https://open.spotify.com/track/72Q3BQhu0w6A81ouAUp7UL) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Raining in June](https://open.spotify.com/album/6QV1td1iGOspFOKYZOfUbv) | 2:46 | 2022-05-27 |  |
 | [Raining in June](https://open.spotify.com/track/7oHcx5tDMNr2YyyilaxsyG) | [Olivia Klugman](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Raining in June](https://open.spotify.com/album/3ceqN8cAMEoULjPmSytTNc) | 2:46 | 2021-10-22 | 2022-07-29 |

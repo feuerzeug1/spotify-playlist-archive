@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 634144,
+  "num_followers": 634135,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODc4NjYzNCwwMDAwMDAwMDg0N2RjOWM1YjM5YzRmNjQ5MjE1ZmEyNTgzNTkyZTU0",
+  "snapshot_id": "MTY3ODc4NjYzNCwwMDAwMDAwMDY2YTMxZWRmNTRkMTFlOWMyMjc3ZTU4NTRhODQ4YWZm",
   "tracks": [
     {
       "added_at": "2023-03-14 09:37:14",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-03-14 09:37:14",
       "album": {
-        "name": "Turiya",
-        "url": "https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu"
-      },
-      "artists": [
-        {
-          "name": "Aitana Bay\u00e1",
-          "url": "https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2"
-        }
-      ],
-      "duration_ms": 120300,
-      "name": "Turiya",
-      "url": "https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK"
-    },
-    {
-      "added_at": "2023-03-14 09:37:14",
-      "album": {
         "name": "Through The Mist",
         "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 162000,
       "name": "Through The Mist",
       "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
+    },
+    {
+      "added_at": "2023-03-14 09:37:14",
+      "album": {
+        "name": "Turiya",
+        "url": "https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu"
+      },
+      "artists": [
+        {
+          "name": "Aitana Bay\u00e1",
+          "url": "https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2"
+        }
+      ],
+      "duration_ms": 120300,
+      "name": "Turiya",
+      "url": "https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK"
     },
     {
       "added_at": "2023-03-14 09:37:14",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-03-14 09:37:14",
       "album": {
-        "name": "Serum",
-        "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
-      },
-      "artists": [
-        {
-          "name": "Cieri",
-          "url": "https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Serum",
-      "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
-    },
-    {
-      "added_at": "2023-03-14 09:37:14",
-      "album": {
         "name": "Intrinsic Silence",
         "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 164017,
       "name": "Intrinsic Silence",
       "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
+    },
+    {
+      "added_at": "2023-03-14 09:37:14",
+      "album": {
+        "name": "Serum",
+        "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
+      },
+      "artists": [
+        {
+          "name": "Cieri",
+          "url": "https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Serum",
+      "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
     },
     {
       "added_at": "2023-03-14 09:37:14",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-14 09:37:14",
       "album": {
-        "name": "Luminescent",
-        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Luminescent",
-      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
-    },
-    {
-      "added_at": "2023-03-14 09:37:14",
-      "album": {
         "name": "Charcoal",
         "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 329773,
       "name": "Such Owls As You",
       "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
+    },
+    {
+      "added_at": "2023-03-14 09:37:14",
+      "album": {
+        "name": "Luminescent",
+        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Luminescent",
+      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
     },
     {
       "added_at": "2023-03-14 09:37:14",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-14 09:37:14",
       "album": {
-        "name": "Hum",
-        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
-      },
-      "artists": [
-        {
-          "name": "Parazal",
-          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
-        }
-      ],
-      "duration_ms": 186542,
-      "name": "Suhpratti",
-      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
-    },
-    {
-      "added_at": "2023-03-14 09:37:14",
-      "album": {
         "name": "Morgong\u00e5va",
         "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 166500,
       "name": "Morgong\u00e5va",
       "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
+    },
+    {
+      "added_at": "2023-03-14 09:37:14",
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
+      },
+      "artists": [
+        {
+          "name": "Parazal",
+          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
+        }
+      ],
+      "duration_ms": 186542,
+      "name": "Suhpratti",
+      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
     },
     {
       "added_at": "2023-03-14 09:37:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-14 09:37:14",
       "album": {
-        "name": "Into Gratitude",
-        "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Into Gratitude - Stripped",
-      "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
-    },
-    {
-      "added_at": "2023-03-14 09:37:14",
-      "album": {
         "name": "Sweven",
         "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 193500,
       "name": "Sweven",
       "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+    },
+    {
+      "added_at": "2023-03-14 09:37:14",
+      "album": {
+        "name": "Into Gratitude",
+        "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Into Gratitude - Stripped",
+      "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
     },
     {
       "added_at": "2023-03-14 09:37:14",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-14 09:37:14",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
-    },
-    {
-      "added_at": "2023-03-14 09:37:14",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 145768,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
+    },
+    {
+      "added_at": "2023-03-14 09:37:14",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
     },
     {
       "added_at": "2023-03-14 09:37:14",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-03-14 09:37:14",
       "album": {
+        "name": "Behind Your Eyes",
+        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Behind Your Eyes",
+      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
+    },
+    {
+      "added_at": "2023-03-14 09:37:14",
+      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 172000,
       "name": "Affinity",
       "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
-    },
-    {
-      "added_at": "2023-03-14 09:37:14",
-      "album": {
-        "name": "Behind Your Eyes",
-        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Behind Your Eyes",
-      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
     },
     {
       "added_at": "2023-03-14 09:37:14",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-03-14 09:37:14",
       "album": {
-        "name": "Dramatique Musique Classique",
-        "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
-      },
-      "artists": [
-        {
-          "name": "Marcel Depuis",
-          "url": "https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Pavane, Op. 50",
-      "url": "https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo"
-    },
-    {
-      "added_at": "2023-03-14 09:37:14",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
+    },
+    {
+      "added_at": "2023-03-14 09:37:14",
+      "album": {
+        "name": "Dramatique Musique Classique",
+        "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
+      },
+      "artists": [
+        {
+          "name": "Marcel Depuis",
+          "url": "https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Pavane, Op. 50",
+      "url": "https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo"
     },
     {
       "added_at": "2023-03-14 09:37:14",
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2023-03-14 09:37:14",
       "album": {
-        "name": "Ascending Journey",
-        "url": "https://open.spotify.com/album/0MGjvTelcOSXHZ7RhIQzWW"
+        "name": "Song For Wermland",
+        "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
       },
       "artists": [
         {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        },
-        {
-          "name": "Idrissi",
-          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+          "name": "Rasmus Jenzen",
+          "url": "https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Ascending Journy",
-      "url": "https://open.spotify.com/track/0Dudid2JOAtq9Nt0Dg0OfT"
+      "duration_ms": 226862,
+      "name": "Song For Wermland",
+      "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
     }
   ],
   "unique_name": "DayDreamer",

@@ -4,12 +4,12 @@
 
 > Iconic instrumentals from the history of Blues.
 
-104 songs - 6 hr 48 min
+105 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 | 2022-05-25 |  |
-| [Ain't That Dandy](https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Peacock Recordings: 1949\-1959](https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV) | 2:53 | 2022-05-25 |  |
+| [Ain't That Dandy](https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Peacock Recordings: 1949\-1959](https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV) | 2:53 | 2022-05-25 | 2023-03-20 |
 | [Albatross](https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 3:10 | 2022-05-25 | 2022-07-29 |
 | [Albatross \- 2018 Master](https://open.spotify.com/track/3iTkd7x5X2LIVKu7JNwqHR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 3:11 | 2022-07-08 |  |
 | [Albert's Shuffle \- 2002 Remix w/o Horns](https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK) | [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv), [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 6:58 | 2022-05-25 |  |
@@ -109,6 +109,7 @@
 | [Tribal Dance](https://open.spotify.com/track/0ZKTVJio4Oap9foLm3bh7M) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 4:28 | 2022-05-25 |  |
 | [Tribute To Elmore James](https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Second Album](https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ) | 3:25 | 2022-05-25 |  |
 | [Unmilitary Two\-Step](https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blueprint \(Remastered 2017\)](https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML) | 2:50 | 2022-05-25 |  |
+| [Vagabond](https://open.spotify.com/track/5cFGwaWYOp1vP96BEMCZdU) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 2:02 | 2023-03-17 |  |
 | [Wham!](https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [For Collectors Only \(The Wham Of That Memphis Man\)](https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v) | 2:12 | 2022-05-25 |  |
 | [Whammer Jammer](https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 2:38 | 2022-05-25 |  |
 | [You Don't Know Me](https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Sweet Emma](https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL) | 5:41 | 2022-12-29 |  |

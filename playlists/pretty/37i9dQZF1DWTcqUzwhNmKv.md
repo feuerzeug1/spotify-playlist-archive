@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Five Finger Death Punch on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,389,975 likes - 65 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,390,499 likes - 65 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

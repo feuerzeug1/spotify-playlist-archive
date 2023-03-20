@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 279525,
+  "num_followers": 280068,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzNTExOSwwMDAwMDAwMGZjMTMyMzRjOGFlMTFmMjE0MmY4MjM3ZmMxNDY1NjM2",
+  "snapshot_id": "MTY3OTAzNTExOSwwMDAwMDAwMGE0M2VhOTU0MmQ2YThjNjA4ZDA2MjU1YzQzMWNjYjM0",
   "tracks": [
     {
       "added_at": "2023-03-17 06:38:39",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
-    },
-    {
-      "added_at": "2023-03-17 06:38:39",
-      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -495,8 +479,24 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 3",
-        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+    },
+    {
+      "added_at": "2023-03-17 06:38:39",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 162624,
-      "name": "Mi Momento",
-      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -583,8 +583,8 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
+      "duration_ms": 162624,
+      "name": "Mi Momento",
+      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -807,8 +807,8 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "El G\u00fcero (Feat. Marca MP)",
-        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
+        "name": "Hablando Claro (En Vivo)",
+        "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
       },
       "artists": [
         {
@@ -816,13 +816,13 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 213254,
-      "name": "El G\u00fcero (Feat. Marca MP)",
-      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
+      "duration_ms": 190671,
+      "name": "Hablando Claro (En Vivo)",
+      "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -951,8 +951,8 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Hablando Claro (En Vivo)",
-        "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
+        "name": "El G\u00fcero (Feat. Marca MP)",
+        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
       },
       "artists": [
         {
@@ -960,13 +960,13 @@
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 190671,
-      "name": "Hablando Claro (En Vivo)",
-      "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
+      "duration_ms": 213254,
+      "name": "El G\u00fcero (Feat. Marca MP)",
+      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Una Chevy",
-        "url": "https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Una Chevy",
-      "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
-    },
-    {
-      "added_at": "2023-03-17 06:38:39",
-      "album": {
         "name": "Adi\u00f3s A Chalino",
         "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 190937,
       "name": "Mario Peralta",
       "url": "https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8"
+    },
+    {
+      "added_at": "2023-03-17 06:38:39",
+      "album": {
+        "name": "Una Chevy",
+        "url": "https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Una Chevy",
+      "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191477,
-      "name": "El De La 31",
-      "url": "https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe"
-    },
-    {
-      "added_at": "2023-03-17 06:38:39",
-      "album": {
         "name": "Billetes Verdes",
         "url": "https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 229565,
       "name": "Miami Vibe",
       "url": "https://open.spotify.com/track/2gBrYprM7YhB7WgVwes5Gx"
+    },
+    {
+      "added_at": "2023-03-17 06:38:39",
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191477,
+      "name": "El De La 31",
+      "url": "https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe"
     },
     {
       "added_at": "2023-03-17 06:38:39",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-03-17 06:38:39",
       "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 131589,
-      "name": "En El Este",
-      "url": "https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS"
-    },
-    {
-      "added_at": "2023-03-17 06:38:39",
-      "album": {
         "name": "Chevrolet 4 X 4",
         "url": "https://open.spotify.com/album/0zEg38J4RG3C05jP6ZNGW6"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 187520,
       "name": "Chevrolet Cuatro por Cuatro",
       "url": "https://open.spotify.com/track/5K8fmjSkNpJzCyaCmY5DMS"
+    },
+    {
+      "added_at": "2023-03-17 06:38:39",
+      "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 131589,
+      "name": "En El Este",
+      "url": "https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS"
     },
     {
       "added_at": "2023-03-17 06:38:39",

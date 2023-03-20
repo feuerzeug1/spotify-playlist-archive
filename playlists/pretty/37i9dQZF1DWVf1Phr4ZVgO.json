@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 977127,
+  "num_followers": 977336,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg2NjcxNiwwMDAwMDAwMDJlNjk5Y2M0N2I5ZGIyOWI3OTA2NDQxMDMzMzVkN2Ni",
+  "snapshot_id": "MTY3ODg2NjcxNiwwMDAwMDAwMGU1NDVhNTY4YzhiNDNhYWEzNWY3ZjcyMTBiN2QwOWIx",
   "tracks": [
     {
       "added_at": "2023-03-07 13:08:31",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "I Left My Heart In San Francisco",
-        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 170960,
-      "name": "(I Left My Heart) In San Francisco",
-      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 165973,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 170960,
+      "name": "(I Left My Heart) In San Francisco",
+      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
         "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 165133,
       "name": "Sway (Quien Sera)",
       "url": "https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "Begin The Beguine",
-        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
       "artists": [
         {
-          "name": "Artie Shaw",
-          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
+      "duration_ms": 181093,
+      "name": "Route 66",
+      "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -947,34 +947,18 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
+        "name": "Begin The Beguine",
+        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
         }
       ],
-      "duration_ms": 181093,
-      "name": "Route 66",
-      "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
-      },
-      "artists": [
-        {
-          "name": "Buddy Greco",
-          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
-        }
-      ],
-      "duration_ms": 160773,
-      "name": "My Kind Of Girl",
-      "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
+      "duration_ms": 213333,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -1007,6 +991,22 @@
       "duration_ms": 133813,
       "name": "Ain't We Got Fun",
       "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
+      },
+      "artists": [
+        {
+          "name": "Buddy Greco",
+          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
+        }
+      ],
+      "duration_ms": 160773,
+      "name": "My Kind Of Girl",
+      "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 256959,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "We Are In Love",
-        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 160933,
-      "name": "We Are In Love",
-      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Big Band Classics",
         "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 149986,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "We Are In Love",
+        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "We Are In Love",
+      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
     },
     {
       "added_at": "2023-03-07 13:08:31",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-03-07 13:08:31",
       "album": {
-        "name": "Your Songs",
-        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
-    },
-    {
-      "added_at": "2023-03-07 13:08:31",
-      "album": {
         "name": "Like Someone In Love",
         "url": "https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 208133,
       "name": "There's A Lull In My Life",
       "url": "https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8"
+    },
+    {
+      "added_at": "2023-03-07 13:08:31",
+      "album": {
+        "name": "Your Songs",
+        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
     },
     {
       "added_at": "2023-03-07 13:08:31",

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Grand](https://open.spotify.com/track/0JU1OY5mpOJOJa4B8WgT3E) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Dj Crown Prince](https://open.spotify.com/artist/63r2ySCZiTpWUem62loolj) | [100 Grand](https://open.spotify.com/album/3j97TkyvnE7BkqwGHoDJ9g) | 2:39 | 2023-03-10 |  |
+| [100 Grand](https://open.spotify.com/track/0JU1OY5mpOJOJa4B8WgT3E) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Dj Crown Prince](https://open.spotify.com/artist/63r2ySCZiTpWUem62loolj), [1takennandos](https://open.spotify.com/artist/7E2zbb0Qm6rkU00JfU4emU) | [100 Grand](https://open.spotify.com/album/3j97TkyvnE7BkqwGHoDJ9g) | 2:39 | 2023-03-10 |  |
 | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk) | 3:27 | 2023-02-24 |  |
 | [1er Gaou](https://open.spotify.com/track/6eqqWm2LkDweTHhz1u5KKo) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/4WxLFmBpRfwn2Xa38W6Juj) | 4:55 | 2022-05-27 | 2022-07-09 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-11 | 2022-11-26 |

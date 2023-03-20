@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Calvin Harris &amp; Ellie Goulding
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,004 likes - 116 songs - 6 hr 21 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,001 likes - 116 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 2 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
 | 3 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 |
 | 4 | [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 |
-| 5 | [Inhale / Exhale](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 |
+| 5 | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 |
 | 6 | [Feels This Good](https://open.spotify.com/track/5JL0aPP9mvMHx0IGXqcI5C) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Feels This Good](https://open.spotify.com/album/74tuwcpsRBZgjtQxja5vVb) | 3:10 |
 | 7 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 |
 | 8 | [I Go Dancing \(feat\. Ella Henderson\) \- Joel Corry Remix](https://open.spotify.com/track/2XFRLnicypCadhlgfWLh6M) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [I Go Dancing \(feat\. Ella Henderson\) \[Joel Corry Remix\]](https://open.spotify.com/album/5rOCUxXjUK0XnoNqBY17US) | 2:42 |

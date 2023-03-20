@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,514 likes - 75 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,512 likes - 75 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 61 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
 | 62 | [Aesthetic](https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE) | [Enmarta](https://open.spotify.com/artist/06w0fwBJQtrtvs5iU9UVqs) | [Sea of Black](https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid) | 6:26 |
 | 63 | [Utopian Facade](https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes II](https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK) | 3:47 |
-| 64 | [That Which Lies Beyond](https://open.spotify.com/track/25Dy49um1MbZVN96c1dS6m) | [Sinke Dûs](https://open.spotify.com/artist/7G1jLG6TOGiYhRsdiUdm1k) | [Akrasia](https://open.spotify.com/album/2mpTyxf7rUWZh18pQw0rNo) | 7:11 |
-| 65 | [Anthropic Uncreation](https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP) | [Vestigial](https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV) | [Translucent Communion](https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl) | 5:16 |
+| 64 | [Anthropic Uncreation](https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP) | [Vestigial](https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV) | [Translucent Communion](https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl) | 5:16 |
+| 65 | [That Which Lies Beyond](https://open.spotify.com/track/25Dy49um1MbZVN96c1dS6m) | [Sinke Dûs](https://open.spotify.com/artist/7G1jLG6TOGiYhRsdiUdm1k) | [Akrasia](https://open.spotify.com/album/2mpTyxf7rUWZh18pQw0rNo) | 7:11 |
 | 66 | [Dance of the Mince Pie Martians](https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Perception Report 2](https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat) | 4:14 |
 | 67 | [Interior Synthesis of Polarity](https://open.spotify.com/track/1rDKcl40U9HOF6VFQoSwqU) | [Inade](https://open.spotify.com/artist/4pFSQZfXbBzabeOT7necWo) | [Delineation.Metamorphosis.Permanence.](https://open.spotify.com/album/64vjzqH3ZpsUvO8dZ9NZyr) | 5:10 |
 | 68 | [Teresa, Lark of Ascension](https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Ambulance Chase](https://open.spotify.com/track/7mOxAfHsYo0SsmPhVKEWVD) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:58 |
 | 75 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
 
-Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMDEwOGM3ZmY1Y2M0ZGQ3M2I0MzBhN2NmZmNlNjdiNzJl`
+Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMDIwNjEwMzg2YjA5MWUyNWIzNjg5NTRiM2QwODg4YmQ4`

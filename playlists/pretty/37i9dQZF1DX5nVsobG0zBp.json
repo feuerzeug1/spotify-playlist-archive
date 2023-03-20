@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 40313,
+  "num_followers": 40378,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk2NjczMSwwMDAwMDAwMDNjOWIzODAyYjU0OTgzM2M5MTg0ZGRlMTBlMjc1ZTIy",
+  "snapshot_id": "MTY3ODk2NjczMSwwMDAwMDAwMDQzZWViM2FjM2NkZmVhMWVlNzZmNjI3MGI4NGExNWQ1",
   "tracks": [
     {
       "added_at": "2023-03-09 17:03:40",
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
-      "added_at": "2023-03-19 01:35:35",
+      "added_at": "2023-03-20 01:32:36",
       "album": {
         "name": "HALLYWUD",
         "url": "https://open.spotify.com/album/3lAS3tiXJyjOkyDYXCd5YS"
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-09 17:03:40",
       "album": {
-        "name": "Amaz\u00f3nia",
-        "url": "https://open.spotify.com/album/5gULMhBkRl7ZCv35O2K5Xm"
-      },
-      "artists": [
-        {
-          "name": "Lutz",
-          "url": "https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x"
-        }
-      ],
-      "duration_ms": 194339,
-      "name": "Amaz\u00f3nia",
-      "url": "https://open.spotify.com/track/2ySZ2kVCZRQ0gJ5Lu0EoxJ"
-    },
-    {
-      "added_at": "2023-03-09 17:03:40",
-      "album": {
         "name": "O Re$To",
         "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 304600,
       "name": "O Re$To",
       "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
+    },
+    {
+      "added_at": "2023-03-09 17:03:40",
+      "album": {
+        "name": "Amaz\u00f3nia",
+        "url": "https://open.spotify.com/album/5gULMhBkRl7ZCv35O2K5Xm"
+      },
+      "artists": [
+        {
+          "name": "Lutz",
+          "url": "https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x"
+        }
+      ],
+      "duration_ms": 194339,
+      "name": "Amaz\u00f3nia",
+      "url": "https://open.spotify.com/track/2ySZ2kVCZRQ0gJ5Lu0EoxJ"
     },
     {
       "added_at": "2023-03-09 17:03:40",

@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 56 min
+61 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 | 2022-06-01 |  |
 | [Mariano Resendez](https://open.spotify.com/track/0DV9ErAz39HdALK77p7Pib) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Historias Del Siglo XX En 20 Corridos](https://open.spotify.com/album/5ps2KefGtIVYRk3OtdoM2a) | 3:46 | 2022-06-01 | 2022-10-12 |
 | [Mi Unico Camino](https://open.spotify.com/track/4LWoe4xNQ8DcI1ky9fr0yR) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:36 | 2022-08-16 | 2022-10-13 |
-| [Moneda Sin Valor](https://open.spotify.com/track/1lBnOCmKx7JSpxMpZauJsU) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Grandes Exitos Con Los Grandes Del Norte](https://open.spotify.com/album/3gVyzNysh0fdwJItrrxr35) | 3:11 | 2022-06-01 |  |
+| [Moneda Sin Valor](https://open.spotify.com/track/7w4ZgZxpCt3Ulc4SuUH3ec) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 1](https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR) | 3:10 | 2023-03-19 |  |
+| [Moneda Sin Valor](https://open.spotify.com/track/1lBnOCmKx7JSpxMpZauJsU) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Grandes Exitos Con Los Grandes Del Norte](https://open.spotify.com/album/3gVyzNysh0fdwJItrrxr35) | 3:11 | 2022-06-01 | 2023-03-20 |
 | [Nocturno a Rosario](https://open.spotify.com/track/5P9KFF9UpaPmA49QJO7huL) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:57 | 2022-06-01 |  |
 | [Ojitos Verdes](https://open.spotify.com/track/2IOJaGlWLGg8ujTgVwDMAo) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:48 | 2022-06-01 |  |
 | [Paso del Norte](https://open.spotify.com/track/2HYz3vIPX8aoRYxDZTdBEW) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:22 | 2022-06-01 |  |

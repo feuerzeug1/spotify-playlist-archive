@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-325 songs - 23 hr 44 min
+326 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [夏のドーン!](https://open.spotify.com/track/4oqDaQVeaY90SDe7Iz1Osr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Time Lapse](https://open.spotify.com/album/1YMySyG5al3QpCnXQLey9R) | 3:37 | 2022-05-17 | 2022-07-29 |
 | [夏空 SUN! SUN! SEVEN!](https://open.spotify.com/track/5tkihsRRaoijAFrvC2Oe9y) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「STAR BEAT!〜ホシノコドウ〜」](https://open.spotify.com/album/7quOI2BiwX58BRG5vycVmN) | 4:32 | 2022-05-17 | 2022-07-25 |
 | [夏空 SUN! SUN! SEVEN! \- Acoustic Ver.](https://open.spotify.com/track/7wWMCByLoIOpRtxAAOQ0gb) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG) | 4:55 | 2022-05-17 | 2022-07-29 |
-| [夏空 Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 4:59 | 2022-09-20 |  |
+| [夏空 Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 4:59 | 2022-09-20 | 2023-03-20 |
 | [夏空 SUN!SUN!SEVEN! \- Popipa Acoustic Ver.](https://open.spotify.com/track/4sHlUnnHjEEDJN7tBzVVBO) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 5:00 | 2022-06-23 | 2022-07-24 |
 | [夢を撃ち抜く瞬間に!](https://open.spotify.com/track/58owpwr0vtowPGVouuO3rs) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イニシャル/夢を撃ち抜く瞬間に! \(Special Edition\)](https://open.spotify.com/album/5Ou7gzfqsGIwhii2xYHYS3) | 4:40 | 2022-06-23 | 2022-07-17 |
 | [天下トーイツA to Z☆](https://open.spotify.com/track/5ok9My7hwKepg4oFta8P0o) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 3:38 | 2022-09-20 |  |
@@ -318,6 +318,7 @@
 | [絆色のアンサンブル](https://open.spotify.com/track/1g8uyFFDuiYsgbDirSkB0R) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6), [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg), [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1) | 5:12 | 2022-05-17 | 2022-07-26 |
 | [花園電気ギター!!!](https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 3:17 | 2022-05-17 | 2022-07-24 |
 | [花園電気ギター!!!](https://open.spotify.com/track/0GRDxtvxmz51U425YzSQnn) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 3:19 | 2022-09-20 |  |
+| [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 | 2023-03-14 |  |
 | [走り始めたばかりのキミに](https://open.spotify.com/track/3Ts1xBEZBVIO6YpedhDy6h) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「走り始めたばかりのキミに/ティアドロップス」](https://open.spotify.com/album/5naHriVgqbOAwQXqG6g7bD) | 4:19 | 2022-05-17 | 2022-07-08 |
 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 4:53 | 2022-05-17 | 2022-07-27 |
 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 4:55 | 2022-09-20 |  |

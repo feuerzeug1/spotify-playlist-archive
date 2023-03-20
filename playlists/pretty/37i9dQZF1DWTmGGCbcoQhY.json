@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1209800,
+  "num_followers": 1210238,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM4Mjg1MywwMDAwMDAwMDk5ZmJhYTJhNjJmMmZjOGQ4NDM2M2Y4N2JiNGRiNzAz",
+  "snapshot_id": "MTY3MzM4Mjg1MywwMDAwMDAwMDViOGYzMDkzZGIxMmQyYWI2ODQxZjE4YjM2OTY5ZGJj",
   "tracks": [
     {
       "added_at": "2022-06-07 22:21:55",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Donde Estaras",
         "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 223503,
       "name": "Donde Estaras",
       "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Oro Puro: \u00c9xitos",
-        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
-      },
-      "artists": [
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Int\u00e9ntalo T\u00fa",
-      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Fake Lover",
         "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Oro Puro: \u00c9xitos",
+        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Int\u00e9ntalo T\u00fa",
+      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Desvelo",
-        "url": "https://open.spotify.com/album/18PmOgLMJbv3lT5wqueTrU"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
       },
       "artists": [
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
         }
       ],
-      "duration_ms": 211415,
-      "name": "Desvelo",
-      "url": "https://open.spotify.com/track/1PQx9MPARk2DWTxAc1i8bG"
+      "duration_ms": 253333,
+      "name": "Todo Lo Encuentro En Ti",
+      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1251,6 +1247,26 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Desvelo",
+        "url": "https://open.spotify.com/album/18PmOgLMJbv3lT5wqueTrU"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 211415,
+      "name": "Desvelo",
+      "url": "https://open.spotify.com/track/1PQx9MPARk2DWTxAc1i8bG"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "De Reventon",
         "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 254640,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1329,20 +1329,20 @@
       "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
     },
     {
-      "added_at": "2022-06-07 22:21:55",
+      "added_at": "2023-01-10 20:34:13",
       "album": {
-        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
-        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
+        "name": "Un Monton De Estrellas",
+        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "Grupo Ju-Juy",
+          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
         }
       ],
-      "duration_ms": 195440,
-      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
-      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
+      "duration_ms": 283678,
+      "name": "La Triste Despedida",
+      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
     },
     {
       "added_at": "2023-01-10 20:34:13",
@@ -1361,20 +1361,20 @@
       "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
     },
     {
-      "added_at": "2023-01-10 20:34:13",
+      "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Un Monton De Estrellas",
-        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
+        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
+        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
       },
       "artists": [
         {
-          "name": "Grupo Ju-Juy",
-          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 283678,
-      "name": "La Triste Despedida",
-      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
+      "duration_ms": 195440,
+      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
+      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Cumbias y Bachatas Vol.2",
-        "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
+        "name": "La Cumbia Se\u00f1al",
+        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
       },
       "artists": [
         {
-          "name": "Grupo Ternura Dinastia Toxqui",
-          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
+          "name": "La Nueva Orquesta Sonidera",
+          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
         }
       ],
-      "duration_ms": 253236,
-      "name": "El Fantasma del Amor",
-      "url": "https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ"
+      "duration_ms": 375849,
+      "name": "La Cumbia Se\u00f1al",
+      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "La Cumbia Se\u00f1al",
-        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
+        "name": "Cumbias y Bachatas Vol.2",
+        "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
       },
       "artists": [
         {
-          "name": "La Nueva Orquesta Sonidera",
-          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
+          "name": "Grupo Ternura Dinastia Toxqui",
+          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
         }
       ],
-      "duration_ms": 375849,
-      "name": "La Cumbia Se\u00f1al",
-      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
+      "duration_ms": 253236,
+      "name": "El Fantasma del Amor",
+      "url": "https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ"
     },
     {
       "added_at": "2023-01-10 20:34:13",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 322986,
-      "name": "Lucerito",
-      "url": "https://open.spotify.com/track/3xJaqmggvkerhccRZC4Yyg"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Si Te Hubieras Quedado",
         "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 278931,
       "name": "Si Te Hubieras Quedado",
       "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 322986,
+      "name": "Lucerito",
+      "url": "https://open.spotify.com/track/3xJaqmggvkerhccRZC4Yyg"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1667,22 +1667,6 @@
       "duration_ms": 215000,
       "name": "Espacial",
       "url": "https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "El Llanto de los Luceros / El Llanto de los Sapos",
         "url": "https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn"
       },
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Sigueme",
-        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
-      },
-      "artists": [
-        {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "El Ritmo Mamalon",
         "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 193375,
       "name": "El Ritmo Mamalon",
       "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Sigueme",
+        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
+      },
+      "artists": [
+        {
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
     },
     {
       "added_at": "2022-06-07 22:21:55",

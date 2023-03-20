@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: rusowksy, Saramalacara
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,975 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,991 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 16 | [Aquí](https://open.spotify.com/track/7tcZXVCBzWYqoL5xlW35yc) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [29:56](https://open.spotify.com/album/537tRWbun6NLMqSrvLb9Rl) | 3:37 |
 | 17 | [Poemas modernos](https://open.spotify.com/track/1AIli8DBrJAS2cfJFyadtc) | [Matiu Colin](https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr) | [Miramino: La extraña sensación de viajar en el tiempo](https://open.spotify.com/album/738QgxWqwlkz0bAVeTIzKP) | 2:18 |
 | 18 | [amigos con beneficios](https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [amigos con beneficios](https://open.spotify.com/album/5GIg36pmqOUTW5SlAAqqnh) | 4:01 |
-| 19 | [Respirar](https://open.spotify.com/track/1GGhhrtbOp1BL2OXYXLtIV) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Respirar](https://open.spotify.com/album/0ABDSOi95uY6U9lAOpkU4r) | 2:52 |
+| 19 | [Respirar](https://open.spotify.com/track/1GGhhrtbOp1BL2OXYXLtIV) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Respirar](https://open.spotify.com/album/0ABDSOi95uY6U9lAOpkU4r) | 2:51 |
 | 20 | [som tan petits](https://open.spotify.com/track/0OftyCuI4WuZEYOAM1ht0V) | [Socunbohemio](https://open.spotify.com/artist/3Zyph9kkkEfTKaMQrLotUV) | [Contes de les Quatre Estacions](https://open.spotify.com/album/7oydbyLeRDYn6W2SN4sMRT) | 3:20 |
 | 21 | [En Blanco](https://open.spotify.com/track/2EtoMhBtGTTapZvsjWJk8n) | [Molina Molina](https://open.spotify.com/artist/3Jxz3hRq1Ekh4GfoFntVA0) | [En Blanco](https://open.spotify.com/album/0ZJFI84zMCdB1Gjw9GJIX5) | 3:36 |
 | 22 | [delixoxo](https://open.spotify.com/track/5654CMVaFIwOLavjxoyOiD) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [delixoxo](https://open.spotify.com/album/1Aaf36c2Cm0OGccOMUiCDr) | 1:43 |

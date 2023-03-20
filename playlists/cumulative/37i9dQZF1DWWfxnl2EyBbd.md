@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-467 songs - 1 day 12 hr 26 min
+468 songs - 1 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [More Than You Know](https://open.spotify.com/track/3UKChCUZCGCC0p6WXR7uTj) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Perfidia](https://open.spotify.com/album/6dA81xiGl3BXf6MsEdTWVE) | 5:31 | 2022-03-03 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-11-12 |  |
 | [Morning Break](https://open.spotify.com/track/1IXLCaoZZxsjIC1ke4dm6E) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Morning Break](https://open.spotify.com/album/00e4qwtnnNFvjW6aNurKFa) | 3:23 | 2023-03-10 |  |
+| [Morning Thoughts](https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Soul Dancer](https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs) | 3:22 | 2023-03-16 |  |
 | [My Cherie Amour](https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR) | [Jon Davis](https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc) | [Changes over Time](https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i) | 4:05 | 2022-02-10 |  |
 | [My Foolish Heart](https://open.spotify.com/track/6eB1aRfbz36gO0YCoKj2R4) | [Dado Moroni](https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz), [Jesper Lundgaard](https://open.spotify.com/artist/162KggIDGRImG9BUPWKsxf), [Lee Pearson](https://open.spotify.com/artist/6zTSAPQ1M1W1pdZK9I4G1K) | [My Foolish Heart](https://open.spotify.com/album/3VqTU5Jo7zVDTv6yOBa9v4) | 8:51 | 2022-08-30 |  |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-11-12 |  |
@@ -304,7 +305,7 @@
 | [Plaza Real](https://open.spotify.com/track/5NNyy2Fn4qsZ79lEzKFrM9) | [Marcin Wasilewski](https://open.spotify.com/artist/2OR51iG3dgqkVJF42L8EZF), [Slawomir Kurkiewicz](https://open.spotify.com/artist/43J6c67BjlcVv0jEJAjUwR), [Michal Miskiewicz](https://open.spotify.com/artist/2waNvIVUzVXYJvA3SrdBrT) | [Trio](https://open.spotify.com/album/5jXillw4nWUrF7Gy56dVu6) | 5:51 | 2022-02-10 |  |
 | [Polaris](https://open.spotify.com/track/6jcwViyJ0VxiyUe95nv4Dj) | [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W) | [The Vagabond](https://open.spotify.com/album/2yeXOGHdLYgyazlRHFzTTM) | 6:08 | 2022-02-10 |  |
 | [Polkadots And Moonbeams](https://open.spotify.com/track/1zXfSEEkoSsMNuoUSre4R5) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Polkadots And Moonbeams](https://open.spotify.com/album/6M3uviUycHWyhTrPeA8aZA) | 3:42 | 2022-11-12 |  |
-| [Pray](https://open.spotify.com/track/6niHY50qraFaCfJ8azjMQ4) | [Marc van Roon Trio](https://open.spotify.com/artist/0LVkl4BXWGA8QcjS6dIkaf) | [Quantum Stories](https://open.spotify.com/album/6erjfrUNgfkIZ41rEoI7Z5) | 4:01 | 2022-02-10 |  |
+| [Pray](https://open.spotify.com/track/6niHY50qraFaCfJ8azjMQ4) | [Marc van Roon Trio](https://open.spotify.com/artist/0LVkl4BXWGA8QcjS6dIkaf) | [Quantum Stories](https://open.spotify.com/album/6erjfrUNgfkIZ41rEoI7Z5) | 4:01 | 2022-02-10 | 2023-03-20 |
 | [Prelude to a Kiss](https://open.spotify.com/track/5utG7gaVcIMMDJbJQ09q1L) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Prelude to a Kiss](https://open.spotify.com/album/7EzWxXhnVRz8iTm2y0keaQ) | 5:20 | 2022-02-18 | 2022-07-29 |
 | [Prelude to a Kiss](https://open.spotify.com/track/04GQoL73mzVbe6GX7cwSKB) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 5:20 | 2022-07-07 |  |
 | [Promenade](https://open.spotify.com/track/1lsPBTvqs1zQPtNWcP15b5) | [Gonzalo Rubalcaba](https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F) | [Inner Voyage](https://open.spotify.com/album/5pFwRNwK2PYbqduqfoXDmj) | 7:44 | 2022-02-10 | 2022-11-11 |

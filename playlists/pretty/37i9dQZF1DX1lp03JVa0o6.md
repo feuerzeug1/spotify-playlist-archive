@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Calvin Harris, Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,160 likes - 81 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,168 likes - 81 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 35 | [Sacrifice](https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [Sacrifice](https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi) | 4:39 |
 | 36 | [Disco Treats](https://open.spotify.com/track/4ADUECqx9JpXNDlXNjDffF) | [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL) | [Disco Treats](https://open.spotify.com/album/5ZhoyjkDSHATbZ98mESbuy) | 2:48 |
 | 37 | [A Milli \- SIDEPIECE Remix](https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [A Milli \(SIDEPIECE Remix\)](https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS) | 2:33 |
-| 38 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
+| 38 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 |
 | 39 | [Sweet Goodbye](https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sweet Goodbye](https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo) | 2:37 |
 | 40 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 |
 | 41 | [YALLAH!](https://open.spotify.com/track/35xJ6qdU2LpbeQ6xODmraE) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [YALLAH!](https://open.spotify.com/album/2xXrc2ZU2tAu6V9P7nPbBz) | 2:37 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 80 | [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 |
 | 81 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
 
-Snapshot ID: `MTY3ODk3MTYwMCwwMDAwMDAwMDdmZTFmZWIzMTJjNTlkYTJjOWQ3YWNlOTU5NTI1OGZm`
+Snapshot ID: `MTY3ODk3MTYwMCwwMDAwMDAwMDk1ZTBmYmZhZWM5Y2IwMWEwMDdkOTljMTZhNTdmOGQz`

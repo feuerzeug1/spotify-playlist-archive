@@ -1,15 +1,15 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s?si=t57L1pdYSWaDnqk_nrZkwA\"> Adekunle Gold </a> and <a href=\"https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g?si=cYeDoEWuQcG2ek3NwikPig\"> Zinoleesky </a>",
-  "num_followers": 48493,
+  "num_followers": 48687,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MjAzOSwwMDAwMDAwMDdlNTg2MDM4YTM0MDhjYzAwZWZmYTIyOTQ0OGQ3NTA4",
+  "snapshot_id": "MTY3OTA0MjAzOSwwMDAwMDAwMDQwNGFkNTE4ZTdlMTZjMmRhM2FiOGQxNWIzMDM3MGNk",
   "tracks": [
     {
-      "added_at": "2023-03-19 00:21:41",
+      "added_at": "2023-03-20 01:00:12",
       "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
     },
     {
-      "added_at": "2023-03-19 00:21:41",
+      "added_at": "2023-03-20 01:00:12",
       "album": {
         "name": "The One (Chop Life)",
         "url": "https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
-      "added_at": "2023-03-19 00:21:41",
+      "added_at": "2023-03-20 01:00:12",
       "album": {
         "name": "Reckless & Sweet",
         "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
-      "added_at": "2023-03-19 00:21:41",
+      "added_at": "2023-03-20 01:00:12",
       "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
     },
     {
-      "added_at": "2023-03-19 00:21:41",
+      "added_at": "2023-03-20 01:00:12",
       "album": {
         "name": "Philo (Remix)",
         "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-03-16 11:33:23",
       "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2023-03-16 11:33:23",
+      "album": {
         "name": "Dada (feat. Davido) [Remix]",
         "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 177692,
       "name": "Dada (feat. Davido) [Remix]",
       "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
-    },
-    {
-      "added_at": "2023-03-16 11:33:23",
-      "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2023-03-16 11:33:23",
@@ -943,6 +943,26 @@
     {
       "added_at": "2023-03-16 11:33:23",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 186446,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
+    },
+    {
+      "added_at": "2023-03-16 11:33:23",
+      "album": {
         "name": "Bad To Me",
         "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 165309,
       "name": "Philo",
       "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
-    },
-    {
-      "added_at": "2023-03-16 11:33:23",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 186446,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
     },
     {
       "added_at": "2023-03-16 11:33:23",

@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume – co\-curated by LU KALA for International Women's Day.
 
-735 songs - 1 day 14 hr 42 min
+736 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [January](https://open.spotify.com/track/3EAOQqsj22CuKtTvmPpKC1) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [January](https://open.spotify.com/album/4ADN9dF6lAY3saVz1hFPWu) | 4:36 | 2023-02-01 | 2023-03-02 |
 | [Je danse seule](https://open.spotify.com/track/0xFnMLxEH9qTxyZBLvIaav) | [Audrey Charbonneau](https://open.spotify.com/artist/4KLZNpvmcYMzizrgk4sfHE) | [Je danse seule](https://open.spotify.com/album/6vKJHBKePvvaIW1CvijUE7) | 2:41 | 2022-09-07 | 2022-10-06 |
 | [Je flottais](https://open.spotify.com/track/39IhdNNsjKSK13c4yuDABr) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK) | [Je flottais](https://open.spotify.com/album/1KrV8AyeUcP318QXodp8ur) | 3:12 | 2022-03-08 | 2022-04-07 |
-| [Je t'ai manqué](https://open.spotify.com/track/7d8Fk8bxao3O9A3rqgG6GM) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Je t'ai manqué](https://open.spotify.com/album/330ZfKjrGDutgAkyp0vawf) | 3:55 | 2023-03-01 |  |
+| [Je t'ai manqué](https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Les chevaux du plaisir \(Boulay chante Bashung\)](https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV) | 3:55 | 2023-03-01 |  |
+| [Je t'ai manqué](https://open.spotify.com/track/7d8Fk8bxao3O9A3rqgG6GM) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Je t'ai manqué](https://open.spotify.com/album/330ZfKjrGDutgAkyp0vawf) | 3:55 | 2023-03-01 | 2023-03-20 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-10-05 | 2022-11-10 |
 | [Jealous of Myself](https://open.spotify.com/track/75rvf9Hbx1R5NikWybJl9e) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Jealous of Myself](https://open.spotify.com/album/4qTbDUZJukcxWaf120N5i2) | 3:26 | 2022-11-09 | 2023-01-05 |
 | [JEEZ](https://open.spotify.com/track/7mneblYNsdtEsUpqZ1A722) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [JEEZ](https://open.spotify.com/album/7pN5us7k7Apm4CgW86wL4M) | 2:10 | 2023-02-01 | 2023-03-02 |

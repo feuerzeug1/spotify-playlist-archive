@@ -4,7 +4,7 @@
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Lil Uzi Vert
 
-268 songs - 13 hr 59 min
+269 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [NEVER LEFT](https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [NEVER LEFT](https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp) | 2:48 | 2022-05-10 | 2022-08-27 |
 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-07-29 |  |
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-05-10 |  |
-| [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-03-16 |  |
+| [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-03-16 |  |
 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 | 2023-02-17 |  |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2023-01-17 | 2023-03-15 |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2022-05-10 | 2023-02-14 |
@@ -184,7 +184,8 @@
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-21 |  |
 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 | 2022-07-13 | 2022-12-01 |
 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2022-10-07 | 2022-10-22 |
-| [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 | 2022-05-10 |  |
+| [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 | 2022-05-10 | 2023-03-20 |
+| [Peso a Peso](https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:37 | 2023-03-16 |  |
 | [PETETE](https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [PETETE](https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk) | 2:03 | 2022-08-22 |  |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-22 | 2022-08-06 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-03-16 |  |

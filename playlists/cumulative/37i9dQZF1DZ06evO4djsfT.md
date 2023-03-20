@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 6 min
+51 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,9 +18,10 @@
 | [Church Clap](https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Weight & Glory](https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v) | 3:17 | 2023-03-17 |  |
 | [Come Alive](https://open.spotify.com/track/7cSgDrUh6ZAv25JgOPlyOB) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Come Alive](https://open.spotify.com/album/4nrf0EltbsBbUX5fSJjF2W) | 3:57 | 2023-03-17 |  |
 | [Crowns & Thorns \(Oceans\)](https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:51 | 2023-03-17 |  |
-| [Die Rich](https://open.spotify.com/track/6BKu8kCqUoQy0BFgnOYMJr) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ray Emmanuel](https://open.spotify.com/artist/1VDmG7pIFozqBrmj0LynQd) | [Die Rich](https://open.spotify.com/album/7gHS6ywjV1BSg0roKiEoR0) | 4:02 | 2023-03-17 |  |
+| [Die Rich](https://open.spotify.com/track/6BKu8kCqUoQy0BFgnOYMJr) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ray Emmanuel](https://open.spotify.com/artist/1VDmG7pIFozqBrmj0LynQd) | [Die Rich](https://open.spotify.com/album/7gHS6ywjV1BSg0roKiEoR0) | 4:02 | 2023-03-17 | 2023-03-20 |
 | [Dnou](https://open.spotify.com/track/2fBhHFsXlV23ENM4nEBsVT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:00 | 2023-03-17 |  |
 | [DNOU2](https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [DNOU2](https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69) | 3:44 | 2023-03-17 |  |
+| [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-19 |  |
 | [God Speed](https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Belong](https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS) | 2:57 | 2023-03-17 |  |
 | [Graves](https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves](https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM) | 4:20 | 2023-03-17 |  |
 | [Hold Me Back](https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hold Me Back](https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU) | 3:43 | 2023-03-17 |  |

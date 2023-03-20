@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5ODM3MDAsMDAwMDAwMDBjMTUwMDA3N2RlMjYxYmNjZTA3OGRiZDExYzEwZGRmYg==",
+  "snapshot_id": "Mjc5ODM3MDAsMDAwMDAwMDBhMzk3M2JiY2I2MmM1NTg0MWFlMTc3ZWU4NTI4N2E4Ng==",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Venimos de la Nada",
-        "url": "https://open.spotify.com/album/0Z5hQULs2xbA7O7SowprqX"
-      },
-      "artists": [
-        {
-          "name": "Lokoflow & DonerMc",
-          "url": "https://open.spotify.com/artist/4dkaCDvamOXvhkkykoK6zL"
-        },
-        {
-          "name": "Bascur",
-          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
-        }
-      ],
-      "duration_ms": 232925,
-      "name": "Venimos de la Nada",
-      "url": "https://open.spotify.com/track/1jIdEszP5RMJZrDBIg1V7F"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "The Jaws Of Life (Extended Version)",
         "url": "https://open.spotify.com/album/6sABJf0k73vYJrtILegktG"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 180351,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/0uXglUjIGtNwfiZH9VAuvX"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Venimos de la Nada",
+        "url": "https://open.spotify.com/album/0Z5hQULs2xbA7O7SowprqX"
+      },
+      "artists": [
+        {
+          "name": "Lokoflow & DonerMc",
+          "url": "https://open.spotify.com/artist/4dkaCDvamOXvhkkykoK6zL"
+        },
+        {
+          "name": "Bascur",
+          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
+        }
+      ],
+      "duration_ms": 232925,
+      "name": "Venimos de la Nada",
+      "url": "https://open.spotify.com/track/1jIdEszP5RMJZrDBIg1V7F"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "In Celebration: The Piano Trios of Stanley Silverman",
-        "url": "https://open.spotify.com/album/5EG7zLDM8bFjyvddqYMrqJ"
-      },
-      "artists": [
-        {
-          "name": "Stanley Silverman",
-          "url": "https://open.spotify.com/artist/2TvPBulHtfwAkQUDyc7JQW"
-        },
-        {
-          "name": "Kalichstein-Laredo-Robinson Trio",
-          "url": "https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy"
-        }
-      ],
-      "duration_ms": 121733,
-      "name": "Trio No. 2 'Reveille': I. Meadow Lane",
-      "url": "https://open.spotify.com/track/1pfRJWo000HNMZRRHTihQD"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Mother Betrayal",
         "url": "https://open.spotify.com/album/2sQrmm5jNeVjLyVJ1F62R4"
       },
@@ -755,30 +735,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/2WgxP9eeZLCyd4SPIntmOH"
+        "name": "In Celebration: The Piano Trios of Stanley Silverman",
+        "url": "https://open.spotify.com/album/5EG7zLDM8bFjyvddqYMrqJ"
       },
       "artists": [
         {
-          "name": "Outlanders",
-          "url": "https://open.spotify.com/artist/07BLxS6oBpkKubipZvuDTP"
+          "name": "Stanley Silverman",
+          "url": "https://open.spotify.com/artist/2TvPBulHtfwAkQUDyc7JQW"
         },
         {
-          "name": "Tarja",
-          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
-        },
-        {
-          "name": "Jennifer Batten",
-          "url": "https://open.spotify.com/artist/2do23WC80xqJDtFR2aZj0k"
-        },
-        {
-          "name": "Torsten Stenzel",
-          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
+          "name": "Kalichstein-Laredo-Robinson Trio",
+          "url": "https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy"
         }
       ],
-      "duration_ms": 456000,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/3Q4KhhkIjgRL3Jmh1uGx8B"
+      "duration_ms": 507573,
+      "name": "Trio No. 1 'In Celebration': Iii. Cantelina-chaconne",
+      "url": "https://open.spotify.com/track/0gVQ9phHoKzxHUgO6BOFTG"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -883,6 +855,34 @@
       "duration_ms": 111066,
       "name": "Captain Chicken (feat. Del The Funky Homosapien)",
       "url": "https://open.spotify.com/track/24LSAGp2LmT1Kd6y8PPFr2"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/2WgxP9eeZLCyd4SPIntmOH"
+      },
+      "artists": [
+        {
+          "name": "Outlanders",
+          "url": "https://open.spotify.com/artist/07BLxS6oBpkKubipZvuDTP"
+        },
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        },
+        {
+          "name": "Jennifer Batten",
+          "url": "https://open.spotify.com/artist/2do23WC80xqJDtFR2aZj0k"
+        },
+        {
+          "name": "Torsten Stenzel",
+          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/3Q4KhhkIjgRL3Jmh1uGx8B"
     },
     {
       "added_at": "2023-03-17 03:00:00",

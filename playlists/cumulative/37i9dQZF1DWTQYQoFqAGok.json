@@ -796,7 +796,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 269080,
       "name": "M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
@@ -854,6 +854,24 @@
       "duration_ms": 178773,
       "name": "No Se que Pasa Entre T\u00fa y Yo",
       "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+    },
+    {
+      "album": {
+        "name": "Groove Zone",
+        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
+      },
+      "artists": [
+        {
+          "name": "Pepe Hernandez",
+          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272771,
+      "name": "Nu Soul",
+      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
     },
     {
       "album": {

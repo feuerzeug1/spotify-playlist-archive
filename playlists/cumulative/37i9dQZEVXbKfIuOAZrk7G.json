@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 121600,
       "name": "Beer, Beer, Beer",
       "url": "https://open.spotify.com/track/43s0E9B8kiEGsAxU0gDkbi"
@@ -2430,6 +2430,24 @@
       "duration_ms": 165507,
       "name": "blessing me (with Pa Salieu & Skillibeng)",
       "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
+    },
+    {
+      "album": {
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/7qLHhWcP0GbiVjHXwBuZgH"
+      },
+      "artists": [
+        {
+          "name": "Fresh X Reckless",
+          "url": "https://open.spotify.com/artist/3uB3wq2PdbbQpr3jCsQusC"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131625,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe"
     },
     {
       "album": {
@@ -7010,7 +7028,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -12526,7 +12544,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 212784,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
@@ -14423,6 +14441,28 @@
     },
     {
       "album": {
+        "name": "Irish Drinking Songs",
+        "url": "https://open.spotify.com/album/22g2ochq0A8wojUx2SPm13"
+      },
+      "artists": [
+        {
+          "name": "The Clancy Brothers",
+          "url": "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
+        },
+        {
+          "name": "Tommy Makem",
+          "url": "https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131533,
+      "name": "Mountain Dew (with Tommy Makem)",
+      "url": "https://open.spotify.com/track/1t2NRCaPgdCScicuzq8tjG"
+    },
+    {
+      "album": {
         "name": "Move It",
         "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
       },
@@ -15984,7 +16024,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
@@ -16624,7 +16664,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 88684,
       "name": "Past Lives - Brazilian Rave Funk",
       "url": "https://open.spotify.com/track/6BU4Xd49WEr8AXI7M2LMEw"
@@ -17698,7 +17738,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 196085,
       "name": "Regret Me",
       "url": "https://open.spotify.com/track/3l5qEpePfGDv6ZFYWRNNtq"
@@ -18234,6 +18274,36 @@
       "duration_ms": 114666,
       "name": "S1KE",
       "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+    },
+    {
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279692,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
     },
     {
       "album": {
@@ -24744,6 +24814,28 @@
       "duration_ms": 200120,
       "name": "X SI VOLVEMOS",
       "url": "https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe"
+    },
+    {
+      "album": {
+        "name": "XTAYALIVE",
+        "url": "https://open.spotify.com/album/48QWy8mreJlAa6XdruLXtl"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126897,
+      "name": "XTAYALIVE",
+      "url": "https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O"
     },
     {
       "album": {

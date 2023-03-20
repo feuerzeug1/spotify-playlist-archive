@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 651152,
+  "num_followers": 651463,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGM3ZTYyZjg4YWY1OWNkMmFkZTZkYWJhZmJiYjZhNTNl",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGFiMTRiYjA4ODFjYWFjOTllYjlkMmI4OTlkZDQxMDdk",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Sayin' What I'm Thinkin'",
-        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Things A Man Oughta Know",
-      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+      "duration_ms": 203373,
+      "name": "Things A Man Oughta Know",
+      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 213306,
-      "name": "On My Way to You",
-      "url": "https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU"
+      "duration_ms": 211306,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 211306,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+      "duration_ms": 213306,
+      "name": "On My Way to You",
+      "url": "https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "A Thousand Memories",
-        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
-      },
-      "artists": [
-        {
-          "name": "Rhett Akins",
-          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "That Ain't My Truck",
-      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "On the Other Hand - All the Number Ones",
         "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+        "name": "A Thousand Memories",
+        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
         }
       ],
-      "duration_ms": 165013,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f"
+      "duration_ms": 243106,
+      "name": "That Ain't My Truck",
+      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -975,6 +959,22 @@
       "duration_ms": 170813,
       "name": "Boots On",
       "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 165013,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Put Yourself In My Place",
-        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Maybe It Was Memphis",
-      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 186346,
       "name": "On the Other Hand",
       "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Put Yourself In My Place",
+        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Maybe It Was Memphis",
+      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Some People Change",
-        "url": "https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Lucky Man",
-      "url": "https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Too Cold At Home",
         "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 184840,
       "name": "Brother Jukebox",
       "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Some People Change",
+        "url": "https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Lucky Man",
+      "url": "https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Ten Thousand Angels",
+        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
+      },
+      "artists": [
+        {
+          "name": "Mindy McCready",
+          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Guys Do It All the Time",
+      "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Ten Thousand Angels",
-        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
+        "name": "On The Rocks",
+        "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
       },
       "artists": [
         {
-          "name": "Mindy McCready",
-          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Guys Do It All the Time",
-      "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
+      "duration_ms": 261826,
+      "name": "Out Of Sight",
+      "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1427,22 +1443,6 @@
       "duration_ms": 186549,
       "name": "Mr. Saturday Night",
       "url": "https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "On The Rocks",
-        "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Out Of Sight",
-      "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
-      },
-      "artists": [
-        {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "I'm No Stranger to the Rain",
-      "url": "https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Ten Thousand Angels",
         "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
         }
       ],
-      "duration_ms": 207773,
-      "name": "Sunrise Tells The Story",
-      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+      "duration_ms": 216066,
+      "name": "I'm No Stranger to the Rain",
+      "url": "https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1587,6 +1571,22 @@
       "duration_ms": 197044,
       "name": "Over Drinkin' Under Thinkin'",
       "url": "https://open.spotify.com/track/2YrUpji5N9biuvxKgyO2OT"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Sunrise Tells The Story",
+      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
     },
     {
       "added_at": "2023-03-17 04:00:00",

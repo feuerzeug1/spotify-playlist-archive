@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "being a dad and missing mine",
+        "url": "https://open.spotify.com/album/4kf6OiSKhk7ZIRRnkP4AGA"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193826,
+      "name": "6 string american dream",
+      "url": "https://open.spotify.com/track/43lYzLeOEuCI3ylod1BluA"
+    },
+    {
+      "album": {
         "name": "Born in July",
         "url": "https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R"
       },

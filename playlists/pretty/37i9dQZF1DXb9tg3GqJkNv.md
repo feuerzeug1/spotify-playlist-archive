@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 762 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 799 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 55 | [Vallie Mode](https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Vallie Mode](https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN) | 2:28 |
 | 56 | [My Town \(feat\. Giggs\)](https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [no long talk.](https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT) | 3:18 |
 | 57 | [Examples](https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [T\-jin](https://open.spotify.com/artist/6rSB5wNriTJ9FOXwhkCNgN) | [Examples](https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq) | 2:36 |
-| 58 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
-| 59 | [Come Outside](https://open.spotify.com/track/7gNWSel87rqEok1YXGhrlf) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Outside](https://open.spotify.com/album/4iSl2W2gcqqEsSs1UA7Gmg) | 3:18 |
+| 58 | [Come Outside](https://open.spotify.com/track/7gNWSel87rqEok1YXGhrlf) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Outside](https://open.spotify.com/album/4iSl2W2gcqqEsSs1UA7Gmg) | 3:18 |
+| 59 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
 | 60 | [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 |
-| 61 | [Job Done](https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC) | [LocoCity](https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou) | [Save Yourself](https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA) | 2:19 |
-| 62 | [Realest In the City \(feat\. Meek Mill & PARTYNEXTDOOR\)](https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 4:05 |
+| 61 | [Realest In the City \(feat\. Meek Mill & PARTYNEXTDOOR\)](https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 4:05 |
+| 62 | [Job Done](https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC) | [LocoCity](https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou) | [Save Yourself](https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA) | 2:19 |
 | 63 | [Brk Frm Nrml](https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Added Sugar](https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6) | 2:40 |
 | 64 | [Priceless](https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [FB](https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar) | [Priceless](https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek) | 4:32 |
 | 65 | [NightmareZ](https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [NightmareZ](https://open.spotify.com/album/2Penu08dmmkH4PNmevsh4c) | 1:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Alejandro Sosa](https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Alejandro Sosa](https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF) | 2:43 |
 | 75 | [Control](https://open.spotify.com/track/1zsIwMmM20gvGU7YzPXKF8) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [BLU](https://open.spotify.com/album/46SotNSwVlaHGFmSxCHOV1) | 3:28 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDE0MThlNjI3YWEzMGUzNGY1ZTk0MWFjYTk4YjEwNDAz`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDU2OTk0NjY0YWMyNmI1N2YxMTg2ZGYxYjM5MDI2Nzg1`

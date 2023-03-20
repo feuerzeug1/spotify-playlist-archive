@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 62266,
+  "num_followers": 62301,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMGYzOGQxMjE2ZGM2YTI3YThkMTc1N2UwYThjZjNlM2Fj",
+  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMGU4YWM5NDY1ZTkxOWM2YjE1NWQ4MzIxMTM3MTMyNzA5",
   "tracks": [
     {
       "added_at": "2023-03-07 15:00:00",
@@ -299,8 +299,8 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "i7",
-        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
         }
       ],
-      "duration_ms": 262226,
-      "name": "RESTART POiNTER",
-      "url": "https://open.spotify.com/track/0nLjgD4UBJyw9kg1K5hPYl"
+      "duration_ms": 266826,
+      "name": "TOMORROW EViDENCE",
+      "url": "https://open.spotify.com/track/2UUiJkVl23mpjXMX3GMGFL"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -399,8 +399,8 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "BLACK or WHITE 2022",
-        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+        "name": "i7",
+        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
         }
       ],
-      "duration_ms": 266826,
-      "name": "TOMORROW EViDENCE",
-      "url": "https://open.spotify.com/track/2UUiJkVl23mpjXMX3GMGFL"
+      "duration_ms": 262226,
+      "name": "RESTART POiNTER",
+      "url": "https://open.spotify.com/track/0nLjgD4UBJyw9kg1K5hPYl"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Bang!Bang!Bang!",
-        "url": "https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Bang!Bang!Bang!",
-      "url": "https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "REGALITY",
         "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 243826,
       "name": "In the meantime",
       "url": "https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "Bang!Bang!Bang!",
+        "url": "https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Bang!Bang!Bang!",
+      "url": "https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT"
     },
     {
       "added_at": "2023-03-07 15:00:00",

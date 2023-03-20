@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 51145,
+  "num_followers": 51244,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg4Mjk5NCwwMDAwMDAwMDU0ZDI3MDc4ZDkxMjBmZjU5Y2ZiNTdhMGRjOTk3NjQw",
+  "snapshot_id": "MTY3ODg4Mjk5NCwwMDAwMDAwMGRlZGQ1MmIzYzM0ZDEzZmUwNjA1NzVhZGFkZTJmZjUy",
   "tracks": [
     {
       "added_at": "2023-03-15 12:23:14",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "Broadway, Right Now!",
-        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Make Someone Happy - From \"Do Re Mi\"",
-      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 221413,
       "name": "On The Street Where You Live - Remastered",
       "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "Broadway, Right Now!",
+        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Make Someone Happy - From \"Do Re Mi\"",
+      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -339,6 +339,30 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Doralice",
+      "url": "https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
         "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
         "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 186466,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
-        "name": "The Girl From Ipanema - The Bossa Nova Years",
-        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Doralice",
-      "url": "https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "Gemini Changes",
-        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
-      },
-      "artists": [
-        {
-          "name": "Morgana King",
-          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 172933,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "Gemini Changes",
+        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
+      },
+      "artists": [
+        {
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "The Divine One",
         "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 140173,
       "name": "You Stepped out of a Dream - 2007 Remaster",
       "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -1043,6 +1043,38 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
+        "name": "Desafinado",
+        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 173840,
+      "name": "Alright, Okay, You Win",
+      "url": "https://open.spotify.com/track/1m8WU15D9BGbtsgNE4XWuJ"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -1067,38 +1099,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 173840,
-      "name": "Alright, Okay, You Win",
-      "url": "https://open.spotify.com/track/1m8WU15D9BGbtsgNE4XWuJ"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 103400,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
         "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "Desafinado",
-        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
         }
       ],
-      "duration_ms": 239173,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc"
+      "duration_ms": 103400,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "A Treasury Of Golden Hits",
-        "url": "https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Hey There",
-      "url": "https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 164000,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "A Treasury Of Golden Hits",
+        "url": "https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Hey There",
+      "url": "https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y"
     },
     {
       "added_at": "2023-03-15 12:23:14",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-03-15 12:23:14",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 108826,
-      "name": "From This Moment On",
-      "url": "https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H"
-    },
-    {
-      "added_at": "2023-03-15 12:23:14",
-      "album": {
         "name": "Jazz Abroad",
         "url": "https://open.spotify.com/album/1DWLdf4OEK96kgNNozY1i0"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 351720,
       "name": "Sometimes I'm Happy",
       "url": "https://open.spotify.com/track/1aNyLvKxlaRcHq8qswscdo"
+    },
+    {
+      "added_at": "2023-03-15 12:23:14",
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 108826,
+      "name": "From This Moment On",
+      "url": "https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H"
     },
     {
       "added_at": "2023-03-15 12:23:14",

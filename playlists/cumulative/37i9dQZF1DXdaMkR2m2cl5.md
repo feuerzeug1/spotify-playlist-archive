@@ -4,7 +4,7 @@
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-230 songs - 14 hr 25 min
+231 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [The Woods \- Acoustic](https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI) | 3:59 | 2020-11-25 |  |
 | [This Sweet Love](https://open.spotify.com/track/1aPIOiggxmM2pjDBky1HIo) | [James Yuill](https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps) | [Turning Down Water For Air](https://open.spotify.com/album/7kpw1eWU9vr1K6BnFXKJ3r) | 3:43 | 2020-11-25 | 2023-01-13 |
 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 | 2020-11-25 |  |
-| [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 | 2020-11-25 |  |
+| [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 | 2020-11-25 | 2023-03-20 |
 | [Three Oh Nine](https://open.spotify.com/track/3VZuWLaacuE4Qis1ln8b1J) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:32 | 2020-11-25 |  |
 | [Three Oh Nine](https://open.spotify.com/track/1JNeOgkS06nCH3wvFQePOH) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Three Oh Nine](https://open.spotify.com/album/7rEzHNDgxYsPWO8DaK8RQs) | 3:32 | 2020-11-25 | 2022-06-18 |
 | [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 | 2020-11-25 |  |
@@ -223,6 +223,7 @@
 | [Wayside](https://open.spotify.com/track/5awVHbrgmCrvvK3xOAFI4N) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Been on Your Side](https://open.spotify.com/album/54FwhTptoGEctEZdKjYTc4) | 2:37 | 2020-11-25 | 2022-08-30 |
 | [We Don't Eat](https://open.spotify.com/track/1y3PhboJrxMNOpLxkMsTiM) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Bonus Version\)](https://open.spotify.com/album/4Lluitxz8wV7jq5qljjG4I) | 4:53 | 2020-11-25 |  |
 | [We Fall In](https://open.spotify.com/track/396KYYOGDOwE7YooXmFedN) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/5AUR2e4ts43bwq4lVynzqX) | 3:11 | 2020-11-25 | 2022-07-28 |
+| [We Fall In](https://open.spotify.com/track/3gJbk7cVA8krFgfVVN0Edm) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu) | 3:11 | 2020-11-25 |  |
 | [We Wait](https://open.spotify.com/track/3QeaXGKRvt8cfHdrfdk5pL) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [For Their Love](https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt) | 3:41 | 2020-11-25 | 2022-07-17 |
 | [Wells Tower Song](https://open.spotify.com/track/0H4SpGyg6pqk5Tpcayz8Jp) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Wells Tower Song](https://open.spotify.com/album/4R2N0yN1m6aYfoUvuYu3yj) | 5:04 | 2020-11-25 | 2022-07-18 |
 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 | 2020-11-25 |  |

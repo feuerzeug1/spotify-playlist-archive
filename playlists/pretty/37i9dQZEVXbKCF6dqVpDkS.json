@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 909918,
+  "num_followers": 909955,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMyNDQ4MTIwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMyNTM2NTYzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Leven",
         "url": "https://open.spotify.com/album/7CDXtPqw2B36tlBnvI912N"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Dyscalculie",
         "url": "https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk"
@@ -61,7 +61,71 @@
       "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Ladada (Mon Dernier Mot)",
+        "url": "https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "duration_ms": 164903,
+      "name": "Ladada (Mon Dernier Mot)",
+      "url": "https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Ik Heb Schijt",
+        "url": "https://open.spotify.com/album/0duvdpkDsXLJxSrzm0qLb0"
+      },
+      "artists": [
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        }
+      ],
+      "duration_ms": 123857,
+      "name": "Ik Heb Schijt",
+      "url": "https://open.spotify.com/track/40ityTQ22y9xUqiffxJ0uK"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Paracetamollen",
+        "url": "https://open.spotify.com/album/2RU3CznHQtlgC1P6vZvEzf"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Paracetamollen",
+      "url": "https://open.spotify.com/track/50vXZhuyOfXaEkG3jVacmd"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Therapie",
+        "url": "https://open.spotify.com/album/7K56y28CXxhIvGI2MKcHIO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Therapie",
+      "url": "https://open.spotify.com/track/323zcUSa2qrq0aUAwL30sT"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Kipstraat",
         "url": "https://open.spotify.com/album/754TV1bogkbikwMZjNQ3BY"
@@ -81,55 +145,23 @@
       "url": "https://open.spotify.com/track/0pprNYhVAk7SFtVLtEnyfC"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
-        "name": "Ladada (Mon Dernier Mot)",
-        "url": "https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr"
+        "name": "Betaalbare Romantiek",
+        "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
       },
       "artists": [
         {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
         }
       ],
-      "duration_ms": 164903,
-      "name": "Ladada (Mon Dernier Mot)",
-      "url": "https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf"
+      "duration_ms": 214383,
+      "name": "Noodgeval",
+      "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Therapie",
-        "url": "https://open.spotify.com/album/7K56y28CXxhIvGI2MKcHIO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Therapie",
-      "url": "https://open.spotify.com/track/323zcUSa2qrq0aUAwL30sT"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Paracetamollen",
-        "url": "https://open.spotify.com/album/2RU3CznHQtlgC1P6vZvEzf"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Paracetamollen",
-      "url": "https://open.spotify.com/track/50vXZhuyOfXaEkG3jVacmd"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -153,27 +185,43 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
-        "name": "Broski\u2019s",
-        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
+        "name": "Slapeloosheid",
+        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 179346,
-      "name": "Broski\u2019s",
-      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
+      "duration_ms": 177142,
+      "name": "Slapeloosheid",
+      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Wat Wil Je Van Mij",
+        "url": "https://open.spotify.com/album/1y7MAbKaVkvR7G8FkaA1ju"
+      },
+      "artists": [
+        {
+          "name": "Metejoor",
+          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+        },
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "duration_ms": 199433,
+      "name": "Wat Wil Je Van Mij",
+      "url": "https://open.spotify.com/track/7Gzz44FpTbZu0DNVVZjwPs"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Luxeprobleem",
         "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
@@ -197,75 +245,27 @@
       "url": "https://open.spotify.com/track/2c04RWBdaPi7OTakLMwy20"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
-        "name": "Wat Wil Je Van Mij",
-        "url": "https://open.spotify.com/album/1y7MAbKaVkvR7G8FkaA1ju"
+        "name": "Broski\u2019s",
+        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
       },
       "artists": [
         {
-          "name": "Metejoor",
-          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         },
         {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
         }
       ],
-      "duration_ms": 199433,
-      "name": "Wat Wil Je Van Mij",
-      "url": "https://open.spotify.com/track/7Gzz44FpTbZu0DNVVZjwPs"
+      "duration_ms": 179346,
+      "name": "Broski\u2019s",
+      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Betaalbare Romantiek",
-        "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
-      },
-      "artists": [
-        {
-          "name": "Goldband",
-          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
-        }
-      ],
-      "duration_ms": 214383,
-      "name": "Noodgeval",
-      "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Slapeloosheid",
-        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Slapeloosheid",
-      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
@@ -285,7 +285,23 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Starboy (Deluxe)",
         "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
@@ -325,23 +341,7 @@
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Ik Heb Schijt",
-        "url": "https://open.spotify.com/album/0duvdpkDsXLJxSrzm0qLb0"
-      },
-      "artists": [
-        {
-          "name": "Kempi",
-          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
-        }
-      ],
-      "duration_ms": 123857,
-      "name": "Ik Heb Schijt",
-      "url": "https://open.spotify.com/track/40ityTQ22y9xUqiffxJ0uK"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
@@ -381,31 +381,27 @@
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
-        "name": "Luxeprobleem",
-        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+        "name": "Round 2",
+        "url": "https://open.spotify.com/album/1xBdfJLOVxFiqEPG0d3hz3"
       },
       "artists": [
         {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
         },
         {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+          "name": "Boat",
+          "url": "https://open.spotify.com/artist/545XHoCXOXRYsNrKjh4uHd"
         }
       ],
-      "duration_ms": 135998,
-      "name": "Probleem",
-      "url": "https://open.spotify.com/track/20THU2It0g1DdrvIY21Ghj"
+      "duration_ms": 179582,
+      "name": "Round 2",
+      "url": "https://open.spotify.com/track/6oLLXajPHZTNgUdHxNID75"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
@@ -421,27 +417,7 @@
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Stemgeluid",
-        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
-      },
-      "artists": [
-        {
-          "name": "Vlins",
-          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
-        },
-        {
-          "name": "Laura Yasmin",
-          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
-        }
-      ],
-      "duration_ms": 175263,
-      "name": "Stemgeluid",
-      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
@@ -461,79 +437,23 @@
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
-        "name": "Starlife",
-        "url": "https://open.spotify.com/album/6DI7opq6lLbdMddkNVOxSD"
+        "name": "Engelbewaarder",
+        "url": "https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH"
       },
       "artists": [
         {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "KA",
-          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Snelle Leven",
-      "url": "https://open.spotify.com/track/1ZeHGimKwY5ukfq01CxrpE"
+      "duration_ms": 196520,
+      "name": "Engelbewaarder",
+      "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "19 & Dangerous (Deluxe)",
-        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Soldier",
-        "url": "https://open.spotify.com/album/5GyDKLFgmm6anhrarefEqv"
-      },
-      "artists": [
-        {
-          "name": "Cor",
-          "url": "https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3"
-        },
-        {
-          "name": "KA",
-          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
-        }
-      ],
-      "duration_ms": 154888,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/5tdppmnunAggNDFPkpM1fe"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "I'll Be Waiting (Sad At Christmas)",
-        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 172547,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
@@ -557,7 +477,83 @@
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Stemgeluid",
+        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "duration_ms": 175263,
+      "name": "Stemgeluid",
+      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Luxeprobleem",
+        "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 135998,
+      "name": "Probleem",
+      "url": "https://open.spotify.com/track/20THU2It0g1DdrvIY21Ghj"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "19 & Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "I'll Be Waiting (Sad At Christmas)",
+        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
@@ -577,23 +573,7 @@
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Engelbewaarder",
-        "url": "https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH"
-      },
-      "artists": [
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Engelbewaarder",
-      "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -609,7 +589,27 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Klop Klop",
         "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
@@ -629,75 +629,23 @@
       "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+        "name": "FLEMMING",
+        "url": "https://open.spotify.com/album/4wj55K0CAP26MV3MIGDLRZ"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Wat Is Er Gebeurd",
-        "url": "https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7"
-      },
-      "artists": [
-        {
-          "name": "Vincent Visser",
-          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
-        },
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        }
-      ],
-      "duration_ms": 155643,
-      "name": "Wat Is Er Gebeurd",
-      "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Terugweg",
-        "url": "https://open.spotify.com/album/46lVBb2r3TX8sG9ViP0pii"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        }
-      ],
-      "duration_ms": 163833,
-      "name": "Terugweg",
-      "url": "https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
@@ -713,7 +661,107 @@
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Terugweg",
+        "url": "https://open.spotify.com/album/46lVBb2r3TX8sG9ViP0pii"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "duration_ms": 163833,
+      "name": "Terugweg",
+      "url": "https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Starlife",
+        "url": "https://open.spotify.com/album/6DI7opq6lLbdMddkNVOxSD"
+      },
+      "artists": [
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Snelle Leven",
+      "url": "https://open.spotify.com/track/1ZeHGimKwY5ukfq01CxrpE"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Baddie",
         "url": "https://open.spotify.com/album/0u9XpTRBvmMooQZokHW7il"
@@ -745,23 +793,7 @@
       "url": "https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -781,7 +813,23 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Ik Space",
         "url": "https://open.spotify.com/album/0z3l97NfPujHK3s654j8mB"
@@ -801,115 +849,63 @@
       "url": "https://open.spotify.com/track/0xLnJgUHvPnq6n2ESDSMXF"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Soldier",
+        "url": "https://open.spotify.com/album/5GyDKLFgmm6anhrarefEqv"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "LET GO",
-        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 174246,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Cor",
+          "url": "https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
         }
       ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+      "duration_ms": 154888,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/5tdppmnunAggNDFPkpM1fe"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
-        "name": "Der Af (Oya L\u00e9l\u00e9)",
-        "url": "https://open.spotify.com/album/6AAEje0hsC6HnJy5SsMiYD"
+        "name": "= (Tour Edition)",
+        "url": "https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU"
+    },
+    {
+      "added_at": "2023-03-19 10:22:43",
+      "album": {
+        "name": "Wat Is Er Gebeurd",
+        "url": "https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7"
+      },
+      "artists": [
+        {
+          "name": "Vincent Visser",
+          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
         },
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
         }
       ],
-      "duration_ms": 146666,
-      "name": "Der Af (Oya L\u00e9l\u00e9)",
-      "url": "https://open.spotify.com/track/443rDqZIaqvZzJ1DgdJNgr"
+      "duration_ms": 155643,
+      "name": "Wat Is Er Gebeurd",
+      "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "FLEMMING",
-        "url": "https://open.spotify.com/album/4wj55K0CAP26MV3MIGDLRZ"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
-      "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
-    },
-    {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -925,20 +921,20 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-03-18 09:48:40",
+      "added_at": "2023-03-19 10:22:43",
       "album": {
-        "name": "= (Tour Edition)",
-        "url": "https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2"
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU"
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

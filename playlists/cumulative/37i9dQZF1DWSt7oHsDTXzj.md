@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-207 songs - 11 hr 24 min
+208 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5pzEgKArztxeQZmFfnSsBE) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Everything Is Christmas](https://open.spotify.com/album/2jl6Yn3j1xfN6GWDoSMbHn) | 3:27 | 2021-11-12 | 2022-07-29 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/7ud0O2AQDopiy12slERpWG) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Everything Is Christmas](https://open.spotify.com/album/4weBbbWNHkVUshQRRQdJUP) | 3:27 | 2021-12-15 | 2022-07-23 |
 | [Santa Stay Home](https://open.spotify.com/track/2VzSeBsCm5lqbIHEUvM9UQ) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA), [Rich Morel](https://open.spotify.com/artist/7DOTbVfxnUonnnlEpeg3ko) | [Santa Stay Home](https://open.spotify.com/album/1wwAbDU3K2q46LTo1FzX7A) | 4:00 | 2021-11-12 | 2022-07-27 |
-| [Silent Night](https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 4:44 | 2021-11-12 |  |
+| [Silent Night](https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 4:44 | 2021-11-12 | 2023-03-20 |
 | [Silent Night](https://open.spotify.com/track/0NVk0WwXd7bZG2jpKgFEeS) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Silent Night b/w Blue Christmas](https://open.spotify.com/album/2uV3toNhIWZJx63And14NO) | 2:36 | 2022-12-23 | 2023-01-24 |
 | [Silent Night](https://open.spotify.com/track/1HjszJRd56C61Cv0B6xvBW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Silent Night b/w Blue Christmas](https://open.spotify.com/album/0uCK9gB2Qc25UJZ23AcWnM) | 2:36 | 2021-11-12 | 2022-07-29 |
 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 | 2022-12-23 |  |
@@ -212,6 +212,7 @@
 | [Wonderful Christmastime](https://open.spotify.com/track/6g9jjIuFrgbVX8ahN7ejmQ) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Drunk Christmas Party 2022](https://open.spotify.com/album/2iup3SB38ceLUjOMHLrXfH) | 2:26 | 2021-11-12 | 2022-09-11 |
 | [xmas break](https://open.spotify.com/track/7lqyR5szlPkt9sz3dqDZYf) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [xmas break](https://open.spotify.com/album/7GVLN36yynco60XmAYmuSQ) | 3:04 | 2022-01-07 | 2022-07-29 |
 | [Yellow Bike](https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge) | 3:53 | 2021-11-12 | 2022-11-03 |
+| [Yellow Bike](https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9) | 3:53 | 2022-12-23 |  |
 | [Yellow Bike](https://open.spotify.com/track/7hfrRIQmymC8Otmm27BQdY) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Yellow Bike](https://open.spotify.com/album/5VIIDEGuRGBQ7Riy3sfATF) | 3:53 | 2021-11-12 | 2022-07-28 |
 | [You Bring the Snow](https://open.spotify.com/track/6tYnZCezrIuV6iCFHt8huM) | [The Crookes](https://open.spotify.com/artist/04weGKj3nAChyEmS9RFF5y) | [You Bring the Snow](https://open.spotify.com/album/3fWksQPLeLUABfbKo9Yeea) | 3:49 | 2021-11-12 | 2022-07-26 |
 | [You Won't Love Me by Christmas](https://open.spotify.com/track/52vkZq7gw5OHzlH1u0egjN) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [You Won't Love Me by Christmas](https://open.spotify.com/album/6BKuGp6971tKGYZMRGDo2H) | 3:22 | 2021-11-12 | 2022-07-27 |

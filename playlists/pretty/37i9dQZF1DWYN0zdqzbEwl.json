@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Juanes",
-  "num_followers": 4099152,
+  "num_followers": 4099390,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzE2MSwwMDAwMDAwMGViYjc0MDYzNjcxNmVlMDUxZDY0OWVlMWUxMTYxOWNl",
+  "snapshot_id": "MTY3ODQxNzE2MSwwMDAwMDAwMGEyMjY3MzQzZTA5MmUyZDdkNTgyMWQ4MjlkNjhjZTk2",
   "tracks": [
     {
       "added_at": "2023-03-10 02:59:21",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-10 02:59:21",
       "album": {
-        "name": "Commercial",
-        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
-    },
-    {
-      "added_at": "2023-03-10 02:59:21",
-      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 194573,
       "name": "El Duelo",
       "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
+    },
+    {
+      "added_at": "2023-03-10 02:59:21",
+      "album": {
+        "name": "Commercial",
+        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
     },
     {
       "added_at": "2023-03-10 02:59:21",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-03-10 02:59:21",
       "album": {
+        "name": "El Mar No Cesa- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "H\u00e9roe de leyenda",
+      "url": "https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt"
+    },
+    {
+      "added_at": "2023-03-10 02:59:21",
+      "album": {
         "name": "Las Consecuencias",
         "url": "https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 233960,
       "name": "Frente a frente (feat. Tulsa)",
       "url": "https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj"
-    },
-    {
-      "added_at": "2023-03-10 02:59:21",
-      "album": {
-        "name": "El Mar No Cesa- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "H\u00e9roe de leyenda",
-      "url": "https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt"
     },
     {
       "added_at": "2023-03-10 02:59:21",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-03-10 02:59:21",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Baracunatana",
+      "url": "https://open.spotify.com/track/1SBwYuWcbpJOXZBlzWfJQw"
+    },
+    {
+      "added_at": "2023-03-10 02:59:21",
+      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
         "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 282120,
       "name": "Pobre de Ti",
       "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
-    },
-    {
-      "added_at": "2023-03-10 02:59:21",
-      "album": {
-        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
-        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 377399,
-      "name": "Mujer Amante - Vivo",
-      "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
     },
     {
       "added_at": "2023-03-10 02:59:21",

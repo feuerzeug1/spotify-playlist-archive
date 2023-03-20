@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,674 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,668 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 34 | [Bayside \- Radio Edit](https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Bayside](https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC) | 3:17 |
 | 35 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 |
 | 36 | [No Fun](https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 2:10 |
-| 37 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 |
-| 38 | [Flowers \(Say My Name\)](https://open.spotify.com/track/2jjsIpj4OG68TpojNlZcE6) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:38 |
-| 39 | [You Give Me A Feeling](https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/2UUluViWyFRdmxqsNap7hm) | 3:05 |
-| 40 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
+| 37 | [You Give Me A Feeling](https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/2UUluViWyFRdmxqsNap7hm) | 3:05 |
+| 38 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 |
+| 39 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
+| 40 | [Flowers \(Say My Name\)](https://open.spotify.com/track/2jjsIpj4OG68TpojNlZcE6) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:38 |
 | 41 | [It's A Killa](https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt) | 3:20 |
 | 42 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
 | 43 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Bad \(feat\. Aitch\)](https://open.spotify.com/track/4HTKztrMHpvn2sAl4HcK3J) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Bad \(feat\. Aitch\)](https://open.spotify.com/album/2yOlbpaUHBPXPq7cQJ563V) | 3:26 |
 | 100 | [Deep End](https://open.spotify.com/track/3Ez1aIT6ljEWE0W3qNhl62) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Deep End](https://open.spotify.com/album/3tUqZawXHgIOYvRgrvpa9n) | 2:36 |
 
-Snapshot ID: `MTY1NTczNDk5NywwMDAwMDAwMDBjODAzYzcwMmQ1Mjk3OTlhYTRjYjZhYTZhZWJkZmM2`
+Snapshot ID: `MTY1NTczNDk5NywwMDAwMDAwMGFmYzZmMzg2MDdiNzk3ZDEyZmNkODg1Y2RmYzczM2Rl`

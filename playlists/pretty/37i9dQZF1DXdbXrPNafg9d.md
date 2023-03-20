@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Unknown Mortal Orchestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,044 likes - 180 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,130 likes - 180 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,7 +169,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 159 | [Walk With Me](https://open.spotify.com/track/7bYhWHFq1bdgF75y0CE9E9) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Walk With Me](https://open.spotify.com/album/07PhwpxrmufeLRlZC0slVg) | 2:52 |
 | 160 | [Breathless](https://open.spotify.com/track/39JRTESEqGbjhTPz0N0Ctk) | [The Hails](https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT) | [Breathless](https://open.spotify.com/album/6ksGWnHDMEW9HIWxbNbOBe) | 3:00 |
 | 161 | [Widow Dreams Forever](https://open.spotify.com/track/0lo0uTr01YwLsquOAuwUEA) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Widow Dreams Forever](https://open.spotify.com/album/0bknUVrYD2YRTbmCzF7r2L) | 3:03 |
-| 162 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 |
+| 162 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
 | 163 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 164 | [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 |
 | 165 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 179 | [lazy \(haste\)](https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [lazy](https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4) | 2:05 |
 | 180 | [Always on My Mind](https://open.spotify.com/track/6JBOTY4U3xGtE2Wpzp2uA3) | [Roller Derby](https://open.spotify.com/artist/2MCyjG9viaC9IM39VO3yDe) | [Always on My Mind](https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4) | 3:29 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDJhMmJhZWExYzRmMmMzOWFkODdjZDhmOTMzZDc3YTky`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGViZDliODkwZDgzNWJmZmIyYTU5MGVjNWYyMjk0NDky`

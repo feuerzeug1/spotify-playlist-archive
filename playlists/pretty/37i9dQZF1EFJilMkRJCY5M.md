@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123 likes - 77 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 123 likes - 78 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 28 | [nervous](https://open.spotify.com/track/7gacDtNNBGmV4D1ZzjSsHJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [nervous](https://open.spotify.com/album/5vBpXxwiH2nZS3K4mB3Wm5) | 2:58 |
 | 29 | [lose a friend](https://open.spotify.com/track/0Cw21zwpYtEsRtX1ahlC5O) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 3:07 |
 | 30 | [Side Of My Heart](https://open.spotify.com/track/1Ek06P8GYs1HF5ePUsW0mx) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Side Of My Heart](https://open.spotify.com/album/23EzioEmU2OX3sZOi6YgJb) | 3:13 |
-| 31 | [Numb](https://open.spotify.com/track/17XexdiAjHvTdNj24ayQle) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [FOSTER](https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M) | [Numb](https://open.spotify.com/album/1MSGqY6VGYPektAZVtGosL) | 3:34 |
-| 32 | [Mean To Me](https://open.spotify.com/track/0UzuBW8HXoez3hmI1AoN3J) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:01 |
+| 31 | [Mean To Me](https://open.spotify.com/track/0UzuBW8HXoez3hmI1AoN3J) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:01 |
+| 32 | [Numb](https://open.spotify.com/track/17XexdiAjHvTdNj24ayQle) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [FOSTER](https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M) | [Numb](https://open.spotify.com/album/1MSGqY6VGYPektAZVtGosL) | 3:34 |
 | 33 | [I Didn't Love You](https://open.spotify.com/track/0PgPGluNJgg4Tzy9sTmTeq) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Didn't Love You](https://open.spotify.com/album/0pdfobBNkrXR21XW204Sws) | 2:59 |
 | 34 | [Hope](https://open.spotify.com/track/096ZnSaLLYkslAd9oVXtp4) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Hope](https://open.spotify.com/album/6cHlVeJ95y7fhhaSjARwyN) | 3:33 |
 | 35 | [Same Team](https://open.spotify.com/track/52MFjMbUfxVJw3N1Ue7aQR) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:54 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 55 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 |
 | 56 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 |
 | 57 | [die 4 u](https://open.spotify.com/track/7k8IcQsuJAPtWI6QNCdSx3) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/7Bw4ZLyMlGiihatI3VUQq9) | 2:53 |
-| 58 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 |
-| 59 | [Both/And](https://open.spotify.com/track/3MyHVOLCrWtItxITiaJvAy) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Goodbye To All Of That, 2023](https://open.spotify.com/album/5rJqKtbGfVUH8glGRtPVic) | 2:54 |
+| 58 | [Both/And](https://open.spotify.com/track/3MyHVOLCrWtItxITiaJvAy) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Goodbye To All Of That, 2023](https://open.spotify.com/album/5rJqKtbGfVUH8glGRtPVic) | 2:54 |
+| 59 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 |
 | 60 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
 | 61 | [There Goes My Heart](https://open.spotify.com/track/3PBjyEIhY26g5wByX9lDBt) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [There Goes My Heart](https://open.spotify.com/album/7h2JwEdU03S7OoTasIdhWx) | 2:32 |
 | 62 | [Miss It Now \(For Sarah\)](https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Miss It Now \(For Sarah\)](https://open.spotify.com/album/1xGWc24fUFh0QtXmCfQvSG) | 2:30 |
@@ -76,14 +76,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 66 | [Easy on Me](https://open.spotify.com/track/4U35K9PqSqC28vhsEYCYru) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/2fTcxmyd15YE0SvnGfwGGY) | 2:56 |
 | 67 | [Place to Be](https://open.spotify.com/track/3FKQ3HUw36ipWMhh8UvPzk) | [Drty Shdw](https://open.spotify.com/artist/1V5Vqlxw4xGhfGQt4N64DL), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Place to Be](https://open.spotify.com/album/6eX0PDJYxbHmcbQJfoG5k8) | 3:52 |
 | 68 | [Baby Blue](https://open.spotify.com/track/2dVY0aLXcsN3eKCvcgs3MQ) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Baby Blue](https://open.spotify.com/album/5GIRmKFCucH40zEWxHkwDQ) | 2:59 |
-| 69 | [Head in the Clouds](https://open.spotify.com/track/0NSb1a5SxMTzYbKhwIgvdY) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Head in the Clouds](https://open.spotify.com/album/7K9ok645oF4PJJSLzhLNPs) | 2:27 |
-| 70 | [Holiday Wishing](https://open.spotify.com/track/6lpbbBPLuPDlnOSzGnsqYJ) | [Bree Doster](https://open.spotify.com/artist/1jVHjJ0stNNMYT1o2ATomU) | [Holiday Wishing](https://open.spotify.com/album/0AY3Fn36rRb6xGKcqxehok) | 3:31 |
-| 71 | [Wild Thoughts](https://open.spotify.com/track/3zKHLE9q6vcmg0ZFnvkCcM) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [Way Back When](https://open.spotify.com/album/3VPqcQjuGUSlHz8ThfntyN) | 3:15 |
-| 72 | [Make Up My Mind](https://open.spotify.com/track/3W4g24a8AoYpG1FFhKH3ls) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 3:13 |
-| 73 | [If You Only Knew](https://open.spotify.com/track/1Sa8stvZa1DDMXWirp34XB) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [If You Only Knew](https://open.spotify.com/album/0QYjygDiIDvVRdicdoTrvk) | 3:32 |
-| 74 | [Old Love New](https://open.spotify.com/track/4NsgNG9MNSeuN5jbHdCAsl) | [Makenzie Schriner](https://open.spotify.com/artist/5Z9ZOYc8dwjeD054CUqbBu) | [Old Love New](https://open.spotify.com/album/4XViFfHuuvDAHUCZIqWyQ6) | 3:06 |
-| 75 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
-| 76 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
-| 77 | [Love's Contagious](https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT) | [Darby](https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT) | [Love's Contagious](https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR) | 2:19 |
+| 69 | [6 string american dream](https://open.spotify.com/track/43lYzLeOEuCI3ylod1BluA) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [being a dad and missing mine](https://open.spotify.com/album/4kf6OiSKhk7ZIRRnkP4AGA) | 3:13 |
+| 70 | [Head in the Clouds](https://open.spotify.com/track/0NSb1a5SxMTzYbKhwIgvdY) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Head in the Clouds](https://open.spotify.com/album/7K9ok645oF4PJJSLzhLNPs) | 2:27 |
+| 71 | [Holiday Wishing](https://open.spotify.com/track/6lpbbBPLuPDlnOSzGnsqYJ) | [Bree Doster](https://open.spotify.com/artist/1jVHjJ0stNNMYT1o2ATomU) | [Holiday Wishing](https://open.spotify.com/album/0AY3Fn36rRb6xGKcqxehok) | 3:31 |
+| 72 | [Wild Thoughts](https://open.spotify.com/track/3zKHLE9q6vcmg0ZFnvkCcM) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [Way Back When](https://open.spotify.com/album/3VPqcQjuGUSlHz8ThfntyN) | 3:15 |
+| 73 | [Make Up My Mind](https://open.spotify.com/track/3W4g24a8AoYpG1FFhKH3ls) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 3:13 |
+| 74 | [If You Only Knew](https://open.spotify.com/track/1Sa8stvZa1DDMXWirp34XB) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [If You Only Knew](https://open.spotify.com/album/0QYjygDiIDvVRdicdoTrvk) | 3:32 |
+| 75 | [Old Love New](https://open.spotify.com/track/4NsgNG9MNSeuN5jbHdCAsl) | [Makenzie Schriner](https://open.spotify.com/artist/5Z9ZOYc8dwjeD054CUqbBu) | [Old Love New](https://open.spotify.com/album/4XViFfHuuvDAHUCZIqWyQ6) | 3:06 |
+| 76 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
+| 77 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
+| 78 | [Love's Contagious](https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT) | [Darby](https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT) | [Love's Contagious](https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR) | 2:19 |
 
-Snapshot ID: `Mjc5ODQ5NzcsMDAwMDAwMDA5NmQwNzU0M2YyMzcyNjY4MzdjODgyYWQ4YTM5YmQ4NQ==`
+Snapshot ID: `Mjc5ODc4NTcsMDAwMDAwMDA0OTMyZGRhZTc0MDU1Mjc0YmM2NDkyZTI3Y2RhMGVmYw==`

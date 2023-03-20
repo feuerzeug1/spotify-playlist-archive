@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: The Weeknd",
-  "num_followers": 202032,
+  "num_followers": 202210,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMGQzOTZmMjMzMjE4YTVkMmRkYTEwNjcwMzNmMTRjZTAw",
+  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDY0MTgxZmRjZDEzZWZkYWRjYTRmZTUxOTYyZWQ4NmRk",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-03-17 04:01:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 207546,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
+      "duration_ms": 189462,
+      "name": "DO 4 LOVE",
+      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-03-17 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 189462,
-      "name": "DO 4 LOVE",
-      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+      "duration_ms": 207546,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-03-17 04:01:00",
       "album": {
-        "name": "Persuasive (with SZA)",
-        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Persuasive (with SZA)",
-      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 196146,
       "name": "Ginger (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "added_at": "2023-03-17 04:01:00",
+      "album": {
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1527,18 +1527,26 @@
     {
       "added_at": "2023-03-17 04:01:00",
       "album": {
-        "name": "The Best Part of Life",
-        "url": "https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq"
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
       "artists": [
         {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 196873,
-      "name": "The Best Part of Life",
-      "url": "https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB"
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1563,6 +1571,22 @@
     {
       "added_at": "2023-03-17 04:01:00",
       "album": {
+        "name": "The Best Part of Life",
+        "url": "https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "duration_ms": 196873,
+      "name": "The Best Part of Life",
+      "url": "https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB"
+    },
+    {
+      "added_at": "2023-03-17 04:01:00",
+      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -1579,26 +1603,6 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Psychic",
-      "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1623,26 +1627,22 @@
     {
       "added_at": "2023-03-17 04:01:00",
       "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+      "duration_ms": 220760,
+      "name": "Psychic",
+      "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-03-17 04:01:00",
       "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/4jIEMRSPsEVpjn75QTMlc8"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Lowkey",
-      "url": "https://open.spotify.com/track/10hUWpN7YFbK64zWuXxqGT"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 209133,
       "name": "Leave You Alone",
       "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
+    },
+    {
+      "added_at": "2023-03-17 04:01:00",
+      "album": {
+        "name": "1021",
+        "url": "https://open.spotify.com/album/4jIEMRSPsEVpjn75QTMlc8"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Lowkey",
+      "url": "https://open.spotify.com/track/10hUWpN7YFbK64zWuXxqGT"
     },
     {
       "added_at": "2023-03-17 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,585 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,647 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 8 | [M4](https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [M4](https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3) | 2:50 |
 | 9 | [60K](https://open.spotify.com/track/45T7K7sercGwxi5sU4wqAK) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [60K](https://open.spotify.com/album/280tU4xoWJ10EcJoc0YOkT) | 2:38 |
 | 10 | [War](https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial](https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U) | 2:32 |
-| 11 | [Tipo Gringa](https://open.spotify.com/track/3oxk3UVbKJiPcPokw9h64D) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Tipo Gringa](https://open.spotify.com/album/2GzMlVeoje0wmHbl3bGASp) | 1:54 |
+| 11 | [Mds](https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Mds](https://open.spotify.com/album/2x3FO0DZC61UwKBFNsnkzX) | 2:05 |
 | 12 | [A Cara do Crime 3 \(Brinde à Liberdade\)](https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP) | [A Cara do Crime 3 \(Brinde à Liberdade\)](https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv) | 5:00 |
-| 13 | [Mds](https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Mds](https://open.spotify.com/album/2x3FO0DZC61UwKBFNsnkzX) | 2:05 |
+| 13 | [Tipo Gringa](https://open.spotify.com/track/3oxk3UVbKJiPcPokw9h64D) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Tipo Gringa](https://open.spotify.com/album/2GzMlVeoje0wmHbl3bGASp) | 1:54 |
 | 14 | [Kallidade](https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I) | [Kallidade](https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs) | 2:39 |
 | 15 | [Quadro](https://open.spotify.com/track/6quxGsXP50tQOZG9onTDMI) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Quadro](https://open.spotify.com/album/5FbEpa7ZliTKb16jB2wQj3) | 2:47 |
 | 16 | [777\-666](https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
 | 60 | [Lui Lui](https://open.spotify.com/track/3CPror2JNhqGuS8AjaAoKu) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 4:41 |
 
-Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMDc4YzNjM2NhZjFiYzI3MTQ0MjhlOTQxYjQzNDEzNWUy`
+Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMDg4MTlhY2IyMzNjODBjMzdmMDQwMTc1OGYwYWNlZTRj`

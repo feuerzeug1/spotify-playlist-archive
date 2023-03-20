@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 146449,
+  "num_followers": 146441,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MTY2MiwwMDAwMDAwMDEwYWI2NjA0NDI4MjFkZjI4MzlkZjIxYjE0ZjI4OTQy",
+  "snapshot_id": "MTY3OTA0MTY2MiwwMDAwMDAwMDA5ZGE1MmYzMDFkNTAyNjAxYWY2NjNlMTMxYzBlZjJm",
   "tracks": [
     {
       "added_at": "2023-03-17 08:27:42",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 283294,
+      "name": "No Peace",
+      "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
         "name": "Earthtones",
         "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
       },
@@ -871,26 +891,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 283294,
-      "name": "No Peace",
-      "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Unbreakable Smile",
         "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "In Between Minds",
-        "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 199537,
-      "name": "Things You Can't Change",
-      "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
+      "duration_ms": 193133,
+      "name": "Love Her",
+      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+        "name": "In Between Minds",
+        "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 193133,
-      "name": "Love Her",
-      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
+      "duration_ms": 199537,
+      "name": "Things You Can't Change",
+      "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 246053,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Better Luck Next Time",
         "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 172371,
       "name": "Better Luck Next Time",
       "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 246053,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 211514,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
         "name": "Voicenotes",
         "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 211514,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Wild Enough",
         "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Get Here - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Maybe I'll Find You Again",
         "url": "https://open.spotify.com/album/55B16U7z2wQTFlr27JKmdX"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 231533,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Get Here - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Rhythm Inside (Acoustic)",
-        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 212171,
-      "name": "Rhythm Inside - Acoustic",
-      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Electric Light",
         "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 197280,
       "name": "Wild Love",
       "url": "https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Rhythm Inside (Acoustic)",
+        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 212171,
+      "name": "Rhythm Inside - Acoustic",
+      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Collections From The Whiteout",
         "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 257773,
       "name": "What A Day - Edit",
       "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Why Her Not Me - EP",
-        "url": "https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 219012,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Why Her Not Me - EP",
+        "url": "https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 219012,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
+        "name": "How Would You Feel (Paean)",
+        "url": "https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "How Would You Feel (Paean)",
+      "url": "https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
         "name": "Late Teens / Early Twenties",
         "url": "https://open.spotify.com/album/0HTwVQTBJLcpgvgtf78j55"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 132581,
       "name": "Stay The Way I Left You (feat. Dahl)",
       "url": "https://open.spotify.com/track/1wT9hNHjSdpKAK8ysEdAg7"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
-        "name": "How Would You Feel (Paean)",
-        "url": "https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 280533,
-      "name": "How Would You Feel (Paean)",
-      "url": "https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV"
     }
   ],
   "unique_name": "Ren hygge",

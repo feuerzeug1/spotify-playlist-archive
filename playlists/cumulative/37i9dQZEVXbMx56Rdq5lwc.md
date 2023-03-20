@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,071 songs - 2 day 10 hr 15 min
+1,072 songs - 2 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,8 @@
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-05-08 |
 | [Eat Your Salad](https://open.spotify.com/track/0rNIEBlBuo5108lnHyGbqJ) | [Citi Zēni](https://open.spotify.com/artist/0kJje6gpjclOrCsPxZtoAW) | [Eat Your Salad](https://open.spotify.com/album/6W0RNAULq6QYSf6cjPl7U2) | 3:01 | 2022-05-12 | 2022-05-21 |
-| [Eat Your Young](https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt) | 4:02 | 2023-03-18 |  |
+| [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-19 |  |
+| [Eat Your Young](https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt) | 4:02 | 2023-03-18 | 2023-03-20 |
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-01-17 | 2022-01-24 |
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2021-08-25 | 2021-10-10 |
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:13 | 2021-10-10 | 2021-11-21 |
@@ -905,7 +906,7 @@
 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2022-09-10 | 2022-09-12 |
 | [Tarp Amžinybės](https://open.spotify.com/track/2o3vkzNw1PQsnjZOoXwgm0) | [Sel](https://open.spotify.com/artist/3x5BNVdaDxbzqEQOxPoQ5F) | [Tarp Amžinybės](https://open.spotify.com/album/3OfeO8Wre3RefYK00ZYq8X) | 3:54 | 2021-11-17 | 2021-11-22 |
 | [Tataki](https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Tataki](https://open.spotify.com/album/2TIki9mmFhTGkyJM0Svses) | 5:28 | 2022-02-11 | 2022-04-20 |
-| [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-02-27 |  |
+| [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-02-27 | 2023-03-20 |
 | [Taunt](https://open.spotify.com/track/0r3QJbwBuR9UL0ai5qDTw7) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 2:13 | 2021-05-13 | 2021-05-16 |
 | [Tave visą](https://open.spotify.com/track/6iOLbYRBFsVyj2aPTdVVaq) | [Garbanotas](https://open.spotify.com/artist/0jFrImCr1OMbuoNCrEYCPU) | [Tave visą](https://open.spotify.com/album/0Mhr79wZfNN08kpBilzL3h) | 3:39 | 2022-12-13 | 2022-12-15 |
 | [tavo tavo](https://open.spotify.com/track/3KJPYKGOhkNDqN6ObDz7jc) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [DEBESIMIS BRAIDYTI](https://open.spotify.com/album/48M4JnKlrmi3WU3KOJr6cO) | 2:48 | 2022-11-12 | 2022-11-16 |
@@ -1003,7 +1004,7 @@
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-30 |
 | [Visiems Reikia Meilės](https://open.spotify.com/track/4YzEkKX4i5s6FJlK9HGB3o) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Visiems Reikia Meilės](https://open.spotify.com/album/0WghARoKRu5Qj2W3yoLHcK) | 2:38 | 2021-12-08 | 2021-12-10 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-29 |
-| [Viskas Ką Turiu](https://open.spotify.com/track/3XxelZxcOZFY4xcXr7ZYvq) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Viskas Ką Turiu](https://open.spotify.com/album/0TYJSkJ5xrMoFWJ8I5Zv0F) | 2:53 | 2022-08-14 | 2023-03-14 |
+| [Viskas Ką Turiu](https://open.spotify.com/track/3XxelZxcOZFY4xcXr7ZYvq) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Viskas Ką Turiu](https://open.spotify.com/album/0TYJSkJ5xrMoFWJ8I5Zv0F) | 2:53 | 2022-08-14 |  |
 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 | 2021-05-21 | 2021-06-05 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-21 | 2021-06-27 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-04-04 | 2022-05-15 |

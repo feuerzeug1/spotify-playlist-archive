@@ -1,12 +1,12 @@
 {
   "description": "Somehow heartbreak feels good in a place like this. Cover: Jenna Raine",
-  "num_followers": 1454063,
+  "num_followers": 1454844,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDlkYjdhNDg1MjExYTBiMjZkYmUwYWM4NWZiMzQzNDY2",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDUxMTYzZDRhYzFjYjA1NzUxMmUyZDU5MTM3ZTkyM2Ey",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 203384,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Dawns (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+      "duration_ms": 208826,
+      "name": "Train Wreck",
+      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "Train Wreck",
-      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "I miss you, I\u2019m sorry",
-      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 218893,
       "name": "Water Fountain",
       "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "I miss you, I\u2019m sorry",
+      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Moral of the Story",
-        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201083,
-      "name": "Moral of the Story",
-      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 230185,
       "name": "Step On Me",
       "url": "https://open.spotify.com/track/6ZaiqbV2GfUtrUlhsu58fN"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Moral of the Story",
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201083,
+      "name": "Moral of the Story",
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "October Passed Me By",
-        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "October Passed Me By",
-      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Just Married",
-      "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 243599,
       "name": "Where do we go now?",
       "url": "https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Just Married",
+      "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "MEAN!",
-        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 143960,
-      "name": "MEAN!",
-      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -1543,18 +1527,34 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "feel like shit",
-        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
+        "name": "MEAN!",
+        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
         }
       ],
-      "duration_ms": 204314,
-      "name": "feel like shit",
-      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
+      "duration_ms": 143960,
+      "name": "MEAN!",
+      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Best Friend Breakup",
+        "url": "https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 141060,
+      "name": "Best Friend Breakup",
+      "url": "https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "feel like shit",
+        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 204314,
+      "name": "feel like shit",
+      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "drowning",
         "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 155591,
       "name": "What Happened to Ryan",
       "url": "https://open.spotify.com/track/0UYNa7reQKIbADXr8iN28w"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Best Friend Breakup",
-        "url": "https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 141060,
-      "name": "Best Friend Breakup",
-      "url": "https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Hurtless",
+        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 180274,
+      "name": "Hurtless",
+      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "trust issues",
         "url": "https://open.spotify.com/album/3DENi04ImVVBYhh3zpfXIN"
       },
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Hurtless",
-        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
         }
       ],
-      "duration_ms": 180274,
-      "name": "Hurtless",
-      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+      "duration_ms": 205462,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1699,22 +1715,6 @@
       "duration_ms": 225446,
       "name": "Roles Reversed",
       "url": "https://open.spotify.com/track/7iinMLIDWw5QA7d6x0d5HJ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 205462,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Used To It",
-        "url": "https://open.spotify.com/album/4QKovzPdcYflzE9Ooe2z8C"
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
       },
       "artists": [
         {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 162873,
-      "name": "Used To It",
-      "url": "https://open.spotify.com/track/4s2wGb58RztbSvjqUK8w0a"
+      "duration_ms": 341733,
+      "name": "Silver Springs - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
+      "url": "https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH"
     }
   ],
   "unique_name": "sad hour",

@@ -11751,6 +11751,24 @@
     },
     {
       "album": {
+        "name": "Silent Moon",
+        "url": "https://open.spotify.com/album/4SGJKdqIfa1siT0tj9Mr3p"
+      },
+      "artists": [
+        {
+          "name": "Yuko Kimura",
+          "url": "https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104503,
+      "name": "Silent Moon",
+      "url": "https://open.spotify.com/track/5Rrq7qUuBV4fcvBV6paaFl"
+    },
+    {
+      "album": {
         "name": "Silent Prayer",
         "url": "https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR"
       },
@@ -13584,7 +13602,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 145263,
       "name": "Tiny Ballerina",
       "url": "https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl"

@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/3P7S6tZqGym23T3otsGCrh"
+      },
+      "artists": [
+        {
+          "name": "Mimis Kitchen Music",
+          "url": "https://open.spotify.com/artist/1vXjLNtbOHr87lnd9CdoY1"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182543,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/5gbhslzsaWjeociHQXuom4"
+    },
+    {
+      "album": {
         "name": "All Add up",
         "url": "https://open.spotify.com/album/2ksp0BhOjEa1vEACZ8WKTB"
       },
@@ -4052,7 +4070,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 236175,
       "name": "BIGGER THAN YOU",
       "url": "https://open.spotify.com/track/4T6lbvUqZyp29NbiRwzIUY"
@@ -8870,7 +8888,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 201240,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/0bMufMFHSHRT8VcHXogI5B"
@@ -8978,7 +8996,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 316659,
       "name": "Desert Psalm",
       "url": "https://open.spotify.com/track/33WihwgoE6i8nZcNhSFBtn"
@@ -11434,7 +11452,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 142333,
       "name": "Fast Food (Take U 2 Go)",
       "url": "https://open.spotify.com/track/1ke59FZ7SOSN15rcp7lqQ9"
@@ -17918,7 +17936,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 214153,
       "name": "INSHIMURA",
       "url": "https://open.spotify.com/track/4qHbSItwbNoC2yIszSt1Es"
@@ -19798,7 +19816,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 195529,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/6b7KIIEgyy3t2yfmReI5Ko"
@@ -21398,7 +21416,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 186775,
       "name": "Love Therapy",
       "url": "https://open.spotify.com/track/0uquBY5npv7rPcrQuJSIgu"
@@ -23962,7 +23980,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 164390,
       "name": "My Own Fleet",
       "url": "https://open.spotify.com/track/4fCT1ApJyzD7plA0T4l3a4"
@@ -24504,7 +24522,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 201263,
       "name": "Nevera",
       "url": "https://open.spotify.com/track/3OYn3qJUZEOEktXWaG2FQU"
@@ -25864,7 +25882,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 175542,
       "name": "One by One",
       "url": "https://open.spotify.com/track/3HJLTTtvVFq6rQBYpc5e7T"
@@ -27202,7 +27220,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 199628,
       "name": "place card",
       "url": "https://open.spotify.com/track/5IK68GpO5jigQjoEabuiLd"
@@ -29338,7 +29356,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 136113,
       "name": "RYB.mp3",
       "url": "https://open.spotify.com/track/3pkR3wTJnxe5RlLUerHrDt"
@@ -29378,7 +29396,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 220432,
       "name": "Sad Baby",
       "url": "https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B"
@@ -29882,7 +29900,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 188280,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/4RaudxrJWcOHElbD8u8RBh"
@@ -30366,7 +30384,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 251053,
       "name": "Shake Me",
       "url": "https://open.spotify.com/track/5DVptkujQ0eKD1nyTQbIMV"
@@ -30754,7 +30772,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 165533,
       "name": "Sincerely Signed",
       "url": "https://open.spotify.com/track/67CUhOOcF46KsToiw1Vfvm"
@@ -32424,7 +32442,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 236921,
       "name": "Sugartime",
       "url": "https://open.spotify.com/track/1AslkSoGsWkcMK9j2sLib8"
@@ -33726,7 +33744,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 250813,
       "name": "Tape Deck",
       "url": "https://open.spotify.com/track/21Q9DEpXi3xM3UPgVmxiyc"
@@ -34208,7 +34226,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 291819,
       "name": "The H",
       "url": "https://open.spotify.com/track/1YgDQvKzNccBrzeS10PhWe"
@@ -35874,7 +35892,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 213150,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/4GASLt4pEfkcCCEYvjBFW6"
@@ -35932,7 +35950,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 208162,
       "name": "TRUTH",
       "url": "https://open.spotify.com/track/4XEdjZKgh49kKLO9xCwrxZ"
@@ -37106,7 +37124,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 215596,
       "name": "Vino y Magia",
       "url": "https://open.spotify.com/track/6kYlANInWA7yfiJ3V5J7tX"
@@ -39446,7 +39464,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 157173,
       "name": "Yo-yo",
       "url": "https://open.spotify.com/track/7CpeVkCFSTX2MYLMhCXAf6"

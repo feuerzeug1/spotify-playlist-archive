@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,893 likes - 75 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,287 likes - 75 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 17 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 6:39 |
 | 18 | [Journey to Arnhemland](https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 5:22 |
 | 19 | [Karmacoma](https://open.spotify.com/track/46bTgJAQkrkNRxMuFnpRyD) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 5:16 |
-| 20 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
-| 21 | [Shaolin Satellite \- Remastered 2022](https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi Fi \(Remastered 2022\)](https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t) | 6:24 |
+| 20 | [Shaolin Satellite \- Remastered 2022](https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi Fi \(Remastered 2022\)](https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t) | 6:24 |
+| 21 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
 | 22 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
 | 23 | [Aftermath](https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 7:38 |
 | 24 | [Sabrosa](https://open.spotify.com/track/3yOhl93toXcntCqDtAI7iL) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The In Sound From Way Out!](https://open.spotify.com/album/0nA01XOVBUoi1zDVVYKz4i) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 74 | [Mugen \- In the Morning](https://open.spotify.com/track/4ayKqsvMn7CTyUg2cZMzLc) | [Major Force West E.M.S\. Orchestra](https://open.spotify.com/artist/0pRKH6lK1VidZ76cfdGx9v) | [Major Force West \('93 \- '97\)](https://open.spotify.com/album/465mxu1pDJsSCXOziGO7ly) | 6:24 |
 | 75 | [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDgxMzlhN2EyMTc0ZGJhYWZjODM0ZGM4MWY5OWZmYzc2`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDEyNmVhMjVhZTBlNjUzY2EwYmRjMDZhYzkyNzk3NzAw`

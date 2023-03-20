@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring LOVRA
 
-945 songs - 2 day 8 hr 8 min
+946 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Bring A Friend](https://open.spotify.com/track/5qvE6RC6vV9Y3bmVL535v6) | [Hood Rich](https://open.spotify.com/artist/6VsCebtxRP7GhBxmOnb2oA) | [Bring A Friend](https://open.spotify.com/album/1ftcMSE9C1ce2wH1O0AUFV) | 3:13 | 2021-11-26 | 2022-01-06 |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-03 | 2022-08-06 |
 | [Bubblin](https://open.spotify.com/track/4zB2zfoyaKdZl0v9IfHUKL) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Bubblin](https://open.spotify.com/album/4rXzTuShibQto3yWnBrApV) | 3:29 | 2022-02-25 | 2022-06-11 |
-| [Bugatti \- Edit](https://open.spotify.com/track/4xY9Nkd8rB6vLut1VcvCTt) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Bugatti](https://open.spotify.com/album/5ziyjHCfXfCQwVJyMcyslv) | 2:55 | 2023-02-17 |  |
+| [Bugatti \- Edit](https://open.spotify.com/track/4xY9Nkd8rB6vLut1VcvCTt) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Bugatti](https://open.spotify.com/album/5ziyjHCfXfCQwVJyMcyslv) | 2:55 | 2023-02-17 | 2023-03-20 |
 | [Bugbeat](https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bugbeat](https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV) | 2:59 | 2023-01-13 |  |
 | [Bump](https://open.spotify.com/track/27X0DzpPoWQrmN1NYQ83Rv) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Bump](https://open.spotify.com/album/1mVjBu4XgPatNN47jCNrUg) | 3:07 | 2022-10-21 | 2022-12-17 |
 | [Bump Grind](https://open.spotify.com/track/23f1lYLTKQ1qwjN7HHLHAK) | [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Bump Grind](https://open.spotify.com/album/0iZTpE6J1rEs6yn8gn2kKb) | 4:04 | 2021-11-26 | 2022-01-06 |
@@ -177,6 +177,7 @@
 | [Deep In Your Heart](https://open.spotify.com/track/4aWzNzb2VXhqQw491l9yB1) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Deep In Your Heart](https://open.spotify.com/album/6wCnIDSFu2IlfLWu5B0L0u) | 2:34 | 2022-10-21 | 2022-11-29 |
 | [Deep Inside Of Me](https://open.spotify.com/track/7j5eg5Mb7n5iapdqY1T74A) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Deep Inside Of Me](https://open.spotify.com/album/5RVbXqlePWY6CrEIWnGpUX) | 3:01 | 2022-07-29 | 2022-09-06 |
 | [Deep State](https://open.spotify.com/track/5T1fza9F8TTuB1pGqDGziH) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Deep State](https://open.spotify.com/album/2GOLTHiwyNWYHQaBuIZASH) | 2:52 | 2022-04-29 | 2022-06-11 |
+| [DEEPFAKE](https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [DEEPFAKE](https://open.spotify.com/album/1nDCAZDIObiigIXZVE82nn) | 2:46 | 2023-03-17 |  |
 | [Defibrillator](https://open.spotify.com/track/5TiZncdB9U1m1WCO89wyYF) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB) | [Defibrillator](https://open.spotify.com/album/3rno4Z2E80NRT2iHuS8dkT) | 2:22 | 2023-01-27 |  |
 | [Demons](https://open.spotify.com/track/5usdD4a3nB3XB2QAqkqAzS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [My Demons](https://open.spotify.com/album/250dVzSQ7jsd6p908mAccd) | 3:36 | 2022-05-20 | 2022-06-18 |
 | [Destino](https://open.spotify.com/track/3UZ3rSxknfT7We3lWc97Sf) | [Mason Maynard](https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3) | [Destino](https://open.spotify.com/album/3BunJsirdTWTv6PShlywv3) | 3:12 | 2022-11-18 | 2022-12-10 |

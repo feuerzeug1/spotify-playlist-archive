@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: エレファントカシマシ
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,212 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,231 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 19 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 |
 | 20 | [Fantasista](https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Fantasista](https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6) | 4:32 |
 | 21 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
-| 22 | [Dreaming of you](https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dreaming of you](https://open.spotify.com/album/4QKClAPe6qbAsbioYnC20S) | 2:33 |
-| 23 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 |
+| 22 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 |
+| 23 | [Dreaming of you](https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dreaming of you](https://open.spotify.com/album/4QKClAPe6qbAsbioYnC20S) | 2:33 |
 | 24 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 25 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
 | 26 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 38 | [THE KEBABSを抱きしめて](https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a) | [THE KEBABS](https://open.spotify.com/artist/59RHw8mybzyMx2euAXycie) | [幸せにしてくれいーぴー](https://open.spotify.com/album/2q37HtYAlyNvkGvKSeojsZ) | 3:33 |
 | 39 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 40 | [One More Time](https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [One More Time](https://open.spotify.com/album/3XKXbGqYOWElmctD6tfrIJ) | 3:27 |
-| 41 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
+| 41 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 |
 | 42 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 |
 | 43 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 44 | [ウェザーリポート](https://open.spotify.com/track/1OpBTBQHigKrOrTJ1SJwOf) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6SmyaO1lx0PJpXb47XLRdv) | 3:11 |
 | 45 | [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 |
 | 46 | [さよならセニョリータ](https://open.spotify.com/track/7u4jJOelFD7OT3KTN1oGfo) | [Oledickfoggy](https://open.spotify.com/artist/0TVLH5zOLVKWvqGcvnWud9) | [残夜の汀線 \-ZANYA NO TEISEN\-](https://open.spotify.com/album/7j53RkEpf9DJcYYhQVE0W8) | 3:39 |
 | 47 | [Fever](https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Fever](https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL) | 3:41 |
-| 48 | [THE PROMISE](https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [THE PROMISE](https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg) | 3:18 |
+| 48 | [EL MARIACHI](https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 3:32 |
 | 49 | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT) | 3:09 |
-| 50 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 |
+| 50 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
 
-Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMGU2NzRiOWQ1MWQyNWUwYWE4MjRkZmNmMDA3ODFkYmJk`
+Snapshot ID: `MTY3ODgwNjAwMCwwMDAwMDAwMDEzN2E2MGM0YmZkNjAxYzUxN2I0M2VkMDY4OTZhOTM2`

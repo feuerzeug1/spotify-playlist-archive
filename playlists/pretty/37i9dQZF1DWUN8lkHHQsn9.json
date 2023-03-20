@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1NTA4OSwwMDAwMDAwMGVmOTk1M2UyOTA0YjljMWIwYWIyNTMzZTA3Yjk0N2U4",
+  "snapshot_id": "MTY3OTA1NTA4OSwwMDAwMDAwMDM0NGI3ZjFkMGRjNTZiMGRjMTVlYzRlMDQwNmJiN2E4",
   "tracks": [
     {
       "added_at": "2023-03-17 12:11:29",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "Spina",
-        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
-      },
-      "artists": [
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        }
-      ],
-      "duration_ms": 213921,
-      "name": "Spina",
-      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
         "name": "Dziewczynka Tatusia",
         "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 190973,
       "name": "Suka jak Ja",
       "url": "https://open.spotify.com/track/7j8UcJ1pQBWHiGadelcYH5"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
+        "name": "Spina",
+        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "duration_ms": 213921,
+      "name": "Spina",
+      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -567,6 +567,26 @@
       "duration_ms": 158787,
       "name": "$WAG (lepi si\u0119 w ch*j)",
       "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
+        "name": "Pokussa Na Parkiecie",
+        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "POKUSSA",
+      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -647,26 +667,6 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "Pokussa Na Parkiecie",
-        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "POKUSSA",
-      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
         "name": "Straty",
         "url": "https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms"
       },
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Nick Sinckler",
-          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
         "name": "Dziewczynka Tatusia",
         "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
       },
@@ -783,6 +763,26 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Nick Sinckler",
+          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
         "name": "Don't Collapse",
         "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 261818,
       "name": "Don't Collapse",
       "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -847,6 +831,22 @@
       "duration_ms": 190443,
       "name": "Przypadki",
       "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 192557,
+      "name": "Tamto Lato",
+      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
         "name": "Kimkolwiek chc\u0119",
         "url": "https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 174637,
       "name": "Kimkolwiek chc\u0119",
       "url": "https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
-        "name": "Obok mnie (Radio edit)",
-        "url": "https://open.spotify.com/album/6m4H7cotFDKmd7dMqna8qO"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Obok mnie - Radio edit",
-      "url": "https://open.spotify.com/track/0YhJgS3GaY3KXsww0gPOdW"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+        "name": "Obok mnie (Radio edit)",
+        "url": "https://open.spotify.com/album/6m4H7cotFDKmd7dMqna8qO"
       },
       "artists": [
         {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
         }
       ],
-      "duration_ms": 192557,
-      "name": "Tamto Lato",
-      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
+      "duration_ms": 162352,
+      "name": "Obok mnie - Radio edit",
+      "url": "https://open.spotify.com/track/0YhJgS3GaY3KXsww0gPOdW"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "Lont",
-        "url": "https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 228472,
-      "name": "Lont",
-      "url": "https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
         "name": "Nie ma",
         "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 359338,
       "name": "JOY",
       "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
+        "name": "Parlez Vous Francais",
+        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
+      },
+      "artists": [
+        {
+          "name": "Julia Bosski",
+          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Parlez Vous Francais",
+      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
     }
   ],
   "unique_name": "GLOW Polska",

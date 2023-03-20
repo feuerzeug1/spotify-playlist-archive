@@ -1253,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
+      },
+      "artists": [
+        {
+          "name": "The Shooters",
+          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178609,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
+    },
+    {
+      "album": {
         "name": "Lightspeed",
         "url": "https://open.spotify.com/album/4NnuKQveWvoRFjl3A0IZqe"
       },
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 167638,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 255000,
       "name": "Rok The House",
       "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
@@ -2674,6 +2692,24 @@
       "duration_ms": 384115,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945"
+    },
+    {
+      "album": {
+        "name": "This Energy EP",
+        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "This Energy",
+      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
     },
     {
       "album": {

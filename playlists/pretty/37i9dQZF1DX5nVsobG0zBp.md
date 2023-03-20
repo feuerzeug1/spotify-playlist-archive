@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,313 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,378 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 67 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
 | 68 | [Man Down](https://open.spotify.com/track/6J6DcdqOLCCA3VZ9mr6VPD) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX), [Fumaxa](https://open.spotify.com/artist/1qMTgrvxRRHO3rflIONsCP) | [Man Down](https://open.spotify.com/album/1S5w4wJZoMPoacHqBWWTwF) | 3:12 |
 | 69 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
-| 70 | [Amazónia](https://open.spotify.com/track/2ySZ2kVCZRQ0gJ5Lu0EoxJ) | [Lutz](https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x) | [Amazónia](https://open.spotify.com/album/5gULMhBkRl7ZCv35O2K5Xm) | 3:14 |
-| 71 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
+| 70 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
+| 71 | [Amazónia](https://open.spotify.com/track/2ySZ2kVCZRQ0gJ5Lu0EoxJ) | [Lutz](https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x) | [Amazónia](https://open.spotify.com/album/5gULMhBkRl7ZCv35O2K5Xm) | 3:14 |
 | 72 | [É ASSIM](https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [É ASSIM](https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu) | 4:09 |
 | 73 | [Melanina](https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Melanina](https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch) | 4:04 |
 | 74 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
 | 75 | [Morte do Artista](https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Morte do Artista](https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL) | 3:27 |
 
-Snapshot ID: `MTY3ODk2NjczMSwwMDAwMDAwMDNjOWIzODAyYjU0OTgzM2M5MTg0ZGRlMTBlMjc1ZTIy`
+Snapshot ID: `MTY3ODk2NjczMSwwMDAwMDAwMDQzZWViM2FjM2NkZmVhMWVlNzZmNjI3MGI4NGExNWQ1`

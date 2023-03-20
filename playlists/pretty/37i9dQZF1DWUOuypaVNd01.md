@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Btrem, Derxan, Major RD, LEALL, $amuka
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,727 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,741 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 16 | [Diz Quem Ta na Pista](https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Rock Danger Worldwide/Chile](https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o) | 3:12 |
 | 17 | [60K](https://open.spotify.com/track/45T7K7sercGwxi5sU4wqAK) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [60K](https://open.spotify.com/album/280tU4xoWJ10EcJoc0YOkT) | 2:38 |
 | 18 | [Nós é Ruim e o Cabelo Ajuda](https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Nós é Ruim e o Cabelo Ajuda](https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY) | 2:35 |
-| 19 | [Lembro](https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Lembro](https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT) | 2:44 |
-| 20 | [Aonde Eu Sou Cria](https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Aonde Eu Sou Cria](https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1) | 2:34 |
+| 19 | [Aonde Eu Sou Cria](https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Aonde Eu Sou Cria](https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1) | 2:34 |
+| 20 | [Lembro](https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Lembro](https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT) | 2:44 |
 | 21 | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl) | 3:27 |
 | 22 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb) | 2:44 |
 | 23 | [Sirenes](https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Sirenes](https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Cardinal](https://open.spotify.com/track/7xH1JULSm0J7vlrSOBVbvQ) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Cardinal](https://open.spotify.com/album/7E8bPBeP9K3LXIWbWaB0Pb) | 3:06 |
 | 50 | [Falcon](https://open.spotify.com/track/6w1q6fG07BBKzCbJ0z7CDk) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Mundo Invertido](https://open.spotify.com/album/5FYBIbs8Lyc2g469Lmot0J) | 3:29 |
 
-Snapshot ID: `MTY3OTAyMjA2MCwwMDAwMDAwMDBhMTRmOWY3N2MxNmFhNmY3ZjU2YzQ1ZTA4MmRiZjQ5`
+Snapshot ID: `MTY3OTAyMjA2MCwwMDAwMDAwMDY0Y2U1ZDQ1MDdjNTIwYjM0MzAxZDg5MjhlMzc5MGI3`

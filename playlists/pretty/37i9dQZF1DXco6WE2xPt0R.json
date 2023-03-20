@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 88362,
+  "num_followers": 88394,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjA2MCwwMDAwMDAwMDMzYzJhMTA4N2FmYjMxODQwMjJmNjZkNjNkZTk2ZDM3",
+  "snapshot_id": "MTY3OTAyMjA2MCwwMDAwMDAwMGYwNTRkMWNjYTZlNzFkOTFhNGRhM2QwMmJjNDZmNjk3",
   "tracks": [
     {
       "added_at": "2023-03-17 03:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-03-17 03:01:00",
       "album": {
-        "name": "Nothing Even Matters",
-        "url": "https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Nothing Even Matters",
-      "url": "https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc"
-    },
-    {
-      "added_at": "2023-03-17 03:01:00",
-      "album": {
         "name": "Very Few Friends",
         "url": "https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 132500,
       "name": "Very Few Friends",
       "url": "https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l"
+    },
+    {
+      "added_at": "2023-03-17 03:01:00",
+      "album": {
+        "name": "Nothing Even Matters",
+        "url": "https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Nothing Even Matters",
+      "url": "https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc"
     },
     {
       "added_at": "2023-03-17 03:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-03-17 03:01:00",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 130981,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
+    },
+    {
+      "added_at": "2023-03-17 03:01:00",
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2023-03-17 03:01:00",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 130981,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
     },
     {
       "added_at": "2023-03-17 03:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-03-17 03:01:00",
       "album": {
-        "name": "November",
-        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 229879,
-      "name": "Summer in November",
-      "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
-    },
-    {
-      "added_at": "2023-03-17 03:01:00",
-      "album": {
         "name": "But You Caint Use My Phone (Mixtape)",
         "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 310809,
       "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
       "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
+    },
+    {
+      "added_at": "2023-03-17 03:01:00",
+      "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 229879,
+      "name": "Summer in November",
+      "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
     },
     {
       "added_at": "2023-03-17 03:01:00",

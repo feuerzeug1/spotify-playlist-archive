@@ -4,7 +4,7 @@
 
 > 
 
-395 songs - 17 hr 27 min
+397 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Bëttr 0ff](https://open.spotify.com/track/0r9ZhD7QEbIAcvfhDkIsdV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:50 | 2023-02-25 |  |
 | [Cab Fare](https://open.spotify.com/track/5Q5Mw2JjkQ5V7jCWhY5xC0) | [Capital STEEZ Archive](https://open.spotify.com/artist/4LHyVZgCe5QLSmCILz5Fvy) | [AmeriKKKan Korruption](https://open.spotify.com/album/77btIQG6LDaCWiWmWtnCXr) | 3:43 | 2023-02-01 |  |
 | [calling](https://open.spotify.com/track/665JLYnKdI4SXeKkE0X5dB) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [K Suave](https://open.spotify.com/artist/5quPjryJ2Pn2qmiPAbGtbz), [EastBayTae](https://open.spotify.com/artist/60fUrp5D4pO5sialH3dqqp), [Rackeduproy](https://open.spotify.com/artist/7GRvL2syhRyTxOEygzQ19q) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 3:01 | 2022-12-21 |  |
+| [Can't Rent Anymore!](https://open.spotify.com/track/5t5AMaa3XhuOitcBTWstWL) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Can't Rent Anymore!](https://open.spotify.com/album/0iH2suaKjEGBeM0JM2JR8O) | 2:41 | 2023-03-19 |  |
 | [Can't Smoke](https://open.spotify.com/track/2O1HUQNmz2aIzOc8U3ggAR) | [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Can't Smoke](https://open.spotify.com/album/0VKqahuccgsXjJsBoUsE2n) | 2:34 | 2022-09-29 |  |
 | [Cant Be Fr](https://open.spotify.com/track/0DKh7FWs9Pb3gRUnREVUKy) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Cant Be Fr](https://open.spotify.com/album/0gtTrk5kZZgmzEKiHUgGky) | 2:03 | 2022-12-01 |  |
 | [Cant Get Caught](https://open.spotify.com/track/7JNB2il7cGawl3ELyMGeZG) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Cant Get Caught](https://open.spotify.com/album/6v0yzOHHpxWtBQTm6bTBOU) | 2:01 | 2023-01-11 |  |
@@ -166,6 +167,7 @@
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-02-14 |  |
 | [I Slay Bitches](https://open.spotify.com/track/5VnSJYbKx5bf26vOFaaVgF) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:50 | 2023-01-03 |  |
 | [i wanna know](https://open.spotify.com/track/2YgvTYJbzUDR1FUXejWGiu) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [K Suave](https://open.spotify.com/artist/5quPjryJ2Pn2qmiPAbGtbz) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 1:59 | 2022-12-21 |  |
+| [I'm The Plug](https://open.spotify.com/track/6bqtKURdSWkInAJHDkuaL0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:00 | 2023-03-19 |  |
 | [IDK](https://open.spotify.com/track/3okt3nuNT8pNPzxuUeDrvL) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:28 | 2023-01-20 |  |
 | [If It Means Anything!](https://open.spotify.com/track/5Y8mZp8WevMgxRqc2uyJsS) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [If It Means Anything!](https://open.spotify.com/album/37MZEYFZ622doZCLUxKVh4) | 2:09 | 2023-02-20 |  |
 | [IG](https://open.spotify.com/track/5e1SWZlh4fcOA1t2QB5QXG) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [IG](https://open.spotify.com/album/1VhKVzWNxkU2a5A5Saip2e) | 3:08 | 2023-03-11 |  |

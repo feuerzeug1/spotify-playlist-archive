@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,822 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,936 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 54 | [Aborrecía](https://open.spotify.com/track/1rxnMP6oWWhWrD11sYqw87) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Aborrecía](https://open.spotify.com/album/4dTKosdwxPvbpBIVSO7pVd) | 2:51 |
 | 55 | [Feliz](https://open.spotify.com/track/3v8D562eKmS74tiio3JLwG) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Feliz](https://open.spotify.com/album/5OryS0f5aSUvZtV5FgLt9t) | 3:18 |
 | 56 | [Anacri Roomies \[001\] \- OKA \(feat\. Juan Rached\)](https://open.spotify.com/track/21i0MbqigzQIrbKaODU77G) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM) | [Anacri Roomies \[001\] \- OKA \(feat\. Juan Rached\)](https://open.spotify.com/album/7MRntyHZTTXU1f2QxNkVRU) | 3:13 |
-| 57 | [Respirar](https://open.spotify.com/track/1GGhhrtbOp1BL2OXYXLtIV) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Respirar](https://open.spotify.com/album/0ABDSOi95uY6U9lAOpkU4r) | 2:52 |
+| 57 | [Respirar](https://open.spotify.com/track/1GGhhrtbOp1BL2OXYXLtIV) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Respirar](https://open.spotify.com/album/0ABDSOi95uY6U9lAOpkU4r) | 2:51 |
 | 58 | [Mijita](https://open.spotify.com/track/1Sov0pi4zkxntdYfcDMV1n) | [Chesca](https://open.spotify.com/artist/1MRWKooJe1RFjLrJcZSui2) | [Mijita](https://open.spotify.com/album/2J3t4QBygIIbVMDqBqeI99) | 5:00 |
 | 59 | [Flashbacks](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Flashbacks](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
 | 60 | [Watersport](https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Watersport](https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg) | 4:01 |

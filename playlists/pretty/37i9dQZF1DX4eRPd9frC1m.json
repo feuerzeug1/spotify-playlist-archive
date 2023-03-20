@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2510940,
+  "num_followers": 2511255,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDZlZTUxZGI5NjFjODk5NjY5Y2ZlNGEzMjYzNjM2ODU3",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGE0YmI0NzljM2EwNjU2YzA5NmFhNDFiMGQ3NjUzOTA0",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "KARMA (With Jazz Cartier)",
-        "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "KARMA (With Jazz Cartier)",
-      "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "PEACE LOVE & WUBZ",
         "url": "https://open.spotify.com/album/60obah4obhSZaLOfxOAwj5"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 240000,
       "name": "PEACE LOVE & WUBZ",
       "url": "https://open.spotify.com/track/776eASGwFLhvAUYmWZvwrL"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "KARMA (With Jazz Cartier)",
+        "url": "https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "KARMA (With Jazz Cartier)",
+      "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Gainz",
-        "url": "https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr"
-      },
-      "artists": [
-        {
-          "name": "Deadlyft",
-          "url": "https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Gainz",
-      "url": "https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "NEW WIP",
         "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 186400,
       "name": "NEW WIP",
       "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Gainz",
+        "url": "https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr"
+      },
+      "artists": [
+        {
+          "name": "Deadlyft",
+          "url": "https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Gainz",
+      "url": "https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU"
     },
     {
       "added_at": "2023-02-24 05:00:00",

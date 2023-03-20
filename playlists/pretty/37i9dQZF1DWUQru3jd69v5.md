@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Skinny in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,811 likes - 70 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,832 likes - 70 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 48 | [Me vs\. The World](https://open.spotify.com/track/69QDwkWwn4dP5Nccf9QF3S) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [...Me vs\. The World](https://open.spotify.com/album/0cCx4pBExwplLGU6VOSMmh) | 2:12 |
 | 49 | [HOT](https://open.spotify.com/track/6VEEoOaX6CXy8eejTQw40J) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [HOT](https://open.spotify.com/album/5vF1oUEwXJeNn7TqpXGG8N) | 2:26 |
 | 50 | [No Gangsta \(feat\. Diss Gacha\)](https://open.spotify.com/track/7jchp8dvNtPolD0UJHjDLs) | [Yamba](https://open.spotify.com/artist/5cmAoURYGVEFe0FyqQ127T), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [No Gangsta \(feat\. Diss Gacha\)](https://open.spotify.com/album/1FCvC9JiVSiFYxyguzXb4B) | 2:31 |
-| 51 | [Cancellami](https://open.spotify.com/track/10S27JSB5fgrOgexZ8ZRq5) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [KIVI](https://open.spotify.com/artist/59cW56mLjMBzSNwbSSHnjj) | [Cancellami](https://open.spotify.com/album/0Sfv0G9vhU4vPcDyCLR23J) | 2:26 |
+| 51 | [Cancellami](https://open.spotify.com/track/10S27JSB5fgrOgexZ8ZRq5) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [KIVI](https://open.spotify.com/artist/6jgyGThYIMlvjw6J9MIggu) | [Cancellami](https://open.spotify.com/album/0Sfv0G9vhU4vPcDyCLR23J) | 2:26 |
 | 52 | [COCCO \(feat\. Touchè, 8blevrai\)](https://open.spotify.com/track/0dal7CKBaE8gFFKAz5OpKj) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 3:15 |
 | 53 | [YOUSSEF](https://open.spotify.com/track/0R6KCfzkmpudxNXKfp0QrC) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [YOUSSEF](https://open.spotify.com/album/7Ie4u4mtk1TxS01II2aj7p) | 3:22 |
 | 54 | [BLED](https://open.spotify.com/track/5Yv4lgEsLZzOg0JPIuTytj) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Willy](https://open.spotify.com/artist/3OPPr0QwjBGnWfaVkxBTow) | [BLED](https://open.spotify.com/album/1S8kI7xZRJUrfBjNpOFqoV) | 2:58 |

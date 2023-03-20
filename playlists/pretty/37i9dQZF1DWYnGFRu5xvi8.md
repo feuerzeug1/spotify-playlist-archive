@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,446 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,472 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 73 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 |
 | 74 | [New Bodhum](https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:39 |
 | 75 | [Sunset Path](https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 5:43 |
-| 76 | [Welcome Home \- Journey's End](https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau) | 3:19 |
+| 76 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
 | 77 | [Luca](https://open.spotify.com/track/0ZWbnEsONhMZI7gpKOFMcu) | [Junya Nakano](https://open.spotify.com/artist/6MmPy3kU5brlgFNlQP5ACa) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:41 |
 | 78 | [Kimi ga Irukara \- Long Version](https://open.spotify.com/track/1imcmfDpv4X4MO2tbYxMaY) | [Sayuri Sugawara](https://open.spotify.com/artist/5GpBU9V9SOJoWjZ6l1VMNa) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 6:22 |
-| 79 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
+| 79 | [Welcome Home \- Journey's End](https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau) | 3:19 |
 | 80 | [EPISODE IGNIS \- The Main Theme](https://open.spotify.com/track/449Oasrv2je2rsDaTp7dkS) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:34 |
 | 81 | [Melodies of Life \(The Layers of Harmony\)](https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 3:21 |
 | 82 | [Starting Over](https://open.spotify.com/track/2v7T65sRJlhytPQSqrnQ6L) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [「Battle at the Big Bridge \- arrange \-」 from FINAL FANTASY V](https://open.spotify.com/track/4mhti55dmnpfcWliFxwyOV) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:29 |
 | 100 | [Penelo's Theme](https://open.spotify.com/track/3JOMe1Euw73kqH2qb4dRJX) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 2:56 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMGRmYjFlYTg2MDhkZTZiNzNhMDIyMjFlZjUxM2U2YjBm`
+Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDliZGI2NGNiMDllNWM1MjY3MTUxZTFmNmUwNWRjMzEy`

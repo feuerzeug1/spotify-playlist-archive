@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 154313,
+  "num_followers": 154421,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDQ0MmE1ZDYzMGNjMDg3YmNlZTE2MGE3MGMyNGI5NTg1",
+  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMGFlNWQ5M2FkMTlhNzZjMTViYjEyMTFlZmQxYzliMThl",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS"
-      },
-      "artists": [
-        {
-          "name": "Raphy Leavitt",
-          "url": "https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Siempre Alegre",
-      "url": "https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 211200,
       "name": "Comedia",
       "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS"
+      },
+      "artists": [
+        {
+          "name": "Raphy Leavitt",
+          "url": "https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Siempre Alegre",
+      "url": "https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp"
     },
     {
       "added_at": "2022-02-18 16:03:15",

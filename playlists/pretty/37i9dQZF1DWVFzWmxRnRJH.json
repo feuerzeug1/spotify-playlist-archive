@@ -1,12 +1,12 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 198588,
+  "num_followers": 198786,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMDE0MGNlMzZhNzcwY2RhMjI0NzM0MDNiNDJiNzJkMWVj",
+  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMDQ0Mzk0YTY5MjI3MmY5ZGU5OTMyOTUyMTg0YTc0OTYy",
   "tracks": [
     {
       "added_at": "2021-09-23 20:29:34",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Always Never The Same",
-        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Write This Down",
-      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -779,22 +779,6 @@
       "duration_ms": 166173,
       "name": "What Part of No",
       "url": "https://open.spotify.com/track/00klSin5es2cwPgZf103Fz"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
-      },
-      "artists": [
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -879,6 +863,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Always Never The Same",
+        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Write This Down",
+      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "Diamond Rio",
         "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Old 8 x 10",
-        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
+        "name": "Rhinestone Cowboy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Deeper Than the Holler",
-      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
+      "duration_ms": 194453,
+      "name": "Rhinestone Cowboy",
+      "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -927,18 +927,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Rhinestone Cowboy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky"
+        "name": "Old 8 x 10",
+        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
       },
       "artists": [
         {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 194453,
-      "name": "Rhinestone Cowboy",
-      "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
+      "duration_ms": 219080,
+      "name": "Deeper Than the Holler",
+      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1101,6 +1101,22 @@
       "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
     },
     {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Tim McGraw",
+      "url": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa"
+    },
+    {
       "added_at": "2021-12-06 15:54:08",
       "album": {
         "name": "My Kind Of Livin'",
@@ -1147,22 +1163,6 @@
       "duration_ms": 224960,
       "name": "You're Gonna Miss This",
       "url": "https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Tim McGraw",
-      "url": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Make It Sweet",
-      "url": "https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 147306,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Make It Sweet",
+      "url": "https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
     },
     {
-      "added_at": "2021-12-06 15:54:08",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
-      },
-      "artists": [
-        {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
-        }
-      ],
-      "duration_ms": 301986,
-      "name": "A Little Bit Stronger",
-      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
-    },
-    {
       "added_at": "2021-09-23 20:29:34",
       "album": {
         "name": "Livin' It Up",
@@ -1307,6 +1291,22 @@
       "duration_ms": 187000,
       "name": "Love Without End, Amen",
       "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
+    },
+    {
+      "added_at": "2021-12-06 15:54:08",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "A Little Bit Stronger",
+      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+        "name": "Martina",
+        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
       },
       "artists": [
         {
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
         }
       ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+      "duration_ms": 243160,
+      "name": "This One's for the Girls",
+      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Don't Take The Girl",
-      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Let's Be Us Again",
         "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 208693,
       "name": "Mr. Mom",
       "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Don't Take The Girl",
+      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1567,8 +1567,8 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Martina",
-        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
       },
       "artists": [
         {
@@ -1576,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
         }
       ],
-      "duration_ms": 243160,
-      "name": "This One's for the Girls",
-      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
     },
     {
       "added_at": "2021-09-23 20:29:34",

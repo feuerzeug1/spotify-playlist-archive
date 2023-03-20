@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,452 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,516 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 7 | [Let's Work Together](https://open.spotify.com/track/7vJaNv4ItDyYXXCVRJreh6) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Future Blues \(Expanded Edition\)](https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh) | 3:13 |
 | 8 | [Mama Kin](https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:29 |
 | 9 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 |
-| 10 | [Smokin' in the Boy's Room](https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ) | [Brownsville Station](https://open.spotify.com/artist/67SxctqWYOGe8lthWjTDwu) | [Yeah! \(US Internet Release\)](https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3) | 2:56 |
-| 11 | [Happy](https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 3:04 |
+| 10 | [Happy](https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 3:04 |
+| 11 | [Smokin' in the Boy's Room](https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ) | [Brownsville Station](https://open.spotify.com/artist/67SxctqWYOGe8lthWjTDwu) | [Yeah! \(US Internet Release\)](https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3) | 2:56 |
 | 12 | [Rockin' All Over The World](https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:37 |
 | 13 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 |
 | 14 | [James Dean \- 2013 Remaster](https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
 | 50 | [Bourbon](https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Jinx \(Remastered 2017\)](https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS) | 3:54 |
 
-Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMDhjZGFjNTU2NDgyYTczMmQ2MGViZDRkZWQyMjljMzM2`
+Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMGRkYzRmYzQwZmQzMWJkZTNjNTkyZmFjMzM2NmJjOTll`

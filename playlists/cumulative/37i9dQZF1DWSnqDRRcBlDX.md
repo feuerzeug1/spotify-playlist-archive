@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-104 songs - 10 hr 25 min
+105 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Cold Sweat](https://open.spotify.com/track/7hrWiv1rLsaWyLgqOJCtTX) | [Raven \(CA\)](https://open.spotify.com/artist/3zGDiGMgTIfAG3GnXEBjHB) | [Mania](https://open.spotify.com/album/7eQ3lcc0k6OE4jiujBOyxE) | 5:08 | 2022-12-02 | 2023-01-28 |
 | [Conflict](https://open.spotify.com/track/52NB4f71xepo93DrRtoFFk) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Kriptika records 004A](https://open.spotify.com/album/4Fq95fQ2Rj0Ygt09Tnga8t) | 5:17 | 2023-01-27 |  |
 | [Creeper x Swamplyfe \- Nene H Remix](https://open.spotify.com/track/3O1ITBiIyA86GVLfSVNf2R) | [peachlyfe](https://open.spotify.com/artist/7z5jhhZFj3xUTxipinFogh), [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [Swamplyfe](https://open.spotify.com/album/5xD5QYdp2mgQMtl0KDiXjq) | 5:10 | 2022-12-02 |  |
-| [Croydon Girl](https://open.spotify.com/track/0gMWkR6pfuaBcW2HHEhGvt) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [SUF 100](https://open.spotify.com/album/2DleJNXcZsmefAFLk1oQPn) | 7:05 | 2023-01-27 |  |
+| [Croydon Girl](https://open.spotify.com/track/0gMWkR6pfuaBcW2HHEhGvt) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [SUF 100](https://open.spotify.com/album/2DleJNXcZsmefAFLk1oQPn) | 7:05 | 2023-01-27 | 2023-03-20 |
+| [Croydon Girl](https://open.spotify.com/track/2jcypV3SSKwBjEluT65m8A) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [SUF 100](https://open.spotify.com/album/2zcC67qTy18vVfW8Y7nySA) | 7:05 | 2023-02-10 |  |
 | [Dark Flag](https://open.spotify.com/track/5IlnX8tihktbDmqdG5EMaS) | [Blicz](https://open.spotify.com/artist/3PnWOaMJ1XWctt7UBJuwz0) | [Piracy Never Ending](https://open.spotify.com/album/6k61qtYlsZf5zxdSOV7y5Z) | 6:14 | 2022-12-02 | 2023-01-28 |
 | [Dawn of a New Age](https://open.spotify.com/track/0zOXZJUMGfra55i2THlBGw) | [LuizFribs](https://open.spotify.com/artist/0WsCn0MJy2wadsvVOd0ZSw) | [The Gomboc Stone](https://open.spotify.com/album/01QJogXBejPUvm2RDZQBUG) | 5:53 | 2023-01-27 |  |
 | [Defying Social Etiquette](https://open.spotify.com/track/7i2eV6Vyt2H0BOKh8qLjrE) | [Rave Syndicate](https://open.spotify.com/artist/04qJlRr9XEImp1vxO7M37U) | [Kingdom Of Ashes LP](https://open.spotify.com/album/7CF8LxcKxM9tTGUNTMkvLr) | 5:44 | 2022-12-02 | 2023-01-28 |

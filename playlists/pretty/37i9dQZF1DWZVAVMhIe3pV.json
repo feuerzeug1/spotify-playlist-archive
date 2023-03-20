@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 289575,
+  "num_followers": 289846,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyOTI0NSwwMDAwMDAwMDgwYWYwNjI0ZjQwM2I3ZDZhN2JkYzkxMmI0OTAyZjUx",
+  "snapshot_id": "MTY3ODgyOTI0NSwwMDAwMDAwMDkxM2E0MGUwM2I2OTRmODgwYmRlMTc3MmYwZmRhYTQ5",
   "tracks": [
     {
       "added_at": "2023-03-14 21:27:25",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 222813,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -519,22 +535,6 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Eye Of The Tiger",
         "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 243773,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "One-X",
-        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Animal I Have Become",
-      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 211933,
       "name": "Are You Gonna Go My Way",
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Animal I Have Become",
+      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Sharp Dressed Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 193653,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Sharp Dressed Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 229933,
-      "name": "Feel Invincible",
-      "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
+      "duration_ms": 317426,
+      "name": "Shoot to Thrill",
+      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 317426,
-      "name": "Shoot to Thrill",
-      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
+      "duration_ms": 229933,
+      "name": "Feel Invincible",
+      "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 257053,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Ram Jam",
         "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 238973,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 257053,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "abcdefu (angrier)",
-        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
+        "name": "Karma and Effect",
+        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 159836,
-      "name": "abcdefu (angrier)",
-      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
+      "duration_ms": 207213,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
+        "name": "abcdefu (angrier)",
+        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 159836,
+      "name": "abcdefu (angrier)",
+      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
         "name": "Dirt (2022 Remaster)",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 374333,
       "name": "Rooster (2022 Remaster)",
       "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Lifestyles of the Rich & Famous",
-      "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 213933,
-      "name": "Somewhere I Belong",
-      "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
+      "duration_ms": 190173,
+      "name": "Lifestyles of the Rich & Famous",
+      "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1319,6 +1303,22 @@
       "duration_ms": 211706,
       "name": "Bohemian Like You",
       "url": "https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Somewhere I Belong",
+      "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
     },
     {
       "added_at": "2023-03-14 21:27:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,365 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,398 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 57 | [Blueberry Hill](https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z) | [Esben Just](https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ) | [Keep It Coming](https://open.spotify.com/album/169PS1pKQBPMCszDnERktt) | 2:26 |
 | 58 | [Boogie Woogie Storm](https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg) | [Martin Pyrker, Sabine Pyrker](https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt) | [Boogie Woogie Storm](https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW) | 2:54 |
 | 59 | [Barrelhouse Boogie](https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 3:03 |
-| 60 | [Bluegrass Boogie Woogie](https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:20 |
-| 61 | [Get in the Groove, Boys!](https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS) | [Henning Pertiet](https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5) | [Boogie Woogie](https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE) | 3:18 |
-| 62 | [Count Basie's Red Bank Cafe](https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2) | [Floyd Domino](https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2) | [Hightower Boogie Woogie](https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0) | 2:39 |
-| 63 | [Marie](https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Boogie Woogie 50](https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK) | 2:30 |
-| 64 | [Boogie In The City](https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL) | [Dave Taylor](https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8) | [This Is Boogie Woogie!](https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP) | 2:34 |
+| 60 | [Count Basie's Red Bank Cafe](https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2) | [Floyd Domino](https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2) | [Hightower Boogie Woogie](https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0) | 2:39 |
+| 61 | [Bluegrass Boogie Woogie](https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:20 |
+| 62 | [Get in the Groove, Boys!](https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS) | [Henning Pertiet](https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5) | [Boogie Woogie](https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE) | 3:18 |
+| 63 | [Boogie In The City](https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL) | [Dave Taylor](https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8) | [This Is Boogie Woogie!](https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP) | 2:34 |
+| 64 | [Marie](https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Boogie Woogie 50](https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK) | 2:30 |
 | 65 | [Boyd's Boogie Woogie](https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2), [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ), [Speckled Red](https://open.spotify.com/artist/2TLqxQWKzeqnaovkTxI3TV), [Little Brother Montgomery](https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz), [Jack Dupree](https://open.spotify.com/artist/0Ay8TJXZ9sY3Z6rBWTZLBn) | [Barrelhouse, Blues & Boogie Woogie Vol\. II](https://open.spotify.com/album/2DehuHmdGcw5ne1lObIZAN) | 2:11 |
 | 66 | [Chimes Blues](https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd) | [Cow Cow Davenport Vol\. 1 \(1925\-1929\)](https://open.spotify.com/album/5akjiDx2OnmsHOdBn1Wlbs) | 3:19 |
 | 67 | [Piggly Wiggly Blues](https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5) | [James Crutchfield](https://open.spotify.com/artist/0sI1SWCDI7JGeEhEuLaOoc) | [St\. Louis Blues Piano Man](https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 74 | [Twelfth St\. Boogie](https://open.spotify.com/track/54Yn0omLZ35iMhBZNKUrSj) | [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [Boogie Woogie Piano Stylings](https://open.spotify.com/album/0sXbXrEgNsJWIRm86tkcyP) | 2:45 |
 | 75 | [Yancey Stomp](https://open.spotify.com/track/2rQ7wBq2aglvwDgRS9mPmx) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:52 |
 
-Snapshot ID: `MTY3MzU1NzI2OSwwMDAwMDAwMDlmZDY1MmFkMTNjMzlkNjU3NmVmZDI0ZDc1MzZlNjRj`
+Snapshot ID: `MTY3MzU1NzI2OSwwMDAwMDAwMDZhNjU2NzM1NmE1MzI3YjZjZDU2NjUwNTVlNGU5Zjk2`

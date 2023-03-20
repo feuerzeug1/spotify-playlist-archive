@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,946 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,963 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 48 | [Suitable](https://open.spotify.com/track/6SvHJZNQfAZiFcZmuFGa6v) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Suitable](https://open.spotify.com/album/1jN5or6nocHJEg2sHYf67n) | 3:04 |
 | 49 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
 | 50 | [Enough for Love](https://open.spotify.com/track/5ipyh2SML7XT0dfj38ln2w) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Enough For Love](https://open.spotify.com/album/43f412bly0VRYkVEbEehG3) | 4:25 |
-| 51 | [Inhale / Exhale](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 |
+| 51 | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 |
 | 52 | [HIKIGANE](https://open.spotify.com/track/4AyPOsCyA8BoH5MgmPjZ4A) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [DRAFT ONE](https://open.spotify.com/album/2yMZlPUpcOWG2oc0f9dihT) | 2:33 |
 | 53 | [Obvious \(feat\. Muni Long\)](https://open.spotify.com/track/2HXb9BYC7dPcrmcJi18GrZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 3:39 |
 | 54 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 |

@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
+    },
+    {
+      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },

@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-289 songs - 18 hr 57 min
+290 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Lazy Strut](https://open.spotify.com/track/5pavJrzDLfSRYMl62vfcIq) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Lazy Strut](https://open.spotify.com/album/1EgId70A7PePFMKuuJOyIF) | 3:24 | 2022-06-29 | 2022-11-13 |
 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-29 |  |
+| [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-16 |  |
 | [Lola and Kirby](https://open.spotify.com/track/1vQoF7wKfKt2WWIDePABo3) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 4:41 | 2022-09-29 |  |
 | [Long Ago \(and Far Away\)](https://open.spotify.com/track/3TiEf1n50RsKFERybqGm2s) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:29 | 2022-06-29 | 2022-11-25 |
 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 | 2022-06-29 |  |
@@ -283,7 +284,7 @@
 | [When Sunny Gets Blue](https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Before You Leave](https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf) | 3:59 | 2022-06-29 |  |
 | [When we danced](https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [When we danced](https://open.spotify.com/album/1nx9sZzwa022j2IF1leM6D) | 4:29 | 2022-11-17 |  |
 | [When We Were Young](https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:59 | 2022-11-10 |  |
-| [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 | 2022-06-29 |  |
+| [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 | 2022-06-29 | 2023-03-20 |
 | [When You're Here](https://open.spotify.com/track/0oXrVmcJVCd7043iyHmmUI) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 5:21 | 2023-02-02 |  |
 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 | 2022-11-24 |  |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2022-06-29 |  |

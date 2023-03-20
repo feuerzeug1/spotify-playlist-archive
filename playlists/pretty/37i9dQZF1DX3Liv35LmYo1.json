@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 103013,
+  "num_followers": 103058,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk3MTYwMCwwMDAwMDAwMDc5ODQ4ZDg2NWI3NGYxMTA0MzU2OWE2ZWU3ZDQwZDky",
+  "snapshot_id": "MTY3ODk3MTYwMCwwMDAwMDAwMDRjMTRmYmIwNTFkNGUwZTg2NTRkZmM5NTNkMzc2M2Mw",
   "tracks": [
     {
       "added_at": "2023-03-02 13:00:00",
@@ -111,26 +111,18 @@
     {
       "added_at": "2023-03-02 13:00:00",
       "album": {
-        "name": "COPY COPY (Logic1000 & Big Ever Remix)",
-        "url": "https://open.spotify.com/album/3fVnUAAyQFgv8LhjtSKMDs"
+        "name": "I Just Want To Love You",
+        "url": "https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4"
       },
       "artists": [
         {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        },
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Big Ever",
-          "url": "https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56"
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
         }
       ],
-      "duration_ms": 255133,
-      "name": "COPY COPY - Logic1000 & Big Ever Remix",
-      "url": "https://open.spotify.com/track/44oj6fg5Wj1EdIcWGGuoTF"
+      "duration_ms": 230643,
+      "name": "I Just Want To Love You",
+      "url": "https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4"
     },
     {
       "added_at": "2023-03-02 13:00:00",
@@ -151,18 +143,26 @@
     {
       "added_at": "2023-03-02 13:00:00",
       "album": {
-        "name": "I Just Want To Love You",
-        "url": "https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4"
+        "name": "COPY COPY (Logic1000 & Big Ever Remix)",
+        "url": "https://open.spotify.com/album/3fVnUAAyQFgv8LhjtSKMDs"
       },
       "artists": [
         {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Big Ever",
+          "url": "https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56"
         }
       ],
-      "duration_ms": 230643,
-      "name": "I Just Want To Love You",
-      "url": "https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4"
+      "duration_ms": 255133,
+      "name": "COPY COPY - Logic1000 & Big Ever Remix",
+      "url": "https://open.spotify.com/track/44oj6fg5Wj1EdIcWGGuoTF"
     },
     {
       "added_at": "2023-03-02 13:00:00",
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
     },
     {
-      "added_at": "2023-03-19 01:24:08",
+      "added_at": "2023-03-20 00:52:27",
       "album": {
         "name": "Domenico",
         "url": "https://open.spotify.com/album/0DhbY3VlbKpUABz7i6gUne"
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-02 13:00:00",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
-      },
-      "artists": [
-        {
-          "name": "OLAN",
-          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
-        }
-      ],
-      "duration_ms": 224655,
-      "name": "Contra",
-      "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
-    },
-    {
-      "added_at": "2023-03-02 13:00:00",
-      "album": {
         "name": "breath tapes",
         "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 215222,
       "name": "suddenly",
       "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
+    },
+    {
+      "added_at": "2023-03-02 13:00:00",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
+      },
+      "artists": [
+        {
+          "name": "OLAN",
+          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
+        }
+      ],
+      "duration_ms": 224655,
+      "name": "Contra",
+      "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
     },
     {
       "added_at": "2023-03-02 13:00:00",
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po"
     },
     {
-      "added_at": "2023-03-19 01:24:08",
+      "added_at": "2023-03-20 00:52:27",
       "album": {
         "name": "CROOK",
         "url": "https://open.spotify.com/album/4I1K9n6EPW7AwwXtrrCDTC"
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-02 13:00:00",
       "album": {
-        "name": "Call of the Whipbird",
-        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
-      },
-      "artists": [
-        {
-          "name": "Subset",
-          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
-        }
-      ],
-      "duration_ms": 388735,
-      "name": "Whipbird Dub",
-      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
-    },
-    {
-      "added_at": "2023-03-02 13:00:00",
-      "album": {
         "name": "Closure (feat. Helena)",
         "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 270536,
       "name": "Closure (feat. Helena)",
       "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
+    },
+    {
+      "added_at": "2023-03-02 13:00:00",
+      "album": {
+        "name": "Call of the Whipbird",
+        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
+      },
+      "artists": [
+        {
+          "name": "Subset",
+          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
+        }
+      ],
+      "duration_ms": 388735,
+      "name": "Whipbird Dub",
+      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
     },
     {
       "added_at": "2023-03-02 13:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-03-02 13:00:00",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+        "name": "meserole",
+        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
       },
       "artists": [
         {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+      "duration_ms": 213760,
+      "name": "meserole",
+      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
     },
     {
       "added_at": "2023-03-02 13:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-03-02 13:00:00",
       "album": {
-        "name": "meserole",
-        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
       },
       "artists": [
         {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
         }
       ],
-      "duration_ms": 213760,
-      "name": "meserole",
-      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-03-02 13:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-02 13:00:00",
       "album": {
-        "name": "Poly 61",
-        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 273300,
-      "name": "Poly 61",
-      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
-    },
-    {
-      "added_at": "2023-03-02 13:00:00",
-      "album": {
         "name": "Control EP",
         "url": "https://open.spotify.com/album/5XqTrQdLMhuCxtxKwxDTFx"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 239678,
       "name": "Control",
       "url": "https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2"
+    },
+    {
+      "added_at": "2023-03-02 13:00:00",
+      "album": {
+        "name": "Poly 61",
+        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 273300,
+      "name": "Poly 61",
+      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
     },
     {
       "added_at": "2023-03-02 13:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-02 13:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
-    },
-    {
-      "added_at": "2023-03-02 13:00:00",
-      "album": {
         "name": "Is It Me",
         "url": "https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 256000,
       "name": "Is It Me",
       "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
+    },
+    {
+      "added_at": "2023-03-02 13:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-03-02 13:00:00",

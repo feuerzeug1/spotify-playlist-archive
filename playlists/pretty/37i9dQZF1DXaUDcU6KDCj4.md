@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Oliver Hazard
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,806 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,946 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 35 | [Take It Away \- Pt\. B](https://open.spotify.com/track/7DsQSKvFdDz2FkEy8n22hy) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Take It Away](https://open.spotify.com/album/3387BxSFngr5GZLszB9kdb) | 2:10 |
 | 36 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
 | 37 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
-| 38 | [Silence,](https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [silence,](https://open.spotify.com/album/251r2PWSCJrFdZDmgxUuA1) | 2:47 |
+| 38 | [silence,](https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [silence,](https://open.spotify.com/album/251r2PWSCJrFdZDmgxUuA1) | 2:47 |
 | 39 | [Let Go](https://open.spotify.com/track/3C37PWNd6ojQD8OhIp9aKu) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Let Go](https://open.spotify.com/album/6Am8g1lq0cXcOCmv5fwnzk) | 4:00 |
 | 40 | [Samalaman Bay](https://open.spotify.com/track/07AYFRDZ0FVvq7sQHk8ERu) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Samalaman Bay](https://open.spotify.com/album/0dfjXx1pW6HZ3Ihf8qFuEs) | 3:55 |
 | 41 | [pawnshop](https://open.spotify.com/track/3twrw5DVZcnfQb1jtEF4ca) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [pawnshop](https://open.spotify.com/album/1ucS4Cudh8WLQDIi7KZTDb) | 2:38 |

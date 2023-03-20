@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,971 likes - 46 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,249 likes - 46 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 14 | [All About Our Love](https://open.spotify.com/track/0TZOdKFWNYfnwewAP8R4D8) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 2:40 |
 | 15 | [Nothing Can Come Between Us](https://open.spotify.com/track/0qU806xTLhuZ5kCrex2x4r) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:54 |
 | 16 | [When Am I Going to Make a Living](https://open.spotify.com/track/5DYD5pUUnf3MT6LafqPqOt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 3:25 |
-| 17 | [In Another Time](https://open.spotify.com/track/1DKYtHoBNbqjMLqvpw7o73) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 5:04 |
+| 17 | [Long Hard Road](https://open.spotify.com/track/54jCmeAxT4NZMav0qQYC7P) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:01 |
 | 18 | [King of Sorrow](https://open.spotify.com/track/0qQcQIj6htaCX7KFrsciNU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:53 |
 | 19 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 |
-| 20 | [Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 6:21 |
-| 21 | [Long Hard Road](https://open.spotify.com/track/54jCmeAxT4NZMav0qQYC7P) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:01 |
-| 22 | [Clean Heart](https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:01 |
+| 20 | [Clean Heart](https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:01 |
+| 21 | [In Another Time](https://open.spotify.com/track/1DKYtHoBNbqjMLqvpw7o73) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 5:04 |
+| 22 | [Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 6:21 |
 | 23 | [Never as Good as the First Time](https://open.spotify.com/track/1OefsOF4JwGjOeLiWuUKTI) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:57 |
 | 24 | [Why Can't We Live Together](https://open.spotify.com/track/7pd7fTNMtn4jRv80CSdgcq) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 5:28 |
 | 25 | [Somebody Already Broke My Heart](https://open.spotify.com/track/6bFGd2OxhPMgarpYVVncRC) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 5:01 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 45 | [Tar Baby](https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 3:58 |
 | 46 | [Fear](https://open.spotify.com/track/6iaOeExRsgRStLOhSOmJUx) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:09 |
 
-Snapshot ID: `Mjc5ODQyNjYsMDAwMDAwMDA5NWM3ZWNlMGQzMDJlYTk1NGQ1NDQ4ZjU2NmM1ZTkwYg==`
+Snapshot ID: `Mjc5ODcxNjUsMDAwMDAwMDA2YzhiYWU3NDc4NzUwOGU0Mjk5Y2ZhNTFiMjY4MjVmOQ==`

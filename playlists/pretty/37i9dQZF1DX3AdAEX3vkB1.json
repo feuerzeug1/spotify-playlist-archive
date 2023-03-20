@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 172113,
+  "num_followers": 172409,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTUxNCwwMDAwMDAwMGZjY2NhYWZjYjM4MDBkOGQ0YWQ1YjI4MDVmODMzYTQw",
+  "snapshot_id": "MTY2OTk2NTUxNCwwMDAwMDAwMDNkNjUwMWZhZmQyMDc5OTMzZWM5MzkwZWVjMGJjM2Uy",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Presenting the Fabulous Ronettes Featuring Veronica",
         "url": "https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street - Stereo",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street - Stereo",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Please Mr. Postman",
-        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 148040,
-      "name": "Please Mr. Postman - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Please Mr. Postman",
+        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Gimme Some Loving / Blues In F",
         "url": "https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 178840,
       "name": "Gimme Some Lovin' - Single Mix",
       "url": "https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hippy Hippy Shake: The Definitive Collection",
-        "url": "https://open.spotify.com/album/13ZC2VmGjygvRW9ACiE5uN"
-      },
-      "artists": [
-        {
-          "name": "The Swinging Blue Jeans",
-          "url": "https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH"
-        }
-      ],
-      "duration_ms": 106066,
-      "name": "The Hippy Hippy Shake",
-      "url": "https://open.spotify.com/track/3rV13eMQR0G93DEYhpB09B"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Hippy Hippy Shake: The Definitive Collection",
+        "url": "https://open.spotify.com/album/13ZC2VmGjygvRW9ACiE5uN"
+      },
+      "artists": [
+        {
+          "name": "The Swinging Blue Jeans",
+          "url": "https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH"
+        }
+      ],
+      "duration_ms": 106066,
+      "name": "The Hippy Hippy Shake",
+      "url": "https://open.spotify.com/track/3rV13eMQR0G93DEYhpB09B"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Twist & Shout",
         "url": "https://open.spotify.com/album/7jfWeD13O9Y9AOdVSMtGDT"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 128173,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 162866,
       "name": "These Boots Are Made for Walkin'",
       "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 128173,
+      "name": "Papa's Got A Brand New Bag",
+      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
-      },
-      "artists": [
-        {
-          "name": "The Exciters",
-          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Tell Him - Single Version",
-      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 153093,
       "name": "Speedy Gonzales",
       "url": "https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
+      },
+      "artists": [
+        {
+          "name": "The Exciters",
+          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Tell Him - Single Version",
+      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Helen Shapiro",
+        "url": "https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz"
+      },
+      "artists": [
+        {
+          "name": "Helen Shapiro",
+          "url": "https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "Walkin' Back to Happiness",
+      "url": "https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "No Place To Hide",
         "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
       },
@@ -1787,18 +1803,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Helen Shapiro",
-        "url": "https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz"
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
       "artists": [
         {
-          "name": "Helen Shapiro",
-          "url": "https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 151293,
-      "name": "Walkin' Back to Happiness",
-      "url": "https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD"
+      "duration_ms": 159893,
+      "name": "Twistin' the Night Away",
+      "url": "https://open.spotify.com/track/6ys9oyFvw7FXbs5UMZ7I7s"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1819,22 +1835,6 @@
       "duration_ms": 148226,
       "name": "A Rockin' Good Way (To Mess Around And Fall In Love)",
       "url": "https://open.spotify.com/track/4ydSzWwxqtNdP4VPfQe8bf"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 159893,
-      "name": "Twistin' the Night Away",
-      "url": "https://open.spotify.com/track/6ys9oyFvw7FXbs5UMZ7I7s"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Dimension Dolls",
-        "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
-      },
-      "artists": [
-        {
-          "name": "Little Eva",
-          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
-        }
-      ],
-      "duration_ms": 148626,
-      "name": "The Loco-Motion - Single Version",
-      "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7wNWm9v6ZapW2K2yx4HFzz"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 179400,
       "name": "If I Had a Hammer",
       "url": "https://open.spotify.com/track/4JMl6POnS2IPBpVVwDl06P"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Dimension Dolls",
+        "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "duration_ms": 148626,
+      "name": "The Loco-Motion - Single Version",
+      "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Get Down With It!: The OKeh Sessions",
-        "url": "https://open.spotify.com/album/1p2ne3n9Le5KYBYqlpHTMF"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Get Down with It",
-      "url": "https://open.spotify.com/track/2Dnsu9fl9UurKA3uHvgEjy"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Collector",
         "url": "https://open.spotify.com/album/4PrsQQJpd1JzboMg7tFlf5"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 146599,
       "name": "Jambalaya - On the Bayou",
       "url": "https://open.spotify.com/track/5UzBH9eW6D8rP0TC69vL7p"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Get Down With It!: The OKeh Sessions",
+        "url": "https://open.spotify.com/album/1p2ne3n9Le5KYBYqlpHTMF"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Get Down with It",
+      "url": "https://open.spotify.com/track/2Dnsu9fl9UurKA3uHvgEjy"
     },
     {
       "added_at": "2022-06-16 22:02:00",

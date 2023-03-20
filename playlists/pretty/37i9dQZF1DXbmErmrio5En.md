@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: kurffew
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,309 likes - 86 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,409 likes - 86 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

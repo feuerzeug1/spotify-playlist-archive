@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 387 songs - 17 hr 6 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 389 songs - 17 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -395,5 +395,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 385 | [Oh eX whY](https://open.spotify.com/track/15bjjTkuMb2vwdBijmD02S) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/2VLfVJIWbfaMsFQNfS11ad) | 2:33 |
 | 386 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 |
 | 387 | [PRSSURE](https://open.spotify.com/track/48y5VJEYelOWiuOB3WPQBJ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 2:17 |
+| 388 | [Can't Rent Anymore!](https://open.spotify.com/track/5t5AMaa3XhuOitcBTWstWL) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Can't Rent Anymore!](https://open.spotify.com/album/0iH2suaKjEGBeM0JM2JR8O) | 2:41 |
+| 389 | [I'm The Plug](https://open.spotify.com/track/6bqtKURdSWkInAJHDkuaL0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:00 |
 
-Snapshot ID: `Njk0NCxkMDViMzA2YzAxZDhmNDNlYjI0N2RjMjVkZDkzNDc0MjZhZWYwNmI4`
+Snapshot ID: `Njk0NixlNjZkY2I2ZGUyNGEzMzQ1OTg3Njg2YTFmYmY2YjQwOTBlZTA0ZDY1`

@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 234453,
+  "num_followers": 234663,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGRjM2I2ODA1MTE4MTQzNzZjNzExYmMzY2FiYzk2N2Yz",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDM3YWUxMzY2MjA4NDFjZTdkYTI5YTBhNmU1NmU5OTVi",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 234369,
+      "name": "Casio",
+      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 234369,
-      "name": "Casio",
-      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -897,6 +897,26 @@
       "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
     },
     {
+      "added_at": "2023-03-14 14:43:57",
+      "album": {
+        "name": "Assumptions (Kaytranada Edit)",
+        "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 288097,
+      "name": "Assumptions - Kaytranada Edit",
+      "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
+    },
+    {
       "added_at": "2023-01-24 17:53:43",
       "album": {
         "name": "Wallflower",
@@ -927,26 +947,6 @@
       "duration_ms": 152181,
       "name": "Let's go to Hell",
       "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
-    },
-    {
-      "added_at": "2023-03-14 14:43:57",
-      "album": {
-        "name": "Assumptions (Kaytranada Edit)",
-        "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 288097,
-      "name": "Assumptions - Kaytranada Edit",
-      "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "Lose My Cool (Remixes)",
+        "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 257301,
+      "name": "Lose My Cool - Franc Moody Remix",
+      "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "Lose My Cool (Remixes)",
-        "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 257301,
-      "name": "Lose My Cool - Franc Moody Remix",
-      "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1229,6 +1229,26 @@
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
     },
     {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "CooCool",
+        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+    },
+    {
       "added_at": "2023-01-24 17:53:43",
       "album": {
         "name": "Polydans",
@@ -1299,26 +1319,6 @@
       "duration_ms": 217394,
       "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
       "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "CooCool",
-        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1593,26 +1593,6 @@
       "url": "https://open.spotify.com/track/3BINSFSuHalV8yoX3zAVbl"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Someone's EP II",
-        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        },
-        {
-          "name": "Hablot Brown",
-          "url": "https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM"
-        }
-      ],
-      "duration_ms": 235369,
-      "name": "Simmer",
-      "url": "https://open.spotify.com/track/2RqdwP5GhU18FTHbL1Bxfe"
-    },
-    {
       "added_at": "2023-01-24 17:53:43",
       "album": {
         "name": "Marbled",
@@ -1635,6 +1615,26 @@
       "duration_ms": 217777,
       "name": "Sex n' Drugs",
       "url": "https://open.spotify.com/track/0MwMwvl0IVPgLAeXyeVBi1"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Someone's EP II",
+        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Hablot Brown",
+          "url": "https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM"
+        }
+      ],
+      "duration_ms": 235369,
+      "name": "Simmer",
+      "url": "https://open.spotify.com/track/2RqdwP5GhU18FTHbL1Bxfe"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Young Hearts",
-        "url": "https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Young Hearts",
-      "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 259173,
       "name": "Time",
       "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Young Hearts",
+        "url": "https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "Young Hearts",
+      "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
     },
     {
       "added_at": "2023-01-24 17:53:43",

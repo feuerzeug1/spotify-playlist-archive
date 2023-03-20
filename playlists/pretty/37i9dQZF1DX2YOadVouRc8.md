@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,222 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,255 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 46 | [Your Body \(feat\. Buju\)](https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Your Body \(feat\. Buju\)](https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK) | 2:10 |
 | 47 | [Confident](https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Confident](https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23) | 3:05 |
 | 48 | [ELI](https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:52 |
-| 49 | [Osondu](https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 4:18 |
-| 50 | [FOR MY BABY](https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [FOR MY BABY](https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z) | 2:17 |
+| 49 | [FOR MY BABY](https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [FOR MY BABY](https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z) | 2:17 |
+| 50 | [Osondu](https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 4:18 |
 | 51 | [In The Morning](https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [In The Morning](https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW) | 3:07 |
 | 52 | [Confession](https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 3:00 |
 | 53 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 58 | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo) | [Kelechief](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61) | 3:06 |
 | 59 | [Fight For You](https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q) | [Naomi Achu](https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [Fight For You](https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67) | 3:28 |
 | 60 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 |
-| 61 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 |
-| 62 | [Bordeaux](https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Muthoni](https://open.spotify.com/artist/5iCw2Vm3dX5y14ZPTwrbgj), [Edwvn](https://open.spotify.com/artist/2pXAmAzTJfBMMzGXKVWAxn), [Narah](https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh), [Tronomie](https://open.spotify.com/artist/34BrK0231uzn1SZfNPsaWA) | [Bordeaux](https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq) | 3:18 |
+| 61 | [Bordeaux](https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Muthoni](https://open.spotify.com/artist/5iCw2Vm3dX5y14ZPTwrbgj), [Edwvn](https://open.spotify.com/artist/2pXAmAzTJfBMMzGXKVWAxn), [Narah](https://open.spotify.com/artist/0hcG5f9K9mREVnVMV3yCZh), [Tronomie](https://open.spotify.com/artist/34BrK0231uzn1SZfNPsaWA) | [Bordeaux](https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq) | 3:18 |
+| 62 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:24 |
 | 63 | [Feeling U](https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Feelin U](https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6) | 3:21 |
 | 64 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 |
 | 65 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 |
 | 80 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 |
 
-Snapshot ID: `MTY3OTAzOTI0MCwwMDAwMDAwMDNjYTU4NjczODJiODA1NDg0NGMyM2M3NTY1ZDlmNGU0`
+Snapshot ID: `MTY3OTAzOTI0MCwwMDAwMDAwMDYzMTA2MTQ2MTQxZDFlM2E3ZTRkNTUwZDg1Y2E4NGNj`

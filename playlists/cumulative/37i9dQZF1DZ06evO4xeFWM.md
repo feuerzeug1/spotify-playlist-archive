@@ -4,7 +4,7 @@
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 10 min
+58 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Four Walls \(The Ballad Of Perry Smith\)](https://open.spotify.com/track/6ezPXXacQCCz2wIzg4sEAj) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 4:12 | 2022-10-26 | 2023-03-10 |
 | [Give Me The Future](https://open.spotify.com/track/4v4zSLaMkF5Ezx6KHHMQam) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/1kAx2UjqTEf2ztOybdaLZw) | 3:39 | 2022-10-26 |  |
 | [Good Grief](https://open.spotify.com/track/6IGA5YrFiEr5ANrMqKkR6H) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World](https://open.spotify.com/album/5NfeW0DqFVT3Su3kHBgTf4) | 3:26 | 2022-10-26 |  |
-| [Good Grief \- Bunker Sessions](https://open.spotify.com/track/6F65WOUiJFqsUhxTzzAWO7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Good Grief \(Bunker Sessions\)](https://open.spotify.com/album/5TUQcOAd9Pa2tBquRU0Tup) | 3:28 | 2022-10-26 |  |
+| [Good Grief \- Bunker Sessions](https://open.spotify.com/track/6F65WOUiJFqsUhxTzzAWO7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Good Grief \(Bunker Sessions\)](https://open.spotify.com/album/5TUQcOAd9Pa2tBquRU0Tup) | 3:28 | 2022-10-26 | 2023-03-20 |
+| [Good Grief \- Don Diablo Remix](https://open.spotify.com/track/5dSFlPDHjAuYU1apyrRgqV) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Good Grief \(Don Diablo Remix\)](https://open.spotify.com/album/3TPamu1C98GWxTNRNU5L1Q) | 3:59 | 2023-03-19 |  |
 | [Grip](https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Grip](https://open.spotify.com/album/1TwCR17ZsRgWTo00mmlzqq) | 3:18 | 2022-10-26 |  |
 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 | 2022-10-26 |  |
 | [Happier \- Breathe Carolina Remix](https://open.spotify.com/track/31OqWK8Lc6GnUbnLG3GqPX) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Happier \(Remixes\)](https://open.spotify.com/album/16M1uToqnw9bPO8wv8ypeE) | 2:38 | 2022-10-26 |  |

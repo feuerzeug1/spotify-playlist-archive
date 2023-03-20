@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 241043,
+  "num_followers": 241380,
   "original_name": "90s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDU5OCwwMDAwMDAwMDA0ZDE3N2ViMmU0NTBiNzRjNjcyZDM5MmZkODNlMDEw",
+  "snapshot_id": "MTY3NDA4MDU5OCwwMDAwMDAwMDg4NGQ1NWQ0ZWU5OGU2OTI2YWViZjdiN2U0MDRkNmZi",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 276186,
       "name": "One",
       "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
-      },
-      "artists": [
-        {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "God Shuffled His Feet",
         "url": "https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 235173,
       "name": "Mmm Mmm Mmm Mmm",
       "url": "https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Stay (I Missed You)",
-        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
-      },
-      "artists": [
-        {
-          "name": "Lisa Loeb",
-          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Zooropa",
         "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 298426,
       "name": "Stay (Faraway, So Close!)",
       "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Stay (I Missed You)",
+        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
     },
     {
       "added_at": "2023-01-18 22:23:18",

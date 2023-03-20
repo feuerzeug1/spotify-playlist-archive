@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: AnnenMayKantereit
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,506 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,608 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 27 | [Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Einsame Insel](https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ) | 2:44 |
 | 28 | [One Call away <3](https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 2:18 |
 | 29 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
-| 30 | [Für dich da](https://open.spotify.com/track/3eS5cdQfliiWLWLjLdYodN) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Für dich da](https://open.spotify.com/album/53ONUgQsNJqHijJUzagh2N) | 3:02 |
+| 30 | [Für dich da](https://open.spotify.com/track/0fqC9DQnwRjkcw6PSwgkeR) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Insomnia](https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6) | 3:02 |
 | 31 | [AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [CRAZY HORSE CLUB MIXTAPE, VOL\. 1](https://open.spotify.com/album/6KF9pLPmF38Ge6TDaojJwJ) | 1:41 |
 | 32 | [Klimpa Klimpa](https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Klimpa Klimpa](https://open.spotify.com/album/4jKFE0VEvvWOAZDY8aKq7z) | 2:03 |
 | 33 | [Hamburg](https://open.spotify.com/track/0Vmyu21WT48agiq1Q4yzBs) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Hamburg](https://open.spotify.com/album/5UlsdkEmJDAgFibeZiyexh) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Dunkles Herz](https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Dunkles Herz](https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u) | 3:04 |
 | 75 | [Alles ok](https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Alles ok](https://open.spotify.com/album/6vY0j0uusvvF8jNltvHxOf) | 3:42 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDllMWE1OTFlOWY4YzM1ODUzYTgzYTQzYmVhNjg0Y2Jk`
+Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDVkOThjNTYwNjY0NDQwNTgwYzg2NTkxNjQ5YzA5YjI2`

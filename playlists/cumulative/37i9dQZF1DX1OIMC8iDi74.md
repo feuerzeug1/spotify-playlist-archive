@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-244 songs - 13 hr 27 min
+245 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Only Be Me](https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/18jDao69dC593MEAZheoyA) | 3:28 | 2023-03-03 |  |
 | [Only Be Me](https://open.spotify.com/track/6WXZyYSwlXS5qXISwsKYXE) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/7MVmFdMSkymurPiaOougvl) | 3:28 | 2022-02-01 | 2023-03-01 |
 | [Only You](https://open.spotify.com/track/60uzexsEyISDzri9vDavIT) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Only You](https://open.spotify.com/album/3gyyIawbIKykMMi5QGBPMA) | 4:18 | 2022-12-02 | 2023-02-12 |
-| [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 | 2021-11-19 |  |
+| [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 | 2021-11-19 | 2023-03-20 |
 | [Outta Here](https://open.spotify.com/track/2FAtvwUovZe4rx2xFgq19O) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Outta Here](https://open.spotify.com/album/45ftOGlHABO8dnOPjH9Q7s) | 4:00 | 2021-11-19 | 2022-02-02 |
 | [People I Know](https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [People I Know](https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS) | 3:36 | 2022-02-01 |  |
 | [Pop Off](https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Kazu](https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:40 | 2022-05-11 | 2022-11-19 |
@@ -252,5 +252,6 @@
 | [Wobble](https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Wobble](https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb) | 3:08 | 2022-02-01 |  |
 | [Wrong Kind](https://open.spotify.com/track/4RsiHeY3G77kcmDygKtqda) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Wrong Kind](https://open.spotify.com/album/7ypaimtNdehVcHnmYDiHc0) | 4:02 | 2021-11-19 | 2022-02-01 |
 | [Yakisoba \(feat\. Wavehi\)](https://open.spotify.com/track/11VqZrskzYRWEjGqtqC4FP) | [DaWave](https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [Wavehi](https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675) | [Yakisoba \(feat\. Wavehi\)](https://open.spotify.com/album/1SVe7vr8xtQfRtxsQtkdb5) | 2:53 | 2021-11-19 | 2022-02-02 |
+| [Yalla](https://open.spotify.com/track/2rBKfA9WpLBQxRFPcJXiXf) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo) | [Yalla](https://open.spotify.com/album/5U2t7ENPjxeIK3fQexprEA) | 2:32 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

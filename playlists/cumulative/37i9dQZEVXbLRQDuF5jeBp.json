@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 213773,
       "name": "All Things End",
       "url": "https://open.spotify.com/track/6cW7LTnoClGRpp8hD51bIC"
@@ -4390,7 +4390,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
@@ -10138,7 +10138,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 306655,
       "name": "DEATH",
       "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
@@ -12314,6 +12314,24 @@
     {
       "album": {
         "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
+    },
+    {
+      "album": {
+        "name": "Eat Your Young",
         "url": "https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt"
       },
       "artists": [
@@ -12324,7 +12342,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
@@ -13008,7 +13026,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -13528,7 +13546,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 243264,
       "name": "Eyes Open (Taylor's Version)",
       "url": "https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP"
@@ -21440,7 +21458,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 237022,
       "name": "If This Was A Movie (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj"
@@ -22550,7 +22568,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -34904,7 +34922,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
@@ -37994,7 +38012,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 239668,
       "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/2RJnNdu4pb3MypbBroHU0T"
@@ -38902,7 +38920,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -47670,7 +47688,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
@@ -48914,7 +48932,7 @@
       ],
       "date_added": "2021-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 178520,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"

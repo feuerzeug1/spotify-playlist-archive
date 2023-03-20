@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with WHIPPED CREAM.
 
-445 songs - 1 day 1 hr 51 min
+446 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 | 2022-07-01 |  |
 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-02 |  |
 | [Skanka \(VIP\)](https://open.spotify.com/track/0MJPT4ZJjpYnauApAVypF6) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Skanka \(VIP\)](https://open.spotify.com/album/2XEKyZZ1afhTJzpv7NcKgo) | 3:48 | 2022-12-16 | 2023-03-11 |
+| [Skanka \(VIP\)](https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Skanka \(VIP\)](https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW) | 3:48 | 2023-03-17 |  |
 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 | 2022-06-17 |  |
 | [Skydive](https://open.spotify.com/track/3NIsSYGL4i9ogRT6hW5b01) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Skydive](https://open.spotify.com/album/0z8yPgvnMcFWNcr7oe0OPC) | 2:32 | 2022-10-28 |  |
 | [Skydive](https://open.spotify.com/track/1MxEjfa6CxBZTT1xDTaCcX) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Skydive](https://open.spotify.com/album/3r8O0lCTxO7MOmSlgN5hBw) | 2:58 | 2022-04-15 | 2022-08-06 |
@@ -443,7 +444,7 @@
 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 | 2022-01-07 | 2022-08-27 |
 | [When I Fall](https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [When I Fall](https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq) | 3:25 | 2023-01-03 |  |
 | [When I'm Gone \- NGHTMRE Remix](https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [XAELO](https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [When I'm Gone \(NGHTMRE Remix\)](https://open.spotify.com/album/7izHE9ywehTSlhRcTZKopg) | 3:42 | 2023-03-10 |  |
-| [Wide Awake](https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Wide Awake](https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC) | 3:30 | 2022-09-02 |  |
+| [Wide Awake](https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Wide Awake](https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC) | 3:30 | 2022-09-02 | 2023-03-20 |
 | [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 | 2023-02-10 |  |
 | [Witch](https://open.spotify.com/track/3xLrmOAz2nCTlWLt2cutMu) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [I Killed The Orchestra EP](https://open.spotify.com/album/6aWB16Ri58NuFoUZZQAr9v) | 3:32 | 2021-12-17 | 2022-05-07 |
 | [WITH U](https://open.spotify.com/track/1xuIethB7B6S14ZdQ2LxoW) | [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h) | [WITH U](https://open.spotify.com/album/1dffGyShCWDpwdxt9GvrLe) | 4:16 | 2021-12-17 | 2022-08-27 |

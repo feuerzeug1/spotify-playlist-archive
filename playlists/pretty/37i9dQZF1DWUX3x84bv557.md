@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Vincent Vissers & Jairzinho op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,185 likes - 103 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,196 likes - 103 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

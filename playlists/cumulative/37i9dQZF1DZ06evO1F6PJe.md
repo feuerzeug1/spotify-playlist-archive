@@ -4,11 +4,12 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-91 songs - 8 hr 15 min
+92 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Conversation With Alice](https://open.spotify.com/track/12mxhoIT5lU3o4NNAqSu3f) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 4:19 | 2022-08-05 | 2022-12-29 |
+| [A Thousand Heartaches](https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj) | 5:00 | 2023-03-19 |  |
 | [Ace Of Spades](https://open.spotify.com/track/5MmG5hbnnNp87pS7xTtDct) | [The Sleep Eazys](https://open.spotify.com/artist/0YOfaMnBdhgZYpD0X2wwo9), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Easy To Buy, Hard To Sell](https://open.spotify.com/album/4cXGtJDtaqZwMgsmlSeklF) | 3:16 | 2022-08-05 | 2022-10-13 |
 | [Ain't No Way](https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 6:47 | 2022-08-05 | 2022-10-01 |
 | [Another Kind of Love](https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:09 | 2022-11-01 |  |
@@ -24,7 +25,7 @@
 | [Cold](https://open.spotify.com/track/77UCjH91weMHQBTqeHV6Gs) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Black Country Communion 2](https://open.spotify.com/album/6F5WxD9Ld5ZgVA9JDQ4RAM) | 6:55 | 2022-09-19 |  |
 | [Cradle Rock](https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cradle Rock](https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA) | 3:50 | 2022-08-05 |  |
 | [Damn Your Eyes](https://open.spotify.com/track/2G3jRqrVVl8PmJOqNP64tr) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Black Coffee](https://open.spotify.com/album/2jjZQU9uBfmnGDtCFA7qAj) | 4:34 | 2022-08-05 | 2022-10-06 |
-| [Deep In The Blues Again](https://open.spotify.com/track/2gOPFc3j1e8AOCw8ieDj5R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 4:45 | 2022-11-01 |  |
+| [Deep In The Blues Again](https://open.spotify.com/track/2gOPFc3j1e8AOCw8ieDj5R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 4:45 | 2022-11-01 | 2023-03-20 |
 | [Deep In The Blues Again](https://open.spotify.com/track/5MzuKnX9r4mMkMijmnGGL6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 4:45 | 2022-08-12 | 2022-08-17 |
 | [Different Shades of Blue](https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 4:39 | 2022-08-05 |  |
 | [Dirty Grease \- Radio Version](https://open.spotify.com/track/1EDqhqTWnZ9Ch9cL5pRGvF) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Doug Bossi](https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4) | [Dirty Grease](https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd) | 4:55 | 2022-10-09 | 2022-12-11 |

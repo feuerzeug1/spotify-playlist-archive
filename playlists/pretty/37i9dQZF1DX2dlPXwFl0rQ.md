@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. KAROL G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,693 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,753 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 16 | [Dos Locos](https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Locos De Amor](https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8) | 3:26 |
 | 17 | [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 |
 | 18 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Qué Bueno Es Tenerte](https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H) | 3:25 |
-| 19 | [Ahí Donde Me Ven](https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Ahí Donde Me Ven](https://open.spotify.com/album/6M9GNcF5jLv8CNmDlFrGid) | 4:04 |
-| 20 | [Que Poca](https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:09 |
+| 19 | [Que Poca](https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:09 |
+| 20 | [Ahí Donde Me Ven](https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Ahí Donde Me Ven](https://open.spotify.com/album/6M9GNcF5jLv8CNmDlFrGid) | 4:04 |
 | 21 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 |
 | 22 | [Te Dejo](https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:05 |
 | 23 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 88 | [Se Te Olvidó](https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Se Te Olvidó](https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA) | 3:06 |
 | 89 | [Ni Diabla Ni Santa](https://open.spotify.com/track/1NncWv7T19isafndpzddUd) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Ni Diabla Ni Santa](https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr) | 2:48 |
 | 90 | [Una Tarde De Abril](https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Una Tarde De Abril](https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh) | 2:53 |
-| 91 | [Ya Te Olvidé](https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ya Te Olvidé](https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV) | 3:40 |
-| 92 | [Ven a Mí](https://open.spotify.com/track/3GfABcgtxdYZyNwtiFNfhY) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Ven a Mí](https://open.spotify.com/album/1kVJTTPDm0gYX7au6C6Uli) | 4:46 |
+| 91 | [Ven a Mí](https://open.spotify.com/track/3GfABcgtxdYZyNwtiFNfhY) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Ven a Mí](https://open.spotify.com/album/1kVJTTPDm0gYX7au6C6Uli) | 4:46 |
+| 92 | [Ya Te Olvidé](https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ya Te Olvidé](https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV) | 3:40 |
 | 93 | [Amor De Unos Botes](https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Fernanda Diaz](https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y) | [Amor De Unos Botes](https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe) | 3:15 |
 | 94 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 |
 | 95 | [Simplemente Amigos](https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt) | [Nicole Padilla](https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv) | [Simplemente Amigos](https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Dama Divina](https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:36 |
 | 100 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 
-Snapshot ID: `MTY3ODI1NTIwMCwwMDAwMDAwMDAwNDZkMTg3YWEzMzc4MzY0Y2Q3NzgyOWE1ZTVhNzVh`
+Snapshot ID: `MTY3ODI1NTIwMCwwMDAwMDAwMDk0MTk1YjAyYmRjZTZmZjMwYTgyMTYwNmZhNzA2Nzdj`

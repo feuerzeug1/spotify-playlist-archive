@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-118 songs - 8 hr 4 min
+119 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [TIME WILL TELL](https://open.spotify.com/track/0xAhhpHyHUs5FVP7Nd2P5k) | [GALNERYUS](https://open.spotify.com/artist/3BNDjSD67jJE4fhxX1b2OV) | [BETWEEN DREAD AND VALOR](https://open.spotify.com/album/3SmknD92qODVEs7owlhTgI) | 5:35 | 2023-03-03 |  |
 | [Total Eclipse of the Heart \- Re\-Recorded \- Sped Up](https://open.spotify.com/track/3XGn9coNotX8yEwT7T6qmA) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Total Eclipse of the Heart \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/0AbMazVHRCdOhWzzDv4kEc) | 3:48 | 2023-03-03 | 2023-03-05 |
 | [Tren a Valparaíso](https://open.spotify.com/track/509s2fi8JLsrUuhJvvTKtP) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Sin Por Qué](https://open.spotify.com/album/58ifITpwXtUlM7oAuO1UEv) | 6:35 | 2023-03-03 |  |
-| [Trio No\. 2 'Reveille': I\. Meadow Lane](https://open.spotify.com/track/1pfRJWo000HNMZRRHTihQD) | [Stanley Silverman](https://open.spotify.com/artist/2TvPBulHtfwAkQUDyc7JQW), [Kalichstein\-Laredo\-Robinson Trio](https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy) | [In Celebration: The Piano Trios of Stanley Silverman](https://open.spotify.com/album/5EG7zLDM8bFjyvddqYMrqJ) | 2:01 | 2023-03-17 |  |
+| [Trio No\. 1 'In Celebration': Iii\. Cantelina\-chaconne](https://open.spotify.com/track/0gVQ9phHoKzxHUgO6BOFTG) | [Stanley Silverman](https://open.spotify.com/artist/2TvPBulHtfwAkQUDyc7JQW), [Kalichstein\-Laredo\-Robinson Trio](https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy) | [In Celebration: The Piano Trios of Stanley Silverman](https://open.spotify.com/album/5EG7zLDM8bFjyvddqYMrqJ) | 8:27 | 2023-03-17 |  |
+| [Trio No\. 2 'Reveille': I\. Meadow Lane](https://open.spotify.com/track/1pfRJWo000HNMZRRHTihQD) | [Stanley Silverman](https://open.spotify.com/artist/2TvPBulHtfwAkQUDyc7JQW), [Kalichstein\-Laredo\-Robinson Trio](https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy) | [In Celebration: The Piano Trios of Stanley Silverman](https://open.spotify.com/album/5EG7zLDM8bFjyvddqYMrqJ) | 2:01 | 2023-03-17 | 2023-03-20 |
 | [Trio No\. 2 'Reveille': Ii\. Prelude to Guajira y Fuga](https://open.spotify.com/track/3qYo08xufG1Zf78XcDfaJ2) | [Stanley Silverman](https://open.spotify.com/artist/2TvPBulHtfwAkQUDyc7JQW), [Kalichstein\-Laredo\-Robinson Trio](https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy) | [In Celebration: The Piano Trios of Stanley Silverman](https://open.spotify.com/album/5EG7zLDM8bFjyvddqYMrqJ) | 2:21 | 2023-03-03 | 2023-03-18 |
 | [Tromsö 2018 VII](https://open.spotify.com/track/1IdukPBLATQHL5Rfh9hz56) | [Christian Lindberg](https://open.spotify.com/artist/2gQKtXD5BZqKT8Tl9JfFcy), [MIN Ensemble](https://open.spotify.com/artist/7IM8kSqHYCysd8TQEJUWQp) | [The Essential Christian Lindberg](https://open.spotify.com/album/3AViFtJ99ApjQMQCrkx6Lp) | 1:05 | 2023-03-03 | 2023-03-04 |
 | [Tumbling Dice \- Live](https://open.spotify.com/track/4mn5riACKGOZbADntB95wE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [GRRR Live!](https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2) | 4:53 | 2023-03-03 | 2023-03-12 |

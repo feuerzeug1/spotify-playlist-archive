@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 172041,
+  "num_followers": 172117,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDhhZjA3YThmODRiNzRlNjQ2MDg2MWQ5Y2FlNmQ4Y2U2",
+  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMGYwYmQwNTQwOGY3MDVkMGMwZjNlMTdjZDA3MTI1YjU1",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -171,26 +171,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "La Combinacion Vallenata",
-        "url": "https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU"
+        "name": "La Hora de la Verdad",
+        "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
       },
       "artists": [
         {
-          "name": "La Combinaci\u00f3n Vallenata",
-          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+          "name": "Kaleth Morales",
+          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
         },
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        },
-        {
-          "name": "Jean Carlos Centeno",
-          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
+          "name": "Andres Herrera",
+          "url": "https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU"
         }
       ],
-      "duration_ms": 316266,
-      "name": "Dime que me quieres",
-      "url": "https://open.spotify.com/track/3orZ4fO5bylzCblZJsl3WS"
+      "duration_ms": 376533,
+      "name": "Vivo en el limbo",
+      "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -247,22 +243,26 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "La Hora de la Verdad",
-        "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
+        "name": "La Combinacion Vallenata",
+        "url": "https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU"
       },
       "artists": [
         {
-          "name": "Kaleth Morales",
-          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
         },
         {
-          "name": "Andres Herrera",
-          "url": "https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        },
+        {
+          "name": "Jean Carlos Centeno",
+          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
         }
       ],
-      "duration_ms": 376533,
-      "name": "Vivo en el limbo",
-      "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
+      "duration_ms": 316266,
+      "name": "Dime que me quieres",
+      "url": "https://open.spotify.com/track/3orZ4fO5bylzCblZJsl3WS"
     },
     {
       "added_at": "2023-02-07 01:31:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,056 likes - 82 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,083 likes - 82 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 23 | [Good Evening](https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts) | 2:01 |
 | 24 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 |
 | 25 | [3PM](https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [3PM](https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG) | 2:15 |
-| 26 | [Sandalwood](https://open.spotify.com/track/1mU5tbLwcCYs64FhTTEQ4U) | [J\. Roosevelt](https://open.spotify.com/artist/4kCBBWXeKXtikcTFHiQ2QW) | [Meditations on Silence](https://open.spotify.com/album/5x21oAOWxgh2zIg3ORfAdw) | 2:48 |
-| 27 | [Blue Haze](https://open.spotify.com/track/1mxjvX6NeHYGSW7bpgtRfy) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Transitions](https://open.spotify.com/album/45VGwNszNhpqKcYgo3dpZg) | 2:37 |
+| 26 | [Blue Haze](https://open.spotify.com/track/1mxjvX6NeHYGSW7bpgtRfy) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Transitions](https://open.spotify.com/album/45VGwNszNhpqKcYgo3dpZg) | 2:37 |
+| 27 | [Sandalwood](https://open.spotify.com/track/1mU5tbLwcCYs64FhTTEQ4U) | [J\. Roosevelt](https://open.spotify.com/artist/4kCBBWXeKXtikcTFHiQ2QW) | [Meditations on Silence](https://open.spotify.com/album/5x21oAOWxgh2zIg3ORfAdw) | 2:48 |
 | 28 | [blueberry](https://open.spotify.com/track/5tNzLWnbpR7tpW0zdN5TCE) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [late night bumps, Vol\. 4](https://open.spotify.com/album/6pRT23z9R7zEok9972HPgY) | 1:56 |
 | 29 | [cat's meow](https://open.spotify.com/track/47I0dFqnJ6V5P04YW1u96z) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/6NsmYIRCoHNEo6bVx89K0E) | 1:33 |
 | 30 | [Silience](https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy) | 3:16 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 62 | [Eternal Sunshine](https://open.spotify.com/track/3IjcC1K1Iu3Vv4KMQYL2tM) | [cryptic daylight](https://open.spotify.com/artist/0DMANJOl4cL9Q2uzGbk850), [Someone Else](https://open.spotify.com/artist/35Ir0ossYsmU5VHS1oVr8m), [Outertone Chill](https://open.spotify.com/artist/5r6vb5zhpo84wnn6rT5zLw) | [Eternal Sunshine](https://open.spotify.com/album/1Cj58FWzBJlgJS6HcEjKVo) | 2:08 |
 | 63 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 |
 | 64 | [makeuseofthetime](https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 1:18 |
-| 65 | [If It Moves](https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms) | [Michael Michaelson](https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz) | [If It Moves](https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw) | 1:38 |
+| 65 | [Solitude](https://open.spotify.com/track/1o1UWMy6g6QRLYnK8wuY9L) | [DCS Lefty](https://open.spotify.com/artist/39Y0ja9MWC0yMdKMFGu4L7) | [Solitude](https://open.spotify.com/album/5TIBOPZs2qfJ5SwvAaGqJz) | 2:25 |
 | 66 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 |
-| 67 | [Solitude](https://open.spotify.com/track/1o1UWMy6g6QRLYnK8wuY9L) | [DCS Lefty](https://open.spotify.com/artist/39Y0ja9MWC0yMdKMFGu4L7) | [Solitude](https://open.spotify.com/album/5TIBOPZs2qfJ5SwvAaGqJz) | 2:25 |
+| 67 | [If It Moves](https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms) | [Michael Michaelson](https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz) | [If It Moves](https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw) | 1:38 |
 | 68 | [Sundays](https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Sundays](https://open.spotify.com/album/5VIO4AL989PapgtG5KAL0B) | 2:54 |
 | 69 | [Act I](https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V), [Hush Child](https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa) | [Act I](https://open.spotify.com/album/5Zkht2CtX4CWk2b1UCxKXO) | 2:28 |
 | 70 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 |
 | 71 | [Utah](https://open.spotify.com/track/15ak5UN9CgFQzYCVEeigY9) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Utah](https://open.spotify.com/album/0ULUBycp5jD1x6PyAMqEG2) | 2:06 |
 | 72 | [Springman](https://open.spotify.com/track/1QxvBUifBAyr47CPjVYh6v) | [Coubo](https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq) | [Homewards](https://open.spotify.com/album/1saLXXiujQG2zc5piB9mjk) | 3:39 |
-| 73 | [Dignity](https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:10 |
-| 74 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 |
+| 73 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 |
+| 74 | [Dignity](https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:10 |
 | 75 | [Bing Bong](https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT) | 1:56 |
 | 76 | [Moments](https://open.spotify.com/track/3r5R3UBhe7Cdgywozq4zKz) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Flow](https://open.spotify.com/album/598S5qbw2Q9pj4kjVS2sqw) | 3:15 |
 | 77 | [Devine](https://open.spotify.com/track/2UAZ0GqmyRh5O3A17FOlOy) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [G93](https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u) | [Devine](https://open.spotify.com/album/52KSCzrUXBM0seRkCbgtCS) | 2:02 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [Soul Finding](https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:41 |
 | 82 | [Evenfall](https://open.spotify.com/track/00OJTs80tu6DWWkcYJSkFg) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Evenfall](https://open.spotify.com/album/6gWZNNi5YDnUKclfDRY4H0) | 2:32 |
 
-Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDJiODZmMDRmYzlkZGMxZThiZTViYjQ1NGIzM2JkODNm`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDg1NTVhY2M0MzEwZjY1MDI4NjlkMTNlNDc0MzZlYmYx`

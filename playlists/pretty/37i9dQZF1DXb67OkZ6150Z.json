@@ -1,12 +1,12 @@
 {
   "description": "The best indie covers. Cover: Remi Wolf",
-  "num_followers": 277483,
+  "num_followers": 277500,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMDgwZmYzNjEwNDgxODM2MDI1ZTQzMWJmNzhjNzYyZTg1",
+  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMDI2NWE2OTJjYWViNTc0MzRlNTkwYzU1ZDcxZTQ3NmEz",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Bette Davis Eyes",
         "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 210000,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "I'm on Fire",
-        "url": "https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Clocks",
         "url": "https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 197576,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "I'm on Fire",
+        "url": "https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW"
-    },
-    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "West Coast (I'm In Love)",
@@ -1135,6 +1119,22 @@
       "duration_ms": 212043,
       "name": "West Coast (I'm In Love)",
       "url": "https://open.spotify.com/track/3ktl9MwJgnAanqqkcTXue8"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW"
     },
     {
       "added_at": "2022-11-11 05:00:00",

@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-134 songs - 9 hr 52 min
+135 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [BRAND NEW FIELD](https://open.spotify.com/track/1NxXF8uyBimRd8uSiutGts) | [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE) | [THE IDOLM@STER SideM ST@RTING LINE\-01 Jupiter](https://open.spotify.com/album/22IQ39FuyEE3gXT8wAW9n1) | 6:02 | 2022-12-01 |  |
 | [Café Parade!](https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM ST@RTING LINE\-10 Café Parade](https://open.spotify.com/album/5PYzkS3XSiEarnYmQR3r1f) | 4:44 | 2022-12-01 |  |
 | [Cherish BOUQUET](https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U) | [渡辺みのり \(CV.高塚智人\)](https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 3:58 | 2022-12-20 |  |
-| [Compass Gripper!!!](https://open.spotify.com/track/3YLPg6OPm8I6fDSGuBtb80) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0), [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS), [F\-LAGS](https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 02](https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS) | 3:57 | 2022-12-01 |  |
+| [Compass Gripper!!!](https://open.spotify.com/track/3YLPg6OPm8I6fDSGuBtb80) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0), [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS), [F\-LAGS](https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 02](https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS) | 3:57 | 2022-12-01 | 2023-03-20 |
 | [Cupids!](https://open.spotify.com/track/6rWbpnLwuH4U6AtJn9077S) | [F\-LAGS](https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 02](https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS) | 4:32 | 2022-12-01 |  |
 | [Dance in the school!](https://open.spotify.com/track/7hKA7W7hgr7n2VhVjqQYtH) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M](https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE) | 4:58 | 2022-12-22 |  |
 | [Delicious Delivery](https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM NEW STAGE EPISODE:04 Café Parade](https://open.spotify.com/album/7roHIRpK6NNCZLly8TfzjA) | 4:07 | 2022-12-01 |  |
@@ -124,6 +124,7 @@
 | [バーニン・クールで輝いて](https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE\-09 神速一魂](https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk) | 4:27 | 2022-12-01 |  |
 | [フェイバリットに踊らせて](https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx) | [水嶋 咲 \(CV.小林大紀\)](https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:06 | 2022-12-01 |  |
 | [ミュージアムジカ](https://open.spotify.com/track/2y7Cll24OufSOnWmvdzPDe) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe), [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 3:53 | 2022-12-01 |  |
+| [リビングアイズヒーロー](https://open.spotify.com/track/1lfwRXGtNgLirpV3F1W8Wz) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM NEW STAGE EPISODE:11 FRAME](https://open.spotify.com/album/402p3mxwR4xZ557jA64z7f) | 3:48 | 2023-03-07 |  |
 | [一番星の誓い](https://open.spotify.com/track/1qPLnICXUdJhAWLCM0fp7f) | [EFFY](https://open.spotify.com/artist/5jNbdaPfhmYcIub0YFgUgP) | [THE IDOLM@STER SideM ANIMATION PROJECT 08 Original Soundtrack: GLORIOUS RO@D](https://open.spotify.com/album/5g7hs5KQjp31HFvi9JJQEm) | 2:36 | 2022-12-01 | 2022-12-03 |
 | [伝えたいのはこんなきもち](https://open.spotify.com/track/5jwftUVuxmqkIg8LlcsTyY) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 02](https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS) | 4:21 | 2022-12-01 | 2022-12-06 |
 | [勇敢なるキミへ](https://open.spotify.com/track/4n69mfDTmf1oNbwGPcoFv4) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM ST@RTING LINE\-08 FRAME](https://open.spotify.com/album/7zcZbSoY7JUOQxMuQ6WgIu) | 4:34 | 2023-02-10 | 2023-02-20 |

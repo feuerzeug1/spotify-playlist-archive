@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Melanie Martinez\n\n",
-  "num_followers": 114765,
+  "num_followers": 114819,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDY4NmJiMjlmNTE2M2Y4MzFhZjc3NTE5MzE4MzM3ZmU4",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDM0MWIwYjBlNDY0NDAxNTg5MjQzNjNkMzUwODI0NTM0",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Die 4 Me",
         "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
       },
@@ -531,6 +547,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -551,22 +583,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 267016,
       "name": "La F\u00f3rmula",
       "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Set Me Free Pt.2",
-        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 200929,
-      "name": "Set Me Free Pt.2",
-      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Takin' It Back (Deluxe)",
+        "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 147481,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Saturday/Sunday",
         "url": "https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 166623,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Takin' It Back (Deluxe)",
-        "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 147481,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 183925,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Dancing's Done",
         "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
       },
@@ -1003,6 +1023,22 @@
       "duration_ms": 166906,
       "name": "Dancing\u2019s Done",
       "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1023,26 +1059,6 @@
       "duration_ms": 148800,
       "name": "KU LO SA (with Camila Cabello)",
       "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 183925,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Eat Your Young",
-        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 242293,
-      "name": "Eat Your Young",
-      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+        "name": "How I'm Feeling Now",
+        "url": "https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+      "duration_ms": 226440,
+      "name": "How I'm Feeling Now",
+      "url": "https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "How I'm Feeling Now",
-        "url": "https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "How I'm Feeling Now",
-      "url": "https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "My Crystal Nails",
+        "url": "https://open.spotify.com/album/4ofey6tFX89zVipl1LKwhh"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 108695,
+      "name": "My Crystal Nails",
+      "url": "https://open.spotify.com/track/6zIBnhXLG3K95f0OsUCPm0"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "My Crystal Nails",
-        "url": "https://open.spotify.com/album/4ofey6tFX89zVipl1LKwhh"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 108695,
-      "name": "My Crystal Nails",
-      "url": "https://open.spotify.com/track/6zIBnhXLG3K95f0OsUCPm0"
     },
     {
       "added_at": "2023-03-17 03:00:00",

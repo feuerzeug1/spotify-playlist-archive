@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,571 likes - 51 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,658 likes - 51 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 23 | [Every Night](https://open.spotify.com/track/6aSdY2mKtkquVwPbotUnky) | [NTBR](https://open.spotify.com/artist/1Ye4UZN2QjBlSyZF1Ts2CR), [Jacidorex](https://open.spotify.com/artist/0XSNxwt21dxcFTxaYtQjwe) | [Intimacy](https://open.spotify.com/album/0mt67Q3HEy0q0mI4j7GmRr) | 5:34 |
 | 24 | [Techno Lust](https://open.spotify.com/track/6vrJmOsPKS6tusB8dsnsWI) | [Luca Maier](https://open.spotify.com/artist/0g0YEju2GfxHogh42aySl2), [Marco Leckbert](https://open.spotify.com/artist/49HgT3Jf89Xiw8lKvvemf5) | [Bud Sampler 10](https://open.spotify.com/album/6ccV50uWrOE8Tbopmg5m0B) | 5:48 |
 | 25 | [Somewhen \- 437p](https://open.spotify.com/track/2hOgMqywNsliLHgcIFXCkt) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [HOME I](https://open.spotify.com/album/4oIxUf66to46M5IWpNbQdN) | 5:23 |
-| 26 | [Croydon Girl](https://open.spotify.com/track/0gMWkR6pfuaBcW2HHEhGvt) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [SUF 100](https://open.spotify.com/album/2DleJNXcZsmefAFLk1oQPn) | 7:05 |
+| 26 | [Croydon Girl](https://open.spotify.com/track/2jcypV3SSKwBjEluT65m8A) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [SUF 100](https://open.spotify.com/album/2zcC67qTy18vVfW8Y7nySA) | 7:05 |
 | 27 | [Rave 2000](https://open.spotify.com/track/5n5Xbqn22mtMSPucxySxgz) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Obvious Intention](https://open.spotify.com/album/3CXQwErEMo6wKhmO7INRJf) | 5:36 |
 | 28 | [Meteorite](https://open.spotify.com/track/2NydnLf5aQpJQIyfoE0lpu) | [Luca Agnelli](https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq) | [Fast Forward](https://open.spotify.com/album/74K6VmJM6dbaxIv2ru39Dn) | 5:45 |
 | 29 | [Queen Of Darkness](https://open.spotify.com/track/4triZ5u7p5jm2nfExElnlc) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy) | [Exhale VA003](https://open.spotify.com/album/6wruyQtjglWadmz5JsfKaI) | 5:27 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 50 | [Get Dirty](https://open.spotify.com/track/7s0FvUlUvRXwKkAuEet9ri) | [Julian Muller](https://open.spotify.com/artist/5UWmNXxqHIUcpHEJCxDojK), [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [To My Side](https://open.spotify.com/album/0B7Z917Qc6OFI1fYjfr0I5) | 5:47 |
 | 51 | [Police Brutality](https://open.spotify.com/track/2xJfLMmhopHaPis1pd9CJR) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Historia](https://open.spotify.com/album/56tITXyE0RcImU43s2OL7j) | 6:13 |
 
-Snapshot ID: `MTY3NjAyNTY1MSwwMDAwMDAwMDBiMWFkNDQ4YTljMGQ1ZDBjYzk4ZmQ4NjRlODQzMTRi`
+Snapshot ID: `MTY3NjAyNTY1MSwwMDAwMDAwMGM0ODExY2MwOWY3NDhhNGVkOWM5MjdmMzYzMmYwMGE3`

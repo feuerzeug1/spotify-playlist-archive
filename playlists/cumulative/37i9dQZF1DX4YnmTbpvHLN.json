@@ -2587,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Live Off The Juice",
+        "url": "https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA"
+      },
+      "artists": [
+        {
+          "name": "Garry Cooper Trio",
+          "url": "https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202207,
+      "name": "Live Off The Juice",
+      "url": "https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz"
+    },
+    {
+      "album": {
         "name": "Lola and Kirby",
         "url": "https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi"
       },
@@ -4990,7 +5008,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 191547,
       "name": "When You Are Around",
       "url": "https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD"

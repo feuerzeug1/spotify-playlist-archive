@@ -4,7 +4,7 @@
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-53 songs - 4 hr 27 min
+55 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 | 2022-09-17 |  |
 | [Hotel California / Only Women Bleed / Knockin' On Heaven's Door \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/4lOISkmUcErziyEn4jHSy2) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 11:38 | 2022-12-03 |  |
 | [It's Alright \- Live In Houston / 1992](https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Live Era '87\-'93](https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs) | 3:07 | 2022-10-12 |  |
-| [It's So Easy](https://open.spotify.com/track/63HA3dpnOmdDcazJ9sDfrh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 3:21 | 2022-09-17 |  |
+| [It's So Easy](https://open.spotify.com/track/63HA3dpnOmdDcazJ9sDfrh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 3:21 | 2022-09-17 | 2023-03-20 |
+| [It's So Easy](https://open.spotify.com/track/58YL9Jo1T0wyijCOZWRmyL) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 3:22 | 2023-03-19 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:36 | 2022-09-17 |  |
 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 | 2022-09-17 |  |
 | [Mama Kin](https://open.spotify.com/track/0XRlRULMnFbsm9EhJDHGYW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 3:55 | 2022-10-12 |  |
@@ -50,7 +51,8 @@
 | [Shadow Of Your Love](https://open.spotify.com/track/5tqSUxm3Wpql0dlLMrIAp1) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Shadow Of Your Love](https://open.spotify.com/album/6AK5hiec0u0guq19bKlSMm) | 3:05 | 2022-09-17 |  |
 | [Since I Don't Have You](https://open.spotify.com/track/5sVf9kN90ScddiT3SdT9Qh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 4:19 | 2022-09-17 |  |
 | [Sorry](https://open.spotify.com/track/4g9TfQAiEN6lDNRJJsiU9T) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 6:14 | 2022-09-17 |  |
-| [Sweet Child O' Mine](https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 5:54 | 2022-09-17 |  |
+| [Sweet Child O' Mine](https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 5:54 | 2022-09-17 | 2023-03-20 |
+| [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2023-03-19 |  |
 | [Sympathy For The Devil](https://open.spotify.com/track/4InpYF6IH5bhuHwG0R0faj) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Greatest Hits](https://open.spotify.com/album/3Qf4H3NYSp3BMIRe6WOyOA) | 7:35 | 2022-09-17 |  |
 | [There Was A Time](https://open.spotify.com/track/2PrmCyoClC4ulLJR42z74O) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 6:40 | 2022-09-17 |  |
 | [This I Love](https://open.spotify.com/track/2FEWcWHnDmGD6WSqpW4VYu) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 5:34 | 2022-09-17 |  |

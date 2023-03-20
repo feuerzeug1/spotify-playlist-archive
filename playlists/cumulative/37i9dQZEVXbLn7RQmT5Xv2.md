@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-592 songs - 1 day 9 hr 39 min
+593 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ana Ghaltan](https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:27 | 2022-06-03 | 2023-03-19 |
 | [Ana Mesh Naguib Sawiris](https://open.spotify.com/track/6x2NGy1xES5Ujzk2kNKIrd) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ana Mesh Naguib Sawiris](https://open.spotify.com/album/652mBvpZNQoZdP1UKg1HLs) | 2:55 | 2021-03-27\* | 2021-04-01 |
 | [Ana Negm](https://open.spotify.com/track/6CU68VwcV10VfulVQMfj3X) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 4:01 | 2022-09-25 |  |
+| [Ana Qader From Gafar El Omda Series](https://open.spotify.com/track/0xIbsBFRTZoNfg54EAYHoN) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Hesham El Gakh](https://open.spotify.com/artist/0u4oTPQ4k14CO5TUqKduUK) | [Ana Qader From Gafar El Omda Series](https://open.spotify.com/album/6McyOWAOJs2fdzAA3NgZp1) | 3:06 | 2023-03-19 |  |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-04-16 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2022-11-02 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-27\* | 2021-06-11 |
@@ -327,7 +328,7 @@
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-15 | 2021-07-20 |
 | [Mraite](https://open.spotify.com/track/7mEO8E9koxx19CywaN0pwi) | [Moustafa Max](https://open.spotify.com/artist/2Zjp2UNHX1ILlwjjN0MPDQ), [Xoureldin](https://open.spotify.com/artist/6dGfzQZmB2W9ImyY2wIMUi) | [Mraite](https://open.spotify.com/album/4pPi3KRT8uRBS1svqdbUqN) | 3:00 | 2022-02-14 | 2022-03-01 |
 | [Msh Bel 7ozoz \- مش بالحظوظ](https://open.spotify.com/track/4K2VD5qMwcjIsLFYtrrQDz) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Msh Bel 7ozoz \- مش بالحظوظ](https://open.spotify.com/album/16LvDWQIgcbs4yc9pzxDW3) | 3:20 | 2021-05-22 | 2022-03-01 |
-| [Msh Da Elle Ekhtarto](https://open.spotify.com/track/6zh6n6FzAPZxKYr1gWkemc) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG) | 3:02 | 2023-02-11 | 2023-03-18 |
+| [Msh Da Elle Ekhtarto](https://open.spotify.com/track/6zh6n6FzAPZxKYr1gWkemc) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG) | 3:02 | 2023-02-11 |  |
 | [Msh Fair](https://open.spotify.com/track/1JdRPaDFswfqCpAhBPKqUw) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Msh Fair](https://open.spotify.com/album/3CIm2qnP74RIoein82TmMs) | 3:50 | 2021-03-27\* | 2021-10-17 |
 | [Msh Ha7el](https://open.spotify.com/track/225Xi790QAtTbuMfjW6fyR) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Msh Ha7el](https://open.spotify.com/album/1wGtEA66lpU9sc4vPYx3oQ) | 4:00 | 2022-03-04 | 2022-03-11 |
 | [Msh Khalsa](https://open.spotify.com/track/0vV1KenVmpL0ErIUiwYNcv) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Msh Khalsa](https://open.spotify.com/album/1VZ8H9EtM9hRHB2wN798Ta) | 3:36 | 2021-12-28 | 2022-01-08 |
@@ -521,7 +522,7 @@
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-10-09 |  |
 | [بانوراما](https://open.spotify.com/track/2PCSAQsUfYMnmWZ4Tmkqme) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Enzo](https://open.spotify.com/artist/4U1hl9bY2xazNNeiU42obk), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 5:45 | 2022-07-14 | 2022-07-17 |
 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 | 2021-10-22 | 2021-12-01 |
-| [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-06-27 |  |
+| [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-06-27 | 2023-03-20 |
 | [بعودة يا بلادى](https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى](https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8) | 3:11 | 2022-03-22 | 2022-04-07 |
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy) | 3:11 | 2022-04-06 | 2023-01-29 |
 | [بنت ابويا](https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [بنت ابويا](https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc) | 3:57 | 2023-02-04 | 2023-02-25 |
@@ -530,7 +531,7 @@
 | [تراك الموسم](https://open.spotify.com/track/6ACKR9iNKxeBAc7fs52pHa) | [Tameem Youness](https://open.spotify.com/artist/6aEJ5aiBVWtoRnmaHhwz54) | [تراك الموسم](https://open.spotify.com/album/6VHyM1P7H6Q7qzl50DZWHx) | 3:07 | 2022-02-01 | 2022-02-07 |
 | [تليفونى للسؤال](https://open.spotify.com/track/6gbjsT7U7b1I0iARVPUoy8) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [تليفونى للسؤال](https://open.spotify.com/album/3hzCVYGtdd3YzDcmFw53ll) | 3:38 | 2022-08-02 | 2022-08-26 |
 | [ثرثرة](https://open.spotify.com/track/1PN1vuSWAW9mlIZSgFrQ7y) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [بلان بي](https://open.spotify.com/album/32rH8RDPdrKhR2Unq1FEKU) | 2:58 | 2021-03-27\* | 2022-01-27 |
-| [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 | 2022-09-10 |  |
+| [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 | 2022-09-10 | 2023-03-20 |
 | [حدوته ألماني](https://open.spotify.com/track/2bXrayhgyX8nvNNxMjFT0b) | [Hussein Black](https://open.spotify.com/artist/2iPEr3Uk3Nvikdnx4e3ELe) | [حدوته ألماني](https://open.spotify.com/album/2TeKtE9myzBTuM0MmrlGkl) | 2:35 | 2022-07-16 | 2022-07-28 |
 | [حدوته المانى](https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 2:37 | 2022-07-13 |  |
 | [حمرا](https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [حمرا](https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe) | 3:38 | 2023-03-14 |  |

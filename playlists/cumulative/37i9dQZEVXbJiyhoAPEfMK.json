@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
@@ -5532,7 +5532,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
@@ -6200,7 +6200,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -7690,7 +7690,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 181913,
       "name": "Discokugel",
       "url": "https://open.spotify.com/track/7n3f6PoPm7LPBYYYlA8lzi"
@@ -8758,7 +8758,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
@@ -9238,7 +9238,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 140413,
       "name": "ENVIE7VIE",
       "url": "https://open.spotify.com/track/0lSB2n0DEvA2mnsGI9qI5f"
@@ -9930,7 +9930,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -10520,7 +10520,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 110266,
       "name": "FROSTIES",
       "url": "https://open.spotify.com/track/4bGWT7GWjqaO1Sj9ZbUtEG"
@@ -13668,7 +13668,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 163080,
       "name": "Im Loop",
       "url": "https://open.spotify.com/track/5YWkLb7ffoZ9miA7pFQWnZ"
@@ -14648,7 +14648,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Joti",
       "url": "https://open.spotify.com/track/7BGdH2eCcjrjMmHFKRTofp"
@@ -15510,7 +15510,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 165573,
       "name": "L'ARMOIRE",
       "url": "https://open.spotify.com/track/5R9ZGpFYnzW3WmVGk2uh4J"
@@ -17692,7 +17692,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 143360,
       "name": "LOWE",
       "url": "https://open.spotify.com/track/35WcLlPTdIGqMIx0K2rzkS"
@@ -21402,16 +21402,16 @@
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         },
         {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        },
+        {
           "name": "Kerchak",
           "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         },
         {
           "name": "Leto",
           "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
         }
       ],
       "date_added": "2023-03-17",
@@ -21492,7 +21492,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 198386,
       "name": "NOCHEY",
       "url": "https://open.spotify.com/track/1ndtoMKQj4N3quUzJvPEsK"
@@ -23048,7 +23048,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -23418,7 +23418,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -26328,7 +26328,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0"
@@ -29232,7 +29232,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 167933,
       "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
       "url": "https://open.spotify.com/track/6QPFWJJLKKPjnwRQJ1OwSC"
@@ -29892,7 +29892,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Une jom ajo",
       "url": "https://open.spotify.com/track/3iwtYKcv4EnIcx7yLw0xw3"
@@ -32348,7 +32348,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 188466,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/3qA5qgPKXsElkU8TRjNx7u"

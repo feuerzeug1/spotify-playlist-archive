@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc?si=zw\_7vyQZQJawhW7I7mJhtQ"> Tiwa Savage</a> ,  <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=PnUO\-d\-eQMGMLF0bLcmQ9Q"> Ayra Starr</a>  and  <a href="https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=pbVgJVifRjS5eUw\_K6BZJQ"> Young Jonn </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,463 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,959 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 45 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 |
 | 46 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 |
 | 47 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
-| 48 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
-| 49 | [Ego](https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Ego](https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z) | 2:36 |
-| 50 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 |
-| 51 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |
-| 52 | [Sponono \(feat\. Baby S.O.N & 031 Choppa\)](https://open.spotify.com/track/2zdvRlkcacMBIf78Yf7IvP) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Baby S.O.N](https://open.spotify.com/artist/2VaU2Xam8mNfJ2VuDWrI2B) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 4:13 |
-| 53 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 |
-| 54 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 |
+| 48 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 |
+| 49 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
+| 50 | [Ego](https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Ego](https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z) | 2:36 |
+| 51 | [Sponono \(feat\. Baby S.O.N & 031 Choppa\)](https://open.spotify.com/track/2zdvRlkcacMBIf78Yf7IvP) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Baby S.O.N](https://open.spotify.com/artist/2VaU2Xam8mNfJ2VuDWrI2B) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 4:13 |
+| 52 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |
+| 53 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 |
+| 54 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 |
 | 55 | [Clueless \(with Oxlade\)](https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Clueless \(with Oxlade\)](https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54) | 2:44 |
 | 56 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 |
 | 57 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 69 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 |
 | 70 | [Likkle Riddim](https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Likkle Riddim](https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ) | 2:44 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDg4NWQwNTg3NjJhNWM4NWM0N2ExMGFkZDZiZDBhY2Vl`
+Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMGYxYzNhNDYxNjE5MGNhZWEzZjJlZDg2MjgyNWYwZDIw`

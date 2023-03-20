@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 198,
+  "num_followers": 199,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjU0OTIwMCwwMDAwMDAwMDc1OWRmNmUzODJlOThhZTJlNGNlMzFmNWE3MGRiMWZl",
+  "snapshot_id": "MTY3MjU0OTIwMCwwMDAwMDAwMDE5MWRhOGMyZmU4YmVhMGU5MTJmMjYxNzNiZjRiYjhj",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -163,18 +163,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "i am > i was",
-        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
+        "name": "Language",
+        "url": "https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Paperboy Fabe",
+          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 205351,
-      "name": "can't leave without it",
-      "url": "https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd"
+      "duration_ms": 150360,
+      "name": "Language",
+      "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -195,22 +199,18 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Language",
-        "url": "https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1"
+        "name": "i am > i was",
+        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
       },
       "artists": [
         {
-          "name": "Paperboy Fabe",
-          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 150360,
-      "name": "Language",
-      "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
+      "duration_ms": 205351,
+      "name": "can't leave without it",
+      "url": "https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd"
     },
     {
       "added_at": "2023-01-01 05:00:00",

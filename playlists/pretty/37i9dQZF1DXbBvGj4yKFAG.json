@@ -1,12 +1,12 @@
 {
   "description": "may include",
-  "num_followers": 15330,
+  "num_followers": 15676,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk4MzYyNywwMDAwMDAwMDBkMGViYjNiMjM3NTBjZjI4MjljY2U1YTBiZmQxODMx",
+  "snapshot_id": "MTY3ODk4MzYyNywwMDAwMDAwMDI3YjI2ZTE3NDI0NzEzMDg1OWQyZTFjY2IyNTA2MTk4",
   "tracks": [
     {
       "added_at": "2023-02-09 18:38:29",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA"
     },
     {
+      "added_at": "2023-03-20 01:02:24",
+      "album": {
+        "name": "Lovers From The Past",
+        "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "Lovers From The Past",
+      "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
+    },
+    {
       "added_at": "2023-02-24 15:35:53",
       "album": {
         "name": "No Surprises",
@@ -493,20 +509,20 @@
       "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
-      "added_at": "2023-03-19 01:43:58",
+      "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "Lovers From The Past",
-        "url": "https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY"
+        "name": "In Two",
+        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
       },
       "artists": [
         {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
         }
       ],
-      "duration_ms": 199280,
-      "name": "Lovers From The Past",
-      "url": "https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr"
+      "duration_ms": 143162,
+      "name": "In Two",
+      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -523,22 +539,6 @@
       "duration_ms": 236000,
       "name": "17",
       "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
-        "name": "In Two",
-        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 143162,
-      "name": "In Two",
-      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
     },
     {
       "added_at": "2023-02-09 18:38:29",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1"
     },
     {
+      "added_at": "2023-02-09 18:38:29",
+      "album": {
+        "name": "Last Room",
+        "url": "https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz"
+      },
+      "artists": [
+        {
+          "name": "waveform*",
+          "url": "https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd"
+        }
+      ],
+      "duration_ms": 174914,
+      "name": "Favorite Song",
+      "url": "https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Scaredy's World",
@@ -739,22 +755,6 @@
       "duration_ms": 151864,
       "name": "Scaredy's World",
       "url": "https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S"
-    },
-    {
-      "added_at": "2023-02-09 18:38:29",
-      "album": {
-        "name": "Last Room",
-        "url": "https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz"
-      },
-      "artists": [
-        {
-          "name": "waveform*",
-          "url": "https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd"
-        }
-      ],
-      "duration_ms": 174914,
-      "name": "Favorite Song",
-      "url": "https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH"
     },
     {
       "added_at": "2023-02-23 20:58:10",
@@ -821,20 +821,20 @@
       "url": "https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-09 18:38:29",
       "album": {
-        "name": "I cant commit to anything",
-        "url": "https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W"
       },
       "artists": [
         {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
         }
       ],
-      "duration_ms": 102545,
-      "name": "I cant commit to anything",
-      "url": "https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY"
+      "duration_ms": 312240,
+      "name": "Familiar Fields",
+      "url": "https://open.spotify.com/track/2JaUbapUFcKEly61vqlaRz"
     }
   ],
   "unique_name": "side effects",

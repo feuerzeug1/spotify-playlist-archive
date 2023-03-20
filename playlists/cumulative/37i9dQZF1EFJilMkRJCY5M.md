@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-87 songs - 4 hr 27 min
+88 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [6 string american dream](https://open.spotify.com/track/43lYzLeOEuCI3ylod1BluA) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [being a dad and missing mine](https://open.spotify.com/album/4kf6OiSKhk7ZIRRnkP4AGA) | 3:13 | 2023-03-19 |  |
 | [7/22](https://open.spotify.com/track/4IggUXbmr9g0LyDealeCH7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:56 | 2022-05-29 |  |
 | [8 Months](https://open.spotify.com/track/0T5l2AP5TL84CK1KQ499B7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:40 | 2022-10-02 |  |
 | [8 Months](https://open.spotify.com/track/34FV8dxL8QyrVgRPzB6Qzf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [8 Months](https://open.spotify.com/album/78e0sWg0gWKZ9UaQmb6ZlT) | 2:40 | 2022-05-29 | 2022-10-03 |

@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Aly & AJ",
-  "num_followers": 809532,
+  "num_followers": 809786,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGViNzA1NmE0OGM1ZjdkOTI2ODJhOTQ3MTk5NGJmZTc0",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGRiZWUwMWRkZWM3YTI2NDVlMDFkNTU2ZmYxZmNmNjU4",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 254466,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
+      },
+      "artists": [
+        {
+          "name": "Hugo Barriol",
+          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "Our Kingdom",
+      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
+        "name": "Worry No More",
+        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
       },
       "artists": [
         {
-          "name": "Hugo Barriol",
-          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Our Kingdom",
-      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
+      "duration_ms": 221066,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -771,22 +787,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Worry No More",
-        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Making Do",
         "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Break Me Open",
-        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Break Me Open",
-      "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Omaha",
         "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 198600,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Break Me Open",
+        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Break Me Open",
+      "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
     },
     {
       "added_at": "2023-03-17 04:00:00",

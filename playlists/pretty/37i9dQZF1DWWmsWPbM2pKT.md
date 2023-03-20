@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Molchat Doma on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,807 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,190 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 21 | [0% Angel](https://open.spotify.com/track/0l2Ob0zMIQ21gJn642HyQ1) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Ephemeral](https://open.spotify.com/album/4aJdRGvDt8BAU8Po8Sr3dg) | 3:54 |
 | 22 | [Estrés](https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Morro](https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE) | 2:44 |
 | 23 | [Танцевать](https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 3:22 |
-| 24 | [Пластинки](https://open.spotify.com/track/1OgLQdSMi9a7fZOqV96veS) | [Дурной Вкус](https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j) | [Пластинки](https://open.spotify.com/album/0jvMXv33xPDwS96RSQZe9U) | 3:04 |
-| 25 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
+| 24 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
+| 25 | [Пластинки](https://open.spotify.com/track/1OgLQdSMi9a7fZOqV96veS) | [Дурной Вкус](https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j) | [Пластинки](https://open.spotify.com/album/0jvMXv33xPDwS96RSQZe9U) | 3:04 |
 | 26 | [Anvil](https://open.spotify.com/track/4eKN8RPS06OHyk8dTdempU) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [VESSEL](https://open.spotify.com/album/2fiGmNRXBH0QMnkm4jswEr) | 3:29 |
 | 27 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 28 | [Judas Effect](https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 3:12 |
 | 29 | [Люди Надоели](https://open.spotify.com/track/2gLAml7HPysxActxHTqdLq) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [С крыш наших домов](https://open.spotify.com/album/5JLoR1neszuPXlDwOSffYh) | 2:58 |
 | 30 | [Shoes At The Door](https://open.spotify.com/track/5MGFb7xPJRIdP0jn1L7Laj) | [Cactus Ponchos](https://open.spotify.com/artist/4puf0OYh6mMjTRFuprvekt) | [After The Show](https://open.spotify.com/album/4RYqUH75rF5jNWYWKztoAv) | 3:00 |
 | 31 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 |
-| 32 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 |
-| 33 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 |
+| 32 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 |
+| 33 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 |
 | 34 | [Pain](https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 7:19 |
 | 35 | [mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [mitleerenhänden](https://open.spotify.com/album/2uUl09ieBEaFtKStbPrjmA) | 3:29 |
 | 36 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 54 | [Ecstasy](https://open.spotify.com/track/4Sorp7a7ps9faLrKAzcwvX) | [Soviet Soviet](https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu) | [Fate](https://open.spotify.com/album/03ti9fj1guEvPZdYTAQ05D) | 3:03 |
 | 55 | [A Company](https://open.spotify.com/track/3Mf1kQUFstWEQQPZ9XluE4) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Memorabilia](https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY) | 2:58 |
 | 56 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 |
-| 57 | [Biessensoŭnasć](https://open.spotify.com/track/2R1Yk6vm11P3pLIrtBR4eM) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Skryvaj](https://open.spotify.com/album/4v7LVUKXfXJwsomhfHaefk) | 2:56 |
-| 58 | [The Style Is Death](https://open.spotify.com/track/3BMBp3Ope7onUWMUCyZ2ok) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Alabaster Chamber](https://open.spotify.com/album/4vkFkFOTEusDOuy70rDrkL) | 3:57 |
+| 57 | [The Style Is Death](https://open.spotify.com/track/3BMBp3Ope7onUWMUCyZ2ok) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Alabaster Chamber](https://open.spotify.com/album/4vkFkFOTEusDOuy70rDrkL) | 3:57 |
+| 58 | [Biessensoŭnasć](https://open.spotify.com/track/2R1Yk6vm11P3pLIrtBR4eM) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Skryvaj](https://open.spotify.com/album/4v7LVUKXfXJwsomhfHaefk) | 2:56 |
 | 59 | [SEGA SUNSET](https://open.spotify.com/track/4wFwlekWkj23Vu900tKPum) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [RARITIES](https://open.spotify.com/album/0hk4v5Rn7oMCaMu1gGbw7s) | 3:02 |
 | 60 | [Audiotool Day 2016](https://open.spotify.com/track/0mAYx7e7gOsH7wUQgrD8t2) | [Xtract](https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re) | [Audiotool Day 2016](https://open.spotify.com/album/3Zs4J3UFVJxLA2Bs0Iz6rA) | 3:57 |
 | 61 | [По краю острова](https://open.spotify.com/track/0VJYAiu5uZzOCBPSqDrjJq) | [Ploho](https://open.spotify.com/artist/7yjnZ3eibFQRN65u1syJZg), [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [По краю острова](https://open.spotify.com/album/1QviwtPK0YQwvlPcwxs42s) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 99 | [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 |
 | 100 | [Odyssey Point](https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Odyssey Point](https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56) | 4:17 |
 
-Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMDljM2EwZWE2YmM2M2YzN2E0ZmRmYzU2ZmExNjJiOTRj`
+Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMDY4ZTE3ZjUwN2FjOTMwNzJlNzcwNjlmMWI4OWU4ZmYz`

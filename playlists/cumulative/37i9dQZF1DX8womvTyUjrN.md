@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Ela Taubert
 
-338 songs - 17 hr 12 min
+339 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [fuiste](https://open.spotify.com/track/6eS0nYJ6XDrdZfkvUotzp3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [fuiste](https://open.spotify.com/album/1rrMseTyOHnWnU6dbqZC2A) | 2:58 | 2022-12-02 | 2023-02-19 |
 | [FWEGO](https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [FWEGO](https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt) | 3:07 | 2022-07-25 | 2022-10-29 |
 | [Gadejo](https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Gadejo](https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv) | 2:13 | 2022-06-28 | 2022-10-29 |
+| [Game Over](https://open.spotify.com/track/3ad4HMun4ij9XwEShGPJTc) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Game Over](https://open.spotify.com/album/3eMoJmr1Cb6fnZhBbIKCgR) | 2:30 | 2023-03-17 |  |
 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 | 2022-08-08 | 2022-10-29 |
 | [Girasoles](https://open.spotify.com/track/3eZF3DQo3wmT7PUD5PQSPz) | [Inti y Vicente](https://open.spotify.com/artist/4VVwBj04GbOfjT07az5SgD) | [Girasoles](https://open.spotify.com/album/03uRy5s9Wp6jZd36eOLhds) | 2:33 | 2022-12-16 | 2023-01-14 |
 | [Gracias x Nada](https://open.spotify.com/track/1MzHoEWtfuLGAtoxVk5fTZ) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Gracias x Nada](https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0) | 2:52 | 2022-07-28 | 2022-10-29 |
@@ -203,7 +204,7 @@
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-02-24 |  |
 | [Mil Maneras de Morir](https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Mil Maneras de Morir](https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba) | 2:55 | 2022-11-25 | 2023-03-08 |
 | [Mira Loco](https://open.spotify.com/track/4U3m6mG7gzJR38lNyzoZa5) | [Valeria Scolari](https://open.spotify.com/artist/1RE6hxyCRV22rq5Kr3xdGJ) | [Mira Loco](https://open.spotify.com/album/1GSKwQEp4LaOnXST8H9Oi8) | 2:58 | 2022-06-12 | 2022-07-29 |
-| [Moderación \(Con Camilo\)](https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Moderación \(Con Camilo\)](https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD) | 3:19 | 2023-02-03 |  |
+| [Moderación \(Con Camilo\)](https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Moderación \(Con Camilo\)](https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD) | 3:19 | 2023-02-03 | 2023-03-20 |
 | [Moka](https://open.spotify.com/track/0YWNYdhTHfWkXw4fiWRbJH) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Moka](https://open.spotify.com/album/1ePn83tNOKrljAeDRekgTE) | 3:07 | 2022-05-20 | 2022-08-09 |
 | [Money](https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Money](https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P) | 2:33 | 2022-03-21 | 2022-07-09 |
 | [Moschino](https://open.spotify.com/track/2TOXwgZo66czJlgbY8cnAG) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [Moschino](https://open.spotify.com/album/4i9gzbR2drDJXDCgeCDlMS) | 2:35 | 2022-03-21 | 2022-07-09 |

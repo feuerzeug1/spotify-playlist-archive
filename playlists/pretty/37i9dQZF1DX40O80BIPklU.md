@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Alcolirykos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,407 likes - 69 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,591 likes - 69 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 4 | [BIEN](https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Doble P Ache Ene](https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR) | [BIEN](https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD) | 3:29 |
 | 5 | [Migas](https://open.spotify.com/track/61CeB3Wd4hkun9MhuO0fES) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Migas](https://open.spotify.com/album/5lZC1pTFVb0b5rz6j86now) | 4:01 |
 | 6 | [Alzypher Vol\. 10](https://open.spotify.com/track/1gnsY2TnziUSPAdTwScTtl) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alzypher Vol\. 10](https://open.spotify.com/album/6pJJBc9UIOhABBSVWJ1eCd) | 3:02 |
-| 7 | [Kiweed](https://open.spotify.com/track/2Fdol3DAuNvyfFsxTQKpAP) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Kiweed](https://open.spotify.com/album/0pggsrbIax2k63ZLJjeLcy) | 3:17 |
+| 7 | [Kiweed](https://open.spotify.com/track/2Fdol3DAuNvyfFsxTQKpAP) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [UANTI](https://open.spotify.com/artist/0jo4N4Z4HUM6y0N19MApwQ) | [Kiweed](https://open.spotify.com/album/0pggsrbIax2k63ZLJjeLcy) | 3:17 |
 | 8 | [Life's Short](https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Life's Short](https://open.spotify.com/album/4HIt7gmLxWtLDQEVpNRXCZ) | 2:54 |
 | 9 | [La Familia \(Episodio 3\)](https://open.spotify.com/track/3My1xeYZKWoxQ1BL5FTBHK) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [La Familia \(Episodio 3\)](https://open.spotify.com/album/0L4OmODB4Q6fAzRHPgvjNz) | 2:39 |
 | 10 | [Una Calada](https://open.spotify.com/track/3dO4nlMMWLo08eiprSMJqN) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Una Calada](https://open.spotify.com/album/0zkF6rU4NaLQ9msTqcBGwn) | 3:14 |

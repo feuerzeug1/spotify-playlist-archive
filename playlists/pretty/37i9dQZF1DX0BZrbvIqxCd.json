@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 524152,
+  "num_followers": 524194,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDNkZWMxNTIyM2M5MmFkOTJkMDBmODI5N2MwNGY3NjIw",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDQ1ZjFiMzQwYjhmNmE3OGFjMmVjNWE5ZTdlM2RhODdh",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -91,6 +91,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Dear Maria, Count Me In",
+      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 139460,
       "name": "my ex's best friend (with blackbear)",
       "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Dear Maria, Count Me In",
-      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -355,22 +355,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Still Waiting",
-      "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "SIGNED and SEALED in BLOOD",
         "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 306520,
       "name": "Rose Tattoo",
       "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "American Jesus",
-      "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 196120,
       "name": "Fuck Authority",
       "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "American Jesus",
+      "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -627,6 +627,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "The General Strike",
         "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
       },
@@ -659,38 +675,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Old Bones",
-        "url": "https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Coffee Talk",
-      "url": "https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Road to Ruin (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 149466,
       "name": "I Wanna Be Sedated - 2002 Remaster",
       "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Old Bones",
+        "url": "https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Coffee Talk",
+      "url": "https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -983,22 +983,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Rented World",
-        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "I Don't Wanna Be An Asshole Anymore",
-      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "She's A God",
         "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Rented World",
+        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "I Don't Wanna Be An Asshole Anymore",
+      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "NINE",
         "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 185986,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 229101,
+      "name": "Smash Shit Up",
+      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1095,22 +1111,6 @@
       "duration_ms": 228831,
       "name": "Never Fight A Man With A Perm",
       "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 229101,
-      "name": "Smash Shit Up",
-      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lost Touch",
-        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
-      },
-      "artists": [
-        {
-          "name": "We Were Sharks",
-          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
-        }
-      ],
-      "duration_ms": 154971,
-      "name": "Hotel Beds",
-      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Sundressed & Nominee",
         "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
+        "name": "Lost Touch",
+        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
       },
       "artists": [
         {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+          "name": "We Were Sharks",
+          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
         }
       ],
-      "duration_ms": 191756,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
+      "duration_ms": 154971,
+      "name": "Hotel Beds",
+      "url": "https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1503,6 +1487,22 @@
       "duration_ms": 210160,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6Dgix2xCbnqigfrjulm24R"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 191756,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
     },
     {
       "added_at": "2020-11-20 21:27:18",

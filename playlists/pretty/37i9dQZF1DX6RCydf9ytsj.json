@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 522723,
+  "num_followers": 523085,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODM4MiwwMDAwMDAwMDUxMmJiYjRjNGNlYjBlZmFkYjY4NDQ1Mzc3ZmFhYjcw",
+  "snapshot_id": "MTY3NTk5ODM4MiwwMDAwMDAwMGNkYmRhMmNjZDZjZDZlY2VjY2E4YTViNjg2MjdmYmIy",
   "tracks": [
     {
       "added_at": "2022-07-25 21:36:54",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Simple Man",
-        "url": "https://open.spotify.com/album/3ntl3KgaLDbSnnuai9AusB"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Ocean Front Property",
         "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 188533,
       "name": "Ocean Front Property",
       "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Simple Man",
+        "url": "https://open.spotify.com/album/3ntl3KgaLDbSnnuai9AusB"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Does Fort Worth Ever Cross Your Mind",
-        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "The Fireman",
-      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 185239,
       "name": "Guitars, Cadillacs",
       "url": "https://open.spotify.com/track/0LATteOxdYq4vXTNZ97r77"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Fancy Free",
+        "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Elvira",
+      "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Fancy Free",
-        "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
+        "name": "Does Fort Worth Ever Cross Your Mind",
+        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 225626,
-      "name": "Elvira",
-      "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
+      "duration_ms": 154360,
+      "name": "The Fireman",
+      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -859,26 +859,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Won't Be Blue Anymore",
-        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
-      },
-      "artists": [
-        {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
-        },
-        {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Meet Me In Montana",
-      "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Friendship",
         "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 231026,
       "name": "Seven Spanish Angels (with Ray Charles)",
       "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Won't Be Blue Anymore",
+        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
+      },
+      "artists": [
+        {
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+        },
+        {
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Meet Me In Montana",
+      "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Won't Be Blue Anymore",
-        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
-      },
-      "artists": [
-        {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
-        }
-      ],
-      "duration_ms": 292626,
-      "name": "Everything That Glitters (Is Not Gold)",
-      "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "The Bocephus Box Set",
         "url": "https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 255000,
       "name": "A Country Boy Can Survive",
       "url": "https://open.spotify.com/track/5jVGZTrDusSvwhRDPmZMSB"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Won't Be Blue Anymore",
+        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
+      },
+      "artists": [
+        {
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+        }
+      ],
+      "duration_ms": 292626,
+      "name": "Everything That Glitters (Is Not Gold)",
+      "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 222400,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Roll On",
-        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Roll On (Eighteen Wheeler)",
-      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "West By West",
         "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 160533,
       "name": "Jose Cuervo",
       "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Best Of Kenny Rogers: Through The Years",
+        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Best Of Kenny Rogers: Through The Years",
-        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
+        "name": "Roll On",
+        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 262079,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
+      "duration_ms": 262626,
+      "name": "Roll On (Eighteen Wheeler)",
+      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
     },
     {
       "added_at": "2022-07-25 21:36:54",

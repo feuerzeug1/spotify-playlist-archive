@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-290 songs - 18 hr 0 min
+291 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Joy In The Morning](https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:36 | 2022-06-10 |  |
 | [Just The Cross](https://open.spotify.com/track/1tKqhzuLzYgmdwGDAbuTJI) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Love Letters From An Empty Tomb](https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw) | 4:57 | 2022-04-22 | 2022-07-09 |
 | [KEEP YOUR WORD](https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [KEEP YOUR WORD / GOODBYES](https://open.spotify.com/album/2K3Ed5r7nyX64TYxKlaH4n) | 3:10 | 2022-07-08 | 2023-03-11 |
-| [King Of Kings](https://open.spotify.com/track/0bHChHKTmyzZkXxGz7qfVm) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [King Of Kings](https://open.spotify.com/album/2LO7j9mYezEdSEstvoFuKv) | 4:01 | 2022-08-26 |  |
+| [King Of Kings](https://open.spotify.com/track/0bHChHKTmyzZkXxGz7qfVm) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [King Of Kings](https://open.spotify.com/album/2LO7j9mYezEdSEstvoFuKv) | 4:01 | 2022-08-26 | 2023-03-20 |
 | [Landslide](https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Landslide](https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF) | 3:04 | 2022-04-29 | 2023-03-11 |
 | [Leave A Light On](https://open.spotify.com/track/6Tqm0Fo4yLKec09auSBTFC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:00 | 2022-02-25 |  |
 | [Left It In The Water \- Edit](https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Left It In The Water](https://open.spotify.com/album/55DXaaOhUleFBNezGL6PGM) | 3:34 | 2022-08-26 | 2022-10-02 |
@@ -203,6 +203,7 @@
 | [Our Eyes Are On You \- Radio Edit](https://open.spotify.com/track/6Kg6BHRQAd0xKDGGJ7LJoK) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are On You](https://open.spotify.com/album/6kvDlhfUy3TmrtrNPTurmw) | 4:24 | 2022-02-25 | 2022-07-29 |
 | [Over and Over](https://open.spotify.com/track/0llRdEbtFavEzGYkpJjfTg) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/6ZRdE0msjDHKGG076tz87A) | 3:35 | 2022-04-22 | 2022-09-22 |
 | [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 | 2022-08-26 | 2023-03-11 |
+| [Oxygen](https://open.spotify.com/track/2pOzcg0ID39t34si3387GC) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 3:26 | 2023-03-10 |  |
 | [Peace of God](https://open.spotify.com/track/5DZeJ1BYlDHvkgUD5X8Oti) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Everywhere + Nowhere \(Black Edition Deluxe\)](https://open.spotify.com/album/308B9tBVWyLjjLan4517p4) | 3:16 | 2022-02-25 | 2022-10-20 |
 | [Perfect Love](https://open.spotify.com/track/2PeGP15nxf7OXaw4PQw0ZA) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Perfect Love](https://open.spotify.com/album/10nB2ZDmXKHbBRNES98Cmv) | 4:12 | 2022-02-25 | 2022-04-29 |
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2022-04-22 |  |

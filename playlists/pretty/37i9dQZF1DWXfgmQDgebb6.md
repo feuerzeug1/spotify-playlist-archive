@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: CIFIKA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,271 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,290 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 29 | [Swim \- Virus Edit](https://open.spotify.com/track/6SgtEjK5R4DkUQS0jhqMLH) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0) | 3:27 |
 | 30 | [Fond](https://open.spotify.com/track/7lVbB0vEwm4eQiafyktZ1y) | [Marrakech](https://open.spotify.com/artist/396uBOizN3Vw2K2FmSlU2B) | [Circulation](https://open.spotify.com/album/7hnL3txw0rfEFY78IYh0by) | 3:46 |
 | 31 | [yayou hoi](https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [yayou hoi](https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD) | 3:08 |
-| 32 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 |
+| 32 | [크림빵 Creamppang](https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [크림빵 Creamppang](https://open.spotify.com/album/63GZq7rpyZPIVV79W7Qol4) | 2:49 |
 | 33 | [SPACE MULAN](https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [SPACE MULAN](https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a) | 2:39 |
-| 34 | [크림빵 Creamppang](https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [크림빵 Creamppang](https://open.spotify.com/album/63GZq7rpyZPIVV79W7Qol4) | 2:49 |
+| 34 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 |
 | 35 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 |
 | 36 | [Melody](https://open.spotify.com/track/05gYK3Q5t0VHs9kK7sPTcW) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Melody](https://open.spotify.com/album/3esIkkntCgiFEfYmgKgTBR) | 4:13 |
 | 37 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 44 | [Crusader](https://open.spotify.com/track/7N0MH5Zszb3tp0o6Xt8mWp) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Crusader](https://open.spotify.com/album/7sxUW4ouTE1tNJHMJb6KWS) | 3:23 |
 | 45 | [Daisy \(Feat\. Han Yo Han\)](https://open.spotify.com/track/2ZdhVj2NAYOxY36rMjgN6b) | [ABLE](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Daisy](https://open.spotify.com/album/0EjZp5PnEXF0UD1OXlwUXk) | 3:05 |
 | 46 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 |
-| 47 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 |
+| 47 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 | 48 | [Damn Cold](https://open.spotify.com/track/0rn1H3305mSdVSU8Nkeg49) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Damn Cold](https://open.spotify.com/album/5NY38YKdFS1IRtrYZtjlqe) | 3:32 |
-| 49 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
+| 49 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 |
 | 50 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
 
-Snapshot ID: `MTY3ODk0MjAyMywwMDAwMDAwMDRiOGU0NDUzYjJiZTg3Y2JhZjM0OTNmYjg4YWQwOTc3`
+Snapshot ID: `MTY3ODk0MjAyMywwMDAwMDAwMDJlMWNlYjY1MzFlN2MxZTM0YTg5N2FkOGEzYmJhZDkx`

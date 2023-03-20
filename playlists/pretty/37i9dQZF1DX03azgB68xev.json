@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 195491,
+  "num_followers": 195556,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDIwYWM2NGUwMDUwNzUzMWU1OGRmMDY5ZTc2NDZlMTdi",
+  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDk5OWY5NjkzYTYyN2U3YjZlMmRlNTY2YTQ1NDc5OTBk",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Enough Already",
-        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 149657,
-      "name": "See Me Through It",
-      "url": "https://open.spotify.com/track/6ymBqDImXK5whaMxqynqX8"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Take Your Time",
         "url": "https://open.spotify.com/album/0fyB1lP54sr5PHXzFwWVqt"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 199066,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/7EvHpaw8rCjbSpUp4qfu3F"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Enough Already",
+        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 149657,
+      "name": "See Me Through It",
+      "url": "https://open.spotify.com/track/6ymBqDImXK5whaMxqynqX8"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -323,22 +323,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
+        "name": "Love Is Everything We Need",
+        "url": "https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        },
-        {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 193007,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp"
+      "duration_ms": 157617,
+      "name": "Love Is Everything We Need",
+      "url": "https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -359,18 +355,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Love Is Everything We Need",
-        "url": "https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M"
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
       },
       "artists": [
         {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
         }
       ],
-      "duration_ms": 157617,
-      "name": "Love Is Everything We Need",
-      "url": "https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG"
+      "duration_ms": 193007,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "High Low (Remix)",
-        "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        },
-        {
-          "name": "Tryhard Society",
-          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
-        }
-      ],
-      "duration_ms": 164383,
-      "name": "High Low - Remix",
-      "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Always Will Be",
         "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 296666,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "High Low (Remix)",
+        "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Tryhard Society",
+          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
+        }
+      ],
+      "duration_ms": 164383,
+      "name": "High Low - Remix",
+      "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -903,34 +903,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Won't Stop (Reyer Remix)",
-        "url": "https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "Fern",
-          "url": "https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp"
-        },
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 184335,
-      "name": "Won't Stop - Reyer Remix",
-      "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Source",
         "url": "https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ"
       },
@@ -959,6 +931,34 @@
       "duration_ms": 197834,
       "name": "This Love",
       "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Won't Stop (Reyer Remix)",
+        "url": "https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Fern",
+          "url": "https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp"
+        },
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 184335,
+      "name": "Won't Stop - Reyer Remix",
+      "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "morning always comes",
-        "url": "https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ"
-      },
-      "artists": [
-        {
-          "name": "Sajan Nauriyal",
-          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
-        }
-      ],
-      "duration_ms": 200525,
-      "name": "morning always comes",
-      "url": "https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 174216,
       "name": "HEY GOD",
       "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "morning always comes",
+        "url": "https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ"
+      },
+      "artists": [
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        }
+      ],
+      "duration_ms": 200525,
+      "name": "morning always comes",
+      "url": "https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Heavenly (Ethan C. Davis Remix)",
-        "url": "https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        },
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Heavenly - Ethan C. Davis Remix",
-      "url": "https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
       },
@@ -1239,6 +1215,30 @@
       "duration_ms": 137990,
       "name": "Fake It - Warehouse Mix",
       "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Heavenly (Ethan C. Davis Remix)",
+        "url": "https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        },
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Heavenly - Ethan C. Davis Remix",
+      "url": "https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Smell The Roses",
-        "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 253940,
-      "name": "Smell The Roses",
-      "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Father",
         "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 213281,
       "name": "Father",
       "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Smell The Roses",
+        "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 253940,
+      "name": "Smell The Roses",
+      "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "This Is The Love",
         "url": "https://open.spotify.com/album/3qJbjQzqUv8AOQBlOEXlNr"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 166306,
       "name": "This Is The Love",
       "url": "https://open.spotify.com/track/2LS7Ww44t936USz0gg4k1w"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     }
   ],
   "unique_name": "Pop for Life",

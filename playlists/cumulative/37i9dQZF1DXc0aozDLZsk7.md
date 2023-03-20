@@ -4,7 +4,7 @@
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-208 songs - 12 hr 2 min
+209 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Heather \- Acoustic](https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Heather](https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6) | 3:18 | 2022-03-30 |  |
 | [Hide](https://open.spotify.com/track/7GXG38022Aw5g67p1HTpOp) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Hide](https://open.spotify.com/album/0rrvnWE3Wr2I8twUu80PX1) | 1:51 | 2022-06-30 | 2022-07-13 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2022-03-30 | 2022-11-13 |
-| [Home](https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:20 | 2022-09-23 |  |
+| [Home](https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:20 | 2022-09-23 | 2023-03-20 |
 | [Home](https://open.spotify.com/track/4OsBjrJQbPSMAqdjLBaGOt) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:20 | 2022-06-30 | 2022-10-13 |
 | [Home](https://open.spotify.com/track/1k86Fmt123wy26VMqGxpGc) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Home](https://open.spotify.com/album/1VJR3KCAPNY67woWcVWTtS) | 3:47 | 2022-03-30 | 2022-07-29 |
 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 | 2022-03-30 |  |
@@ -178,6 +178,7 @@
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2022-06-30 |  |
 | [Straight To The Heart](https://open.spotify.com/track/0MJGEZXkdMj7uQUGhI6gj3) | [Nick Talos](https://open.spotify.com/artist/5pCzC0BOLY2MpqYr1qksg2), [David Spekter](https://open.spotify.com/artist/0F1UBU7ZD8HOR44X5M6eMT) | [Straight To The Heart](https://open.spotify.com/album/1XleM4IkyF9DuTZDRVWT3a) | 2:32 | 2022-03-30 | 2022-07-26 |
 | [Superhero](https://open.spotify.com/track/1Fo4OvzP9PThFKMeMIAEYu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/1Xf5RZ7zQjF2WEkk7KpZVi) | 2:59 | 2022-06-30 | 2022-11-02 |
+| [Superhero](https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW) | 2:59 | 2022-09-23 |  |
 | [Suzanne](https://open.spotify.com/track/0ylDYDSD31cpJLOQWrs74v) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Suzanne](https://open.spotify.com/album/67DYBy4YINwNQKp1odHAN0) | 4:15 | 2022-03-30 | 2022-07-29 |
 | [Sword from the Stone](https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted \(Deluxe\)](https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ) | 3:21 | 2022-03-30 | 2022-07-29 |
 | [Take Care of You \- Acoustic](https://open.spotify.com/track/5D8DzsfStGm68YZxWnHqrK) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Take Care of You \(Acoustic\)](https://open.spotify.com/album/3PyP1NAg6qIQQc4z15ZIkz) | 3:13 | 2022-03-30 | 2022-07-29 |

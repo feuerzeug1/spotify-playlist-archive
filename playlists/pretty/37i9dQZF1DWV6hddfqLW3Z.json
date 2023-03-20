@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 736641,
+  "num_followers": 736805,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUwMzk0MiwwMDAwMDAwMDBiMTI2MTJmYmQ3ZDE3ODdkYWY5MDQ4NmMyY2EyZjA4",
+  "snapshot_id": "MTY3ODUwMzk0MiwwMDAwMDAwMGUxZGJiNDE1NWE2YTBmYjgxNTEwOWE3Njc0YjIyZDY1",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Agridoce",
-        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
-      },
-      "artists": [
-        {
-          "name": "Agridoce",
-          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
-        }
-      ],
-      "duration_ms": 349573,
-      "name": "Dan\u00e7ando",
-      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Meus Caros Amigos",
         "url": "https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 166573,
       "name": "O Que Ser\u00e1 (A Flor Da Terra)",
       "url": "https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Agridoce",
+        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
+      },
+      "artists": [
+        {
+          "name": "Agridoce",
+          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
+        }
+      ],
+      "duration_ms": 349573,
+      "name": "Dan\u00e7ando",
+      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
     },
     {
-      "added_at": "2023-03-19 01:11:31",
+      "added_at": "2023-03-20 00:42:14",
       "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
@@ -1169,7 +1169,7 @@
       "url": "https://open.spotify.com/track/0P1JJk72Sb8o9d18SltaUS"
     },
     {
-      "added_at": "2023-03-19 01:11:31",
+      "added_at": "2023-03-20 00:42:14",
       "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Minha Felicidade",
-        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 217384,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "12 Horas (Ao Vivo) (feat. Mar\u00edlia Mendon\u00e7a) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/2XJWP3wpipPyna8pFX68ZJ"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 202869,
       "name": "12 Horas (Ao Vivo) (feat. Mar\u00edlia Mendon\u00e7a) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1aYI1bfSzo2M1LjFwZrXLY"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Minha Felicidade",
+        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 217384,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
     }
   ],
   "unique_name": "Cafezinho",

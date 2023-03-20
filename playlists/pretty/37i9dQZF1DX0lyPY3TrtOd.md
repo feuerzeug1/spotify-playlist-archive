@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > Extatische gevoelens met prachtige muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,628 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,634 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 27 | [Pulse VI](https://open.spotify.com/track/63t4RxrpfUdVYJhr5Y91Yi) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:27 |
 | 28 | [Howl With Me](https://open.spotify.com/track/2m9x2CsVhMXQZW0LtBKeZk) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4) | 4:19 |
 | 29 | [Broken](https://open.spotify.com/track/76XZIVR8Q4EPiNnXU0z5px) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:12 |
-| 30 | [Waiting Outside](https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:40 |
-| 31 | [saudade \- Edit](https://open.spotify.com/track/3ecmX9cdy5NKeoE4GwLoV3) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [saudade \- Edit](https://open.spotify.com/album/71QyRx58NvssqPyzBQq9B3) | 4:32 |
+| 30 | [saudade \- Edit](https://open.spotify.com/track/3ecmX9cdy5NKeoE4GwLoV3) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [saudade \- Edit](https://open.spotify.com/album/71QyRx58NvssqPyzBQq9B3) | 4:32 |
+| 31 | [Waiting Outside](https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:40 |
 | 32 | [Yesterday](https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Yesterday](https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS) | 2:53 |
 | 33 | [Blue Skies, Big Nights](https://open.spotify.com/track/1cPq8vWVPO27bhy3a1BBVe) | [Will Hearn](https://open.spotify.com/artist/4jR4yABF1QXCxXDXYNKcVQ) | [Blue Skies, Big Nights](https://open.spotify.com/album/4GoDFzrRO2qGCrAH7WujYF) | 2:52 |
 | 34 | [Off Goes The Light](https://open.spotify.com/track/2jXZYoIEspEBQzRQuJp0hf) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [BIB10](https://open.spotify.com/album/0oQnzhETkhY0LgeWGeEI4S) | 4:33 |
 | 35 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 |
 | 36 | [The Lazer](https://open.spotify.com/track/769PAogOgq1KurfwLjWj2J) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Big Love Blanket](https://open.spotify.com/album/10QMlGEBzkHyyaJJbaThOV) | 3:51 |
-| 37 | [It's Not You \- Nightshade Remix](https://open.spotify.com/track/0AB7xxoxUjWA1yoEEx87lw) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Nightshade](https://open.spotify.com/artist/5jlxXMEsdRPKWI4DEnBWlT) | [It's Not You](https://open.spotify.com/album/3iy2S5rOvMYWHiYvBCmeDT) | 5:12 |
-| 38 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 |
+| 37 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 |
+| 38 | [It's Not You \- Nightshade Remix](https://open.spotify.com/track/0AB7xxoxUjWA1yoEEx87lw) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Nightshade](https://open.spotify.com/artist/5jlxXMEsdRPKWI4DEnBWlT) | [It's Not You](https://open.spotify.com/album/3iy2S5rOvMYWHiYvBCmeDT) | 5:12 |
 | 39 | [Down](https://open.spotify.com/track/2O0SzeXQTcXFlGuFsY5JNH) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Down](https://open.spotify.com/album/2Ra7ZC8kZB8dWKveQYkaCt) | 3:52 |
 | 40 | [Easy Going](https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Easy Going](https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi) | 2:28 |
 | 41 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 51 | [SEROTONIN](https://open.spotify.com/track/77qco7OEBQKvM6uQvCcTlZ) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [SEROTONIN](https://open.spotify.com/album/6leBN3kkqUoHi9dgMOfMwo) | 1:35 |
 | 52 | [Six Hills](https://open.spotify.com/track/0DS6SAfdJWRmbAb1Ltl1Px) | [Lewsberg](https://open.spotify.com/artist/49q3PS0SzgbyvWDwZj7qg5) | [Six Hills](https://open.spotify.com/album/5e6m3OIy6GxGTJBqag8Nki) | 5:45 |
 | 53 | [She is Out](https://open.spotify.com/track/4BaquSwI7RbLtPhIU5fi9N) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/7e1AWSMpCR9n2R8pC1gQ1i) | 2:06 |
-| 54 | [Live It Up](https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Always In My Head](https://open.spotify.com/album/5yNSrDrLVydHp5WjKAkKju) | 3:18 |
-| 55 | [Born Again](https://open.spotify.com/track/3imW9xm9mC6koegNba6pL9) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Born Again](https://open.spotify.com/album/7hnrKp9gJfTwMyu87ORT7I) | 3:15 |
+| 54 | [Born Again](https://open.spotify.com/track/3imW9xm9mC6koegNba6pL9) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Born Again](https://open.spotify.com/album/7hnrKp9gJfTwMyu87ORT7I) | 3:15 |
+| 55 | [Live It Up](https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Always In My Head](https://open.spotify.com/album/5yNSrDrLVydHp5WjKAkKju) | 3:18 |
 | 56 | [Peace, Love & Profit](https://open.spotify.com/track/7jByqm6en8id0GM0NbVth9) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [yellow](https://open.spotify.com/album/5COeDegmKD30s0oDWAY1Cb) | 2:57 |
 | 57 | [Inside Out \- Kraak & Smaak Remix](https://open.spotify.com/track/5xuiK7v2JYO6aphlTMON3U) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Inside Out \(Kraak & Smaak Remix\)](https://open.spotify.com/album/5GxlIIFZGmY9T6WYjwi1sb) | 4:16 |
 | 58 | [Here We Go Again](https://open.spotify.com/track/3yYZe2t3bgCxJvAA4Dg3dA) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [Here We Go Again](https://open.spotify.com/album/1hZFUyWzdmcMgD85mrPsCb) | 3:15 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 61 | [cool](https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:53 |
 | 62 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 |
 | 63 | [BACKYARD PARTY](https://open.spotify.com/track/59SZWfl2cuxiaJKI94LCRK) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 2:06 |
-| 64 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 |
-| 65 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 |
+| 64 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 |
+| 65 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 |
 | 66 | [Back to Bed](https://open.spotify.com/track/5wHBP7FV46dDjyAej8h81y) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Back to Bed](https://open.spotify.com/album/7FuDYsundeiBKaMYwYtNVn) | 2:25 |
 | 67 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 |
 | 68 | [Boulevard](https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Boulevard](https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG) | 3:05 |
 | 69 | [3 Nights](https://open.spotify.com/track/3VjxQzKXRtV2c8W7IeAXQh) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [Milkshakes & Heartbreaks](https://open.spotify.com/album/4HctltJvLZNQuRM3qeCR8s) | 2:40 |
 | 70 | [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDc0YWQ5ZWQxODY2NWI1OTNkYTg2MzhhNTlkZjYwZTZj`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGM5MDM2MzcxYTkxMjYyMDliNDYzZjcwMjdkZWJmZGI0`

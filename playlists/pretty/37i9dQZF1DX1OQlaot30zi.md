@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rhove, thasup, Tedua, Dani Faiv e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,087 likes - 98 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,105 likes - 98 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 17 | [Me vs\. The World](https://open.spotify.com/track/69QDwkWwn4dP5Nccf9QF3S) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [...Me vs\. The World](https://open.spotify.com/album/0cCx4pBExwplLGU6VOSMmh) | 2:12 |
 | 18 | [Andiamo Via](https://open.spotify.com/track/2gLsFd7oFv5SNSQf5SRhuh) | [Rico Rua](https://open.spotify.com/artist/5qtpAedIGNUyxyAyZ4B74E), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1) | [Andiamo Via](https://open.spotify.com/album/6HAAFMX4S9uslfm3gbjH8t) | 2:59 |
 | 19 | [Amore Bianco](https://open.spotify.com/track/7omuQEx0gZX4TjXKX58AGl) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [Amore Bianco](https://open.spotify.com/album/53ouXegw7U2gjuMsl0jnqg) | 2:21 |
-| 20 | [Cancellami](https://open.spotify.com/track/10S27JSB5fgrOgexZ8ZRq5) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [KIVI](https://open.spotify.com/artist/59cW56mLjMBzSNwbSSHnjj) | [Cancellami](https://open.spotify.com/album/0Sfv0G9vhU4vPcDyCLR23J) | 2:26 |
+| 20 | [Cancellami](https://open.spotify.com/track/10S27JSB5fgrOgexZ8ZRq5) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [KIVI](https://open.spotify.com/artist/6jgyGThYIMlvjw6J9MIggu) | [Cancellami](https://open.spotify.com/album/0Sfv0G9vhU4vPcDyCLR23J) | 2:26 |
 | 21 | [IN CERCHIO.](https://open.spotify.com/track/7EX0woHpmvLnYUw5QG2sKy) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [IN CERCHIO.](https://open.spotify.com/album/49nsEDETvyg6BFFJi1oz2R) | 1:56 |
 | 22 | [Natura](https://open.spotify.com/track/5ebE6c9KKiOgI4iF40AraF) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Dj Double S](https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0), [Samuel](https://open.spotify.com/artist/0zcmS7osRfOk8EJpwUvQFr) | [Natura](https://open.spotify.com/album/5974A4vRIsQbMMx6xLzbZL) | 4:20 |
 | 23 | [RAP](https://open.spotify.com/track/54Mz6E9btIVRVkPvsuwoMO) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Macro Marco](https://open.spotify.com/artist/4W7U7bpnH1h0VKxMIRSzTn) | [RAP](https://open.spotify.com/album/38p9eSCy4PibJTe1qI15lb) | 2:38 |

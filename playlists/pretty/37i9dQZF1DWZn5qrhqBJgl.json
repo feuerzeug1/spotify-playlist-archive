@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 92493,
+  "num_followers": 92552,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk0ODE5NiwwMDAwMDAwMDAwOTk1YzczZWZhZDBmMDU5YmI5MDA0ODdiMGZkMTc5",
+  "snapshot_id": "MTY0Nzk0ODE5NiwwMDAwMDAwMGNhYjg4YWRiYTdkZjZhNDc0YWI2ZTYxZjY0NjZlMzdj",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Palms",
-        "url": "https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45"
-      },
-      "artists": [
-        {
-          "name": "JordanXL",
-          "url": "https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq"
-        }
-      ],
-      "duration_ms": 152213,
-      "name": "Palms",
-      "url": "https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap",
         "url": "https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 202443,
       "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap (Instrumental)",
       "url": "https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Palms",
+        "url": "https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45"
+      },
+      "artists": [
+        {
+          "name": "JordanXL",
+          "url": "https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq"
+        }
+      ],
+      "duration_ms": 152213,
+      "name": "Palms",
+      "url": "https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Draai Je Om",
+        "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        }
+      ],
+      "duration_ms": 194984,
+      "name": "Draai Je Om - Instrumental",
+      "url": "https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Skye",
         "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
       },
@@ -575,6 +591,22 @@
       "duration_ms": 190098,
       "name": "Skye",
       "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Rahat",
+        "url": "https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 166885,
+      "name": "Rahat - Instrumental",
+      "url": "https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -603,22 +635,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Draai Je Om",
-        "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
-      },
-      "artists": [
-        {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
-        }
-      ],
-      "duration_ms": 194984,
-      "name": "Draai Je Om - Instrumental",
-      "url": "https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Act Upon",
         "url": "https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 131000,
       "name": "Peepers",
       "url": "https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Rahat",
-        "url": "https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 166885,
-      "name": "Rahat - Instrumental",
-      "url": "https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "SMOK",
-        "url": "https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7"
-      },
-      "artists": [
-        {
-          "name": "Sinan \u00d6ktem",
-          "url": "https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv"
-        }
-      ],
-      "duration_ms": 160793,
-      "name": "SMOK",
-      "url": "https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 131350,
       "name": "Crushing",
       "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "SMOK",
+        "url": "https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7"
+      },
+      "artists": [
+        {
+          "name": "Sinan \u00d6ktem",
+          "url": "https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv"
+        }
+      ],
+      "duration_ms": 160793,
+      "name": "SMOK",
+      "url": "https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Instant Knafeh",
-        "url": "https://open.spotify.com/album/3W75uqmteAdzH7BaJjWVbz"
-      },
-      "artists": [
-        {
-          "name": "Kawakb",
-          "url": "https://open.spotify.com/artist/5wkaR7CTqFNnNg9K0cGcSp"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Instant Knafeh",
-      "url": "https://open.spotify.com/track/6rjwVNcnNnIuHJtDKksKec"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Rahat",
         "url": "https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 204477,
       "name": "Wie im Traum - Instrumental",
       "url": "https://open.spotify.com/track/2XlOrYMsqtvxFTtO3ktDhQ"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Instant Knafeh",
+        "url": "https://open.spotify.com/album/3W75uqmteAdzH7BaJjWVbz"
+      },
+      "artists": [
+        {
+          "name": "Kawakb",
+          "url": "https://open.spotify.com/artist/5wkaR7CTqFNnNg9K0cGcSp"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Instant Knafeh",
+      "url": "https://open.spotify.com/track/6rjwVNcnNnIuHJtDKksKec"
     },
     {
       "added_at": "2022-03-22 11:23:16",

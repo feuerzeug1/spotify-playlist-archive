@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -5774,6 +5774,24 @@
     {
       "album": {
         "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
+    },
+    {
+      "album": {
+        "name": "Eat Your Young",
         "url": "https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt"
       },
       "artists": [
@@ -5784,7 +5802,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
@@ -16238,7 +16256,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 206315,
       "name": "Ra\u0137e\u0161u Zin\u0101tne",
       "url": "https://open.spotify.com/track/3IZUwm8nYtVN6zqw9fa9W4"
@@ -16484,7 +16502,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 162973,
       "name": "River",
       "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
@@ -23586,7 +23604,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 126206,
       "name": "\u0416\u0430\u0440\u0430",
       "url": "https://open.spotify.com/track/2KsEL6RwoLkjym5opGFkqd"

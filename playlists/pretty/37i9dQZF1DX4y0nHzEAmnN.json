@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1319,
+  "num_followers": 1318,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0NjE4MywwMDAwMDAwMDFiYTMwZThmNjRhOWY1YmY0N2U2ZDI0NGFmM2JlNzdk",
+  "snapshot_id": "MTY3OTA0NjE4MywwMDAwMDAwMGQ5YmMxZTllYWIzY2U5ODU3NDQxZjhlNmYyYmE1ZWY0",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Leoncito Alado",
-        "url": "https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S"
-      },
-      "artists": [
-        {
-          "name": "Leoncito Alado",
-          "url": "https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5"
-        }
-      ],
-      "duration_ms": 83018,
-      "name": "El Ba\u00f1o del Elefantito",
-      "url": "https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Fantastic Voyages",
         "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 109896,
       "name": "Nice 'N' Clean",
       "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Leoncito Alado",
+        "url": "https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S"
+      },
+      "artists": [
+        {
+          "name": "Leoncito Alado",
+          "url": "https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5"
+        }
+      ],
+      "duration_ms": 83018,
+      "name": "El Ba\u00f1o del Elefantito",
+      "url": "https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Moey's Music Party",
-        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
       "artists": [
         {
-          "name": "Moey",
-          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
         }
       ],
-      "duration_ms": 200920,
-      "name": "Getting Dressed Is the Best",
-      "url": "https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5"
+      "duration_ms": 66613,
+      "name": "The Potty Dance Song",
+      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+        "name": "Moey's Music Party",
+        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
       },
       "artists": [
         {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+          "name": "Moey",
+          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
         }
       ],
-      "duration_ms": 66613,
-      "name": "The Potty Dance Song",
-      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
+      "duration_ms": 200920,
+      "name": "Getting Dressed Is the Best",
+      "url": "https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 90900,
       "name": "Going Back to School Today",
       "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Rocknoceros",
-        "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
-      },
-      "artists": [
-        {
-          "name": "Rocknoceros",
-          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Washing My Hands",
-      "url": "https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Canciones Para Chicos",
         "url": "https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 110960,
       "name": "Canci\u00f3n De Tomar El T\u00e9",
       "url": "https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Rocknoceros",
+        "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
+      },
+      "artists": [
+        {
+          "name": "Rocknoceros",
+          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Washing My Hands",
+      "url": "https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B"
     },
     {
       "added_at": "2023-03-17 09:43:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010 likes - 165 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011 likes - 165 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 65 | [Llégale](https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Llégale](https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB) | 4:13 |
 | 66 | [Pasado y Presente](https://open.spotify.com/track/6NPjHwhEG7eQUQBoPFBrnz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:41 |
 | 67 | [Cumpleaños](https://open.spotify.com/track/6La6oWlGposkrgvLjjRJju) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:39 |
-| 68 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 |
-| 69 | [Espina](https://open.spotify.com/track/1jsFnIYH6MnEjMyvJn7HF1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:18 |
+| 68 | [Espina](https://open.spotify.com/track/1jsFnIYH6MnEjMyvJn7HF1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:18 |
+| 69 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 |
 | 70 | [Modo de Avión](https://open.spotify.com/track/2sR8ZcBWTUVxLVbbqMPmLD) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:40 |
 | 71 | [Sigueme los Pasos](https://open.spotify.com/track/3RTmnQQNya9v6ZKPoCIp2E) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 4:06 |
 | 72 | [Ahora Que Te Vas](https://open.spotify.com/track/6j9GnGF3oWh0cnbWDFcvE6) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [Renacer](https://open.spotify.com/album/0cHTcIIMjpgZ2zV3ilMRfR) | 3:48 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 164 | [Amanecer Contigo](https://open.spotify.com/track/1DzgxamWIUxbIvGzHNocFj) | [Tormenta](https://open.spotify.com/artist/5IxyAzEThg31lxtUWCcb2q) | [Bendiciones \(Deluxe Edition\)](https://open.spotify.com/album/0uj7i2QiUuSyi7STcjo9uZ) | 3:29 |
 | 165 | [No Body Like You](https://open.spotify.com/track/0pC44HyexlUgpwQ9BPzIx7) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Latinos de Corazón](https://open.spotify.com/album/7gCIvYTE49QuPO8aW746wo) | 3:56 |
 
-Snapshot ID: `Mjc5ODQ5NjEsMDAwMDAwMDA5Y2ZmMmY2ODZhZWJjYmI0ZTkyYzIwNGM3OTUzOTNmNw==`
+Snapshot ID: `Mjc5ODc4NDEsMDAwMDAwMDAxNzUwZjBjYjNkODUxNDUzMGJiOWIwZTFkMzQ2MDA2MA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,598 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,630 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 42 | [Together Alone](https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB) | [Nuit Oceān](https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4) | [Island \-EP](https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W) | 3:05 |
 | 43 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 |
 | 44 | [Antasma](https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex) | [Sal Dulu](https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV) | [Antasma](https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl) | 3:25 |
-| 45 | [Yellow Dust](https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Small Clan](https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J) | 3:52 |
-| 46 | [Frozen Away](https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frozenthere](https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T) | 2:48 |
+| 45 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 |
+| 46 | [Yellow Dust](https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Small Clan](https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J) | 3:52 |
 | 47 | [Pinch](https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:30 |
-| 48 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 |
+| 48 | [Frozen Away](https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frozenthere](https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T) | 2:48 |
 | 49 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 |
 | 50 | [Canyon](https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX) | [Glded](https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH) | [Canyon](https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT) | 3:09 |
 | 51 | [Get Light](https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:28 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 57 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
 | 58 | [You](https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA) | [Only Emily](https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT) | [EP 2](https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4) | 2:50 |
 | 59 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
-| 60 | [Fragment II](https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur) | [Fragments](https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub) | 5:39 |
+| 60 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 |
 
-Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMGNmYzllZDJkYmE1NTMyNjEyMWZjZTBjMWE1OGZjZTYx`
+Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMGFjMjc4ZTNlODQzYzQ1NGFhOWYxMWZkOTQxYTdkZTA1`

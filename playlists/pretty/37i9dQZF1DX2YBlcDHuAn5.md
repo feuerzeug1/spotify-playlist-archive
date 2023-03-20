@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,353 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,358 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 36 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
 | 37 | [Home Is Where...](https://open.spotify.com/track/3joE5kBQ4R85LrU8NG4SdZ) | [John Engel](https://open.spotify.com/artist/3HMnypHJS8kCT5JeKsEmzZ) | [Home Is Where...](https://open.spotify.com/album/5P2b8CbIX0kBW2vRLdx5wo) | 4:39 |
 | 38 | [Maybe, Maybe Not](https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Maybe, Maybe Not](https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf) | 3:20 |
-| 39 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
-| 40 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 |
+| 39 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 |
+| 40 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
 | 41 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 |
 | 42 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 |
 | 43 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Burlesque Desert Window](https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Burlesque Desert Window](https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4) | 2:59 |
 | 50 | [The Longest Journey](https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx) | 3:48 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMGFmN2RkYTdjNDA1YjgxZjJhNzllZDViYjMyNzY5Y2My`
+Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMGE2NDlkMTNhOTExNDViMzA3MDI1ZjdjN2I2MDhjYmRm`

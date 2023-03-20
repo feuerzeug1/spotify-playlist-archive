@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Marilina Bertoldi
 
-173 songs - 9 hr 43 min
+175 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [En El Surf](https://open.spotify.com/track/7IBYDJs4LEfwW8b17IAxwU) | [Palmera Beach](https://open.spotify.com/artist/0aVJ62IxBOiOh4KlOnnm7J) | [En El Surf](https://open.spotify.com/album/0S9FogbRiKfDgnVuSaRaFs) | 2:29 | 2022-04-15 | 2022-12-10 |
 | [Extrarradio](https://open.spotify.com/track/4Yu4N8mdsSsmois7j4v3as) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 4:53 | 2022-04-15 | 2022-12-10 |
 | [FBI](https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [FBI](https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS) | 2:24 | 2022-09-06 | 2023-03-04 |
+| [Flashbacks](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Flashbacks](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 | 2023-03-20 |  |
 | [Fuera de Lugar](https://open.spotify.com/track/0JgwKmhObrOlQfRXgJf1c4) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:23 | 2022-12-23 | 2023-01-16 |
 | [Fumar de Día \- En Vivo](https://open.spotify.com/track/0n1UrWMX0Njj3kVMc24tOE) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sesión Saldias \(En Vivo\)](https://open.spotify.com/album/206rMmryQBWqNoIMNsOS8q) | 3:01 | 2022-04-15 | 2022-07-20 |
 | [Golly](https://open.spotify.com/track/45G6zyppoH1QYioyFisbBU) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/4qAKzGLGB4vFMF60Lt9Wfb) | 4:35 | 2022-04-15 | 2022-12-10 |
@@ -114,7 +115,7 @@
 | [No Es Para Todos](https://open.spotify.com/track/5vsZ9Uunj2VFGW4YnX71t3) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [No es para todos](https://open.spotify.com/album/3Q1V5xmb2EvSob6xKKO2DU) | 1:33 | 2022-04-15 | 2022-12-10 |
 | [No Estoy Roto](https://open.spotify.com/track/4jT6v8PugBI98OFU1I9SJs) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [No Estoy Roto](https://open.spotify.com/album/47GSu9M63q84E8iNFeXu6A) | 4:13 | 2022-04-15 | 2022-12-13 |
 | [No Hay Santos](https://open.spotify.com/track/7DKQCK4zNtLFy2qy0AopOB) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Nuevos Silencios](https://open.spotify.com/album/0HsZpQ6L8DJgSUFNSazZoG) | 2:44 | 2022-04-15 | 2022-12-10 |
-| [No Me Lo Creo Ni Yo](https://open.spotify.com/track/1YGwkzw6RVFsO2h9RkDB47) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [No Me Lo Creo Ni Yo](https://open.spotify.com/album/35uAGAZg9bWa5JCkXjSKWv) | 2:50 | 2023-01-20 |  |
+| [No Me Lo Creo Ni Yo](https://open.spotify.com/track/1YGwkzw6RVFsO2h9RkDB47) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [No Me Lo Creo Ni Yo](https://open.spotify.com/album/35uAGAZg9bWa5JCkXjSKWv) | 2:50 | 2023-01-20 | 2023-03-20 |
 | [No me preguntes por qué](https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [No me preguntes por qué](https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu) | 2:53 | 2023-01-20 |  |
 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-07-19 |  |
 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 | 2022-04-15 |  |
@@ -160,11 +161,12 @@
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-09-06 | 2023-02-22 |
 | [Tibio](https://open.spotify.com/track/1Hb4Zgo4nV73Eh0oA19BuJ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk), [ALO](https://open.spotify.com/artist/7Mcl8NDOEXuaP9QJ3ATnR9) | [Niebla](https://open.spotify.com/album/6sVeGIf4gy3nzUJfg0iQsJ) | 6:24 | 2022-04-15 | 2022-12-10 |
 | [Tiempo](https://open.spotify.com/track/0EX5HqzGqyaIoawKTRosTt) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Laberinto](https://open.spotify.com/album/4RrCQmBMKMagxDvrZ2r2j1) | 4:11 | 2022-04-15 | 2022-12-10 |
+| [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 | 2023-03-20 |  |
 | [Todo cambió](https://open.spotify.com/track/30pCQuZVJAmBgzVJkLuq7p) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Todo cambió](https://open.spotify.com/album/4l7LSWZZmywFhZ95giwwao) | 3:08 | 2023-02-11 |  |
 | [Todo está bien](https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Todo está bien](https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0) | 6:16 | 2022-12-16 |  |
 | [Todo Lo Que Siento](https://open.spotify.com/track/5TXAz4xkugCDaACTdtANKN) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:17 | 2022-07-19 | 2022-12-10 |
 | [Todo Puede Ser Mejor \- Fc Chdkf](https://open.spotify.com/track/0ks15BzbVU00CmOo22NRjL) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Todo Puede Ser Mejor \(Fc Chdkf\)](https://open.spotify.com/album/6H9BGnLgJ2dscmN0T4asIJ) | 3:38 | 2022-04-15 | 2022-12-10 |
-| [Traidora](https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Traidora](https://open.spotify.com/album/46yK79DN46OjOnQusajJb0) | 3:10 | 2023-02-24 |  |
+| [Traidora](https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Traidora](https://open.spotify.com/album/46yK79DN46OjOnQusajJb0) | 3:10 | 2023-02-24 | 2023-03-20 |
 | [Trail Blazer](https://open.spotify.com/track/0Pe3iMJXI9a0dDdoXgG10G) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:13 | 2023-03-03 |  |
 | [Trataré](https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Trataré](https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI) | 4:07 | 2022-12-16 | 2023-03-04 |
 | [Tres de la Mañana](https://open.spotify.com/track/08eri7cwIdWuJrlFrcPH3M) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [El Shirota \(ESH002\)](https://open.spotify.com/album/0tC6X64WVn71CSRDeLljQ8) | 4:35 | 2022-04-15 | 2022-12-10 |

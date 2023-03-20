@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-366 songs - 20 hr 19 min
+367 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 | 2021-10-31 | 2023-02-08 |
 | [Freedom \- Amapiano](https://open.spotify.com/track/1RfHFStdEXyJWorqSQmMUU) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Denga](https://open.spotify.com/album/1RLgrGJKZ9jRVIXyNoGiGZ) | 4:23 | 2021-10-31 | 2022-07-05 |
 | [Freedom Is Coming \- Reimagined](https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Phenomena \(DA DA\) \[Remixes\]](https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy) | 2:34 | 2023-02-08 |  |
-| [Friend](https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Friend](https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k) | 3:46 | 2023-02-08 |  |
+| [Friend](https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Friend](https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k) | 3:46 | 2023-02-08 | 2023-03-20 |
 | [Friend Of Sinners](https://open.spotify.com/track/6kTSXLgIQDmupPqwV84OHQ) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Friend Of Sinners](https://open.spotify.com/album/2X2zfQA7I9MI3KrU5yeZ2k) | 3:22 | 2021-10-31 | 2022-07-28 |
 | [Fuego \(R3HAB Remix\)](https://open.spotify.com/track/4WqnZokUoswiqEmGadvXlu) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Fuego \(R3HAB Remix\)](https://open.spotify.com/album/7GJkHgaOri0Iq11NBu4qjD) | 2:52 | 2021-10-31 | 2022-08-12 |
 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 | 2023-02-08 | 2023-02-13 |
@@ -322,6 +322,7 @@
 | [The Same Jesus \- Reyer Remix](https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Oleven](https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB) | [The Same Jesus \(Reyer Remix\)](https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI) | 3:01 | 2023-02-08 |  |
 | [This Is Freedom \(Ain't No Rock\) \- Live](https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [This Is Freedom \(Ain't No Rock\) \[Live\]](https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v) | 5:44 | 2023-02-08 |  |
 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 | 2023-02-10 |  |
+| [This Is The Love](https://open.spotify.com/track/2LS7Ww44t936USz0gg4k1w) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [This Is The Love](https://open.spotify.com/album/3qJbjQzqUv8AOQBlOEXlNr) | 2:46 | 2023-03-20 |  |
 | [This Love](https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [This Love](https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC) | 3:17 | 2023-02-08 |  |
 | [This Time](https://open.spotify.com/track/4BMfCr1ltbxM1BTF7hyvnK) | [Jesus Loves Electro](https://open.spotify.com/artist/6OP8EQDkqXBMT6CY9Rsngp), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Worship](https://open.spotify.com/album/4XYdo6BWkLGi8Ib8FbS59L) | 2:35 | 2023-02-08 |  |
 | [Through People Like Me \- Chris Howland Remix](https://open.spotify.com/track/5q6iykOAJ0N2fe7wvj0r3A) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Through People Like Me \(Chris Howland Remix\)](https://open.spotify.com/album/5hD1dXOyGkApOTXsjxw0jm) | 3:27 | 2021-10-31 | 2022-07-29 |

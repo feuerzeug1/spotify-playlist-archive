@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 288013,
       "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
       "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
@@ -1202,6 +1202,24 @@
       "duration_ms": 265290,
       "name": "\u611b\u306e\u8a00\u8449",
       "url": "https://open.spotify.com/track/4ResLs28mRYFb0nxR5XyMr"
+    },
+    {
+      "album": {
+        "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235240,
+      "name": "\u611b\u3092\u4f1d\u3048\u305f\u3044\u3060\u3068\u304b",
+      "url": "https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO"
     },
     {
       "album": {

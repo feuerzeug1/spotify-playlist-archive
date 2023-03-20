@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: eill",
-  "num_followers": 93396,
+  "num_followers": 93445,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk3ODgwMCwwMDAwMDAwMGJjMWRlZjRlMDc3NjFhYmYxMDBmZmY1MmU5MzRhMmI5",
+  "snapshot_id": "MTY3ODk3ODgwMCwwMDAwMDAwMDk5NzU2ZDRiOGVmZWVhZjQ0YjY2ZDJjNWUzYjI5ZjJk",
   "tracks": [
     {
       "added_at": "2023-03-16 15:00:00",
@@ -43,18 +43,22 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "\u6b8b\u6a5f",
-        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
         }
       ],
-      "duration_ms": 230066,
-      "name": "\u6b8b\u6a5f",
-      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -75,22 +79,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Suzume (Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+        "name": "\u6b8b\u6a5f",
+        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        },
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Suzume",
-      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
+      "duration_ms": 230066,
+      "name": "\u6b8b\u6a5f",
+      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Deep down",
-        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
       },
       "artists": [
         {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 227146,
-      "name": "Deep down",
-      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "\u30c1\u30ce\u30ab\u30c6",
-        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 248300,
-      "name": "\u30c1\u30ce\u30ab\u30c6",
-      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
+      "duration_ms": 227146,
+      "name": "Deep down",
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "\u521d\u604b (2022 Remastering)",
-        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 282165,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "The Flame of Love",
         "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 199117,
       "name": "The Flame of Love",
       "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "\u521d\u604b (2022 Remastering)",
+        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 282165,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "\u30d1\u30ec\u30fc\u30c9\u304c\u7d9a\u304f\u306a\u3089",
-        "url": "https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ"
-      },
-      "artists": [
-        {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
-        }
-      ],
-      "duration_ms": 268106,
-      "name": "\u79c1\u306e\u77b3\u306f\u9ed2\u3044\u8272",
-      "url": "https://open.spotify.com/track/3pZq5VOrxhinAoHRx4TLBt"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "Pre-Romance / Finale.",
         "url": "https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 242367,
       "name": "Finale.",
       "url": "https://open.spotify.com/track/3KvRIvP9kzP2JTljShpSJu"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "\u30d1\u30ec\u30fc\u30c9\u304c\u7d9a\u304f\u306a\u3089",
+        "url": "https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "\u79c1\u306e\u77b3\u306f\u9ed2\u3044\u8272",
+      "url": "https://open.spotify.com/track/3pZq5VOrxhinAoHRx4TLBt"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Circle",
-        "url": "https://open.spotify.com/album/6uaQc25boGfgpNK38CEZwN"
-      },
-      "artists": [
-        {
-          "name": "Rei Yasuda",
-          "url": "https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi"
-        },
-        {
-          "name": "Yaffle",
-          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
-        }
-      ],
-      "duration_ms": 272960,
-      "name": "Circle",
-      "url": "https://open.spotify.com/track/54cKGQsQZN5SYdK3C4Npxw"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "\u5148\u99c6\u8005",
         "url": "https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 219693,
       "name": "\u9055\u3046\u66f2\u306b\u3057\u3088\u3046\u3088",
       "url": "https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/6uaQc25boGfgpNK38CEZwN"
+      },
+      "artists": [
+        {
+          "name": "Rei Yasuda",
+          "url": "https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi"
+        },
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        }
+      ],
+      "duration_ms": 272960,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/54cKGQsQZN5SYdK3C4Npxw"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 249227,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 228013,
       "name": "\u9752\u85cd\u904a\u6cf3",
       "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 249227,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "VITA",
-        "url": "https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "VITA",
-      "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "\u30d2\u30c8\u30df\u30ca\u30ab",
         "url": "https://open.spotify.com/album/57HbEIpfJxPB4r3CDf7w0m"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 252546,
       "name": "\u30d2\u30c8\u30df\u30ca\u30ab",
       "url": "https://open.spotify.com/track/1hmUIz5bJYPrK571kBXFtW"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "VITA",
+        "url": "https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "VITA",
+      "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "WHOOPEE",
-        "url": "https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK"
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
       "artists": [
         {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
         }
       ],
-      "duration_ms": 216000,
-      "name": "TRUMAN",
-      "url": "https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP"
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     }
   ],
   "unique_name": "Women's Voice",

@@ -965,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/2G8aFQihMD4IhyBq49bWse"
+      },
+      "artists": [
+        {
+          "name": "ERBES",
+          "url": "https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk"
+        },
+        {
+          "name": "Eater",
+          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/1Q9sqJ2fGODwIaYzJ7RhxG"
+    },
+    {
+      "album": {
         "name": "Horus / Cartel",
         "url": "https://open.spotify.com/album/6E99Te82rtI1y9rXKdLZgQ"
       },
@@ -6211,6 +6233,24 @@
     },
     {
       "album": {
+        "name": "Rusty Nickels",
+        "url": "https://open.spotify.com/album/75dJmGSAseeq7qNPO1nPAg"
+      },
+      "artists": [
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Rusty Nickels",
+      "url": "https://open.spotify.com/track/2Oy1IN7b6cMyiy9VXTXQgc"
+    },
+    {
+      "album": {
         "name": "Khonsu - EP",
         "url": "https://open.spotify.com/album/3tjGIFYCEm3gjqHP8ZJKov"
       },
@@ -7092,7 +7132,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 163155,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/7pGClgDyg6EzpEulHy3pMh"
@@ -8346,7 +8386,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 385818,
       "name": "What It Is",
       "url": "https://open.spotify.com/track/1UFsoj3swW2Cwobwcmgpgp"

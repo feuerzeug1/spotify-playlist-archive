@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Lucas Hill.
 
-356 songs - 21 hr 51 min
+357 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Fuego](https://open.spotify.com/track/3Oswitzte0cJTr4VMloflx) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Fuego](https://open.spotify.com/album/2FJbtOAdbdLSimMwyY5DKn) | 3:37 | 2021-12-24 | 2022-07-27 |
 | [Fuego](https://open.spotify.com/track/464DSYjNhBCD15Xh0B41rK) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9) | 3:37 | 2022-07-22 | 2022-09-24 |
 | [Fuego](https://open.spotify.com/track/26y3GhxZJ1jR7nDn7lysaF) | [Vera Noor](https://open.spotify.com/artist/1nirixcK3111OAkn0b4V7F) | [Fuego](https://open.spotify.com/album/3nocTBQROt175v5yfP1ANf) | 3:16 | 2022-03-18 | 2022-07-29 |
-| [Fui y Volví](https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Como el Mar](https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY) | 4:05 | 2021-12-24 |  |
+| [Fui y Volví](https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Como el Mar](https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY) | 4:05 | 2021-12-24 | 2023-03-20 |
 | [Galicia \- En Directo en acústico](https://open.spotify.com/track/6YT1amT59hvbSyGfEIJMoX) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW), [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Galicia \(En Directo en acústico\)](https://open.spotify.com/album/38YDdADtWXkULWmitDzYBR) | 6:02 | 2022-07-22 | 2022-08-20 |
 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 | 2022-12-23 | 2023-03-11 |
 | [Green Grass](https://open.spotify.com/track/6neqcz52m0e5YvRZuKacys) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Caliu](https://open.spotify.com/album/5zli6Q5OHFwp7ACOI9bc9z) | 4:05 | 2022-04-01 | 2022-04-20 |
@@ -178,6 +178,7 @@
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2023-01-06 | 2023-01-17 |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-05-13 | 2022-10-20 |
 | [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 | 2022-04-21 |
+| [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 | 2023-03-17 |  |
 | [Las Bestias Que Me Acompañan](https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Las Bestias Que Me Acompañan](https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa) | 3:42 | 2022-03-11 | 2023-03-07 |
 | [Las Cinco Disonante](https://open.spotify.com/track/0jgdxy6KbfweX6liNYOoGv) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Las Cinco Disonante](https://open.spotify.com/album/0IG5NKTssLEZqXZq1u19uD) | 5:23 | 2021-12-24 | 2022-07-29 |
 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 | 2021-12-24 |  |

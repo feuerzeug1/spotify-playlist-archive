@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Rawayana, Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,476 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,634 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,15 +76,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 66 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
 | 67 | [La Movie](https://open.spotify.com/track/5u1rcgkyH4ewqTaVUI6Ekk) | [King Kong Click](https://open.spotify.com/artist/0lTSSQrxOMu4Keh48GrIkX), [Subwoffer](https://open.spotify.com/artist/0Qsv4mPm5fOiJ6nOFxtZLm), [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [The King Is Back](https://open.spotify.com/album/5NfRSBalg4W9v2E01yHRzF) | 4:06 |
 | 68 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
-| 69 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 |
-| 70 | [Mucha Experiencia \- Su Reggaeton Mix](https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 3:15 |
+| 69 | [Mucha Experiencia \- Su Reggaeton Mix](https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 3:15 |
+| 70 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 |
 | 71 | [Juego a Muerte](https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 6:30 |
 | 72 | [Keep The Fyah Burning](https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Brinsley Forde](https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8), [Flabba Holt](https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl) | [Keep The Fyah Burning](https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm) | 4:16 |
 | 73 | [Tú](https://open.spotify.com/track/085cxMAY91of46MYke5OQK) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/6e2HWh7tBqocDo2QLW04Sx) | 4:18 |
 | 74 | [Por Cultivar Marihuana](https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu) | 5:09 |
 | 75 | [Ilegal \- En Vivo](https://open.spotify.com/track/2GOSQgWXYsy0rc1GbiWst0) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 5:16 |
-| 76 | [Marea](https://open.spotify.com/track/762sfNdn6m2dnTp8VqFiF5) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 3:14 |
-| 77 | [Kultura Babylon](https://open.spotify.com/track/3FEHIGm7Ox5HSZsTI1W1RP) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Kultura Babylon](https://open.spotify.com/album/4xisbZxOFYpVoxqJumZiTZ) | 3:58 |
+| 76 | [Kultura Babylon](https://open.spotify.com/track/3FEHIGm7Ox5HSZsTI1W1RP) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Kultura Babylon](https://open.spotify.com/album/4xisbZxOFYpVoxqJumZiTZ) | 3:58 |
+| 77 | [Marea](https://open.spotify.com/track/762sfNdn6m2dnTp8VqFiF5) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 3:14 |
 | 78 | [El Seis](https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 2:57 |
 | 79 | [Eu Quero Tudo](https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Eu Quero Tudo](https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ) | 3:39 |
 | 80 | [Vuela Alto](https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Vuela Alto](https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44) | 3:47 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 97 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 |
 | 98 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 |
 | 99 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
-| 100 | [RocketBandShot 1](https://open.spotify.com/track/1VdJEE9EzNqRGEZsZkFzWy) | [RickRocket](https://open.spotify.com/artist/4rx8YlvPpl82JWUB7qYV9G), [NOITE](https://open.spotify.com/artist/50Xm9Pr2Kjp5OpnwjUVdlP), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR), [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Garolo](https://open.spotify.com/artist/62NbFDwCtexT3AgFzXsmzw), [LENNY FACE](https://open.spotify.com/artist/0HZVh7FupbjZwYOgnPU6t8) | [RocketBandShot 1](https://open.spotify.com/album/7vMVtTFmLiz5a9OzPVqUGO) | 4:29 |
+| 100 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
 
-Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMGRkZDY2NDI0MmFmYWRjMjIyYjEwMjQ5MGYxNWYwYTQw`
+Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMDNhMDA1YTEwYzE0NjNjN2E4MDAyOTg2YTE5MGVlYWJk`

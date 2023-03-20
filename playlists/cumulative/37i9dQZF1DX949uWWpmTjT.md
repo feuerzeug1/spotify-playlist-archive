@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-470 songs - 1 day 8 hr 37 min
+472 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2023-02-02 |  |
 | [Clouds](https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp) | [Inside](https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy) | 5:13 | 2022-09-22 |  |
 | [Clouds](https://open.spotify.com/track/3sKafCdxv4vXK0D1RNlxG2) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH) | [Clouds](https://open.spotify.com/album/4TK5CEWRVAw1x5VVkhC2wq) | 5:13 | 2022-03-25 | 2022-09-18 |
+| [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-16 |  |
 | [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-19 |  |
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-11-10 |  |
 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 | 2021-12-03 | 2022-05-25 |
@@ -242,6 +243,7 @@
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2023-02-09 |  |
 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 | 2021-12-03 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2023-02-02 |  |
+| [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-16 |  |
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-11-10 |  |
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-08 |  |
 | [Looking Forward](https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Looking Forward](https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH) | 3:11 | 2023-02-02 |  |
@@ -367,7 +369,7 @@
 | [Somewhere Only We Go](https://open.spotify.com/track/3FUPP0Q5E2JKopEUHXIwdw) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Somewhere Only We Go](https://open.spotify.com/album/4MkXfde3NQsZfcsP09EeeZ) | 3:47 | 2023-02-09 |  |
 | [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 | 2023-02-02 |  |
 | [Sonny Side](https://open.spotify.com/track/3845TYxfJm5POl4ipU6mBO) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Remembrance](https://open.spotify.com/album/4Tghkoa8HIUpFyG47MCHXx) | 7:25 | 2022-01-27 | 2022-08-02 |
-| [Sophisticated Lady](https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ) | [Cliff Jordan](https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij) | [Cliff Craft](https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a) | 6:46 | 2022-06-30 |  |
+| [Sophisticated Lady](https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ) | [Cliff Jordan](https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij) | [Cliff Craft](https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a) | 6:46 | 2022-06-30 | 2023-03-20 |
 | [Sophisticated Lady \- Remastered 1997](https://open.spotify.com/track/4MOg9akJ30Hz8ox8NBw2j1) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn) | [Cliff Craft](https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp) | 6:47 | 2021-12-03 | 2022-07-29 |
 | [Soul Eyes](https://open.spotify.com/track/2WwFItAZw5RcYv3rECNFIZ) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:43 | 2022-01-27 |  |
 | [Soultrane \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:21 | 2021-12-03 | 2022-11-11 |
@@ -465,7 +467,7 @@
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-11-10 | 2023-02-24 |
 | [Words Can't Describe](https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 4:35 | 2021-12-03 |  |
 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-02-16 |  |
-| [You Don't Know What Love Is](https://open.spotify.com/track/0wcQDO4yEU952sOaSiJvQF) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:28 | 2022-01-27 |  |
+| [You Don't Know What Love Is](https://open.spotify.com/track/0wcQDO4yEU952sOaSiJvQF) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:28 | 2022-01-27 | 2023-03-20 |
 | [You Go To My Head](https://open.spotify.com/track/366IPHOgIJJNwxJlfAcnv9) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 4:27 | 2021-12-03 |  |
 | [You Know I Care](https://open.spotify.com/track/3mdmA5e62x4CEXVIUZ2S92) | [Ian Buss](https://open.spotify.com/artist/2lFzhpbs0F8gwsJycYjWsa) | [You Know I Care](https://open.spotify.com/album/4YydQ4MLcVZZLE9deKSQka) | 6:27 | 2023-03-16 |  |
 | [You Know Its Me](https://open.spotify.com/track/05fdpG9n1YmQU1wOTCLaj8) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [You Know Its Me](https://open.spotify.com/album/2ET8mBknnRZFO1gea0toYN) | 2:28 | 2023-01-19 |  |

@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1980s.
 
-319 songs - 23 hr 33 min
+320 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 | 2021-02-02 |  |
 | [Angel Eyes \(Home And Away\)](https://open.spotify.com/track/2ClEdZjrJD2lQOrWU1qqO5) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Popped In Souled Out](https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1) | 5:16 | 2022-05-25 | 2022-09-05 |
 | [Angel Eyes \(Home And Away\)](https://open.spotify.com/track/3qgKTEfSdipwvnhbtoFLvY) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Popped In Souled Out](https://open.spotify.com/album/6H8nIzTVjZNGYppJmDHDnO) | 5:16 | 2021-02-02 | 2022-07-26 |
-| [Angel Of The Morning](https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice](https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc) | 4:10 | 2022-01-10 |  |
+| [Angel Of The Morning](https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice](https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc) | 4:10 | 2022-01-10 | 2023-03-20 |
 | [Angelia](https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 5:17 | 2022-01-10 | 2022-11-13 |
 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 | 2021-02-02 |  |
 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Arthur \- The Album \[Original Soundtrack\]](https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB) | 3:54 | 2021-02-02 |  |
@@ -216,6 +216,7 @@
 | [One Of Us](https://open.spotify.com/track/40IHflbrHcOuC8ZcYxUSAC) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Visitors \(Deluxe Edition\)](https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV) | 3:57 | 2021-02-02 | 2022-11-13 |
 | [Only You](https://open.spotify.com/track/1U2L6NW89IIy6Gw63C4eP2) | [The Flying Pickets](https://open.spotify.com/artist/41A6Xdil8qhaD2DcS4X1wA) | [Lost Boys](https://open.spotify.com/album/1oi0pNpN3BM69Do9lIUNKp) | 3:23 | 2021-02-02 | 2022-07-24 |
 | [Only You](https://open.spotify.com/track/15Mh8m2BGTUptR8yy7fNAS) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs at Eric's](https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3) | 3:14 | 2022-01-10 | 2022-04-21 |
+| [Orinoco Flow](https://open.spotify.com/track/14EUcXXpqrC03Dzzdj8bGr) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Watermark](https://open.spotify.com/album/2FZ2y8Z5sTRSnnSa8DIPHz) | 4:26 | 2023-01-24 |  |
 | [Orinoco Flow](https://open.spotify.com/track/0Fyj9w0HVfjoxm9S8nGClt) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Themes From "Calmi Cuori Appassionati"](https://open.spotify.com/album/6GWptUmmrWPABTWSed7Ow8) | 4:26 | 2022-01-10 | 2022-04-21 |
 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 | 2022-05-25 |  |
 | [Patience](https://open.spotify.com/track/1FJu4hXTvoeKsbOxA85IuZ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Greatest Hits](https://open.spotify.com/album/48siNpffpvjRYTewfMxwPs) | 5:56 | 2022-01-10 | 2022-04-21 |

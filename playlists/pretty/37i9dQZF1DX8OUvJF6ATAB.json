@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 172837,
+  "num_followers": 172905,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjUwNTMxOSwwMDAwMDAwMGQ1NjBmMzM1YTE3N2UyNGE3YmFkN2NiMGUzODQ5ZTU3",
+  "snapshot_id": "MTY3NjUwNTMxOSwwMDAwMDAwMGNkZmZmZWMzMWExZDg0Yzg0MzM4NDQ4ODIzNmU5YzQ0",
   "tracks": [
     {
       "added_at": "2022-05-02 04:31:17",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/0hAM2VDYMWzAgtCVZXA6Qr"
     },
     {
-      "added_at": "2023-03-19 01:43:34",
+      "added_at": "2023-03-20 01:22:35",
       "album": {
         "name": "Forget The Curse",
         "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
@@ -223,6 +223,22 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 193310,
+      "name": "White Cyclosa",
+      "url": "https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "Esc",
         "url": "https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 377533,
       "name": "Dietrofront",
       "url": "https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 193310,
-      "name": "White Cyclosa",
-      "url": "https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
     },
     {
-      "added_at": "2022-01-20 20:53:41",
-      "album": {
-        "name": "The Invention of the Human",
-        "url": "https://open.spotify.com/album/7HrfEaITd4aqzxVXSXJIsN"
-      },
-      "artists": [
-        {
-          "name": "Dylan Henner",
-          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
-        }
-      ],
-      "duration_ms": 338714,
-      "name": "The Peach Tree Next Door Grew over Our Fence",
-      "url": "https://open.spotify.com/track/0vHmmScQtHq6p7qZk9Xgfd"
-    },
-    {
       "added_at": "2021-10-06 04:12:35",
       "album": {
         "name": "Lifelike",
@@ -437,20 +421,20 @@
       "url": "https://open.spotify.com/track/3r4UNYCmm9FvGEYn6wAtIt"
     },
     {
-      "added_at": "2021-10-06 04:12:35",
+      "added_at": "2022-01-20 20:53:41",
       "album": {
-        "name": "Lost Album",
-        "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
+        "name": "The Invention of the Human",
+        "url": "https://open.spotify.com/album/7HrfEaITd4aqzxVXSXJIsN"
       },
       "artists": [
         {
-          "name": "58918012",
-          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
         }
       ],
-      "duration_ms": 576000,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt"
+      "duration_ms": 338714,
+      "name": "The Peach Tree Next Door Grew over Our Fence",
+      "url": "https://open.spotify.com/track/0vHmmScQtHq6p7qZk9Xgfd"
     },
     {
       "added_at": "2022-07-15 05:31:42",
@@ -467,6 +451,22 @@
       "duration_ms": 368000,
       "name": "Woodland Encounter",
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Lost Album",
+        "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
+      },
+      "artists": [
+        {
+          "name": "58918012",
+          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
+        }
+      ],
+      "duration_ms": 576000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Nonlin",
         "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 406856,
       "name": "Subtractive Skies",
       "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -843,18 +843,22 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Flying to America",
-        "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
+        "name": "Tar (Jan Jelinek Remix)",
+        "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
       },
       "artists": [
         {
-          "name": "Marco Parisi",
-          "url": "https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu"
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        },
+        {
+          "name": "Jan Jelinek",
+          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
         }
       ],
-      "duration_ms": 468500,
-      "name": "Flying to America",
-      "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+      "duration_ms": 359543,
+      "name": "Tar - Jan Jelinek Remix",
+      "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -875,6 +879,38 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "Flying to America",
+        "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
+      },
+      "artists": [
+        {
+          "name": "Marco Parisi",
+          "url": "https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu"
+        }
+      ],
+      "duration_ms": 468500,
+      "name": "Flying to America",
+      "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Skinless X-1",
+        "url": "https://open.spotify.com/album/1dOIPqiTrJb7eoCK8PZZfr"
+      },
+      "artists": [
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        }
+      ],
+      "duration_ms": 189205,
+      "name": "Response to Subdivisions \u263e",
+      "url": "https://open.spotify.com/track/3wncnpjhtWbzxVvsdjHwYz"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "Yes! Come Parade With Us",
         "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
       },
@@ -887,26 +923,6 @@
       "duration_ms": 294600,
       "name": "Yes! Come Parade With Us",
       "url": "https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Tar (Jan Jelinek Remix)",
-        "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        },
-        {
-          "name": "Jan Jelinek",
-          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
-        }
-      ],
-      "duration_ms": 359543,
-      "name": "Tar - Jan Jelinek Remix",
-      "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
     },
     {
       "added_at": "2022-08-31 03:57:05",
@@ -943,22 +959,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Skinless X-1",
-        "url": "https://open.spotify.com/album/1dOIPqiTrJb7eoCK8PZZfr"
-      },
-      "artists": [
-        {
-          "name": "Fire-Toolz",
-          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
-        }
-      ],
-      "duration_ms": 189205,
-      "name": "Response to Subdivisions \u263e",
-      "url": "https://open.spotify.com/track/3wncnpjhtWbzxVvsdjHwYz"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "You Look Different",
         "url": "https://open.spotify.com/album/0gPZGQchGN8KElz6UnCjAT"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 157312,
       "name": "Post Tropical Cyclone",
       "url": "https://open.spotify.com/track/2WkPJh5pGbUX0PDjrrNvmA"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
-      },
-      "artists": [
-        {
-          "name": "X.Y.R.",
-          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
-        }
-      ],
-      "duration_ms": 386000,
-      "name": "Labyrinth (Exit)",
-      "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1037,6 +1021,38 @@
       "url": "https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG"
     },
     {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
+      },
+      "artists": [
+        {
+          "name": "X.Y.R.",
+          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
+        }
+      ],
+      "duration_ms": 386000,
+      "name": "Labyrinth (Exit)",
+      "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
+    },
+    {
+      "added_at": "2022-02-12 01:31:20",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+      },
+      "artists": [
+        {
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+        }
+      ],
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
       "added_at": "2022-01-14 01:47:22",
       "album": {
         "name": "Lago Escondido",
@@ -1055,22 +1071,6 @@
       "duration_ms": 236000,
       "name": "Lago Escondido",
       "url": "https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq"
-    },
-    {
-      "added_at": "2022-02-12 01:31:20",
-      "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
-      },
-      "artists": [
-        {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
-        }
-      ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
     },
     {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Midnight Marker",
-        "url": "https://open.spotify.com/album/4wbfKTj8oSvnCtL8lgXCD5"
-      },
-      "artists": [
-        {
-          "name": "Shy Layers",
-          "url": "https://open.spotify.com/artist/46uINlifg8d4d1sNVe3AoE"
-        }
-      ],
-      "duration_ms": 190436,
-      "name": "Midnight Marker",
-      "url": "https://open.spotify.com/track/2TOnQ7Sezw8tfHFQMUCjBL"
-    },
-    {
       "added_at": "2022-03-11 05:41:00",
       "album": {
         "name": "Fading In And Out",
@@ -1227,22 +1211,6 @@
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "Caisson",
-        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 469333,
-      "name": "Caisson",
-      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
     },
     {
       "added_at": "2022-12-21 20:54:13",
@@ -1279,6 +1247,38 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
+        "name": "Midnight Marker",
+        "url": "https://open.spotify.com/album/4wbfKTj8oSvnCtL8lgXCD5"
+      },
+      "artists": [
+        {
+          "name": "Shy Layers",
+          "url": "https://open.spotify.com/artist/46uINlifg8d4d1sNVe3AoE"
+        }
+      ],
+      "duration_ms": 190436,
+      "name": "Midnight Marker",
+      "url": "https://open.spotify.com/track/2TOnQ7Sezw8tfHFQMUCjBL"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Caisson",
+        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 469333,
+      "name": "Caisson",
+      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
         "name": "Fear in a Handful of Dust",
         "url": "https://open.spotify.com/album/3OtMIEV8K692kqcjrlDbo9"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Das Unheimliche",
-        "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Das Unheimliche",
-      "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
-    },
-    {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
         "name": "Hilja",
         "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 321000,
       "name": "Demetra",
       "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Das Unheimliche",
+        "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
+      },
+      "artists": [
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Das Unheimliche",
+      "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1441,20 +1441,20 @@
       "url": "https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK"
     },
     {
-      "added_at": "2021-10-06 04:12:35",
+      "added_at": "2022-01-07 01:36:34",
       "album": {
-        "name": "Rest Easy",
-        "url": "https://open.spotify.com/album/2gRv2sAvdCDTC3irdT0qNJ"
+        "name": "Control Voltage",
+        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
       },
       "artists": [
         {
-          "name": "Middle School",
-          "url": "https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB"
+          "name": "Blue Carbon",
+          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
         }
       ],
-      "duration_ms": 157965,
-      "name": "Rest Easy",
-      "url": "https://open.spotify.com/track/22Qb7cWUbLMtdmBMnoG8qy"
+      "duration_ms": 294000,
+      "name": "Suspension",
+      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1473,20 +1473,20 @@
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
     },
     {
-      "added_at": "2022-01-07 01:36:34",
+      "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Control Voltage",
-        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
+        "name": "Rest Easy",
+        "url": "https://open.spotify.com/album/2gRv2sAvdCDTC3irdT0qNJ"
       },
       "artists": [
         {
-          "name": "Blue Carbon",
-          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
+          "name": "Middle School",
+          "url": "https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Suspension",
-      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
+      "duration_ms": 157965,
+      "name": "Rest Easy",
+      "url": "https://open.spotify.com/track/22Qb7cWUbLMtdmBMnoG8qy"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1557,22 +1557,6 @@
       "url": "https://open.spotify.com/track/77A7ehHv41EjtxjifmenGa"
     },
     {
-      "added_at": "2021-10-06 04:12:35",
-      "album": {
-        "name": "A Bright Resemblance [Abridged]",
-        "url": "https://open.spotify.com/album/1T15Mh3twdV9gUfRJu6IgH"
-      },
-      "artists": [
-        {
-          "name": "Light Conductor",
-          "url": "https://open.spotify.com/artist/590vdsp0V7yIZNMzdbi2qs"
-        }
-      ],
-      "duration_ms": 461397,
-      "name": "A Bright Resemblance [Abridged]",
-      "url": "https://open.spotify.com/track/0yjPeogfbeSSiMwm85hw2E"
-    },
-    {
       "added_at": "2022-01-12 18:39:37",
       "album": {
         "name": "E2-XO",
@@ -1587,6 +1571,22 @@
       "duration_ms": 475965,
       "name": "XO 4 - Wolf 1061c",
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+    },
+    {
+      "added_at": "2021-10-06 04:12:35",
+      "album": {
+        "name": "Form//Less",
+        "url": "https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B"
+      },
+      "artists": [
+        {
+          "name": "Superposition",
+          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
+        }
+      ],
+      "duration_ms": 234691,
+      "name": "Echo//Radiate",
+      "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
     },
     {
       "added_at": "2021-10-06 04:12:35",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2021-10-06 04:12:35",
       "album": {
-        "name": "Form//Less",
-        "url": "https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B"
+        "name": "A Bright Resemblance [Abridged]",
+        "url": "https://open.spotify.com/album/1T15Mh3twdV9gUfRJu6IgH"
       },
       "artists": [
         {
-          "name": "Superposition",
-          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
+          "name": "Light Conductor",
+          "url": "https://open.spotify.com/artist/590vdsp0V7yIZNMzdbi2qs"
         }
       ],
-      "duration_ms": 234691,
-      "name": "Echo//Radiate",
-      "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
+      "duration_ms": 461397,
+      "name": "A Bright Resemblance [Abridged]",
+      "url": "https://open.spotify.com/track/0yjPeogfbeSSiMwm85hw2E"
     },
     {
       "added_at": "2022-02-18 05:44:42",

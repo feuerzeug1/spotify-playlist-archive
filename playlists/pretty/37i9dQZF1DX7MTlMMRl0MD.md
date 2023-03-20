@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Gusi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,893,940 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,894,102 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 58 | [La Bachata](https://open.spotify.com/track/03sVjqRZTzKbCDjroICASq) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La Bachata](https://open.spotify.com/album/11lLUZQgWDj6Vy1s765yBy) | 3:04 |
 | 59 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
 | 60 | [Llora Alma Mía](https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Llora Alma Mia](https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so) | 4:21 |
-| 61 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
-| 62 | [Loco de Amor](https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Canciones Inmortales Bachatas](https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA) | 7:52 |
+| 61 | [Loco de Amor](https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Canciones Inmortales Bachatas](https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA) | 7:52 |
+| 62 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
 | 63 | [Cuento Breve](https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:48 |
 | 64 | [Te Parece Poco](https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [La Voz de La Juventud](https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO) | 4:10 |
 | 65 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
-| 66 | [Me Gusta](https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Me Gusta](https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP) | 3:40 |
-| 67 | [Vocales de amor](https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx) | 5:10 |
+| 66 | [Vocales de amor](https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx) | 5:10 |
+| 67 | [Me Gusta](https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Me Gusta](https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP) | 3:40 |
 | 68 | [Volvio el dolor](https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Volvio el Dolor](https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi) | 3:33 |
 | 69 | [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 |
 | 70 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [En Cada Aniversario](https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX), [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Duos Entre Amigos](https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC) | 4:05 |
 | 100 | [Me Provocas](https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD) | [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Me Provocas](https://open.spotify.com/album/7bnfanPjPlW2BeBqq6aFUQ) | 3:23 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDdlYzk0MWM5NzkwYjViODE1ZDg2ZjMxMzE1MWY0Mjk4`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGY1ZWUwODRlOWFlYmQxZjU3NTE5ZWYxMjk3ZGFjNzlh`

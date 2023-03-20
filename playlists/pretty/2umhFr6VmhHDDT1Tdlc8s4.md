@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 
 > 
 
-[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 36 songs - 2 hr 5 min
+[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 37 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,5 +44,6 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 | 34 | [glow](https://open.spotify.com/track/26uy5q3eO6172OcVxogMeu) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [all my boyfriends](https://open.spotify.com/album/1EKtv3hcYWRTBX1kipfaLA) | 3:22 |
 | 35 | [Humming](https://open.spotify.com/track/08So6XATkbLYP26vn6AjaM) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7) | 3:58 |
 | 36 | [Heaven](https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Heaven](https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W) | 3:00 |
+| 37 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 
-Snapshot ID: `NDMsZjQzNWY0ZWM2MWE2ZDljMDQ4NzY3MjM1ZDllNjMzMjUxYTQyNTQxNA==`
+Snapshot ID: `NDQsOTBiNzEwN2VhZWNjMDZhMDUyZDZmZGU4ZTUyNTc2NjhjMWZmYjhhOA==`

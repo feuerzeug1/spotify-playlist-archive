@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Lucas Hill.",
-  "num_followers": 106344,
+  "num_followers": 106396,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMGYwODBlNGZlNzY0Y2MxZTE0ZTRhMDFlN2ViMmQ4Yjlm",
+  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMDRmNmU1ZmJmN2Q5OGQ3OGNhNmY0MDgyOWZhZTlkMmZk",
   "tracks": [
     {
       "added_at": "2023-03-17 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 236361,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "Sab\u00e9is Qui\u00e9nes Sois",
         "url": "https://open.spotify.com/album/6vhOlsztLifwHFGDVzdmyq"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 225600,
       "name": "Sab\u00e9is Qui\u00e9nes Sois",
       "url": "https://open.spotify.com/track/2LzQ5MZuUFAuuqSctvnA7M"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 236361,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "A 200 mil",
-        "url": "https://open.spotify.com/album/0KyqC56ow4ieuE5iH7iNmN"
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
       "artists": [
         {
-          "name": "Cheti",
-          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
-        },
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 172094,
-      "name": "A 200 mil",
-      "url": "https://open.spotify.com/track/4xlYwJBHbhw46i3VFsLW1n"
+      "duration_ms": 196984,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+        "name": "A 200 mil",
+        "url": "https://open.spotify.com/album/0KyqC56ow4ieuE5iH7iNmN"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+        },
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
         }
       ],
-      "duration_ms": 196984,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
+      "duration_ms": 172094,
+      "name": "A 200 mil",
+      "url": "https://open.spotify.com/track/4xlYwJBHbhw46i3VFsLW1n"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "El Perro Feroz",
         "url": "https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 161342,
       "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music",
       "url": "https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 134956,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 134956,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "Al Margen de Ojal\u00e1",
         "url": "https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus"
       },
@@ -1379,46 +1379,6 @@
       "duration_ms": 326129,
       "name": "Al Margen de Ojal\u00e1",
       "url": "https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Herminia",
-        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
-      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 180778,
-      "name": "Un D\u00eda Lo Encontr\u00e9",
-      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1443,6 +1403,26 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
+        "name": "Herminia",
+        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
+      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
         "name": "No me pidas que no sea un inconsciente",
         "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 133859,
       "name": "No me pidas que no sea un inconsciente",
       "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 180778,
+      "name": "Un D\u00eda Lo Encontr\u00e9",
+      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1599,38 +1599,18 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+        "name": "Sesi\u00f3n Jeanette",
+        "url": "https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Aho Uhal",
-        "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
-      },
-      "artists": [
-        {
-          "name": "Olatz Salvador",
-          "url": "https://open.spotify.com/artist/7cV8rrm23yUOT1ZRJFxZxk"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Ahots Hari",
-      "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
+      "duration_ms": 207866,
+      "name": "El Muchacho de los Ojos Tristes - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1655,6 +1635,22 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
         "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
         "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
@@ -1671,34 +1667,22 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Sesi\u00f3n Jeanette",
-        "url": "https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg"
+        "name": "Aho Uhal",
+        "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "El Muchacho de los Ojos Tristes - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Cuchara Chueca",
-        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
-      },
-      "artists": [
+          "name": "Olatz Salvador",
+          "url": "https://open.spotify.com/artist/7cV8rrm23yUOT1ZRJFxZxk"
+        },
         {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 271200,
-      "name": "Alma Sola",
-      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
+      "duration_ms": 206032,
+      "name": "Ahots Hari",
+      "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1723,26 +1707,50 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/5DSlYtdAQ7x3KxldkrAwBg"
+        "name": "Cuchara Chueca",
+        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
       },
       "artists": [
         {
-          "name": "IRIA M",
-          "url": "https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa"
-        },
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/4HWvloZKsYg0HmsnFMkeNO"
-        },
-        {
-          "name": "Factoria Chakataga",
-          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
         }
       ],
-      "duration_ms": 146731,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/7wKz16Le77RMTt0eOGPp0v"
+      "duration_ms": 271200,
+      "name": "Alma Sola",
+      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Una Fecha En El Calendario",
+      "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1767,22 +1775,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Una Fecha En El Calendario",
-      "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "Alfonsina Y El Mar",
         "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
       },
@@ -1799,18 +1791,26 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Como el Mar",
-        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5DSlYtdAQ7x3KxldkrAwBg"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+          "name": "IRIA M",
+          "url": "https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa"
+        },
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/4HWvloZKsYg0HmsnFMkeNO"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
         }
       ],
-      "duration_ms": 245593,
-      "name": "Fui y Volv\u00ed",
-      "url": "https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8"
+      "duration_ms": 146731,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/7wKz16Le77RMTt0eOGPp0v"
     }
   ],
   "unique_name": "Cancionistas",

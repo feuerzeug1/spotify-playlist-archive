@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,600 likes - 60 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,626 likes - 60 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 23 | [Lighter VIP](https://open.spotify.com/track/58mlFUs5fy2d6B7bGA06iV) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Lighter EP](https://open.spotify.com/album/1aMv0600AWsjglH7gdeOuL) | 4:33 |
 | 24 | [Migraine Skank \- Main Mix](https://open.spotify.com/track/54KCXjzkieeuv6L0fzL0CG) | [Gracious K](https://open.spotify.com/artist/6V1DvxiIkIOvjTK2yzLNyy) | [Migraine Skank](https://open.spotify.com/album/6RhGWsbhsG19udkx5UotWT) | 3:06 |
 | 25 | [Make It Funky for Me \- Radio Edit](https://open.spotify.com/track/3qb9Fv1hvfvu1JDssgHni7) | [Attacca Pesante](https://open.spotify.com/artist/71tqljagflr75OBdRDBWCa), [Shea Soul](https://open.spotify.com/artist/6nk7YSGGvz4AOOkbfMCNHh) | [Make It Funky for Me](https://open.spotify.com/album/1qgm6HW2V0GJXwpL1irUYl) | 2:53 |
-| 26 | [Are You Gunna Bang Doe?](https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW) | [Funky Dee](https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv) | [Street Nation](https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd) | 2:43 |
+| 26 | [Township Funk](https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR) | 5:49 |
 | 27 | [BLU Magic](https://open.spotify.com/track/7jXF5MEo0MBRjdf5Uy7j1t) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [The BLU Magic Project Remix EP](https://open.spotify.com/album/1p8R2BA13zfBxEO5fMlImp) | 4:32 |
-| 28 | [Township Funk](https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR) | 5:49 |
+| 28 | [Are You Gunna Bang Doe?](https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW) | [Funky Dee](https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv) | [Street Nation](https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd) | 2:43 |
 | 29 | [Timbao](https://open.spotify.com/track/1jbha5KqgpV5qH4A4kZDnu) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/3bKvBimZKZhXnnpfTT9awr) | 3:48 |
 | 30 | [Tribal Warrior](https://open.spotify.com/track/5nlOnRGgf46AmVzyAPDPyh) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [3 x 2 EP](https://open.spotify.com/album/4dvYDMor2bCeiyQh7hK4dJ) | 5:08 |
 | 31 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 59 | [Condo \(feat\. T\-Pain\) \- Roska Remix](https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Condo \(feat\. T\-Pain\) \[Remixes\]](https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr) | 3:52 |
 | 60 | [I'm Fly \- DJ Version](https://open.spotify.com/track/0e5jqZDWMqo5u13SQ0WmXQ) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [I'm Fly](https://open.spotify.com/album/3xwYsxgBdRhr4sJ1H0XDuf) | 4:08 |
 
-Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMDEyMmI2YzEwYTc3ZjZlYzg1NjZmZjEzZGMwYjI4M2Q2`
+Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMDBjMTI2OTZjNDUwYjMxOTRkZWI1MGNiNGNiYTA3Mjlh`

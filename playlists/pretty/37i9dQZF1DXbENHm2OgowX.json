@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 31294,
+  "num_followers": 31350,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMDU0ZjZjNWY0OTg5Y2RjMDE3YTRhNTlmOWFmZjRiOGM3",
+  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMDk1YTA0ZGQzYjMwNWVjYTBkN2YxOWI1NTBjMzM4YzY3",
   "tracks": [
     {
       "added_at": "2023-01-20 15:04:59",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Green Wall",
-        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
-      },
-      "artists": [
-        {
-          "name": "Wreath",
-          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Waiting for Your Train",
-      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 317455,
       "name": "come",
       "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Green Wall",
+        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
+      },
+      "artists": [
+        {
+          "name": "Wreath",
+          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Waiting for Your Train",
+      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
     },
     {
-      "added_at": "2023-03-19 01:39:03",
+      "added_at": "2023-03-20 01:31:51",
       "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
         "name": "And They Will Fall",
         "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Lie Beneath the Stars",
-        "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "Rokkr",
-          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 389530,
-      "name": "Lie Beneath the Stars",
-      "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -995,6 +979,22 @@
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Lie Beneath the Stars",
+        "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
+      },
+      "artists": [
+        {
+          "name": "Rokkr",
+          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
+        }
+      ],
+      "duration_ms": 389530,
+      "name": "Lie Beneath the Stars",
+      "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
         "name": "Arborescence",
         "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 291553,
       "name": "Animism",
       "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2023-01-20 15:04:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > New music from female\-identifying artists, co\-curated by  <a href=“https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs?si=ynZhn3bXQ5S1M1yxXVpkmg”>Janelle Monáe</a>  for International Women’s Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,341 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,358 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 23 | [Not Nice](https://open.spotify.com/track/1DIFFX5zpjyxaJvA8YFEji) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:45 |
 | 24 | [Hospital \(One Man Down\) \(feat\. Remi Wolf\)](https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Hospital \(One Man Down\)](https://open.spotify.com/album/25iq2f67q6Je815D44cXPu) | 3:27 |
 | 25 | [GIRL](https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:10 |
-| 26 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
-| 27 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
+| 26 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
+| 27 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
 | 28 | [Hooves](https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Hooves](https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz) | 2:43 |
 | 29 | [Togetherness](https://open.spotify.com/track/7biflzjN8c8v5mPuh71lXB) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [LP Giobbi x Insomniac Records Presents Femme House](https://open.spotify.com/album/2PPOz5uvKbjugSgFZHTMNi) | 3:40 |
 | 30 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 41 | [Nuestra Canción](https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Nuestra Canción](https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM) | 3:32 |
 | 42 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
 | 43 | [squirrel song](https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [squirrel song](https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn) | 1:48 |
-| 44 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 |
-| 45 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
+| 44 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
+| 45 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 |
 | 46 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 |
 | 47 | [Mujer \(Ft\. iLe\)](https://open.spotify.com/track/0EFxVewPdGJG4LzBONflSE) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 3:48 |
 | 48 | [Body](https://open.spotify.com/track/09tc8sP1yi1AGC8JmtS8pd) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [God, I Hate This Place](https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T) | 3:30 |
 | 49 | [Sexo Sin Drama](https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Sexo Sin Drama](https://open.spotify.com/album/2ndDGHFi69bEujXAftA959) | 2:22 |
 | 50 | [Ain't Got Time For Hate](https://open.spotify.com/track/6JQEfDsrQap0VFFjP9cKYr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:18 |
 
-Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMGY2YmY5MjA5NjM2MDA0MGNkZGZmYmE2ODYzYWNhNWRl`
+Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMDAwYzhhNTlhMGYzNzU2OTYwY2Q4YjhjODFjYmViNjQ0`

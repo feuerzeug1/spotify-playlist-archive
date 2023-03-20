@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-974 songs - 2 day 2 hr 37 min
+975 songs - 2 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-06-28 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-04 | 2021-05-03 |
 | [Denker & Doener](https://open.spotify.com/track/7kcUTqYHWZAT99xEyHk6Ue) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Recklezz](https://open.spotify.com/album/2SQP0maBlv8QZunwPVfE3P) | 3:43 | 2022-11-19 | 2022-11-21 |
-| [Der Af \(Oya Lélé\)](https://open.spotify.com/track/443rDqZIaqvZzJ1DgdJNgr) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Der Af \(Oya Lélé\)](https://open.spotify.com/album/6AAEje0hsC6HnJy5SsMiYD) | 2:26 | 2023-02-11 |  |
+| [Der Af \(Oya Lélé\)](https://open.spotify.com/track/443rDqZIaqvZzJ1DgdJNgr) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Der Af \(Oya Lélé\)](https://open.spotify.com/album/6AAEje0hsC6HnJy5SsMiYD) | 2:26 | 2023-02-11 | 2023-03-20 |
 | [Destiny](https://open.spotify.com/track/1kzbetwn68lwGzlV9Iifbe) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Destiny](https://open.spotify.com/album/1RO93xPA7ZSpzpuThSY9Rn) | 3:05 | 2022-10-01 | 2022-10-04 |
 | [Deze Nacht Is Van Mij](https://open.spotify.com/track/4MKUsmY01wehe128yUmKm0) | [Thomas van der Vlugt](https://open.spotify.com/artist/4k93TM9rMTGkzdNFNkI6UX) | [Deze Nacht Is Van Mij](https://open.spotify.com/album/2WxBtDieSgNrJnFMCamFK0) | 2:49 | 2021-10-02 | 2021-10-05 |
 | [Did A Lotta Shit](https://open.spotify.com/track/1H1BM6ZjJQXZSd91Plo9UQ) | [Mario Cash](https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Did A Lotta Shit](https://open.spotify.com/album/0U8l6f8EoXe9km9Rt3fBJH) | 2:49 | 2022-09-03 | 2022-09-05 |
@@ -749,6 +749,7 @@
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-11 | 2023-03-13 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-07 | 2022-12-29 |
 | [Roller Coaster](https://open.spotify.com/track/1z2HAz6JcwfGHKMSgKEA3D) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [PRESSURE MAKES DIAMONDS](https://open.spotify.com/album/5GavylsuNH6w0nfggBDuKa) | 4:29 | 2021-03-27\* | 2023-01-07 |
+| [Round 2](https://open.spotify.com/track/6oLLXajPHZTNgUdHxNID75) | [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Boat](https://open.spotify.com/artist/545XHoCXOXRYsNrKjh4uHd) | [Round 2](https://open.spotify.com/album/1xBdfJLOVxFiqEPG0d3hz3) | 2:59 | 2023-03-19 |  |
 | [Rovers](https://open.spotify.com/track/51lsijGggecx26FK6yLKkR) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [Luxeprobleem](https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy) | 3:25 | 2023-02-18 | 2023-02-27 |
 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 | 2021-12-26 | 2021-12-27 |
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2021-08-29 | 2021-11-07 |

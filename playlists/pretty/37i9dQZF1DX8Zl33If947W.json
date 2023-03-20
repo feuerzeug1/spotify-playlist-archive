@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 120330,
+  "num_followers": 120517,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMDRhZmE2NjA5YWIzM2UzYjUwOGQ3OWE4NzJlMmQzYmJj",
+  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMDNlMDEzM2U3NWFmZTVmMWQzNDAyYjk1Y2IwNGU3YmY5",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Raop",
         "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 142462,
       "name": "Einmal um die Welt",
       "url": "https://open.spotify.com/track/7qiUjLVo6zLj8WmxPMqoXD"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Die gute Seite (Die lange Seite)",
+        "url": "https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq"
+      },
+      "artists": [
+        {
+          "name": "Sportfreunde Stiller",
+          "url": "https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Ein Kompliment",
+      "url": "https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Die gute Seite (Die lange Seite)",
-        "url": "https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq"
-      },
-      "artists": [
-        {
-          "name": "Sportfreunde Stiller",
-          "url": "https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Ein Kompliment",
-      "url": "https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Von Anfang An",
+        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnchener Freiheit",
+          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Von Anfang An",
-        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnchener Freiheit",
-          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
-      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -375,38 +375,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Liege wieder wach",
-        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Liege wieder wach",
-      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Schlagschatten",
-        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 207751,
-      "name": "Vielleicht Vielleicht",
-      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Liebe zu dritt",
         "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
       },
@@ -431,6 +399,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Schlagschatten",
+        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 207751,
+      "name": "Vielleicht Vielleicht",
+      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Powerbausa",
         "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 203630,
       "name": "Was du Liebe nennst",
       "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "F\u00fcr Immer",
-        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "F\u00fcr Immer",
-      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 230413,
       "name": "Wenn du tanzt",
       "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Liebeskummerparty",
-        "url": "https://open.spotify.com/album/0u5DLCi7p5AED8y7vxNqQY"
+        "name": "Vom selben Stern (Exklusive Version)",
+        "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
       },
       "artists": [
         {
-          "name": "ROTE M\u00dcTZE RAPHI",
-          "url": "https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L"
-        },
-        {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+          "name": "Ich + Ich",
+          "url": "https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId"
         }
       ],
-      "duration_ms": 164453,
-      "name": "Tag ein Tag aus",
-      "url": "https://open.spotify.com/track/0m21WyNPuPOwYsxxgBsnVn"
+      "duration_ms": 228373,
+      "name": "Vom selben Stern - Radio Edit",
+      "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
     }
   ],
   "unique_name": "Liebeslieder",

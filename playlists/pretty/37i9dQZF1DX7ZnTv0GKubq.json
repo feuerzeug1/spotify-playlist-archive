@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 340087,
+  "num_followers": 340133,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0NzcyNSwwMDAwMDAwMGRhMmJiMDg5OWY3ZGEwNzkyYjQxMzZhYmI5OGU1MzA1",
+  "snapshot_id": "MTY3Nzg0NzcyNSwwMDAwMDAwMDY5MzU5YzE1ZmMwYTU5YjUxN2UzZDQ0MWU4MWRiZWI5",
   "tracks": [
     {
       "added_at": "2023-03-03 12:47:34",
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
     },
     {
-      "added_at": "2023-03-19 01:43:42",
+      "added_at": "2023-03-20 01:22:36",
       "album": {
         "name": "Linger Awhile",
         "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-03-03 12:47:34",
       "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
-    },
-    {
-      "added_at": "2023-03-03 12:47:34",
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
+    },
+    {
+      "added_at": "2023-03-03 12:47:34",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
     },
     {
       "added_at": "2023-03-03 12:47:34",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-03-03 12:47:34",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+        "name": "Ride for Me",
+        "url": "https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg"
       },
       "artists": [
         {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
         }
       ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+      "duration_ms": 194542,
+      "name": "Ride for Me",
+      "url": "https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84"
     },
     {
       "added_at": "2023-03-03 12:47:34",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-03-03 12:47:34",
       "album": {
-        "name": "Ride for Me",
-        "url": "https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg"
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
       "artists": [
         {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
         }
       ],
-      "duration_ms": 194542,
-      "name": "Ride for Me",
-      "url": "https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84"
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2023-03-03 12:47:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,055 likes - 48 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,160 likes - 48 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 11 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
 | 12 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
 | 13 | [Suma y Resta](https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Suma y Resta](https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK) | 3:08 |
-| 14 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 |
-| 15 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 |
+| 14 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 |
+| 15 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 |
 | 16 | [Creiste](https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Creiste](https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU) | 4:17 |
 | 17 | [Pasaporte](https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Pasaporte](https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv) | 5:00 |
 | 18 | [Luna Negra](https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:44 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 30 | [Ámame con Tu Experiencia \- Remasterizado](https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst) | [Juan Carlos Alfonso y su Dan Den](https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM) | [Fiestas de Cuba \(Remasterizado\)](https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u) | 4:42 |
 | 31 | [Yo Voy Pa Encima](https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Yo Voy Pa Encima \- Single](https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ) | 3:26 |
 | 32 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
-| 33 | [Dale Lo Que Lleva \(with Maykel Fonts\)](https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp), [Maykel Fonts](https://open.spotify.com/artist/25XlE014uP57NwPYobN64T) | [Latino 56 \- Salsa Bachata Merengue Reggaeton \(Latin Hits\)](https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl) | 5:02 |
-| 34 | [Tren Bala](https://open.spotify.com/track/6RQ6XY9KxNov9Wl4m6KvNa) | [Barbaro Fines Fortes](https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4) | [De La Habana a Perú](https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0) | 5:30 |
+| 33 | [Tren Bala](https://open.spotify.com/track/6RQ6XY9KxNov9Wl4m6KvNa) | [Barbaro Fines Fortes](https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4) | [De La Habana a Perú](https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0) | 5:30 |
+| 34 | [Dale Lo Que Lleva \(with Maykel Fonts\)](https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp), [Maykel Fonts](https://open.spotify.com/artist/25XlE014uP57NwPYobN64T) | [Latino 56 \- Salsa Bachata Merengue Reggaeton \(Latin Hits\)](https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl) | 5:02 |
 | 35 | [Conmigo No](https://open.spotify.com/track/3yophgzbY958X32KOQqiYF) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Con La Musica Cubana No!](https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy) | 5:16 |
 | 36 | [Lola Lola](https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Live In The USA](https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi) | 7:56 |
 | 37 | [Venenosa](https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 4:07 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Me Dicen Cuba](https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 5:42 |
 | 48 | [Consumelo](https://open.spotify.com/track/5QB5D24Q2ZExArP6fG9BQh) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Consumelo](https://open.spotify.com/album/1suANlvy8VuPkA2Vb7pvHK) | 4:41 |
 
-Snapshot ID: `MTY3MjQyNDQ0NSwwMDAwMDAwMDM4MjYzMjc5OTY0ZjczNTRiYTExODFjMTdmZmNlY2Nm`
+Snapshot ID: `MTY3MjQyNDQ0NSwwMDAwMDAwMGFlYmU4MDE2NDYyNDdkZWNjNGEzM2E5ZTM5NzY4NjNm`

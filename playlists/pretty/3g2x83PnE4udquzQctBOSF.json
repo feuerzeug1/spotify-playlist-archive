@@ -1,12 +1,12 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2185,
+  "num_followers": 2193,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "MjkyNCw0YTIzZDQwMzQ4NjgyODUyOWVkMGZmYWUxZGZiOTNiZGVlYWRhZjNi",
+  "snapshot_id": "Mjk3MiwxMTlmYmFhNDhiN2FjN2QzOTQxZDUzYTVmNTQ1YzhkOTEyMDkxOGRm",
   "tracks": [
     {
       "added_at": "2023-03-17 19:24:07",
@@ -25,6 +25,70 @@
       "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
     },
     {
+      "added_at": "2023-03-19 17:19:07",
+      "album": {
+        "name": "Superlicious",
+        "url": "https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Superlicious",
+      "url": "https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm"
+    },
+    {
+      "added_at": "2023-03-19 17:19:20",
+      "album": {
+        "name": "Welcome to Hell II",
+        "url": "https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz"
+      },
+      "artists": [
+        {
+          "name": "Federico Ambrosi",
+          "url": "https://open.spotify.com/artist/5Q9fyaoh5FFG2EtEJtsHK1"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Stop The Grains",
+      "url": "https://open.spotify.com/track/6AoSReioPk372vr9EDshOn"
+    },
+    {
+      "added_at": "2023-03-19 17:19:10",
+      "album": {
+        "name": "Believe In Music",
+        "url": "https://open.spotify.com/album/0Ylixg5nZtbN9HCeRdxb3n"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Believe In Music",
+      "url": "https://open.spotify.com/track/3xZcJMwrpm65gGTfA3ngL1"
+    },
+    {
+      "added_at": "2023-02-10 17:30:44",
+      "album": {
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 189196,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+    },
+    {
       "added_at": "2023-03-12 09:57:30",
       "album": {
         "name": "GET IT",
@@ -39,6 +103,22 @@
       "duration_ms": 212887,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/1iE60Ny9k6vGmPRF7iKoUr"
+    },
+    {
+      "added_at": "2023-03-19 17:19:04",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
     },
     {
       "added_at": "2023-03-12 09:57:37",
@@ -61,26 +141,26 @@
       "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
     },
     {
-      "added_at": "2023-03-12 09:57:39",
+      "added_at": "2023-03-19 17:18:59",
       "album": {
-        "name": "Bumpin'",
-        "url": "https://open.spotify.com/album/4sESCe1Q8O2NxP9S2TnGEv"
+        "name": "Sombrero Galaxy",
+        "url": "https://open.spotify.com/album/6hnHiX4yrDKeO65xn0vr9L"
       },
       "artists": [
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
         }
       ],
-      "duration_ms": 208869,
-      "name": "Bumpin'",
-      "url": "https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl"
+      "duration_ms": 180267,
+      "name": "Sombrero Galaxy",
+      "url": "https://open.spotify.com/track/1oQoDktIuJITi7TQXpJ5Jx"
     },
     {
-      "added_at": "2023-02-10 17:30:44",
+      "added_at": "2023-01-20 06:39:56",
       "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+        "name": "Don't Wanna Be",
+        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
       },
       "artists": [
         {
@@ -88,9 +168,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 189196,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+      "duration_ms": 203333,
+      "name": "Don't Wanna Be",
+      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
     },
     {
       "added_at": "2023-03-05 13:16:01",
@@ -109,20 +189,20 @@
       "url": "https://open.spotify.com/track/3eHD5n37Rw3n6sxE9AJZCf"
     },
     {
-      "added_at": "2023-03-05 13:15:55",
+      "added_at": "2023-03-12 09:57:39",
       "album": {
-        "name": "Pitch Thing",
-        "url": "https://open.spotify.com/album/36khe7dGDSL0YUI6stNTzO"
+        "name": "Bumpin'",
+        "url": "https://open.spotify.com/album/4sESCe1Q8O2NxP9S2TnGEv"
       },
       "artists": [
         {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
         }
       ],
-      "duration_ms": 217157,
-      "name": "Pitch Thing",
-      "url": "https://open.spotify.com/track/6Kea7kd9xbq4bAgEp1srdN"
+      "duration_ms": 208869,
+      "name": "Bumpin'",
+      "url": "https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl"
     },
     {
       "added_at": "2023-03-12 09:57:28",
@@ -145,6 +225,38 @@
       "url": "https://open.spotify.com/track/0lAQ4hpL4wS7EdgXYd3I2w"
     },
     {
+      "added_at": "2023-03-19 17:19:26",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/4JzfgP4l8bmmUG0hfoZIpd"
+      },
+      "artists": [
+        {
+          "name": "MUUS",
+          "url": "https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH"
+        }
+      ],
+      "duration_ms": 222374,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/2pqBgFAxdgVXcmtG16SB5O"
+    },
+    {
+      "added_at": "2022-09-30 05:47:41",
+      "album": {
+        "name": "CLOD",
+        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 139107,
+      "name": "CLOD",
+      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
+    },
+    {
       "added_at": "2023-03-05 13:15:28",
       "album": {
         "name": "Eso",
@@ -161,40 +273,44 @@
       "url": "https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T"
     },
     {
-      "added_at": "2023-01-20 06:39:56",
+      "added_at": "2023-03-19 17:19:17",
       "album": {
-        "name": "Don't Wanna Be",
-        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
+        "name": "Welcome to Hell II",
+        "url": "https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Don't Wanna Be",
-      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
+      "duration_ms": 174374,
+      "name": "My Bank",
+      "url": "https://open.spotify.com/track/3SnzEIFjDfjTSN60Ebkv0q"
     },
     {
-      "added_at": "2023-02-19 12:43:37",
+      "added_at": "2023-03-19 17:19:13",
       "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/3BgQIbVApzmhwc39g05K9q"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/27LkHeHrRMtJRYZvgPvlmP"
       },
       "artists": [
         {
-          "name": "Bright Sparks",
-          "url": "https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz"
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
         },
         {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Rhiannon Roze",
+          "url": "https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m"
+      "duration_ms": 180461,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc"
     },
     {
       "added_at": "2023-03-05 13:15:33",
@@ -217,6 +333,22 @@
       "url": "https://open.spotify.com/track/2eNyIYoHZRUeEl5p5PKdOC"
     },
     {
+      "added_at": "2022-05-26 08:21:11",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 157341,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC"
+    },
+    {
       "added_at": "2023-03-12 09:57:45",
       "album": {
         "name": "winter '23",
@@ -233,56 +365,44 @@
       "url": "https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu"
     },
     {
-      "added_at": "2023-02-19 12:43:35",
+      "added_at": "2023-03-19 17:19:23",
       "album": {
-        "name": "Orient Express",
-        "url": "https://open.spotify.com/album/2ZeA0rOASQLqhn8WSKCNqT"
+        "name": "Welcome to Hell II",
+        "url": "https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz"
       },
       "artists": [
         {
-          "name": "GIANT",
-          "url": "https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K"
-        }
-      ],
-      "duration_ms": 166540,
-      "name": "Orient Express",
-      "url": "https://open.spotify.com/track/293qKOjripajaL2vyZnJkX"
-    },
-    {
-      "added_at": "2022-09-30 05:47:41",
-      "album": {
-        "name": "CLOD",
-        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 139107,
-      "name": "CLOD",
-      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
-    },
-    {
-      "added_at": "2023-03-05 13:15:20",
-      "album": {
-        "name": "All The Time",
-        "url": "https://open.spotify.com/album/0QBrRX6aMDz7SxzEvHXCv5"
-      },
-      "artists": [
-        {
-          "name": "Hollaphonic",
-          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
+          "name": "Felipe Fella",
+          "url": "https://open.spotify.com/artist/4fINHdoufNssJ32yLC3NsK"
         },
         {
-          "name": "Curtiba",
-          "url": "https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3"
+          "name": "cesco.",
+          "url": "https://open.spotify.com/artist/1KVp24r2N0WPNNa7HSh0OG"
         }
       ],
-      "duration_ms": 166443,
-      "name": "All The Time",
-      "url": "https://open.spotify.com/track/5By6A6jdZiJ9j3YION9hQW"
+      "duration_ms": 195692,
+      "name": "All My Dogs",
+      "url": "https://open.spotify.com/track/6VBvc1SHws6dNgVHNYRsVu"
+    },
+    {
+      "added_at": "2023-03-19 17:19:33",
+      "album": {
+        "name": "Ferda",
+        "url": "https://open.spotify.com/album/6F1ehz6wqX9Cxrg3jidwtW"
+      },
+      "artists": [
+        {
+          "name": "Avenue",
+          "url": "https://open.spotify.com/artist/593tl1pc0kps0wJkyn08O3"
+        },
+        {
+          "name": "Sadyouth",
+          "url": "https://open.spotify.com/artist/5LGSEONWZJAypWMrt0yDnx"
+        }
+      ],
+      "duration_ms": 226874,
+      "name": "Ferda",
+      "url": "https://open.spotify.com/track/4OmDuXbT6ik5kHvzuKAAEw"
     },
     {
       "added_at": "2023-03-12 09:57:42",
@@ -301,20 +421,20 @@
       "url": "https://open.spotify.com/track/5oWXxAqoHGY96OnwzmdHdH"
     },
     {
-      "added_at": "2023-02-12 13:30:27",
+      "added_at": "2022-07-15 16:45:56",
       "album": {
-        "name": "Wait A Minute",
-        "url": "https://open.spotify.com/album/7bEV9C1I27kJqPO53JqTBP"
+        "name": "Abra",
+        "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
       },
       "artists": [
         {
-          "name": "Cave Studio",
-          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 202204,
-      "name": "Wait A Minute",
-      "url": "https://open.spotify.com/track/0UAK0qiRTIPUnMzjwKk2PF"
+      "duration_ms": 155634,
+      "name": "Abra",
+      "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
     },
     {
       "added_at": "2023-03-05 13:15:37",
@@ -333,36 +453,28 @@
       "url": "https://open.spotify.com/track/2fRPAxlfizmSKUwfGZZjNk"
     },
     {
-      "added_at": "2022-05-26 08:21:11",
+      "added_at": "2023-03-19 17:19:02",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK"
+        "name": "Baby again..",
+        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 157341,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC"
-    },
-    {
-      "added_at": "2023-03-05 13:15:26",
-      "album": {
-        "name": "In My Brain",
-        "url": "https://open.spotify.com/album/5fT2Hkzx9dhJCPsffatJDu"
-      },
-      "artists": [
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
         {
-          "name": "Yungness & Jaminn",
-          "url": "https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 214153,
-      "name": "In My Brain",
-      "url": "https://open.spotify.com/track/75VaEHJpYnWtHj7CenYbf8"
+      "duration_ms": 319963,
+      "name": "Baby again..",
+      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
     },
     {
       "added_at": "2023-03-12 09:57:34",
@@ -381,128 +493,24 @@
       "url": "https://open.spotify.com/track/6VF8DFuo2NVsoBKaqt5Nlw"
     },
     {
-      "added_at": "2023-03-05 13:15:46",
+      "added_at": "2023-03-19 17:19:29",
       "album": {
-        "name": "Something In Your Eyes",
-        "url": "https://open.spotify.com/album/5s4ZxE4IDV0TlOBwZNAPo1"
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH"
       },
       "artists": [
         {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
-        }
-      ],
-      "duration_ms": 128223,
-      "name": "Something In Your Eyes",
-      "url": "https://open.spotify.com/track/5vr8JEu7dWxm6p1IXBGEbH"
-    },
-    {
-      "added_at": "2023-03-05 13:15:52",
-      "album": {
-        "name": "State Of Mind / Westside Trippin",
-        "url": "https://open.spotify.com/album/65icEEAu7TwaePaVUzqcHZ"
-      },
-      "artists": [
-        {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
-        }
-      ],
-      "duration_ms": 216044,
-      "name": "State Of Mind",
-      "url": "https://open.spotify.com/track/7I6VWFNZoUo0gRDYiAcC4M"
-    },
-    {
-      "added_at": "2022-07-15 16:45:56",
-      "album": {
-        "name": "Abra",
-        "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 155634,
-      "name": "Abra",
-      "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
-    },
-    {
-      "added_at": "2023-03-05 13:15:23",
-      "album": {
-        "name": "Messiah",
-        "url": "https://open.spotify.com/album/0AktL0F0nhUNAG2jTxj5rq"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/6KqaitakrynOXlmjy6CSmp"
-    },
-    {
-      "added_at": "2023-03-05 13:15:49",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/58ybAeIzZzWhc7nD3WABxe"
-      },
-      "artists": [
-        {
-          "name": "Siege",
-          "url": "https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/4kvUFWcraZeRn2jFMBeJjN"
-    },
-    {
-      "added_at": "2023-03-05 13:15:42",
-      "album": {
-        "name": "\u00a5\u20ac$",
-        "url": "https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         },
         {
-          "name": "Breaking Beattz",
-          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Almondmilkhunni",
-          "url": "https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC"
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         }
       ],
-      "duration_ms": 255234,
-      "name": "Six Figures",
-      "url": "https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ"
-    },
-    {
-      "added_at": "2023-03-05 13:15:40",
-      "album": {
-        "name": "Ye Swan",
-        "url": "https://open.spotify.com/album/6e7RdnaEd4Q4HxH4P2wuxe"
-      },
-      "artists": [
-        {
-          "name": "Ekoboy",
-          "url": "https://open.spotify.com/artist/7MiPGXNx49uTQk9HXUIB9o"
-        }
-      ],
-      "duration_ms": 302325,
-      "name": "Black Swan",
-      "url": "https://open.spotify.com/track/4XakrAsCDt8dQEw9DwnTvB"
+      "duration_ms": 163500,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
     },
     {
       "added_at": "2023-03-05 13:15:57",

@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 126700,
+  "num_followers": 126685,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDdhNWQ1YWNjMmFmMzcxMTAzMzA2OTE4ZDVjZTU1NGZj",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMGE3OTkzZjc0YTI3OTZhMGY1MmI0YWE5ZDQ0N2MwYzQ3",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -139,6 +139,26 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Holiday Inn (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 177480,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "If I Should Fall from Grace with God (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
-      },
-      "artists": [
-        {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        },
-        {
-          "name": "Kirsty MacColl",
-          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Fairytale of New York (feat. Kirsty MacColl)",
-      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "I Need You Christmas",
-        "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "I Need You Christmas",
-      "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Confetti (Expanded Edition)",
         "url": "https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 192945,
       "name": "One I've Been Missing",
       "url": "https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "I Need You Christmas",
+        "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "I Need You Christmas",
+      "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Christmas Portrait (Special Edition/Reissue)",
-        "url": "https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 159440,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "For Those Who Can't Be Here",
         "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 183079,
       "name": "For Those Who Can't Be Here",
       "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Christmas Portrait (Special Edition/Reissue)",
+        "url": "https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 159440,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Man On The Moon",
         "url": "https://open.spotify.com/album/6Pchjb89jY7FiyzzAo67Q6"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 171078,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/4mcgyq5Ay6OYOE4ou2FCNx"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 221906,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Maybe This Christmas, Vol. 7: Country Sleigh Ride",
         "url": "https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 177866,
       "name": "Christmas Dream",
       "url": "https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "Christmas Song",
-      "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "The Magic Of Christmas",
-        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
-      },
-      "artists": [
-        {
-          "name": "LYRA",
-          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "The Magic Of Christmas",
-      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Carol Of The Bells",
         "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 193379,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Magic Of Christmas",
+        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
+      },
+      "artists": [
+        {
+          "name": "LYRA",
+          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "The Magic Of Christmas",
+      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
     },
     {
       "added_at": "2022-11-18 01:05:05",

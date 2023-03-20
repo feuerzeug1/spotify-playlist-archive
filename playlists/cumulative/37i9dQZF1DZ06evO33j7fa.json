@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        },
+        {
+          "name": "Gabrielle Drake",
+          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115960,
+      "name": "All My Trials",
+      "url": "https://open.spotify.com/track/7nTkGz7kHuDZ6frHXk2HEQ"
+    },
+    {
+      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
       },
@@ -164,7 +186,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 161200,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/2zP1DejbDBNptNT7Je2sVX"

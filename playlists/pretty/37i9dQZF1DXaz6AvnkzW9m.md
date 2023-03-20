@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Yerai R & Michelle BI en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,923 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,995 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 44 | [Seguimos Laborando](https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [Seguimos Laborando](https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN) | 3:25 |
 | 45 | [Buena Vibra](https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy) | [Jose Villarreal](https://open.spotify.com/artist/02qtde8veYObRnk68N35sP) | [Buena Vibra](https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1) | 3:13 |
 | 46 | [Falso](https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Falso](https://open.spotify.com/album/1QATRuRMTlIEzQi9VvRm5m) | 3:54 |
-| 47 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 |
-| 48 | [El Carrito](https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Carrito](https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98) | 2:58 |
+| 47 | [El Carrito](https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Carrito](https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98) | 2:58 |
+| 48 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 |
 | 49 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
 | 50 | [Niño De Oro](https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Niño De Oro \(Deluxe Version\)](https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz) | 2:56 |
 | 51 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 70 | [Mi Nueva Familia](https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Mi Nueva Familia](https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS) | 2:55 |
 | 71 | [Moreno 80](https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Moreno 80 \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO) | 3:02 |
 | 72 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 |
-| 73 | [Maryjane y Blancanieves](https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:32 |
-| 74 | [Tumbate El Rollo](https://open.spotify.com/track/2nCFQaUCvrcPiMkhT7Wb6D) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg), [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [Tumbate El Rollo](https://open.spotify.com/album/5GE54IpPFRPlNJUczVw7X1) | 3:01 |
+| 73 | [Tumbate El Rollo](https://open.spotify.com/track/2nCFQaUCvrcPiMkhT7Wb6D) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg), [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [Tumbate El Rollo](https://open.spotify.com/album/5GE54IpPFRPlNJUczVw7X1) | 3:01 |
+| 74 | [Maryjane y Blancanieves](https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:32 |
 | 75 | [Plush](https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Plush](https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1) | 2:57 |
 
-Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMDRmY2RlYTlhNzMwNThhMTM4NThkYWQxNmQxYTdmMDUz`
+Snapshot ID: `MTY3ODQyODAwMCwwMDAwMDAwMGM2NDFhYmQ0YTlmNTEyZWFkOTI5NDE2YTE3MjVhOGI3`

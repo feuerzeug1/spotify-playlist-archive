@@ -1,12 +1,12 @@
 {
   "description": "Let the blessings come down and the weights go up.  Get your beast mode on!",
-  "num_followers": 120300,
+  "num_followers": 120620,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE4MTIwMCwwMDAwMDAwMDVmMGE5NDcwNjdjNjRhNzk5ZTdkYmNlZWQ4ZDA5NDNk",
+  "snapshot_id": "MTY3MTE4MTIwMCwwMDAwMDAwMDg3MzRjNGFlNmVhZDYwYjliN2I3M2Q3NDA4NTgyNDFk",
   "tracks": [
     {
       "added_at": "2022-12-16 09:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 275710,
-      "name": "BackFromTheDEAD",
-      "url": "https://open.spotify.com/track/0371OjQuEOBPvWpIb57CId"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "I Need Peace",
         "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 201632,
       "name": "I Need Peace",
       "url": "https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 275710,
+      "name": "BackFromTheDEAD",
+      "url": "https://open.spotify.com/track/0371OjQuEOBPvWpIb57CId"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "Come Home (Warehouse Mix)",
         "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 158096,
       "name": "Come Home - Warehouse Mix",
       "url": "https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Good to Go Pt. 2",
-        "url": "https://open.spotify.com/album/0H39xyx22auqK4l0SyH6bd"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "Good to Go Pt. 2",
-      "url": "https://open.spotify.com/track/25PJLj7vZm8kx1vAWTonUd"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "AOTY",
         "url": "https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 240952,
       "name": "my year",
       "url": "https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "Good to Go Pt. 2",
+        "url": "https://open.spotify.com/album/0H39xyx22auqK4l0SyH6bd"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Good to Go Pt. 2",
+      "url": "https://open.spotify.com/track/25PJLj7vZm8kx1vAWTonUd"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
-      },
-      "artists": [
-        {
-          "name": "Verses",
-          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
-        }
-      ],
-      "duration_ms": 192775,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 242823,
       "name": "Loyal Til The End (feat. Jon Keith)",
       "url": "https://open.spotify.com/track/0XDdbGVWoomccMBmkkkPs9"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
+      },
+      "artists": [
+        {
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
+        }
+      ],
+      "duration_ms": 192775,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "Ram in the Bush",
+        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 148754,
+      "name": "Ram in the Bush",
+      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "NEW HOLLYWOOD",
         "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 182722,
       "name": "MY SPACE",
       "url": "https://open.spotify.com/track/3Z5ezWXb965iY2BlPEdS4N"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Ram in the Bush",
-        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 148754,
-      "name": "Ram in the Bush",
-      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Rise Up (Lazarus) [FRANKLIN Remix]",
-        "url": "https://open.spotify.com/album/2vi7eJheb0Tis7qfw6p1kD"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 240471,
-      "name": "Rise Up (Lazarus) [FRANKLIN Remix]",
-      "url": "https://open.spotify.com/track/0hD5WoXq5PfWYWPcZnIEXm"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "Swerve That",
         "url": "https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 156309,
       "name": "Swerve That",
       "url": "https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "Rise Up (Lazarus) [FRANKLIN Remix]",
+        "url": "https://open.spotify.com/album/2vi7eJheb0Tis7qfw6p1kD"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 240471,
+      "name": "Rise Up (Lazarus) [FRANKLIN Remix]",
+      "url": "https://open.spotify.com/track/0hD5WoXq5PfWYWPcZnIEXm"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "NOTHING BUT JESUS",
-        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 157885,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "PROBLEMATIC",
         "url": "https://open.spotify.com/album/3I7AuClMij4p9RlODiOvyc"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 127000,
       "name": "RECOGNIZE",
       "url": "https://open.spotify.com/track/6onsgnoCfzkrqxuN3wyLek"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2167,6 +2167,26 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "Keep Me",
+        "url": "https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 150653,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "Underdogs",
         "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
       },
@@ -2211,26 +2231,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Keep Me",
-        "url": "https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52"
-      },
-      "artists": [
-        {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 150653,
-      "name": "Keep Me",
-      "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "Blessed Mode",
         "url": "https://open.spotify.com/album/15x3jykJeOXdE43DommQlB"
       },
@@ -2251,22 +2251,6 @@
       "duration_ms": 183000,
       "name": "Blessed Mode",
       "url": "https://open.spotify.com/track/7JPlYKKFQ6iKWAxsFZF3IS"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Stuck Inside My Head",
-        "url": "https://open.spotify.com/album/4YOdEJwb4cA5iR7drggxud"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 197300,
-      "name": "Stuck Inside My Head - Single Mix",
-      "url": "https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2295,6 +2279,22 @@
       "duration_ms": 160458,
       "name": "Unstoppable (Do It Again) - Global Remix",
       "url": "https://open.spotify.com/track/012mT5JjqPWeIMw22u4eZj"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "Stuck Inside My Head",
+        "url": "https://open.spotify.com/album/4YOdEJwb4cA5iR7drggxud"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 197300,
+      "name": "Stuck Inside My Head - Single Mix",
+      "url": "https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2451,6 +2451,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "Out With a Bang",
+        "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
+      },
+      "artists": [
+        {
+          "name": "Adriel Cruz",
+          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Out With a Bang",
+      "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "Hit On That Switch",
         "url": "https://open.spotify.com/album/1nMs1PpWOxZzMlNfdXx6WS"
       },
@@ -2467,22 +2483,6 @@
       "duration_ms": 143963,
       "name": "Hit On That Switch",
       "url": "https://open.spotify.com/track/5LvtYS4qLebDl5kgv6m6SE"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Out With a Bang",
-        "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
-      },
-      "artists": [
-        {
-          "name": "Adriel Cruz",
-          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Out With a Bang",
-      "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2539,26 +2539,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "After",
-        "url": "https://open.spotify.com/album/6Dn3OXlvjkxCxXahmeFB7v"
-      },
-      "artists": [
-        {
-          "name": "Dillon Chase",
-          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
-        },
-        {
-          "name": "Thomas Iannucci",
-          "url": "https://open.spotify.com/artist/1owYPqqX6qgsRRQsocw3Bm"
-        }
-      ],
-      "duration_ms": 158508,
-      "name": "After",
-      "url": "https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
       },
@@ -2583,22 +2563,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Barely Finished 2",
-        "url": "https://open.spotify.com/album/6HZMhMlwFMxwDsfhYV6FYO"
+        "name": "After",
+        "url": "https://open.spotify.com/album/6Dn3OXlvjkxCxXahmeFB7v"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
         },
         {
-          "name": "BrvndonP",
-          "url": "https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy"
+          "name": "Thomas Iannucci",
+          "url": "https://open.spotify.com/artist/1owYPqqX6qgsRRQsocw3Bm"
         }
       ],
-      "duration_ms": 117265,
-      "name": "Stratosphere",
-      "url": "https://open.spotify.com/track/5buWQydDqMzxBL6P3yKoPX"
+      "duration_ms": 158508,
+      "name": "After",
+      "url": "https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2619,6 +2599,26 @@
       "duration_ms": 221435,
       "name": "Unstoppable (feat. Lecrae)",
       "url": "https://open.spotify.com/track/1Ak89vujl3AqjxDMvKmJRQ"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "Barely Finished 2",
+        "url": "https://open.spotify.com/album/6HZMhMlwFMxwDsfhYV6FYO"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "BrvndonP",
+          "url": "https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy"
+        }
+      ],
+      "duration_ms": 117265,
+      "name": "Stratosphere",
+      "url": "https://open.spotify.com/track/5buWQydDqMzxBL6P3yKoPX"
     },
     {
       "added_at": "2022-12-16 09:00:00",

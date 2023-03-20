@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,350 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,389 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 47 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
 | 48 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 |
 | 49 | [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 |
-| 50 | [Take Me as I Am \- Holy Goof Remix](https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Take Me as I Am](https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc) | 3:11 |
-| 51 | [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 |
+| 50 | [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 |
+| 51 | [Take Me as I Am \- Holy Goof Remix](https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Take Me as I Am](https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc) | 3:11 |
 | 52 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
 | 53 | [Far](https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [Far](https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ) | 4:10 |
 | 54 | [Acid](https://open.spotify.com/track/34GR9jBULKi91lqNSo5og7) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Acid](https://open.spotify.com/album/6OqBUNn9xm5YCEWGAjUWTg) | 3:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 |
 | 70 | [Nuclear](https://open.spotify.com/track/3OWUGei3PnLi5pqAl68fhZ) | [Arc Nade](https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL) | [Nuclear \- EP](https://open.spotify.com/album/6Y5fwzWmzx1kgIPUUybmNa) | 3:15 |
 
-Snapshot ID: `MTY3NDU4NDc3MSwwMDAwMDAwMDllZjIyOTM0NjM2Nzg5ZWY0ZjE2NzhkYjVjMTNmODQw`
+Snapshot ID: `MTY3NDU4NDc3MSwwMDAwMDAwMGYzNjkxNmIyNGQ1YzczZjJlMDk2YmUzNTFhZWRmYTJl`

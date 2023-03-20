@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Nothing But Thieves
 
-79 songs - 4 hr 25 min
+80 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Friends With Benefits](https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Friends With Benefits](https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N) | 3:07 | 2023-03-16 |  |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-03-16 |  |
 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-03-16 |  |
-| [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 | 2023-03-16 |  |
+| [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 | 2023-03-16 | 2023-03-20 |
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-03-16 |  |
 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 | 2023-03-16 |  |
 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2023-03-16 |  |
@@ -48,6 +48,7 @@
 | [Love From The Other Side](https://open.spotify.com/track/08v6GcxD4gF8aZ1yuPry0A) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:39 | 2023-03-16 |  |
 | [Medusa \(Stone\)](https://open.spotify.com/track/58nauqtQ3JGC779n2FvfFC) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a) | 3:39 | 2023-03-16 |  |
 | [Miracle](https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Miracle](https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3) | 4:03 | 2023-03-16 |  |
+| [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 | 2023-03-16 |  |
 | [Never With You Again](https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Never With You Again](https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM) | 2:12 | 2023-03-16 |  |
 | [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 | 2023-03-16 |  |
 | [Not Strong Enough](https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:54 | 2023-03-16 |  |

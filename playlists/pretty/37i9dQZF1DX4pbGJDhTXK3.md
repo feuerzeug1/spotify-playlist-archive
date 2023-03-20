@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,005 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,031 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 36 | [Italian Stallion](https://open.spotify.com/track/3o7AUvN9hTo5TRUrrW0HYV) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5) | 6:27 |
 | 37 | [A City So Convenient](https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [A City So Convenient](https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J) | 6:26 |
 | 38 | [HS](https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Pax Americana](https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF) | 4:51 |
-| 39 | [Kuk Av Stal](https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL) | [Kuk Av Stal / November](https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z) | 12:22 |
-| 40 | [Baby Can't Stop](https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Christabelle](https://open.spotify.com/artist/1tGGx3MFXshoO5UyPyk1re) | [Baby Can't Stop](https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG) | 6:11 |
+| 39 | [Baby Can't Stop](https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Christabelle](https://open.spotify.com/artist/1tGGx3MFXshoO5UyPyk1re) | [Baby Can't Stop](https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG) | 6:11 |
+| 40 | [Kuk Av Stal](https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL) | [Kuk Av Stal / November](https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z) | 12:22 |
 | 41 | [Thirst Issues](https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W) | [Melkeveien](https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8) | [Full Pupp Splits 004 \- Hamar\-O\-Ramah!](https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy) | 5:58 |
 | 42 | [Low](https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:07 |
 | 43 | [Maskindans \- Radio Edit](https://open.spotify.com/track/4Gk5pUinxmDBuVAcjOHaKD) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw), [Det Gylne Triangel](https://open.spotify.com/artist/4Rkaxisnihy39c7B45junc) | [Maskindans](https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [This Time \- Lindstrøm Remix](https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [This Time \(Lindstrøm Remix\)](https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX) | 9:29 |
 | 50 | [Tidløs \- Kohib Remix](https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k) | [Aggie Frost](https://open.spotify.com/artist/6KuOR1yUOE16fw6IwThbC0), [Kohib](https://open.spotify.com/artist/26oQRM3dr784QWCkxn38kw) | [Tidløs \(Remixes\)](https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli) | 7:04 |
 
-Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDNjMzMyNzdkNThhYmJjMmU5NWUxNWNkMThhNjE3YTIx`
+Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMGMwNjRhZGYzMmNkZmZlM2ZmZjUzZWFhNGJhZjU1MTk2`

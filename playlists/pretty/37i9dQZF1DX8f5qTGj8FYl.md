@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,707 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,856 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,17 +54,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 44 | [Tej](https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD) | [The So Ons](https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D) | [Tej b/w Short Shrift](https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu) | 5:28 |
 | 45 | [Smokeshow](https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smokeshow](https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3) | 4:02 |
 | 46 | [Don't Worry 'Bout What I Do](https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Cold As Weiss](https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK) | 5:14 |
-| 47 | [Chemical Plant Zone](https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Chemical Plant Zone](https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ) | 4:21 |
+| 47 | [Got Ya Movin'](https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy) | [Funky Times](https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV), [Julia Hofer](https://open.spotify.com/artist/42rpmJkLfveqCuH2fh9bdV), [Silas Engel](https://open.spotify.com/artist/4BjlJxkz88UeYje83jgwHf), [André Haaf](https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg) | [Got Ya Movin'](https://open.spotify.com/album/7yfKLZHZRYOr9ersfyaobt) | 3:26 |
 | 48 | [Good Luck With That](https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu) | [Wolcott Curran Collective](https://open.spotify.com/artist/5iJNcFVVTSBVdgoAY52ox5) | [Good Luck With That](https://open.spotify.com/album/3oSXZcUOdRgh1jiIjCFeiK) | 4:10 |
-| 49 | [Got Ya Movin'](https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy) | [Funky Times](https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV), [Julia Hofer](https://open.spotify.com/artist/42rpmJkLfveqCuH2fh9bdV), [Silas Engel](https://open.spotify.com/artist/4BjlJxkz88UeYje83jgwHf), [André Haaf](https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg) | [Got Ya Movin'](https://open.spotify.com/album/7yfKLZHZRYOr9ersfyaobt) | 3:26 |
+| 49 | [Chemical Plant Zone](https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Chemical Plant Zone](https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ) | 4:21 |
 | 50 | [Sandra](https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo) | [Black Mantra](https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5) | [VXNTX VXNTX](https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l) | 3:11 |
 | 51 | [Get With It](https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 3:06 |
 | 52 | [Psychic Powers](https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Psychic Powers](https://open.spotify.com/album/4JWBQMTD8OEsmELMJPxcTu) | 2:38 |
 | 53 | [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 |
 | 54 | [Mr Bong](https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI) | [Funky Destination](https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK) | [Praise Me Now](https://open.spotify.com/album/1XWqVrK5rTsKxL4rXrjHm5) | 3:40 |
-| 55 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 |
-| 56 | [The Duke](https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Duke](https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9) | 2:46 |
-| 57 | [Do You Wanna Get Down](https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj) | [The Soul Snatchers](https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20) | [Scratch My Itch](https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs) | 3:59 |
+| 55 | [Do You Wanna Get Down](https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj) | [The Soul Snatchers](https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20) | [Scratch My Itch](https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs) | 3:59 |
+| 56 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 |
+| 57 | [The Duke](https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Duke](https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9) | 2:46 |
 | 58 | [1am Funk Dance Party](https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [STARBLASTER](https://open.spotify.com/artist/4bZJS8EXwIYuZAqV2p04PW) | [1am Funk Dance Party](https://open.spotify.com/album/5xX3YIFjwddRpvxrKNrpbt) | 22:24 |
 | 59 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 |
 | 60 | [Indoor S'mores](https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [The Fun Ones](https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH) | 4:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Funkafized](https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0) | [Boston Horns](https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd) | [Funkafized Plus](https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f) | 4:59 |
 | 80 | [Couple A Brownies](https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO) | [Soul Jazz Express](https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh) | [Soul Jazz Express](https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk) | 5:17 |
 
-Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDFiZmFhNGY0OTdjM2ZiNWI0Y2QzZTFkZTQxNThjYzI5`
+Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMGU5YWEwMDBiODAxOWE2YThhNzAwMmVmNGZjODVlNmQ0`

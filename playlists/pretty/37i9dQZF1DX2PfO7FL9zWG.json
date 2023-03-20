@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Allison Russell",
-  "num_followers": 47825,
+  "num_followers": 47847,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMDE1MWFkMTQ1NGU5Y2Q4YjliMWU2Y2ViZjliYjdiOGQ2",
+  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMDc5MDg5ZmFmY2Q4YTEyOTUzMTA1OTZkNzRhYTVjZThj",
   "tracks": [
     {
       "added_at": "2022-07-27 14:00:29",
@@ -443,22 +443,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Long Lost",
-        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
+        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
+        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 234383,
-      "name": "I Lied (with Allison Ponthier)",
-      "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
+      "duration_ms": 211715,
+      "name": "Hold My Girl (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -495,18 +491,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
-        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 211715,
-      "name": "Hold My Girl (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+      "duration_ms": 234383,
+      "name": "I Lied (with Allison Ponthier)",
+      "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 360106,
-      "name": "The Girl",
-      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Cannot Be, Whatsoever",
         "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 202226,
       "name": "Birdcage",
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 360106,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Vide Noir",
+        "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 311226,
+      "name": "When the Night is Over",
+      "url": "https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Vide Noir",
-        "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 311226,
-      "name": "When the Night is Over",
-      "url": "https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Cape Elizabeth",
+        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "A Troubled Mind",
+      "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "Cape Elizabeth",
-        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "A Troubled Mind",
-      "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "How Lucky",
         "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 203117,
       "name": "How Lucky",
       "url": "https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -947,38 +947,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Ancient Transition",
-        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Our Remains",
-      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Bedrock",
-      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
       },
@@ -995,6 +963,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Ancient Transition",
+        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Our Remains",
+      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "Living Room Worktapes",
         "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 243898,
       "name": "Where You Are - Acoustic",
       "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Bedrock",
+      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Prospect",
-        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 192813,
       "name": "To Live a Life",
       "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Prospect",
+        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "They Are Going Away",
-        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "It'll Work Itself Out",
-      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "A Few More Hours at YYZ",
         "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 208297,
       "name": "Dark Four Door",
       "url": "https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "They Are Going Away",
+        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "It'll Work Itself Out",
+      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "A Heart of Gold Is Hard to Find",
+        "url": "https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 226816,
+      "name": "Sorry for the Things",
+      "url": "https://open.spotify.com/track/4INuZskTQeFkHLWcYVjaqG"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "Providence Canyon",
         "url": "https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 195923,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "A Heart of Gold Is Hard to Find",
-        "url": "https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
-        }
-      ],
-      "duration_ms": 226816,
-      "name": "Sorry for the Things",
-      "url": "https://open.spotify.com/track/4INuZskTQeFkHLWcYVjaqG"
     },
     {
       "added_at": "2022-07-27 14:00:29",

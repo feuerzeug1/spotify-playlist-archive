@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Amanda Magalh\u00e3es, Dj Nyack",
-  "num_followers": 158970,
+  "num_followers": 158976,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjA2MCwwMDAwMDAwMDQyMzFhZTQ2OTliNDMxM2U3YmQzZjA4YjhjNDNkOGI1",
+  "snapshot_id": "MTY3OTAyMjA2MCwwMDAwMDAwMDQyZDZjM2IyMmU4ZWJlZWFlMjNhOTVhN2JiMDI0NDdk",
   "tracks": [
     {
       "added_at": "2023-03-17 03:01:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-03-17 03:01:00",
       "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+    },
+    {
+      "added_at": "2023-03-17 03:01:00",
+      "album": {
         "name": "Fala, Fala",
         "url": "https://open.spotify.com/album/3VcWCaee9yKQEvioedeEYn"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 175488,
       "name": "Fala, Fala",
       "url": "https://open.spotify.com/track/1OCTC8kofWuBp07FZIlUIX"
-    },
-    {
-      "added_at": "2023-03-17 03:01:00",
-      "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2023-03-17 03:01:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-03-17 03:01:00",
       "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
-    },
-    {
-      "added_at": "2023-03-17 03:01:00",
-      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 209389,
       "name": "Liga\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
+    },
+    {
+      "added_at": "2023-03-17 03:01:00",
+      "album": {
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2023-03-17 03:01:00",
@@ -659,6 +659,22 @@
       "duration_ms": 278000,
       "name": "Roupa de Ontem",
       "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
+    },
+    {
+      "added_at": "2023-03-17 03:01:00",
+      "album": {
+        "name": "Fuder e Dormir Juntin",
+        "url": "https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA"
+      },
+      "artists": [
+        {
+          "name": "Medulla",
+          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Fuder e Dormir Juntin",
+      "url": "https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE"
     },
     {
       "added_at": "2023-03-17 03:01:00",
@@ -727,22 +743,6 @@
       "duration_ms": 198712,
       "name": "Tudo Que Restou",
       "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
-    },
-    {
-      "added_at": "2023-03-17 03:01:00",
-      "album": {
-        "name": "Fuder e Dormir Juntin",
-        "url": "https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA"
-      },
-      "artists": [
-        {
-          "name": "Medulla",
-          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Fuder e Dormir Juntin",
-      "url": "https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE"
     },
     {
       "added_at": "2023-03-17 03:01:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-03-17 03:01:00",
       "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "added_at": "2023-03-17 03:01:00",
+      "album": {
         "name": "10%",
         "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-03-17 03:01:00",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
-    },
-    {
-      "added_at": "2023-03-17 03:01:00",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2023-03-17 03:01:00",
       "album": {
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Baficca",
+          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
+        }
+      ],
+      "duration_ms": 166857,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
+    },
+    {
+      "added_at": "2023-03-17 03:01:00",
+      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 133564,
       "name": "Eterno Esquema",
       "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2023-03-17 03:01:00",
-      "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        },
-        {
-          "name": "Baficca",
-          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
     },
     {
       "added_at": "2023-03-17 03:01:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-03-17 03:01:00",
       "album": {
-        "name": "Sobrenome",
-        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
-      },
-      "artists": [
-        {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
-        },
-        {
-          "name": "Dodoin",
-          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
-        }
-      ],
-      "duration_ms": 134476,
-      "name": "Sobrenome",
-      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
-    },
-    {
-      "added_at": "2023-03-17 03:01:00",
-      "album": {
         "name": "Seu Bem",
         "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 207000,
       "name": "Seu Bem",
       "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
+    },
+    {
+      "added_at": "2023-03-17 03:01:00",
+      "album": {
+        "name": "Sobrenome",
+        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
+      },
+      "artists": [
+        {
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+        },
+        {
+          "name": "Dodoin",
+          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
+        }
+      ],
+      "duration_ms": 134476,
+      "name": "Sobrenome",
+      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
     },
     {
       "added_at": "2023-03-17 03:01:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-03-17 03:01:00",
       "album": {
+        "name": "1001 Motivos",
+        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        }
+      ],
+      "duration_ms": 163201,
+      "name": "1001 Motivos",
+      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
+    },
+    {
+      "added_at": "2023-03-17 03:01:00",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/4k8YNiDI2cA6mAcNQselNg"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 199655,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z"
-    },
-    {
-      "added_at": "2023-03-17 03:01:00",
-      "album": {
-        "name": "1001 Motivos",
-        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Black",
-          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
-        }
-      ],
-      "duration_ms": 163201,
-      "name": "1001 Motivos",
-      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
     },
     {
       "added_at": "2023-03-17 03:01:00",

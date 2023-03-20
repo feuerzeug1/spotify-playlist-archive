@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,028 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,023 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 88 | [Promenade en traîneau](https://open.spotify.com/track/7fwzmmganYLIMBP9rmrAAw) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 2:54 |
 | 89 | [Noël brun](https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Les nuits de Repentigny](https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc) | 4:15 |
 | 90 | [C'est Noël](https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ) | 2:20 |
-| 91 | [Bonjour, Noël!](https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY) | [Patrick Norman](https://open.spotify.com/artist/3eGAOzOuxjhxwi9MeQ7knd) | [Noël sans faim](https://open.spotify.com/album/3aoqwVv7tuZpUlrvo1oZ5b) | 3:26 |
-| 92 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
+| 91 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
+| 92 | [Bonjour, Noël!](https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY) | [Patrick Norman](https://open.spotify.com/artist/3eGAOzOuxjhxwi9MeQ7knd) | [Noël sans faim](https://open.spotify.com/album/3aoqwVv7tuZpUlrvo1oZ5b) | 3:26 |
 | 93 | [Maman, Papa](https://open.spotify.com/track/5SfR5iR5KLfWIyRxDa99ns) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:41 |
 | 94 | [Noël à Jérusalem](https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Noël avec Jireh Gospel Choir](https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf) | 3:53 |
 | 95 | [Christmas Kisses](https://open.spotify.com/track/5LG0ZOxFnRrkib5uVzbBEi) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/1aMr2tXEiiY6VfR0JhLoxP) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Le bonhomme de neige](https://open.spotify.com/track/45IFGd75CJNQmkA5KZqhvf) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ) | 2:05 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MTY3MTc1MTc0OCwwMDAwMDAwMDk3MGRkMmVlMDA4MDk2ZGViODEyY2ZjYjBmY2UwZjFh`
+Snapshot ID: `MTY3MTc1MTc0OCwwMDAwMDAwMDFkMDY2YmNjYjA1ZDc5ZTgxN2JkNWEwYWViMGMyZTA4`

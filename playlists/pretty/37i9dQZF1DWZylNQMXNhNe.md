@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Pabllo Vittar
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,862 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,865 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 19 | [LAMBO](https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:15 |
 | 20 | [Bumbum Check](https://open.spotify.com/track/07q51cMw9IyDfZ7Jk08S6z) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD) | [Bumbum Check](https://open.spotify.com/album/6MDj1MOMSs5N34VtAyxzjy) | 2:21 |
 | 21 | [VIP \*\-\*](https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:56 |
-| 22 | [BRINCA COM A...](https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [BRINCA COM A...](https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2) | 3:02 |
-| 23 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
+| 22 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
+| 23 | [BRINCA COM A...](https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [BRINCA COM A...](https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2) | 3:02 |
 | 24 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 |
 | 25 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 |
 | 26 | [Explícito](https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Triste com T](https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:12 |
 | 50 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMGZhNjZkOTNmM2Y4NDU2MTMyNmQxYWIyNTBjZThlOGFm`
+Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDdlMTM4MGQwZmNiNWM1NDczNWFhZWY2NmEzMGM4ZmM0`

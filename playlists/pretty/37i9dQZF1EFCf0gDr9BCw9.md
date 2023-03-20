@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513 likes - 143 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 143 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 22 | [Something to Live For \- 2004 Remaster](https://open.spotify.com/track/4hHQu1QzXLI185BL7GIyXH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:56 |
 | 23 | [Hey Buddy Bolden \- 2004 Remaster](https://open.spotify.com/track/2TZkPrgr5iflrNaLPN6S4f) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:27 |
 | 24 | [After All](https://open.spotify.com/track/17TOKPQ8GTh4u7Jov572By) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:47 |
-| 25 | [Rock Skippin'](https://open.spotify.com/track/1Q5UwFeo1DwCz2GelI5U6L) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 6:10 |
-| 26 | [Blues In Orbit](https://open.spotify.com/track/1pCfOO0Zs5F5TRQxcTdQma) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:27 |
+| 25 | [Blues In Orbit](https://open.spotify.com/track/1pCfOO0Zs5F5TRQxcTdQma) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:27 |
+| 26 | [Rock Skippin'](https://open.spotify.com/track/1Q5UwFeo1DwCz2GelI5U6L) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 6:10 |
 | 27 | [Northern Lights \- The Queen's Suite](https://open.spotify.com/track/39KaSaPlBMuQMM5lKML0VZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Ellington Suites](https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s) | 3:31 |
 | 28 | [Pt\. II\-Blues to Be There \- Live](https://open.spotify.com/track/4aKm1xEQAaEF1tDuQ4YMuJ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ellington at Newport 1956 \(Complete\)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) | 7:09 |
 | 29 | [Tonk](https://open.spotify.com/track/5CsQisDoqqLgOqHwHWjuBf) | [The Art Farmer Quartet](https://open.spotify.com/artist/017N2VIptuU1ZIehQyCzWM) | [Perception](https://open.spotify.com/album/7pTyS4yTFJhDBBe0ve3Vpc) | 4:34 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 57 | [Strange Feeling](https://open.spotify.com/track/70shQlAT7pBE869zizxBs1) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [The Peaceful Side Of Jazz](https://open.spotify.com/album/6sVhxrGsOI1snNrkTeaHz0) | 3:40 |
 | 58 | [Portrait Of Ella Fitzgerald \- Medley](https://open.spotify.com/track/1gHCjyrcEDy9dLSRWrVJCb) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 16:16 |
 | 59 | [Drawing Room Blues](https://open.spotify.com/track/1WqFswiLuP8cji7nskoepu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Miti: Duke Ellington](https://open.spotify.com/album/2l3Twfq8UB4oUGXvl3j2L0) | 3:41 |
-| 60 | [Paris Blues](https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB) | [Milt Jackson Quartet](https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ) | [A Thrill from the Blues](https://open.spotify.com/album/0yNscfZjhm8kQO6MikxrVU) | 2:57 |
-| 61 | [Pretty Girl \(aka The Star\-Crossed Lovers\)](https://open.spotify.com/track/3luMzvGFRxc8yFpdQGfviv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 8:54 |
+| 60 | [Pretty Girl \(aka The Star\-Crossed Lovers\)](https://open.spotify.com/track/3luMzvGFRxc8yFpdQGfviv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 8:54 |
+| 61 | [Paris Blues](https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB) | [Milt Jackson Quartet](https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ) | [A Thrill from the Blues](https://open.spotify.com/album/0yNscfZjhm8kQO6MikxrVU) | 2:57 |
 | 62 | [Night Time](https://open.spotify.com/track/3MEjLuXVGxrFBLUUmq0lni) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Piano Reflections](https://open.spotify.com/album/4fRxNElUcNCq9rUADhX1rY) | 2:33 |
 | 63 | [Absinthe](https://open.spotify.com/track/3ZBQ8TTYYRWFlVDhV0T35f) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Afro Bossa](https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021) | 3:32 |
 | 64 | [Boo\-Dah](https://open.spotify.com/track/3lboFV3xYtNiRtHQI9Ga4D) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:32 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 142 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 143 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `Mjc5ODQ5NjEsMDAwMDAwMDA5MDIxYTgxZmYzMGE4NGZlNzNlNTcyMTgwZDQ2YTJkYQ==`
+Snapshot ID: `Mjc5ODc4NDEsMDAwMDAwMDA3OGE5NjVlYjcyNDk4MjQ3Y2I0ZmNhNTA0OTljN2JiOA==`

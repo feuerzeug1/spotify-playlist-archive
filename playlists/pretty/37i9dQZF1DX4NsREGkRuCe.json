@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 33908,
+  "num_followers": 33951,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MDMwMywwMDAwMDAwMDZiYzY4MWM3ZDk2M2Q2OTlmMTZhZWU2ODE0ZmY2Yzhk",
+  "snapshot_id": "MTY3OTA0MDMwMywwMDAwMDAwMDgwZjEyMWNiNjliZGRmYWEzMzIzZTY4MDVkMWU1Y2Jk",
   "tracks": [
     {
       "added_at": "2023-03-16 11:25:44",
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
     },
     {
-      "added_at": "2023-03-19 01:30:47",
+      "added_at": "2023-03-20 00:59:06",
       "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
     },
     {
-      "added_at": "2023-03-19 01:30:47",
+      "added_at": "2023-03-20 00:59:06",
       "album": {
         "name": "I Like Girls",
         "url": "https://open.spotify.com/album/2UzLjMX7iff7P6KcbL9Ez3"
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-03-16 11:25:44",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+      "duration_ms": 209760,
+      "name": "Mood (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
     },
     {
       "added_at": "2023-03-16 11:25:44",
@@ -551,22 +555,18 @@
     {
       "added_at": "2023-03-16 11:25:44",
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 209760,
-      "name": "Mood (feat. BNXN)",
-      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2023-03-16 11:25:44",
@@ -909,6 +909,26 @@
       "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
+      "added_at": "2023-03-20 00:59:06",
+      "album": {
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+    },
+    {
       "added_at": "2023-03-16 11:25:44",
       "album": {
         "name": "Outlaw",
@@ -987,22 +1007,6 @@
     {
       "added_at": "2023-03-16 11:25:44",
       "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
-    },
-    {
-      "added_at": "2023-03-16 11:25:44",
-      "album": {
         "name": "WO WO (Remix)",
         "url": "https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi"
       },
@@ -1043,6 +1047,22 @@
     {
       "added_at": "2023-03-16 11:25:44",
       "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
+    },
+    {
+      "added_at": "2023-03-16 11:25:44",
+      "album": {
         "name": "Barnabas",
         "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
       },
@@ -1071,6 +1091,26 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "added_at": "2023-03-16 11:25:44",
+      "album": {
+        "name": "Who Is Your Guy? (Remix)",
+        "url": "https://open.spotify.com/album/0ASoti9sg1ffkaHutFhATQ"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Who Is Your Guy? - Remix",
+      "url": "https://open.spotify.com/track/5ZUMDhlhC6GmjQKdAkUxrh"
     },
     {
       "added_at": "2023-03-16 11:25:44",
@@ -1111,26 +1151,6 @@
     {
       "added_at": "2023-03-16 11:25:44",
       "album": {
-        "name": "Who Is Your Guy? (Remix)",
-        "url": "https://open.spotify.com/album/0ASoti9sg1ffkaHutFhATQ"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Who Is Your Guy? - Remix",
-      "url": "https://open.spotify.com/track/5ZUMDhlhC6GmjQKdAkUxrh"
-    },
-    {
-      "added_at": "2023-03-16 11:25:44",
-      "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 169844,
       "name": "Beautifully",
       "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
-    },
-    {
-      "added_at": "2023-03-19 01:30:47",
-      "album": {
-        "name": "Party No Dey Stop",
-        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Party No Dey Stop",
-      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
     },
     {
       "added_at": "2023-03-16 11:25:44",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-03-16 11:25:44",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Common Person",
-      "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
-    },
-    {
-      "added_at": "2023-03-16 11:25:44",
-      "album": {
         "name": "Barnabas",
         "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 184800,
       "name": "Eh God (Barnabas)",
       "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
+    },
+    {
+      "added_at": "2023-03-16 11:25:44",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Common Person",
+      "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
     },
     {
       "added_at": "2023-03-16 11:25:44",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-16 11:25:44",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2023-03-16 11:25:44",
-      "album": {
         "name": "Billion Dollar Baby",
         "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 177449,
       "name": "Chance (Na Ham)",
       "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
+    },
+    {
+      "added_at": "2023-03-16 11:25:44",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2023-03-16 11:25:44",
@@ -1319,26 +1319,6 @@
       "duration_ms": 162782,
       "name": "Otilo (Izz Gone)",
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
-    },
-    {
-      "added_at": "2023-03-16 11:25:44",
-      "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2023-03-16 11:25:44",
@@ -1375,6 +1355,42 @@
     {
       "added_at": "2023-03-16 11:25:44",
       "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 150280,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+    },
+    {
+      "added_at": "2023-03-16 11:25:44",
+      "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2023-03-16 11:25:44",
+      "album": {
         "name": "Barnabas",
         "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 158399,
       "name": "Oshe (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7"
-    },
-    {
-      "added_at": "2023-03-16 11:25:44",
-      "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 150280,
-      "name": "5 Star",
-      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
       "added_at": "2023-03-16 11:25:44",

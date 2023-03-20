@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 470228,
+  "num_followers": 470791,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3ODE5NiwwMDAwMDAwMDU1YjRmM2ZiZDk5MjQ4ZGMyNGVlNzc2MWZiMTU2YTc3",
+  "snapshot_id": "MTY0NzQ3ODE5NiwwMDAwMDAwMDg1Y2FhMDBiMjBhZDBkYjAzMDM5OTgzN2ZiNGQ0M2U1",
   "tracks": [
     {
       "added_at": "2022-03-17 00:49:56",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Y Por Esa Calle Vive",
         "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 218013,
       "name": "Y Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Solo Lo Nuestro",
-        "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
-      },
-      "artists": [
-        {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Perdoname Mi Amor",
         "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 225973,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Solo Lo Nuestro",
+        "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Boleros 20\u00b0 Aniversario",
-        "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 176200,
-      "name": "Respeta Mi Dolor",
-      "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
+      "duration_ms": 172466,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "El Amor Que Nunca Fue",
-        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Los A\u00f1os Viejos",
         "url": "https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 203440,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "El Amor Que Nunca Fue",
+        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+        "name": "Boleros 20\u00b0 Aniversario",
+        "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
       },
       "artists": [
         {
@@ -1248,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
+      "duration_ms": 176200,
+      "name": "Respeta Mi Dolor",
+      "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
     },
     {
       "added_at": "2022-03-17 00:49:56",

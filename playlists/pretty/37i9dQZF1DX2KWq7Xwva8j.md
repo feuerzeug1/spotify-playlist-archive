@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Yarea
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,055 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,067 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nada ha cambiado](https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [NO ME PASA NADA](https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI) | 2:40 |
 | 2 | [Polaris](https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [1371 KM](https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2) | 3:12 |
 | 3 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 |
-| 4 | [Reventar la Ciudad](https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Reventar la Ciudad](https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1) | 3:29 |
-| 5 | [Corazón de Melón](https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Corazón de Melón](https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB) | 2:57 |
+| 4 | [Corazón de Melón](https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Corazón de Melón](https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB) | 2:57 |
+| 5 | [Reventar la Ciudad](https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Reventar la Ciudad](https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1) | 3:29 |
 | 6 | [ME MATA\(S\)](https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [ME MATA\(S\)](https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR) | 3:04 |
 | 7 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
 | 8 | [Mil Laberintos](https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Mil Laberintos](https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX) | 2:38 |
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 11 | [si tiene que ser será.](https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [si tiene que ser será.](https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3) | 3:21 |
 | 12 | [ZAHARA](https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TÁNGER Y ZAHARA](https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys) | 2:40 |
 | 13 | [mejores amigos](https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [mejores amigos](https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8) | 2:53 |
-| 14 | [Agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 |
+| 14 | [PROGRESO](https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [PROGRESO](https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe) | 3:22 |
 | 15 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
-| 16 | [PROGRESO](https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [PROGRESO](https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe) | 3:22 |
+| 16 | [Agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 |
 | 17 | [Cápsula Espacial](https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Cápsula Espacial](https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr) | 2:36 |
 | 18 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 |
 | 19 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 |
 | 50 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
 
-Snapshot ID: `MTY3OTAwNzY2MCwwMDAwMDAwMGZjOWMxOTI4MmI4ZGQyMmFjMjkyZGJmMDNlNWQ4NmU4`
+Snapshot ID: `MTY3OTAwNzY2MCwwMDAwMDAwMGE3OTBiZDZkMGFkYWU0MzM5ODA0YzNkZTQ2YTUyNjEw`

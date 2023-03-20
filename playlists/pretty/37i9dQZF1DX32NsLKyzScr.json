@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2339637,
+  "num_followers": 2340478,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDA3MmVjN2MzMWJkOTk3YzZlMzNlMjZjZjcxZTQ0YWY0",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGMyYmQ0MzE3ZDY5N2YzYmNkMzE0ODI5ZmYxMTBhN2Rl",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "All Nighter",
+        "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 134880,
+      "name": "All Nighter",
+      "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 336924,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "All Nighter",
-        "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 134880,
-      "name": "All Nighter",
-      "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Rely On Me",
-        "url": "https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        }
-      ],
-      "duration_ms": 174585,
-      "name": "Rely On Me",
-      "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Wings (I Won't Let You Down)",
         "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
       },
@@ -1283,6 +1259,30 @@
       "duration_ms": 206222,
       "name": "Children - Radio Edit",
       "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Rely On Me",
+        "url": "https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        }
+      ],
+      "duration_ms": 174585,
+      "name": "Rely On Me",
+      "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Thrill Of The Chase",
-        "url": "https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Plested",
-          "url": "https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8"
-        }
-      ],
-      "duration_ms": 248973,
-      "name": "The Way We Were (feat. Plested)",
-      "url": "https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 184000,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Thrill Of The Chase",
+        "url": "https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Plested",
+          "url": "https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8"
+        }
+      ],
+      "duration_ms": 248973,
+      "name": "The Way We Were (feat. Plested)",
+      "url": "https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "No Time",
-        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 156328,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Rise (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
       },
@@ -1855,6 +1839,42 @@
       "duration_ms": 162540,
       "name": "Rise (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 156328,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1883,22 +1903,26 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+        "name": "With My Friends",
+        "url": "https://open.spotify.com/album/1ogQ6f8hVuVHcNOYCX2zw4"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
         },
         {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
         }
       ],
-      "duration_ms": 192614,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
+      "duration_ms": 146706,
+      "name": "With My Friends",
+      "url": "https://open.spotify.com/track/69wzXH2xyoQCaMydQ45rUt"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1939,30 +1963,6 @@
       "duration_ms": 122578,
       "name": "Shockwave (with Afrojack)",
       "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "With My Friends",
-        "url": "https://open.spotify.com/album/1ogQ6f8hVuVHcNOYCX2zw4"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
-        }
-      ],
-      "duration_ms": 146706,
-      "name": "With My Friends",
-      "url": "https://open.spotify.com/track/69wzXH2xyoQCaMydQ45rUt"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -2031,30 +2031,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Sweetest Pie (David Guetta Remixes)",
-        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Sweetest Pie - David Guetta Dance Remix",
-      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "See In Color",
         "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
       },
@@ -2095,6 +2071,30 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/3YVeaqhSFth8QAL45wO19L"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Sweetest Pie (David Guetta Remixes)",
+        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Sweetest Pie - David Guetta Dance Remix",
+      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
     },
     {
       "added_at": "2023-03-17 04:00:00",

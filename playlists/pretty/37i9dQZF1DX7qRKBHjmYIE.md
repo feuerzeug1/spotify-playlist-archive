@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Divino Niño
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,433 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,403 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 20 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 |
 | 21 | [Can’t Hold You Down](https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 2:39 |
 | 22 | [NIÑO ETERNO](https://open.spotify.com/track/01QtjLgSh2PXid128hIWiB) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 2:41 |
-| 23 | [Un Día](https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Un Día](https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK) | 2:44 |
-| 24 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
+| 23 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
+| 24 | [Un Día](https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Un Día](https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK) | 2:44 |
 | 25 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
 | 26 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 |
 | 27 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 35 | [CONTRACORRIENTE](https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 3:25 |
 | 36 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 37 | [te di mi luz](https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [SI ME ELEVO](https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr) | 2:22 |
-| 38 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
-| 39 | [superman](https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 1:33 |
+| 38 | [superman](https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 1:33 |
+| 39 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
 | 40 | [Aleros/Pompeii](https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:00 |
 | 41 | [Sola](https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd) | 3:51 |
 | 42 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 49 | [Telepatía](https://open.spotify.com/track/4YEUKmi4Er6HLPaq39d40E) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ) | [Telepatía](https://open.spotify.com/album/69q7aG1EAc5SQrT7KAmEM1) | 2:32 |
 | 50 | [MI AMOR](https://open.spotify.com/track/0pRRA68mFH6sIhLsenSit9) | [Call Me Ace](https://open.spotify.com/artist/4FKGHM8GGbuP6XIAUoNShM), [CHANNA](https://open.spotify.com/artist/0eWYvUXSchDSbrUvvNcPvp), [J\-Dot Music](https://open.spotify.com/artist/5zNLBBmJp8f1OWisLEIqXw) | [RETURN TO OFFICE](https://open.spotify.com/album/0CxeKUMjFYN38iZRDQbsSO) | 3:31 |
 
-Snapshot ID: `MTY3ODg1NjQwMCwwMDAwMDAwMDQ0MGZkMDQxYjcxYmE4NGYwNDc2MzMwMmYzZGZjNjEz`
+Snapshot ID: `MTY3ODg1NjQwMCwwMDAwMDAwMGQ2MTM4NDRjYmUxYmU0M2IyY2FmMTdkYWExYjRlYTgw`

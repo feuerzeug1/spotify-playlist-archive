@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 59306,
+  "num_followers": 59297,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY5NTAzMSwwMDAwMDAwMDNjODFmNDcxNmQ1ZjQ2YzBhMTkxODhhM2RhODM1MWUw",
+  "snapshot_id": "MTY3MTY5NTAzMSwwMDAwMDAwMDQxZjYwZDkyMGU3MDI2MjAzZGM0MTgyMzU4MDQyNzJl",
   "tracks": [
     {
       "added_at": "2022-12-22 07:43:51",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Love Is a Christmas Rose",
+      "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
         "name": "Pretty Swingin' Christmas",
         "url": "https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 170000,
       "name": "What Are You Doing New Year's Eve",
       "url": "https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 121573,
-      "name": "Love Is a Christmas Rose",
-      "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "Winter Wonderland - 1959 Version",
+      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
         "name": "The Christmas Feeling",
         "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 298813,
       "name": "Christmas Memories",
       "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "Winter Wonderland - 1959 Version",
-      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
     },
     {
       "added_at": "2022-12-22 07:43:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Rubén Figueroa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,327 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,374 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 12 | [Sigo Vigente](https://open.spotify.com/track/7nXCqGUKaHvlp7sfU710pl) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Sigo Vigente](https://open.spotify.com/album/5e4UoYWJctlZpUsMgmC9hi) | 3:37 |
 | 13 | [El Rayo](https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [El Rayo](https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE) | 3:38 |
 | 14 | [365](https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf) | 3:08 |
-| 15 | [El Black](https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Les Cerre La Boca](https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU) | 3:26 |
-| 16 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 |
+| 15 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 |
+| 16 | [El Black](https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Les Cerre La Boca](https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU) | 3:26 |
 | 17 | [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 |
 | 18 | [Falso](https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Falso](https://open.spotify.com/album/1QATRuRMTlIEzQi9VvRm5m) | 3:54 |
 | 19 | [Pensando](https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Aprendimos A Jugar](https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o) | 2:32 |
@@ -52,20 +52,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 42 | [No Me Enseñaste](https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [No Me Enseñaste](https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE) | 3:03 |
 | 43 | [Cuñados y Compadres](https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Cuñados y Compadres](https://open.spotify.com/album/1AEo9kTiKt4lUxwNV9gF7c) | 3:50 |
 | 44 | [Traigo Un Equipón](https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Traigo Un Equipón](https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5) | 2:43 |
-| 45 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 |
-| 46 | [El Coquito](https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [El Coquito](https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO) | 2:55 |
+| 45 | [El Coquito](https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [El Coquito](https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO) | 2:55 |
+| 46 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 |
 | 47 | [Un Gallito](https://open.spotify.com/track/05zSBtOKH2ROvTGq1cQs6s) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Nico Orozco](https://open.spotify.com/artist/6FK625Yp4c5CpB2h5A7Qhe) | [Un Gallito](https://open.spotify.com/album/5YmoiDDH7cL9R1DA1W1iGZ) | 3:02 |
 | 48 | [Dices Que Me Quieres](https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente \(Vol 2\)](https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN) | 3:36 |
-| 49 | [Frío](https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Frío](https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V) | 2:55 |
-| 50 | [El Sera Y El Chavo](https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera Y El Chavo](https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F) | 2:50 |
+| 49 | [El Sera Y El Chavo](https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera Y El Chavo](https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F) | 2:50 |
+| 50 | [Frío](https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Frío](https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V) | 2:55 |
 | 51 | [Barba De Herencia](https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Barba De Herencia](https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE) | 3:24 |
 | 52 | [Golpe de Suerte \(En Vivo\)](https://open.spotify.com/track/0MEEO56ULnC24ZLp0V4Ov2) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Golpe de Suerte \(En Vivo\)](https://open.spotify.com/album/62bReN6yDjgYG3Aw3oKt4S) | 3:10 |
 | 53 | [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 |
-| 54 | [El Gordo Jona](https://open.spotify.com/track/6T1LYdANXOJM3N5ByoE9iq) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [El Gordo Jona](https://open.spotify.com/album/0VeQaZNNTz1ON4Bgv0StQI) | 3:38 |
-| 55 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 |
+| 54 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 |
+| 55 | [El Gordo Jona](https://open.spotify.com/track/6T1LYdANXOJM3N5ByoE9iq) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [El Gordo Jona](https://open.spotify.com/album/0VeQaZNNTz1ON4Bgv0StQI) | 3:38 |
 | 56 | [El Beso De Judas](https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [El Beso De Judas](https://open.spotify.com/album/0CAIxZqRA8Gs6UfzZSrlhc) | 3:06 |
-| 57 | [Que Vuelvas](https://open.spotify.com/track/0awei0Aq8SnWERdWxG70zf) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Que Vuelvas](https://open.spotify.com/album/1S7eFoVAALpAoiJXcsxF5Y) | 2:58 |
-| 58 | [Eres](https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 4:08 |
+| 57 | [Eres](https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 4:08 |
+| 58 | [Que Vuelvas](https://open.spotify.com/track/0awei0Aq8SnWERdWxG70zf) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Que Vuelvas](https://open.spotify.com/album/1S7eFoVAALpAoiJXcsxF5Y) | 2:58 |
 | 59 | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ) | 3:20 |
 | 60 | [De La Nada](https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Hd\_offisial](https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX) | [De La Nada](https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ) | 4:24 |
 | 61 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Hombre Normal](https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Hombre Normal](https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04) | 4:14 |
 | 75 | [Bajo la Lluvía](https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Cuadra FL](https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt) | [Bajo la Lluvía](https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c) | 2:34 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDkxMGY4YjlhYmI3MDViZjhmYTAxZDNmMjQwNTY5MmFk`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGE3OWNkOTFmZjY3MzQ5NjliYjhmM2NiNDQxNzQ5MDRk`

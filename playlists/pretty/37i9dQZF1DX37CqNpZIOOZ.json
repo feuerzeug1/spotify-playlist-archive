@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 18450,
+  "num_followers": 18462,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDAyMWZmMGI0MzQyNGRhNjQ2OGQxNzNmOGQ3MzJlNjNj",
+  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDFlOWEyMjIwNmJhNDY0OWIyZGVhNTBjOTc0ODUxYjU4",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -483,26 +483,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
-        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Stefan Veselka",
-          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Piano Sonata in B Minor, Op. 5, TrV 103: II. Adagio cantabile",
-      "url": "https://open.spotify.com/track/2ywE1VwAIPDBUTmoVQuy42"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
         "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 1070973,
       "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
       "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
+        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Stefan Veselka",
+          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Piano Sonata in B Minor, Op. 5, TrV 103: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/2ywE1VwAIPDBUTmoVQuy42"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "R. Strauss & Wagner: Lieder",
-        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Adrianne Pieczonka",
-          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
-        },
-        {
-          "name": "Brian Zeger",
-          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
-      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, Richard: Complete Orchestral Works",
         "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
       },
@@ -1087,6 +1063,30 @@
       "duration_ms": 217733,
       "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
       "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "R. Strauss & Wagner: Lieder",
+        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Adrianne Pieczonka",
+          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
+        },
+        {
+          "name": "Brian Zeger",
+          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
+      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
     },
     {
       "added_at": "2022-06-20 09:55:21",

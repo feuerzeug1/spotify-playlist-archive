@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,608 likes - 60 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,664 likes - 60 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 44 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \(Live\)](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 |
 | 45 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 |
 | 46 | [The Reformation \- Live in Camden](https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [The Reformation](https://open.spotify.com/album/7xx0IYtFkgzVuVI0ta98g9) | 3:35 |
-| 47 | [Damn Right I've Got The Blues \- Live](https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:41 |
-| 48 | [A Better Man](https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Live 2014 \(Nighttrain To Budapest Farewell Tour\)](https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3) | 6:08 |
-| 49 | [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 |
+| 47 | [A Better Man](https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Live 2014 \(Nighttrain To Budapest Farewell Tour\)](https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3) | 6:08 |
+| 48 | [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 |
+| 49 | [Damn Right I've Got The Blues \- Live](https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:41 |
 | 50 | [Blue On Black \- Live](https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:59 |
 | 51 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 |
 | 52 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 |
 | 53 | [Mr Luck \(feat\. Mick Taylor\) \- Live](https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK), [The Ronnie Wood Band](https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE), [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Mr\. Luck \- A Tribute to Jimmy Reed: Live at the Royal Albert Hall](https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW) | 7:06 |
 | 54 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
-| 55 | [Keep Coming Back \- Live](https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 4:35 |
+| 55 | [Morning Glory \- Live](https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Morning Glory \(Live\)](https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1) | 4:19 |
 | 56 | [Diamonds & Gold \- Live](https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 6:27 |
-| 57 | [Morning Glory \- Live](https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Morning Glory \(Live\)](https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1) | 4:19 |
-| 58 | [Stop Breakin' Down \- Live](https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln) | 6:50 |
-| 59 | [Dyin' To Know \(Live\)](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 |
-| 60 | [Mad As A Hatter \- Live in Concert](https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live in Concert\)](https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH) | 5:12 |
+| 57 | [Keep Coming Back \- Live](https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 4:35 |
+| 58 | [Mad As A Hatter \- Live in Concert](https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live in Concert\)](https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH) | 5:12 |
+| 59 | [Stop Breakin' Down \- Live](https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln) | 6:50 |
+| 60 | [Dyin' To Know \(Live\)](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 |
 
-Snapshot ID: `MTY3Nzg1ODc4MCwwMDAwMDAwMDkyNDcyODA0ZjY1YTA2M2EyYTA2ZmUyNzNkM2I4ZjAy`
+Snapshot ID: `MTY3Nzg1ODc4MCwwMDAwMDAwMDExYWI2MGUwZTgwZTZkNTBlMjkzYjY2MDIxMWI5Mjk0`

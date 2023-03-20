@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 29233,
+  "num_followers": 29289,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMTI2MCwwMDAwMDAwMGJiY2EyZTdkYmFlYmU3MmFhYTc4NTQzODliMTFiMDIz",
+  "snapshot_id": "MTY3OTAxMTI2MCwwMDAwMDAwMDUzMmIxMmI3MTYyNWU4Yzk0ZDJkZjU3M2YxYzVkNGQ5",
   "tracks": [
     {
       "added_at": "2023-03-17 00:01:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 158266,
-      "name": "Whammer Jammer",
-      "url": "https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 157400,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Whammer Jammer",
+      "url": "https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Don't Be Late",
-        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
+        "name": "Ultimate Collection",
+        "url": "https://open.spotify.com/album/6CbrZqDIfD8TDS4xrXC8MS"
       },
       "artists": [
         {
-          "name": "Serenity State of Mind",
-          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 166436,
-      "name": "Don't Be Late",
-      "url": "https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu"
+      "duration_ms": 154493,
+      "name": "San-Ho-Zay",
+      "url": "https://open.spotify.com/track/54tnyfQvFNTCNjhvH540CU"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Ultimate Collection",
-        "url": "https://open.spotify.com/album/6CbrZqDIfD8TDS4xrXC8MS"
+        "name": "Don't Be Late",
+        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
         }
       ],
-      "duration_ms": 154493,
-      "name": "San-Ho-Zay",
-      "url": "https://open.spotify.com/track/54tnyfQvFNTCNjhvH540CU"
+      "duration_ms": 166436,
+      "name": "Don't Be Late",
+      "url": "https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Side Tracked",
-      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "All Kinds Of Blues",
-        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
       "artists": [
         {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 246333,
-      "name": "Frankie And Johnny Boogie",
-      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
+      "duration_ms": 185786,
+      "name": "Side Tracked",
+      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -831,6 +815,22 @@
       "duration_ms": 463400,
       "name": "Blues For Duke Robillard",
       "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "All Kinds Of Blues",
+        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
+      },
+      "artists": [
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Frankie And Johnny Boogie",
+      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 171640,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "The Sulfur Blues",
-        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
-      },
-      "artists": [
-        {
-          "name": "Andrea Chiarini",
-          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "The Sulfur Blues",
-      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Alone With Yourself",
         "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 233382,
       "name": "Alone With Yourself",
       "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "The Sulfur Blues",
+        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "The Sulfur Blues",
+      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "Boedo's Blues",
-        "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
-      },
-      "artists": [
-        {
-          "name": "Atacustico",
-          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
-        }
-      ],
-      "duration_ms": 133088,
-      "name": "Boedo's Blues",
-      "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "Mr. B.",
         "url": "https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 405346,
       "name": "Mr. B.",
       "url": "https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Boedo's Blues",
+        "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "duration_ms": 133088,
+      "name": "Boedo's Blues",
+      "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
     },
     {
       "added_at": "2023-03-17 00:01:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-03-17 00:01:00",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
-    },
-    {
-      "added_at": "2023-03-17 00:01:00",
-      "album": {
         "name": "The Spiekeroog Sessions",
         "url": "https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 263276,
       "name": "If You're Not Mine",
       "url": "https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS"
+    },
+    {
+      "added_at": "2023-03-17 00:01:00",
+      "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
+      },
+      "artists": [
+        {
+          "name": "Gary O'Slide",
+          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
+        }
+      ],
+      "duration_ms": 122924,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/5cFGwaWYOp1vP96BEMCZdU"
     }
   ],
   "unique_name": "Instrumental Blues",

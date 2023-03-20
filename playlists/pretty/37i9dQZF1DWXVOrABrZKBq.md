@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: GAULOIS, Ninho
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,512 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,526 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 |
+| 1 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 |
 | 2 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 |
 | 3 | [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jolie \(feat\. Ninho\)](https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2) | 2:39 |
 | 4 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 |

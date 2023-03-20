@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Gazo au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,350,032 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350,495 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 |
+| 1 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 |
 | 2 | [Meuda](https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:32 |
 | 3 | [3 singes](https://open.spotify.com/track/4HllqyOknEOEwq7bZuhDW7) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 singes](https://open.spotify.com/album/1zyctO1OPYpG3lMmbFWaLO) | 3:02 |
 | 4 | [Maybach](https://open.spotify.com/track/2doTFAqat5o4dbFq9qUuLT) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Maybach](https://open.spotify.com/album/2tuankgH55CwSsfXPTcMRu) | 3:08 |

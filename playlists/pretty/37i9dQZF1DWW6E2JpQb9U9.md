@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: La Beriso
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,929 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,962 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 51 | [Una Nueva Noche Fria \- Vivo \- Mezclado y Masterizado 2017](https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Concierto Obras 30 y 31 Julio, Parte Uno \(En Vivo\)](https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4) | 4:27 |
 | 52 | [El Amor No Existe \- En Vivo](https://open.spotify.com/track/1zDK1iD8uUYhT3yExKFG1S) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Martin "Mono" Fabio](https://open.spotify.com/artist/2sgxHeMWSuLNXYeexvDuGe) | [El Amor No Existe \(En Vivo\)](https://open.spotify.com/album/14eqmcxSOymxp0BsNF6qkf) | 2:48 |
 | 53 | [Verano del 92](https://open.spotify.com/track/6GyvWDAdfg2gzi0BMS48UK) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 4:21 |
-| 54 | [Sola En Los Bares](https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [En Vivo En El Opera](https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG) | 3:18 |
-| 55 | [Matador \- En Vivo en Theater at Madison Square Garden](https://open.spotify.com/track/1PpFbfG447nP3TZtnZwDkk) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [En Vivo en The Theater at Madison Square Garden](https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW) | 5:02 |
+| 54 | [Matador \- En Vivo en Theater at Madison Square Garden](https://open.spotify.com/track/1PpFbfG447nP3TZtnZwDkk) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [En Vivo en The Theater at Madison Square Garden](https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW) | 5:02 |
+| 55 | [Sola En Los Bares](https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [En Vivo En El Opera](https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG) | 3:18 |
 | 56 | [Ay, Qué Dios Boludo](https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [22/12/18 Flores \(En Vivo\)](https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR) | 4:10 |
 | 57 | [Mil Horas \- En Vivo](https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:06 |
 | 58 | [La Rueda Mágica \- En Vivo](https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 4:07 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 80 | [Vida de Topos \- En Vivo](https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Vivo Acá](https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY) | 5:21 |
 | 81 | [Sasha, Sissi Y El Círculo De Baba \- En Vivo](https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 4:36 |
 | 82 | [A Tu Lado](https://open.spotify.com/track/7tgIEyaowzPNqSQo9x8b4t) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [En el Ojo del Huracán](https://open.spotify.com/album/6Js0JG5tVnqoBcWnJT21ZV) | 3:14 |
-| 83 | [Me Mata](https://open.spotify.com/track/4TOkJHPplwaJPmrhvLDZ6O) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [Kapangstock](https://open.spotify.com/album/5q9atOWoewQnrNG3t4mU5p) | 4:09 |
-| 84 | [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 |
+| 83 | [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 |
+| 84 | [Me Mata](https://open.spotify.com/track/4TOkJHPplwaJPmrhvLDZ6O) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [Kapangstock](https://open.spotify.com/album/5q9atOWoewQnrNG3t4mU5p) | 4:09 |
 | 85 | [Pasos al Costado \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:45 |
 | 86 | [La Parabellum del Buen Psicópata \- En Vivo](https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [En Directo](https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE) | 6:21 |
 | 87 | [Te Diría \- En Vivo](https://open.spotify.com/track/791qSfAXdS5tBhiCedt6ty) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 7:19 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 97 | [Fantasma \- En Vivo](https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 4:58 |
 | 98 | [Ella Es Como un Ángel \- En Vivo Cosquín Rock](https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Vivo Cosquín Rock](https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR) | 2:58 |
 | 99 | [Selva](https://open.spotify.com/track/303pHynPWt6fzRQFQwI8SL) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [La Portuaria En Vivo](https://open.spotify.com/album/3Pzh6hE7RZofmrIrFyfiDd) | 4:39 |
-| 100 | [Sacate la Mierda \- En Vivo](https://open.spotify.com/track/63tUQEbpxDar0yjmtPB6jg) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Hoy Como Ayer \(En Vivo\)](https://open.spotify.com/album/1JYKLf6VSzu0c0V9YMKxqz) | 4:13 |
+| 100 | [La Leyenda del Hada y el Mago \- En Vivo](https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca: Luna Park 2019 \(En Vivo\)](https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE) | 5:39 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMGE0YWI1NDdkMmE0N2NiYmQ4ODA1Y2U4MTFiYmZjMjFk`
+Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDdjZDVkZTNlNjkzZjk5Y2I4Mzg0ZTU1ZmNhMzkwNWFh`

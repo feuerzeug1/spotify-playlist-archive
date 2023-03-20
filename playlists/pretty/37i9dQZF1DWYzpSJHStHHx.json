@@ -1,12 +1,12 @@
 {
   "description": "Songs to surf to. Co-curated by the cast of OBX (Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant)",
-  "num_followers": 486257,
+  "num_followers": 486297,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzcwMjQzNiwwMDAwMDAwMGQ5YmY1M2ZjMWYwNWVmMDljNGIwMDI2YTI3NjUyYTA0",
+  "snapshot_id": "MTY3NzcwMjQzNiwwMDAwMDAwMGIxOTEyY2I2NGFlYzQ3YjYzNGQzMTk5ZmM5MWU5NTUz",
   "tracks": [
     {
       "added_at": "2023-03-01 20:27:16",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-03-01 20:27:16",
       "album": {
-        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
-        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
-    },
-    {
-      "added_at": "2023-03-01 20:27:16",
-      "album": {
         "name": "Kiss Me, Kiss Me, Kiss Me",
         "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 212000,
       "name": "Just like Heaven",
       "url": "https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk"
+    },
+    {
+      "added_at": "2023-03-01 20:27:16",
+      "album": {
+        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
+        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
     },
     {
       "added_at": "2023-03-01 20:27:16",

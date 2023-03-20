@@ -4,10 +4,11 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-261 songs - 19 hr 32 min
+262 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["Moon River"](https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | ["Moon River"](https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf) | 2:52 | 2023-03-16 |  |
 | ['Round Midnight](https://open.spotify.com/track/11Ixvu6JuymPvgpOhQlR1M) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 5:51 | 2021-12-17 | 2022-07-29 |
 | ['S Wonderful](https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:50 | 2021-12-17 |  |
 | ['Tis Autumn](https://open.spotify.com/track/0VUDiPnBlf13otxOPzSPd9) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Pat LaBarbera](https://open.spotify.com/artist/5RUD9RUhciOcJG5dL8s3Ja) | ['Tis Autumn](https://open.spotify.com/album/2SU5rrWTBsP4snnjoHBtyD) | 4:35 | 2022-09-27 |  |
@@ -53,7 +54,7 @@
 | [Câdencia](https://open.spotify.com/track/4Fjx8Mmap3NF4kVMATQ85D) | [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Edu Neves](https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY), [Caio Marcio Santos](https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184) | [Câdencia](https://open.spotify.com/album/4vqL9Ic575a8taWB6WWju0) | 3:57 | 2022-03-03 |  |
 | [C’est Magnifique](https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [C’est Magnifique](https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN) | 4:52 | 2021-12-17 | 2022-05-25 |
 | [Darling Fare Thee Well](https://open.spotify.com/track/2IB2SEntcZb2tc0oD49P5U) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 4:44 | 2022-05-19 |  |
-| [Dear December](https://open.spotify.com/track/5BfkVCI8z3idTK0IDjaW9u) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Cecilia Persson](https://open.spotify.com/artist/3iRDzd9nJKqwfzMggbpCRv) | [Dear December](https://open.spotify.com/album/2qcJbRNeqt3GBJU7NebTl7) | 2:58 | 2022-03-25 |  |
+| [Dear December](https://open.spotify.com/track/5BfkVCI8z3idTK0IDjaW9u) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Cecilia Persson](https://open.spotify.com/artist/3iRDzd9nJKqwfzMggbpCRv) | [Dear December](https://open.spotify.com/album/2qcJbRNeqt3GBJU7NebTl7) | 2:58 | 2022-03-25 | 2023-03-20 |
 | [Dedicated To You](https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:32 | 2022-07-28 |  |
 | [Dedicated to You](https://open.spotify.com/track/7jViEpEn0BrHdqqlPtZcxr) | [John Coltrane & Johnny Hartman](https://open.spotify.com/artist/5k3CkxpaPwsFdjlW6A4LOS) | [John Coltrane and Johnny Hartman](https://open.spotify.com/album/6Yx0HNpoOnhtSvyuBnytZf) | 5:31 | 2021-12-17 | 2022-07-29 |
 | [Didn't Know About You](https://open.spotify.com/track/1UjcfBPJt8mMvJ5QyfaWuq) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:32 | 2021-12-17 |  |

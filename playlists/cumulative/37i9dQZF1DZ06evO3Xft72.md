@@ -4,13 +4,14 @@
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-58 songs - 4 hr 8 min
+59 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Action \- Revised Version](https://open.spotify.com/track/1PUCeAtLlyLCSeoBkfb9my) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 3:40 | 2022-11-04 |  |
 | [All We Need](https://open.spotify.com/track/2gMEHHQ3aDoHHHT6RebFGr) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:46 | 2022-11-04 |  |
-| [Animal](https://open.spotify.com/track/4qjscZh4jfhkpcQG4ZQfi2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:04 | 2022-11-04 |  |
+| [Animal](https://open.spotify.com/track/4qjscZh4jfhkpcQG4ZQfi2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:04 | 2022-11-04 | 2023-03-20 |
+| [Animal](https://open.spotify.com/track/7G1Y5i1Hc4uUm57dqz7pAd) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Animal](https://open.spotify.com/album/1CNvsKCyvEW8X3rlLyx31L) | 4:03 | 2023-03-19 |  |
 | [Armageddon It \- Remastered 2017](https://open.spotify.com/track/16MQZkAIAAtI4X5NuiEwuq) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:22 | 2022-11-04 |  |
 | [Bringin' On The Heartbreak](https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:33 | 2022-11-04 |  |
 | [Comin' Under Fire](https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:14 | 2022-11-04 |  |
@@ -49,7 +50,7 @@
 | [Rock On](https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Yeah!](https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K) | 2:53 | 2022-11-04 |  |
 | [Rock Rock \(Till You Drop\)](https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 3:54 | 2022-11-04 |  |
 | [Rocket](https://open.spotify.com/track/0RVeadY2MbHz4Pe4MreLNw) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 6:36 | 2022-11-04 |  |
-| [Run Riot](https://open.spotify.com/track/27psq6wsPV4Yyo4eg6HZ8z) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:39 | 2022-11-12 | 2023-01-18 |
+| [Run Riot](https://open.spotify.com/track/27psq6wsPV4Yyo4eg6HZ8z) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:39 | 2022-11-12 |  |
 | [SOS Emergency](https://open.spotify.com/track/5SFe86BPtPFu7sSF7nuV5f) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:25 | 2022-11-04 |  |
 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 | 2023-01-27 |  |
 | [Stagefright](https://open.spotify.com/track/6wzYsqOkBLqyjyzFRohAFi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 3:44 | 2022-11-04 |  |

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-316 songs - 18 hr 2 min
+317 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [MOSH](https://open.spotify.com/track/3ZEzcwqhKjBB8QMQCX1Phg) | [Perry Wayne](https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB), [BLUPILL](https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac) | [MOSH](https://open.spotify.com/album/0YV3kUCNC3izbl7fA1QlZT) | 3:15 | 2022-04-01 |  |
 | [Moshpit](https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Moshpit / Comin For Ya Neck](https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6) | 2:57 | 2021-12-17 |  |
 | [Muscleville](https://open.spotify.com/track/0mL9QPL0XnecyPgnbnTKh0) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [MUSCLEVILLE EP](https://open.spotify.com/album/75UPb2lnvwv4Qp83kESQKV) | 2:23 | 2021-12-17 | 2022-03-12 |
+| [Mutation](https://open.spotify.com/track/0p2dTl1xjRTa7Q3OZBS5zW) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Mutation](https://open.spotify.com/album/6Ci4LwlsCj3LqoQR5AyABC) | 3:43 | 2023-03-17 |  |
 | [My Life](https://open.spotify.com/track/6GpLFDZhw5svOfUVOfW97H) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [My Life](https://open.spotify.com/album/10saBaDXwzC1maffKpTPPM) | 3:15 | 2022-05-13 | 2022-08-30 |
 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 | 2022-08-12 |  |
 | [Narnia](https://open.spotify.com/track/6TtlXUQmYG6cbK1P6RRYuY) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Dark Wobble](https://open.spotify.com/album/611ud8ds3KSf8ufyFGg5gV) | 4:37 | 2021-12-17 | 2022-05-07 |
@@ -281,7 +282,7 @@
 | [SURGE](https://open.spotify.com/track/20HSKZ4jG733BYqSDFTPgW) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo) | [EYE OF THE STORM](https://open.spotify.com/album/5QGsRIGb79JOvC2PimldPj) | 2:41 | 2023-01-06 |  |
 | [Sweet Revenge](https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [ELLIS!](https://open.spotify.com/artist/3GPPLSi7KokwrVlLlTMYgC), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Sweet Revenge](https://open.spotify.com/album/3RMPCBY2FEhdVWlxzsaacc) | 3:48 | 2022-06-17 | 2022-09-19 |
 | [T.O.A.D.](https://open.spotify.com/track/255aqjr60zsuqvu7yJPUZM) | [Barely Alive](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [T.O.A.D.](https://open.spotify.com/album/0Qb8vmQGWo0UYTF3oc3iya) | 2:58 | 2023-02-10 |  |
-| [Take A Trip](https://open.spotify.com/track/5CZo2k6Ru1wJYbcvQVaoub) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Take A Trip](https://open.spotify.com/album/5HMJ6OOT8Z6WjNbdK61P2u) | 4:22 | 2022-04-15 |  |
+| [Take A Trip](https://open.spotify.com/track/5CZo2k6Ru1wJYbcvQVaoub) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Take A Trip](https://open.spotify.com/album/5HMJ6OOT8Z6WjNbdK61P2u) | 4:22 | 2022-04-15 | 2023-03-20 |
 | [Teardrop](https://open.spotify.com/track/7ztFTiaEtc1TF5AV9909Bb) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Teardrop](https://open.spotify.com/album/3CNLbkYxHTAHaryZmy8oCo) | 4:25 | 2022-09-09 |  |
 | [Technicolour Psychic Vision](https://open.spotify.com/track/0L7sgiVeptb1JBYdlGowEE) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Technicolour Psychic Vision](https://open.spotify.com/album/3paOlnwvgkaKB8yej7GfLQ) | 2:54 | 2022-11-18 |  |
 | [Tekno](https://open.spotify.com/track/6hYN3gHSUms5zLX8LuYSBQ) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Slime Time, Pt\. 3](https://open.spotify.com/album/1K92iuS1dqPS23ZxFITJsr) | 2:58 | 2022-04-15 | 2022-11-19 |

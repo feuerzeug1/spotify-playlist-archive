@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock driving the current, every week\. Cover: Connie Constance, artwork by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,271 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,294 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 47 | [ART OF WAR \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ART OF WAR \(feat\. Denzel Curry & Rico Nasty\)](https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS) | 3:06 |
 | 48 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 |
 | 49 | [Nothing Feels The Same](https://open.spotify.com/track/3zCnua0vS5z5znRZANOdPD) | [Chris Miles](https://open.spotify.com/artist/2m2kx6kzvl75SabOVfkL5i), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Nothing Feels The Same](https://open.spotify.com/album/515rtQrzLwPpwdCTfJdefa) | 2:27 |
-| 50 | [God Is a Circle](https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa) | 3:32 |
+| 50 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 |
 | 51 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 |
 | 52 | [Chelsea Hotel](https://open.spotify.com/track/3yuUo3VJreRdasr1erzGJM) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Chelsea Hotel](https://open.spotify.com/album/3tHJ7OgxXS3OjKmvkwNOGS) | 3:40 |
 | 53 | [CRUMBLE](https://open.spotify.com/track/1ud2gKMwBIK5XkePiIr16r) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [CRUMBLE](https://open.spotify.com/album/3tukKF6gkRQ7OIWu3kse3j) | 2:14 |
 | 54 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
 | 55 | [Can't Wait](https://open.spotify.com/track/3GEhHEU3nkK2vGFqmKWKc3) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA), [In the Mourning](https://open.spotify.com/artist/1uzirhDmkUbDDaBGcwfd0h) | [Can't Wait](https://open.spotify.com/album/02OI10erl4E2J2WUOp5mv0) | 3:47 |
 
-Snapshot ID: `MTY3NzI2MjU2MSwwMDAwMDAwMDBlMWE2NTRlNDgyYjgyY2RkYTdhY2JhNDkwZWYzNjg4`
+Snapshot ID: `MTY3NzI2MjU2MSwwMDAwMDAwMGE1ZDljOTQ5ZGRkODUyYTExZWU5MzViYWY3ZWEyZDg3`

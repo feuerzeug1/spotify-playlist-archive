@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,463 likes - 42 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,190 likes - 42 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 31 | [Friendship](https://open.spotify.com/track/2ZAqfeq7PMp7XA2IKhuJJ2) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 4:25 |
 | 32 | [Either Way](https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 4:08 |
 | 33 | [Maggie's Song](https://open.spotify.com/track/50QWBrZFAhD6N4B0tbfET9) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:31 |
-| 34 | [Amanda \(feat\. Morgane Stapleton\)](https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX) | [Gentle Giants: The Songs of Don Williams](https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt) | 3:02 |
-| 35 | [BLOW \(with Chris Stapleton & Bruno Mars\)](https://open.spotify.com/track/6EbduYTr62sSzvl36wWiFM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [BLOW \(with Chris Stapleton & Bruno Mars\)](https://open.spotify.com/album/4uoEruXjt0APvHaSqrwqPH) | 3:29 |
+| 34 | [BLOW \(with Chris Stapleton & Bruno Mars\)](https://open.spotify.com/track/6EbduYTr62sSzvl36wWiFM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [BLOW \(with Chris Stapleton & Bruno Mars\)](https://open.spotify.com/album/4uoEruXjt0APvHaSqrwqPH) | 3:29 |
+| 35 | [Amanda \(feat\. Morgane Stapleton\)](https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX) | [Gentle Giants: The Songs of Don Williams](https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt) | 3:02 |
 | 36 | [I'm A Ram](https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I'm A Ram](https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm) | 3:59 |
 | 37 | [Death Row](https://open.spotify.com/track/7sO969CnGNCZ7kDravLtPO) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 4:03 |
 | 38 | [Joy](https://open.spotify.com/track/6Bj34xowKpBf7s8vTKTJW9) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Blessings and Miracles](https://open.spotify.com/album/5Qf9pthYz0E2yG4RyVOq7p) | 3:46 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 41 | [Nothing Else Matters](https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg) | 8:14 |
 | 42 | [I Ain't Living Long Like This \- Live](https://open.spotify.com/track/6CEnKKsgWNZkTtHMgS2K7e) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Outlaw: Celebrating the Music of Waylon Jennings \(Live\)](https://open.spotify.com/album/0BhRRRjVOfXWLwKxBdNxXL) | 5:34 |
 
-Snapshot ID: `Mjc5ODQyNjYsMDAwMDAwMDA0M2E1YjM1ZTRlYWIxM2RlZGZjMDUyNzU2ZmQzNWExNQ==`
+Snapshot ID: `Mjc5ODcxNjUsMDAwMDAwMDBkNzI5MWI0MzIzODBiMDdmMTBkYjBmMjgwOGEyMmFjMg==`

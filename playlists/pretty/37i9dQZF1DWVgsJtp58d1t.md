@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Artwork by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,707 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,618 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 80 | [HEAVY METAL](https://open.spotify.com/track/7cf8xNXwU9K0BuHjyIvxLE) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HEAVY METAL](https://open.spotify.com/album/2fXn6a7SYYnSNyuWj0CvnX) | 2:51 |
 | 81 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 |
 | 82 | [89 Earthquake](https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [89 Earthquake](https://open.spotify.com/album/5cbiVwhOtdorDA5YVPyclL) | 3:12 |
-| 83 | [Inhale / Exhale](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 |
+| 83 | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 |
 | 84 | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 |
 | 85 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 |
 | 86 | [What You Wanna Try](https://open.spotify.com/track/526fD9LiAEi3KKvhhYfWmm) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 2:39 |

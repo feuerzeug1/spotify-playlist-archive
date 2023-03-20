@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Monet192
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,307 likes - 109 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,310 likes - 109 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 36 | [Für dich](https://open.spotify.com/track/1fB66qZWAH7uww74AK0rOW) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Für dich](https://open.spotify.com/album/1sV5ipoCx7Y4H7lD2tZaXF) | 1:54 |
 | 37 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 |
 | 38 | [Sonnenmond](https://open.spotify.com/track/3dTgV3hd8xV6YICveuKx4b) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Sonnenmond](https://open.spotify.com/album/2ajbBeN1QDa9glJQcKXax2) | 3:08 |
-| 39 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 |
+| 39 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 |
 | 40 | [Du Bist Mein](https://open.spotify.com/track/1bhIHrQ0Lmosy8ajURX00H) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Du Bist Mein](https://open.spotify.com/album/1hcjuUgKLJNX8yYTh5OXVN) | 2:33 |
 | 41 | [Zusammen](https://open.spotify.com/track/4J5ZLBlYSHEunv18mHxPKM) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Zusammen](https://open.spotify.com/album/3ZrLhXUh7nZvLlolkrYo9h) | 2:48 |
 | 42 | [Laura](https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:08 |

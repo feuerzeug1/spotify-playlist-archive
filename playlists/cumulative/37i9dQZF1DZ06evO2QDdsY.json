@@ -730,7 +730,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 229668,
       "name": "The Hour",
       "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
@@ -1012,6 +1012,24 @@
       "duration_ms": 200000,
       "name": "You And I - Moon And Stars / Acoustic",
       "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195280,
+      "name": "You Can\u2019t Be Told",
+      "url": "https://open.spotify.com/track/4afYc6b90xaA04w6Cm8Xa2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2QDdsY"

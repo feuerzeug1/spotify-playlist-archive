@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 36819,
+  "num_followers": 36893,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk4ODE0OSwwMDAwMDAwMDI3MGQ4MjMyM2M0MWM5ZGJjMzQ5NjE2YzdiYWNiMWRm",
+  "snapshot_id": "MTY3ODk4ODE0OSwwMDAwMDAwMDAxMzFiZmNmZjJhNGNjZmQ3ODQ0NzlkMmNiOWNlZDNj",
   "tracks": [
     {
       "added_at": "2023-03-16 17:35:49",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-03-16 17:35:49",
       "album": {
-        "name": "The Complete Vanguard Recordings",
-        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 536533,
-      "name": "Gonna Leave You",
-      "url": "https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7"
-    },
-    {
-      "added_at": "2023-03-16 17:35:49",
-      "album": {
         "name": "Lucille",
         "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 142800,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF"
+    },
+    {
+      "added_at": "2023-03-16 17:35:49",
+      "album": {
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 536533,
+      "name": "Gonna Leave You",
+      "url": "https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7"
     },
     {
       "added_at": "2023-03-16 17:35:49",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-16 17:35:49",
       "album": {
-        "name": "Jackie Sings The Blues",
-        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 124786,
-      "name": "Please Tell Me Why",
-      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
-    },
-    {
-      "added_at": "2023-03-16 17:35:49",
-      "album": {
         "name": "The Chicago Way",
         "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 269560,
       "name": "When Will You Tell Him About Me?",
       "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
+    },
+    {
+      "added_at": "2023-03-16 17:35:49",
+      "album": {
+        "name": "Jackie Sings The Blues",
+        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 124786,
+      "name": "Please Tell Me Why",
+      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
     },
     {
       "added_at": "2023-03-16 17:35:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-16 17:35:49",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "I Need Love So Bad",
-      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
-    },
-    {
-      "added_at": "2023-03-16 17:35:49",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 180384,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
+    },
+    {
+      "added_at": "2023-03-16 17:35:49",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "I Need Love So Bad",
+      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
     },
     {
       "added_at": "2023-03-16 17:35:49",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-16 17:35:49",
       "album": {
-        "name": "Been Gone Too Long",
-        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Sundown",
-          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
-    },
-    {
-      "added_at": "2023-03-16 17:35:49",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-03-16 17:35:49",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
       },
       "artists": [
         {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
         }
       ],
-      "duration_ms": 319960,
-      "name": "No More Lonely Nights",
-      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     },
     {
       "added_at": "2023-03-16 17:35:49",
@@ -955,6 +939,22 @@
       "duration_ms": 257826,
       "name": "I've Lost My Baby",
       "url": "https://open.spotify.com/track/1K3L55HIhx61FIn173umta"
+    },
+    {
+      "added_at": "2023-03-16 17:35:49",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 319960,
+      "name": "No More Lonely Nights",
+      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
     },
     {
       "added_at": "2023-03-16 17:35:49",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-03-16 17:35:49",
       "album": {
+        "name": "Midnight Call",
+        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
+      },
+      "artists": [
+        {
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-03-16 17:35:49",
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 329373,
       "name": "Sanctified, Holy And Hateful",
       "url": "https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa"
-    },
-    {
-      "added_at": "2023-03-16 17:35:49",
-      "album": {
-        "name": "Midnight Call",
-        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
-      },
-      "artists": [
-        {
-          "name": "Fran McGillivray Band",
-          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
     },
     {
       "added_at": "2023-03-16 17:35:49",

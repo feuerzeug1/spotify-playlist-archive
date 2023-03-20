@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 131327,
+  "num_followers": 131535,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMGFhMWFiZGNhYzYyOGIyYjcyNWIxYWMwMzg4M2NmNmQ3",
+  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMDhiM2UzM2Y3MDE5NWY2ODdmZTljZGFjNDI2Yjg2NzY2",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -31,22 +31,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Te Ire A Buscar",
-        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
         },
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 218045,
-      "name": "Te Ire A Buscar",
-      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
+      "duration_ms": 289013,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
     },
     {
       "added_at": "2021-11-16 20:21:37",
@@ -67,22 +67,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
+        "name": "Te Ire A Buscar",
+        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
       },
       "artists": [
         {
-          "name": "Millonario & W. Corona",
-          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 289013,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+      "duration_ms": 218045,
+      "name": "Te Ire A Buscar",
+      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Si Nunca Va a Amanecer",
-      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Si Nunca Va a Amanecer",
+      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Millonario Sin Corona",
-        "url": "https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Chingo de Cheve",
-      "url": "https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Me Puse Pedo",
         "url": "https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 190000,
       "name": "Me Puse Pedo",
       "url": "https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Millonario Sin Corona",
+        "url": "https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Chingo de Cheve",
+      "url": "https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Return Of The Tres",
+      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Techymuv",
         "url": "https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 311500,
       "name": "I Love You a Lo V\u00edo",
       "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Merry Go Round",
-        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
-      },
-      "artists": [
-        {
-          "name": "Delinquent Habits",
-          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Return Of The Tres",
-      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Love & Money",
-        "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 216024,
-      "name": "Love & Money",
-      "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -1303,6 +1283,42 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 216024,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas",
+        "url": "https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Tres Delinquentes - Radio Version",
+      "url": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1351,38 +1367,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas",
-        "url": "https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX"
-      },
-      "artists": [
-        {
-          "name": "Delinquent Habits",
-          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Tres Delinquentes - Radio Version",
-      "url": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Rolemos Otro",
-        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 194828,
-      "name": "Rolemos Otro",
-      "url": "https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Buena Suerte",
         "url": "https://open.spotify.com/album/5Vy1jcdgMP8JJYglINGPga"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 194168,
       "name": "Me Volv\u00ed Loco",
       "url": "https://open.spotify.com/track/2Honklohe9Jg9tv24YkCZC"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 194828,
+      "name": "Rolemos Otro",
+      "url": "https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "Yo Quiero Fumar (I Wanna Get High) - Spanish Version",
-      "url": "https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "24/Siempre Vol.1",
         "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 152298,
       "name": "Homer el Mero Mero",
       "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "Yo Quiero Fumar (I Wanna Get High) - Spanish Version",
+      "url": "https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD"
     },
     {
       "added_at": "2021-11-16 20:18:05",

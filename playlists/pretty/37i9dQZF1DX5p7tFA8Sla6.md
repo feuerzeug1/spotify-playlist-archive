@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,453 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,474 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 48 | [Housequake](https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 4:42 |
 | 49 | [Miss Madison](https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 3:30 |
 | 50 | [Funk Ain't Ova](https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 3:51 |
-| 51 | [Highly Compatible](https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 6:05 |
-| 52 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 |
+| 51 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 |
+| 52 | [Highly Compatible](https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 6:05 |
 | 53 | [Head](https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO) | 4:45 |
 | 54 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
 | 55 | [Slippery When Wet](https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 3:17 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 64 | [Joyous](https://open.spotify.com/track/4yVKYKv0qoS66bU4KQUsLe) | [Pleasure](https://open.spotify.com/artist/4XeVhjTp485r7duDSL3PmU) | [The Greatest Of Pleasure](https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn) | 6:27 |
 | 65 | [Take What You Need](https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Breaks from the Border](https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH) | 3:11 |
 | 66 | [Dance Or Die](https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV) | [Funk Ain't Ova](https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM) | 4:56 |
-| 67 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
-| 68 | [Funky President \(People It's Bad\)](https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 3:58 |
+| 67 | [Funky President \(People It's Bad\)](https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 3:58 |
+| 68 | [Funk That Junk](https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [What We Got Together](https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18) | 2:35 |
 | 69 | [I Can Understand It](https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8) | [The New Birth](https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA) | [Birth Day](https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3) | 6:23 |
 | 70 | [Drum Machine](https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Drum Machine](https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk) | 3:03 |
 | 71 | [All This Love That I'm Giving](https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 4:34 |
 | 72 | [Death Or Devotion](https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 4:25 |
-| 73 | [Ready to Live](https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 4:05 |
-| 74 | [Hangin' with My Baby](https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 5:28 |
+| 73 | [Hangin' with My Baby](https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 5:28 |
+| 74 | [Ready to Live](https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 4:05 |
 | 75 | [Take It Back \(feat\. Doc Brown\)](https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [Doc Brown](https://open.spotify.com/artist/7usDVD6PDkEOCbHK7Elk7O) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 3:31 |
 | 76 | [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 |
 | 77 | [Confident \(feat\. The MB's\)](https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6) | [Cliff Beach](https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z), [The MB's](https://open.spotify.com/artist/4adlPXwO2sPi7h6Rgz3krz) | [Confident \(feat\. The MB's\)](https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Mindblastin'](https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [Mindblastin'](https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy) | 4:21 |
 | 100 | [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 |
 
-Snapshot ID: `MTYzODkwNDkzOSwwMDAwMDAwMDlmZmJlZjBkNGRlYWM4Yjk1NGRiMDI5MzI5Njk3NzUx`
+Snapshot ID: `MTYzODkwNDkzOSwwMDAwMDAwMGJmOTFlNTc3OTNlODg2NjgyYTAzYjM3ZmEwYzA0YjBj`

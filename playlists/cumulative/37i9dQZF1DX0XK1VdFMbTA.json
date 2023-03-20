@@ -13686,10 +13686,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 202106,
       "name": "This Flight Tonight",
       "url": "https://open.spotify.com/track/2oMCe4LZnMhuKrUig6rFKl"
+    },
+    {
+      "album": {
+        "name": "Loud 'N' Proud (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Q6OqKX8MLO7MIJbOWlBRJ"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204360,
+      "name": "This Flight Tonight",
+      "url": "https://open.spotify.com/track/07o4FSeAOX1vTK15OXwojs"
     },
     {
       "album": {

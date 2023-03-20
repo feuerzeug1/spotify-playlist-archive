@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3568936,
+  "num_followers": 3569586,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA2MzYwMywwMDAwMDAwMDNiMWM1ZTcxZGUxMjhjMTc3OWNlNWU3NTk2MDFlNWUy",
+  "snapshot_id": "MTY3OTA2MzYwMywwMDAwMDAwMDk5YzlkMmM2ODk4ZTM4MThlMmFjZGFkYzkzMjFmMTRl",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/0XrwWR8YPTfrboiAS3Dp8O"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 187990,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Tears In Paradise",
         "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 169180,
       "name": "Another You",
       "url": "https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/0XrwWR8YPTfrboiAS3Dp8O"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 187990,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Midsommar",
         "url": "https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 156923,
       "name": "Midsommar",
       "url": "https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Rohan",
-        "url": "https://open.spotify.com/album/5PuEISOccj2QmqLv7wyplF"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Rohan",
-      "url": "https://open.spotify.com/track/27qGyy5X3rkrIQ6XXx8r5V"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Wishing Well / Cimmerian",
         "url": "https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 178560,
       "name": "Leave Me Low",
       "url": "https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Rohan",
+        "url": "https://open.spotify.com/album/5PuEISOccj2QmqLv7wyplF"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Rohan",
+      "url": "https://open.spotify.com/track/27qGyy5X3rkrIQ6XXx8r5V"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/52LjmcLoxe5pcPFjaONm2Z"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        }
+      ],
+      "duration_ms": 196562,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/6ADZbTdA2DLTI0iXWgxB6q"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
       },
@@ -1263,30 +1283,6 @@
       "duration_ms": 153532,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Red Lights (EMBRZ Remix)",
-        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Red Lights - EMBRZ Remix",
-      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1327,6 +1323,30 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Red Lights (EMBRZ Remix)",
+        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Red Lights - EMBRZ Remix",
+      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
         "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 400130,
       "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
       "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/52LjmcLoxe5pcPFjaONm2Z"
-      },
-      "artists": [
-        {
-          "name": "Lonely in the Rain",
-          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
-        },
-        {
-          "name": "bailey",
-          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
-        }
-      ],
-      "duration_ms": 196562,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/6ADZbTdA2DLTI0iXWgxB6q"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "UUUU",
-        "url": "https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        }
-      ],
-      "duration_ms": 389800,
-      "name": "UUUU",
-      "url": "https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Oh, Miles",
         "url": "https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu"
       },
@@ -1703,6 +1683,22 @@
       "duration_ms": 333870,
       "name": "Oh, Miles",
       "url": "https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1727,18 +1723,38 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+        "name": "UUUU",
+        "url": "https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
         }
       ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+      "duration_ms": 389800,
+      "name": "UUUU",
+      "url": "https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1767,6 +1783,30 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "I'll Wait (Le Youth Remix)",
+        "url": "https://open.spotify.com/album/0GNd3BBHeg8urhR9vbJ9dE"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Channy Leaneagh",
+          "url": "https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo"
+        },
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        }
+      ],
+      "duration_ms": 296253,
+      "name": "I'll Wait - Le Youth Remix",
+      "url": "https://open.spotify.com/track/3FzB5aTsvd9QcZ0MW4WOoH"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Juno",
         "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
       },
@@ -1783,22 +1823,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Never Ending",
         "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
       },
@@ -1811,22 +1835,6 @@
       "duration_ms": 242000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1IsOH127OxGWcybr11hYKa"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 206601,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1851,46 +1859,42 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Hologram",
-        "url": "https://open.spotify.com/album/278Wc6KOqM1juXvUi6fwpt"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1IsOH127OxGWcybr11hYKa"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         }
       ],
-      "duration_ms": 266000,
-      "name": "Hologram",
-      "url": "https://open.spotify.com/track/210bt3QeLgxfbcSKikEeNT"
+      "duration_ms": 206601,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP"
     },
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "I'll Wait (Le Youth Remix)",
-        "url": "https://open.spotify.com/album/0GNd3BBHeg8urhR9vbJ9dE"
+        "name": "Ocean Quiet (Refeci Remix)",
+        "url": "https://open.spotify.com/album/6UafXpT0Y3cnR7jDmM5ft2"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         },
         {
-          "name": "Channy Leaneagh",
-          "url": "https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo"
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
         },
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
         }
       ],
-      "duration_ms": 296253,
-      "name": "I'll Wait - Le Youth Remix",
-      "url": "https://open.spotify.com/track/3FzB5aTsvd9QcZ0MW4WOoH"
+      "duration_ms": 164812,
+      "name": "Ocean Quiet (Refeci Remix)",
+      "url": "https://open.spotify.com/track/14EcgkY4YICkFrujD1NdDp"
     }
   ],
   "unique_name": "Chill Tracks",

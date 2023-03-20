@@ -5181,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Carnaval Medley Atualizado 2k23",
+        "url": "https://open.spotify.com/album/6JCretm26t3Lf3QzHE3JMh"
+      },
+      "artists": [
+        {
+          "name": "intomusic brazil",
+          "url": "https://open.spotify.com/artist/7a65BfOit4jjLQiH1jLz9N"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198665,
+      "name": "Cora\u00e7\u00e3o De Gelo",
+      "url": "https://open.spotify.com/track/2sO21ucSSNpL4d6dvdk3oG"
+    },
+    {
+      "album": {
         "name": "Manual de Como Amar Errado",
         "url": "https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I"
       },
@@ -13942,7 +13960,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 202899,
       "name": "M\u00fasicas de amor nunca mais",
       "url": "https://open.spotify.com/track/6RgXU5moRK2kNovhLQV0Yq"

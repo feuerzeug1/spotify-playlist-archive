@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Love Will Never Fail",
+        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
+      },
+      "artists": [
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199826,
+      "name": "Love Will Never Fail (I Corinthians 13)",
+      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
+    },
+    {
+      "album": {
         "name": "Love&Adoration",
         "url": "https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ"
       },
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 237401,
       "name": "Loving A Person - Reimagined",
       "url": "https://open.spotify.com/track/1NYmaX6ByXEUdhojO01jMu"

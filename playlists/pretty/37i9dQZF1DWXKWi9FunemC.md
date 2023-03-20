@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,128 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,372 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 63 | [Who Am I \- New York Sessions](https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [New York Sessions](https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K) | 4:32 |
 | 64 | [Heavenly Father](https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr) | [York Worship](https://open.spotify.com/artist/5cSXNbLLtpYdE4ndlwyjyC) | [Heavenly Father](https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h) | 6:14 |
 | 65 | [Well Done \- Acoustic](https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Well Done \(Acoustic\)](https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW) | 4:38 |
-| 66 | [Now I See](https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Now I See](https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3) | 4:03 |
-| 67 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 |
+| 66 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 |
+| 67 | [Now I See](https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Now I See](https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3) | 4:03 |
 | 68 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
 | 69 | [Praise You In This Storm \- New York Sessions](https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Praise You In This Storm \(New York Sessions\)](https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV) | 5:54 |
-| 70 | [This Wild Earth](https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \(Or the Nuclear Sunburst of the Truth Revealed\)](https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp) | 4:00 |
-| 71 | [Teach Us That One Song](https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 5:54 |
+| 70 | [Teach Us That One Song](https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 5:54 |
+| 71 | [This Wild Earth](https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \(Or the Nuclear Sunburst of the Truth Revealed\)](https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp) | 4:00 |
 | 72 | [Meadow](https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Meadow](https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf) | 3:45 |
 | 73 | [YOUR NAME IS POWER \- Acoustic](https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YOUR NAME IS POWER \(Acoustic\)](https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy) | 3:52 |
 | 74 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 78 | [Ashes to Skies](https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ashes to Skies](https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX) | 4:34 |
 | 79 | [Love Together](https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [A Dawn I Remember](https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH) | 4:14 |
 | 80 | [Worth Mine](https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU) | [Lydia Bricker](https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR), [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Worth Mine](https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk) | 4:40 |
-| 81 | [† \(just the cross\) \- Live](https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [† \(just the cross\)](https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH) | 6:38 |
-| 82 | [Isn't It Love \- 2014 Version](https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [After All These Years: A Collection](https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj) | 4:39 |
+| 81 | [Isn't It Love \- 2014 Version](https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [After All These Years: A Collection](https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj) | 4:39 |
+| 82 | [† \(just the cross\) \- Live](https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [† \(just the cross\)](https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH) | 6:38 |
 | 83 | [Magnified \(Acoustic\)](https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Magnified \(Acoustic\)](https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4) | 3:31 |
 | 84 | [Rest](https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp) | [Enterline](https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK) | [Kingdoms](https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R) | 3:27 |
 | 85 | [If It Wasn’t for the Cross](https://open.spotify.com/track/07zvagUEBLjgBUGRALm963) | [The Lowly Heirs](https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX) | [If It Wasn’t for the Cross](https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Hanging onto Every Word That You Say](https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw) | [Michael Hughes Watson](https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ) | [Wait](https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2) | 4:49 |
 | 100 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 |
 
-Snapshot ID: `MTU5ODg4NzE1OSwwMDAwMDAwMGUyN2U5ZDE5ZTIwYzViYmU5NGRjNDE4Mjg4OTNhNWVh`
+Snapshot ID: `MTU5ODg4NzE1OSwwMDAwMDAwMDA1NzQ4ZDAxNTVhZGUzMzE5Yjc2YjM3MjE3ZDdkZmM5`

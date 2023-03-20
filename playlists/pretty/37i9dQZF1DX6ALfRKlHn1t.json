@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1028212,
+  "num_followers": 1028447,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyOTAwMCwwMDAwMDAwMGEwOWJjMzk4YWMzZWQwYTY0ZWI0MTY0ZjNjN2M0YWVk",
+  "snapshot_id": "MTY3ODgyOTAwMCwwMDAwMDAwMDYxNGRhOWYwOWFmOTk2Yzk1ODhkMjA1M2NjMzg1NTli",
   "tracks": [
     {
       "added_at": "2023-03-14 21:21:02",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 238810,
       "name": "World on Fire (feat. Slightly Stoopid)",
       "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 246306,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "The Band CAMINO",
-        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 182658,
-      "name": "I Think I Like You",
-      "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
         "name": "Life Is Yours",
         "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
+        "name": "The Band CAMINO",
+        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 182658,
+      "name": "I Think I Like You",
+      "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
         "name": "OUT OF MY MIND",
         "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
       },
       "artists": [
         {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
+      "duration_ms": 172280,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -835,6 +819,22 @@
       "duration_ms": 174258,
       "name": "Always Get This Way",
       "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 146392,
       "name": "Do You Wanna Talk",
       "url": "https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "off the grid",
-        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 239195,
-      "name": "u dont kno me",
-      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
         "name": "The Tarantino Connection",
         "url": "https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 195333,
       "name": "Little Green Bag",
       "url": "https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
+        "name": "off the grid",
+        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 239195,
+      "name": "u dont kno me",
+      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
     },
     {
       "added_at": "2023-03-14 21:21:02",

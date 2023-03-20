@@ -325,6 +325,36 @@
     },
     {
       "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/6U0isZJ2ryGi3YfoH6shvG"
+      },
+      "artists": [
+        {
+          "name": "DJ Bubba",
+          "url": "https://open.spotify.com/artist/38hnmRmRWrRibnjmtQQ91Y"
+        },
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "P1",
+          "url": "https://open.spotify.com/artist/5JsVRWPRBOzxoPOWPIdGTc"
+        },
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171137,
+      "name": "Paid In Full",
+      "url": "https://open.spotify.com/track/1RQ38nLe5BiB6SneqIPCpZ"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU"
       },

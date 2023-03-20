@@ -4336,7 +4336,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 146666,
       "name": "Der Af (Oya L\u00e9l\u00e9)",
       "url": "https://open.spotify.com/track/443rDqZIaqvZzJ1DgdJNgr"
@@ -15156,6 +15156,28 @@
       "duration_ms": 269986,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1z2HAz6JcwfGHKMSgKEA3D"
+    },
+    {
+      "album": {
+        "name": "Round 2",
+        "url": "https://open.spotify.com/album/1xBdfJLOVxFiqEPG0d3hz3"
+      },
+      "artists": [
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Boat",
+          "url": "https://open.spotify.com/artist/545XHoCXOXRYsNrKjh4uHd"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179582,
+      "name": "Round 2",
+      "url": "https://open.spotify.com/track/6oLLXajPHZTNgUdHxNID75"
     },
     {
       "album": {

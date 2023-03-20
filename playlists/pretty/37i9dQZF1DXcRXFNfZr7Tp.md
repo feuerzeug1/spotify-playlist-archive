@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Calvin Harris, Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,736,964 likes - 101 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,737,472 likes - 101 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

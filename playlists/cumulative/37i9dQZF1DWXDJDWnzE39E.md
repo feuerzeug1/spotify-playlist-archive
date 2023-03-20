@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-261 songs - 17 hr 3 min
+262 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A New Disaster](https://open.spotify.com/track/2Dacl6eI6cIwTcLtqpQcA0) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [A New Disaster](https://open.spotify.com/album/2bmZJfV07YUUnRJyLhqk6u) | 3:39 | 2020-12-07\* | 2021-05-15 |
 | [A Pain all Mine](https://open.spotify.com/track/3il4rTwrxEZjqkyakwsKga) | [Jaded Star](https://open.spotify.com/artist/1QPqC0I7ggY7Etb5JTV6LG) | [Realign](https://open.spotify.com/album/6wv7SNQ3j3Xe7zWjS7ruYT) | 3:42 | 2020-12-07\* | 2022-06-19 |
 | [A Return to the Earth Below](https://open.spotify.com/track/7wjFG8WltMzLjo8lVC6Rfe) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [A Return to the Earth Below](https://open.spotify.com/album/2vH9KhmMLvlH4DlPtdbB7z) | 5:39 | 2020-12-07\* | 2022-07-29 |
-| [A Villain's Monologue](https://open.spotify.com/track/2Cn2uobw2l8SlCL7t3KZGM) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb) | 3:27 | 2022-11-18 |  |
+| [A Villain's Monologue](https://open.spotify.com/track/2Cn2uobw2l8SlCL7t3KZGM) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb) | 3:27 | 2022-11-18 | 2023-03-20 |
 | [A Villain's Monologue](https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [A Villain's Monologue](https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU) | 3:30 | 2021-06-05 | 2022-11-13 |
 | [Abyss](https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD) | 6:44 | 2022-03-11 |  |
 | [Abyss](https://open.spotify.com/track/6dGSXCf230k3YsEGOvXNAy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/7FgdN0xNj5EfXUo0falBTN) | 6:44 | 2020-12-07\* | 2022-07-29 |
@@ -78,6 +78,7 @@
 | [Entertain You](https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Entertain You](https://open.spotify.com/album/0kLPfU7TA882mqHNmrMVWB) | 3:31 | 2022-03-11 |  |
 | [Entertain You](https://open.spotify.com/track/70HVKogWbgiA4XaXa2GowH) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Entertain You](https://open.spotify.com/album/5fE1zz1xFy9wRLmruEo9A3) | 3:31 | 2020-12-07\* | 2022-07-29 |
 | [Essence of Creation](https://open.spotify.com/track/3bBNyJyFq8URxkT4HEH0CV) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Essence of Creation](https://open.spotify.com/album/3DQp7BgAjsEc0L6ZKnsCjx) | 3:40 | 2020-12-07\* | 2022-07-28 |
+| [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:41 | 2023-03-02 |  |
 | [Eternal Wheel Of Time And Space](https://open.spotify.com/track/5iIcD91VQtDPPXRzyUKg1m) | [Noora Louhimo Experience](https://open.spotify.com/artist/3GN2WYCDZUjOFlHMwZjcCA) | [Eternal Wheel Of Time And Space](https://open.spotify.com/album/6zXIyHCsYlwXrL3WL5ZKgz) | 6:44 | 2021-02-06 | 2022-07-29 |
 | [Evermore](https://open.spotify.com/track/7eBpcTDLZAYWL9diJcXOqa) | [Divine Ascension](https://open.spotify.com/artist/37ZPyBkGrrKwdNiNWUgIqS) | [Evermore](https://open.spotify.com/album/3iLJOV4G2NzbIOcHZlgEJX) | 6:19 | 2020-12-07\* | 2020-12-11 |
 | [Eyes Of The World](https://open.spotify.com/track/6BQhXq7JHYEEEu9G52UIws) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ), [Quentin Cornet](https://open.spotify.com/artist/783UqG9zEcrqxXk0UVKsuP) | [Eyes Of The World](https://open.spotify.com/album/7kxAYpirhF9ov4wHoe6yXn) | 3:52 | 2021-02-06 | 2022-07-29 |

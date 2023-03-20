@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a nuestros artista Radar M\u00e9xico 2022!",
-  "num_followers": 67919,
+  "num_followers": 67930,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDI5MTMwNWM4ZDU3MzkzZDViMTliNmE2NGVmYTEyZjVj",
+  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDU5YmJlODk0MzU1ZTdiZjYxMjY0NDdlMjAyMGU0NzRl",
   "tracks": [
     {
       "added_at": "2023-01-11 06:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
-      },
-      "artists": [
-        {
-          "name": "El Bala",
-          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 157280,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/2wUqPgGEWs29RVjinkYXeC"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 166173,
       "name": "R9 Aleteo (feat. Dj Yaso)",
       "url": "https://open.spotify.com/track/3smiIP1lD8dG4r4RjK5r0X"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
+      },
+      "artists": [
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 157280,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -779,38 +779,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Mamixhula",
-        "url": "https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 150615,
-      "name": "Mamixhula",
-      "url": "https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Uh La La",
-        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Uh La La",
-      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "M\u00e1s Tarde (Remix)",
         "url": "https://open.spotify.com/album/3YeYvTtjuhqI0syIeMAhaA"
       },
@@ -831,6 +799,38 @@
       "duration_ms": 206400,
       "name": "M\u00e1s Tarde - Remix",
       "url": "https://open.spotify.com/track/6RE8xvoIrJSBQGPSC6V3mr"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Uh La La",
+        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Uh La La",
+      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Mamixhula",
+        "url": "https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 150615,
+      "name": "Mamixhula",
+      "url": "https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL"
     },
     {
       "added_at": "2022-09-09 13:11:20",

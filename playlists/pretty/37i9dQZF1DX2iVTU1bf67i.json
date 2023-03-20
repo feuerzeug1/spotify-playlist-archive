@@ -1,12 +1,12 @@
 {
   "description": "The warm sound and the cozy mood of classic Jazz. A soundtrack in the background for relaxing, dinner or focus. Cover: Hank Mobley",
-  "num_followers": 36643,
+  "num_followers": 36738,
   "original_name": "In the Mood for Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg3MzQ5MCwwMDAwMDAwMGFmYWE0ZTNmYmFmMzQzNGExNzQ4NTAzZmJhNTdjMzhh",
+  "snapshot_id": "MTY3ODg3MzQ5MCwwMDAwMDAwMGM4MDU0OGQwZGFjMmQwYmI5MTc5YTc3MGVhNjgzOTZm",
   "tracks": [
     {
       "added_at": "2023-03-09 09:21:15",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-03-09 09:21:15",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+        "name": "The Second Time Around",
+        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 321026,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
+      "duration_ms": 177200,
+      "name": "Fool That I Am",
+      "url": "https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-03-09 09:21:15",
       "album": {
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
+    },
+    {
+      "added_at": "2023-03-09 09:21:15",
+      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 162866,
       "name": "I've Grown Accustomed To Her Face - Remastered/1998",
       "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
-    },
-    {
-      "added_at": "2023-03-09 09:21:15",
-      "album": {
-        "name": "The Second Time Around",
-        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Fool That I Am",
-      "url": "https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-09 09:21:15",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/0PmF0FFqD13ePLmwH6isb1"
-    },
-    {
-      "added_at": "2023-03-09 09:21:15",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 177666,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM"
+    },
+    {
+      "added_at": "2023-03-09 09:21:15",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/0PmF0FFqD13ePLmwH6isb1"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-09 09:21:15",
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 235760,
-      "name": "If I Should Lose You",
-      "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
-    },
-    {
-      "added_at": "2023-03-09 09:21:15",
-      "album": {
         "name": "Music For Torching",
         "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 243440,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
+    },
+    {
+      "added_at": "2023-03-09 09:21:15",
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "If I Should Lose You",
+      "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-03-09 09:21:15",
       "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X"
-    },
-    {
-      "added_at": "2023-03-09 09:21:15",
-      "album": {
         "name": "Lullabies Of Birdland",
         "url": "https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 171000,
       "name": "Lullaby Of Birdland",
       "url": "https://open.spotify.com/track/4JQiUSWsle7d4MAnsSi3hO"
+    },
+    {
+      "added_at": "2023-03-09 09:21:15",
+      "album": {
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-03-09 09:21:15",
       "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
+    },
+    {
+      "added_at": "2023-03-09 09:21:15",
+      "album": {
         "name": "Calendar Girl",
         "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 258893,
       "name": "Something Cool - Mono",
       "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
-    },
-    {
-      "added_at": "2023-03-09 09:21:15",
-      "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-03-09 09:21:15",
       "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
-    },
-    {
-      "added_at": "2023-03-09 09:21:15",
-      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2023-03-09 09:21:15",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 144428,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
+      "duration_ms": 197173,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -1159,6 +1143,22 @@
       "duration_ms": 164000,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
+    },
+    {
+      "added_at": "2023-03-09 09:21:15",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-03-09 09:21:15",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 288840,
-      "name": "Dear Kathy",
-      "url": "https://open.spotify.com/track/151RegbPut96kOvkSiPqLb"
-    },
-    {
-      "added_at": "2023-03-09 09:21:15",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 185800,
       "name": "Don't Get Around Much Any More",
       "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2023-03-09 09:21:15",
+      "album": {
+        "name": "Teresa Brewer And The Dixieland Band",
+        "url": "https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla"
+      },
+      "artists": [
+        {
+          "name": "Teresa Brewer",
+          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-03-09 09:21:15",
       "album": {
-        "name": "Teresa Brewer And The Dixieland Band",
-        "url": "https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
       },
       "artists": [
         {
-          "name": "Teresa Brewer",
-          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
         }
       ],
-      "duration_ms": 225312,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb"
+      "duration_ms": 288840,
+      "name": "Dear Kathy",
+      "url": "https://open.spotify.com/track/151RegbPut96kOvkSiPqLb"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -1631,6 +1631,22 @@
       "duration_ms": 146066,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/2nw4QBlkVix8USKT8swP6G"
+    },
+    {
+      "added_at": "2023-03-09 09:21:15",
+      "album": {
+        "name": "Ben Webster and Associates",
+        "url": "https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/6M5sixn4EsVnrxBE4RpTNr"
     },
     {
       "added_at": "2023-03-09 09:21:15",
@@ -1663,26 +1679,6 @@
       "duration_ms": 312840,
       "name": "I'm Getting Sentimental Over You",
       "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
-    },
-    {
-      "added_at": "2023-03-09 09:21:15",
-      "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
     }
   ],
   "unique_name": "In the Mood for Jazz",

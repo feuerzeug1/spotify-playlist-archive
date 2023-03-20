@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Jenna Raine
 
-469 songs - 1 day 2 hr 0 min
+470 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 | 2022-12-25 |
 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 | 2021-12-17 | 2022-10-22 |
 | [Show Me Where It Hurts](https://open.spotify.com/track/4fTSQy33a3ydqjMutlytzD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Show Me Where It Hurts](https://open.spotify.com/album/6wjXojSaOcJ4PNyxCbRNmr) | 4:18 | 2022-04-08 | 2022-04-21 |
+| [Silver Springs \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 5:41 | 2023-03-10 |  |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-21 |
 | [Skeleton Key](https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Skeleton Key](https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q) | 2:59 | 2022-12-02 | 2023-01-06 |
 | [Skinny Dipping \- Acoustic](https://open.spotify.com/track/5pIjrMZ0B7hmuQBIG1hNQP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skinny Dipping \(Acoustic\)](https://open.spotify.com/album/6QKqTHMTvzHbePp5yCizRK) | 3:12 | 2021-12-17 | 2022-01-22 |
@@ -428,7 +429,7 @@
 | [Unfinished Business](https://open.spotify.com/track/5CYUCj24HvoKfjraBQal0O) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Unfinished Business](https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR) | 3:29 | 2022-08-19 |  |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2021-12-17 | 2022-10-22 |
 | [uptome](https://open.spotify.com/track/40u74BxSHoLiMFJWjlRpXJ) | [clear eyes](https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr), [Róisin Marie](https://open.spotify.com/artist/0PBwPiIoXnUH4lYEolZkMJ) | [uptome](https://open.spotify.com/album/1opuP5al8bspGA9SpD8Cpu) | 3:58 | 2022-03-14 | 2022-04-16 |
-| [Used To It](https://open.spotify.com/track/4s2wGb58RztbSvjqUK8w0a) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [Used To It](https://open.spotify.com/album/4QKovzPdcYflzE9Ooe2z8C) | 2:42 | 2022-12-16 |  |
+| [Used To It](https://open.spotify.com/track/4s2wGb58RztbSvjqUK8w0a) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [Used To It](https://open.spotify.com/album/4QKovzPdcYflzE9Ooe2z8C) | 2:42 | 2022-12-16 | 2023-03-20 |
 | [Venting to Strangers](https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Venting to Strangers](https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz) | 2:32 | 2022-11-18 | 2023-01-21 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-12-17 |  |
 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 | 2021-12-17 | 2022-12-17 |

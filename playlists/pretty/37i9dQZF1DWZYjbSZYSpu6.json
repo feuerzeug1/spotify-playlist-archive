@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Chuu & KIM YOHAN)",
-  "num_followers": 382485,
+  "num_followers": 382589,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxMTE2NSwwMDAwMDAwMDc3NjIwMTQ5ODAwOTdlN2Q4N2E2MDhlZmY4NDNmZGQx",
+  "snapshot_id": "MTY3NzIxMTE2NSwwMDAwMDAwMGQ5YzYyOTJiNWE3ZDZjNDQ3NTA4ZWJmNDEwYWFjODlj",
   "tracks": [
     {
       "added_at": "2023-01-25 07:51:52",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-01-25 07:51:52",
       "album": {
-        "name": "Flower Language",
-        "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
-      },
-      "artists": [
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Freesia",
-      "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
-    },
-    {
-      "added_at": "2023-01-25 07:51:52",
-      "album": {
         "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 7",
         "url": "https://open.spotify.com/album/0l2EK3FdDY9MVRD3tckhDC"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 240840,
       "name": "Ing..",
       "url": "https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje"
+    },
+    {
+      "added_at": "2023-01-25 07:51:52",
+      "album": {
+        "name": "Flower Language",
+        "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
+      },
+      "artists": [
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Freesia",
+      "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
     },
     {
       "added_at": "2023-01-25 07:51:52",

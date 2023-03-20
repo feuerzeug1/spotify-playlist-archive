@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Regional Mexicano de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 474235,
+  "num_followers": 474488,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTE3NjQwNywwMDAwMDAwMGUwODRjMjU0N2RkMmM0NmIxMTNkNWYwNzFhMjU1ZjM3",
+  "snapshot_id": "MTY3OTE3NjQwNywwMDAwMDAwMGM2NjBmYzAxNmJmZTczNGE5OGRkODM2NmYxZjhlMTIx",
   "tracks": [
     {
       "added_at": "2023-03-18 21:53:27",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -975,18 +991,34 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "365",
+        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
         }
       ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+      "duration_ms": 188778,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Amor Plat\u00f3nico",
+      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -1027,38 +1059,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Amor Plat\u00f3nico",
-      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
-      },
-      "artists": [
-        {
-          "name": "Los Reales Del Rio",
-          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
-        }
-      ],
-      "duration_ms": 188778,
-      "name": "365",
-      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 137323,
       "name": "El Circo",
       "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "141",
-        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 175102,
-      "name": "141",
-      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "Y Si Se Quiere Ir",
         "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "Situaciones",
-        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "De Uno y De Todos Los Modos - Version Bolero",
-      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "Todos Hablan, Nada Saben",
         "url": "https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK"
       },
@@ -1255,6 +1223,22 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "De Uno y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 208160,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "141",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 175102,
+      "name": "141",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "Eres Mi Crush",
-        "url": "https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161194,
-      "name": "Eres Mi Crush",
-      "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 258355,
       "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "Eres Mi Crush",
+        "url": "https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Eres Mi Crush",
+      "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "Mi Amuleto Eres Tu",
-        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Mi Amuleto Eres T\u00fa",
-      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "Contrabando Y Traicion",
         "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 206293,
       "name": "Contrabando Y Traici\u00f3n",
       "url": "https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "Mi Amuleto Eres Tu",
+        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Mi Amuleto Eres T\u00fa",
+      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "El Final de Nuestra Historia",
-      "url": "https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "Jaula De Oro",
         "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 193106,
       "name": "Pedro Y Pablo",
       "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 208541,
+      "name": "El Final de Nuestra Historia",
+      "url": "https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 165480,
+      "name": "Flor De Capomo",
+      "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
         "name": "A la Medida",
         "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 189665,
       "name": "No Me Hablen de Amor",
       "url": "https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 165480,
-      "name": "Flor De Capomo",
-      "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -2219,18 +2203,18 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
       },
       "artists": [
         {
-          "name": "Alfredo Monta\u00f1o",
-          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 233404,
-      "name": "La Octava Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -2251,6 +2235,22 @@
       "duration_ms": 136615,
       "name": "Cabr\u00f3n y Vago",
       "url": "https://open.spotify.com/track/0AJOO4nzdWyiQUn0t27Pr7"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Monta\u00f1o",
+          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "La Octava Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "Rancher\u00edsimo, Vol. 2",
         "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 195117,
       "name": "El Hijo Desobediente",
       "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "No Eres Tu Ahora Soy Yo",
-        "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
-      },
-      "artists": [
-        {
-          "name": "Tito Y Su Torbellino",
-          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
-        }
-      ],
-      "duration_ms": 170396,
-      "name": "Te La Pasas feat. EP",
-      "url": "https://open.spotify.com/track/3bT9fp9mM5HDWE2BEI0yhP"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -2423,6 +2407,38 @@
       "duration_ms": 190496,
       "name": "El Crimen De Culiac\u00e1n",
       "url": "https://open.spotify.com/track/5pkr9BmnShPMoo5QLnpmnA"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "No Eres Tu Ahora Soy Yo",
+        "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
+      },
+      "artists": [
+        {
+          "name": "Tito Y Su Torbellino",
+          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+        }
+      ],
+      "duration_ms": 170396,
+      "name": "Te La Pasas feat. EP",
+      "url": "https://open.spotify.com/track/3bT9fp9mM5HDWE2BEI0yhP"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -2463,42 +2479,6 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 200945,
-      "name": "Tuyo y M\u00edo",
-      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -2531,6 +2511,26 @@
       "duration_ms": 214000,
       "name": "Pacas De A Kilo",
       "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 200945,
+      "name": "Tuyo y M\u00edo",
+      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
     },
     {
       "added_at": "2023-03-18 21:53:27",
@@ -2587,6 +2587,22 @@
     {
       "added_at": "2023-03-18 21:53:27",
       "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+    },
+    {
+      "added_at": "2023-03-18 21:53:27",
+      "album": {
         "name": "Voy a Conquistarte",
         "url": "https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ"
       },
@@ -2603,22 +2619,6 @@
       "duration_ms": 175051,
       "name": "Voy a Conquistarte",
       "url": "https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6"
-    },
-    {
-      "added_at": "2023-03-18 21:53:27",
-      "album": {
-        "name": "Levantando Polvadera (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6"
-      },
-      "artists": [
-        {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Levantando Polvadera",
-      "url": "https://open.spotify.com/track/4rQyZTWAh23M9fndTO0TWG"
     }
   ],
   "unique_name": "La Troca",

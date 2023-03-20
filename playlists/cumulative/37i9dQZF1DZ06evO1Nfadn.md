@@ -4,14 +4,15 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-81 songs - 3 hr 51 min
+82 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mis Padres](https://open.spotify.com/track/77tboh0O7eULVRwwIqUgax) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:31 | 2022-10-12 |  |
 | [A Mis Padres](https://open.spotify.com/track/39fu6sQOQip2OC5JEbl209) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:34 | 2022-06-04 | 2022-06-06 |
 | [Alma de Acero](https://open.spotify.com/track/4t6sb6BrGJXzjit9bdFrBO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 2:23 | 2022-06-01 |  |
-| [Aniversario De Un Adiós](https://open.spotify.com/track/3eb16j5rbejD4pIR40wAt2) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/2I1Gl3XePqBREJ3iLNm7lf) | 3:27 | 2022-06-01 |  |
+| [Aniversario De Un Adiós](https://open.spotify.com/track/3eb16j5rbejD4pIR40wAt2) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/2I1Gl3XePqBREJ3iLNm7lf) | 3:27 | 2022-06-01 | 2023-03-20 |
+| [Aniversario de un Adiós](https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 3:27 | 2023-03-19 |  |
 | [Ay Amigo](https://open.spotify.com/track/6NQSh4mdFDkukgwFfhlbfY) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 2:28 | 2022-06-01 | 2023-03-18 |
 | [Baila Nena](https://open.spotify.com/track/6j6ueannDkdkD84e8VcRVp) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:36 | 2022-06-01 |  |
 | [Bajo Mil Llaves](https://open.spotify.com/track/0MzJVPncnI3QcDe4dSSdcF) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:27 | 2022-06-02 | 2022-10-11 |

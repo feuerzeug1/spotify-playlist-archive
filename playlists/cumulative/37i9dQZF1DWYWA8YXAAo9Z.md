@@ -4,7 +4,7 @@
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-141 songs - 11 hr 51 min
+142 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,12 +42,13 @@
 | [Contemplation](https://open.spotify.com/track/3lLi5lAXRN7qQeTi7WNHRm) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Contemplation](https://open.spotify.com/album/0dOKce3eWiHzB7ixpEEwNF) | 5:51 | 2021-12-24 | 2022-11-20 |
 | [Contemplation](https://open.spotify.com/track/7u0wxI7hL1kBcy5U9w7eQt) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Contemplation](https://open.spotify.com/album/6F1ZQwSBrF6trhQyt4XTCc) | 5:51 | 2022-10-04 |  |
 | [Cuted](https://open.spotify.com/track/3gdhXa2iXDmPfkIlQehzyH) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Mind Groove](https://open.spotify.com/artist/3qweuxueVmC5XiMQviLH37) | [Cuted](https://open.spotify.com/album/2THF0LlDcp88lG4Gn6Xl4K) | 6:14 | 2022-02-25 | 2022-07-29 |
-| [Deep Down](https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Chilltronica EP 3](https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC) | 3:54 | 2022-01-07 |  |
+| [Deep Down](https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Chilltronica EP 3](https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC) | 3:54 | 2022-01-07 | 2023-03-20 |
 | [Deine Augen](https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N) | 5:16 | 2023-03-10 |  |
 | [Deine Augen](https://open.spotify.com/track/5RkjwEQviBKkVDisjJbVSJ) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/7dAYdoahzW8oZgSGHWpfNP) | 5:16 | 2021-12-24 | 2023-03-04 |
 | [Descending Isolation](https://open.spotify.com/track/0S4pxlHnt8lUxczCwy4rhA) | [Gregory Paul Mineeff](https://open.spotify.com/artist/4beTB1W83FGA0l7rM4h4HU) | [Descending Isolation](https://open.spotify.com/album/7hqX1iCYdVyllwErhBbUk6) | 5:30 | 2022-02-04 | 2022-07-28 |
 | [Detached Horizon](https://open.spotify.com/track/7flSnXb9R1JRSMa4WSgtxC) | [Blue Carbon](https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j) | [Detached Horizon](https://open.spotify.com/album/14hDdut9Gi30C2kUacBXXJ) | 4:26 | 2022-03-11 | 2022-09-06 |
 | [Dissolution](https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Journey To The Underworld EP](https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB) | 6:29 | 2022-01-21 |  |
+| [Drive West On Sunset \- Ambient](https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Being There \(Ambient\)](https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR) | 5:03 | 2023-03-10 |  |
 | [Earth Tapes](https://open.spotify.com/track/5BOTsGMzl9BpUIGk4qAE8j) | [Richard Fearless](https://open.spotify.com/artist/4UaXtuRUnYFu307v3Ew9xY) | [Future Rave Memory](https://open.spotify.com/album/6Rr3oofOKEl1fq5PSaGCrp) | 6:59 | 2021-12-24 | 2022-07-29 |
 | [Efflorescence](https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2) | [Luke Sanger](https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG) | [Languid Gongue](https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s) | 5:30 | 2021-12-24 |  |
 | [Empty House](https://open.spotify.com/track/44wMuVcGt4VkYpWGQEnq2C) | [Music is Love](https://open.spotify.com/artist/7zIjtXdgvjqvKAZNbbFjvy) | [Empty House](https://open.spotify.com/album/6DreRxZHfhlKNHYTLvqWdb) | 4:16 | 2022-01-28 | 2022-07-28 |

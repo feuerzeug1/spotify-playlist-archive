@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-866 songs - 1 day 13 hr 48 min
+867 songs - 1 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [silbermond](https://open.spotify.com/track/1sWI71ajS4mERuwG2k5vvD) | [Flavia Cortez](https://open.spotify.com/artist/4wMoov0OVG8UOIR6tPnvnV) | [Sunflower Field](https://open.spotify.com/album/2WcreYeMZTha6QjVopTaBo) | 2:49 | 2020-11-27 | 2022-04-22 |
 | [Silent Agreement](https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Dreamer](https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM) | 2:15 | 2020-08-14\* | 2021-03-23 |
 | [Silent Dusk](https://open.spotify.com/track/0IjOLaGtgjYKC5MOxEhEel) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Silent Dusk / Beside The Spring](https://open.spotify.com/album/4eNl0A3k0p9f08yE7gaeqC) | 3:29 | 2020-08-14\* | 2020-09-30 |
+| [Silent Moon](https://open.spotify.com/track/5Rrq7qUuBV4fcvBV6paaFl) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Silent Moon](https://open.spotify.com/album/4SGJKdqIfa1siT0tj9Mr3p) | 1:44 | 2023-03-20 |  |
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2021-04-12 | 2022-03-02 |
 | [Silk](https://open.spotify.com/track/3Zz7Ta1hAAnpLQNbyfZazb) | [Khanipova](https://open.spotify.com/artist/7KHQppBj7ea6qRp4NsTN1u) | [Silk](https://open.spotify.com/album/0VzlmpiXcBkzEuFFbOVXsg) | 2:25 | 2020-08-14\* | 2020-09-30 |
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-01-04 | 2022-06-08 |
@@ -760,7 +761,7 @@
 | [Through The Wind](https://open.spotify.com/track/4SYqypJlOI3mhf6zinkaUL) | [Michael Ottosson](https://open.spotify.com/artist/3dz4vgXeam9Ba1Bo7gud9b) | [Three Waltzes](https://open.spotify.com/album/28DqpGRLUjFtNPTaSs2rgr) | 2:51 | 2020-08-14\* | 2022-09-24 |
 | [Ticino](https://open.spotify.com/track/1GWs7zZprhLpLjwt7l6hfF) | [Daniel Hueber](https://open.spotify.com/artist/353QccwX4aD1y6B2r4tgaU) | [Ticino](https://open.spotify.com/album/5IPgCj1LZiJwcheVMAV7bc) | 1:44 | 2020-08-14\* | 2020-09-02 |
 | [Timeless](https://open.spotify.com/track/2aJlNzyFDh3j6GTBSDXdXZ) | [Matthew Mor](https://open.spotify.com/artist/3epJlQ4qcN08caWbdboMHw) | [Timeless](https://open.spotify.com/album/63wa93xZxlOOJe9TDvGsdU) | 2:06 | 2020-08-14\* | 2022-12-24 |
-| [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 | 2020-08-14\* |  |
+| [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 | 2020-08-14\* | 2023-03-20 |
 | [To Be Loved](https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE) | [Day Blue](https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w) | [To Be Loved](https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS) | 2:32 | 2022-02-01 | 2022-05-06 |
 | [Together](https://open.spotify.com/track/06J4o3WRoqbraUkXBiqldo) | [Alexander Panagopoulos](https://open.spotify.com/artist/2ezAtjuRtLi4loC6Rmyv5p) | [Together](https://open.spotify.com/album/6Aw71MnrHJntgP5Ae2QwRU) | 2:03 | 2020-08-14\* | 2021-04-09 |
 | [Together We Succeed](https://open.spotify.com/track/3U7aMdZAjOkcmZ4nUKQqZJ) | [Sylvia Beckett](https://open.spotify.com/artist/2z8eGKTdeXaLuflpOwAI1Y) | [The Teacher](https://open.spotify.com/album/6A9Tdi6gUteJtLrufkNF19) | 3:05 | 2020-08-14\* | 2020-08-20 |

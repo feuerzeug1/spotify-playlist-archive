@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-358 songs - 1 day 7 hr 8 min
+359 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Open the Gates](https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [In The Sign..\. \(Re\-issue + Bonus\) \[Deluxe Version\]](https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt) | 4:34 | 2022-07-13 |  |
 | [Ov Fire And The Void](https://open.spotify.com/track/2Q73wKbwLLcGS404gkTfjH) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/6ZizJ3rk1Eok7JOKL6UMwv) | 4:27 | 2022-07-13 |  |
 | [Ov Fire and the Void](https://open.spotify.com/track/7fire0gDtWtq39qQLJVfev) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/3NO3ef0kGIOJMw6y6nZEH0) | 4:27 | 2022-07-13 | 2022-07-29 |
-| [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 | 2022-05-13 |  |
+| [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 | 2022-05-13 | 2023-03-20 |
 | [Pale Blue Light](https://open.spotify.com/track/1U4fzMisR2YDKFauXInKKq) | [Wounds of Recollection](https://open.spotify.com/artist/1eHqHZFn7vwegBeNRAD2fq) | [Warm Glow of the End of Everything](https://open.spotify.com/album/7IXjjRZv6QwaNbtWg2Ea91) | 9:00 | 2023-02-15 | 2023-03-09 |
 | [Panzer Division Marduk](https://open.spotify.com/track/0jpsXRJG4654VySxM3UyB6) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Panzer Division](https://open.spotify.com/album/6UNeZrw9jjm52S4pZ7cXgB) | 2:39 | 2022-07-13 | 2022-07-28 |
 | [Part of the End](https://open.spotify.com/track/5GXsYrLmKbMrFXci8wSqn0) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [Part of the End](https://open.spotify.com/album/0uEm2ITFYpqkflzwJz01kV) | 5:46 | 2021-12-17 | 2022-07-25 |
@@ -298,6 +298,7 @@
 | [The Battle of Sudden Flame](https://open.spotify.com/track/2QO98YRV4B4A9K83INntza) | [Dawn Ray'd](https://open.spotify.com/artist/4SgdAGvT4cBCGFGmIzBtUC) | [The Battle of Sudden Flame](https://open.spotify.com/album/336fD24e1ziXJrjooaz85S) | 3:27 | 2023-02-10 | 2023-03-19 |
 | [The Book of Breath](https://open.spotify.com/track/7hA0Cv3sWhKIjKbpnMcg1G) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [The Book of Breath](https://open.spotify.com/album/1YXcHOfyzrJduglh9NWgOG) | 4:35 | 2022-03-10 | 2022-07-25 |
 | [The Bride of Corinth](https://open.spotify.com/track/7Hzq8rzkH0LjKSRSXwFXYD) | [Theatres Des Vampires](https://open.spotify.com/artist/4vNrZHCyGyELnv8tAgZZRt) | [In Nomine Sanguinis](https://open.spotify.com/album/1gHTP0xHAJkLiiYtm3U6Oa) | 3:37 | 2021-12-17 | 2022-07-27 |
+| [The Calling](https://open.spotify.com/track/0FqwZuGCQLvXIMwbob6bo1) | [Saturnus](https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id) | [The Calling](https://open.spotify.com/album/6mNPBN9o73Hon2zGRVvQC0) | 6:59 | 2023-03-17 |  |
 | [The Celestial Keeper](https://open.spotify.com/track/3OQ3r2qzMj1gBpfQpo4HEZ) | [Fall Of The Leafe](https://open.spotify.com/artist/74wuD78VWnyGSwDvVtrQwn) | [Evanescent, Everfading](https://open.spotify.com/album/1zv5yNwJ91m73bxYe0r87V) | 4:29 | 2023-02-15 | 2023-03-18 |
 | [The Dhampir, Pt\. I](https://open.spotify.com/track/2u3DAKhCPzGIZQfKRrm5zU) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [The Dhampir](https://open.spotify.com/album/2Oc0qi4XSeJgm6b8IqgChm) | 5:49 | 2022-04-22 | 2022-07-29 |
 | [The Dregs of Hades](https://open.spotify.com/track/03NK3EtH3txhiF6HiDH649) | [Lock Up](https://open.spotify.com/artist/0AKZrsOYW77C7QW1jzdhNX) | [The Dregs of Hades](https://open.spotify.com/album/2LAZb8cxJwce79vcz8gJCn) | 2:00 | 2021-12-17 | 2022-07-26 |

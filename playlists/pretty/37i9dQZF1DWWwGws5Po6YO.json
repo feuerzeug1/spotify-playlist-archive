@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 27996,
+  "num_followers": 28004,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDM1YWM3YTI4ZGEzNTVmYTY5NThkMTg3ZjlhYmJlZjQ4",
+  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMGNlYjA1MWU0YzI1NTM4NGEwYjUxM2QwNmQyZWY2ZjE0",
   "tracks": [
     {
       "added_at": "2022-12-20 17:52:39",
@@ -555,22 +555,18 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Far Within Reach",
-        "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
+        "name": "A Mythology of Circles",
+        "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
       },
       "artists": [
         {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        },
-        {
-          "name": "Ella Zwietnig",
-          "url": "https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa"
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
         }
       ],
-      "duration_ms": 312000,
-      "name": "The Reckoning",
-      "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
+      "duration_ms": 251887,
+      "name": "The North Wind",
+      "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -611,18 +607,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "A Mythology of Circles",
-        "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
+        "name": "Far Within Reach",
+        "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
       },
       "artists": [
         {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        },
+        {
+          "name": "Ella Zwietnig",
+          "url": "https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa"
         }
       ],
-      "duration_ms": 251887,
-      "name": "The North Wind",
-      "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
+      "duration_ms": 312000,
+      "name": "The Reckoning",
+      "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
     },
     {
       "added_at": "2022-12-20 17:52:39",

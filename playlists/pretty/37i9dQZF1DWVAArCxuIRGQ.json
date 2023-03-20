@@ -1,12 +1,12 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 575196,
+  "num_followers": 575220,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5NTM5MCwwMDAwMDAwMDE4NTM0NWE4YTQzOGQzYjI2NzBmYmVhNjk0OTUzMjhh",
+  "snapshot_id": "MTY1NzI5NTM5MCwwMDAwMDAwMDQyNTEzYmJkOWU0NzZkMjM5ZjA0ZDA4NDFkNGU2OWNk",
   "tracks": [
     {
       "added_at": "2022-07-08 15:49:50",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 221053,
       "name": "Little Lies - 2017 Remaster",
       "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 297404,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 176333,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2022-07-08 15:49:50",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-07-08 15:49:50",
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
-      "added_at": "2022-07-08 15:49:50",
-      "album": {
         "name": "One Two",
         "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 196506,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4"
+    },
+    {
+      "added_at": "2022-07-08 15:49:50",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2022-07-08 15:49:50",

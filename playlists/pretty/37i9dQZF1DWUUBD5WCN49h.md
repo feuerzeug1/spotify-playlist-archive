@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=g\_PfiPnJTs\-FbWSZxqlQkQ"> Qing Madi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,168 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,184 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

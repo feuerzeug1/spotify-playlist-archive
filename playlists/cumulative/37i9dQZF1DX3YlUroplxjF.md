@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Jesus Piece
 
-391 songs - 22 hr 30 min
+392 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Crisis](https://open.spotify.com/track/4QpvRKNHQEmyLes7zS86SY) | [Cevilain](https://open.spotify.com/artist/6XWwKgs6eaq7yZjhCELSvj) | [On Death & Dying](https://open.spotify.com/album/7bNkSAej1OUN3b6LlHPFZ2) | 4:00 | 2021-11-30 | 2022-07-26 |
 | [Crooked Smile](https://open.spotify.com/track/5yoX5wMeSivacYx6GpXVoF) | [Deez Nuts](https://open.spotify.com/artist/2w0Dmj9GV9ZrokNRcnRwav) | [Crooked Smile](https://open.spotify.com/album/2y2hNkrEjhldLXVl1dxqJe) | 2:59 | 2022-03-11 | 2022-07-12 |
 | [Cut Your Losses](https://open.spotify.com/track/5Li2YgiJ39nQOhwkzu7yfg) | [No Eden](https://open.spotify.com/artist/638c40rFuhN8BQ5PG4F78h) | [Abandon](https://open.spotify.com/album/3B04uLIBgtGiwx22PuMoe3) | 3:15 | 2022-04-01 | 2022-04-19 |
-| [Damn Excuses](https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 2:37 | 2022-01-21 |  |
+| [Damn Excuses](https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 2:37 | 2022-01-21 | 2023-03-20 |
 | [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 | 2023-01-19 |  |
 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 | 2022-01-21 | 2022-07-29 |
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-01-21 | 2023-01-25 |
@@ -321,6 +321,7 @@
 | [Shh!](https://open.spotify.com/track/2njh4onOr3nyACxc7c8vPp) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Shh!](https://open.spotify.com/album/2MMz0g90OO2MUaNEbmhWQQ) | 2:38 | 2021-11-30 | 2022-07-26 |
 | [Shh!](https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:38 | 2022-04-01 | 2023-01-13 |
 | [Shockwave](https://open.spotify.com/track/19xegamOXWHUg3YdibYfRi) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/39YL5TUKANLWh4s5QtuSU0) | 3:17 | 2022-04-01 | 2022-04-13 |
+| [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 | 2023-03-20 |  |
 | [Signs](https://open.spotify.com/track/1e2NV9BjhmFrtDmhfL3nxF) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Signs](https://open.spotify.com/album/0sgglKdYqRqntIRQnTWoF8) | 4:28 | 2021-11-30 | 2022-07-27 |
 | [Signs](https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Ghost Like You](https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj) | 4:28 | 2022-04-01 |  |
 | [Signs](https://open.spotify.com/track/4ZC05So3fMfwpy5jWQ990v) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Signs](https://open.spotify.com/album/1DxmOpjDnTptonWWuKHszp) | 4:28 | 2022-04-01 | 2022-08-04 |

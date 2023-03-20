@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17290,
+  "num_followers": 17289,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDJhNWZkOTczZjgyNzRiZDlkYTU5YzZkZDAxMDlmNTk4",
+  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDE4YmM3MzEwMmY4OTVhMGYxZmQ1NDVhM2U4OGU1YWFl",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Hello Operator",
-      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 211440,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hello Operator",
+      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Loopholes",
-        "url": "https://open.spotify.com/album/3Jwlm2yPSjIld9S1sCNw4G"
-      },
-      "artists": [
-        {
-          "name": "The Murlocs",
-          "url": "https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus"
-        }
-      ],
-      "duration_ms": 190284,
-      "name": "Space Cadet",
-      "url": "https://open.spotify.com/track/3bkP8LtaC6fWnBPkuqDlQa"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Boisad",
         "url": "https://open.spotify.com/album/1AW9OdUZ9PK4x1VH5Tg300"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 209248,
       "name": "Reservoir Dawgs",
       "url": "https://open.spotify.com/track/5QiqeGYwJDzZh2qCmXbooc"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Loopholes",
+        "url": "https://open.spotify.com/album/3Jwlm2yPSjIld9S1sCNw4G"
+      },
+      "artists": [
+        {
+          "name": "The Murlocs",
+          "url": "https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus"
+        }
+      ],
+      "duration_ms": 190284,
+      "name": "Space Cadet",
+      "url": "https://open.spotify.com/track/3bkP8LtaC6fWnBPkuqDlQa"
     },
     {
       "added_at": "2021-04-09 06:19:31",

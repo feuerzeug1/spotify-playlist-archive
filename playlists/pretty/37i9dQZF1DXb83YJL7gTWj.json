@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 247274,
+  "num_followers": 247367,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDM2MTljNGQ2ZTcxZDU4NzQ0OTc4YzZmNzZiNjc2MDFh",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGQ4YjU5YmUxMGE2OTE4YzliNzAyN2NiODgwMzNkZDAz",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -287,22 +287,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "July (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         },
         {
           "name": "Leon Bridges",
           "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 152280,
-      "name": "July (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+      "duration_ms": 252811,
+      "name": "Texas Sun",
+      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -339,6 +339,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "July (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 152280,
+      "name": "July (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 252811,
-      "name": "Texas Sun",
-      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "No Right To Love You",
-        "url": "https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "No Right To Love You",
-      "url": "https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "SYML",
         "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 212920,
       "name": "Girl",
       "url": "https://open.spotify.com/track/6zP2bIJWqFZtJ8dtxeDzcp"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "No Right To Love You",
+        "url": "https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "No Right To Love You",
+      "url": "https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 201541,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Prospect",
-        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 192813,
       "name": "To Live a Life",
       "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Prospect",
+        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt"
     },
     {
       "added_at": "2023-03-10 05:00:00",

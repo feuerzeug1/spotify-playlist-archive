@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Zöelle en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,542 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,573 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 3 | [Hood \- Remix](https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hood \(Remix\)](https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv) | 2:56 |
 | 4 | [No Sabe Igual](https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No Sabe Igual](https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3) | 2:16 |
 | 5 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 |
-| 6 | [Respirar](https://open.spotify.com/track/1GGhhrtbOp1BL2OXYXLtIV) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Respirar](https://open.spotify.com/album/0ABDSOi95uY6U9lAOpkU4r) | 2:52 |
+| 6 | [Respirar](https://open.spotify.com/track/1GGhhrtbOp1BL2OXYXLtIV) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Respirar](https://open.spotify.com/album/0ABDSOi95uY6U9lAOpkU4r) | 2:51 |
 | 7 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
 | 8 | [Estoy Bien](https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Estoy Bien](https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE) | 2:48 |
 | 9 | [una pistola](https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb) | 3:22 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 15 | [El Trato](https://open.spotify.com/track/6QuDt5RZLOT0GW9VuE4cs7) | [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui) | [El Trato](https://open.spotify.com/album/3SRvyEHQauKCpDSFd41krT) | 3:07 |
 | 16 | [Loco](https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Loco](https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V) | 3:59 |
 | 17 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 |
-| 18 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 |
-| 19 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 |
+| 18 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 |
+| 19 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 |
 | 20 | [Parece un Sueño](https://open.spotify.com/track/1DXAuCkxL3hdcLjBkvUxgN) | [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Labios de Vainilla](https://open.spotify.com/album/46VuvNSBHEzy3fbIIAapKl) | 3:06 |
 | 21 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 |
 | 22 | [Grillz](https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Grillz](https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg) | 3:12 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 46 | [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 |
 | 47 | [Quizás](https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy) | 4:08 |
 | 48 | [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 |
-| 49 | [La Musa](https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5) | [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [La Musa](https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA) | 1:41 |
-| 50 | [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 |
+| 49 | [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 |
+| 50 | [La Musa](https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5) | [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [La Musa](https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA) | 1:41 |
 
-Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMDE2Mjc0ZmMyNzlkZTM3ZmQxY2MyYzAyZGY4MTI3NGI4`
+Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMGRlMWY5ZDM0Y2IzZjgzOGYwZTEzOWNhOWFmYzYwNWNm`

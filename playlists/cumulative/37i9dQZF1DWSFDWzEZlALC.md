@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: AnnenMayKantereit
 
-179 songs - 9 hr 1 min
+180 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Formel 1](https://open.spotify.com/track/54ikHw7TLMQN8YnOnKDVKA) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Formel 1](https://open.spotify.com/album/2fM6wcB1fc1xmn0IULxGrI) | 3:05 | 2023-03-09 |  |
 | [Fragil](https://open.spotify.com/track/0k1akQtVHZ7PWqjxqazJoV) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [wie es ist](https://open.spotify.com/album/7lj1zNPlp5Fh3rBh6ph539) | 3:24 | 2023-02-23 | 2023-03-10 |
 | [Freebeat](https://open.spotify.com/track/4W76VNG6n7CasMlMlhDk7s) | [DISSY](https://open.spotify.com/artist/6CfRq9NZZaosSc1hEAXuwH) | [Nie Wieder High Society](https://open.spotify.com/album/676derFQWPmY7c5722XjK1) | 1:54 | 2023-03-16 |  |
-| [Für dich da](https://open.spotify.com/track/3eS5cdQfliiWLWLjLdYodN) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Für dich da](https://open.spotify.com/album/53ONUgQsNJqHijJUzagh2N) | 3:02 | 2023-03-02 |  |
+| [Für dich da](https://open.spotify.com/track/0fqC9DQnwRjkcw6PSwgkeR) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Insomnia](https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6) | 3:02 | 2023-03-16 |  |
+| [Für dich da](https://open.spotify.com/track/3eS5cdQfliiWLWLjLdYodN) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Für dich da](https://open.spotify.com/album/53ONUgQsNJqHijJUzagh2N) | 3:02 | 2023-03-02 | 2023-03-20 |
 | [Für immer](https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Für immer](https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR) | 3:23 | 2023-02-23 |  |
 | [Geister bei Tageslicht](https://open.spotify.com/track/1t2ZCcxotoTylvYpPTOWgR) | [Kaltenkirchen](https://open.spotify.com/artist/1XuOxeq7zKZTvilwbHdS6v) | [Geister bei Tageslicht](https://open.spotify.com/album/1aYtL3YKtImw2hkHtWAPHY) | 2:43 | 2023-02-02 | 2023-02-24 |
 | [Gekreuzte Finger](https://open.spotify.com/track/3qLNG3UvIe2G3DQ0XGMeEY) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Insomnia](https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6) | 2:50 | 2023-03-16 |  |

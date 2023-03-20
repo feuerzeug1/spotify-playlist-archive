@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Unknown Mortal Orchestra
 
-4,987 songs - 12 day 4 hr 15 min
+4,988 songs - 12 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [AMERICAN GURL](https://open.spotify.com/track/4wYmgjrDbHprid8pODwPq4) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/1onm247Cd6CExLh8CcnhVy) | 3:48 | 2021-07-24 | 2021-09-04 |
 | [American Teenager](https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a) | 4:18 | 2022-04-22 | 2022-05-28 |
 | [Amnesia](https://open.spotify.com/track/5UBCzEjj6I6nQt6nKzbpcw) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Amnesia](https://open.spotify.com/album/6RIvXxoFJ3qgQSJolPobav) | 3:17 | 2020-11-20 | 2021-01-23 |
-| [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 | 2023-02-10 |  |
+| [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 | 2023-02-10 | 2023-03-20 |
+| [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 | 2023-03-10 |  |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2021-07-17 | 2021-09-04 |
 | [Amour, Haine & Danger](https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Amour, Haine & Danger](https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3) | 3:18 | 2022-09-30 | 2022-11-05 |
 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-09-18 | 2021-11-20 |

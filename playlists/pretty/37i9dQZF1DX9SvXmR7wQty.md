@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les dernières nouveautés francophones avec Isabelle Boulay, Lydia Képinski, Les Louanges et Dadju .
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,130 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,136 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 4 | [Mes affaires](https://open.spotify.com/track/5Ug50Tcin5Gc3MPDw13sKC) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mes affaires](https://open.spotify.com/album/5yCcPQUL1zdTO9lcI73YwO) | 3:10 |
 | 5 | [Verre de trop](https://open.spotify.com/track/3TP7rff5C07nasdDYOtVMD) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 2:39 |
 | 6 | [Polymorphe](https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Polymorphe](https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI) | 3:36 |
-| 7 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 |
+| 7 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 |
 | 8 | [Tout le monde](https://open.spotify.com/track/59NiurbrD7BnSkkTBRiqif) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj), [Mélodie\-Jade Valiquette Claude](https://open.spotify.com/artist/5BDjymGQw59ZRpvMFZcAIn) | [La Voix 2023](https://open.spotify.com/album/1LtGxOzpH5yYf9jIb7JpfX) | 3:29 |
 | 9 | [L'amour](https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 2:47 |
 | 10 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 |

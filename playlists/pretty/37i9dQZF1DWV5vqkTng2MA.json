@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Devon Gilfillian",
-  "num_followers": 355685,
+  "num_followers": 355779,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDM5YjhiMzliNTY1NzM0NjViMGE1NDc0NjBlMjAyMDQ3",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGM0NmJmY2E0YTY1NzhmZDAzZGYyMzhkOGRhNGEzZjVm",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Sea Star",
-        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Sea Star",
-      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
+        "name": "Sea Star",
+        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
       },
       "artists": [
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 240973,
-      "name": "The Beachland Ballroom",
-      "url": "https://open.spotify.com/track/6numDs6jtM3BAVO2NRrwXC"
+      "duration_ms": 207786,
+      "name": "Sea Star",
+      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -643,6 +627,22 @@
       "duration_ms": 164533,
       "name": "Pining",
       "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "The Beachland Ballroom",
+      "url": "https://open.spotify.com/track/6numDs6jtM3BAVO2NRrwXC"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Little Neon Limelight",
-        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 202401,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/6vH6hPl0Woh6Cp1EUbpYq7"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 195546,
       "name": "Empty Heart",
       "url": "https://open.spotify.com/track/2eP517crFrL5ggUAEoug16"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Little Neon Limelight",
+        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 202401,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "S\u00edminn+Spotify Session",
-        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
+        "name": "Gold Shadow",
+        "url": "https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz"
       },
       "artists": [
         {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+          "name": "Asaf Avidan",
+          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
         }
       ],
-      "duration_ms": 352720,
-      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
-      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
+      "duration_ms": 156993,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Gold Shadow",
-        "url": "https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz"
+        "name": "S\u00edminn+Spotify Session",
+        "url": "https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4"
       },
       "artists": [
         {
-          "name": "Asaf Avidan",
-          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
         }
       ],
-      "duration_ms": 156993,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
+      "duration_ms": 352720,
+      "name": "Neon Experience - Live from Vatnagar\u00f0ar",
+      "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Highway Vagabond",
-      "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Kids In The Street",
         "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 202320,
       "name": "Trouble Is",
       "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Highway Vagabond",
+      "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Real Contender",
-        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Real Contender",
-      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Alexander",
         "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 209466,
       "name": "Bad Bad Love",
       "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Real Contender",
+        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Real Contender",
+      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
     }
   ],
   "unique_name": "the new retro",

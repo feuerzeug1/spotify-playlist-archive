@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Akrilla, SOULFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,101 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,126 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 17 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 |
 | 18 | [Tak Tiki Tak](https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8) | 3:32 |
 | 19 | [Vete Pal Carajo](https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Vete Pal Carajo](https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD) | 2:56 |
-| 20 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
-| 21 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
+| 20 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
+| 21 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 22 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 |
 | 23 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
 | 24 | [Mi Fanatica](https://open.spotify.com/track/4M3UPGNere257tK0Qguga2) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Mi Fanatica](https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY) | 3:43 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 54 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 |
 | 55 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
 | 56 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
-| 57 | [Que Pvtería](https://open.spotify.com/track/1Cu2XVeJznrcbS2r6iOLNZ) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Que Pvtería](https://open.spotify.com/album/2azP4Xmddy56fIbFoHrAAu) | 2:23 |
-| 58 | [Limbo](https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Limbo](https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J) | 2:58 |
+| 57 | [Limbo](https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Limbo](https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J) | 2:58 |
+| 58 | [Que Pvtería](https://open.spotify.com/track/1Cu2XVeJznrcbS2r6iOLNZ) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Que Pvtería](https://open.spotify.com/album/2azP4Xmddy56fIbFoHrAAu) | 2:23 |
 | 59 | [Full Pioli \(feat\. Best\)](https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Full Pioli \(feat\. Best\)](https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb) | 2:36 |
 | 60 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 |
 
-Snapshot ID: `MTY3ODQ2NTU1NywwMDAwMDAwMDMyZTUxOWMyMzE1NDg4NTg1NmM1MzUwMDY5MjU1YTll`
+Snapshot ID: `MTY3ODQ2NTU1NywwMDAwMDAwMDcwMTdjNjc5ZTAzNWZhZGE5NGVhYjViNzliMDhhOWYz`

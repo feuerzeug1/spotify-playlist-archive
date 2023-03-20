@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 165681,
+  "num_followers": 165790,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDk0NmUyYTI2MTI2MWI3ZmE5MmJiMmZkOTlhZTg2YTli",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDdmOTBlYTMwMjA4NGI2NjE2ZDAwNmY2ODY1ZTJhMGM3",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Hallucinogen",
-        "url": "https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 268987,
-      "name": "All the Way Down",
-      "url": "https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Anything in Return",
         "url": "https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 285973,
       "name": "So Many Details",
       "url": "https://open.spotify.com/track/1YpRBLuUWsdahTFhZr9pwK"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Hallucinogen",
+        "url": "https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 268987,
+      "name": "All the Way Down",
+      "url": "https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Short And Sweet",
-        "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
-      },
-      "artists": [
-        {
-          "name": "Little annie",
-          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "I Think Of You",
-      "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "ANTH01",
         "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 403080,
       "name": "Another Girl",
       "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Short And Sweet",
+        "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
+      },
+      "artists": [
+        {
+          "name": "Little annie",
+          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "I Think Of You",
+      "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Light Bodied",
-      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Far Away Trains Passing By",
         "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 397986,
       "name": "Passing By - 2019 remaster",
       "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Under The Sun (Expanded Vol. 1)",
+        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Light Bodied",
+      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
     },
     {
       "added_at": "2022-02-03 02:43:26",

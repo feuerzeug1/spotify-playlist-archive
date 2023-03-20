@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-300 songs - 19 hr 41 min
+302 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A un Milimetro de Ti / Tan Natural](https://open.spotify.com/track/0b3ecgOYbtZpuxM45S7PVf) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Sergio Torres](https://open.spotify.com/artist/20RFfhUr4ywekB37FCjaqW) | [A un Milimetro de Ti / Tan Natural](https://open.spotify.com/album/5aa9yk905wXc6nyZ6mMMLh) | 5:03 | 2022-08-12 | 2022-09-10 |
 | [Adicto A Ti](https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 4:06 | 2021-12-24 |  |
 | [Adios / El Frio de Tu Adios / Tu No Sospechas / Con Cada Beso / Venganza Leta](https://open.spotify.com/track/6xb6YQgMFFCproC0rjWU3N) | [Banda Express](https://open.spotify.com/artist/7tqwTqZQXmwtlvj4WdsGUe) | [Letal / Pasión de Bailarines](https://open.spotify.com/album/2YzlZeKSDrm7IIalP3zbpD) | 7:57 | 2021-12-24 | 2022-07-16 |
-| [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 | 2022-05-27 |  |
+| [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 | 2022-05-27 | 2023-03-20 |
 | [Ahora Mírame](https://open.spotify.com/track/4EOTkRt48d1Eu31V2o4mNw) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:34 | 2021-12-24 |  |
 | [Amada Mia \- En Vivo](https://open.spotify.com/track/6YIewAPGakyaxTNrivlYXs) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [En Vivo Con Amigos](https://open.spotify.com/album/0DJYz0AhmU1efjhesG7od2) | 4:16 | 2021-12-24 | 2022-07-29 |
 | [Amame / Mariposas](https://open.spotify.com/track/5e9DYoQBJu60GE063WqDKD) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Amame / Mariposas](https://open.spotify.com/album/3ZLT6diCZWFbh91wTSIo6w) | 4:43 | 2022-04-22 | 2022-06-13 |
@@ -179,6 +179,7 @@
 | [No Dire Que Si](https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Pia Ka](https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix) | [No Dire Que Si](https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj) | 3:33 | 2022-11-11 |  |
 | [No Es Cierto](https://open.spotify.com/track/5iMQjwcMNYQYUxTIZSa2u7) | [CÓMO DICE](https://open.spotify.com/artist/0kKSgKccwCUSqdNr4ovJDz) | [No Es Cierto](https://open.spotify.com/album/4csALsYcKamfcEsMl1xGNd) | 3:23 | 2022-06-03 | 2022-08-18 |
 | [No Me Dejas Verla](https://open.spotify.com/track/2ENXszqOKxtExOhIkzxqYk) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Pasión Cuartetera](https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs) | 3:24 | 2022-01-21 | 2022-07-27 |
+| [No Me Mientas](https://open.spotify.com/track/0mYPt9hLmZZvqWAbR9SdNj) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh) | 3:59 | 2023-03-17 |  |
 | [No Me Mientas](https://open.spotify.com/track/1jtPZTHgxsLZkPKdql9GyH) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Snagre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 3:59 | 2021-12-24 | 2023-03-12 |
 | [No Se Va](https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Se Va](https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ) | 3:40 | 2022-12-07 |  |
 | [No Seas Cruel](https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Seas Cruel](https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg) | 3:56 | 2022-11-25 |  |
@@ -262,6 +263,7 @@
 | [Te Pido Perdon](https://open.spotify.com/track/5mVKmmkGvftY88sm3tocch) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Sin Limites](https://open.spotify.com/album/35G5JSWM0oAFzTfXJK9Hti) | 3:06 | 2021-12-24 | 2022-07-29 |
 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 | 2022-07-22 |  |
 | [Te pido que la dejes](https://open.spotify.com/track/0cH2nR2ISmkLVW7e7ogTYw) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Inigualable](https://open.spotify.com/album/1Yq5RNlCkTE1sygpnEstl9) | 4:43 | 2021-12-24 | 2023-03-12 |
+| [Te Pido Que La Dejes](https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Inigualable](https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2) | 4:43 | 2023-03-17 |  |
 | [Tengo que calmarme](https://open.spotify.com/track/6WAwZasg23YWWloNJ24e2S) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 2:57 | 2021-12-24 | 2022-07-29 |
 | [Tiburona](https://open.spotify.com/track/5vvVGXpdev0tp8fFP5uCj1) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Tiburona](https://open.spotify.com/album/7EKTg91qlDQ6kctAx4vRVw) | 3:33 | 2023-01-27 | 2023-03-04 |
 | [Tinta China \- En Vivo](https://open.spotify.com/track/3ykGF7ztZ1Ij37QQluEwb5) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Magia de La Mona \(En Vivo '92\)](https://open.spotify.com/album/0ZfDwnnPHU8GHUZ7GhVcY2) | 3:20 | 2021-12-24 | 2022-07-24 |
@@ -278,7 +280,7 @@
 | [Tu Karma](https://open.spotify.com/track/6t7GoWo3XfYZxDqiOfqtPk) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Tu Karma](https://open.spotify.com/album/3psyJOjV7Gzsh4qejhN6Kv) | 3:52 | 2022-01-14 | 2022-07-24 |
 | [Tu maldito amor](https://open.spotify.com/track/1AtIb5oZBXHLKzyoM6POtc) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/2xjcx9guWV4VtexEYDDWly) | 3:27 | 2022-01-07 | 2022-07-14 |
 | [Tu Nombre](https://open.spotify.com/track/1pDXVj8a0oeGI787QMOc2l) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Tu Nombre](https://open.spotify.com/album/1vTsQEEsyMLY7b5xKvSklj) | 3:24 | 2022-04-15 | 2022-08-13 |
-| [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 | 2022-09-05 |  |
+| [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 | 2022-09-05 | 2023-03-20 |
 | [Tu Vas a Volar](https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [A Lo Largo Y A Lo Ancho](https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55) | 3:50 | 2021-12-24 |  |
 | [TU Y YO](https://open.spotify.com/track/5mC5Wby2lTwENYNZuITlwX) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [TU Y YO](https://open.spotify.com/album/4IpzgUYEJGIjxBDVm6N7Uh) | 3:13 | 2023-01-13 | 2023-01-17 |
 | [Tu y Yo](https://open.spotify.com/track/6HmUew7AfyJAV6CujKgN09) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [Tu y Yo](https://open.spotify.com/album/7vIWILcUZgqcMoXBdk1BD0) | 3:13 | 2023-01-13 | 2023-01-18 |

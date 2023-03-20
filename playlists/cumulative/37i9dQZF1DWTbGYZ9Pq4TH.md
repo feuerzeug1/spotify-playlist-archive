@@ -4,7 +4,7 @@
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-192 songs - 12 hr 25 min
+193 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [MIA](https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [MIA](https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g) | 2:54 | 2021-09-26 | 2023-03-16 |
 | [Migliore](https://open.spotify.com/track/1V5Fgni6jJx2V4cuHXb5Cz) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Scriverò il tuo nome \(Deluxe Edition\)](https://open.spotify.com/album/1z6nJ51MGl9ObiNBnW944Y) | 2:50 | 2021-09-26 | 2022-07-22 |
 | [Mille giorni di te e di me](https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Oltre](https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP) | 5:36 | 2021-09-26 | 2022-07-28 |
-| [Minuetto](https://open.spotify.com/track/5DPp64xvym2n9tHE8nuhn7) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il giorno dopo \(Gli Indimenticabili\)](https://open.spotify.com/album/2n9uS88r6JmABiCy4CbhBM) | 4:43 | 2023-02-20 |  |
+| [Minuetto](https://open.spotify.com/track/5DPp64xvym2n9tHE8nuhn7) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il giorno dopo \(Gli Indimenticabili\)](https://open.spotify.com/album/2n9uS88r6JmABiCy4CbhBM) | 4:43 | 2023-02-20 | 2023-03-20 |
 | [Minuetto](https://open.spotify.com/track/5UKMdUAChYAllKDye6qDGb) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il Giorno Dopo](https://open.spotify.com/album/3RULCQndss1A5Ix2NAlV8M) | 4:43 | 2021-09-26 | 2022-07-28 |
 | [Motivo \(feat\. Coez\)](https://open.spotify.com/track/6SZMYfcEOgv7a7fhArmrQQ) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [La Differenza](https://open.spotify.com/album/6NN8ud1qr77iiGxHSDN7rk) | 3:11 | 2021-09-26 | 2022-07-25 |
 | [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 | 2021-09-26 |  |
@@ -170,6 +170,7 @@
 | [Siamo](https://open.spotify.com/track/7jkZflOcHyeFz0xzaOZRHw) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:38 | 2021-09-26 | 2022-07-21 |
 | [Simili](https://open.spotify.com/track/53i6D188bSUeVZeR1sMucH) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Simili](https://open.spotify.com/album/02vgS0e67Hdjt4lu6Yp11n) | 3:35 | 2021-09-26 | 2022-05-25 |
 | [Solo3min](https://open.spotify.com/track/7wd4HV7CA1T5PZeJjfa5ez) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:40 | 2021-09-26 | 2022-07-21 |
+| [Sopra](https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Punk](https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW) | 3:13 | 2023-02-20 |  |
 | [Sorriso \(Milano Dateo\)](https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Sorriso \(Milano Dateo\)](https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz) | 2:57 | 2021-09-26 |  |
 | [Sotto Il Segno Dei Pesci](https://open.spotify.com/track/3IFdrW5sJVJ6FIWzUruQcE) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Sotto Il Segno Dei Pesci](https://open.spotify.com/album/5kAQPhndRL72szACuWp6ic) | 6:03 | 2021-09-26 | 2022-07-22 |
 | [Stammi Vicino](https://open.spotify.com/track/1KR1qEkaX8PIHXBYfSOpr1) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vivere O Niente](https://open.spotify.com/album/3lYK5n40cnggTy17jPSW0E) | 5:20 | 2021-09-26 | 2022-07-28 |

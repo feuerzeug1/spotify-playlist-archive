@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,453 songs - 4 day 4 hr 22 min
+1,454 songs - 4 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,7 +574,7 @@
 | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/album/53J5G6P1Xdj6ZsgsHSlg1a) | 3:05 | 2022-04-29 | 2022-12-29 |
 | [Hollow](https://open.spotify.com/track/2F6F3bQ0CWUnv5xje1RTLK) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi) | 4:05 | 2022-09-30 | 2022-10-13 |
 | [Hologram](https://open.spotify.com/track/3QUiaFjKkp3EkCuJ7pa1PX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Hologram](https://open.spotify.com/album/6etgircCabewA3pqdJCZnH) | 3:55 | 2021-08-20 | 2022-02-14 |
-| [Hologram](https://open.spotify.com/track/210bt3QeLgxfbcSKikEeNT) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Hologram](https://open.spotify.com/album/278Wc6KOqM1juXvUi6fwpt) | 4:26 | 2023-03-10 |  |
+| [Hologram](https://open.spotify.com/track/210bt3QeLgxfbcSKikEeNT) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Hologram](https://open.spotify.com/album/278Wc6KOqM1juXvUi6fwpt) | 4:26 | 2023-03-10 | 2023-03-20 |
 | [Home](https://open.spotify.com/track/5k84kP4bMsdungyaodBIjL) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Eelke Kleijn presents DAYS like NIGHTS](https://open.spotify.com/album/4QrUTGnqrfWOAwnws2VvFb) | 3:20 | 2022-12-28 | 2023-01-06 |
 | [Home](https://open.spotify.com/track/2DK8ebNy8ynJGk8Q0QCwt5) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Home](https://open.spotify.com/album/2ZMrnoC7w8A9K0z9NsnLAE) | 3:42 | 2020-05-18 | 2020-07-03 |
 | [Home](https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:14 | 2020-05-18 | 2020-07-18 |
@@ -929,6 +929,7 @@
 | [Ocean](https://open.spotify.com/track/7qMBNOhPfbouXl3JL3k1H4) | [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Ocean](https://open.spotify.com/album/4edIfnHvv2lFzRnUoLnPci) | 7:10 | 2021-12-24 | 2022-06-21 |
 | [Ocean](https://open.spotify.com/track/0m9VQCSZ7S9wlKpD4nRO27) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz), [Carolina Bubbico](https://open.spotify.com/artist/0HWrWCAD8nN3DnbR02wVxW) | [HOPE \(Inspired by 'The Outlaw Ocean' a book by Ian Urbina\)](https://open.spotify.com/album/2kbqvv4io9uEQIgka6Zd45) | 2:58 | 2020-10-13 | 2021-03-06 |
 | [Ocean Liners](https://open.spotify.com/track/4tnMh8E6WvK81ZhJ6IcFSR) | [Zoe Reijue](https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF), [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Ocean Liners](https://open.spotify.com/album/6fGJtRRuKmr8UwvwQp6Vzj) | 6:06 | 2022-01-21 | 2022-07-27 |
+| [Ocean Quiet \(Refeci Remix\)](https://open.spotify.com/track/14EcgkY4YICkFrujD1NdDp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp) | [Ocean Quiet \(Refeci Remix\)](https://open.spotify.com/album/6UafXpT0Y3cnR7jDmM5ft2) | 2:44 | 2023-03-10 |  |
 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 | 2020-05-18 | 2020-07-03 |
 | [Odd One Out](https://open.spotify.com/track/18bDohH2zLgO3oKkyOELgU) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Hyperfall](https://open.spotify.com/album/5C1WWowUnx2d4yIOp1hnIy) | 3:24 | 2020-02-29\* | 2020-07-18 |
 | [Of Sea](https://open.spotify.com/track/3cGYeXxZTPqmxaZ27JUJsD) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/26s1tsgYX1rsNvsjjYmxuc) | 6:04 | 2021-04-03 | 2022-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Bella Shmurda
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,742 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,824 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 46 | [Fire Down](https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [El Major](https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn) | 2:51 |
 | 47 | [Am I a Yahoo Boy](https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Am I a Yahoo Boy](https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL) | 2:28 |
 | 48 | [Instagram](https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Instagram](https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS) | 3:08 |
-| 49 | [South Africa](https://open.spotify.com/track/0hVRvGHLu9WHk16CPNDwbg) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [South Africa](https://open.spotify.com/album/7rFikDvLvosoU23LAz1KuD) | 2:33 |
-| 50 | [If No Be You](https://open.spotify.com/track/1ZKiX93n8VgK0Gh7iqW9Es) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [If No Be You](https://open.spotify.com/album/36pqojgfTE8oOoHoswOgxW) | 3:31 |
-| 51 | [Grace](https://open.spotify.com/track/36pcZx6k9RDQedQHuGfvIo) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Grace](https://open.spotify.com/album/0ULfBwzLPqu4NTSZ4sYjkv) | 3:19 |
-| 52 | [No Advise Me](https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD) | [No Advise Me](https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK) | 2:58 |
+| 49 | [No Advise Me](https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD) | [No Advise Me](https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK) | 2:58 |
+| 50 | [South Africa](https://open.spotify.com/track/0hVRvGHLu9WHk16CPNDwbg) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [South Africa](https://open.spotify.com/album/7rFikDvLvosoU23LAz1KuD) | 2:33 |
+| 51 | [If No Be You](https://open.spotify.com/track/1ZKiX93n8VgK0Gh7iqW9Es) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [If No Be You](https://open.spotify.com/album/36pqojgfTE8oOoHoswOgxW) | 3:31 |
+| 52 | [Grace](https://open.spotify.com/track/36pcZx6k9RDQedQHuGfvIo) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Grace](https://open.spotify.com/album/0ULfBwzLPqu4NTSZ4sYjkv) | 3:19 |
 | 53 | [Shaka](https://open.spotify.com/track/1HN2Q4IyIoJWqEQKeZSWNA) | [Small Doctor](https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Shaka](https://open.spotify.com/album/29shi6mo00EIzN9kejVSI4) | 2:44 |
 | 54 | [Of Lagos](https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Of Lagos](https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l) | 2:45 |
 | 55 | [My Life](https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [My Life](https://open.spotify.com/album/7mkucWU2lfNiqr20iNL5lV) | 2:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [Geng](https://open.spotify.com/track/1pUaknOVFqwYwExrK3K5zv) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Geng](https://open.spotify.com/album/5V40JgTzx7L2GYMAcj7Rdw) | 2:07 |
 | 60 | [Cruise](https://open.spotify.com/track/0Op20pqChmir5R3Pd7rrC2) | [Korra Obidi](https://open.spotify.com/artist/5D7ylBByLFxsmDgJ40qoRn) | [Cruise](https://open.spotify.com/album/01D1nLJp5pNIxNDGjUJd7P) | 3:15 |
 
-Snapshot ID: `MTY3OTAzOTQ1OSwwMDAwMDAwMDYxNmM2MGEzNjI3YWYyZDdiMTc3NWZlOTQwOGU3MmJl`
+Snapshot ID: `MTY3OTAzOTQ1OSwwMDAwMDAwMDVhMjlhODVmMzEwOWRlNzAzMmE2OTAwYzc4Y2RlZTM2`

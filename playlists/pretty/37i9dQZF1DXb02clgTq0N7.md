@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,377 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,483 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,19 +60,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 50 | [Barquillero](https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Barquillero](https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX) | 3:20 |
 | 51 | [El Sinaloense y el Kora](https://open.spotify.com/track/2zmsNHtqzzYhLdHri1cKry) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:27 |
 | 52 | [Está De Parranda El Jefe \- Corrido](https://open.spotify.com/track/6vjrC6SFwlhMDcXp19IBIL) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Corridos Famosos Al Estilo De...](https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm) | 2:45 |
-| 53 | [Aquiles el de Tijuana \(En Vivo\)](https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 3:08 |
-| 54 | [Más Caro, que ayer](https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk) | 2:27 |
-| 55 | [Luis Montes \(aka Luis Montes el de Uruapan\)](https://open.spotify.com/track/5UYoI6KTyoHePfPwvnW2qS) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:55 |
+| 53 | [Luis Montes \(aka Luis Montes el de Uruapan\)](https://open.spotify.com/track/5UYoI6KTyoHePfPwvnW2qS) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:55 |
+| 54 | [Aquiles el de Tijuana \(En Vivo\)](https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 3:08 |
+| 55 | [Más Caro, que ayer](https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk) | 2:27 |
 | 56 | [Botas Blancas](https://open.spotify.com/track/2FRquaTV3ifxdTVgqdHTPA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 2:48 |
 | 57 | [El Tarasco](https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores Vol\. 1](https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap) | 3:09 |
 | 58 | [Yo Fui El Elegante](https://open.spotify.com/track/0rjjeubHWrLp5B8kfXrg0x) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Haciendo Ruido](https://open.spotify.com/album/5crNwercw8bueI9WuxcKAo) | 2:23 |
 | 59 | [El Sinvergüenza \(Con Banda Sinaloense\)](https://open.spotify.com/track/6mtpdwKaX6wQLqOgh6I6ys) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 3:02 |
 | 60 | [La Gran Pachanga](https://open.spotify.com/track/3vXfJ9iAKPGLfy8G7es3bz) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Más Fuerte Que Nunca](https://open.spotify.com/album/7AvxzlH6dLsMeOtZGRKJyX) | 2:47 |
 | 61 | [La Tambora Va A Sonar](https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:36 |
-| 62 | [El Perro](https://open.spotify.com/track/0JjGu0Y6J2hd8TiiUPDnGP) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Perro](https://open.spotify.com/album/6bilXwSkLU99SXKrYzs6Yp) | 2:04 |
-| 63 | [¡Cuidado!](https://open.spotify.com/track/6ytUIXKA3589xJWDF74p3c) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [¡Cuidado!](https://open.spotify.com/album/3gEDPhUTKINuxyFaAaycWE) | 2:50 |
+| 62 | [¡Cuidado!](https://open.spotify.com/track/6ytUIXKA3589xJWDF74p3c) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [¡Cuidado!](https://open.spotify.com/album/3gEDPhUTKINuxyFaAaycWE) | 2:50 |
+| 63 | [Ray02](https://open.spotify.com/track/6ghrwhaBnkhJaEM25wm3s4) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:25 |
 | 64 | [El R\-R](https://open.spotify.com/track/0TptTiZJYohjInL5NFDbNX) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:44 |
-| 65 | [Ray02](https://open.spotify.com/track/6ghrwhaBnkhJaEM25wm3s4) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:25 |
+| 65 | [El Perro](https://open.spotify.com/track/0JjGu0Y6J2hd8TiiUPDnGP) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Perro](https://open.spotify.com/album/6bilXwSkLU99SXKrYzs6Yp) | 2:04 |
 | 66 | [Catarino y los Rurales](https://open.spotify.com/track/2I70vOEwCslFHPgubPRN67) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:15 |
 | 67 | [Clave Privada](https://open.spotify.com/track/1GzuoVH7AOB9lsU8uI7mT0) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 1: Por una Mujer Casada y Otras Rancheras](https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ) | 2:59 |
 | 68 | [La Tambora Va A Sonar](https://open.spotify.com/track/1dnZe0c1EVwHHiEvZy0XFO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Tambora Va A Sonar](https://open.spotify.com/album/5DVeFfpAKt6S9op3tkiaYg) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 74 | [Los Ninis](https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:53 |
 | 75 | [Los Dos Plebes](https://open.spotify.com/track/5qROxEji2ksPXQdEp4X28a) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Los Mejores Corridos y Rancheras](https://open.spotify.com/album/1sLwqqnV64LERipuDvqfHY) | 3:32 |
 
-Snapshot ID: `MTY3NzEwNTQ1NywwMDAwMDAwMGY5ODViZTlkY2ExZjk0ZDZlMWZlNzJlMTUxYTQyZjlk`
+Snapshot ID: `MTY3NzEwNTQ1NywwMDAwMDAwMDA4ZDQ4ODU0YmU3ZTIyNDJlZmJkZDI2NzdjYThkNzg5`

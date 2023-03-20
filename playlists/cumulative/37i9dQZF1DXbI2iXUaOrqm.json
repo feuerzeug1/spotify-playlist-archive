@@ -410,10 +410,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 186746,
       "name": "Flaca (De Cabeza A Los Pies)",
       "url": "https://open.spotify.com/track/7GqzLEwjpTf5WCD0kIRsp8"
+    },
+    {
+      "album": {
+        "name": "Flashbacks",
+        "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Flashbacks",
+      "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
     },
     {
       "album": {

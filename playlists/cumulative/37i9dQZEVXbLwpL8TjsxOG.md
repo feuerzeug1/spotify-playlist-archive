@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-556 songs - 1 day 9 hr 32 min
+557 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Black Mirror](https://open.spotify.com/track/0TlwuwupjmsPcqXOWf9HhI) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [Black Mirror](https://open.spotify.com/album/1J59OLYQYLvZNRIi0YFQ6a) | 2:49 | 2021-11-25 | 2022-01-19 |
 | [Born Singer](https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:58 | 2022-06-11 | 2022-06-13 |
 | [Boss](https://open.spotify.com/track/4xqUroNrreYU2CobUl84NH) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Boss](https://open.spotify.com/album/1ITsvXJZiUbOQGEfdGdMXv) | 4:02 | 2021-06-11 | 2021-09-11 |
+| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-19 |  |
 | [boyfriend material](https://open.spotify.com/track/4Ef7cEjeHhh7vYBzmPq4oE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:30 | 2022-05-21 | 2022-05-23 |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-05-22 | 2021-07-09 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-09-01 |
@@ -237,7 +238,7 @@
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-07-25 | 2021-09-01 |
 | [Pink Ocean](https://open.spotify.com/track/0w8p2STLgLE2VIVYUzAszZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Greatest Works of Art](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:06 | 2022-07-16 | 2022-07-20 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-18 |
-| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2023-02-24 |
+| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 |  |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-25 | 2022-06-27 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-26 | 2022-07-16 |
 | [QUEEN](https://open.spotify.com/track/5PimlePLQd8xdf7uKccHqS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:43 | 2021-09-01 | 2021-09-06 |
@@ -365,10 +366,10 @@
 | [你,好不好? \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛,教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2023-02-27 | 2023-03-03 |
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2023-02-28 | 2023-03-02 |
 | [你把我的](https://open.spotify.com/track/6bJ4x48rEaF6brX20Ho3pY) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [你把我的](https://open.spotify.com/album/4a5X6NxbbpqbtbUnke0KxR) | 2:25 | 2022-07-07 | 2022-10-20 |
-| [你瞞我瞞](https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [Can't Be Half](https://open.spotify.com/album/3VL7eP9OtVVYWHgWLyGQRo) | 3:57 | 2021-03-27\* |  |
+| [你瞞我瞞](https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [Can't Be Half](https://open.spotify.com/album/3VL7eP9OtVVYWHgWLyGQRo) | 3:57 | 2021-03-27\* | 2023-03-20 |
 | [你瞞我瞞 \- From THE FIRST TAKE](https://open.spotify.com/track/5w3SN2UjZRuuvPLAisQuaC) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [你瞞我瞞 \- From THE FIRST TAKE](https://open.spotify.com/album/6R3nshWX358S0cbKfS1fmz) | 3:44 | 2023-01-31 | 2023-02-05 |
 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2021-08-01 | 2022-04-30 |
-| [俏郎君](https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [The Brightest Darkness](https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8) | 4:40 | 2021-03-27\* | 2023-03-18 |
+| [俏郎君](https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [The Brightest Darkness](https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8) | 4:40 | 2021-03-27\* |  |
 | [信之卷](https://open.spotify.com/track/43AAdQfc9dodfuxkcKMZo3) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [信之卷](https://open.spotify.com/album/3RNW4B6DQWb8Bbbq2jCQaP) | 4:34 | 2022-05-15 | 2022-05-29 |
 | [假使世界原來不像你預期](https://open.spotify.com/track/53HxUdYRCRMdzYPG0qhGUP) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [假使世界原來不像你預期](https://open.spotify.com/album/1uIlhInRyOcam9TjlEiGP8) | 4:27 | 2021-03-27\* | 2021-09-04 |
 | [偷情](https://open.spotify.com/track/2E5X5HbBHBUeo2juTSgTMX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [偷情](https://open.spotify.com/album/2zYf27zQAJY1qgPB5plv19) | 3:48 | 2023-01-20 |  |
@@ -410,9 +411,9 @@
 | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/track/4KJi1DpJcn8sYANFF9qZBa) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/album/6pIDMCqVB0GNi3b8GV3gjZ) | 3:47 | 2022-04-16 | 2022-05-17 |
 | [大正浪漫](https://open.spotify.com/track/3uw93CiI34uZlfk8ywep1e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [大正浪漫](https://open.spotify.com/album/4D1e5OPqOqOWhQhiNleOOl) | 2:48 | 2021-09-17 | 2021-09-26 |
 | [太平道](https://open.spotify.com/track/63Hnm2IiSP9VDzJF2WdzCL) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [太平道](https://open.spotify.com/album/5sWnVGDboOP0pCWDZdzVSn) | 4:39 | 2022-09-03 | 2022-09-15 |
-| [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2021-12-24 |  |
+| [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2021-12-24 | 2023-03-20 |
 | [孤單](https://open.spotify.com/track/78CCQf4q1XDiBxNQCU3Tg4) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [孤單](https://open.spotify.com/album/0Vk2WBEn7dT72mv2s1G9bk) | 2:25 | 2023-01-17 | 2023-01-22 |
-| [孤獨病](https://open.spotify.com/track/5Gi88IBuzFwSTAAcYcqpqL) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [孤獨病](https://open.spotify.com/album/4ALkQyRhvV3yhXg9bfqCmY) | 4:13 | 2022-02-17 |  |
+| [孤獨病](https://open.spotify.com/track/5Gi88IBuzFwSTAAcYcqpqL) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [孤獨病](https://open.spotify.com/album/4ALkQyRhvV3yhXg9bfqCmY) | 4:13 | 2022-02-17 | 2023-03-20 |
 | [宋代SAD BOY](https://open.spotify.com/track/7uo5PgFlHaRpdigxdzP0i7) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:53 | 2021-09-01 | 2021-09-02 |
 | [小心地滑](https://open.spotify.com/track/3U1sSlezn9BdzqsEx4VfHT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [小心地滑](https://open.spotify.com/album/3wlXOb1nMLgJr1jz2bTjAm) | 3:59 | 2022-04-15 | 2023-01-22 |
 | [小心地滑](https://open.spotify.com/track/5awK4mHW8B2bCuX8G0Grvb) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 3:59 | 2023-01-21 |  |

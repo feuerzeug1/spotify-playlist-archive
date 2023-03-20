@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [30 Monedas](https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [30 Monedas](https://open.spotify.com/album/3KaJD0ChIaLSxCi4jM23a6) | 3:40 | 2021-12-21 | 2023-01-28 |
+| [30 Monedas](https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [30 Monedas](https://open.spotify.com/album/3KaJD0ChIaLSxCi4jM23a6) | 3:40 | 2021-12-21 |  |
 | [A Beber Ron](https://open.spotify.com/track/7jDxZOrNK2oUstpupqrEko) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [De Vuelta Atrás](https://open.spotify.com/album/7thrKGgXnGuF3a9ArQFdwq) | 4:30 | 2021-12-21 | 2022-07-16 |
 | [A Rianxeira](https://open.spotify.com/track/5bnz3fQJMiu8WsIAM5UZdf) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO), [Os Almirantes](https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL), [Alvarino](https://open.spotify.com/artist/66nV2rjaXypopvC4tOEsCy) | [A Rianxeira](https://open.spotify.com/album/796dod5MMuXxHfLhYKAbuP) | 3:09 | 2022-09-11 | 2022-12-17 |
 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 | 2022-04-01 | 2022-07-23 |
@@ -74,7 +74,7 @@
 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 | 2021-12-21 |  |
 | [El Matador](https://open.spotify.com/track/5a12LL01YPhltXHeuWjSnG) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- El Matador](https://open.spotify.com/album/6Cs28zIAqIa4ni3nlU73bu) | 4:37 | 2021-12-21 | 2022-07-29 |
 | [El Mono Relojero](https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [A 15 Cm De La Realidad](https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX) | 3:52 | 2021-12-21 | 2022-07-15 |
-| [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 | 2021-12-21 |  |
+| [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 | 2021-12-21 | 2023-03-20 |
 | [El Ska de Lolo Mario](https://open.spotify.com/track/3lMV5bSZOavnLlWXXNi8fx) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 2:13 | 2021-12-21 | 2022-07-26 |
 | [El Super Heroe](https://open.spotify.com/track/0LIvsHX7pShjl2fpHHSAL5) | [Cafe Con Tequila](https://open.spotify.com/artist/62aU5j4IyKvoyOw7Sh27ZZ) | [Cafe Con Tequila](https://open.spotify.com/album/1hPYk1JG3LK0Bv5k1xcnv7) | 3:57 | 2021-12-21 | 2022-04-19 |
 | [El Vals del Obrero](https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:37 | 2021-12-21 |  |

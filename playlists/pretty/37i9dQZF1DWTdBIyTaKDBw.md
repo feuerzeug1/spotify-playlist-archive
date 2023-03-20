@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,213 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,266 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 29 | [Waters of March](https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:37 |
 | 30 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:30 |
 | 31 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
-| 32 | [Fairy Of Shampoo](https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD) | [Junggigo Trio](https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL) | [Junggigo Sings Brazil](https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K) | 4:57 |
-| 33 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 |
+| 32 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 |
+| 33 | [Fairy Of Shampoo](https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD) | [Junggigo Trio](https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL) | [Junggigo Sings Brazil](https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K) | 4:57 |
 | 34 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 35 | [We are all Muse \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:27 |
 | 36 | [How Is It?](https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [How Is It?](https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v) | 3:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 |
 | 70 | [Carpet](https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Carpet \- SM STATION](https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH) | 3:42 |
 
-Snapshot ID: `MTY3NzIzNDkyOSwwMDAwMDAwMGJjOTE0M2MwMmQyMGZkZDEwMjY3ZGU5NGYyMGY5YTY2`
+Snapshot ID: `MTY3NzIzNDkyOSwwMDAwMDAwMDQ4ZGNkZDgwMzRiNjUzZjlkMGVlN2NlZTI2MTg1Y2Qz`

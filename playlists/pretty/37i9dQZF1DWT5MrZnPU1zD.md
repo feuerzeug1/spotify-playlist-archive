@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,660,416 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,660,536 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 52 | [Dirt](https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dirt](https://open.spotify.com/album/2sqLz4jIy1GU7tVXMqxgD2) | 3:19 |
 | 53 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 |
 | 54 | [Blessing](https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Blessing](https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT) | 2:24 |
-| 55 | [JOC IN '06](https://open.spotify.com/track/4ZyivnzrvDWRjihgqxvXK8) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [JOC IN '06](https://open.spotify.com/album/1MKP8nlWJpWP5iaeorPkfr) | 2:50 |
-| 56 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 |
+| 55 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 |
+| 56 | [JOC IN '06](https://open.spotify.com/track/4ZyivnzrvDWRjihgqxvXK8) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [JOC IN '06](https://open.spotify.com/album/1MKP8nlWJpWP5iaeorPkfr) | 2:50 |
 | 57 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 |
 | 58 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 |
 | 59 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 89 | [Haitian Scarface](https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Scarface](https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP) | 2:25 |
 | 90 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 |
 | 91 | [No More Friends](https://open.spotify.com/track/2kMuUWfsueRPYWxyaTSHd8) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No More Friends](https://open.spotify.com/album/1SFwQzKhMvB5rPmXpeRvYl) | 2:01 |
-| 92 | [Ok Ok Ok](https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Ok Ok Ok](https://open.spotify.com/album/0Nvk4UP0jdf2sf7OL2WFVs) | 2:16 |
-| 93 | [Robbery](https://open.spotify.com/track/4fHwoYTU9sy539FSX7fv1j) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery](https://open.spotify.com/album/5Fr4WRmEtwWsIxvexjotiy) | 2:24 |
-| 94 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:53 |
+| 92 | [Robbery](https://open.spotify.com/track/4fHwoYTU9sy539FSX7fv1j) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery](https://open.spotify.com/album/5Fr4WRmEtwWsIxvexjotiy) | 2:24 |
+| 93 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:53 |
+| 94 | [Ok Ok Ok](https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Ok Ok Ok](https://open.spotify.com/album/0Nvk4UP0jdf2sf7OL2WFVs) | 2:16 |
 | 95 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 |
 | 96 | [Paper Route \(ft\. Young Dolph\)](https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Mention My Name](https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB) | 3:23 |
 | 97 | [Falsetto \(feat\. Lil Tecca\)](https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We All We Got](https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 |
 | 100 | [It's All on U](https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [It's All on U](https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy) | 2:46 |
 
-Snapshot ID: `MTY3ODczMjAyNywwMDAwMDAwMGI4NzY3ZTE0ZTFkMGNlZDdkNDA3NmQ0MzYyYTk2OWQ2`
+Snapshot ID: `MTY3ODczMjAyNywwMDAwMDAwMDEyMzk3NWU2ZjgyNzJmNGIzOTdkMjhkZTAwMGIzYmZk`

@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-139 songs - 8 hr 20 min
+140 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,8 +93,9 @@
 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 | 2023-01-31 |  |
 | [Love Somebody](https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [True Beauty](https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re) | 3:48 | 2020-04-17 | 2023-03-16 |
 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 | 2020-04-17 |  |
+| [Love Will Never Fail \(I Corinthians 13\)](https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY) | [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [Love Will Never Fail](https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h) | 3:19 | 2023-01-31 |  |
 | [Love&Adoration](https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Love&Adoration](https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ) | 2:23 | 2023-01-31 |  |
-| [Loving A Person \- Reimagined](https://open.spotify.com/track/1NYmaX6ByXEUdhojO01jMu) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [What Makes It Through](https://open.spotify.com/album/4YFHM5vLJLbBFCS0nhC0mi) | 3:57 | 2023-01-31 |  |
+| [Loving A Person \- Reimagined](https://open.spotify.com/track/1NYmaX6ByXEUdhojO01jMu) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [What Makes It Through](https://open.spotify.com/album/4YFHM5vLJLbBFCS0nhC0mi) | 3:57 | 2023-01-31 | 2023-03-20 |
 | [Loving You Is Easy](https://open.spotify.com/track/0DAsVgknn6x7mIxSFZmb8Y) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [No Far Away \(Deluxe Edition\)](https://open.spotify.com/album/0ykkM1g0LTI6THdyfoclv0) | 3:08 | 2020-04-17 | 2022-07-29 |
 | [Loving You Is Easy](https://open.spotify.com/track/1HuGBQWHagNJLx57lp1rcP) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [No Far Away](https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA) | 3:08 | 2020-04-17 |  |
 | [Meant to Be](https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Meant to Be](https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY) | 3:06 | 2020-04-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Temples on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,819 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,971 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 11 | [Yègellé Tezeta](https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:14 |
 | 12 | [Ice V](https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice, Death, Planets, Lungs, Mushrooms And Lava](https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s) | 10:15 |
 | 13 | [Sally Go Round the Sun](https://open.spotify.com/track/16k2KM42CJEZ8uOC4v1vGV) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Elephant Stone](https://open.spotify.com/album/41HLlu4L2IDH7n9rHk8Yix) | 1:44 |
-| 14 | [Fuzz Jam](https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:26 |
+| 14 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 |
 | 15 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
-| 16 | [Veni Vidi Vici](https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:28 |
+| 16 | [Fuzz Jam](https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:26 |
 | 17 | [Smoke and Mirrors](https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Forest of Lost Children](https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA) | 7:16 |
 | 18 | [Gondii](https://open.spotify.com/track/6P7FJBspEtLcqjzltUv74y) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Changes](https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD) | 4:56 |
 | 19 | [Roky Said](https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO) | [Dead Ghosts](https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp) | [Can't Get No](https://open.spotify.com/album/3CR6BO7eoOV25e1m6bXkla) | 3:16 |
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 57 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
 | 58 | [Seven Eight](https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [A Song For Paul](https://open.spotify.com/album/0w6knr7boQarN35qErXXeu) | 3:12 |
 | 59 | [Nànnuflày](https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 5:03 |
-| 60 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
-| 61 | [Todo Bien](https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:33 |
-| 62 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 |
+| 60 | [Todo Bien](https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:33 |
+| 61 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 |
+| 62 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
 | 63 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 |
 | 64 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
 | 65 | [Venus](https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk) | [The Exorcist GBG](https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV) | [The Exorcist GBG](https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu) | 2:54 |
 | 66 | [Human Touch](https://open.spotify.com/track/4YlOq4SkgNgI3gbSsUTDRl) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9](https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS) | 3:20 |
-| 67 | [Silbury Sands](https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Steeple](https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY) | 5:18 |
-| 68 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 |
+| 67 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 |
+| 68 | [Silbury Sands](https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Steeple](https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY) | 5:18 |
 | 69 | [Döngüm](https://open.spotify.com/track/2OvQx1RIx6Ymys51lH87xJ) | [Journers](https://open.spotify.com/artist/1poI3l63ENJgUiWAKGv2Sp), [Burak Yeşildurak](https://open.spotify.com/artist/3qM6QIAv4X4nCNZd69VFgA), [Metin Akdülger](https://open.spotify.com/artist/0FEcDP4V2l2ktoG1DQL5Qr) | [Döngüm](https://open.spotify.com/album/5LlPU1YsCMCIDhqQgjWmz7) | 4:30 |
 | 70 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
 | 71 | [Marihuana](https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 74 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
 | 75 | [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 |
 
-Snapshot ID: `MTY3ODk5OTgyMCwwMDAwMDAwMDQ1MTE2OTFmYmU2MzIyNTZkNDkxOGE3YWUwNWI2Njhl`
+Snapshot ID: `MTY3ODk5OTgyMCwwMDAwMDAwMGI2ZGVlM2E3N2FhOTZhYjIwMGZlNzk0MDAzYTE5YWRh`

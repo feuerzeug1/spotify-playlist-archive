@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Central 3, Laura Souguellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,520 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,559 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 32 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 |
 | 33 | [Santo \- Ao Vivo](https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP) | 8:56 |
 | 34 | [Escolho Ser Fiel](https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro](https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz) | 4:10 |
-| 35 | [Mente Brilhante](https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Mente Brilhante](https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy) | 5:07 |
-| 36 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 |
+| 35 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 |
+| 36 | [Mente Brilhante](https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Mente Brilhante](https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy) | 5:07 |
 | 37 | [Coração de Pedra](https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Adriano Daga](https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:42 |
 | 38 | [Uma Carta de Amanhã](https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D) | [Felipe Ramos](https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX) | [Uma Carta de Amanhã](https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ) | 3:51 |
 | 39 | [Peregrino](https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Peregrino](https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG) | 4:18 |
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 47 | [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 |
 | 48 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 |
 | 49 | [Náufrago](https://open.spotify.com/track/4S59qX21KI984gd80DhHCx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Hoje](https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z) | 4:04 |
-| 50 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 |
-| 51 | [Te Seguirei](https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Te Seguirei](https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E) | 4:50 |
-| 52 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
-| 53 | [Mateus 6:6](https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [Mateus 6:6](https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH) | 4:53 |
+| 50 | [Te Seguirei](https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Te Seguirei](https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E) | 4:50 |
+| 51 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 |
+| 52 | [Mateus 6:6](https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [Mateus 6:6](https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH) | 4:53 |
+| 53 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
 | 54 | [Única Paz](https://open.spotify.com/track/28NSQr1LYImH2Avvk06oYV) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k), [Fruto Sagrado](https://open.spotify.com/artist/0tuvLFT4ZHTJ17rrBP0K5K) | [Única Paz](https://open.spotify.com/album/5nkSbqUiUnqxU6WGN0BHI3) | 4:39 |
-| 55 | [Não Há Variação](https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ) | [Redentto](https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj) | [Não Há Variação](https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr) | 4:25 |
+| 55 | [Meu Valor](https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Meu Valor](https://open.spotify.com/album/14cm8GwOnHa5GaLAl0pHMJ) | 2:53 |
 | 56 | [Sua Glória](https://open.spotify.com/track/3LbpF0O7PyFNhz1pZyjFsB) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Sua Glória](https://open.spotify.com/album/6K1HD84eh9d8xLSEjOzyAU) | 7:53 |
 | 57 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 |
-| 58 | [Meu Valor](https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Meu Valor](https://open.spotify.com/album/14cm8GwOnHa5GaLAl0pHMJ) | 2:53 |
+| 58 | [Não Há Variação](https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ) | [Redentto](https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj) | [Não Há Variação](https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr) | 4:25 |
 | 59 | [Socorre\-Me](https://open.spotify.com/track/2cHtur9bWnYwsq6pbuJT1i) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Quarantine Session](https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw) | 3:01 |
 | 60 | [Sobre as Águas](https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Exílio](https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed) | 4:39 |
 | 61 | [Simplesmente](https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Profundo](https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc) | 5:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Canta Minha'alma \(Behold\) \- Live Session](https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro Henrique: Live Session {Lado B}](https://open.spotify.com/album/2Y8CQnkB62SbJenuBxurcu) | 6:42 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDNlMDNmN2I1ZTFkZWZjMDg2NTQ0YmYwOTM2Nzk3ZWY0`
+Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDkyZDY3OTdiZWY4NjQ5NDk0MWRkYTM3MmJmNDM4Nzk2`

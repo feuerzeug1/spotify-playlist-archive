@@ -636,7 +636,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 165004,
       "name": "Addict",
       "url": "https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb"
@@ -2543,6 +2543,28 @@
     },
     {
       "album": {
+        "name": "Because The Night",
+        "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201330,
+      "name": "Because The Night",
+      "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
+    },
+    {
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -3164,7 +3186,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 230571,
       "name": "Blame Myself",
       "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
@@ -3904,7 +3926,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 198759,
       "name": "But Not Tonight (Gigi Dag & Luca Noise Dance Mix)",
       "url": "https://open.spotify.com/track/1PBZ77D3S8Ist2Fvifucy4"
@@ -3978,6 +4000,28 @@
       "duration_ms": 172593,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/5HvLngRXLt2sEQvViYVsvR"
+    },
+    {
+      "album": {
+        "name": "By My Side (feat. Anthony Valadez)",
+        "url": "https://open.spotify.com/album/5SaunZEkzpXuY7R8GKpFkV"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Anthony Valadez",
+          "url": "https://open.spotify.com/artist/1q6CJpl89vkfPuYnRqKl5H"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157949,
+      "name": "By My Side (feat. Anthony Valadez)",
+      "url": "https://open.spotify.com/track/6eSWdCAvzD4danVK3OlqYU"
     },
     {
       "album": {
@@ -5134,7 +5178,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-03-06",
+      "date_removed": null,
       "duration_ms": 209761,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2kOH6869hEfccaUuR4jFMu"
@@ -7068,7 +7112,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 157338,
       "name": "Don't Hide",
       "url": "https://open.spotify.com/track/5Ddp5V1M84fKmXbtDhASu0"
@@ -9190,7 +9234,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2020-12-10",
+      "date_removed": null,
       "duration_ms": 235562,
       "name": "Finally Ready (feat. Billy Porter) - David Penn Remix",
       "url": "https://open.spotify.com/track/1iorKFVLmIetGK49hoOoK3"
@@ -10508,7 +10552,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 269149,
       "name": "Glue",
       "url": "https://open.spotify.com/track/5ZYAufbhkzyhLxk0u2uLqj"
@@ -14480,7 +14524,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2020-05-27",
+      "date_removed": null,
       "duration_ms": 296226,
       "name": "Jalisco",
       "url": "https://open.spotify.com/track/0xaAxijxtuzHb67Ai1kouN"
@@ -16426,7 +16470,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 222720,
       "name": "Looking For",
       "url": "https://open.spotify.com/track/2CuAhhmXRqvWPTEDNTh6mk"
@@ -18766,7 +18810,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-12",
+      "date_removed": null,
       "duration_ms": 175500,
       "name": "Never Been Better",
       "url": "https://open.spotify.com/track/0EVbZWxLOZT1siPMzEGNwc"
@@ -19270,7 +19314,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2020-08-03",
+      "date_removed": null,
       "duration_ms": 173339,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/13J1DIbQaGs1Qb91rF8BEH"
@@ -20056,7 +20100,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2020-10-12",
+      "date_removed": null,
       "duration_ms": 204026,
       "name": "Old Town Road - Diplo Remix",
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
@@ -20380,7 +20424,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2020-06-01",
+      "date_removed": null,
       "duration_ms": 240383,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
@@ -21634,7 +21678,7 @@
       ],
       "date_added": "2021-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 226266,
       "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
       "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
@@ -22752,7 +22796,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2020-05-27",
+      "date_removed": null,
       "duration_ms": 170740,
       "name": "Rollerblade",
       "url": "https://open.spotify.com/track/1hz0SWhLPWKqpGiEBnWFpm"
@@ -24050,7 +24094,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-12",
+      "date_removed": null,
       "duration_ms": 343478,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/1vEZowSqrFbit7x1Gx092r"
@@ -24076,7 +24120,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2020-12-10",
+      "date_removed": null,
       "duration_ms": 184911,
       "name": "She Will Be Loved",
       "url": "https://open.spotify.com/track/6OEtf9kBSRNOVYAaFWl3Eg"
@@ -24402,7 +24446,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 184285,
       "name": "Sing It",
       "url": "https://open.spotify.com/track/3g5uTRDCdcUgylKH4wmkTW"
@@ -24652,7 +24696,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 213007,
       "name": "So What",
       "url": "https://open.spotify.com/track/0H6hQg7DnEIqnfzPsgNVPi"
@@ -24882,7 +24926,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 178536,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"
@@ -25080,7 +25124,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 232211,
       "name": "Soul Sacrifice",
       "url": "https://open.spotify.com/track/01fVbxyW9y2oKdXvg56uE5"
@@ -26384,7 +26428,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 197502,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
@@ -26676,7 +26720,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
@@ -26830,7 +26874,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 187491,
       "name": "Tell You What It Is",
       "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
@@ -28342,7 +28386,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 220560,
       "name": "Turn On the Bass",
       "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
@@ -29006,7 +29050,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-08",
+      "date_removed": null,
       "duration_ms": 145840,
       "name": "Used To Know Me",
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
@@ -30026,7 +30070,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
@@ -31474,6 +31518,28 @@
       "duration_ms": 126532,
       "name": "You Know",
       "url": "https://open.spotify.com/track/0upmhqjGvyv5E3kmcFls4q"
+    },
+    {
+      "album": {
+        "name": "We Are Your Friends (Music From The Original Motion Picture/Deluxe)",
+        "url": "https://open.spotify.com/album/5K8G20hlOgEWIIZRUrclRa"
+      },
+      "artists": [
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304333,
+      "name": "You Know You Like It - Tchami Remix",
+      "url": "https://open.spotify.com/track/6aQNsGH7p7VCFJ4zgO0MeY"
     },
     {
       "album": {

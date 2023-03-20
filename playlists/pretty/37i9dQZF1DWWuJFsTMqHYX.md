@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,450 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,780 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 40 | [Manden Mandinkadenou \(Chant de griot\)](https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY) | [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6), [Nana Kouyate](https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0), [Tanti Kouyaté](https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [The Routes of Slavery](https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp) | 4:41 |
 | 41 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |
 | 42 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 |
-| 43 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
+| 43 | [Arghane Manine](https://open.spotify.com/track/1lH8iTfrXyg2RFNbRT4sgO) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Kel Tinariwen](https://open.spotify.com/album/4flAylJfbXX7DVPH7oaS6d) | 5:00 |
 | 44 | [Bonheur](https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Samba](https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN) | 5:38 |
 | 45 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
 | 46 | [Midiwan](https://open.spotify.com/track/3uQZlQyED9BvADK1JWXIzl) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/2Gm3Wy05MApR47NZmRo1DW) | 3:42 |
 | 47 | [Fransa](https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Black Tenere](https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b) | 4:41 |
 | 48 | [Mariama Kaba](https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 5:38 |
 | 49 | [Penda Djiga](https://open.spotify.com/track/0ra3K6wNCFVYTu2AFsmiR7) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Penda Djiga](https://open.spotify.com/album/4eIINnCLgKF5hUcXyk0dIE) | 4:32 |
-| 50 | [Arghane Manine](https://open.spotify.com/track/1lH8iTfrXyg2RFNbRT4sgO) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Kel Tinariwen](https://open.spotify.com/album/4flAylJfbXX7DVPH7oaS6d) | 5:00 |
+| 50 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
 
-Snapshot ID: `MTY3NTY3OTIzNCwwMDAwMDAwMDg2OTM0MGY2NThmMWYzOGEzOTdhNjQzNDk4OTIzZDNi`
+Snapshot ID: `MTY3NTY3OTIzNCwwMDAwMDAwMDFlOGVhYWUwZmM4ZGNhZjc0OGNjYjIyZjNlYzk2MDNj`

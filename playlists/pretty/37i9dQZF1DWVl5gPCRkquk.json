@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 864151,
+  "num_followers": 864258,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDhkYTZmZGZlMTdjNTkzZDU5ZDBiMjE3NWQwZmM3Mzdl",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDhkYTgzNzU4MDgzNTExNTY3MTc4YzNhNTg0MTQ2YzAz",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Way Back Home",
-        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 214361,
-      "name": "The Way Back Home",
-      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 259253,
       "name": "NFWMB",
       "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 214361,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Tragic Magic",
+      "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 215040,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Tragic Magic",
-      "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Song For The Thankful",
         "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 234799,
       "name": "Song For The Thankful",
       "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 226258,
+      "name": "The Solitude",
+      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Witness Trees",
-        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 160821,
-      "name": "Witness Trees",
-      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 265387,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Witness Trees",
+        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 160821,
+      "name": "Witness Trees",
+      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Feel Alive Again",
-      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 206013,
       "name": "Cool Jam",
       "url": "https://open.spotify.com/track/7uMh3fweKrgDOtnMoxp3O4"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Feel Alive Again",
+      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Adeline",
-        "url": "https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 188824,
-      "name": "Adeline",
-      "url": "https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Adeline",
+        "url": "https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 188824,
+      "name": "Adeline",
+      "url": "https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "& I'm Fine Today",
+        "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 183205,
+      "name": "Jah Werx",
+      "url": "https://open.spotify.com/track/0epaptkWK7BHkHJheQJtZ4"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 242400,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7xD1cDSRz033zGBBTW6z2q"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "& I'm Fine Today",
-        "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 183205,
-      "name": "Jah Werx",
-      "url": "https://open.spotify.com/track/0epaptkWK7BHkHJheQJtZ4"
     },
     {
       "added_at": "2023-03-17 04:00:00",

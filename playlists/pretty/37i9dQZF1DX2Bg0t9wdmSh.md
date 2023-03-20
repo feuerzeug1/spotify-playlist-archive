@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,116 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,125 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 34 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 |
 | 35 | [No More Parties](https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [No More Parties](https://open.spotify.com/album/5pPKR7VufPAbF18RUYB0eP) | 2:20 |
 | 36 | [Stay Down \(with 6LACK & Young Thug\)](https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Stay Down \(with 6LACK & Young Thug\)](https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU) | 2:49 |
-| 37 | [When Tony Met Sosa](https://open.spotify.com/track/4ahc42KacGWjE3j0DPNSK5) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [The Plugs I Met 2](https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj) | 2:21 |
-| 38 | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr) | 3:20 |
+| 37 | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr) | 3:20 |
+| 38 | [When Tony Met Sosa](https://open.spotify.com/track/4ahc42KacGWjE3j0DPNSK5) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [The Plugs I Met 2](https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj) | 2:21 |
 | 39 | [Guard Up](https://open.spotify.com/track/4oPPNAmPSAwrfvT2I9VGHy) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Shiesty Season](https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV) | 3:12 |
 | 40 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
 | 41 | [Aspen](https://open.spotify.com/track/2u8rtHHaBCnhS2qKu9jVgL) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dum and Dummer 2](https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 49 | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp) | [Lil Duval](https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ), [Charlamagne Tha God](https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv) | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG) | 2:51 |
 | 50 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U) | 3:31 |
 
-Snapshot ID: `MTY2NDY0MDU5NiwwMDAwMDAwMDlmMDkyNTZkZTFlNzdkZjNkY2NhM2E1NWRkN2RkYzQ5`
+Snapshot ID: `MTY2NDY0MDU5NiwwMDAwMDAwMDE2Y2Y0YTBlZWM3ODVhZWVhZmQ3YmUwMjY0YzU0ZGMx`

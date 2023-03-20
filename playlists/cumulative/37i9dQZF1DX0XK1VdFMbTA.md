@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-847 songs - 2 day 11 hr 10 min
+848 songs - 2 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,7 +765,8 @@
 | [Thick as a Brick \(Pt\. I\) \- 1997 Remaster](https://open.spotify.com/track/0eufeeCADKlpxLA7HATWBW) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Thick as a Brick](https://open.spotify.com/album/1ZxChDw03SUFGUz0RC8A8M) | 22:40 | 2022-01-05 |  |
 | [Things Goin' On](https://open.spotify.com/track/3ncge3MnlzfSvV7AQrbtTG) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced 'Leh\-'Nérd 'Skin\-'Nérd \(Expanded Edition\)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw) | 4:59 | 2022-01-05 |  |
 | [Things I Could Be](https://open.spotify.com/track/3PC3bIYidHlGiNblUzwpyp) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Thirds](https://open.spotify.com/album/0QoD6z28TltvI4pVY4bEGl) | 4:18 | 2022-01-05 | 2022-07-28 |
-| [This Flight Tonight](https://open.spotify.com/track/2oMCe4LZnMhuKrUig6rFKl) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Classics Volume 16](https://open.spotify.com/album/5AI2JZ9ONeFfYzqaIxH226) | 3:22 | 2022-01-05 |  |
+| [This Flight Tonight](https://open.spotify.com/track/2oMCe4LZnMhuKrUig6rFKl) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Classics Volume 16](https://open.spotify.com/album/5AI2JZ9ONeFfYzqaIxH226) | 3:22 | 2022-01-05 | 2023-03-20 |
+| [This Flight Tonight](https://open.spotify.com/track/07o4FSeAOX1vTK15OXwojs) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Loud 'N' Proud \(Expanded Edition\)](https://open.spotify.com/album/1Q6OqKX8MLO7MIJbOWlBRJ) | 3:24 | 2022-11-17 |  |
 | [This Flight Tonight \- 2010 \- Remaster](https://open.spotify.com/track/0pil72Ler9FDlYA9KY8QRr) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Loud 'N' Proud](https://open.spotify.com/album/6Lmw5NIOOsTveqDenz7w8u) | 3:24 | 2022-01-05 | 2022-07-29 |
 | [This Time Tomorrow](https://open.spotify.com/track/1LjPCQHkAYnJbQUgSoHaye) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 3:21 | 2022-01-05 | 2022-09-04 |
 | [This Time Tomorrow \(Stereo\) \- 2014 Remastered Version](https://open.spotify.com/track/1hlfAVmWBxdpUp4PK658rR) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy \(Super Deluxe\)](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 3:24 | 2022-01-05 | 2022-09-12 |

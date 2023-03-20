@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 328273,
+  "num_followers": 328364,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDZhODE0ZDNmNGI5NmUxYmRkNjkwYTAxZGIzZWIyYTc0",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMGU1MmJjMjZhYzg2ZDNiNmI5YmY1NmI1NTNhMWQwZjQ5",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Bach Reworks (Pt. 2)",
-        "url": "https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ"
-      },
-      "artists": [
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "Prelude in G Major",
-      "url": "https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "A Bad Dream That Will Pass Away",
         "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 176000,
       "name": "A Bad Dream That Will Pass Away",
       "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Bach Reworks (Pt. 2)",
+        "url": "https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Prelude in G Major",
+      "url": "https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Gdansk",
+        "url": "https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 147314,
+      "name": "Gdansk",
+      "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Fluttering",
         "url": "https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 108461,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Gdansk",
-        "url": "https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 147314,
-      "name": "Gdansk",
-      "url": "https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Correlations (on 11 pianos)",
-        "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cipa",
-          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "I wanted you to know (on Yamaha Upright, 1981)",
-      "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Bells",
         "url": "https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 201901,
       "name": "Bells",
       "url": "https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Correlations (on 11 pianos)",
+        "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "I wanted you to know (on Yamaha Upright, 1981)",
+      "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Pr\u00e9lude",
-        "url": "https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 171608,
-      "name": "Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "how we sleep",
         "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 171608,
+      "name": "Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -903,34 +903,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
+        "name": "night walk",
+        "url": "https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK"
       },
       "artists": [
         {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+          "name": "Vontmer",
+          "url": "https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI"
         }
       ],
-      "duration_ms": 182805,
-      "name": "how we sleep",
-      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dagdraumur",
-      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
+      "duration_ms": 194517,
+      "name": "night walk",
+      "url": "https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -951,34 +935,34 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "night walk",
-        "url": "https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK"
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
       },
       "artists": [
         {
-          "name": "Vontmer",
-          "url": "https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
         }
       ],
-      "duration_ms": 194517,
-      "name": "night walk",
-      "url": "https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9"
+      "duration_ms": 187200,
+      "name": "Dagdraumur",
+      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
     },
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The Lost",
-        "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
       },
       "artists": [
         {
-          "name": "Otto A. Totland",
-          "url": "https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl"
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
         }
       ],
-      "duration_ms": 207053,
-      "name": "Anona",
-      "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
+      "duration_ms": 182805,
+      "name": "how we sleep",
+      "url": "https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -999,6 +983,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "The Lost",
+        "url": "https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT"
+      },
+      "artists": [
+        {
+          "name": "Otto A. Totland",
+          "url": "https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Anona",
+      "url": "https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Untouched Rainforest, Pt.3",
         "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "orange sky",
-        "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
-      },
-      "artists": [
-        {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
-        }
-      ],
-      "duration_ms": 190670,
-      "name": "orange sky",
-      "url": "https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Void (I Play Mine version)",
         "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 159000,
       "name": "The Void - I Play Mine version",
       "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "orange sky",
+        "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 190670,
+      "name": "orange sky",
+      "url": "https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Across Borders",
+        "url": "https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Across Borders",
+      "url": "https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "A Cloud Passed",
         "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 253169,
       "name": "Some Other Place",
       "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Across Borders",
-        "url": "https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG"
-      },
-      "artists": [
-        {
-          "name": "Jozef De Schutter",
-          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Across Borders",
-      "url": "https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Echoes In The Valley",
-        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 202288,
-      "name": "Billow Gently",
-      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "9-Feb-2022 \"All For E\"",
         "url": "https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 244937,
       "name": "9-Feb-2022 \"All For E\"",
       "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Echoes In The Valley",
+        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 202288,
+      "name": "Billow Gently",
+      "url": "https://open.spotify.com/track/4PnYYqdB5CasOKBFm02CAe"
     },
     {
       "added_at": "2022-09-20 13:39:53",

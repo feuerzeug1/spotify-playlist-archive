@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Welcome to Hell II",
+        "url": "https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz"
+      },
+      "artists": [
+        {
+          "name": "Felipe Fella",
+          "url": "https://open.spotify.com/artist/4fINHdoufNssJ32yLC3NsK"
+        },
+        {
+          "name": "cesco.",
+          "url": "https://open.spotify.com/artist/1KVp24r2N0WPNNa7HSh0OG"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "All My Dogs",
+      "url": "https://open.spotify.com/track/6VBvc1SHws6dNgVHNYRsVu"
+    },
+    {
+      "album": {
         "name": "All The Time",
         "url": "https://open.spotify.com/album/0QBrRX6aMDz7SxzEvHXCv5"
       },
@@ -38,10 +60,54 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 166443,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/5By6A6jdZiJ9j3YION9hQW"
+    },
+    {
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/4JzfgP4l8bmmUG0hfoZIpd"
+      },
+      "artists": [
+        {
+          "name": "MUUS",
+          "url": "https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222374,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/2pqBgFAxdgVXcmtG16SB5O"
+    },
+    {
+      "album": {
+        "name": "Baby again..",
+        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319963,
+      "name": "Baby again..",
+      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
     },
     {
       "album": {
@@ -99,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Believe In Music",
+        "url": "https://open.spotify.com/album/0Ylixg5nZtbN9HCeRdxb3n"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Believe In Music",
+      "url": "https://open.spotify.com/track/3xZcJMwrpm65gGTfA3ngL1"
+    },
+    {
+      "album": {
         "name": "Ye Swan",
         "url": "https://open.spotify.com/album/6e7RdnaEd4Q4HxH4P2wuxe"
       },
@@ -110,7 +194,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 302325,
       "name": "Black Swan",
       "url": "https://open.spotify.com/track/4XakrAsCDt8dQEw9DwnTvB"
@@ -371,6 +455,28 @@
     },
     {
       "album": {
+        "name": "Ferda",
+        "url": "https://open.spotify.com/album/6F1ehz6wqX9Cxrg3jidwtW"
+      },
+      "artists": [
+        {
+          "name": "Avenue",
+          "url": "https://open.spotify.com/artist/593tl1pc0kps0wJkyn08O3"
+        },
+        {
+          "name": "Sadyouth",
+          "url": "https://open.spotify.com/artist/5LGSEONWZJAypWMrt0yDnx"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226874,
+      "name": "Ferda",
+      "url": "https://open.spotify.com/track/4OmDuXbT6ik5kHvzuKAAEw"
+    },
+    {
+      "album": {
         "name": "Pam Pam",
         "url": "https://open.spotify.com/album/1cdc1XeYkT0YTEYHsh97SU"
       },
@@ -422,7 +528,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 218880,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4kvUFWcraZeRn2jFMBeJjN"
@@ -654,7 +760,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 214153,
       "name": "In My Brain",
       "url": "https://open.spotify.com/track/75VaEHJpYnWtHj7CenYbf8"
@@ -694,6 +800,28 @@
       "duration_ms": 212987,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/1ktkHmRDSvH971zF5Re1Ha"
+    },
+    {
+      "album": {
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
     },
     {
       "album": {
@@ -807,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
+    },
+    {
+      "album": {
         "name": "Messiah",
         "url": "https://open.spotify.com/album/0AktL0F0nhUNAG2jTxj5rq"
       },
@@ -818,7 +964,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 182440,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/6KqaitakrynOXlmjy6CSmp"
@@ -869,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Welcome to Hell II",
+        "url": "https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz"
+      },
+      "artists": [
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "My Bank",
+      "url": "https://open.spotify.com/track/3SnzEIFjDfjTSN60Ebkv0q"
+    },
+    {
+      "album": {
         "name": "Orient Express",
         "url": "https://open.spotify.com/album/2ZeA0rOASQLqhn8WSKCNqT"
       },
@@ -880,7 +1044,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 166540,
       "name": "Orient Express",
       "url": "https://open.spotify.com/track/293qKOjripajaL2vyZnJkX"
@@ -920,7 +1084,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 217157,
       "name": "Pitch Thing",
       "url": "https://open.spotify.com/track/6Kea7kd9xbq4bAgEp1srdN"
@@ -960,7 +1124,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 185196,
       "name": "Preach",
       "url": "https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m"
@@ -1124,10 +1288,28 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 255234,
       "name": "Six Figures",
       "url": "https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ"
+    },
+    {
+      "album": {
+        "name": "Sombrero Galaxy",
+        "url": "https://open.spotify.com/album/6hnHiX4yrDKeO65xn0vr9L"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180267,
+      "name": "Sombrero Galaxy",
+      "url": "https://open.spotify.com/track/1oQoDktIuJITi7TQXpJ5Jx"
     },
     {
       "album": {
@@ -1142,7 +1324,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 128223,
       "name": "Something In Your Eyes",
       "url": "https://open.spotify.com/track/5vr8JEu7dWxm6p1IXBGEbH"
@@ -1160,7 +1342,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 216044,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/7I6VWFNZoUo0gRDYiAcC4M"
@@ -1182,6 +1364,42 @@
       "duration_ms": 195381,
       "name": "Step Into It",
       "url": "https://open.spotify.com/track/533T9iIMBhmRXcKVH48CxO"
+    },
+    {
+      "album": {
+        "name": "Welcome to Hell II",
+        "url": "https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz"
+      },
+      "artists": [
+        {
+          "name": "Federico Ambrosi",
+          "url": "https://open.spotify.com/artist/5Q9fyaoh5FFG2EtEJtsHK1"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Stop The Grains",
+      "url": "https://open.spotify.com/track/6AoSReioPk372vr9EDshOn"
+    },
+    {
+      "album": {
+        "name": "Superlicious",
+        "url": "https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Superlicious",
+      "url": "https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm"
     },
     {
       "album": {
@@ -1236,6 +1454,32 @@
       "duration_ms": 171023,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/5YgEBkuwbKpSU14XiVkG59"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/27LkHeHrRMtJRYZvgPvlmP"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Rhiannon Roze",
+          "url": "https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc"
     },
     {
       "album": {
@@ -1304,7 +1548,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 202204,
       "name": "Wait A Minute",
       "url": "https://open.spotify.com/track/0UAK0qiRTIPUnMzjwKk2PF"

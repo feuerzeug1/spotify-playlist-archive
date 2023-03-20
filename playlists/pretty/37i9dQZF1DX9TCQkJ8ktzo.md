@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,934 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,963 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 26 | [Estremecete](https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp) | [Los Llopis](https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 3:11 |
 | 27 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 |
 | 28 | [Para Cuando Regreses](https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Para Mi Siempre Amor...](https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj) | 1:55 |
-| 29 | [Agua Con Sal](https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 4:04 |
+| 29 | [Pepito](https://open.spotify.com/track/4uyZelxU8nHtF6wtWE3rDx) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Los Increíbles Machucambos](https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX) | 3:04 |
 | 30 | [El Remedio](https://open.spotify.com/track/2VcJR7KAuUPqdhuuJ5IoMu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez](https://open.spotify.com/album/3KJCxqfH2dypQJBEBdfZ2m) | 2:23 |
-| 31 | [Pepito](https://open.spotify.com/track/4uyZelxU8nHtF6wtWE3rDx) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Los Increíbles Machucambos](https://open.spotify.com/album/4eRpd2Hibj9awA0xC5SQcX) | 3:04 |
+| 31 | [Agua Con Sal](https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 4:04 |
 | 32 | [Cuando Calienta el Sol](https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:57 |
-| 33 | [Ven Que Te Quiero](https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H) | [Los Impala](https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto) | [Ven Que Te Quiero](https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP) | 3:13 |
-| 34 | [Muchacha Bonita](https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:21 |
+| 33 | [Muchacha Bonita](https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:21 |
+| 34 | [Ven Que Te Quiero](https://open.spotify.com/track/2lQ7bUC4PRFxFtz3jnGJ0H) | [Los Impala](https://open.spotify.com/artist/0c1eRdtji5oOdfHMZXzvto) | [Ven Que Te Quiero](https://open.spotify.com/album/2ph7k8PjzAwIW5yFD7UyAP) | 3:13 |
 | 35 | [Felicidad](https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:08 |
 | 36 | [Chica Alborotada](https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 2:06 |
-| 37 | [Cuando Era un Jovencito](https://open.spotify.com/track/180C5oUJrNqxlcqmlvAZYW) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Rock de los 60's](https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J) | 2:41 |
-| 38 | [El Nido](https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:59 |
-| 39 | [Monólogo](https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 2:56 |
+| 37 | [Monólogo](https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 2:56 |
+| 38 | [Cuando Era un Jovencito](https://open.spotify.com/track/180C5oUJrNqxlcqmlvAZYW) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Rock de los 60's](https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J) | 2:41 |
+| 39 | [El Nido](https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:59 |
 | 40 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
 | 41 | [Ya no llores](https://open.spotify.com/track/3KNxku9f4YfcWHbTHnH5rG) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Ya no llores](https://open.spotify.com/album/6jk9SNbUx7yiS6PjTNzeGX) | 2:05 |
 | 42 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Fantasia Espanola](https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [El Gran Tomás \(Norman\)](https://open.spotify.com/track/6VCBvR4ciiZrvHgn7KbapE) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [RCA 100 Años de Música](https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm) | 2:16 |
 | 50 | [Acompáñame](https://open.spotify.com/track/0dPBq1rs38TRpp2aQEioPe) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mujeres Universales Vol\. 2](https://open.spotify.com/album/7k3TeSMN6Li3ikCkkFhtbA) | 3:36 |
 
-Snapshot ID: `MTY3NjY2NzM4NywwMDAwMDAwMDZjMzJlY2VhMDkyZDc3ZGQ3NjIzYjUzMjUxMzY5NzQy`
+Snapshot ID: `MTY3NjY2NzM4NywwMDAwMDAwMDcyMDdkNWZlZmQyMWEwNjQzMjg4ZjYyMDZjYWM0Zjkx`

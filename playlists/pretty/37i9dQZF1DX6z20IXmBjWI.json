@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. ",
-  "num_followers": 2142284,
+  "num_followers": 2142294,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MDA0NywwMDAwMDAwMGUxMjBhMTJhYjcwMTM3Njc5NjA0OWJlNjUyZDUwM2M5",
+  "snapshot_id": "MTY3Njk5MDA0NywwMDAwMDAwMDUxNTY2M2Q5N2Q5Y2RlYjEwZGFhMWNkMGIyYjFiYmM0",
   "tracks": [
     {
       "added_at": "2023-02-06 19:59:45",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
+        "name": "Real Estate",
+        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
+      "duration_ms": 216000,
+      "name": "Real Estate",
+      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Real Estate",
-      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+      "duration_ms": 194000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -887,6 +887,26 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
+        "name": "Forever Young (From NBC's Parenthood)",
+        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 261370,
+      "name": "Forever Young - From NBC's Parenthood",
+      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
-        "name": "Forever Young (From NBC's Parenthood)",
-        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 261370,
-      "name": "Forever Young - From NBC's Parenthood",
-      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "duration_ms": 205812,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP"
-      },
-      "artists": [
-        {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
-        }
-      ],
-      "duration_ms": 205812,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
+      "duration_ms": 264452,
+      "name": "Motion Sickness (Demo - Bonus Track)",
+      "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1527,22 +1543,6 @@
       "duration_ms": 216746,
       "name": "Nothing\u2019s Gonna Happen",
       "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264452,
-      "name": "Motion Sickness (Demo - Bonus Track)",
-      "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "They Are Going Away",
-        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "It'll Work Itself Out",
-      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Ancient Transition",
         "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 292520,
       "name": "On Your Horizon",
       "url": "https://open.spotify.com/track/5vXBUBJBvAN7bvGDj6kJjN"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "They Are Going Away",
+        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "It'll Work Itself Out",
+      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 180240,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Northsiders",
-      "url": "https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "The Ash & Clay",
         "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 244520,
       "name": "Whisper In Her Ear",
       "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "Northsiders",
+      "url": "https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 195850,
-      "name": "Real Peach - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "EPHRATA",
         "url": "https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 218146,
       "name": "Holllllogram",
       "url": "https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 195850,
+      "name": "Real Peach - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "I'll Be Here When the Moon Is Tired",
-        "url": "https://open.spotify.com/album/51oEgB9odlJYWL6sdZeMXp"
-      },
-      "artists": [
-        {
-          "name": "Corey Kilgannon",
-          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Whale Song",
-      "url": "https://open.spotify.com/track/317gXFDkNwzfad0iXcMPgu"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Hung the Moon",
         "url": "https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 190613,
       "name": "Hung the Moon",
       "url": "https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "I'll Be Here When the Moon Is Tired",
+        "url": "https://open.spotify.com/album/51oEgB9odlJYWL6sdZeMXp"
+      },
+      "artists": [
+        {
+          "name": "Corey Kilgannon",
+          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "Whale Song",
+      "url": "https://open.spotify.com/track/317gXFDkNwzfad0iXcMPgu"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Favors EP (Acoustic)",
-        "url": "https://open.spotify.com/album/1dSQSvPzdvdoOe8jYTrZk4"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Sorrow - Acoustic",
-      "url": "https://open.spotify.com/track/723gxwUYsB0XH2MTzYNiMB"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "A Prayer Of My Own",
         "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 273513,
       "name": "A Prayer Of My Own",
       "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Favors EP (Acoustic)",
+        "url": "https://open.spotify.com/album/1dSQSvPzdvdoOe8jYTrZk4"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "Sorrow - Acoustic",
+      "url": "https://open.spotify.com/track/723gxwUYsB0XH2MTzYNiMB"
     }
   ],
   "unique_name": "Infinite Acoustic",

@@ -2,7 +2,7 @@
 
 ### [Fresh Dance Pop](https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53)
 
-> The hottest new pop with the all the drops\. Cover: Felix Cartel & Daya
+> The hottest new pop with all the drops\. Cover: Felix Cartal & Daya
 
 489 songs - 1 day 0 hr 32 min
 

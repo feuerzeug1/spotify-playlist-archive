@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,980 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,983 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 32 | [Royal Garden Blues](https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [The Dukes At Disneyland](https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB) | 6:02 |
 | 33 | [Original Dixieland One Step](https://open.spotify.com/track/3XznXMnnySIGCKSs6wktIA) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans Vol\. 9](https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T) | 5:35 |
 | 34 | [Clarinete Marmelade](https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh) | [Black Bottom Stompers](https://open.spotify.com/artist/2Ojk9nhFgHi2M8rn5DaPMe) | [30 Jahre Black Bottom Stompers](https://open.spotify.com/album/622kT8j41pEKEflwXna9lF) | 4:02 |
-| 35 | [There Is a Tavern in the Town](https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1) | [The Dixieland All Stars](https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb) | [Dixieland Jubilee](https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8) | 3:47 |
-| 36 | [Ain't She Sweet](https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8) | [Preservation Hall Hot 4 with Duke Dejan](https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x) | [Preservation Hall Hot 4 With Duke Dejan](https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD) | 4:10 |
+| 35 | [Ain't She Sweet](https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8) | [Preservation Hall Hot 4 with Duke Dejan](https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x) | [Preservation Hall Hot 4 With Duke Dejan](https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD) | 4:10 |
+| 36 | [There Is a Tavern in the Town](https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1) | [The Dixieland All Stars](https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb) | [Dixieland Jubilee](https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8) | 3:47 |
 | 37 | [Thunder & Blazes](https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [More Best of the Dukes of Dixieland, Vol\. 2](https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI) | 2:15 |
 | 38 | [Bill Bailey, Won't You Please Come Home?](https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [The Al Hirt Collection](https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp) | 3:30 |
 | 39 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Carry Me Back to Old Virginia](https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [30 Classics: Dixieland Jazz for Mardi Gras](https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE) | 3:52 |
 | 55 | [The Band Played On](https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [30 Patriotic American Songs for Armed Forces Day](https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu) | 3:19 |
 
-Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMDYzZGY1NDU1MTY2OWE4YTI0YWZjMDRiYWM2MmFhMDhl`
+Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMDQzMDgwNTVmMWE5ZWIxODk5YTNhODI5NmJhMmFkNmQ5`

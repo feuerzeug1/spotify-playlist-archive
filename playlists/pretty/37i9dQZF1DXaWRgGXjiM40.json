@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 890139,
+  "num_followers": 890635,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwMjgwMCwwMDAwMDAwMDM1ZGJlY2IyODc5ZjIxNTM1ODcwNjQ1MTBkYTAzZDYx",
+  "snapshot_id": "MTY3NjYwMjgwMCwwMDAwMDAwMDkyZWZjNTk3NmYzNTAyZGFmMGIyMDY3NDAzNmNiMDg3",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
-        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        }
-      ],
-      "duration_ms": 313266,
-      "name": "Caso Indefinido - Ao Vivo",
-      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Eu Nunca Fui (Ao Vivo)",
         "url": "https://open.spotify.com/album/3H4aDTT9MmDdYCkrwiczJf"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 162260,
       "name": "Eu Nunca Fui - Ao Vivo",
       "url": "https://open.spotify.com/track/3gqzwytSXoWI8xgRloB6WL"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "duration_ms": 313266,
+      "name": "Caso Indefinido - Ao Vivo",
+      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "No Pelo 3, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "S de Saudade",
         "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "No Pelo 3, Pt. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb"
-      },
-      "artists": [
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
-      "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Ensaio (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
       },
@@ -751,22 +751,18 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
+        "name": "Victor & Leo Ao Vivo Em Uberl\u00e2ndia",
+        "url": "https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC"
       },
       "artists": [
         {
-          "name": "Edson & Hudson",
-          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Victor & Leo",
+          "url": "https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr"
         }
       ],
-      "duration_ms": 201440,
-      "name": "Deixa Eu Te Amar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
+      "duration_ms": 211746,
+      "name": "Lembran\u00e7as de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -787,18 +783,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Victor & Leo Ao Vivo Em Uberl\u00e2ndia",
-        "url": "https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC"
+        "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
       },
       "artists": [
         {
-          "name": "Victor & Leo",
-          "url": "https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr"
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 211746,
-      "name": "Lembran\u00e7as de Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8"
+      "duration_ms": 201440,
+      "name": "Deixa Eu Te Amar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
     },
     {
       "added_at": "2023-02-17 03:00:00",

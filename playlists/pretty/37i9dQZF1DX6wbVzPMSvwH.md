@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Sarapan sesuap semangat bersama lagu\-lagu dari Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,231 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,232 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 63 | [Balada Insan Muda](https://open.spotify.com/track/7rt1ze8gO84v4k9vBvb7JB) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG) | [Balada Insan Muda](https://open.spotify.com/album/6fo5cucV7PIbbnwT1Okx2I) | 4:53 |
 | 64 | [Adu Rayu](https://open.spotify.com/track/0mOLyv1GL4sIuzVR1I92Fb) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Adu Rayu](https://open.spotify.com/album/7MQvEjN92cqRdNUCMOKCPA) | 3:27 |
 | 65 | [Bahagia](https://open.spotify.com/track/31swUEisRXt0oEz3iM6MOy) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Bahagia](https://open.spotify.com/album/6DDxznSldww5bW8Zbi9EGg) | 3:42 |
-| 66 | [Penantian Berharga](https://open.spotify.com/track/62SNlZ1MJiY98movqq7ZSS) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Penantian Berharga](https://open.spotify.com/album/5zhXlETGMYS961e8GC8pCc) | 3:37 |
+| 66 | [Penantian Berharga](https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Penantian Berharga](https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1) | 3:38 |
 | 67 | [Melompat Lebih Tinggi](https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [OST\. 30 Hari Mencari Cinta](https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB) | 3:18 |
 | 68 | [Manusia Kuat](https://open.spotify.com/track/1vT1rKlEzvT9r0uYwAuwC8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:04 |
 | 69 | [Cintaku](https://open.spotify.com/track/4hykertmVe1gPtNB2atBNJ) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Everlasting Hits](https://open.spotify.com/album/4X9jiWC7TjqziUu92g4KgU) | 4:42 |
 | 70 | [All Good](https://open.spotify.com/track/3s8ik4CUIZXXGDBgD0EAZ5) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [All Good](https://open.spotify.com/album/5b5nv0yq43oHzu1HcuY3ZI) | 3:13 |
 
-Snapshot ID: `MTY3ODc2NzI1OSwwMDAwMDAwMGQ2YzgyZmNkZWViNmQ2ZjBiNjk1MTdmOWViYjk2Mjc3`
+Snapshot ID: `MTY3ODc2NzI1OSwwMDAwMDAwMDU1MjdiMTIwNWM0NWFkZTc0MTVjYjlhZjE2OGFkYmIy`

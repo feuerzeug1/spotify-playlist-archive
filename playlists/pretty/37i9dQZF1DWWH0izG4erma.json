@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Caylee Hammack\n",
-  "num_followers": 518559,
+  "num_followers": 518657,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMDZiZTk5MTNhNjNmNTA5ZmQ3MDU1ZTQ2ZmY3MTI1MTQw",
+  "snapshot_id": "MTY3OTAyOTIwMCwwMDAwMDAwMDIwNWE1OWIwOTc1NGE0ODEzN2U5YmYxYTlhODk5NjM0",
   "tracks": [
     {
       "added_at": "2023-03-17 05:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "Oklahoma",
         "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 236823,
       "name": "Met the Devil in Oklahoma",
       "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Wait Outside",
-      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "Call It Country",
         "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 151148,
       "name": "Call It Country",
       "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Wait Outside",
+      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1167,38 +1167,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Black Powder Soul",
-        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
-      },
-      "artists": [
-        {
-          "name": "Taylor McCall",
-          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "Black Powder Soul",
-      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Crazy Angels",
-        "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Crazy Angels",
-      "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -1219,18 +1187,34 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+        "name": "Crazy Angels",
+        "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 208480,
-      "name": "Wrong Turns",
-      "url": "https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK"
+      "duration_ms": 156826,
+      "name": "Crazy Angels",
+      "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Black Powder Soul",
+        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
+      },
+      "artists": [
+        {
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+        }
+      ],
+      "duration_ms": 216153,
+      "name": "Black Powder Soul",
+      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 230344,
       "name": "All It Cost Me Was Everything",
       "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Wrong Turns",
+      "url": "https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 218936,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "Old News",
         "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
@@ -1587,18 +1571,34 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Sunday Drunk",
-        "url": "https://open.spotify.com/album/4cmQ0g8KAGhVOMLB03r2dK"
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm"
       },
       "artists": [
         {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 271389,
-      "name": "Sunday Drunk",
-      "url": "https://open.spotify.com/track/47AbGEgg7B33psQDmIygKz"
+      "duration_ms": 218936,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Days of Gold",
+        "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "Days of Gold",
+      "url": "https://open.spotify.com/track/5ETe7SElBIgm2NAZY3SpX4"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Days of Gold",
-        "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
+        "name": "I'm Not For Everyone",
+        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
       "artists": [
         {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 201373,
-      "name": "Days of Gold",
-      "url": "https://open.spotify.com/track/5ETe7SElBIgm2NAZY3SpX4"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "I'm Not For Everyone",
-        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
         "name": "To Hank (feat. HARDY, Brantley Gilbert & Colt Ford)",
         "url": "https://open.spotify.com/album/6PNMatU3htyk6mAK7xv6qW"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 197314,
       "name": "To Hank (feat. HARDY, Brantley Gilbert & Colt Ford)",
       "url": "https://open.spotify.com/track/5mOAXvYO4xSppP2NmrBhQu"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Train",
+        "url": "https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ"
+      },
+      "artists": [
+        {
+          "name": "Manny Blu",
+          "url": "https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
     }
   ],
   "unique_name": "Country Rocks",

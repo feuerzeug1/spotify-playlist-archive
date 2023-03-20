@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,238 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,364 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 44 | [結んで開いて羅刹と骸 \- ORIGINAL](https://open.spotify.com/track/78CLS3KSLe3oYvJQ7qCEqj) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:25 |
 | 45 | [Hand in Hand](https://open.spotify.com/track/7kgTu64wW8N6s4GTk0ksNO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hand in Hand](https://open.spotify.com/album/6Cu3utCV4ysD3RjaeIWE6d) | 5:12 |
 | 46 | [on the rocks](https://open.spotify.com/track/5oUBjW4Bc69fcYBak14CyO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [Attractive Museum](https://open.spotify.com/album/2P5aNv8rCe3ySUNqAP0cpm) | 4:25 |
-| 47 | [サンドリヨン](https://open.spotify.com/track/3nmWtDD1yyHR4EEBUSmUK0) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [SIGNALOID BOX](https://open.spotify.com/album/0IBUFc6zEx7Hl8UkoDofX2) | 4:37 |
-| 48 | [秘密警察](https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP) | [Buriru](https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv) | [秘密警察](https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe) | 3:30 |
+| 47 | [秘密警察](https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP) | [Buriru](https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv) | [秘密警察](https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe) | 3:30 |
+| 48 | [サンドリヨン](https://open.spotify.com/track/3nmWtDD1yyHR4EEBUSmUK0) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [SIGNALOID BOX](https://open.spotify.com/album/0IBUFc6zEx7Hl8UkoDofX2) | 4:37 |
 | 49 | [リンちゃんなう!](https://open.spotify.com/track/6SbEHBJnDWhzCEBbRUNnVz) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス\\\(^o^\)/](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:47 |
 | 50 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
 | 51 | [初音ミクの激唱 \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/2Tpd2eHx7LT60o7BwZlqr3) | [Storyteller \(GAiA x cosMo@Bousou P\)](https://open.spotify.com/artist/5ti01KXPy9ZV9Gw7qvZtXU) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:12 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 72 | [二次元ドリームフィーバー](https://open.spotify.com/track/4WfgfyCeXhyitWzm1dUzWZ) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [二次元ドリームフィーバー](https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea) | 3:08 |
 | 73 | [みくみくにしてあげる♪【してやんよ】 \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/5mLPTVNnyp7zJkmDOl4FIS) | [Ika](https://open.spotify.com/artist/5cPwMq2sLgOTGX7FHIcd3n) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 2:29 |
 | 74 | [shake it! \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6qWYz8lpmQfqAbdrVWcd2G) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:45 |
-| 75 | [アドレサンス](https://open.spotify.com/track/0ckDfdfwk3CRAtWN2bRSze) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
-| 76 | [erase or zero](https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2) | [HzEdge\(crystal P\)](https://open.spotify.com/artist/0idqlrYbdTP772SjNOX18T) | [crystaL](https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu) | 3:50 |
+| 75 | [erase or zero](https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2) | [HzEdge\(crystal P\)](https://open.spotify.com/artist/0idqlrYbdTP772SjNOX18T) | [crystaL](https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu) | 3:50 |
+| 76 | [アドレサンス](https://open.spotify.com/track/0ckDfdfwk3CRAtWN2bRSze) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
 | 77 | [スキキライ](https://open.spotify.com/track/43571bfzMoPeXhUCVWayue) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:45 |
 | 78 | [SPiCa](https://open.spotify.com/track/0zRJAU4bV3GYa5CVxAKokG) | [tokuP](https://open.spotify.com/artist/4hSzJm2YTXFH8VRgPX2IkU) | [SPiCa](https://open.spotify.com/album/7CoAfW1ZHIfjN4RHdVcrxm) | 3:39 |
 | 79 | [深海シティアンダーグラウンド](https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS) | [tanaka B](https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO) | [深海シティアンダーグラウンド](https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc) | 4:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 99 | [E? Aa, Sou.](https://open.spotify.com/track/4laMKU1xcpbFdsX3LnA1Xb) | [Chouchou\-P](https://open.spotify.com/artist/13p1b6oCr8TusEButZxHZL) | [Exit Tunes Academy Best 3](https://open.spotify.com/album/67LlLI8CaW8avwTaoZDTHl) | 3:27 |
 | 100 | [アカツキアライヴァル](https://open.spotify.com/track/3BFnhJw3PvOhqMtRedHfL1) | [Last Note.](https://open.spotify.com/artist/2LMMds4dvScJB1JGwY42SJ) | [アカツキアライヴァル](https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU) | 4:42 |
 
-Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMDBiZTg2YmJkM2FkYWQ4OTIxODJlMWRhZjUwY2VkOTcy`
+Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMDQwMzZmZTllYmFlYmI0ZTcxMzIxMjZmMzg3MWU2ZjJi`

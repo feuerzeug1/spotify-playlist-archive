@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 388657,
+  "num_followers": 388665,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMDc1OCwwMDAwMDAwMGI1ZWMzYWU2ZTIxYTU5YTZmNjUzZGRmM2MwYzliMTQy",
+  "snapshot_id": "MTY2MzkyMDc1OCwwMDAwMDAwMDk5NjhhNDRiYjBkYzAzYjA0NjlhMTJiMmM3MDhjYjA2",
   "tracks": [
     {
       "added_at": "2022-09-23 08:12:38",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 225862,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Weed Garden",
         "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 195200,
       "name": "Autumn Town Leaves",
       "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 225862,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Fresh Roses",
-        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Fresh Roses",
-      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "our generation",
         "url": "https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 237780,
       "name": "Soul Mate",
       "url": "https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Fresh Roses",
+        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Fresh Roses",
+      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "A Song For Every Moon",
-        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 200620,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb"
+      "duration_ms": 179997,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO"
     }
   ],
   "unique_name": "No Stress",

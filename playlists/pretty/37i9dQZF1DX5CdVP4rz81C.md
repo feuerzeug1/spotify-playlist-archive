@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,724 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,794 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 32 | [Lost On You](https://open.spotify.com/track/59llL5gGlCyMM2P1VQc74R) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lost On You](https://open.spotify.com/album/0nc1ERaFyIThH8cU9xkrUG) | 2:14 |
 | 33 | [Who I Am Without You](https://open.spotify.com/track/42NmFnYg5iTlRxgfa54Q7K) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [Who I Am Without You](https://open.spotify.com/album/5jFzlHcWzlQR0Q3kHvO1ax) | 2:32 |
 | 34 | [let's be friends](https://open.spotify.com/track/4M36HQ9C5foLBAXhmFdP1X) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [let's be friends](https://open.spotify.com/album/6efuKsVwps637BgVBUTSiE) | 2:06 |
-| 35 | [Would you do it again?](https://open.spotify.com/track/4S3QaFRffd2LZH5kw0TytZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would you do it again?](https://open.spotify.com/album/0q4DIPAhsIhvnrYrHVVv7n) | 2:27 |
+| 35 | [Would You Do It Again?](https://open.spotify.com/track/4S3QaFRffd2LZH5kw0TytZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would You Do It Again?](https://open.spotify.com/album/0q4DIPAhsIhvnrYrHVVv7n) | 2:27 |
 | 36 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 |
 | 37 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 |
 | 38 | [1/2 as good as her](https://open.spotify.com/track/7yE6MawffFg35US7sze1qy) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1/2 as good as her](https://open.spotify.com/album/4bvYih4k6GucaUEgS0fIXv) | 3:20 |

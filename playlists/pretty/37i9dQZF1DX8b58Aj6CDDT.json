@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 1436,
+  "num_followers": 1448,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMDhhMjhiMDllYjA4Yzg5ZTk3NzBhMjliYjRiNTgxNDQ1",
+  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMGY2ZWFjYTU2MzhkNTI3NDYzZjVjMjdhZjIwODA5YTZk",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "Last Spa on Earth",
         "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 185350,
       "name": "XO",
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Te Sigo Buscando",
-        "url": "https://open.spotify.com/album/0MxoRjinPNdShp76AEPGmo"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Te Sigo Buscando",
-      "url": "https://open.spotify.com/track/26XiKU35Cs3TnPKvX0Oamf"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/2JV9QM9AuhNEA4kqqlZj6V"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 199213,
       "name": "MANTRA",
       "url": "https://open.spotify.com/track/5Y5Er1vwNsNIBaZikfprvg"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "Te Sigo Buscando",
+        "url": "https://open.spotify.com/album/0MxoRjinPNdShp76AEPGmo"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Te Sigo Buscando",
+      "url": "https://open.spotify.com/track/26XiKU35Cs3TnPKvX0Oamf"
     },
     {
       "added_at": "2022-11-30 14:18:55",

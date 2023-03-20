@@ -1,12 +1,12 @@
 {
   "description": "Big hits from the world of acoustics.",
-  "num_followers": 2051681,
+  "num_followers": 2051764,
   "original_name": "Acoustic Throwbacks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxNDA2NCwwMDAwMDAwMGU5MzgxYzI3NzI2NGY2MmY0NDM2YjgyNTRkODg1M2Nk",
+  "snapshot_id": "MTY0MTgxNDA2NCwwMDAwMDAwMDFhNmRkMWYyOTllY2I4YzM2MDgwNWRhNTMyM2U2MGM1",
   "tracks": [
     {
       "added_at": "2022-01-10 11:27:44",
@@ -655,6 +655,26 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 257923,
+      "name": "Don't You Worry Child - Acoustic Version",
+      "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "All the Lost Souls",
         "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 173065,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 257923,
-      "name": "Don't You Worry Child - Acoustic Version",
-      "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Most Girls (Acoustic)",
-        "url": "https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 200880,
-      "name": "Most Girls - Acoustic",
-      "url": "https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) [Acoustic]",
         "url": "https://open.spotify.com/album/5Q41hlQpul1txWWurdTHtY"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/3vTe1NISvsM9f1QGjraPsQ"
+        "name": "Most Girls (Acoustic)",
+        "url": "https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0"
       },
       "artists": [
         {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
         }
       ],
-      "duration_ms": 196819,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/2nBrIzKacrNdIxs90FlsT1"
+      "duration_ms": 200880,
+      "name": "Most Girls - Acoustic",
+      "url": "https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -979,6 +963,22 @@
       "duration_ms": 247816,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/3vTe1NISvsM9f1QGjraPsQ"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 196819,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/2nBrIzKacrNdIxs90FlsT1"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/7K4WKUlWlgzQMDs5ioxQS2"
-      },
-      "artists": [
-        {
-          "name": "Zak Manley",
-          "url": "https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2"
-        }
-      ],
-      "duration_ms": 163913,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/1nnEOnBgHPVpAAZIkFknzv"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Use Somebody (Acoustic Version)",
         "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 186660,
       "name": "Use Somebody - Acoustic Version",
       "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/7K4WKUlWlgzQMDs5ioxQS2"
+      },
+      "artists": [
+        {
+          "name": "Zak Manley",
+          "url": "https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2"
+        }
+      ],
+      "duration_ms": 163913,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1nnEOnBgHPVpAAZIkFknzv"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Please Keep Loving Me (Acoustic)",
+        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Please Keep Loving Me - Acoustic",
+      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Jimmy Gets High",
         "url": "https://open.spotify.com/album/0ZxjGRDBS5xJaYk7NyN1wC"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Please Keep Loving Me (Acoustic)",
-        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/22MrOvzmcn6WeE4v6Ua6dj"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 197626,
-      "name": "Please Keep Loving Me - Acoustic",
-      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
+      "duration_ms": 243941,
+      "name": "I'm Yours - Live on HSN Live",
+      "url": "https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1227,22 +1243,6 @@
       "duration_ms": 166943,
       "name": "With or Without You",
       "url": "https://open.spotify.com/track/1iQ1BpOGF1Umd3lpTV4OPO"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/22MrOvzmcn6WeE4v6Ua6dj"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 243941,
-      "name": "I'm Yours - Live on HSN Live",
-      "url": "https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "As Long As You Love Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Despacito",
         "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 170454,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "As Long As You Love Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Blue Neighbourhood (The Remixes)",
-        "url": "https://open.spotify.com/album/0mhxJEWGDhp6tEE4uFhD7C"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "YOUTH - Acoustic",
-      "url": "https://open.spotify.com/track/6PtE41BwaPBOjjMc8mKcG4"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Strip That Down (Acoustic)",
         "url": "https://open.spotify.com/album/3r0jAzmzY8r6tF1E6lYFr5"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 184475,
       "name": "Strip That Down - Acoustic",
       "url": "https://open.spotify.com/track/1Ddj6nkhUP3lHpLvDqPsvC"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Blue Neighbourhood (The Remixes)",
+        "url": "https://open.spotify.com/album/0mhxJEWGDhp6tEE4uFhD7C"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "YOUTH - Acoustic",
+      "url": "https://open.spotify.com/track/6PtE41BwaPBOjjMc8mKcG4"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "I Like Me Better",
-        "url": "https://open.spotify.com/album/1fa2cKnrZIaxnYvoOxoaSk"
+        "name": "Speak Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
       },
       "artists": [
         {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 201508,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/7pKMoXeiCv40wbrjII06VO"
+      "duration_ms": 217613,
+      "name": "Haunted - Acoustic Version",
+      "url": "https://open.spotify.com/track/62rlxI6g2PNaWsHoiRryto"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1639,18 +1635,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Speak Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
+        "name": "I Like Me Better",
+        "url": "https://open.spotify.com/album/1fa2cKnrZIaxnYvoOxoaSk"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 217613,
-      "name": "Haunted - Acoustic Version",
-      "url": "https://open.spotify.com/track/62rlxI6g2PNaWsHoiRryto"
+      "duration_ms": 201508,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/7pKMoXeiCv40wbrjII06VO"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "I'm the One (Acoustic)",
-        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
-      },
-      "artists": [
-        {
-          "name": "Sunset & Highland",
-          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
-        }
-      ],
-      "duration_ms": 233488,
-      "name": "I'm the One - Acoustic",
-      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Princess of China",
         "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 206693,
       "name": "Princess of China - Acoustic",
       "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "I'm the One (Acoustic)",
+        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
+      },
+      "artists": [
+        {
+          "name": "Sunset & Highland",
+          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
+        }
+      ],
+      "duration_ms": 233488,
+      "name": "I'm the One - Acoustic",
+      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1875,22 +1875,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
+        "name": "Cold Water",
+        "url": "https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO"
       },
       "artists": [
         {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Kyle Nachtigal",
+          "url": "https://open.spotify.com/artist/55dWGlPHFYuBbQYZQlSaKY"
         }
       ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
+      "duration_ms": 181595,
+      "name": "Cold Water",
+      "url": "https://open.spotify.com/track/4esmMZzUcSw6cgd8WbSOgi"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1915,22 +1915,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Cold Water",
-        "url": "https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO"
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
       "artists": [
         {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
         },
         {
-          "name": "Kyle Nachtigal",
-          "url": "https://open.spotify.com/artist/55dWGlPHFYuBbQYZQlSaKY"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 181595,
-      "name": "Cold Water",
-      "url": "https://open.spotify.com/track/4esmMZzUcSw6cgd8WbSOgi"
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Over My Head (Cable Car)",
-        "url": "https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Over My Head (Cable Car) - Live at Sirius Radio, NYC, NY - May 2006",
-      "url": "https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 310000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Over My Head (Cable Car)",
+        "url": "https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Over My Head (Cable Car) - Live at Sirius Radio, NYC, NY - May 2006",
+      "url": "https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 236952,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2551,6 +2551,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "If You're Not the One",
+        "url": "https://open.spotify.com/album/5FxFq3fjle5UXmerJcFaag"
+      },
+      "artists": [
+        {
+          "name": "Kyle Juliano",
+          "url": "https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5"
+        }
+      ],
+      "duration_ms": 235763,
+      "name": "If You're Not the One",
+      "url": "https://open.spotify.com/track/7EDmtg8YNDuZNkhLlvhTr9"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -2587,18 +2603,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "If You're Not the One",
-        "url": "https://open.spotify.com/album/5FxFq3fjle5UXmerJcFaag"
+        "name": "My My My! (Remixes)",
+        "url": "https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN"
       },
       "artists": [
         {
-          "name": "Kyle Juliano",
-          "url": "https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 235763,
-      "name": "If You're Not the One",
-      "url": "https://open.spotify.com/track/7EDmtg8YNDuZNkhLlvhTr9"
+      "duration_ms": 223106,
+      "name": "My My My! - Acoustic",
+      "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2635,22 +2651,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "My My My! (Remixes)",
-        "url": "https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "My My My! - Acoustic",
-      "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "No Air Duet With Chris Brown Acoustic Version",
         "url": "https://open.spotify.com/album/7pGk91GOMtNZ0iruHgZFsv"
       },
@@ -2671,22 +2671,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Know-It-All (Deluxe)",
-        "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 191480,
-      "name": "Wild Things - Acoustic Version",
-      "url": "https://open.spotify.com/track/3FAzlNPlVImGsbjnHHft6K"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/0AvTcYvLE30zb3qIwxzf3o"
       },
@@ -2703,6 +2687,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Know-It-All (Deluxe)",
+        "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "Wild Things - Acoustic Version",
+      "url": "https://open.spotify.com/track/3FAzlNPlVImGsbjnHHft6K"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "We Got You Covered, Vol. 1",
         "url": "https://open.spotify.com/album/2gYoCL1G2KVMOBZUM0sD4M"
       },
@@ -2715,22 +2715,6 @@
       "duration_ms": 148174,
       "name": "Can't Stop the Feeling / This Is What You Came For",
       "url": "https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/0ksnJ7aLLk73HYqEmTTGna"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 181596,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/2xHKGx65VCsJgU83Bvh4j7"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2755,6 +2739,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "More Than You Know (Acoustic)",
+        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 183950,
+      "name": "More Than You Know - Acoustic",
+      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/53WMC1ANqY88aSzMAXHJ3T"
       },
@@ -2771,18 +2771,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "More Than You Know (Acoustic)",
-        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/0ksnJ7aLLk73HYqEmTTGna"
       },
       "artists": [
         {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
         }
       ],
-      "duration_ms": 183950,
-      "name": "More Than You Know - Acoustic",
-      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
+      "duration_ms": 181596,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/2xHKGx65VCsJgU83Bvh4j7"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2819,22 +2819,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Chained To The Rhythm",
-        "url": "https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9"
-      },
-      "artists": [
-        {
-          "name": "Lola Rhodes",
-          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
-        }
-      ],
-      "duration_ms": 203070,
-      "name": "Chained To The Rhythm",
-      "url": "https://open.spotify.com/track/6WYZpPWeHcAXd0KVSfjbwI"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Sing It With Me (Acoustics)",
         "url": "https://open.spotify.com/album/1XK0ARZ0qqFBLfH1IoA050"
       },
@@ -2851,6 +2835,22 @@
       "duration_ms": 221154,
       "name": "Sing It With Me - Acoustic",
       "url": "https://open.spotify.com/track/5VoAmDgLauPPfUNcVasc6G"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Chained To The Rhythm",
+        "url": "https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9"
+      },
+      "artists": [
+        {
+          "name": "Lola Rhodes",
+          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
+        }
+      ],
+      "duration_ms": 203070,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/6WYZpPWeHcAXd0KVSfjbwI"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2939,26 +2939,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "FRIENDS (Acoustic)",
-        "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 209434,
-      "name": "FRIENDS - Acoustic",
-      "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Sun Comes Up (Acoustic)",
         "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
       },
@@ -2979,6 +2959,26 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "FRIENDS (Acoustic)",
+        "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 209434,
+      "name": "FRIENDS - Acoustic",
+      "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Make Me (Cry) [Acoustic]",
         "url": "https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0"
       },
@@ -2991,6 +2991,22 @@
       "duration_ms": 181821,
       "name": "Make Me (Cry) - Acoustic",
       "url": "https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 193756,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3015,18 +3031,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
+        "name": "Jagged Little Pill (Acoustic)",
+        "url": "https://open.spotify.com/album/0qsuMHaweGJqyC3zIAjo9N"
       },
       "artists": [
         {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 193756,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
+      "duration_ms": 236453,
+      "name": "Ironic - Acoustic",
+      "url": "https://open.spotify.com/track/18v45bO9woyaa2EbNT0BZI"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3043,22 +3059,6 @@
       "duration_ms": 187965,
       "name": "Hang with Me",
       "url": "https://open.spotify.com/track/5wMeDEn5Jt84L94MZQDBWg"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Jagged Little Pill (Acoustic)",
-        "url": "https://open.spotify.com/album/0qsuMHaweGJqyC3zIAjo9N"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Ironic - Acoustic",
-      "url": "https://open.spotify.com/track/18v45bO9woyaa2EbNT0BZI"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3415,22 +3415,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Pumped Up Kicks (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE"
+        "name": "Across A Wire (Live In New York)",
+        "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
       },
       "artists": [
         {
-          "name": "Missy & Blonde",
-          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
-        },
-        {
-          "name": "Julia Ross",
-          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
         }
       ],
-      "duration_ms": 174793,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk"
+      "duration_ms": 317333,
+      "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
+      "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3459,6 +3455,26 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Pumped Up Kicks (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE"
+      },
+      "artists": [
+        {
+          "name": "Missy & Blonde",
+          "url": "https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh"
+        },
+        {
+          "name": "Julia Ross",
+          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
+        }
+      ],
+      "duration_ms": 174793,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/0C4RR0ayZWIkOC6GpnsYSj"
       },
@@ -3471,22 +3487,6 @@
       "duration_ms": 195130,
       "name": "Without You",
       "url": "https://open.spotify.com/track/5ak3ZwyjRdwABZQfovFcZG"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Across A Wire (Live In New York)",
-        "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
-      "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3555,22 +3555,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/2XYnl9lZPDC1wO2WOKxX7d"
-      },
-      "artists": [
-        {
-          "name": "Zak Manley",
-          "url": "https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2"
-        }
-      ],
-      "duration_ms": 133317,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/53EWpo23oiJ5gvO8KI7JMR"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Island Life Coffee House (Vol. 1)",
         "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
       },
@@ -3583,6 +3567,22 @@
       "duration_ms": 234133,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/2XYnl9lZPDC1wO2WOKxX7d"
+      },
+      "artists": [
+        {
+          "name": "Zak Manley",
+          "url": "https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2"
+        }
+      ],
+      "duration_ms": 133317,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/53EWpo23oiJ5gvO8KI7JMR"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3607,22 +3607,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Whoa, Nelly! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "I'm Like A Bird - Acoustic Version",
-      "url": "https://open.spotify.com/track/1DcVzQFZAHvwcdYjlKBBrD"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Can't Stop The Feeling",
         "url": "https://open.spotify.com/album/5CeQ4zuJ9teoR2ma86vbg2"
       },
@@ -3639,18 +3623,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Growing Pains (Acoustic)",
-        "url": "https://open.spotify.com/album/3pMzaAUU1EZeBZvrysTdGK"
+        "name": "Whoa, Nelly! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
       },
       "artists": [
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Growing Pains - Acoustic",
-      "url": "https://open.spotify.com/track/47yx240eURgVYhEDLWGcis"
+      "duration_ms": 236440,
+      "name": "I'm Like A Bird - Acoustic Version",
+      "url": "https://open.spotify.com/track/1DcVzQFZAHvwcdYjlKBBrD"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3667,6 +3651,22 @@
       "duration_ms": 211728,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Growing Pains (Acoustic)",
+        "url": "https://open.spotify.com/album/3pMzaAUU1EZeBZvrysTdGK"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Growing Pains - Acoustic",
+      "url": "https://open.spotify.com/track/47yx240eURgVYhEDLWGcis"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3875,22 +3875,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/6SjOIo4dbaf01ySqGRsN8Y"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 151791,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/7zcAFwEbHXNeIePVwMEIkS"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Simplemente Ac\u00fastico",
         "url": "https://open.spotify.com/album/6ns2Pfkc5KiqmKsaFZiePO"
       },
@@ -3907,18 +3891,18 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/6SjOIo4dbaf01ySqGRsN8Y"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
         }
       ],
-      "duration_ms": 250573,
-      "name": "Nervous - Acoustic",
-      "url": "https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q"
+      "duration_ms": 151791,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/7zcAFwEbHXNeIePVwMEIkS"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3939,6 +3923,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Nervous - Acoustic",
+      "url": "https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Firework",
         "url": "https://open.spotify.com/album/2JWf7ZxsOihbCK4gkbYxJm"
       },
@@ -3955,22 +3955,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "Rise - Acoustic Version",
-      "url": "https://open.spotify.com/track/41AeGy4sxailCTRajKF3oT"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Hands All Over (Deluxe)",
         "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
       },
@@ -3983,6 +3967,22 @@
       "duration_ms": 226320,
       "name": "Misery - Acoustic Version",
       "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Rise - Acoustic Version",
+      "url": "https://open.spotify.com/track/41AeGy4sxailCTRajKF3oT"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -4255,6 +4255,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Big Yellow Taxi",
+        "url": "https://open.spotify.com/album/6BYKYEEBuWR1iAHAVJPTf9"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 146824,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/5M7NJBfJQMKPg5jfcJoF9D"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "MTV Presents Unplugged: Florence + The Machine (Deluxe Version)",
         "url": "https://open.spotify.com/album/0wKJlJVLq79jSWHTnsVVq6"
       },
@@ -4283,22 +4299,6 @@
       "duration_ms": 200946,
       "name": "The Line - Acoustic",
       "url": "https://open.spotify.com/track/4dStVNGbwUcLoO5NYJWAm0"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Big Yellow Taxi",
-        "url": "https://open.spotify.com/album/6BYKYEEBuWR1iAHAVJPTf9"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 146824,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/5M7NJBfJQMKPg5jfcJoF9D"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -4403,22 +4403,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Chariot - Stripped",
-        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 299306,
-      "name": "Chariot - Stripped Version",
-      "url": "https://open.spotify.com/track/4wYIQRvu7JpP3h2v5o1IOe"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -4435,6 +4419,22 @@
       "duration_ms": 272546,
       "name": "We Are Young (feat. Janelle Mon\u00e1e) - Acoustic [Acoustic]",
       "url": "https://open.spotify.com/track/5tbz0VnVwfF3jubvjDGdHo"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Chariot - Stripped",
+        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 299306,
+      "name": "Chariot - Stripped Version",
+      "url": "https://open.spotify.com/track/4wYIQRvu7JpP3h2v5o1IOe"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -4779,22 +4779,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/4AGzYnRkjNmzjS58Qkufj9"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "Chocolate - Acoustic Version",
-      "url": "https://open.spotify.com/track/1TaLP9QdlbZ0s9CQQzDGkI"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Good Life (Acoustic Version)",
         "url": "https://open.spotify.com/album/4y5eTh0i5ar8CTa9EgHCvI"
       },
@@ -4807,6 +4791,22 @@
       "duration_ms": 196945,
       "name": "Good Life - Acoustic Version",
       "url": "https://open.spotify.com/track/5CMccjYRurNhK3qt71BFmz"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/4AGzYnRkjNmzjS58Qkufj9"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Chocolate - Acoustic Version",
+      "url": "https://open.spotify.com/track/1TaLP9QdlbZ0s9CQQzDGkI"
     },
     {
       "added_at": "2022-01-10 11:27:44",

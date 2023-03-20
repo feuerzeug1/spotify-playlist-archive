@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,481 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,536 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 26 | [Amor Verdadero](https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [A Man And His Music: The Player](https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg) | 7:26 |
 | 27 | [Pastime Paradise](https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [La Cuna](https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy) | 8:34 |
 | 28 | [Marilu](https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1) | [George Guzman](https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL) | [Introducing George Guzman](https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb) | 4:07 |
-| 29 | [\(I'll Be A\) Happy Man](https://open.spotify.com/track/5LuzVIV75d9eaSeJfOfTJK) | [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W), [Luis Aviles](https://open.spotify.com/artist/0Gn61gQpTFRbP9l6lyEy49) | [Take A Trip Pussy Cat](https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg) | 3:34 |
-| 30 | [It's Not What You Say](https://open.spotify.com/track/6xa8EuqmwQPVjzhyir7yTU) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/390tpQELbsoYfFRnwIDxuO) | 2:56 |
+| 29 | [It's Not What You Say](https://open.spotify.com/track/6xa8EuqmwQPVjzhyir7yTU) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/390tpQELbsoYfFRnwIDxuO) | 2:56 |
+| 30 | [\(I'll Be A\) Happy Man](https://open.spotify.com/track/5LuzVIV75d9eaSeJfOfTJK) | [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W), [Luis Aviles](https://open.spotify.com/artist/0Gn61gQpTFRbP9l6lyEy49) | [Take A Trip Pussy Cat](https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg) | 3:34 |
 | 31 | [A la la E](https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6) | [Pete Terrace](https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP) | [Pachanguerisimo, Vol\. 1](https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq) | 2:24 |
 | 32 | [Richie's Jala\-Jala](https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 4:57 |
 | 33 | [Brooklyn Boogaloo](https://open.spotify.com/track/2SFQr3uJF8wD7iLqGVaLNi) | [Spanglish Fly](https://open.spotify.com/artist/1iy7s9Xp6bA7lClmWDsNKu) | [New York Boogaloo](https://open.spotify.com/album/1eItMzO9e3pOi82He9lIiI) | 6:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [Guaguancó Triste](https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [El Bestial Sonido de](https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f) | 5:23 |
 | 50 | [Guaguancó Raro](https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:21 |
 
-Snapshot ID: `MTY3ODIzNDk2MSwwMDAwMDAwMGQ2ZTVkMWE0YTUyMDM3MDA5ODVkNmZhMDc0YjNjOGQ0`
+Snapshot ID: `MTY3ODIzNDk2MSwwMDAwMDAwMDE4MjllMzU3ZjJjNmFhZTg0MjBlOTk5NzY3MTIyY2Fk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume – co\-curated by LU KALA for International Women's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,084 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,086 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 26 | [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 |
 | 27 | [Car Accident](https://open.spotify.com/track/0fOwJiPxWs5Wp8IggTSYAE) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:33 |
 | 28 | [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 |
-| 29 | [Je t'ai manqué](https://open.spotify.com/track/7d8Fk8bxao3O9A3rqgG6GM) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Je t'ai manqué](https://open.spotify.com/album/330ZfKjrGDutgAkyp0vawf) | 3:55 |
+| 29 | [Je t'ai manqué](https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Les chevaux du plaisir \(Boulay chante Bashung\)](https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV) | 3:55 |
 | 30 | [Woman No](https://open.spotify.com/track/1FmvLSFlQNc2z8BFGOP8kn) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Woman No](https://open.spotify.com/album/7fSmCvKf3HjfCiq3dGDFP2) | 3:28 |
 | 31 | [9 to 5](https://open.spotify.com/track/5iOnROz3fXBKBlv0Kapgs4) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Coping Mechanisms](https://open.spotify.com/album/4hBCs9ps7wBk5BmjMT64Oc) | 3:35 |
 | 32 | [Pour toi](https://open.spotify.com/track/4OOCL2Sfbm6VVy8KrcuTjO) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Pour toi](https://open.spotify.com/album/6lIdkfl8jfTmc4xMaG6JwG) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Never Be Yours](https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Never Be Yours](https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ) | 3:07 |
 | 50 | [Moonlight](https://open.spotify.com/track/4TCWeqUkZ8u7nlvAqwpA1y) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Moonlight](https://open.spotify.com/album/7eWNIAtdsddOL7t8zsRTPv) | 3:30 |
 
-Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMDE5YzJhYWQ5MzVlMjZlNTE4ZWM1Y2M0MTdmNmFiMTIx`
+Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMGE4OTZmMDc4ODE5YTllZGMwZTRiYTIzNThiYzA3MmZl`

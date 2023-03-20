@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,494 likes - 40 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,581 likes - 40 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 20 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 |
 | 21 | [Love Him Like I Do](https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Revealed](https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD) | 3:18 |
 | 22 | [Your Great Name](https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw) | 6:19 |
-| 23 | [Just Like God](https://open.spotify.com/track/56rwjJ8kxKhVs16jjfLIbG) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Just Like God](https://open.spotify.com/album/0U8ujczkuAHZ9NJ4Z1qkvj) | 3:00 |
-| 24 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
+| 23 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
+| 24 | [Just Like God](https://open.spotify.com/track/56rwjJ8kxKhVs16jjfLIbG) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Just Like God](https://open.spotify.com/album/0U8ujczkuAHZ9NJ4Z1qkvj) | 3:00 |
 | 25 | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg) | 3:30 |
 | 26 | [You Are God Alone](https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 7:14 |
 | 27 | [Put It On The Altar](https://open.spotify.com/track/1no67NVun0BIparrhLtPM6) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [From The Heart](https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq) | 4:06 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 36 | [I Need A Word](https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours](https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88) | 4:04 |
 | 37 | [Close \(Radio Edit\)](https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close \(Radio Edit\)](https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo) | 4:25 |
 | 38 | [You Waited \(Radio Edit\) \[Live\]](https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [You Waited \(Radio Edit\) \[Live\]](https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF) | 3:40 |
-| 39 | [I Am \(Radio Edit\)](https://open.spotify.com/track/5gvwQLe4Z86vBVtTESworf) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Deborah Carolina](https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m) | [I Am](https://open.spotify.com/album/5YhYF97P4OAVJCWr3Id5fz) | 4:42 |
-| 40 | [Speechless](https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E) | 6:16 |
+| 39 | [Speechless](https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E) | 6:16 |
+| 40 | [I Am \(Radio Edit\)](https://open.spotify.com/track/5gvwQLe4Z86vBVtTESworf) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Deborah Carolina](https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m) | [I Am](https://open.spotify.com/album/5YhYF97P4OAVJCWr3Id5fz) | 4:42 |
 
-Snapshot ID: `MTYyNDYwNDA5OSwwMDAwMDAwMGUwOTEzYzI1ZGY4MThhYzJlNDkxYzkzZjdkZjE2YmNl`
+Snapshot ID: `MTYyNDYwNDA5OSwwMDAwMDAwMDI3MWE5YjU4NGUzZWJhMTM2NGMxZmQ0NTkzMzI0Yjk2`

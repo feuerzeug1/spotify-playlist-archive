@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,967 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,085 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 27 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
 | 28 | [I Like The Way You Love Me](https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:43 |
 | 29 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
-| 30 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
-| 31 | [When a Man Loves a Woman](https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA) | 2:55 |
+| 30 | [When a Man Loves a Woman](https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA) | 2:55 |
+| 31 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
 | 32 | [Anyone Who Knows What Love Is \(Will Understand\)](https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Take A Look](https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS) | 2:56 |
 | 33 | [You'll Lose A Good Thing](https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:39 |
 | 34 | [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Losing You](https://open.spotify.com/track/78HTdAIfx2UBmFWZN4s7A6) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [..."Let Me Sing"](https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4) | 2:34 |
 | 50 | [Love Letters \(Alternate Take\)](https://open.spotify.com/track/3DDV3CsZan0GcUVZAtvs7N) | [Ketty Lester](https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi) | [Ketty Lester Presenting Love Letters](https://open.spotify.com/album/3u5x4ufBilwbvdf6qt61yF) | 2:42 |
 
-Snapshot ID: `MTY3MjY4MjA3NiwwMDAwMDAwMDQ3YzExZDVjMzIyNDNmNjdhMTEyNmU0YzljNTE4NmM2`
+Snapshot ID: `MTY3MjY4MjA3NiwwMDAwMDAwMDEzNDM2NmFlNjZmN2Y0NGM2ZmFmYjkyZTA0MTI4MjA0`

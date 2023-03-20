@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,037 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,149 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 23 | [Fast in My Car](https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:42 |
 | 24 | [A Mistake](https://open.spotify.com/track/0w7XPnFp1jA7w7C8t89zJi) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:56 |
 | 25 | [Cop Car](https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd) | 3:03 |
-| 26 | [God Is a Circle](https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa) | 3:32 |
+| 26 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 |
 | 27 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 |
 | 28 | [I Wish I Was Stephen Malkmus](https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [I Wish I Was Stephen Malkmus](https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM) | 3:51 |
 | 29 | [Weird Girl](https://open.spotify.com/track/1HVDJhXoyZumT5sezqpkvA) | [Mommy Long Legs](https://open.spotify.com/artist/1cZJetf4bkK5CE3VeU18h0) | [Assholes](https://open.spotify.com/album/5Nd64Y626QAncRetjqNc5H) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [Cherry Blue Intention](https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 3:23 |
 | 50 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 |
 
-Snapshot ID: `MTY3OTA3ODM1MCwwMDAwMDAwMDJiMjY1OTMxYzNhMWY1Y2YxZWE0NTY1ZGFjNTA2NDJi`
+Snapshot ID: `MTY3OTA3ODM1MCwwMDAwMDAwMDgxNWQzZGQ2MDlmYjZkNjBlMTkxZTIxYzljM2JlMGNl`

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 361193,
+  "num_followers": 361429,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk3ODgwMCwwMDAwMDAwMGUzZjIzMDE4N2VkNjJhZDE3ZmY3ZGY5YmE3ZmQxMDdk",
+  "snapshot_id": "MTY3ODk3ODgwMCwwMDAwMDAwMDlmOWU4NmYwN2QwZjdmZmI0Mjg1NTMzZGViYjQ1ZDI5",
   "tracks": [
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "The Swallow (feat. Midories)",
         "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 217428,
       "name": "The Swallow (feat. Midories)",
       "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "duration_ms": 149002,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
         "name": "HOME THERAPY",
         "url": "https://open.spotify.com/album/4RxLlyupHS1f1FPgSdh8kM"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 234240,
       "name": "HOME THERAPY",
       "url": "https://open.spotify.com/track/3ecqR3d7t7Ynx2LOHlW7ED"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
-      },
-      "artists": [
-        {
-          "name": "TOGITO",
-          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
-        }
-      ],
-      "duration_ms": 149002,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
+        "name": "Yonawo House",
+        "url": "https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 211742,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
         "name": "\u7948\u308a",
         "url": "https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Yonawo House",
-        "url": "https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 211742,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "\u967d\u6c17\u306a\u4f11\u65e5",
         "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
       },
@@ -1615,26 +1615,6 @@
       "duration_ms": 268500,
       "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
-        "name": "REFERENCES - EP",
-        "url": "https://open.spotify.com/album/5ISqyDSGXcR83zToqysegL"
-      },
-      "artists": [
-        {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        },
-        {
-          "name": "KRICK",
-          "url": "https://open.spotify.com/artist/4vD5wi2rLVnQoXKspx48x2"
-        }
-      ],
-      "duration_ms": 274583,
-      "name": "REFERENCE - Original Mix",
-      "url": "https://open.spotify.com/track/67MF4RXq1oFbZMCVm65Xf3"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1659,18 +1639,22 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "LaLaLa",
-        "url": "https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL"
+        "name": "REFERENCES - EP",
+        "url": "https://open.spotify.com/album/5ISqyDSGXcR83zToqysegL"
       },
       "artists": [
         {
-          "name": "CHAMELEON LIME WHOOPIEPIE",
-          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "KRICK",
+          "url": "https://open.spotify.com/artist/4vD5wi2rLVnQoXKspx48x2"
         }
       ],
-      "duration_ms": 175824,
-      "name": "LaLaLa",
-      "url": "https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d"
+      "duration_ms": 274583,
+      "name": "REFERENCE - Original Mix",
+      "url": "https://open.spotify.com/track/67MF4RXq1oFbZMCVm65Xf3"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1695,6 +1679,22 @@
       "duration_ms": 260026,
       "name": "Sweet Sticky Thing(feat. mabanua, \u3055\u3089\u3055)",
       "url": "https://open.spotify.com/track/1zyxIRfVUbmGO7wqDBstJE"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "LaLaLa",
+        "url": "https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "duration_ms": 175824,
+      "name": "LaLaLa",
+      "url": "https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u6728\u7f8e\u5b9a",
-          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
-        }
-      ],
-      "duration_ms": 203490,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 226206,
       "name": "Storm",
       "url": "https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6728\u7f8e\u5b9a",
+          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
+        }
+      ],
+      "duration_ms": 203490,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC"
     },
     {
       "added_at": "2023-03-16 15:00:00",

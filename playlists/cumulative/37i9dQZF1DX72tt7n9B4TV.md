@@ -4,7 +4,7 @@
 
 > Hot noise for summer days.
 
-168 songs - 9 hr 11 min
+169 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Crushed Velvet](https://open.spotify.com/track/0OZu6gbkQRc6fNgtvpAB7q) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/6eWOqykBzznyzi3NrMWy7y) | 3:17 | 2022-04-01 | 2023-03-18 |
 | [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 | 2022-04-01 | 2023-02-02 |
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-03-17 |  |
-| [Darkside](https://open.spotify.com/track/6IxHk0uFSBTwTiNDsWfqIv) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Industry Plant](https://open.spotify.com/album/5UuzudgFxwLkxC1LFajC5e) | 2:34 | 2022-04-01 |  |
+| [Darkside](https://open.spotify.com/track/6IxHk0uFSBTwTiNDsWfqIv) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Industry Plant](https://open.spotify.com/album/5UuzudgFxwLkxC1LFajC5e) | 2:34 | 2022-04-01 | 2023-03-20 |
 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 | 2022-04-01 |  |
 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 | 2022-04-01 |  |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-03-17 |  |
@@ -123,6 +123,7 @@
 | [Simple Things](https://open.spotify.com/track/5XmLP99v54O4zV9vrlBKVS) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Simple Things](https://open.spotify.com/album/0GBbL0Npms5tBYMj8R2yXj) | 2:51 | 2022-04-01 | 2022-07-29 |
 | [Sinner](https://open.spotify.com/track/23qa4Zh6BFUlkR8Bz7sDMO) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/1FLdYHRiuWtZcGQq1lSa2K) | 3:27 | 2022-04-01 | 2022-07-28 |
 | [Sinner](https://open.spotify.com/track/5RuV11hkZ75dXUhglEKA9F) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/62cKkFUbbmw5lx2XK17KEJ) | 3:27 | 2022-04-01 | 2023-03-18 |
+| [Sleepwalking](https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:07 | 2023-03-17 |  |
 | [Small Talk](https://open.spotify.com/track/6cgvDaA67bTBkmWwOePGx7) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Small Talk](https://open.spotify.com/album/6FR6YOqNeAqXbtVVMMi9Ud) | 3:03 | 2022-04-01 | 2022-07-27 |
 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 | 2022-04-01 |  |
 | [Smile](https://open.spotify.com/track/6HegTbeiZZ9iN6Dp3TLJhx) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/58G23MFuYELVcqdaQYWmAM) | 3:16 | 2022-04-01 | 2022-07-29 |

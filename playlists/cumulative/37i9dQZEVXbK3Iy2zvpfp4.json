@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 433916,
       "name": "A&W",
       "url": "https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn"
@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 84576,
       "name": "Brazilian Phonk Mano",
       "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 224786,
       "name": "Crush Talk Freestyle",
       "url": "https://open.spotify.com/track/3PUpYDPhHjb5rG4b8t6RfT"
@@ -4082,7 +4082,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 155492,
       "name": "D\u00edvej",
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
@@ -4560,6 +4560,24 @@
       "duration_ms": 216094,
       "name": "Family Line",
       "url": "https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5"
+    },
+    {
+      "album": {
+        "name": "Favorite Song",
+        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208630,
+      "name": "Favorite Song",
+      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
     },
     {
       "album": {
@@ -5426,7 +5444,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 211643,
       "name": "Gladiator",
       "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
@@ -8350,7 +8368,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 147349,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/0F0wMiv8PfATkxC0YO5XqB"
@@ -10298,7 +10316,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 195605,
       "name": "novocaine",
       "url": "https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V"
@@ -12490,7 +12508,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 127068,
       "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Milan TikTok Edit",
       "url": "https://open.spotify.com/track/1gUJr0yBhHH3gGBoLkUNa2"
@@ -13084,6 +13102,24 @@
       "duration_ms": 184077,
       "name": "Skl\u00ed\u010dka",
       "url": "https://open.spotify.com/track/6Zdcw0yntsDBNaYnj5sQ2l"
+    },
+    {
+      "album": {
+        "name": "Himmlische Tr\u00e4ume",
+        "url": "https://open.spotify.com/album/49p6Te0TtN1Ew5qP5GIEQB"
+      },
+      "artists": [
+        {
+          "name": "CNML",
+          "url": "https://open.spotify.com/artist/1cCttBLMdXSirH1ENijMcU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89721,
+      "name": "Sky Like Dreams (SU)",
+      "url": "https://open.spotify.com/track/6N21iOdTYgYjDK1AyS0iUW"
     },
     {
       "album": {

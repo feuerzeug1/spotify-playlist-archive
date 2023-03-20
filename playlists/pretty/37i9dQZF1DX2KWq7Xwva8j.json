@@ -1,15 +1,15 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Yarea",
-  "num_followers": 21055,
+  "num_followers": 21067,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAwNzY2MCwwMDAwMDAwMGZjOWMxOTI4MmI4ZGQyMmFjMjkyZGJmMDNlNWQ4NmU4",
+  "snapshot_id": "MTY3OTAwNzY2MCwwMDAwMDAwMGE3OTBiZDZkMGFkYWU0MzM5ODA0YzNkZTQ2YTUyNjEw",
   "tracks": [
     {
-      "added_at": "2023-03-19 01:31:16",
+      "added_at": "2023-03-20 01:24:09",
       "album": {
         "name": "NO ME PASA NADA",
         "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
@@ -67,6 +67,22 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
+        "name": "Coraz\u00f3n de Mel\u00f3n",
+        "url": "https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Coraz\u00f3n de Mel\u00f3n",
+      "url": "https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
         "name": "Reventar la Ciudad",
         "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 209271,
       "name": "Reventar la Ciudad",
       "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
-        "name": "Coraz\u00f3n de Mel\u00f3n",
-        "url": "https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Coraz\u00f3n de Mel\u00f3n",
-      "url": "https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -259,22 +259,18 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Agua al dolor",
-        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
+        "name": "PROGRESO",
+        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
         }
       ],
-      "duration_ms": 208372,
-      "name": "Agua al dolor",
-      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
+      "duration_ms": 202040,
+      "name": "PROGRESO",
+      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -295,18 +291,22 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "PROGRESO",
-        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
+        "name": "Agua al dolor",
+        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
       },
       "artists": [
         {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 202040,
-      "name": "PROGRESO",
-      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
+      "duration_ms": 208372,
+      "name": "Agua al dolor",
+      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
     },
     {
       "added_at": "2023-03-09 23:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,068 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,098 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 41 | [Our God Is Greater](https://open.spotify.com/track/61jQN64QwaHBfXidHeBU0H) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Dare 2 Share \- Unending Worship](https://open.spotify.com/album/7ijXWwAzI9UQwbUrFv7Dvd) | 4:42 |
 | 42 | [O Praise the Name \(Live\)](https://open.spotify.com/track/06JooBbucchucT6w3HaMlR) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms Live](https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv) | 4:52 |
 | 43 | [Be Thou My Vision \(Lord You Are\) \[Acoustic\]](https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:13 |
-| 44 | [My Portion](https://open.spotify.com/track/4dEmWwUAXMKMyOkITc6N8L) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:45 |
-| 45 | [Help Me Live in Step \- Live](https://open.spotify.com/track/6LgNEqbZd7TBNSpjTsomIM) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word, Vol\. 2 \(Live\)](https://open.spotify.com/album/7HmiWfc5xCGC5pUoZrP7IC) | 4:34 |
-| 46 | [Lord, I Need You](https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 1](https://open.spotify.com/album/0QjjRF6uAOfTFr1Y6RHofZ) | 4:39 |
-| 47 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 |
-| 48 | [Lord I Lift Your Name on High](https://open.spotify.com/track/7GyF1KwnX5YBxPw2gjbfOd) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 3:16 |
-| 49 | [All Sufficient Merit \- Live](https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [All Sufficient Merit \(Live\)](https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI) | 5:30 |
+| 44 | [Lord, I Need You](https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 1](https://open.spotify.com/album/0QjjRF6uAOfTFr1Y6RHofZ) | 4:39 |
+| 45 | [My Portion](https://open.spotify.com/track/4dEmWwUAXMKMyOkITc6N8L) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:45 |
+| 46 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 |
+| 47 | [Lord I Lift Your Name on High](https://open.spotify.com/track/7GyF1KwnX5YBxPw2gjbfOd) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 3:16 |
+| 48 | [All Sufficient Merit \- Live](https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [All Sufficient Merit \(Live\)](https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI) | 5:30 |
+| 49 | [Help Me Live in Step \- Live](https://open.spotify.com/track/6LgNEqbZd7TBNSpjTsomIM) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word, Vol\. 2 \(Live\)](https://open.spotify.com/album/7HmiWfc5xCGC5pUoZrP7IC) | 4:34 |
 | 50 | [The Lord Is My Salvation](https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 6:11 |
 
-Snapshot ID: `Mjc5ODQyNjYsMDAwMDAwMDA0MTkxYThhZDgyOWYzYWM2Njk5MzIzNjFiODM4NjA4MQ==`
+Snapshot ID: `Mjc5ODcxNjUsMDAwMDAwMDBlMzMxN2QyYWM2NjYwOTk0NzY3ZjdjZmM3ZWNkMThiNw==`

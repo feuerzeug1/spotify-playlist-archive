@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Safia Nolin
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,876 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,884 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 10 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 11 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ) | 3:58 |
 | 12 | [afterall](https://open.spotify.com/track/0JFAzsu2ZYX7HmtjRQ3dVu) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [afterall](https://open.spotify.com/album/0owHLrBuiNkiNgVJZJoY2g) | 3:22 |
-| 13 | [just wanna forget you](https://open.spotify.com/track/1KoKAKqq7vOV0Za6ZE1lkQ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 4:49 |
+| 13 | [just wanna forget you](https://open.spotify.com/track/5uPPfimPoseZ6ptvx1EYhK) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw) | 4:49 |
 | 14 | [Blissful Lands](https://open.spotify.com/track/2RjmK199jrWZFYn6Z8tLbP) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Blissful Lands](https://open.spotify.com/album/6ukumm320OMDbQmN8SHnJS) | 2:59 |
 | 15 | [Pearl](https://open.spotify.com/track/0Qy0ydBu4VsKdnKNTazNrf) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Pearl](https://open.spotify.com/album/75iDlOeKjJUihaEryUECiH) | 5:25 |
 | 16 | [You and Me](https://open.spotify.com/track/5HlcRE58RugnXWoWxzJFu2) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [You and Me](https://open.spotify.com/album/5Lz2AHmIfli0x9B9FATg6a) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 |
 | 100 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDQ2ZTlmYjEzNDFhNWEzMjAyOTg5NDhjNGQ0ZDI2MjUw`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGQ1MDRmMjM2NWFiNzJjNzA2NDhlZmFhNThmNjY1ZjM3`

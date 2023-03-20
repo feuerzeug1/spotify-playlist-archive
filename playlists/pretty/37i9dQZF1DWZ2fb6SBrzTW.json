@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 10816,
+  "num_followers": 10845,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MDY5MSwwMDAwMDAwMGMwNmJjY2M4NTQwYmZmMWMyMGM0YmRjNDA1ZGU5OTYw",
+  "snapshot_id": "MTY3OTA0MDY5MSwwMDAwMDAwMGZjMjYzM2UwMzQ1ZTg2NzA3NTMwYWMzNTViMzUwNjQz",
   "tracks": [
     {
       "added_at": "2023-03-17 08:11:31",
@@ -247,6 +247,26 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -259,6 +279,22 @@
       "duration_ms": 197000,
       "name": "Kolomental",
       "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
+        "name": "I Like Girls",
+        "url": "https://open.spotify.com/album/2UzLjMX7iff7P6KcbL9Ez3"
+      },
+      "artists": [
+        {
+          "name": "Chinko Ekun",
+          "url": "https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs"
+        }
+      ],
+      "duration_ms": 157204,
+      "name": "I Like Girls",
+      "url": "https://open.spotify.com/track/4AJoojPC3el2UWboIKnDDk"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -287,42 +323,6 @@
       "duration_ms": 222506,
       "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
       "url": "https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
-        "name": "I Like Girls",
-        "url": "https://open.spotify.com/album/2UzLjMX7iff7P6KcbL9Ez3"
-      },
-      "artists": [
-        {
-          "name": "Chinko Ekun",
-          "url": "https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs"
-        }
-      ],
-      "duration_ms": 157204,
-      "name": "I Like Girls",
-      "url": "https://open.spotify.com/track/4AJoojPC3el2UWboIKnDDk"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "Aboboyaa (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -383,18 +383,22 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -419,38 +423,18 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Party No Dey Stop",
-        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 168857,
-      "name": "Party No Dey Stop",
-      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -475,18 +459,18 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
         "name": "Otilo (Izz Gone)",
         "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
       },
@@ -607,6 +607,30 @@
       "duration_ms": 248697,
       "name": "Werser",
       "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -655,26 +679,6 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Sungba (Remix) [feat. Burna Boy]",
-        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sungba (feat. Burna Boy) - Remix",
-      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
         "name": "PALAZZO",
         "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
       },
@@ -695,6 +699,26 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
+        "name": "Sungba (Remix) [feat. Burna Boy]",
+        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
         "name": "Continental Playlist",
         "url": "https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ"
       },
@@ -711,22 +735,6 @@
       "duration_ms": 163653,
       "name": "Tight Condition",
       "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
-        "name": "GANGSTER ROMANTIC",
-        "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 175264,
-      "name": "AVAILABU",
-      "url": "https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -755,26 +763,18 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
+        "name": "GANGSTER ROMANTIC",
+        "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+      "duration_ms": 175264,
+      "name": "AVAILABU",
+      "url": "https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
+        "name": "Ara (Gen Gen Tin)",
+        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Ara (Gen Gen Tin)",
+      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
         "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
-        "name": "Ara (Gen Gen Tin)",
-        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Ara (Gen Gen Tin)",
-      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -907,6 +907,26 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
+        "name": "Carry Me Go",
+        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 136464,
+      "name": "Carry Me Go",
+      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
         "name": "Where We Come From, Vol. 01",
         "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
       },
@@ -963,26 +983,6 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "Carry Me Go",
-        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 136464,
-      "name": "Carry Me Go",
-      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
         "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
       },
@@ -1007,6 +1007,26 @@
       "duration_ms": 205530,
       "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/58SSPXzU66q7GdFqUPxCaU"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 176603,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7"
     },
     {
       "added_at": "2023-03-17 08:11:31",
@@ -1047,42 +1067,6 @@
     {
       "added_at": "2023-03-17 08:11:31",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/58SSPXzU66q7GdFqUPxCaU"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 176603,
-      "name": "One Of A Kind",
-      "url": "https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
-        "name": "Ololade Asake",
-        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 190791,
-      "name": "Sungba",
-      "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
-    },
-    {
-      "added_at": "2023-03-17 08:11:31",
-      "album": {
         "name": "La Maluka",
         "url": "https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 274285,
       "name": "La Maluka",
       "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
+    },
+    {
+      "added_at": "2023-03-17 08:11:31",
+      "album": {
+        "name": "Ololade Asake",
+        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 190791,
+      "name": "Sungba",
+      "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
     },
     {
       "added_at": "2023-03-17 08:11:31",

@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 808857,
+  "num_followers": 809004,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwNTQ3MiwwMDAwMDAwMDIxODZkNTg3YjM4ODFmMzg3NDQ5MDA3Mjk0MDIyMDI0",
+  "snapshot_id": "MTY3ODIwNTQ3MiwwMDAwMDAwMDk2MDkwYTQ3MDU0Y2YxMDUzY2JlZDA4NGYxMTk5NjJh",
   "tracks": [
     {
       "added_at": "2021-07-16 14:31:12",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "Mad World - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
         "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 194884,
       "name": "South of the Border (feat. Camila Cabello) - Acoustic",
       "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Mad World - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "There's Nothing Holdin Me Back",
+        "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
+      },
+      "artists": [
+        {
+          "name": "Q.Z.B",
+          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
+        }
+      ],
+      "duration_ms": 199419,
+      "name": "There's Nothing Holdin Me Back",
+      "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
+    },
+    {
       "added_at": "2023-01-03 01:00:29",
       "album": {
         "name": "Fade into You",
@@ -671,22 +687,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "There's Nothing Holdin Me Back",
-        "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
-      },
-      "artists": [
-        {
-          "name": "Q.Z.B",
-          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
-        }
-      ],
-      "duration_ms": 199419,
-      "name": "There's Nothing Holdin Me Back",
-      "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Starboy (Acoustic)",
         "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 225790,
       "name": "Starboy - Acoustic",
       "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -739,18 +723,34 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
       "artists": [
         {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 208568,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Pick Me Up Off The Floor",
+        "url": "https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "To Live",
+      "url": "https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -771,18 +771,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Pick Me Up Off The Floor",
-        "url": "https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW"
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
         }
       ],
-      "duration_ms": 268600,
-      "name": "To Live",
-      "url": "https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X"
+      "duration_ms": 208568,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Paolo Velera",
-        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
-      },
-      "artists": [
-        {
-          "name": "Paolo Velera",
-          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "Life on Mars",
-      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5W7UsE6bg6hx9ygRaebphc"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 143896,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/7Kn7TYpJT0fjv5he98acyq"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Paolo Velera",
+        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
+      },
+      "artists": [
+        {
+          "name": "Paolo Velera",
+          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "Life on Mars",
+      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "City Of Stars",
-        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 154858,
-      "name": "City Of Stars",
-      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 220546,
       "name": "I'll Sleep When I'm Older",
       "url": "https://open.spotify.com/track/1NPW2NXMFicYNlIEoQRrht"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "City Of Stars",
+        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 154858,
+      "name": "City Of Stars",
+      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Saturday Nights",
-        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 178852,
-      "name": "Saturday Nights",
-      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "It Ain't Me Babe",
         "url": "https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 224160,
       "name": "It Ain't Me Babe",
       "url": "https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Saturday Nights",
+        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 178852,
+      "name": "Saturday Nights",
+      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Emily Alone",
         "url": "https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 220189,
       "name": "Shadow Bloom",
       "url": "https://open.spotify.com/track/1Dkzb965hsHKP8iTDqq0AT"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Urban Driftwood",
+        "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Juvenescence",
+      "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
+      },
+      "artists": [
+        {
+          "name": "Nari",
+          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
+        "name": "We Saw Blue",
+        "url": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T"
       },
       "artists": [
         {
-          "name": "Nari",
-          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
         }
       ],
-      "duration_ms": 170571,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
+      "duration_ms": 183502,
+      "name": "Ciranda",
+      "url": "https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "We Saw Blue",
-        "url": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 183502,
-      "name": "Ciranda",
-      "url": "https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
@@ -1667,22 +1667,6 @@
       "duration_ms": 238817,
       "name": "Saudade - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "No Tears Left To Cry",
-        "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 238431,
-      "name": "No Tears Left To Cry",
-      "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
     },
     {
       "added_at": "2023-01-03 01:00:29",
@@ -1699,6 +1683,22 @@
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "No Tears Left To Cry",
+        "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
+      },
+      "artists": [
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "duration_ms": 238431,
+      "name": "No Tears Left To Cry",
+      "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "MILLONES",
-        "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
+        "name": "Fast Car b/w Fire",
+        "url": "https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 187298,
-      "name": "Lado B",
-      "url": "https://open.spotify.com/track/4ER0Cnu2cbSV34VYP54BoK"
+      "duration_ms": 342815,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1851,34 +1851,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Fast Car b/w Fire",
-        "url": "https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ"
+        "name": "MILLONES",
+        "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 342815,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Graveyard",
-        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
-      },
-      "artists": [
-        {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
-        }
-      ],
-      "duration_ms": 254296,
-      "name": "Graveyard - Acoustic",
-      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
+      "duration_ms": 187298,
+      "name": "Lado B",
+      "url": "https://open.spotify.com/track/4ER0Cnu2cbSV34VYP54BoK"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1899,6 +1883,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Graveyard",
+        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 254296,
+      "name": "Graveyard - Acoustic",
+      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "The Moons Detriment",
         "url": "https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m"
       },
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Physical (Acoustic)",
-        "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
       },
       "artists": [
         {
-          "name": "Victoria Voss",
-          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
         }
       ],
-      "duration_ms": 198608,
-      "name": "Physical - Acoustic",
-      "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
+      "duration_ms": 218904,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
+        "name": "Physical (Acoustic)",
+        "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
       },
       "artists": [
         {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "Victoria Voss",
+          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
         }
       ],
-      "duration_ms": 218904,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
+      "duration_ms": 198608,
+      "name": "Physical - Acoustic",
+      "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
+      },
+      "artists": [
+        {
+          "name": "LHITNEY",
+          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
+        }
+      ],
+      "duration_ms": 185446,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -2115,18 +2131,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
       },
       "artists": [
         {
-          "name": "LHITNEY",
-          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
+          "name": "Praia Grande",
+          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
         }
       ],
-      "duration_ms": 185446,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
+      "duration_ms": 225674,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
     },
     {
       "added_at": "2023-01-03 01:00:29",
@@ -2143,22 +2159,6 @@
       "duration_ms": 176548,
       "name": "Terrace Rain",
       "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
-      },
-      "artists": [
-        {
-          "name": "Praia Grande",
-          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
-        }
-      ],
-      "duration_ms": 225674,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 202795,
-      "name": "My Name",
-      "url": "https://open.spotify.com/track/43MfBn9DA4rQWuIk2GRuc6"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "I Want It That Way (Acoustic)",
         "url": "https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 185446,
       "name": "I Want It That Way - Acoustic",
       "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 202795,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/43MfBn9DA4rQWuIk2GRuc6"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2325,22 +2325,6 @@
       "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
     },
     {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
-    },
-    {
       "added_at": "2023-01-03 01:00:29",
       "album": {
         "name": "Wilds",
@@ -2355,6 +2339,22 @@
       "duration_ms": 154026,
       "name": "Spanish On The Beach",
       "url": "https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2021-07-16 14:31:12",

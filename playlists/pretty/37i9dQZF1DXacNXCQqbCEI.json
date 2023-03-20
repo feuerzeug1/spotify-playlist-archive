@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 339517,
+  "num_followers": 339612,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3MTQyNiwwMDAwMDAwMDEzNDQ1NWE3MTRmMjNmM2ZiYjAwMDk4NGVkZTI2ZWZj",
+  "snapshot_id": "MTY3NjQ3MTQyNiwwMDAwMDAwMDg0ZmEyNDUxYWVkMDdlOGQ5OTM0ZjU1MmUyMmY5YmI5",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -215,6 +215,26 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 206895,
+      "name": "Azul Oro",
+      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Otun",
         "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 221925,
       "name": "Mama Clo",
       "url": "https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Azulejos",
-        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 206895,
-      "name": "Azul Oro",
-      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Bennu",
         "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 222222,
       "name": "Chapinero",
       "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Semillero",
-        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
-      },
-      "artists": [
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        },
-        {
-          "name": "Penya",
-          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
-        }
-      ],
-      "duration_ms": 348009,
-      "name": "Pua",
-      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Shika Shika Presents Eco",
         "url": "https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 332830,
       "name": "Paso Por El Fuego",
       "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Semillero",
+        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
+      },
+      "artists": [
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
+        }
+      ],
+      "duration_ms": 348009,
+      "name": "Pua",
+      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
-      },
-      "artists": [
-        {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "Agujeros Blancos",
-      "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -959,22 +943,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK"
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
       },
       "artists": [
         {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Li Saumet",
-          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
         }
       ],
-      "duration_ms": 298809,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7"
+      "duration_ms": 144021,
+      "name": "Agujeros Blancos",
+      "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -999,6 +979,26 @@
       "duration_ms": 477049,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+        }
+      ],
+      "duration_ms": 298809,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "La Tercera Vision",
-        "url": "https://open.spotify.com/album/2U4iGHChiMfFxlOtePA1Yt"
-      },
-      "artists": [
-        {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Khalil Mounji",
-          "url": "https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK"
-        }
-      ],
-      "duration_ms": 235418,
-      "name": "Mano de Fatima",
-      "url": "https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Sutileza",
         "url": "https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 220725,
       "name": "Sutileza",
       "url": "https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "La Tercera Vision",
+        "url": "https://open.spotify.com/album/2U4iGHChiMfFxlOtePA1Yt"
+      },
+      "artists": [
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Khalil Mounji",
+          "url": "https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK"
+        }
+      ],
+      "duration_ms": 235418,
+      "name": "Mano de Fatima",
+      "url": "https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

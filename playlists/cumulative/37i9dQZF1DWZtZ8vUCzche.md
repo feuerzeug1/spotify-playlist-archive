@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-316 songs - 1 day 2 hr 10 min
+317 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Solsbury Hill](https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 1: Car \(Remastered Version\)](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) | 4:21 | 2022-07-20 |  |
 | [Solsbury Hill \- 2002 Remaster](https://open.spotify.com/track/6DnKPMbm4KnBP16v7xde4J) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [R\-Kive](https://open.spotify.com/album/7Jigl7PJCgN4mAODbJYkFT) | 4:23 | 2021-10-15 | 2022-07-29 |
 | [Speedway At Nazareth](https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing To Philadelphia](https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg) | 6:21 | 2021-10-15 | 2022-07-29 |
-| [Speedway at Nazareth](https://open.spotify.com/track/2C4v21V4AUUDMfvzZ6mxuq) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 6:23 | 2023-01-19 |  |
+| [Speedway at Nazareth](https://open.spotify.com/track/2C4v21V4AUUDMfvzZ6mxuq) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 6:23 | 2023-01-19 | 2023-03-20 |
 | [Spirits In The Material World](https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 2:59 | 2022-07-20 |  |
 | [Spirits In The Material World \- Remastered 2003](https://open.spotify.com/track/0h1wFiJEfkPsuJyPHL5j2H) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered\)](https://open.spotify.com/album/5ghoXlpcDLKp3QNC2mzZ8A) | 2:59 | 2021-10-15 | 2022-07-28 |
 | [Square Feet](https://open.spotify.com/track/1CHJtrKc555sk95KB27YAM) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [Split the Atom \(Special Edition\)](https://open.spotify.com/album/6vuaXr9FgaT03zUMSRGU2Z) | 3:28 | 2021-10-15 | 2022-07-29 |
@@ -278,6 +278,7 @@
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2022-07-20 |  |
 | [Texas Sun](https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 4:12 | 2021-10-15 | 2022-07-29 |
 | [The Big Sky \- 2018 Remaster](https://open.spotify.com/track/5JIahiVpnzRZWTR9jpjmr0) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 4:35 | 2022-07-20 | 2023-03-18 |
+| [The Big Sky \- Special Single Mix](https://open.spotify.com/track/1OlR8gWxMgHIb5bduxTz2q) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:38 | 2023-03-13 |  |
 | [The Big Sky \- Special Single Mix](https://open.spotify.com/track/50T7xShSIGpOKvpyVahSAx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:38 | 2022-07-20 | 2022-07-29 |
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 | 2021-10-15 |  |
 | [The Gift](https://open.spotify.com/track/7nviB40euH8GciNuOn7uci) | [Mark Hollis](https://open.spotify.com/artist/1dKzjmxVJw8SSE0LVxW2Dp) | [Mark Hollis](https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA) | 4:22 | 2023-02-02 |  |

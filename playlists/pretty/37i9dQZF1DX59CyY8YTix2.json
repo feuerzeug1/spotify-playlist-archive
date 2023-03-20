@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. \u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Cover: \u30e4\u30e6\u30e8",
-  "num_followers": 39511,
+  "num_followers": 39546,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk3ODgwMCwwMDAwMDAwMDdjNWI5MmUyZDBhNTY1ZmFlMjRjNjFmOWM5M2YyYzlk",
+  "snapshot_id": "MTY3ODk3ODgwMCwwMDAwMDAwMDM1ZDU1NDJkYWFjOWU0NWI5ODQ4YWJmZmE1MGNjMDY3",
   "tracks": [
     {
       "added_at": "2023-03-16 15:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "\u98a8\u306b\u306a\u308c (cover ver.)",
-        "url": "https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "\u98a8\u306b\u306a\u308c (cover ver.)",
-      "url": "https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "Falling into your eyes Record",
         "url": "https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 277223,
       "name": "Futaba",
       "url": "https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "\u5922\u3092\u307f\u305b\u3066",
+        "url": "https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm"
+      },
+      "artists": [
+        {
+          "name": "C\u00f6 Shu Nie",
+          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+        }
+      ],
+      "duration_ms": 324184,
+      "name": "\u5922\u3092\u307f\u305b\u3066",
+      "url": "https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "\u5922\u3092\u307f\u305b\u3066",
-        "url": "https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm"
+        "name": "\u98a8\u306b\u306a\u308c (cover ver.)",
+        "url": "https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py"
       },
       "artists": [
         {
-          "name": "C\u00f6 Shu Nie",
-          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 324184,
-      "name": "\u5922\u3092\u307f\u305b\u3066",
-      "url": "https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID"
+      "duration_ms": 186840,
+      "name": "\u98a8\u306b\u306a\u308c (cover ver.)",
+      "url": "https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e"
     },
     {
       "added_at": "2023-03-16 15:00:00",

@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Le Couleur
 
-86 songs - 5 hr 10 min
+87 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2023-02-10 |  |
 | [Maladresses](https://open.spotify.com/track/3HLN74FVPGyvoep9o0HN4h) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:59 | 2023-02-17 | 2023-03-11 |
 | [Maïa](https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Premier juin](https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86) | 4:28 | 2023-02-10 |  |
-| [Mourir au large \- sunset version](https://open.spotify.com/track/2g9ZVSmnDT6q2uIIDeI5rC) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [SEUM](https://open.spotify.com/album/33CZjzTw0EWuESPByXMyJL) | 2:50 | 2023-03-07 |  |
+| [Mourir au large \- sunset version](https://open.spotify.com/track/2g9ZVSmnDT6q2uIIDeI5rC) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [SEUM](https://open.spotify.com/album/33CZjzTw0EWuESPByXMyJL) | 2:50 | 2023-03-07 | 2023-03-20 |
 | [Mélamine](https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 2:50 | 2023-02-10 |  |
 | [Nimueshtaten nete](https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Nimueshtaten nete](https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO) | 4:00 | 2023-02-10 |  |
 | [Nos corps](https://open.spotify.com/track/2l8apbCCTwY4XpAjR57JW8) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Maladie d'amour](https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV) | 3:39 | 2023-02-10 |  |
@@ -88,6 +88,7 @@
 | [The Rabbit Song](https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D) | [The Blaze Velluto Collection](https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x) | [We Are Sunshine](https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV) | 3:15 | 2023-02-10 |  |
 | [Ton hôtel](https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 2:25 | 2023-02-10 |  |
 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 | 2023-02-10 |  |
+| [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 | 2023-03-17 |  |
 | [Wave](https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Wave](https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE) | 3:59 | 2023-02-10 |  |
 | [whatwasthatwine](https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/4r5raINIASmps1EZ090fio) | 4:01 | 2023-02-10 |  |
 | [Witness Protection](https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Witness](https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl) | 4:09 | 2023-02-10 |  |

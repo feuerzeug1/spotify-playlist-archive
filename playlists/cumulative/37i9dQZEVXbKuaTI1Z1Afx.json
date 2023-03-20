@@ -2287,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "Flowers In the Valley",
+        "url": "https://open.spotify.com/album/7qjs8c7X5g1EU0vVvcE8ot"
+      },
+      "artists": [
+        {
+          "name": "The Clancy Brothers",
+          "url": "https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Beer, Beer, Beer",
+      "url": "https://open.spotify.com/track/43s0E9B8kiEGsAxU0gDkbi"
+    },
+    {
+      "album": {
         "name": "Twang",
         "url": "https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S"
       },
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 191052,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
@@ -6019,6 +6037,24 @@
     },
     {
       "album": {
+        "name": "Drunken Sailor",
+        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
+      },
+      "artists": [
+        {
+          "name": "The Irish Rovers",
+          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176853,
+      "name": "Drunken Sailor",
+      "url": "https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5"
+    },
+    {
+      "album": {
         "name": "Luh Krank 2",
         "url": "https://open.spotify.com/album/5Y3vSMmScKJ5t78adjTiep"
       },
@@ -8266,7 +8302,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 146285,
       "name": "GEEKALEEK (feat. Cash Kidd)",
       "url": "https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt"
@@ -11210,7 +11246,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
@@ -13806,7 +13842,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
@@ -14958,7 +14994,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 131533,
       "name": "Mountain Dew (with Tommy Makem)",
       "url": "https://open.spotify.com/track/1t2NRCaPgdCScicuzq8tjG"
@@ -18090,7 +18126,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
@@ -18636,6 +18672,36 @@
       "duration_ms": 114666,
       "name": "S1KE",
       "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+    },
+    {
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279692,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
     },
     {
       "album": {
@@ -22250,7 +22316,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 196720,
       "name": "The Rocky Road To Dublin",
       "url": "https://open.spotify.com/track/2AMHDHBuhSvcEhbv5IVSB1"
@@ -24416,7 +24482,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 203948,
       "name": "Watch The World Burn",
       "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
@@ -25102,7 +25168,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 178533,
       "name": "Whiskey in the Jar",
       "url": "https://open.spotify.com/track/1UzofFX5AkfTDnwjcBkM4J"

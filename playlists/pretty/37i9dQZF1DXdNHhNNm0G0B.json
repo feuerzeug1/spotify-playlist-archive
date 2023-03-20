@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 69777,
+  "num_followers": 69788,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA4NywwMDAwMDAwMGE5Y2RkNTJhZTIzZDhhNTlmODc5MjdhN2ZmYjBlZGRk",
+  "snapshot_id": "MTY3Nzg2NzA4NywwMDAwMDAwMGU1ZTM4NzAyY2VkZjk1ZWE3N2QwZDU2N2Q0MmZkM2M4",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:27",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Days of Being Wild",
-        "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 50014,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Shapes of the Fall",
         "url": "https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 211600,
       "name": "All Aboard",
       "url": "https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Days of Being Wild",
+        "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 50014,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Butter and Eggs",
-      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Blues In Mono",
         "url": "https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 150733,
       "name": "Well Well Well",
       "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Butter and Eggs",
+      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "A Place at the Table (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars & T Bone Burnett",
-          "url": "https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Focus (Rosie's Theme)",
-      "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Hooray For Another Day",
         "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 525080,
       "name": "Ain't Nobody High Raga",
       "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "A Place at the Table (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars & T Bone Burnett",
+          "url": "https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Focus (Rosie's Theme)",
+      "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Acoustic Burnside",
-        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
-      },
-      "artists": [
-        {
-          "name": "Duwayne Burnside",
-          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
-        }
-      ],
-      "duration_ms": 197237,
-      "name": "Meet Me In The City",
-      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Detroit Blues",
         "url": "https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Jesus I'm a Sinner",
-        "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
+        "name": "Acoustic Burnside",
+        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
       },
       "artists": [
         {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+          "name": "Duwayne Burnside",
+          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
         }
       ],
-      "duration_ms": 412581,
-      "name": "Sarah Anne",
-      "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
+      "duration_ms": 197237,
+      "name": "Meet Me In The City",
+      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -755,6 +739,22 @@
       "duration_ms": 170666,
       "name": "Trouble in Mind",
       "url": "https://open.spotify.com/track/1ymBUTnXZpFaefVJxvoDjL"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Jesus I'm a Sinner",
+        "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 412581,
+      "name": "Sarah Anne",
+      "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
+        "name": "That's All Right",
+        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Mama Don't Tear Your Clothes",
+      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
         "name": "Hooray For Another Day",
         "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Landscape and People",
         "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "That's All Right",
-        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
       },
       "artists": [
         {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
         }
       ],
-      "duration_ms": 116173,
-      "name": "Mama Don't Tear Your Clothes",
-      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
+      "duration_ms": 238000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Orange County Serenade",
+      "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
         "name": "Bottom's Up",
         "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 983850,
       "name": "Seasonal Hire",
       "url": "https://open.spotify.com/track/7sL1LTuyprfH7uR2sdCagh"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Orange County Serenade",
-      "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Hurt Me",
-        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
-      },
-      "artists": [
-        {
-          "name": "Jackson Lynch",
-          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
-        }
-      ],
-      "duration_ms": 155319,
-      "name": "Hurt Me",
-      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Seven Pines",
         "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 245026,
       "name": "Long Nights I",
       "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Hurt Me",
+        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lynch",
+          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
+        }
+      ],
+      "duration_ms": 155319,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
     },
     {
       "added_at": "2023-03-03 18:11:27",

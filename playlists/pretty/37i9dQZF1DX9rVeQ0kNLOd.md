@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,960 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,973 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 43 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 |
 | 44 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
 | 45 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |
-| 46 | [夢で逢えたら](https://open.spotify.com/track/3dTszgeHELrjirdYr5cjr1) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [夢で逢えたら](https://open.spotify.com/album/1ULNF5G2B4FJFqPuOJiaCy) | 4:05 |
-| 47 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
+| 46 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
+| 47 | [夢で逢えたら](https://open.spotify.com/track/3dTszgeHELrjirdYr5cjr1) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [夢で逢えたら](https://open.spotify.com/album/1ULNF5G2B4FJFqPuOJiaCy) | 4:05 |
 | 48 | [タイムマシーン](https://open.spotify.com/track/6VVdhvbvGJZdm8f2f6ZKYo) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [TIME LEAP](https://open.spotify.com/album/1LSdYXveZ1weRohT3cAW9B) | 3:52 |
 | 49 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 |
 | 50 | [something](https://open.spotify.com/track/0rL3ksbcpreSl6lMDPMqZ3) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [something](https://open.spotify.com/album/2ctyx8VCJH5qJOACnsr9fl) | 4:02 |
 
-Snapshot ID: `MTY3ODc1MjAyMywwMDAwMDAwMDNlMzZlNmU3MzQ1ZDdkYmZiYWNkMjY0NGNjNDVkNDll`
+Snapshot ID: `MTY3ODc1MjAyMywwMDAwMDAwMDM4OWNlZjdiYjYzMWIzMTUyNmZmMjUzMDljNzBjZDI4`

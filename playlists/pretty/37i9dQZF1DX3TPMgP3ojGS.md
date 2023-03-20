@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,785 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,018 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 30 | [Together Again](https://open.spotify.com/track/5Nx2GkAaDfh18aZ99OyctW) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Together Again](https://open.spotify.com/album/0qofCh2DmusIXaW9m7Fo6X) | 2:01 |
 | 31 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 |
 | 32 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 |
-| 33 | [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 |
-| 34 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
-| 35 | [in a room full of you](https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt) | [like gentle rain](https://open.spotify.com/artist/1buksjoq8qDrWEYexFNnG4) | [in a room full of you](https://open.spotify.com/album/2YPuaSGp6LRpyD1GchSwkI) | 3:12 |
-| 36 | [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 |
+| 33 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
+| 34 | [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 |
+| 35 | [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 |
+| 36 | [in a room full of you](https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt) | [like gentle rain](https://open.spotify.com/artist/1buksjoq8qDrWEYexFNnG4) | [in a room full of you](https://open.spotify.com/album/2YPuaSGp6LRpyD1GchSwkI) | 3:12 |
 | 37 | [Mist](https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY) | [Sarah Keen](https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE) | [Mist](https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc) | 2:02 |
 | 38 | [Remembrance](https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Remembrance](https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce) | 3:11 |
 | 39 | [Hideaway](https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Hideaway](https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy) | 2:28 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 43 | [Rainbow](https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Leap Of Faith](https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z) | 2:56 |
 | 44 | [Purity](https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Purity](https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03) | 1:41 |
 | 45 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
-| 46 | [Azure](https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Azure](https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG) | 2:24 |
-| 47 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 |
+| 46 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 |
+| 47 | [Azure](https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Azure](https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG) | 2:24 |
 | 48 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 |
 | 49 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 |
 | 50 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 53 | [Gloria](https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Gloria](https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq) | 3:39 |
 | 54 | [As I Dream](https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As I Dream](https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj) | 3:04 |
 | 55 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 |
-| 56 | [Ellebori](https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Ellebori](https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS) | 2:59 |
-| 57 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 |
+| 56 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 |
+| 57 | [Ellebori](https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Ellebori](https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS) | 2:59 |
 | 58 | [along the path](https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [along the path](https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU) | 2:07 |
 | 59 | [Con Cariño](https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Con Cariño](https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp) | 2:26 |
 | 60 | [Je t'ai vu](https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Je t'ai vu](https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X) | 3:00 |
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 62 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 |
 | 63 | [Alivio](https://open.spotify.com/track/2oD7qIB9vDBnE3uBmEh91C) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Alivio](https://open.spotify.com/album/5rxGWLZNit76H2xExKzDVg) | 1:54 |
 | 64 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 |
-| 65 | [Sand Time](https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Sand Time](https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B) | 2:58 |
-| 66 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 |
+| 65 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 |
+| 66 | [Sand Time](https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Sand Time](https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B) | 2:58 |
 | 67 | [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 |
 | 68 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
-| 69 | [Cascada](https://open.spotify.com/track/7dMT5XlXtLoFkUBzJapLUr) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Cascada](https://open.spotify.com/album/7IQlp6U0qYQuaYZqgD96Z0) | 3:09 |
-| 70 | [Hommage d'amitié](https://open.spotify.com/track/5DezuV0RFcMcgA11UGdGBR) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Hommage d'amitié](https://open.spotify.com/album/1TdvDFv91Ff5iDdqK8K64x) | 2:16 |
-| 71 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 |
-| 72 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 |
+| 69 | [Hommage d'amitié](https://open.spotify.com/track/5DezuV0RFcMcgA11UGdGBR) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Hommage d'amitié](https://open.spotify.com/album/1TdvDFv91Ff5iDdqK8K64x) | 2:16 |
+| 70 | [Cascada](https://open.spotify.com/track/7dMT5XlXtLoFkUBzJapLUr) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Cascada](https://open.spotify.com/album/7IQlp6U0qYQuaYZqgD96Z0) | 3:09 |
+| 71 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 |
+| 72 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 |
 | 73 | [Box of Memories](https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Box of Memories](https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ) | 2:42 |
 | 74 | [Hourglass](https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Hourglass](https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P) | 2:02 |
 | 75 | [Windspiel](https://open.spotify.com/track/5UvdAChDs1Rr0GYEkUMZma) | [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [Kris Steininger](https://open.spotify.com/artist/0GJwTqQAbBrHQ44tXTJ1Sb) | [Windspiel](https://open.spotify.com/album/4eeDKOvHgtYecnij6AtgI7) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Sicilienne](https://open.spotify.com/track/0ATCSA5YcOdy8jRY3FRJSe) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Sicilienne](https://open.spotify.com/album/3zOBVDSipEOvDzHVfhSwG0) | 3:00 |
 | 100 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 |
 
-Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMGM3ZDhlNzdhMzFmNzBkZDJlYTZmZjQ0ZDI0OTc0NWJi`
+Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMGUyZTBmZTMyNjQ3MTA5M2UxMDlkZmZlMWRiOWExMzVi`

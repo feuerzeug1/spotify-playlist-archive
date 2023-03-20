@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 150200,
       "name": "Abziehen",
       "url": "https://open.spotify.com/track/42MbpTDZWKc8uAJDhHcvQO"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 221407,
       "name": "All Of The Girls You Loved Before",
       "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 134397,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1cfRQnbM4Cf0xEt3mx2cQ6"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 149030,
       "name": "Au Revoir",
       "url": "https://open.spotify.com/track/4HkRGYJYn1Y99uXpqTyOI6"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -4282,7 +4282,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -6002,7 +6002,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 181913,
       "name": "Discokugel",
       "url": "https://open.spotify.com/track/7n3f6PoPm7LPBYYYlA8lzi"
@@ -6770,7 +6770,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 153615,
       "name": "Du Bist Mein",
       "url": "https://open.spotify.com/track/1bhIHrQ0Lmosy8ajURX00H"
@@ -6956,6 +6956,24 @@
     {
       "album": {
         "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
+    },
+    {
+      "album": {
+        "name": "Eat Your Young",
         "url": "https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt"
       },
       "artists": [
@@ -6966,7 +6984,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
@@ -14434,7 +14452,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 143360,
       "name": "LOWE",
       "url": "https://open.spotify.com/track/35WcLlPTdIGqMIx0K2rzkS"
@@ -14666,7 +14684,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 174413,
       "name": "mailbox (feat. Hava)",
       "url": "https://open.spotify.com/track/7AuMPJMHY3TYeZEZsEy0CF"
@@ -14822,7 +14840,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 121630,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu"
@@ -17026,7 +17044,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 66885,
       "name": "NICE",
       "url": "https://open.spotify.com/track/04qB3GdYC9b06ZossBTLpo"
@@ -18666,7 +18684,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 137847,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
@@ -20232,7 +20250,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -20432,7 +20450,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 157093,
       "name": "Roller",
       "url": "https://open.spotify.com/track/6hw1Sy9wZ8UCxYGdpKrU6M"
@@ -25730,7 +25748,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 212905,
       "name": "Weisse Fahnen",
       "url": "https://open.spotify.com/track/3b4Wdpk6yOx4iEXzfzpnJ9"

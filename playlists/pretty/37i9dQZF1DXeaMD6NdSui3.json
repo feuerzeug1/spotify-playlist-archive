@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 111148,
+  "num_followers": 111257,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDQ2ZTBhZWZlMTBlM2YxYWM2M2IzOTlhZWQ3OTRkNDc5",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGQxMTQxMzM5OGRhNDM4NWMyNmJiNWFjY2RhZWNkZTRl",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -121,24 +121,20 @@
       "url": "https://open.spotify.com/track/0yqpt8kklxBeMD8dpvoD8l"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Too Much is not enough",
-        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
+        "name": "Never Been Rocked Enough",
+        "url": "https://open.spotify.com/album/3PSl0k14EYuc2IYOLL4hoM"
       },
       "artists": [
         {
-          "name": "Omar and The Howlers",
-          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
         }
       ],
-      "duration_ms": 141106,
-      "name": "Honest I Do (feat. Gary Clark, Jr.)",
-      "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
+      "duration_ms": 269933,
+      "name": "Everytime I Roll The Dice",
+      "url": "https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -157,20 +153,24 @@
       "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Never Been Rocked Enough",
-        "url": "https://open.spotify.com/album/3PSl0k14EYuc2IYOLL4hoM"
+        "name": "Too Much is not enough",
+        "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
       },
       "artists": [
         {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+          "name": "Omar and The Howlers",
+          "url": "https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 269933,
-      "name": "Everytime I Roll The Dice",
-      "url": "https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU"
+      "duration_ms": 141106,
+      "name": "Honest I Do (feat. Gary Clark, Jr.)",
+      "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
     },
     {
       "added_at": "2018-02-27 16:43:49",

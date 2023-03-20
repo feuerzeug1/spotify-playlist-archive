@@ -1,12 +1,12 @@
 {
   "description": "Legendary euro- trance & progressive tracks  from the 90s and 00s.",
-  "num_followers": 152267,
+  "num_followers": 152355,
   "original_name": "Dreamy Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1MTQwMCwwMDAwMDAwMDRmMzE1NjY1ZjE5ZjY4OGE2YWIxZTA1MjYyYmVhYTEw",
+  "snapshot_id": "MTY3Nzg1MTQwMCwwMDAwMDAwMDg5OTk5YTY4NTM0MDZkYjVkNzJmYzk5ODVmYmUzOGJk",
   "tracks": [
     {
       "added_at": "2022-06-10 12:01:48",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "The Xpander E.P.",
-        "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
-      },
-      "artists": [
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
-        }
-      ],
-      "duration_ms": 690373,
-      "name": "Xpander",
-      "url": "https://open.spotify.com/track/76mh0rcSJpNhoCCqazptWm"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "Another Chance",
         "url": "https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 210266,
       "name": "Another Chance (Radio Edit)",
       "url": "https://open.spotify.com/track/46WVWDw8SubxyzQUXRBWt4"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "The Xpander E.P.",
+        "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "duration_ms": 690373,
+      "name": "Xpander",
+      "url": "https://open.spotify.com/track/76mh0rcSJpNhoCCqazptWm"
     },
     {
       "added_at": "2022-06-10 12:01:48",

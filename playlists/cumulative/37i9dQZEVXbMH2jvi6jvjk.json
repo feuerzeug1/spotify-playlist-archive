@@ -1609,6 +1609,28 @@
     },
     {
       "album": {
+        "name": "Area 41",
+        "url": "https://open.spotify.com/album/3jzdDsqifVtQ0nmsUrtrBJ"
+      },
+      "artists": [
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/7mCHXCZogKSjmhJlX0sls0"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/7iM2Fx60LL4bRIZ9IqOF7O"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292231,
+      "name": "Area 41",
+      "url": "https://open.spotify.com/track/4KQkNM66fzKYNKN3Dlp3ri"
+    },
+    {
+      "album": {
         "name": "MASS COUNTRY",
         "url": "https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5"
       },
@@ -1726,7 +1748,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2016,7 +2038,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 402890,
       "name": "Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane)",
       "url": "https://open.spotify.com/track/4lOujgdHEUyFThYND4EmlQ"
@@ -5836,7 +5858,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -14664,7 +14686,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 142288,
       "name": "Love Scars",
       "url": "https://open.spotify.com/track/5WoBXa945fS87d083cSkrs"
@@ -19896,7 +19918,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
@@ -20126,7 +20148,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 347929,
       "name": "Ring Ring Ring",
       "url": "https://open.spotify.com/track/2m1rSnIazzgbksxAiS4gpk"
@@ -21250,7 +21272,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -24106,7 +24128,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -28104,7 +28126,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 450320,
       "name": "Xola (feat. Nobuhle, Ze2 & Young Stunna)",
       "url": "https://open.spotify.com/track/5uWDenxq03AYLOq83WzLNo"

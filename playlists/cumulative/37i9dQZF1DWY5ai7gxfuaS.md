@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-164 songs - 11 hr 24 min
+165 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 | 2022-09-29 |  |
 | [Genetic](https://open.spotify.com/track/1D0cE6dFYxoJYZ0oqSQh9O) | [Human Impact](https://open.spotify.com/artist/4y0ph2gWvcF21ODif4ZpZ4) | [EP01](https://open.spotify.com/album/0FHiuFZn3IewRCOd1OWuTj) | 4:40 | 2022-07-26 | 2022-11-19 |
 | [Genetic](https://open.spotify.com/track/2Y5YCKkGcIfi3okuPGzj8v) | [Human Impact](https://open.spotify.com/artist/4y0ph2gWvcF21ODif4ZpZ4) | [Genetic](https://open.spotify.com/album/5ipqFcGfo5SkkDsmf2jZm4) | 4:42 | 2021-12-20 | 2022-07-29 |
+| [Going Under](https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Going Under](https://open.spotify.com/album/1HqFkGXZGw489mMw2xVC9g) | 3:13 | 2023-03-03 |  |
 | [Handshakes With Snakes](https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Handshakes With Snakes](https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD) | 1:57 | 2023-03-03 |  |
 | [Heads Off](https://open.spotify.com/track/1eBYArl3XK56nWoARa5KYy) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/3okB1Cp9n0bKsUcjXWu3gu) | 4:31 | 2022-07-26 | 2022-11-20 |
 | [Heads Off](https://open.spotify.com/track/6YscsgZWCPcceessZBN1di) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7) | 4:31 | 2022-11-18 |  |
@@ -140,7 +141,7 @@
 | [Stuck In My Ways](https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Stuck In My Ways](https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv) | 2:54 | 2023-03-03 |  |
 | [SUICIDE](https://open.spotify.com/track/4atpzYOS3lR8a99kgp1kcC) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [SUICIDE](https://open.spotify.com/album/1vQpCZWCnmYWgF1ZVRCUFt) | 3:47 | 2021-12-20 | 2022-03-04 |
 | [Sun Up To Sun Down \- Remix](https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Sun Up To Sun Down \(Remix\)](https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8) | 2:28 | 2023-02-09 |  |
-| [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 | 2021-12-20 |  |
+| [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 | 2021-12-20 | 2023-03-20 |
 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 | 2022-03-10 |  |
 | [Terrestrial](https://open.spotify.com/track/0lAcdXzZbjmun1OFVgw9JW) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Terrestrial](https://open.spotify.com/album/5fe8okWl0OMdUWYq2xp8Nz) | 5:12 | 2021-12-20 | 2022-11-19 |
 | [Terrible Lie](https://open.spotify.com/track/2e2aWPBaVWrNMngz5ftWPv) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Terrible Lie](https://open.spotify.com/album/2WSoYDdN55rm3lmGW8qSFl) | 4:03 | 2023-02-09 |  |

@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-400 songs - 21 hr 3 min
+401 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-03-18 | 2022-04-13 |
 | [Breathe \(feat\. kaspara\)](https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kaspara](https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2) | [Breathe \(feat\. kaspara\)](https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK) | 2:55 | 2021-06-02 | 2022-10-04 |
 | [Bridged By A Lightwave \- Radio Edit](https://open.spotify.com/track/5emTyRnoMTLc9G44RR6XIE) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Bridged By A Lightwave](https://open.spotify.com/album/5GQm35tkCTK25fQmTou7Nu) | 2:52 | 2021-06-02 | 2022-04-17 |
+| [Bright Lights \(feat\. AR/CO\)](https://open.spotify.com/track/7hz4FnANJOY7tR8eutPxIP) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 3:23 | 2023-03-17 |  |
 | [Brighter Side](https://open.spotify.com/track/2cXlDeF2sUoZRQgYQZ2nb0) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Brighter Side](https://open.spotify.com/album/0osvFkZRM9NfQGUTM0EzOT) | 3:20 | 2021-09-17 | 2022-07-22 |
 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 | 2021-06-04 | 2022-08-06 |
 | [Cafe Del Mar](https://open.spotify.com/track/5rYJdqK0TTWSqSRbOnsLmg) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Cafe Del Mar](https://open.spotify.com/album/7fBrYVTlHm2HDWLciyiWUy) | 3:31 | 2022-04-01 | 2022-04-16 |
@@ -238,7 +239,7 @@
 | [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 | 2022-08-05 |  |
 | [No Illusions](https://open.spotify.com/track/1f3CqEw0F1134cqpfP8l4c) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [No Illusions](https://open.spotify.com/album/3KNiB2o9uMUsOGCnn8zzUI) | 2:59 | 2022-04-15 | 2022-04-20 |
 | [No Man](https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34), [WEiRD GRRL](https://open.spotify.com/artist/6cQgcxR1BLZkXA7R0JrtIz) | [No Man](https://open.spotify.com/album/0bxxLUuFtUf935UQD4r6y3) | 2:13 | 2022-04-01 | 2022-04-16 |
-| [Nobody](https://open.spotify.com/track/7GiozRoMk95aFl1WbrDdjX) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Nobody](https://open.spotify.com/album/0n1BagGDuJad065Qjb7enT) | 2:23 | 2021-06-02 |  |
+| [Nobody](https://open.spotify.com/track/7GiozRoMk95aFl1WbrDdjX) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Nobody](https://open.spotify.com/album/0n1BagGDuJad065Qjb7enT) | 2:23 | 2021-06-02 | 2023-03-20 |
 | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv) | 2:45 | 2022-12-16 | 2023-02-05 |
 | [Not Alone](https://open.spotify.com/track/5ctXnsZojAvfDq75D4N1bz) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Not Alone](https://open.spotify.com/album/6CdexAmMUIwpGJD7q1wD2a) | 3:16 | 2022-02-11 | 2022-07-18 |
 | [Not Alone](https://open.spotify.com/track/2c0dsTO43eKPOjdNvcgkkj) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/1AEJK6ci0Hguv28QMRYopC) | 2:40 | 2023-01-27 |  |

@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 196923,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/2bwDS1XzL0yNHyMEZxbRsI"
@@ -794,6 +794,24 @@
       "duration_ms": 127000,
       "name": "Micelle",
       "url": "https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga"
+    },
+    {
+      "album": {
+        "name": "Mosaic Patterns",
+        "url": "https://open.spotify.com/album/4GdPy1i4mgFy8eFW2JCmot"
+      },
+      "artists": [
+        {
+          "name": "Vadodara",
+          "url": "https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173841,
+      "name": "Mosaic Patterns",
+      "url": "https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj"
     },
     {
       "album": {

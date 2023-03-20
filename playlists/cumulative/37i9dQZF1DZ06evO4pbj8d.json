@@ -867,6 +867,28 @@
     },
     {
       "album": {
+        "name": "We\u2019re All Gonna Die",
+        "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179202,
+      "name": "We\u2019re All Gonna Die (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
+    },
+    {
+      "album": {
         "name": "Who Are You",
         "url": "https://open.spotify.com/album/5daVnBVz3xKJCpNdGIbKxa"
       },

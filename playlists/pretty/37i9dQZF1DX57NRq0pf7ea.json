@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Estos son los hits que acompa\u00f1an la fiesta!",
-  "num_followers": 324382,
+  "num_followers": 324583,
   "original_name": "De Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyOTI2MCwwMDAwMDAwMDJjNzIxMzNhMGYwYzNjNmNiM2NjYjgyODFmMDk1NWFm",
+  "snapshot_id": "MTY3OTAyOTI2MCwwMDAwMDAwMDU5MzI4OWMyYTMyZjYyYzBlMGMyMGQ4ZWVlZTBiODQ0",
   "tracks": [
     {
-      "added_at": "2023-03-19 01:13:00",
+      "added_at": "2023-03-20 01:14:18",
       "album": {
         "name": "REMIX EXCLUSIVO",
         "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
-      "added_at": "2023-03-19 01:13:00",
+      "added_at": "2023-03-20 01:14:18",
       "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
-      "added_at": "2023-03-19 01:13:00",
+      "added_at": "2023-03-20 01:14:18",
       "album": {
         "name": "X 1 BESO",
         "url": "https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
-      "added_at": "2023-03-19 01:13:00",
+      "added_at": "2023-03-20 01:14:18",
       "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
     },
     {
-      "added_at": "2023-03-19 01:13:00",
+      "added_at": "2023-03-20 01:14:18",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2023-03-19 01:13:00",
+      "added_at": "2023-03-20 01:14:18",
       "album": {
         "name": "Que Vuelta",
         "url": "https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
     },
     {
-      "added_at": "2023-03-19 01:13:00",
+      "added_at": "2023-03-20 01:14:18",
       "album": {
         "name": "Sueltas",
         "url": "https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe"
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "CHAO BEBE",
-        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 206499,
-      "name": "CHAO BEBE",
-      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 240413,
       "name": "Pantysito",
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "CHAO BEBE",
+        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 206499,
+      "name": "CHAO BEBE",
+      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1315,26 +1315,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
+        "name": "AGUARDIENTE",
+        "url": "https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp"
       },
       "artists": [
         {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 189080,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
+      "duration_ms": 167175,
+      "name": "AGUARDIENTE",
+      "url": "https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1379,6 +1371,30 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "AUTOM\u00c1TICO",
         "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 175317,
       "name": "AUTOM\u00c1TICO",
       "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "AGUARDIENTE",
-        "url": "https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 167175,
-      "name": "AGUARDIENTE",
-      "url": "https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 233160,
       "name": "Caramelo - Remix",
       "url": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Qu\u00e9 M\u00e1s Pues?",
+        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1603,6 +1603,30 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 153109,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Loco Por Perrearte (Remix)",
         "url": "https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP"
       },
@@ -1639,30 +1663,6 @@
       "duration_ms": 246061,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 153109,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Chica Ideal",
         "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 183240,
       "name": "Chica Ideal",
       "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1879,6 +1879,30 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 209203,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -1919,30 +1943,6 @@
       "duration_ms": 195760,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Tu Recuerdo",
-        "url": "https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 209203,
-      "name": "Tu Recuerdo",
-      "url": "https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF"
     },
     {
       "added_at": "2023-03-10 05:01:00",

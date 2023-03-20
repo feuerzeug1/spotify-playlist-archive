@@ -6631,6 +6631,24 @@
     },
     {
       "album": {
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341733,
+      "name": "Silver Springs - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
+      "url": "https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH"
+    },
+    {
+      "album": {
         "name": "Single in September (Acoustic)",
         "url": "https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj"
       },
@@ -7696,7 +7714,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 162873,
       "name": "Used To It",
       "url": "https://open.spotify.com/track/4s2wGb58RztbSvjqUK8w0a"

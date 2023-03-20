@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 29254,
+  "num_followers": 29303,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMDY2Y2YwMjY0OTA5OTQxOTA3M2Y1NTM2ODE1MDAwN2E4",
+  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMGU0NDQ3Yjc2ZWI3NTcyMjk0OWNmM2I1OWE1YTA0NTAx",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -725,38 +725,6 @@
       "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Papayas",
-        "url": "https://open.spotify.com/album/2yicqz18D45XpgeHAL2692"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 337391,
-      "name": "Papayas",
-      "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Dirty Dancing: Havana Nights",
-        "url": "https://open.spotify.com/album/3DLGOkKxYXAdIJ8d0YSOfm"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "El Estuche",
-      "url": "https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Endangered Species Remixed",
@@ -775,6 +743,38 @@
       "duration_ms": 260000,
       "name": "Mi Swing es Tropical - Zeb Remix",
       "url": "https://open.spotify.com/track/3xwJcguCWN0nHRSANZR8O8"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Dirty Dancing: Havana Nights",
+        "url": "https://open.spotify.com/album/3DLGOkKxYXAdIJ8d0YSOfm"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "El Estuche",
+      "url": "https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Papayas",
+        "url": "https://open.spotify.com/album/2yicqz18D45XpgeHAL2692"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 337391,
+      "name": "Papayas",
+      "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -941,6 +941,22 @@
       "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "The Roots of Chicha 2",
+        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
+      },
+      "artists": [
+        {
+          "name": "Manzanita",
+          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Paga la Cuenta Sinverguenza",
+      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "It's Time",
@@ -959,22 +975,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "The Roots of Chicha 2",
-        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
-      },
-      "artists": [
-        {
-          "name": "Manzanita",
-          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Paga la Cuenta Sinverguenza",
-      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Batazo Batero",
         "url": "https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 298253,
       "name": "Batazo Batero",
       "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1019,6 +1003,22 @@
       "duration_ms": 193626,
       "name": "Palmar",
       "url": "https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Mongo Santamaria's Greatest Hits",
-        "url": "https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
         "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Mongo Santamaria's Greatest Hits",
+        "url": "https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "La China Sonidera",
         "url": "https://open.spotify.com/album/1vrANGVI9a1i4pMdzkuSv3"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 240986,
       "name": "Las Tlayudas",
       "url": "https://open.spotify.com/track/4MkN79McNtKjsRtzZkUG1q"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
+        "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
+      },
+      "artists": [
+        {
+          "name": "Antonio Mach\u00edn",
+          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Tengo una debilidad",
+      "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
-        "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
+        "name": "Banda de los Muertos",
+        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
       },
       "artists": [
         {
-          "name": "Antonio Mach\u00edn",
-          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
+          "name": "Banda de los Muertos",
+          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
         }
       ],
-      "duration_ms": 157266,
-      "name": "Tengo una debilidad",
-      "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
+      "duration_ms": 187440,
+      "name": "Ay Mexicanita",
+      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Banda de los Muertos",
-        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
+        "name": "Elotitos Tiernos",
+        "url": "https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt"
       },
       "artists": [
         {
-          "name": "Banda de los Muertos",
-          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
+          "name": "Liliana Felipe",
+          "url": "https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Ay Mexicanita",
-      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
+      "duration_ms": 392400,
+      "name": "A Su Merced",
+      "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1199,22 +1215,6 @@
       "duration_ms": 545467,
       "name": "Luna Negra - Live",
       "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Elotitos Tiernos",
-        "url": "https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt"
-      },
-      "artists": [
-        {
-          "name": "Liliana Felipe",
-          "url": "https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV"
-        }
-      ],
-      "duration_ms": 392400,
-      "name": "A Su Merced",
-      "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1267,18 +1267,34 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Guajira Guantanamera (Remastered)",
-        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
+        "name": "Tropid\u00e9lico",
+        "url": "https://open.spotify.com/album/0uU60x1GpYBcOS7imngIXS"
       },
       "artists": [
         {
-          "name": "Abelardo Barroso",
-          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
         }
       ],
-      "duration_ms": 137530,
-      "name": "Los tamalitos de Olga - Remastered",
-      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
+      "duration_ms": 257786,
+      "name": "Regi Bugal\u00fa (Bugalu)",
+      "url": "https://open.spotify.com/track/2DUYg6MTswgkA0eBKA0RsG"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1299,34 +1315,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
+        "name": "Guajira Guantanamera (Remastered)",
+        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
       },
       "artists": [
         {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+          "name": "Abelardo Barroso",
+          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
         }
       ],
-      "duration_ms": 245266,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Tropid\u00e9lico",
-        "url": "https://open.spotify.com/album/0uU60x1GpYBcOS7imngIXS"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Regi Bugal\u00fa (Bugalu)",
-      "url": "https://open.spotify.com/track/2DUYg6MTswgkA0eBKA0RsG"
+      "duration_ms": 137530,
+      "name": "Los tamalitos de Olga - Remastered",
+      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Latin Soul Syndicate",
-        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
-      },
-      "artists": [
-        {
-          "name": "Latin Soul Syndicate",
-          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "Frida Kahlo aka Mamasita",
-      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Court the Storm",
@@ -1375,6 +1359,22 @@
       "duration_ms": 176653,
       "name": "Michoacan",
       "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Latin Soul Syndicate",
+        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
+      },
+      "artists": [
+        {
+          "name": "Latin Soul Syndicate",
+          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "Frida Kahlo aka Mamasita",
+      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1473,22 +1473,6 @@
       "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Trio Nuevomexicano",
-        "url": "https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b"
-      },
-      "artists": [
-        {
-          "name": "Lone Pi\u00f1on",
-          "url": "https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "La Xochipitzahuatl",
-      "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Echu Mingua",
@@ -1521,6 +1505,22 @@
       "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Trio Nuevomexicano",
+        "url": "https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b"
+      },
+      "artists": [
+        {
+          "name": "Lone Pi\u00f1on",
+          "url": "https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "La Xochipitzahuatl",
+      "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Maremagnum",
@@ -1535,6 +1535,22 @@
       "duration_ms": 259013,
       "name": "Los Sabores Del Porro",
       "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "El Brown Recluse",
+        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
+      },
+      "artists": [
+        {
+          "name": "Charanga Cakewalk",
+          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
+        }
+      ],
+      "duration_ms": 283746,
+      "name": "Pulque",
+      "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1589,20 +1605,20 @@
       "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "El Brown Recluse",
-        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
       },
       "artists": [
         {
-          "name": "Charanga Cakewalk",
-          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
+          "name": "Hern\u00e1n Gamboa",
+          "url": "https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL"
         }
       ],
-      "duration_ms": 283746,
-      "name": "Pulque",
-      "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
+      "duration_ms": 187813,
+      "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
+      "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1619,22 +1635,6 @@
       "duration_ms": 165626,
       "name": "Mangos",
       "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Gamboa",
-          "url": "https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
-      "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
     },
     {
       "added_at": "2020-05-28 20:45:13",

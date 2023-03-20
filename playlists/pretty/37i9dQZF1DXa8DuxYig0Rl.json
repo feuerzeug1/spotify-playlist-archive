@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 16149,
+  "num_followers": 16169,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDUxMzc3MCwwMDAwMDAwMGYzZDAxYTIyYjg0MjAzMDY3Y2FkZWYxMzA4MTYyZGUx",
+  "snapshot_id": "MTY3NDUxMzc3MCwwMDAwMDAwMGIwMTk1YzU3NGQ2ZDkxMTYwNzFmMWQ1ZGZiZDYzNDUy",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "3 En 1 Super Show De Los Vaskez",
-        "url": "https://open.spotify.com/album/5sFWeLEilmm41a93FXouql"
-      },
-      "artists": [
-        {
-          "name": "El Super Show De Los Vaskez",
-          "url": "https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Pollito Con Papas",
-      "url": "https://open.spotify.com/track/6k8s5icx0itCEkcFOaZUuB"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Edixion Platino",
         "url": "https://open.spotify.com/album/0I03z93hlF5NpbQHqj07ak"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 167933,
       "name": "Necesito Que Regreses",
       "url": "https://open.spotify.com/track/5PD0sX9q4ILqtifyQSHqf6"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "3 En 1 Super Show De Los Vaskez",
+        "url": "https://open.spotify.com/album/5sFWeLEilmm41a93FXouql"
+      },
+      "artists": [
+        {
+          "name": "El Super Show De Los Vaskez",
+          "url": "https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Pollito Con Papas",
+      "url": "https://open.spotify.com/track/6k8s5icx0itCEkcFOaZUuB"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "15 Exitos \"Danzones\"",
-        "url": "https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga"
-      },
-      "artists": [
-        {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "Rigoletito",
-      "url": "https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Aquellos Tiempos del Trio Matamoros",
         "url": "https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 217053,
       "name": "Son de la Loma",
       "url": "https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "15 Exitos \"Danzones\"",
+        "url": "https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "Rigoletito",
+      "url": "https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Danzones a la Mexicana",
+        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "duration_ms": 152006,
+      "name": "Sal\u00f3n M\u00e9xico",
+      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Az\u00facar! Caliente",
         "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 176706,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Danzones a la Mexicana",
-        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
-      },
-      "artists": [
-        {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
-        }
-      ],
-      "duration_ms": 152006,
-      "name": "Sal\u00f3n M\u00e9xico",
-      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Mis 50 Favoritas",
-        "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 191733,
       "name": "Vereda Tropical",
       "url": "https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Mis 50 Favoritas",
+        "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Cabaret Manana",
-        "url": "https://open.spotify.com/album/4iusuKgQWQPNAWsIX7r5wJ"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "Mucha Muchacha",
-      "url": "https://open.spotify.com/track/1OjPNeudZAsKgMvuw04due"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
         "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 168653,
       "name": "La Diablesa del rock",
       "url": "https://open.spotify.com/track/4DOdwPPUnIDZETau5hO9P5"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Cabaret Manana",
+        "url": "https://open.spotify.com/album/4iusuKgQWQPNAWsIX7r5wJ"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "Mucha Muchacha",
+      "url": "https://open.spotify.com/track/1OjPNeudZAsKgMvuw04due"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "A Bailar Se Ha Dicho",
-        "url": "https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH"
-      },
-      "artists": [
-        {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
-        }
-      ],
-      "duration_ms": 146468,
-      "name": "Sabor A Guayaba",
-      "url": "https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Plays Mucho Mambo... and Other Fantastic Compositions",
         "url": "https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 194146,
       "name": "Mambo del Polit\u00e9cnico",
       "url": "https://open.spotify.com/track/18hoGhRHSr0rDwj8V9bsAZ"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "Pancha Baila en Turcos",
+      "url": "https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+        "name": "A Bailar Se Ha Dicho",
+        "url": "https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH"
       },
       "artists": [
         {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
         }
       ],
-      "duration_ms": 188946,
-      "name": "Pancha Baila en Turcos",
-      "url": "https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP"
+      "duration_ms": 146468,
+      "name": "Sabor A Guayaba",
+      "url": "https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "El tilingo",
-      "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Vamos A La Fiesta",
         "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 165301,
       "name": "Zacazonapan",
       "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "El tilingo",
+      "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Aguanta Coraz\u00f3n (1955 -1959)",
-        "url": "https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 174393,
-      "name": "Alma llanera",
-      "url": "https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "El Caballero del Ritmo",
         "url": "https://open.spotify.com/album/2z9SCzTWxm7IkqlfxbAR5d"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 193026,
       "name": "Un Meneito Na' Ma'",
       "url": "https://open.spotify.com/track/61Js6aQ1SK6VmigZl7CS2O"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Aguanta Coraz\u00f3n (1955 -1959)",
+        "url": "https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 174393,
+      "name": "Alma llanera",
+      "url": "https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM"
     },
     {
       "added_at": "2023-01-23 22:42:50",

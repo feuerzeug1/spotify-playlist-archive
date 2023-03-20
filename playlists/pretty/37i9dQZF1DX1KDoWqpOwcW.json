@@ -1,12 +1,12 @@
 {
   "description": "El soundtrack oficial de la Liga Mexicana de Beisbol \u26be\ufe0f\ud83c\udfdf\ud83e\udde2",
-  "num_followers": 4357,
+  "num_followers": 4389,
   "original_name": "Liga Mexicana de Beisbol - Playlist Oficial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU3MDkyMSwwMDAwMDAwMDM4NWJmODhkODJiYTEwZDMxOGUzM2IyNDU5NzliYjEw",
+  "snapshot_id": "MTY2MjU3MDkyMSwwMDAwMDAwMDU0ODE4ZWVkODFiZDhlNGMwNWIwZjUyY2Q4YTcxZGUx",
   "tracks": [
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "The Rhythm of the Night",
-        "url": "https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS"
-      },
-      "artists": [
-        {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "The Rhythm of the Night",
-      "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
         }
       ],
-      "duration_ms": 188693,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+      "duration_ms": 264306,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1683,6 +1667,22 @@
       "duration_ms": 225320,
       "name": "Que calor",
       "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "El Pasito Perr\u00f3n",
-        "url": "https://open.spotify.com/album/5aiLSgtlZ3Q7lM5rOxNOZE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Dinastia Mendoza",
-          "url": "https://open.spotify.com/artist/3hbIVCzwNov0hskmZTeV8l"
-        }
-      ],
-      "duration_ms": 217570,
-      "name": "El Pasito Perr\u00f3n",
-      "url": "https://open.spotify.com/track/5R5ue1RaZEVnMpHYkvNkfR"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "Los 20 Mejores Corridos y Rancheras, Vol. 2",
         "url": "https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 200306,
       "name": "No Soy Monedita de Oro",
       "url": "https://open.spotify.com/track/4rbH1Mh7HDIhx1tsXSFQvq"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "El Pasito Perr\u00f3n",
+        "url": "https://open.spotify.com/album/5aiLSgtlZ3Q7lM5rOxNOZE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Dinastia Mendoza",
+          "url": "https://open.spotify.com/artist/3hbIVCzwNov0hskmZTeV8l"
+        }
+      ],
+      "duration_ms": 217570,
+      "name": "El Pasito Perr\u00f3n",
+      "url": "https://open.spotify.com/track/5R5ue1RaZEVnMpHYkvNkfR"
     },
     {
       "added_at": "2022-09-07 17:15:21",

@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit.
 
-128 songs - 15 hr 33 min
+129 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Amen Amen](https://open.spotify.com/track/45beXwi0eSva0HfDDZJhjR) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj), [Ore Macaulay](https://open.spotify.com/artist/2yK1FYSA1D1hTNFD0rFhrD), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:27 | 2022-10-14 | 2022-11-05 |
 | [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Melodie Wagner](https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd) | [As I Am \(with Peter CottonTale & Melodie Wagner\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 | 2022-06-09 |  |
 | [Ascend](https://open.spotify.com/track/1rhgCARqlp1XCrnTz66y6Z) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Ascend](https://open.spotify.com/album/5FlHPCYzDDLhHsNTwmT3nm) | 9:59 | 2022-06-09 |  |
-| [Assurance](https://open.spotify.com/track/5LJ0LqhxAmRgqU0OtoxJ4X) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8) | [Assurance](https://open.spotify.com/album/28ykxvEn1X7VE1XjDGNXHv) | 2:49 | 2023-03-17 |  |
+| [Assurance](https://open.spotify.com/track/5LJ0LqhxAmRgqU0OtoxJ4X) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8) | [Assurance](https://open.spotify.com/album/28ykxvEn1X7VE1XjDGNXHv) | 2:49 | 2023-03-17 | 2023-03-20 |
 | [Awesome](https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB) | [Charles Jenkins & Fellowship Chicago](https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU) | [Awesome \(Remixes\)](https://open.spotify.com/album/32vZndDj0nQMdWrUESU0eF) | 5:48 | 2022-06-09 |  |
 | [Be Lifted \(Live\)](https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Better Me](https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So) | 8:25 | 2022-06-09 |  |
 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 | 2022-08-25 |  |
@@ -24,6 +24,7 @@
 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 | 2022-06-09 |  |
 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 | 2022-06-09 |  |
 | [Blessing Now](https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Blessing Now](https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM) | 3:28 | 2022-08-25 |  |
+| [BLESSINGS](https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [BLESSINGS](https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU) | 13:44 | 2023-03-17 |  |
 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 | 2022-06-09 |  |
 | [Brighter Days](https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days / Tin Roof](https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX) | 3:28 | 2022-06-09 |  |
 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 | 2022-06-09 |  |

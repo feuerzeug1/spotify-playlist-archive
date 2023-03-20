@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,246 likes - 47 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,249 likes - 47 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,19 +41,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 31 | [In Person](https://open.spotify.com/track/1eeR14LMpSxl2KjrqHup3p) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:06 |
 | 32 | [Blacktop](https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:19 |
 | 33 | [Enemies](https://open.spotify.com/track/7BFKbXUdIyz10tE7d3eR3e) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 5:00 |
-| 34 | [Monochrome](https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:50 |
+| 34 | [Gone](https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:31 |
 | 35 | [So Long](https://open.spotify.com/track/4VP7mWCin77GP9PVGzaSUX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:12 |
 | 36 | [FBLA](https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:39 |
 | 37 | [Taken](https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 1:53 |
-| 38 | [Gone](https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:31 |
-| 39 | [Welcome to Algiers](https://open.spotify.com/track/2lzqK8W07iKSUm69xKhsiN) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:21 |
+| 38 | [Monochrome](https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:50 |
+| 39 | [Seeing Eye Dog](https://open.spotify.com/track/6RvQs3xkobVzjsfKX3278z) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:03 |
 | 40 | [Sinatra](https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 4:23 |
 | 41 | [Rumble](https://open.spotify.com/track/56nd5xG1zkJNYJtcz0mSM3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 2:26 |
 | 42 | [Red Scare](https://open.spotify.com/track/5khIBhLlizgeyCrMtaaEFl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 3:19 |
-| 43 | [Seeing Eye Dog](https://open.spotify.com/track/6RvQs3xkobVzjsfKX3278z) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:03 |
+| 43 | [Welcome to Algiers](https://open.spotify.com/track/2lzqK8W07iKSUm69xKhsiN) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:21 |
 | 44 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
 | 45 | [Your Head](https://open.spotify.com/track/7cF2IWNliAdpy26eYNclbe) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 3:20 |
 | 46 | [Disagreeable](https://open.spotify.com/track/3kfYNMUlAhfrpOv2BexhB5) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Unsung: The Best Of Helmet 1991\-1997](https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO) | 3:44 |
 | 47 | [Born Annoying \(1989\)](https://open.spotify.com/track/3658BS7fkT41j9Bo6I2Ojn) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 6:03 |
 
-Snapshot ID: `Mjc5ODQyNjYsMDAwMDAwMDA1MjQ2OWRlNDU4ZDYzMGRkMmQ4ZjFhM2JhMDNiN2U1Mw==`
+Snapshot ID: `Mjc5ODcxNjUsMDAwMDAwMDA4ZmU1YzMzMzg4MWMyNWZlNGUxM2I3MGM3ZmE4ZmUxOA==`

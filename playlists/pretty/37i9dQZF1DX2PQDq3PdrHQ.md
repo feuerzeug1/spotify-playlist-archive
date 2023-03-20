@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,730 likes - 317 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,519 likes - 317 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,7 +237,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 227 | [My Heart Longs For The Sea](https://open.spotify.com/track/0hifo5IO1oS1ZoQ2mptXis) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7) | [Longing For The Sea](https://open.spotify.com/album/6kMbnr9adjnElu3nq8yjDY) | 1:53 |
 | 228 | [Dreams](https://open.spotify.com/track/59bPMrkv0wvnfy1VftaHnL) | [Mr\. Donsai](https://open.spotify.com/artist/7lw3xexSn1fipl8UlSXtpX) | [Dreams](https://open.spotify.com/album/4qnKfG19vqRF95iLdpTWO2) | 2:10 |
 | 229 | [Setting Sun](https://open.spotify.com/track/2eXiFBMG6BhJbtagTXDqXx) | [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Setting Sun](https://open.spotify.com/album/7ILFyQZmvIqbL7OI0JKwUp) | 2:12 |
-| 230 | [Drifting away](https://open.spotify.com/track/0hqXJSDSUF6GjJGX0mquB9) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Psalms of The Sea](https://open.spotify.com/album/5VADhc1YoZna1R6k8hkTSM) | 2:18 |
+| 230 | [Drifting away](https://open.spotify.com/track/0hqXJSDSUF6GjJGX0mquB9) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL) | [Psalms of The Sea](https://open.spotify.com/album/5VADhc1YoZna1R6k8hkTSM) | 2:18 |
 | 231 | [Always By My Side](https://open.spotify.com/track/7BXyrOfj7T9uHfZucu0hAM) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Socrab](https://open.spotify.com/artist/7zAOggQGCRZo03b0cTR3NB) | [Always By My Side](https://open.spotify.com/album/5Ncm5rj57b0RBlmT1PsUF9) | 2:20 |
 | 232 | [totoro](https://open.spotify.com/track/0lBF1BteJu33MjTtN9OcHa) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Vybe Village](https://open.spotify.com/artist/6WlHbfsgF448dcHWx2bP0P) | [totoro](https://open.spotify.com/album/19GDsnLsmvHf9YzDq99UCp) | 2:24 |
 | 233 | [Moonlit Lake](https://open.spotify.com/track/6QISW6d8YAHaMlyqU7ftqM) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Aiguille](https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu) | [Moonlit Lake](https://open.spotify.com/album/3bDsCHRo37R47zMD21eWs3) | 2:45 |

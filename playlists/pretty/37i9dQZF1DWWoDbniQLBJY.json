@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2015650,
+  "num_followers": 2015638,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDRkNTJjMzYwMmI1MmNjZmFjN2NiMzM1ZmZhZjlkZTI0",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGI4YmM3ZGI3ODQyZjNmZTFlNWMwZWE0YzJlN2I5YzE4",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+        "name": "La Bilirrubina",
+        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
       },
       "artists": [
         {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
+      "duration_ms": 230000,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "La Bilirrubina",
-        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
         }
       ],
-      "duration_ms": 230000,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 258412,
       "name": "Volv\u00ed a Nacer - Live from Spotify",
       "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Chiste",
-        "url": "https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Chiste",
-      "url": "https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 400826,
       "name": "No Ha Parado De Llover - Unplugged",
       "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Chiste",
+        "url": "https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Chiste",
+      "url": "https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "La Mexicana",
         "url": "https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 163213,
       "name": "\u00bfTe Ha Pasado?",
       "url": "https://open.spotify.com/track/6MPmTzi1FdDKu3yhfhVd1Y"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Para Amarte Mejor",
+        "url": "https://open.spotify.com/album/3eWJK3Ina0YU2DxDkGXLw9"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 220264,
+      "name": "Pronostico",
+      "url": "https://open.spotify.com/track/3EFx1JzjOdJQCd6FypuAmh"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -1423,18 +1439,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Para Amarte Mejor",
-        "url": "https://open.spotify.com/album/3eWJK3Ina0YU2DxDkGXLw9"
+        "name": "Preso (Grabado en ONErpm Studios)",
+        "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         }
       ],
-      "duration_ms": 220264,
-      "name": "Pronostico",
-      "url": "https://open.spotify.com/track/3EFx1JzjOdJQCd6FypuAmh"
+      "duration_ms": 175000,
+      "name": "Preso (Grabado en ONErpm Studios)",
+      "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1455,26 +1475,6 @@
       "duration_ms": 453893,
       "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
       "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Preso (Grabado en ONErpm Studios)",
-        "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Preso (Grabado en ONErpm Studios)",
-      "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "La Canci\u00f3n",
         "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "el buf\u00f3n",
-        "url": "https://open.spotify.com/album/3dbV7ZYLqGRsTbpcte68Q8"
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
       "artists": [
         {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 177807,
-      "name": "el buf\u00f3n",
-      "url": "https://open.spotify.com/track/21BSvkIPRTD4noWUoXrjGd"
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 187657,
       "name": "tensi\u00f3n",
       "url": "https://open.spotify.com/track/2nO0Wk3YrbisjXcCDJkR5T"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "el buf\u00f3n",
+        "url": "https://open.spotify.com/album/3dbV7ZYLqGRsTbpcte68Q8"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 177807,
+      "name": "el buf\u00f3n",
+      "url": "https://open.spotify.com/track/21BSvkIPRTD4noWUoXrjGd"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 204734,
       "name": "Un Vuelo A La (feat. Jessie Reyez) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Trazando Rutas",
-        "url": "https://open.spotify.com/album/3vEtOEIJUJa5R5RPAGGbhI"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
       },
       "artists": [
         {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 166947,
-      "name": "Trazando Rutas",
-      "url": "https://open.spotify.com/track/0W9q8vUDXYTQVGLsDj8z6G"
+      "duration_ms": 212773,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+        "name": "Trazando Rutas",
+        "url": "https://open.spotify.com/album/3vEtOEIJUJa5R5RPAGGbhI"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
         }
       ],
-      "duration_ms": 212773,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
+      "duration_ms": 166947,
+      "name": "Trazando Rutas",
+      "url": "https://open.spotify.com/track/0W9q8vUDXYTQVGLsDj8z6G"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Hasta La Ra\u00edz",
-        "url": "https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT"
-      },
-      "artists": [
-        {
-          "name": "Marcol",
-          "url": "https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Hasta La Raiz",
-      "url": "https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Soy capaz",
         "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 225041,
       "name": "Soy capaz - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/0EeZEQ51vHrG569kZocOKe"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Hasta La Ra\u00edz",
+        "url": "https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT"
+      },
+      "artists": [
+        {
+          "name": "Marcol",
+          "url": "https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Hasta La Raiz",
+      "url": "https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ"
     }
   ],
   "unique_name": "Mediod\u00eda Ac\u00fastico",

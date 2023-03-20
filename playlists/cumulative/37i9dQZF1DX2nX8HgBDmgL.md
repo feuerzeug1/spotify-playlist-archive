@@ -4,7 +4,7 @@
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-129 songs - 6 hr 45 min
+130 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bills](https://open.spotify.com/track/1YHlgbQb7qACT02vSgRopY) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Bills](https://open.spotify.com/album/1pq40rifwpeuES8SRpdG2j) | 3:21 | 2021-11-11 | 2022-07-19 |
 | [Bills \(Afrobeats Remix\)](https://open.spotify.com/track/0Rx5fjG8RQQhbFaYfJ6twF) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Bills \(Afrobeats Remix\)](https://open.spotify.com/album/0Bkne36PxE1lQMLvBUWpuk) | 2:48 | 2021-11-11 | 2022-07-19 |
 | [Bombay](https://open.spotify.com/track/1FmVug8uLd7pdFDTE569wn) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Bombay](https://open.spotify.com/album/0s0tv81NR9SFBZeG67iZLd) | 3:32 | 2021-11-11 | 2022-07-19 |
+| [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-19 |  |
 | [Changes](https://open.spotify.com/track/1vu9t6ctWcJyp05cyYSPzC) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Arrival](https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD) | 3:19 | 2021-11-11 | 2022-07-19 |
 | [Chemistry](https://open.spotify.com/track/3Owi1WFOGSbb8rqspfVEO4) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK) | [Chemistry](https://open.spotify.com/album/3cx7Q9tJE4JZVWF9pghpAn) | 2:47 | 2021-11-11 | 2022-07-19 |
 | [Cleopatra](https://open.spotify.com/track/0YIS5mqANRBYctDGoT48n7) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [SKYPEARL](https://open.spotify.com/album/4QJAdeUYpNo8d4Xcsc5q23) | 3:10 | 2022-07-18 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM0NTcyMiwwMDAwMDAwMDI3ZTlkZTU0N2IyYjAxN2Q2YTkyMjdkYzQ2NjNiODQ1",
+  "snapshot_id": "MTY3NTM0NTcyMiwwMDAwMDAwMDA0MWRhY2Y4MTk3MWZmYjYyM2JkMGFlOTlhMGJiYzI4",
   "tracks": [
     {
       "added_at": "2023-02-02 13:48:42",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
+        "name": "Santorini Sunbath ASMR",
+        "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
+      },
+      "artists": [
+        {
+          "name": "Summer ASMR",
+          "url": "https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6"
+        }
+      ],
+      "duration_ms": 304949,
+      "name": "Into Dreams",
+      "url": "https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
         "name": "Anticipatory Ear to Ear Whisepers",
         "url": "https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL"
       },
@@ -519,38 +535,6 @@
       "duration_ms": 302000,
       "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
       "url": "https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
-        "name": "Santorini Sunbath ASMR",
-        "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
-      },
-      "artists": [
-        {
-          "name": "Summer ASMR",
-          "url": "https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6"
-        }
-      ],
-      "duration_ms": 304949,
-      "name": "Into Dreams",
-      "url": "https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
-        "name": "Russian Language Revision - Cyrillic Alphabet",
-        "url": "https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh"
-      },
-      "artists": [
-        {
-          "name": "iPad ASMR",
-          "url": "https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Alphabet Revision, Pt. 1",
-      "url": "https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -603,6 +587,22 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
+        "name": "Russian Language Revision - Cyrillic Alphabet",
+        "url": "https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh"
+      },
+      "artists": [
+        {
+          "name": "iPad ASMR",
+          "url": "https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Alphabet Revision, Pt. 1",
+      "url": "https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
         "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
         "url": "https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR 8D Mic Scratching w/Spoolie and Slow Whispering",
-        "url": "https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc"
-      },
-      "artists": [
-        {
-          "name": "ASMR Art of Sound",
-          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "8D Mic Scratching with Spoolie and Slow Whispering, Pt. 4",
-      "url": "https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Shh it's Ok, Relax and Ramble (Personal Attention/Affirmation)",
         "url": "https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX"
       },
@@ -683,18 +667,34 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "7 Terrific Triggers",
-        "url": "https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3"
+        "name": "ASMR 8D Mic Scratching w/Spoolie and Slow Whispering",
+        "url": "https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc"
       },
       "artists": [
         {
-          "name": "TheOneLilium ASMR",
-          "url": "https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa"
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
         }
       ],
-      "duration_ms": 216000,
-      "name": "7 Terrific Triggers, Pt. 1",
-      "url": "https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK"
+      "duration_ms": 206000,
+      "name": "8D Mic Scratching with Spoolie and Slow Whispering, Pt. 4",
+      "url": "https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "Intensely Crunchy Celery Eating",
+        "url": "https://open.spotify.com/album/40JIcThcdSCG0hGyxKQDec"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "duration_ms": 884434,
+      "name": "Positive Affirmations",
+      "url": "https://open.spotify.com/track/4tO8q7KwM67C86FJHDAeoY"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Intensely Crunchy Celery Eating",
-        "url": "https://open.spotify.com/album/40JIcThcdSCG0hGyxKQDec"
+        "name": "7 Terrific Triggers",
+        "url": "https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3"
       },
       "artists": [
         {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+          "name": "TheOneLilium ASMR",
+          "url": "https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa"
         }
       ],
-      "duration_ms": 884434,
-      "name": "Positive Affirmations",
-      "url": "https://open.spotify.com/track/4tO8q7KwM67C86FJHDAeoY"
+      "duration_ms": 216000,
+      "name": "7 Terrific Triggers, Pt. 1",
+      "url": "https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Laura Says ASMR",
-        "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
+        "name": "10 Triggers To Help Relax Your Brain At Night",
+        "url": "https://open.spotify.com/album/4Y2f2gw5ICKXpnCni6JMnb"
       },
       "artists": [
         {
-          "name": "Laura Love ASMR",
-          "url": "https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn"
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
         }
       ],
-      "duration_ms": 244129,
-      "name": "Breathing in and out",
-      "url": "https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t"
+      "duration_ms": 584000,
+      "name": "Whispers and Dry Ear Massage",
+      "url": "https://open.spotify.com/track/2ElSMaqppBJZrM5wxRaJ0T"
     }
   ],
   "unique_name": "ASMR Sleep Whispers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,094 likes - 89 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,107 likes - 89 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,16 +75,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 65 | [Ángel Del Pasado](https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Ángel Del Pasado](https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo) | 4:06 |
 | 66 | [La Pipa](https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Sergio Colombo Presenta el Natty Combo](https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s) | 5:49 |
 | 67 | [Nadie Sabe](https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Que Bonita Vecindad](https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh) | 3:43 |
-| 68 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
-| 69 | [Portal De Luz](https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Portal De Luz](https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw) | 4:19 |
+| 68 | [Portal De Luz](https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Portal De Luz](https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw) | 4:19 |
+| 69 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
 | 70 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
 | 71 | [Señorita](https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E) | [Lumumba Oficial](https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Raices y Cultura](https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx) | 4:41 |
 | 72 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
 | 73 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
-| 74 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
-| 75 | [Si vas a dejarme...](https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 4:20 |
+| 74 | [Si vas a dejarme...](https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 4:20 |
+| 75 | [Cerquita](https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [La Vida Es Una Canción II](https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd) | 4:18 |
 | 76 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 |
-| 77 | [Cerquita](https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [La Vida Es Una Canción II](https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd) | 4:18 |
+| 77 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
 | 78 | [Groove Me](https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Groove Me](https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw) | 3:04 |
 | 79 | [Más Libre](https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Luis Alfa](https://open.spotify.com/artist/5eBjZZzNvOtwyiVUKVJoux) | [Alta Lucha](https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v) | 3:22 |
 | 80 | [Va Salir](https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Va Salir](https://open.spotify.com/album/4YxwFWxeTj9cqJej7q40Vy) | 4:13 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 83 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |
 | 84 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
 | 85 | [Al Final](https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras Lado B](https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv) | 2:48 |
-| 86 | [Flores y Burbujas](https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Flores y Burbujas](https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j) | 5:04 |
-| 87 | [Strengthen Your Mind](https://open.spotify.com/track/3BjRtnuG74eUj4dYp9mrDT) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 4:46 |
+| 86 | [Strengthen Your Mind](https://open.spotify.com/track/3BjRtnuG74eUj4dYp9mrDT) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 4:46 |
+| 87 | [Flores y Burbujas](https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Flores y Burbujas](https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j) | 5:04 |
 | 88 | [El Cuento](https://open.spotify.com/track/6Z64rcX4toR740wFD9PCvT) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [El Cuento](https://open.spotify.com/album/2qselQbY8QZncTIS9Aenn2) | 3:10 |
 | 89 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
 
-Snapshot ID: `MTY3ODQwOTMyMCwwMDAwMDAwMDlkNGI1NmQ5ODg4MzQ1YmEyMDA5NDdmYWRhNWUwMTEw`
+Snapshot ID: `MTY3ODQwOTMyMCwwMDAwMDAwMDU2MzMwZjUzMjhmZmMwNjVmYWM5OTczNjAwMzQzNDQ5`

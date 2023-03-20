@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 25401,
+  "num_followers": 25425,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGM1ODk0ODA0YTE0OGU3ODc5ZGRjNDI2YmExNTFmODU4",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGYzOTMwY2U3NDM1Nzg5OWNlYTI5MDg2OGQxZGY3NThm",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -443,6 +443,30 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Buya",
+        "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "duration_ms": 464182,
+      "name": "Buya - Da Capo Remix",
+      "url": "https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
       },
@@ -479,26 +503,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Buya",
-        "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
       "artists": [
         {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Toshi",
-          "url": "https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63"
-        },
-        {
-          "name": "Da Capo",
-          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
         }
       ],
-      "duration_ms": 464182,
-      "name": "Buya - Da Capo Remix",
-      "url": "https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt"
+      "duration_ms": 327231,
+      "name": "Rainbow Road",
+      "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -515,22 +531,6 @@
       "duration_ms": 235803,
       "name": "Yardley Suite",
       "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 327231,
-      "name": "Rainbow Road",
-      "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -639,6 +639,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW"
+      },
+      "artists": [
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        },
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "duration_ms": 343283,
+      "name": "2 Far Gone",
+      "url": "https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Tanto Tiempo",
         "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW"
-      },
-      "artists": [
-        {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
-        },
-        {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
-        }
-      ],
-      "duration_ms": 343283,
-      "name": "2 Far Gone",
-      "url": "https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF"
     },
     {
       "added_at": "2021-10-08 17:36:35",

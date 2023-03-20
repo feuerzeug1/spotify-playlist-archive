@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-570 songs - 1 day 0 hr 17 min
+571 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2022-05-27 | 2022-07-21 |
 | [Hideaway](https://open.spotify.com/track/3poVmAGCtZCM3Y0iRO1zWA) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Deep Blue Sea](https://open.spotify.com/album/0i5XbMBrhhikBCn2ExEWSt) | 2:56 | 2022-05-27 | 2022-09-24 |
 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 | 2022-05-27 | 2022-09-24 |
-| [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-05-27 |  |
+| [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-05-27 | 2023-03-20 |
 | [Hinoki](https://open.spotify.com/track/2IeuNWrM2UvBPsxPgzcW3l) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Hinoki](https://open.spotify.com/album/7JSNOlYLvEIgJp7WoJIRei) | 2:14 | 2022-05-27 | 2022-09-24 |
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2022-05-27 | 2022-09-24 |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2022-05-27 |  |
@@ -526,6 +526,7 @@
 | [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 | 2023-02-26 |
 | [Tålamod](https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Tålamod](https://open.spotify.com/album/6QFz6Bw5GxaANTxIiL67EW) | 2:39 | 2022-05-27 | 2023-02-15 |
 | [Un instante](https://open.spotify.com/track/3IekwR2RInfv68Xyu7rk2B) | [Lukas Wall](https://open.spotify.com/artist/4N5fnolz7HorIGjo95HuB2) | [Un instante](https://open.spotify.com/album/02BuTkEn4fJqESdijpzFaJ) | 3:35 | 2022-05-27 | 2022-09-24 |
+| [Un Jour Viendra](https://open.spotify.com/track/3ccBuCUCjkArY2U3x3gA8s) | [Francis Laplanne](https://open.spotify.com/artist/5CKQ9qNvPaV6mZ3eeOcUMY) | [Un Jour Viendra](https://open.spotify.com/album/34RXSvhj4VpACMwyx1LDeX) | 1:44 | 2023-03-20 |  |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-05-27 |  |
 | [Unbroken](https://open.spotify.com/track/0sYYa0fs1PVKGyceC2QEP4) | [William Heller](https://open.spotify.com/artist/0bblIjmXpe2k574egtCQnr) | [Unbroken](https://open.spotify.com/album/3Mxgp3hM0MrIQN8iIoDPJG) | 2:34 | 2022-05-27 | 2022-07-21 |
 | [Under the Willow Tree](https://open.spotify.com/track/3qto6LgDhFq9FGrAORDBzX) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [Summer Breeze](https://open.spotify.com/album/4u92wdvS8QrFikLjgPBsZa) | 2:06 | 2022-05-27 |  |

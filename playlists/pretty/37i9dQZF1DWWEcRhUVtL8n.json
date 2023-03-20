@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: JAWNY",
-  "num_followers": 1704060,
+  "num_followers": 1703997,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGIxOGVjNmNkM2FhNTMwODM1ZDU3ZDY0NDY2MWExOTQ3",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGQ1MThhMTNiMTRmYjkzYjJiOWI2ZTQxZjc5MDkyMzFl",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2023-02-24 04:12:15",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 212568,
       "name": "Oh Caroline",
       "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
+    },
+    {
+      "added_at": "2023-02-24 04:12:15",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 182426,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+      "duration_ms": 178617,
+      "name": "Looking For Somebody (To Love)",
+      "url": "https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -415,6 +415,22 @@
       "duration_ms": 193749,
       "name": "Sore Eyes",
       "url": "https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD"
+    },
+    {
+      "added_at": "2023-02-24 04:12:15",
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -447,22 +463,6 @@
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
-    },
-    {
-      "added_at": "2023-02-24 04:12:15",
-      "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 178617,
-      "name": "Looking For Somebody (To Love)",
-      "url": "https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT"
     },
     {
       "added_at": "2023-02-24 04:12:15",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
+    },
+    {
+      "added_at": "2023-02-24 04:12:15",
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2"
       },
@@ -579,6 +595,22 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 216374,
+      "name": "Pretty In Possible",
+      "url": "https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7"
+    },
+    {
+      "added_at": "2023-02-24 04:12:15",
+      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -599,38 +631,6 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 216374,
-      "name": "Pretty In Possible",
-      "url": "https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7"
-    },
-    {
-      "added_at": "2023-02-24 04:12:15",
-      "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 262623,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
-    },
-    {
-      "added_at": "2023-02-24 04:12:15",
-      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-24 04:12:15",
       "album": {
-        "name": "paper",
-        "url": "https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw"
-      },
-      "artists": [
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
-        }
-      ],
-      "duration_ms": 167675,
-      "name": "paper",
-      "url": "https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ"
-    },
-    {
-      "added_at": "2023-02-24 04:12:15",
-      "album": {
         "name": "Cognitive Dissonance",
         "url": "https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 176000,
       "name": "Cognitive Dissonance",
       "url": "https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x"
+    },
+    {
+      "added_at": "2023-02-24 04:12:15",
+      "album": {
+        "name": "paper",
+        "url": "https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 167675,
+      "name": "paper",
+      "url": "https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ"
     },
     {
       "added_at": "2023-02-24 04:12:15",

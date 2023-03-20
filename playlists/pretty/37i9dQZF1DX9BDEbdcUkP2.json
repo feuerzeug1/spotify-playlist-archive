@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 95348,
+  "num_followers": 95385,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMDkxNDEwYTA3MzE5ODE5OWQ3OWZhYTY2ZjAxY2VmZjgx",
+  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMGQ2ZWUwMjQ2ZGEyZGFkMjJhYjk1ZGY3MDlkZTgxZWEw",
   "tracks": [
     {
       "added_at": "2022-04-16 03:31:06",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Honky Tonk Women / You Can't Always Get What You Want",
         "url": "https://open.spotify.com/album/1bp4Aq0SnjhifrYaKbfSdS"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 182706,
       "name": "Honky Tonk Women",
       "url": "https://open.spotify.com/track/3fnPv1LRMxENr63afVhaz1"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "Time of the Season - Mono Version",
-      "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Santana's Greatest Hits",
         "url": "https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 196466,
       "name": "Black Magic Woman - Single Version",
       "url": "https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
+        "name": "Gimme Some Loving / Blues In F",
+        "url": "https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Gimme Some Lovin' - Single Mix",
+      "url": "https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
-        "name": "The Fabulous Miracles",
-        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
-      },
-      "artists": [
-        {
-          "name": "The Miracles",
-          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
     }
   ],
   "unique_name": "Summer Hits of the 60s",

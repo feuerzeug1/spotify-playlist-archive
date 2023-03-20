@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 65766,
+  "num_followers": 65851,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0OTIzNiwwMDAwMDAwMDBhOTI5MzkwODBkZjJlOTEyNTIxODExNDY0M2E5ZTM4",
+  "snapshot_id": "MTY3NDE0OTIzNiwwMDAwMDAwMDdlZDhlYTNmMTI4ZTVhZWY2MzZhNzE1NmU4NTlhM2U5",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Diana & Marvin",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 190440,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "Rock Me Tonight",
+        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Jackson",
+          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
+        }
+      ],
+      "duration_ms": 284119,
+      "name": "You Are My Lady",
+      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 275826,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Rock Me Tonight",
-        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Jackson",
-          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
-        }
-      ],
-      "duration_ms": 284119,
-      "name": "You Are My Lady",
-      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
     },
     {
       "added_at": "2023-01-19 17:27:16",

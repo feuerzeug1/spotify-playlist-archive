@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,481 likes - 62 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,566 likes - 62 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 31 | [I Was Made for Dancin'](https://open.spotify.com/track/3kovBaZ1LGLH1PL31qG7cL) | [Leif Garrett](https://open.spotify.com/artist/2MyNAoQL07EABerr6yhoT4) | [The Leif Garrett Collection](https://open.spotify.com/album/1FWTjROros7lbWXXmHKqJc) | 3:16 |
 | 32 | [This Is It](https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [This Is It \(Expanded Edition\)](https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz) | 3:31 |
 | 33 | [The Love I Lost \(feat\. Teddy Pendergrass\) \- Single Version](https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:33 |
-| 34 | [Love Really Hurts Without You](https://open.spotify.com/track/1wZAaGMT6gnaCqck7dwjKv) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 2:59 |
-| 35 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
+| 34 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
+| 35 | [Love Really Hurts Without You](https://open.spotify.com/track/1wZAaGMT6gnaCqck7dwjKv) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 2:59 |
 | 36 | [It's a Disco Night \(Rock Don't Stop\), Pts\. 1 & 2](https://open.spotify.com/track/4mJfDc1mot6O8NvPbXaTgq) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Winner Takes All](https://open.spotify.com/album/0SVqyFBkvKyaZMRKKftr6z) | 5:15 |
 | 37 | [Call Me](https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 6:22 |
 | 38 | [Taste of Bitter Love](https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [About Love \(Expanded Edition\)](https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6) | 4:38 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 61 | [You Little Trustmaker](https://open.spotify.com/track/0oBGKZP0d982ct1ZZeX6Uq) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 2:49 |
 | 62 | [Pipeline](https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:57 |
 
-Snapshot ID: `MTY0MTgxODc0MiwwMDAwMDAwMDljMzgxNGNhMDBlMTc3ZDZlZDlhNzgxODcwZDE1MTI3`
+Snapshot ID: `MTY0MTgxODc0MiwwMDAwMDAwMDU5MjUwMWNkMzJiZDNlYWFjMjdjZjA4NTMwYWQwYjQy`

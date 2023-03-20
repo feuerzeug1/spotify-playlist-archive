@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 6542,
+  "num_followers": 6560,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDZhZGNkMDQ1NTAwYmZlYzQ1MjM2MWFjN2IxZTYwZDBh",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGJiZjQyMDQ2ZjIxMGU5MjI4OGYyMjM5MzIzMDg3Mjdh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
         }
       ],
-      "duration_ms": 181922,
-      "name": "Dragonball Durag",
-      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
       "artists": [
         {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+      "duration_ms": 181922,
+      "name": "Dragonball Durag",
+      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 179226,
       "name": "Sleepless Nights (feat. Phoelix)",
       "url": "https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
     },
     {
       "added_at": "2022-10-01 16:00:00",

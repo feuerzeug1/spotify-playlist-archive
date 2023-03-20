@@ -4,7 +4,7 @@
 
 > Uplifting and energetic music that helps you stay motivated.
 
-605 songs - 1 day 6 hr 16 min
+606 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-06-16 |  |
 | [Kids](https://open.spotify.com/track/10A0QRPnDy605pBZ5Lw3pL) | [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Kids](https://open.spotify.com/album/3BkE4Ws2kwc5RPL9qoDQPI) | 2:27 | 2020-08-14\* | 2021-12-18 |
 | [Kilimanjaro](https://open.spotify.com/track/1nYfiiwCQOX5mY7Git99Rp) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [Dive With Me](https://open.spotify.com/album/0z7F1uxjghiQIGFc79XSXN) | 3:08 | 2021-03-07 | 2021-03-19 |
-| [Killing Me Softly](https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Killing Me Softly](https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk) | 2:39 | 2022-05-26 |  |
+| [Killing Me Softly](https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Killing Me Softly](https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk) | 2:39 | 2022-05-26 | 2023-03-20 |
 | [Kings & Queens \- MOTi Remix](https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Kings & Queens \(The Remixes\)](https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT) | 3:00 | 2020-08-14\* | 2022-08-05 |
 | [Kiss You All Over \- Single Edit](https://open.spotify.com/track/1wHkIswzW9zGCOLDBYbHFL) | [Isaac Elton](https://open.spotify.com/artist/0mxa4JzMvYVnNjxdqk4tsj) | [Kiss You All Over](https://open.spotify.com/album/7gQHjlah4wU7xTEeXaecng) | 4:00 | 2021-03-06 | 2021-03-21 |
 | [L.A\. Traffic](https://open.spotify.com/track/4iawpO1RzATvvCB95cHFf0) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0), [RoseeLu](https://open.spotify.com/artist/0z6AS7aXaXqveKFus4AV9E) | [L.A\. Traffic](https://open.spotify.com/album/1kWDvWlapMxiB5cD9GYw2Q) | 2:55 | 2020-08-14\* | 2022-01-12 |
@@ -363,6 +363,7 @@
 | [Never Let You Go](https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Never Let You Go](https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0) | 2:58 | 2022-11-07 |  |
 | [Never Letting Go](https://open.spotify.com/track/5llPdGZJjJFJv9aL6ZaiLY) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Never Letting Go](https://open.spotify.com/album/7wufuX5VOkpdsAMxXIekGT) | 2:52 | 2021-03-10 | 2021-12-20 |
 | [Nightfall](https://open.spotify.com/track/490LclNVKfdheKMqdyjzZN) | [Joakim Lundell](https://open.spotify.com/artist/0XNvr6bnNywV946ZKaJtr0), [Amskøld](https://open.spotify.com/artist/7o6U74dOhZuJR9kel2lnyl) | [Nightfall](https://open.spotify.com/album/3wisjcJYpSNLvXT64jPOiS) | 2:33 | 2021-03-06 | 2022-05-26 |
+| [Nikes](https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Nikes](https://open.spotify.com/album/5UHMgAgtfB9zgRdkOgq4MK) | 2:29 | 2023-03-09 |  |
 | [No Diggity](https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj) | 3:38 | 2022-08-18 |  |
 | [No Diggity](https://open.spotify.com/track/74svMcorgPABViSTZka4yw) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st) | 3:38 | 2022-03-31 | 2022-07-31 |
 | [No Diggity](https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [No Diggity](https://open.spotify.com/album/1x66drtf4CW5onOaeS0oz3) | 2:48 | 2021-04-05 | 2021-11-12 |

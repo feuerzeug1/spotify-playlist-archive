@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Welcome to the Eras Era, it's been waitin' for you 💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,022,774 likes - 107 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,023,557 likes - 107 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

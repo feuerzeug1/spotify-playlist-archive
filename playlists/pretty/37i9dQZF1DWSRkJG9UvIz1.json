@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 122630,
+  "num_followers": 122748,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUwNTkwMiwwMDAwMDAwMGQxMjllOWM4OTYxZjBjZGI2NmVjZWVjNzhhODExNTBl",
+  "snapshot_id": "MTY3ODUwNTkwMiwwMDAwMDAwMDhmNjU4ZDViZDNiYjllYWY2YjQ0ZTQxY2ZmZGZhYzY5",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Gar\u00faa (Sabor a Querer)",
-        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
-      },
-      "artists": [
-        {
-          "name": "Tayko",
-          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
-        },
-        {
-          "name": "Migliz",
-          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Gar\u00faa (Sabor a Querer)",
-      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
+        "name": "Gar\u00faa (Sabor a Querer)",
+        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
+      },
+      "artists": [
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Migliz",
+          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Gar\u00faa (Sabor a Querer)",
+      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 274537,
-      "name": "Bossa Velha",
-      "url": "https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
         "name": "SELFIE",
         "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 123596,
       "name": "Noite Quente de Ver\u00e3o",
       "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 274537,
+      "name": "Bossa Velha",
+      "url": "https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ"
     },
     {
       "added_at": "2023-03-11 03:38:22",

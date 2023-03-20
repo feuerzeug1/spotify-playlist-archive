@@ -4,7 +4,7 @@
 
 > Sarapan sesuap semangat bersama lagu\-lagu dari Spotify.
 
-78 songs - 4 hr 53 min
+79 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Melompat Lebih Tinggi](https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [OST\. 30 Hari Mencari Cinta](https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB) | 3:18 | 2022-12-13 |  |
 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 | 2022-12-13 |  |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2022-12-13 |  |
-| [Penantian Berharga](https://open.spotify.com/track/62SNlZ1MJiY98movqq7ZSS) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Penantian Berharga](https://open.spotify.com/album/5zhXlETGMYS961e8GC8pCc) | 3:37 | 2022-12-13 |  |
+| [Penantian Berharga](https://open.spotify.com/track/62SNlZ1MJiY98movqq7ZSS) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Penantian Berharga](https://open.spotify.com/album/5zhXlETGMYS961e8GC8pCc) | 3:37 | 2022-12-13 | 2023-03-20 |
+| [Penantian Berharga](https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Penantian Berharga](https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1) | 3:38 | 2023-03-14 |  |
 | [PERCAYA](https://open.spotify.com/track/5hpqeU5uQwDF1Umn60FqRr) | [Damero.](https://open.spotify.com/artist/5VOoDwt06adOAXAGIORMnW), [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn) | [PERCAYA](https://open.spotify.com/album/5jw1zR0t4Z1Wb5JixdloYU) | 3:25 | 2022-12-13 |  |
 | [Persimpangan](https://open.spotify.com/track/6GLYOdMJ5UCIIE6Ohc9v5C) | [Alsa](https://open.spotify.com/artist/79ZuAKAPvlGaPMRXR8KwPU) | [Persimpangan](https://open.spotify.com/album/5tW5YhIjNY0X6Ep6vNO7n4) | 3:40 | 2022-12-13 | 2023-03-15 |
 | [Pesona \- Remastered](https://open.spotify.com/track/5iUrGfRTWwjm3eoNeblllJ) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Pesona \(Remastered 2022\)](https://open.spotify.com/album/56jtzPwaP66jzVleH9uGaP) | 3:37 | 2022-12-13 |  |

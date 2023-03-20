@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 5359,
+  "num_followers": 5379,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGMxZTk4OTA2NjBmN2M1YjgzYmYwMWEyZTg2ZDM4Nzkx",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDUwNTYyYTZiYjkwZmIxZDllNDg2NDMzOGQzYTgxNDFm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 213877,
       "name": "Use This Gospel",
       "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
     },
     {
       "added_at": "2022-10-01 16:57:49",

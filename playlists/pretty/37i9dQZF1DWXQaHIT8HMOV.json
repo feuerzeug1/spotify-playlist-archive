@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyODMxNSwwMDAwMDAwMDJlMGFmOWQyNzdhNWRkMDA4NDJiMWRiZTNiODkxYzEz",
+  "snapshot_id": "MTY3NzgyODMxNSwwMDAwMDAwMGVkMzUxNDExMGQ0NmIwOWQ2YTRjMGU2MjZlZmNmNjll",
   "tracks": [
     {
       "added_at": "2023-01-20 05:07:11",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
-      "added_at": "2023-03-19 01:17:51",
+      "added_at": "2023-03-20 00:55:23",
       "album": {
         "name": "Tok Tok",
         "url": "https://open.spotify.com/album/3bRLDOq4DgCY27Lc6r3kFh"
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Enjoyment",
         "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 193776,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -433,6 +433,42 @@
       "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     },
     {
+      "added_at": "2023-02-10 07:21:06",
+      "album": {
+        "name": "Kyaani",
+        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Kyaani",
+      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
+    },
+    {
+      "added_at": "2022-11-10 20:59:00",
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Mama I Made It (feat. Lagum the Rapper)",
+      "url": "https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ"
+    },
+    {
       "added_at": "2023-02-03 14:21:08",
       "album": {
         "name": "Voices & Vices",
@@ -457,40 +493,20 @@
       "url": "https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN"
     },
     {
-      "added_at": "2022-11-10 20:59:00",
+      "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ"
+        "name": "Wangi",
+        "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
         }
       ],
-      "duration_ms": 137333,
-      "name": "Mama I Made It (feat. Lagum the Rapper)",
-      "url": "https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ"
-    },
-    {
-      "added_at": "2023-02-10 07:21:06",
-      "album": {
-        "name": "Kyaani",
-        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
-      },
-      "artists": [
-        {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Kyaani",
-      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
+      "duration_ms": 156055,
+      "name": "Wangi",
+      "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
     },
     {
       "added_at": "2023-02-10 07:21:06",
@@ -517,20 +533,20 @@
       "url": "https://open.spotify.com/track/7kmuCdJaXVu2b5ntYHPDW5"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
+      "added_at": "2022-12-16 11:22:34",
       "album": {
-        "name": "Wangi",
-        "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
+        "name": "Don't Stopp",
+        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
       },
       "artists": [
         {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
         }
       ],
-      "duration_ms": 156055,
-      "name": "Wangi",
-      "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
+      "duration_ms": 172736,
+      "name": "Don't Stopp",
+      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
     },
     {
       "added_at": "2022-12-09 12:00:13",
@@ -549,23 +565,7 @@
       "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
     },
     {
-      "added_at": "2022-12-16 11:22:34",
-      "album": {
-        "name": "Don't Stopp",
-        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 172736,
-      "name": "Don't Stopp",
-      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
-    },
-    {
-      "added_at": "2023-03-19 01:17:51",
+      "added_at": "2023-03-20 00:55:23",
       "album": {
         "name": "Glory To The King",
         "url": "https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2"
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
-      },
-      "artists": [
-        {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
-        }
-      ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Bbuba",
         "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
       },
@@ -679,34 +679,18 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
       },
       "artists": [
         {
-          "name": "Zulitums",
-          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -727,6 +711,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
+      },
+      "artists": [
+        {
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Kampala",
         "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
       },
@@ -739,6 +739,42 @@
       "duration_ms": 189544,
       "name": "Kampala",
       "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
+    },
+    {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Bajooga",
+        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Bajooga",
+      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
+      "added_at": "2023-02-03 14:21:08",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/1X7VdpscX61RBRxZJzwDFl"
+      },
+      "artists": [
+        {
+          "name": "Tracie UG",
+          "url": "https://open.spotify.com/artist/3aiGkLgNvUdSQjPdlXelw6"
+        },
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 184476,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6G7pOzNocRnRigGynUgrKP"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -793,26 +829,6 @@
       "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     },
     {
-      "added_at": "2023-02-03 14:21:08",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/1X7VdpscX61RBRxZJzwDFl"
-      },
-      "artists": [
-        {
-          "name": "Tracie UG",
-          "url": "https://open.spotify.com/artist/3aiGkLgNvUdSQjPdlXelw6"
-        },
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 184476,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/6G7pOzNocRnRigGynUgrKP"
-    },
-    {
       "added_at": "2022-11-10 20:59:00",
       "album": {
         "name": "Zinge",
@@ -833,22 +849,6 @@
       "url": "https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk"
     },
     {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Bajooga",
-        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Bajooga",
-      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Doctor",
@@ -865,7 +865,39 @@
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
-      "added_at": "2023-03-19 01:17:51",
+      "added_at": "2023-01-12 20:59:00",
+      "album": {
+        "name": "Geza Bugeza",
+        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 140822,
+      "name": "Geza Bugeza",
+      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
+    },
+    {
+      "added_at": "2022-11-25 11:45:40",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
+      },
+      "artists": [
+        {
+          "name": "Jesse10s",
+          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
+        }
+      ],
+      "duration_ms": 174905,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
+    },
+    {
+      "added_at": "2023-03-20 00:55:23",
       "album": {
         "name": "Vibe Yo (Remix)",
         "url": "https://open.spotify.com/album/1QInb3GdYbabj7GrkZzdMQ"
@@ -883,38 +915,6 @@
       "duration_ms": 178105,
       "name": "Vibe Yo - Remix",
       "url": "https://open.spotify.com/track/13Snix6AbfTC8ProjfSR1X"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
-      },
-      "artists": [
-        {
-          "name": "K!MERA",
-          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
-        }
-      ],
-      "duration_ms": 259071,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
-    },
-    {
-      "added_at": "2022-11-25 11:45:40",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
-      },
-      "artists": [
-        {
-          "name": "Jesse10s",
-          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
     }
   ],
   "unique_name": "Made In Uganda",

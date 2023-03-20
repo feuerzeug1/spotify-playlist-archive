@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,736 likes - 50 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,841 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 32 | [Above The Clouds Lies Eternal Sun](https://open.spotify.com/track/0WCvBujFldzGsAimcyjchH) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 3:53 |
 | 33 | [Job's Lament](https://open.spotify.com/track/6rK7VyAi0XGdhz4LdzXVZj) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 8:02 |
 | 34 | [Troglodyte](https://open.spotify.com/track/2eUvRQF5eZtSkwuz0NwzMZ) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4) | 4:57 |
-| 35 | [Debutante](https://open.spotify.com/track/36qrbIHqtbfBYa3l7nUmnT) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/0QFxVcmghKylwoFT6xozzF) | 7:21 |
+| 35 | [Debutante](https://open.spotify.com/track/0jpggEnuQFHj3uJIthfCQS) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/1JorSz3YkTUuNMyLu18dUd) | 7:21 |
 | 36 | [The Only Moment We Were Alone](https://open.spotify.com/track/7rQbeL4G2aIYy5VWDumGpR) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 10:14 |
 | 37 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
 | 38 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 7:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 49 | [Logic of a Dream](https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 6:37 |
 | 50 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 4:25 |
 
-Snapshot ID: `MTY3NzYyMTY3NSwwMDAwMDAwMDE5MDA0MWMyYTc5NzFhOTkyZDZlMjdmMzcxNzlkNGUx`
+Snapshot ID: `MTY3NzYyMTY3NSwwMDAwMDAwMDkxN2E4M2Q1Yzg3NmJiN2M1ZjdhMTVmNTQyMWYxZjFm`

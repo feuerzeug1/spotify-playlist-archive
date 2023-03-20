@@ -4,7 +4,7 @@
 
 > capybara, capybara, capybara ✨
 
-364 songs - 20 hr 16 min
+365 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Cayo La Noche X Diles X Soy Peor](https://open.spotify.com/track/4rvcqtRGH7DODsK9H6J1sd) | [Santiago Novello](https://open.spotify.com/artist/3NjvXwncl7KsWx8Onw9oWB) | [Cayo La Noche X Diles X Soy Peor](https://open.spotify.com/album/3frhrxgFMkirkmLDu6okds) | 2:00 | 2022-03-16 | 2022-06-15 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-02 |  |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-12-15 |  |
-| [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-10 |  |
+| [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-10 | 2023-03-20 |
+| [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 | 2023-03-07 |  |
 | [Clouds](https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM) | 2:38 | 2023-01-19 | 2023-02-11 |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 | 2022-06-14 | 2022-08-13 |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/6ioupaJ387IxHQC9RSHMar) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Ziko](https://open.spotify.com/artist/5kjMVFyYkyNXhGccnycCka) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6sgKeauEUQCd6fJLCHcgs7) | 3:14 | 2022-05-11 | 2022-07-29 |

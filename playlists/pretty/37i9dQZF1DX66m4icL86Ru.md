@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,789 likes - 74 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,360 likes - 74 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,076 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,072 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 7 | [Grande é o Senhor \- Acústico Ao Vivo](https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Comunhão e Adoração 6 \(Acústico Ao Vivo\)](https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ) | 4:40 |
 | 8 | [Alvo Mais Que a Neve](https://open.spotify.com/track/3X2oSv1BdYiIu7ri3z0eRM) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Alvo Mais Que a Neve](https://open.spotify.com/album/1lNIMwGKQvjDEiLZmrVU3b) | 5:30 |
 | 9 | [O Rei Está Voltando](https://open.spotify.com/track/6kwrJVwxCqQaDqxLEWUFeN) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Raízes, Vol\. 2](https://open.spotify.com/album/7uYZsVg4IutCgA8jHRjpq7) | 5:06 |
-| 10 | [Redenção](https://open.spotify.com/track/1zqYwPjbHG9klWeR3Q28OG) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Viva](https://open.spotify.com/album/62xmf2as0ezc3sb0zj5Da0) | 4:35 |
-| 11 | [A Face Adorada de Jesus](https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:37 |
+| 10 | [A Face Adorada de Jesus](https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:37 |
+| 11 | [Redenção](https://open.spotify.com/track/1zqYwPjbHG9klWeR3Q28OG) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Viva](https://open.spotify.com/album/62xmf2as0ezc3sb0zj5Da0) | 4:35 |
 | 12 | [Aclame Ao Senhor](https://open.spotify.com/track/2htH5qQj7CihxAUifwvvWi) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Aclame Ao Sehnor](https://open.spotify.com/album/3bQ1jEclLAW8GtBFBa9Php) | 4:36 |
 | 13 | [Jesus, o Bom Amigo \- Ao Vivo](https://open.spotify.com/track/6igxgvU8TBqZIV3gqyAHoD) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Hinos Inesquecíveis \(Ao Vivo\)](https://open.spotify.com/album/69dbeC4BPdjqifvLHTMkdA) | 3:21 |
 | 14 | [Porque Ele Vive](https://open.spotify.com/track/7DK9ghk8bJnOD3PdzjV16f) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Porque Ele Vive \(Voz e Violão\)](https://open.spotify.com/album/5FITCXCCV96scIxzzeLBuI) | 3:55 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 39 | [Vem Cear](https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e) | [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm) | [Clássicos da Música Cristã](https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY) | 3:38 |
 | 40 | [O Melhor Presente](https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:27 |
 | 41 | [O Milagre do Natal](https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv) | [Alex Gonzaga, Marcus Salles e Wilian Nascimento](https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:19 |
-| 42 | [Primeiro Natal \(The First Noel\)](https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
-| 43 | [Como Um de Nós \- Ao Vivo](https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Outra Vez, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59) | 4:42 |
+| 42 | [Como Um de Nós \- Ao Vivo](https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Outra Vez, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59) | 4:42 |
+| 43 | [Primeiro Natal \(The First Noel\)](https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
 | 44 | [Nasce Jesus](https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:39 |
 | 45 | [É meia\-noite \(Ó, Noite Santa\)](https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Nasceu o Redentor](https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW) | 5:24 |
 | 46 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Surgem Anjos Proclamando](https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Folk Christmas](https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX) | 2:51 |
 | 50 | [Noite de Paz](https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jeanne Mascarenhas](https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J) | [Noite de Paz](https://open.spotify.com/album/385673vVXabsOzy5GjDQzn) | 4:01 |
 
-Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMDVlZmUyNmQxMTI1NmNkMDU3YTdjYjhjMTcwZWJlZDVi`
+Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMDA3OWJlMzBkYWFmNTYyOThiMGNlYjc1ZjkwZDhiMWEz`

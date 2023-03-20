@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,055 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,067 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 35 | [Give Thanks](https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Nothing Else Matters](https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq) | 5:27 |
 | 36 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
 | 37 | [My Tribute](https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classic Gold: Best of Andrae: Andrae Crouch and the Disciples](https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf) | 3:37 |
-| 38 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 |
-| 39 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
+| 38 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
+| 39 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 |
 | 40 | [Give Thanks \- Medley](https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL) | [T.D\. Jakes](https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ) | [Woman; Thou Art Loosed!](https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL) | 3:41 |
 | 41 | [Oh Give Thanks \(Psalm 136\)](https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Spirit Of David](https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h) | 4:55 |
 | 42 | [Oh Give Thanks \- Live](https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7) | [Vincent Bohanan & SOV](https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk) | [Live in Chicago](https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ) | 5:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Joyful Blessing](https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [N!x](https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn) | [Talk to God](https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf) | 2:09 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MTY3NjcwMTY2OCwwMDAwMDAwMGZjYTIwMzYyNTA1ZmE1ODA0YjlkZTYyYzlhOTcxZmIw`
+Snapshot ID: `MTY3NjcwMTY2OCwwMDAwMDAwMDJkMzJjNWYzN2MwMmFlMmQ4ZDQyZmEzMzBkNDkzMzg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,429 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,456 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 15 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 |
 | 16 | [Angel](https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Angel](https://open.spotify.com/album/3b4R5cIr9AuzhOeqxTIsyc) | 10:10 |
 | 17 | [Valentine](https://open.spotify.com/track/6ndkXjUShE5RQrUE1fRzs6) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Vacation](https://open.spotify.com/album/4X0aPpHZQ1prmH7Wzm24ji) | 2:38 |
-| 18 | [Los Pollos Hermanos](https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Los Pollos Hermanos](https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM) | 1:35 |
+| 18 | [The Mantra \- Heat in the Street Freestyle](https://open.spotify.com/track/58E4qtpkOmMqbJxHM1dm6I) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [The Mantra \(Heat in the Street Freestyle\)](https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD) | 1:37 |
 | 19 | [7:00](https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y \(Deluxe\)](https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy) | 3:08 |
 | 20 | [Matinee](https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [Matinee](https://open.spotify.com/album/238YXuMQe6bGCSqZ3A57EY) | 3:08 |
 | 21 | [Point and Kill](https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:05 |
 | 22 | [Hate It Or Luv It](https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:32 |
 | 23 | [Seasons](https://open.spotify.com/track/1GkofJJt1Uaz5z4ch6ooLM) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM), [Idris Jones](https://open.spotify.com/artist/46qyLqPPSLO54RLTHMV2QC) | [Seasons](https://open.spotify.com/album/13H6kGywIed09VEPyCw9gW) | 5:21 |
-| 24 | [The Mantra \- Heat in the Street Freestyle](https://open.spotify.com/track/58E4qtpkOmMqbJxHM1dm6I) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [The Mantra \(Heat in the Street Freestyle\)](https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD) | 1:37 |
+| 24 | [Los Pollos Hermanos](https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Los Pollos Hermanos](https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM) | 1:35 |
 | 25 | [Hunnids](https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local Mvp](https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN) | 2:46 |
 | 26 | [Humility?](https://open.spotify.com/track/2voww0mdtDJa6gREsW8jIq) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [Humility?](https://open.spotify.com/album/2fA7m2kL9XtV1UzF03igLI) | 2:32 |
 | 27 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 55 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
 | 56 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 |
 | 57 | [The Gang](https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [The Gang](https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN) | 2:33 |
-| 58 | [Love is a Lottery](https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Love is a Lottery](https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ) | 3:37 |
-| 59 | [Come To Me](https://open.spotify.com/track/0YKdx0eEYVJ18peEsgtc2p) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7) | 3:08 |
+| 58 | [Come To Me](https://open.spotify.com/track/0YKdx0eEYVJ18peEsgtc2p) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7) | 3:08 |
+| 59 | [Love is a Lottery](https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Love is a Lottery](https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ) | 3:37 |
 | 60 | [Ke Star \- Remix](https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(Remix\)](https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66) | 5:28 |
 
-Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMGUzNjJkZGYzNzc0YWQwNjM1OTg1OTY0Y2E1NmZmZWU2`
+Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMDlhYzIwMDI1YWQyODM3ZDg4NjAyYjNjNWQ2ZmQ1YTg2`

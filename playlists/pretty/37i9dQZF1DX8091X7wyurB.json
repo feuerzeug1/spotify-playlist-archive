@@ -1,33 +1,13 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 33919,
+  "num_followers": 34027,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1MTMxNCwwMDAwMDAwMDA1OGQxYzc4YTRmY2NlOTAzYjI0ZDUzYzNhMjNhMjk5",
+  "snapshot_id": "MTY3ODQ1MTMxNCwwMDAwMDAwMGUxNGM3ZjU2M2UwMzAxMDI0NWI2ZDY4NTkzMDM3OGUy",
   "tracks": [
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "Stand Strong (feat. Sunday Service Choir)",
-        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 182791,
-      "name": "Stand Strong (feat. Sunday Service Choir)",
-      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
-    },
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
@@ -53,7 +33,27 @@
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
     },
     {
-      "added_at": "2023-03-19 01:19:19",
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Stand Strong (feat. Sunday Service Choir)",
+        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 182791,
+      "name": "Stand Strong (feat. Sunday Service Choir)",
+      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
+    },
+    {
+      "added_at": "2023-03-20 01:37:42",
       "album": {
         "name": "Greater",
         "url": "https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU"
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "Wind of Revival",
+        "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 281251,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 237669,
       "name": "Melody",
       "url": "https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "Wind of Revival",
-        "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 281251,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        }
-      ],
-      "duration_ms": 355250,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "I Get",
         "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 210124,
       "name": "I Get",
       "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "duration_ms": 355250,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "Final Say",
+        "url": "https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy"
+      },
+      "artists": [
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "duration_ms": 209194,
+      "name": "Final Say",
+      "url": "https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 203027,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "Final Say",
-        "url": "https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy"
-      },
-      "artists": [
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 209194,
-      "name": "Final Say",
-      "url": "https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Already Won",
-        "url": "https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3"
+        "name": "No Longer Slaves",
+        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+          "name": "Florocka",
+          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
         }
       ],
-      "duration_ms": 256653,
-      "name": "OMG (feat. JJ Hairston)",
-      "url": "https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7"
+      "duration_ms": 350981,
+      "name": "No Longer Slaves",
+      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1139,6 +1135,26 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "OMG (feat. JJ Hairston)",
+      "url": "https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "MELODY",
         "url": "https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 324947,
       "name": "Onye eze",
       "url": "https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "No Longer Slaves",
-        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
-      },
-      "artists": [
-        {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
-        }
-      ],
-      "duration_ms": 350981,
-      "name": "No Longer Slaves",
-      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/0wIz13pE8Hw5QY3lKXySae"
-      },
-      "artists": [
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        },
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 224203,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/0wIz13pE8Hw5QY3lKXySae"
+      },
+      "artists": [
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        },
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk"
     },
     {
       "added_at": "2023-03-03 08:09:51",

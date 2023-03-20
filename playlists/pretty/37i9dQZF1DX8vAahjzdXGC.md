@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Raisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,128 likes - 103 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,151 likes - 103 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-68 songs - 5 hr 9 min
+69 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,10 +46,11 @@
 | [Luna Taxqueña \- Jazz Mariachi](https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Jazz Mariachi](https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh) | 3:31 | 2021-07-28 |  |
 | [Mama Nature](https://open.spotify.com/track/30TeIbEyHxzftJeNFZmlWz) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Honey](https://open.spotify.com/album/5jeIcIob6QVT4W3zvAH7hZ) | 3:40 | 2021-07-28 | 2023-01-26 |
 | [Mambo en Sax](https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj) | [Los Músicos De José](https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd) | [Dilo! Homenaje a Pérez Prado](https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY) | 3:15 | 2021-07-28 |  |
-| [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 | 2021-07-28 |  |
+| [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 | 2021-07-28 | 2023-03-20 |
 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 | 2021-07-28 | 2022-09-26 |
 | [Naila](https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 5:03 | 2021-07-28 |  |
 | [No Se que Pasa Entre Tú y Yo](https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO) | [Ernesto Riestra Y Su Orquesta](https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE) | [Las Puntadas de Ernesto Riesta](https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ) | 2:58 | 2021-07-28 |  |
+| [Nu Soul](https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1) | [Pepe Hernandez](https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW) | [Groove Zone](https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3) | 4:32 | 2021-07-28 |  |
 | [Once I Loved](https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K) | [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Alberto Medina](https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z), [Pablo Prieto](https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25) | [Triology](https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS) | 7:08 | 2021-07-28 |  |
 | [Orbita 13](https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Musica Infinita](https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ) | 4:43 | 2021-07-28 |  |
 | [Orfeo en los Tambores](https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Tino Contreras](https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2) | 2:48 | 2021-07-28 |  |

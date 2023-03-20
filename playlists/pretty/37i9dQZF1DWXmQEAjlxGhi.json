@@ -1,12 +1,12 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1350056,
+  "num_followers": 1350248,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDRhOWQ2YmExYjA0MWRhYmNiZDg5NWY1YTU4OGM0NmEx",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDQ3OGQ2NTFmMTIyYWYxOTYyZjU2MTYxZGVkOTQ2MjJl",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -623,6 +623,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "No Pinto Pajaritos",
-        "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
+        "name": "CALENT\u00d3N",
+        "url": "https://open.spotify.com/album/3H1b3UUzaCAqLSvDzjowjB"
       },
       "artists": [
         {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 145349,
-      "name": "No Pinto Pajaritos",
-      "url": "https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r"
+      "duration_ms": 202967,
+      "name": "CALENT\u00d3N",
+      "url": "https://open.spotify.com/track/5dtNrI6WMGCTBbK8499242"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "CALENT\u00d3N",
-        "url": "https://open.spotify.com/album/3H1b3UUzaCAqLSvDzjowjB"
+        "name": "No Pinto Pajaritos",
+        "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         }
       ],
-      "duration_ms": 202967,
-      "name": "CALENT\u00d3N",
-      "url": "https://open.spotify.com/track/5dtNrI6WMGCTBbK8499242"
+      "duration_ms": 145349,
+      "name": "No Pinto Pajaritos",
+      "url": "https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246061,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The Love & Sex Tape",
         "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 252162,
       "name": "Mojando Asientos (feat. Feid)",
       "url": "https://open.spotify.com/track/6lV9cTvioGWqRXSgfjAUGL"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246061,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Sabiduria",
+        "url": "https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 173389,
+      "name": "Gogo Dance",
+      "url": "https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Sabiduria",
-        "url": "https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 173389,
-      "name": "Gogo Dance",
-      "url": "https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "The Love & Sex Tape",
+        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "Nos Comemos Vivos",
+      "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "The Love & Sex Tape",
-        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "Nos Comemos Vivos",
-      "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 172561,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "LOKITA",
         "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 193294,
       "name": "LOKITA",
       "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 172561,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "VACAXIONES",
+        "url": "https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "VACAXIONES",
+      "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "NATTIVIDAD",
         "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
       },
@@ -1923,22 +1939,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "VACAXIONES",
-        "url": "https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "VACAXIONES",
-      "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "La Copa",
         "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
       },
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Ne\u00f3n",
-        "url": "https://open.spotify.com/album/3vaTUE6iGfukYBuR5vzOa9"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 196044,
-      "name": "Ne\u00f3n",
-      "url": "https://open.spotify.com/track/5n3BkGuvl4tBLtU0vRnk2p"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Caf\u00e9 Con Leche",
         "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 168323,
       "name": "Caf\u00e9 Con Leche",
       "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Ne\u00f3n",
+        "url": "https://open.spotify.com/album/3vaTUE6iGfukYBuR5vzOa9"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 196044,
+      "name": "Ne\u00f3n",
+      "url": "https://open.spotify.com/track/5n3BkGuvl4tBLtU0vRnk2p"
     },
     {
       "added_at": "2023-02-24 05:00:00",

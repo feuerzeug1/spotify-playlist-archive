@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers to soundtrack the happiest day of your life.",
-  "num_followers": 261508,
+  "num_followers": 261688,
   "original_name": "Wedding Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjQ5OSwwMDAwMDAwMGI2MWJkMjg4N2NiYjQ3ZmEzYzIyMTgwNzk4MDRmNGNi",
+  "snapshot_id": "MTY1OTcxNjQ5OSwwMDAwMDAwMDIxZmNhNTU4NThkMmQ0MzI4NmE0ZjJiMjliZTY2MjU4",
   "tracks": [
     {
       "added_at": "2022-08-05 16:21:39",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-08-05 16:21:39",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2022-08-05 16:21:39",
-      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 196213,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE"
+    },
+    {
+      "added_at": "2022-08-05 16:21:39",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2022-08-05 16:21:39",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-08-05 16:21:39",
       "album": {
+        "name": "Footloose (15th Anniversary Collectors' Edition)",
+        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
+    },
+    {
+      "added_at": "2022-08-05 16:21:39",
+      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 425653,
       "name": "Hey Jude - Remastered 2015",
       "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
-    },
-    {
-      "added_at": "2022-08-05 16:21:39",
-      "album": {
-        "name": "Footloose (15th Anniversary Collectors' Edition)",
-        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "Footloose - From \"Footloose\" Soundtrack",
-      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
     },
     {
       "added_at": "2022-08-05 16:21:39",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-08-05 16:21:39",
       "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "added_at": "2022-08-05 16:21:39",
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2022-08-05 16:21:39",
       "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+      "duration_ms": 214946,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw"
     },
     {
       "added_at": "2022-08-05 16:21:39",
@@ -1147,22 +1163,6 @@
       "duration_ms": 171960,
       "name": "This Will Be (An Everlasting Love)",
       "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
-    },
-    {
-      "added_at": "2022-08-05 16:21:39",
-      "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw"
     },
     {
       "added_at": "2022-08-05 16:21:39",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-08-05 16:21:39",
       "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
-      "added_at": "2022-08-05 16:21:39",
-      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 323346,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
+    },
+    {
+      "added_at": "2022-08-05 16:21:39",
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2022-08-05 16:21:39",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-05 16:21:39",
       "album": {
-        "name": "From the Foundations (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
-      },
-      "artists": [
-        {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
-        }
-      ],
-      "duration_ms": 177519,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
-    },
-    {
-      "added_at": "2022-08-05 16:21:39",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2022-08-05 16:21:39",
       "album": {
-        "name": "All In a Night's Work (Expanded Version)",
-        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
+        "name": "From the Foundations (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
       },
       "artists": [
         {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
         }
       ],
-      "duration_ms": 254240,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
+      "duration_ms": 177519,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
     },
     {
       "added_at": "2022-08-05 16:21:39",
@@ -1507,6 +1491,22 @@
       "duration_ms": 248360,
       "name": "Young Hearts Run Free",
       "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
+    },
+    {
+      "added_at": "2022-08-05 16:21:39",
+      "album": {
+        "name": "All In a Night's Work (Expanded Version)",
+        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
     },
     {
       "added_at": "2022-08-05 16:21:39",
@@ -1543,6 +1543,22 @@
       "duration_ms": 290333,
       "name": "(I've Had) The Time Of My Life - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F"
+    },
+    {
+      "added_at": "2022-08-05 16:21:39",
+      "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
       "added_at": "2022-08-05 16:21:39",
@@ -1663,22 +1679,6 @@
       "duration_ms": 331360,
       "name": "Le Freak - 2018 Remaster",
       "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE"
-    },
-    {
-      "added_at": "2022-08-05 16:21:39",
-      "album": {
-        "name": "September (sped up + slowed)",
-        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 216022,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     }
   ],
   "unique_name": "Wedding Party",

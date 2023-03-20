@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=j11QL6MsRaSneLxTbjw4Eg\" > Zlatan </a> ",
-  "num_followers": 16614,
+  "num_followers": 16659,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzOTU1MSwwMDAwMDAwMDI1OGE1MTJlODFkMDQ1NjBkZjQ3ZjM2NmE1MmNlMTRk",
+  "snapshot_id": "MTY3OTAzOTU1MSwwMDAwMDAwMDc0NTlhNjExMjEzOTQ1YmVlMzkwOTc0NzU1OTQzZDJm",
   "tracks": [
     {
       "added_at": "2023-03-10 11:41:01",
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
-      "added_at": "2023-03-19 00:47:42",
+      "added_at": "2023-03-20 00:33:31",
       "album": {
         "name": "Philo (Remix)",
         "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 134728,
+      "name": "Bad Since '97",
+      "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
         "name": "BACK IN UNI",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 134728,
-      "name": "Bad Since '97",
-      "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "Commander",
-        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Commander",
-      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
         "name": "Holy Gee",
         "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 164808,
       "name": "Holy Gee",
       "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
         "name": "Manhattan",
         "url": "https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 161379,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -891,42 +891,6 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
-      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
-        "name": "YPSZN3",
-        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "Silent Mode",
-      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -983,6 +947,26 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
+      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
         "name": "Mama Maradona",
         "url": "https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y"
       },
@@ -1003,8 +987,8 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+        "name": "YPSZN3",
+        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
       },
       "artists": [
         {
@@ -1012,9 +996,9 @@
           "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+      "duration_ms": 200833,
+      "name": "Silent Mode",
+      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1119,26 +1103,6 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8"
       },
@@ -1159,6 +1123,42 @@
       "duration_ms": 163507,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
+    },
+    {
+      "added_at": "2023-03-20 00:33:31",
+      "album": {
+        "name": "Bougie and Thick",
+        "url": "https://open.spotify.com/album/3ILEi9iWRNrCEiteWk0FeR"
+      },
+      "artists": [
+        {
+          "name": "Sosa.ttw",
+          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
+        },
+        {
+          "name": "AT Martian",
+          "url": "https://open.spotify.com/artist/37aE8EiBoUxAP0VLex7Ow9"
+        }
+      ],
+      "duration_ms": 111106,
+      "name": "Bougie and Thick",
+      "url": "https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1201,27 +1201,7 @@
       "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
     },
     {
-      "added_at": "2023-03-19 00:47:42",
-      "album": {
-        "name": "Bougie and Thick",
-        "url": "https://open.spotify.com/album/3ILEi9iWRNrCEiteWk0FeR"
-      },
-      "artists": [
-        {
-          "name": "Sosa.ttw",
-          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
-        },
-        {
-          "name": "AT Martian",
-          "url": "https://open.spotify.com/artist/37aE8EiBoUxAP0VLex7Ow9"
-        }
-      ],
-      "duration_ms": 111106,
-      "name": "Bougie and Thick",
-      "url": "https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3"
-    },
-    {
-      "added_at": "2023-03-19 00:47:42",
+      "added_at": "2023-03-20 00:33:31",
       "album": {
         "name": "Fun for Love",
         "url": "https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ"
@@ -1239,22 +1219,6 @@
       "duration_ms": 158608,
       "name": "Fun for Love",
       "url": "https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
-        "name": "Barawo",
-        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 229250,
-      "name": "Barawo",
-      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1283,6 +1247,22 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
+        "name": "Barawo",
+        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 229250,
+      "name": "Barawo",
+      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
         "name": "All I Please",
         "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
       },
@@ -1301,7 +1281,43 @@
       "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
     },
     {
-      "added_at": "2023-03-19 00:47:42",
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
+    },
+    {
+      "added_at": "2023-03-20 00:33:31",
+      "album": {
+        "name": "Blessed Sinner",
+        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
+      },
+      "artists": [
+        {
+          "name": "Rord Kelly",
+          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
+        }
+      ],
+      "duration_ms": 178599,
+      "name": "Blessed Sinner",
+      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
+    },
+    {
+      "added_at": "2023-03-20 00:33:31",
       "album": {
         "name": "Wild Side",
         "url": "https://open.spotify.com/album/1IP7a8gdy3PtSoRw1gLG5K"
@@ -1321,23 +1337,7 @@
       "url": "https://open.spotify.com/track/6jplKm9eFCulH6CQZKeDhd"
     },
     {
-      "added_at": "2023-03-19 00:47:42",
-      "album": {
-        "name": "Blessed Sinner",
-        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
-      },
-      "artists": [
-        {
-          "name": "Rord Kelly",
-          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
-        }
-      ],
-      "duration_ms": 178599,
-      "name": "Blessed Sinner",
-      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
-    },
-    {
-      "added_at": "2023-03-19 00:47:42",
+      "added_at": "2023-03-20 00:33:31",
       "album": {
         "name": "On My Grind",
         "url": "https://open.spotify.com/album/2agfSDraZLcjFYoaTmf7tB"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/6MTOvHuqJcw0HN6xDHiVNQ"
     },
     {
-      "added_at": "2023-03-19 00:47:42",
+      "added_at": "2023-03-20 00:33:31",
       "album": {
         "name": "Kilode (In Particular)",
         "url": "https://open.spotify.com/album/5BlU5AuobL4wUpdlQUANCZ"

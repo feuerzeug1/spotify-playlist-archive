@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 70396,
+  "num_followers": 70522,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIyMTg2NywwMDAwMDAwMGIwNjcyMWVlZmVlYWQ3ZjYxZTM4NDFmZDNkZWVmODJl",
+  "snapshot_id": "MTY3MTIyMTg2NywwMDAwMDAwMDRmZTk1NTMwZTc4YjUwZGJlMjM5MjI5YWZmNTNlOWMy",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 300408,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "La Combinacion Vallenata",
         "url": "https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 272533,
       "name": "A Pesar De Todo",
       "url": "https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300408,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -195,38 +195,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 294295,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Lenguaje Universal",
-        "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 246047,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "La Combinacion Vallenata Elite Vol. 5",
         "url": "https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 297360,
       "name": "Quiero Volar",
       "url": "https://open.spotify.com/track/4WU4Bliu90KAVOXymgmraL"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Lenguaje Universal",
+        "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 246047,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 294295,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 317910,
-      "name": "Entregame Tu Amor",
-      "url": "https://open.spotify.com/track/0KR2dfNLJJCmObaAc5r1f7"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "Brindo Con El Alma",
         "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 300760,
       "name": "Sin Medir Distancias",
       "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 317910,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0KR2dfNLJJCmObaAc5r1f7"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -459,50 +459,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
+        "name": "Orgullosa",
+        "url": "https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297926,
-      "name": "Quiero Saber De Ti",
-      "url": "https://open.spotify.com/track/5Q9eoqeg4Z3c8wIsesbkaI"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
-      },
-      "artists": [
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 309655,
-      "name": "Despues Del Adios",
-      "url": "https://open.spotify.com/track/31zIqaMytBKRmFbCK2gnRa"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Uniendo Corazones",
-        "url": "https://open.spotify.com/album/5ePEssWEZ36EazrWRWjrPM"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 259213,
-      "name": "Novios Cruzados",
-      "url": "https://open.spotify.com/track/5gMuYDIjn35obzxZI0l8X0"
+      "duration_ms": 289386,
+      "name": "Amarte Mas No Pude",
+      "url": "https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -523,6 +495,38 @@
       "duration_ms": 235235,
       "name": "No Pude Quitarte las Espinas",
       "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Uniendo Corazones",
+        "url": "https://open.spotify.com/album/5ePEssWEZ36EazrWRWjrPM"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 259213,
+      "name": "Novios Cruzados",
+      "url": "https://open.spotify.com/track/5gMuYDIjn35obzxZI0l8X0"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 309655,
+      "name": "Despues Del Adios",
+      "url": "https://open.spotify.com/track/31zIqaMytBKRmFbCK2gnRa"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -560,29 +564,33 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 306311,
-      "name": "Buscare Otro Amor",
-      "url": "https://open.spotify.com/track/0awm6OBJOIRLhmkqA9ox4H"
+      "duration_ms": 297926,
+      "name": "Quiero Saber De Ti",
+      "url": "https://open.spotify.com/track/5Q9eoqeg4Z3c8wIsesbkaI"
     },
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Orgullosa",
-        "url": "https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB"
+        "name": "S\u00f3lo Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
         },
         {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "Emiliano Zuleta",
+          "url": "https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
         }
       ],
-      "duration_ms": 289386,
-      "name": "Amarte Mas No Pude",
-      "url": "https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx"
+      "duration_ms": 222200,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -615,30 +623,6 @@
       "duration_ms": 262661,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
-      },
-      "artists": [
-        {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Emiliano Zuleta",
-          "url": "https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -751,6 +735,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 306311,
+      "name": "Buscare Otro Amor",
+      "url": "https://open.spotify.com/track/0awm6OBJOIRLhmkqA9ox4H"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "Ll\u00e9vame En Tus Sue\u00f1os",
         "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "M\u00e1s Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/25BjqOwuQ1L7MOBfB6Ksm7"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "El Caballero Del Vallenato",
         "url": "https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9"
       },
@@ -827,22 +811,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Titulo De Amor",
-        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
+        "name": "M\u00e1s Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 257373,
-      "name": "Mi Primera Cana",
-      "url": "https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI"
+      "duration_ms": 272440,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/25BjqOwuQ1L7MOBfB6Ksm7"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -859,6 +839,26 @@
       "duration_ms": 304979,
       "name": "No He Podido Ser Feliz",
       "url": "https://open.spotify.com/track/5VbqrMee8aCR1XgpIeg1Jn"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Titulo De Amor",
+        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Mi Primera Cana",
+      "url": "https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "Por Buen Camino",
+        "url": "https://open.spotify.com/album/1p9d7eTbTc4cra1TwkxPHI"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 285986,
+      "name": "Un Solo Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2Ia1pSf6YoK4aMJzK26Gfk"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "Avanzando",
         "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 286026,
       "name": "Mi Diosa Humana",
       "url": "https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Por Buen Camino",
-        "url": "https://open.spotify.com/album/1p9d7eTbTc4cra1TwkxPHI"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 285986,
-      "name": "Un Solo Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2Ia1pSf6YoK4aMJzK26Gfk"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Gracias Mi Gente",
-        "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
       },
       "artists": [
         {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Juan David Herrera",
-          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
         }
       ],
-      "duration_ms": 286493,
-      "name": "No Te Detengas",
-      "url": "https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA"
+      "duration_ms": 268277,
+      "name": "Acuerdate",
+      "url": "https://open.spotify.com/track/3oPVfJ8TD5PKA6LDk12A73"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1079,18 +1075,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
+        "name": "Gracias Mi Gente",
+        "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
       },
       "artists": [
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Juan David Herrera",
+          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
         }
       ],
-      "duration_ms": 268277,
-      "name": "Acuerdate",
-      "url": "https://open.spotify.com/track/3oPVfJ8TD5PKA6LDk12A73"
+      "duration_ms": 286493,
+      "name": "No Te Detengas",
+      "url": "https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA"
     },
     {
       "added_at": "2022-12-16 20:17:47",

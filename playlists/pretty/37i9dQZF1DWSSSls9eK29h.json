@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 100346,
+  "num_followers": 100480,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDVmOTU0ZmRhMjI5MTJhMDEwMzUyYWQ2OTIwY2U0NDhk",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGIxODQ4YjAyOTM0MGI5Y2M1NjVmMzI3OWNmY2U0NGY4",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Straight To You",
-        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
-      },
-      "artists": [
-        {
-          "name": "Brian Hughes",
-          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
-        }
-      ],
-      "duration_ms": 316466,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Touchdown",
         "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 344773,
       "name": "Touchdown",
       "url": "https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Straight To You",
+        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
+      },
+      "artists": [
+        {
+          "name": "Brian Hughes",
+          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -863,22 +863,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp"
-      },
-      "artists": [
-        {
-          "name": "Art Porter",
-          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
-        }
-      ],
-      "duration_ms": 309466,
-      "name": "There's Only You",
-      "url": "https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 329826,
       "name": "I Want You For Myself",
       "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp"
+      },
+      "artists": [
+        {
+          "name": "Art Porter",
+          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
+        }
+      ],
+      "duration_ms": 309466,
+      "name": "There's Only You",
+      "url": "https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW"
     },
     {
       "added_at": "2020-08-19 00:00:21",

@@ -1,12 +1,12 @@
 {
   "description": "The hits of tomorrow are on Spotify today. Cover: XG",
-  "num_followers": 2916230,
+  "num_followers": 2917562,
   "original_name": "Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA4OTY5NywwMDAwMDAwMDE4YTRkZWE1MDM3Y2RiYzk2YWNiMGJmMWIxMjQyMDEx",
+  "snapshot_id": "MTY3OTI0NjY0NCwwMDAwMDAwMGM3MDM3ZTIzZjgzZDczYjNjNTI4ZmJjODkwMWQ2NzA2",
   "tracks": [
     {
       "added_at": "2023-03-17 21:48:17",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-03-17 21:48:17",
       "album": {
+        "name": "DEATH",
+        "url": "https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 306655,
+      "name": "DEATH",
+      "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
+    },
+    {
+      "added_at": "2023-03-17 21:48:17",
+      "album": {
         "name": "Die For You (Remix)",
         "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
-    },
-    {
-      "added_at": "2023-03-17 21:48:17",
-      "album": {
-        "name": "DEATH",
-        "url": "https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 306655,
-      "name": "DEATH",
-      "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
     },
     {
       "added_at": "2023-03-17 21:48:17",

@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 76694,
+  "num_followers": 76740,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGRhMDU2YjViMWZkNzI5YzliNWJiOGRlMzhmNDBlOWFl",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGRiNDhlMDI4OTdjZmZkMzU1NmRlMTBjZjhhZjhhOGZh",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Pilot of My Own Life",
+        "url": "https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 244480,
+      "name": "Holy Rain",
+      "url": "https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "If In Case You Feel The Same",
         "url": "https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 289626,
       "name": "Fill My Cup",
       "url": "https://open.spotify.com/track/0J4WBSk4f5QDsuF12I3oA1"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Pilot of My Own Life",
-        "url": "https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 244480,
-      "name": "Holy Rain",
-      "url": "https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
+      },
+      "artists": [
+        {
+          "name": "Daniella Mason",
+          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Compromise",
         "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 204440,
       "name": "Oh Dreamer",
       "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
-      },
-      "artists": [
-        {
-          "name": "Daniella Mason",
-          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Volume II",
-        "url": "https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH"
-      },
-      "artists": [
-        {
-          "name": "Deeper Well",
-          "url": "https://open.spotify.com/artist/2PeVKtJXHIrrQmJXD7ju7l"
-        },
-        {
-          "name": "Wesley Randolph Eader",
-          "url": "https://open.spotify.com/artist/5Qn7uUdL2vnUFvdngB2gxN"
-        }
-      ],
-      "duration_ms": 308883,
-      "name": "Suffering Servant",
-      "url": "https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Dawned On Me",
         "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 240000,
       "name": "God Who Sees Me",
       "url": "https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Volume II",
+        "url": "https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH"
+      },
+      "artists": [
+        {
+          "name": "Deeper Well",
+          "url": "https://open.spotify.com/artist/2PeVKtJXHIrrQmJXD7ju7l"
+        },
+        {
+          "name": "Wesley Randolph Eader",
+          "url": "https://open.spotify.com/artist/5Qn7uUdL2vnUFvdngB2gxN"
+        }
+      ],
+      "duration_ms": 308883,
+      "name": "Suffering Servant",
+      "url": "https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X"
     },
     {
       "added_at": "2020-09-04 04:02:00",

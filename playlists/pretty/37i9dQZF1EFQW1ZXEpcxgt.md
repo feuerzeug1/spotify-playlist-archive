@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 62 | [Lay Your Head On Me](https://open.spotify.com/track/4tzfm1U4YgBzJe4sUxsK13) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JCNm5gXgKMKWrNtnYezXu) | 3:16 |
 | 63 | [Don't Come Around \(feat\. Kendall Morgan\)](https://open.spotify.com/track/4E4rmyjWo1BNduBxUcAf62) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Kendall Morgan](https://open.spotify.com/artist/31T99HEreO5nDrKT4H84Gl) | [I Am](https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74) | 3:10 |
 | 64 | [Yikes \- From 'SCOOB!' The Album](https://open.spotify.com/track/4cVGYn2wNj8KNS0VyZ3cb3) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Yikes](https://open.spotify.com/album/0Hj7q0gpsJ1SRZpOFxAeHf) | 2:09 |
-| 65 | [Do It Now](https://open.spotify.com/track/2zt4Gi5XBwK51LykiGUKBt) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Intermission I & II](https://open.spotify.com/album/0m8NYS3Trz6HLZnMAaFYiH) | 3:29 |
-| 66 | [Cruel](https://open.spotify.com/track/7MaRmvRgXtScvGuMj7e7dE) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Cruel](https://open.spotify.com/album/04M4kFfCnyUYOsazsEylcX) | 3:11 |
+| 65 | [Cruel](https://open.spotify.com/track/7MaRmvRgXtScvGuMj7e7dE) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Cruel](https://open.spotify.com/album/04M4kFfCnyUYOsazsEylcX) | 3:11 |
+| 66 | [Do It Now](https://open.spotify.com/track/2zt4Gi5XBwK51LykiGUKBt) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Intermission I & II](https://open.spotify.com/album/0m8NYS3Trz6HLZnMAaFYiH) | 3:29 |
 | 67 | [Vans On \- Explicit Edit](https://open.spotify.com/track/0XdSXNkZ16iDnuDPiiB5aq) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [Leaving Home EP](https://open.spotify.com/album/5nIrQ7v6eerzwqcsappkxE) | 2:58 |
 | 68 | [Nothing Like L.A.](https://open.spotify.com/track/22VhoVIaVeJx1fvS46OkdU) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [I Am The West](https://open.spotify.com/album/1WXp9ofuosOWHVjkEnvuzL) | 3:20 |
 | 69 | [Home](https://open.spotify.com/track/5GI96fTs0xkKXfgShNn975) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [At Home](https://open.spotify.com/album/27y7LkojjT5POmnZeWIttg) | 2:30 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 107 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 108 | [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 |
 
-Snapshot ID: `Mjc5ODQ5NjQsMDAwMDAwMDAzMWI0OWZhMTNkMGFhOGZiNjgyOTNhYmNhNjg0OWE4ZA==`
+Snapshot ID: `Mjc5ODc4NDQsMDAwMDAwMDAyMWJkNjk2MDk2YTZlMjY4ZmZiNWQ5MDhhODc4OWZkYQ==`

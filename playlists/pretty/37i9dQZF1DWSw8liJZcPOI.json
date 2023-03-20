@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 4854,
+  "num_followers": 5289,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI3MjUxMiwwMDAwMDAwMDliMGRjYzdhOGYzZmVlZDQzMmFhOWZjMzM0OWE4YzJm",
+  "snapshot_id": "MTY3ODI3MjUxMiwwMDAwMDAwMDMyNDI1MzE1OWJmZTRmYzg2NDA0ZmQ2NDI5N2YxYjRi",
   "tracks": [
     {
       "added_at": "2023-03-03 13:30:36",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Cloud Memory",
-        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        }
-      ],
-      "duration_ms": 117585,
-      "name": "Cloud Memory",
-      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8"
       },
@@ -83,22 +67,18 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
+        "name": "Cloud Memory",
+        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
       },
       "artists": [
         {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
         }
       ],
-      "duration_ms": 159837,
-      "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
+      "duration_ms": 117585,
+      "name": "Cloud Memory",
+      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -119,6 +99,26 @@
       "duration_ms": 166879,
       "name": "Itasca",
       "url": "https://open.spotify.com/track/1LAfLQLoApcUphZFXPN1Px"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 159837,
+      "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -151,26 +151,6 @@
       "duration_ms": 219549,
       "name": "Eyes Closed And Traveling",
       "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
-        "name": "The North Wind (Daigo Hanada Re-work)",
-        "url": "https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        },
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        }
-      ],
-      "duration_ms": 115133,
-      "name": "The North Wind - Daigo Hanada Re-work",
-      "url": "https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -235,18 +215,22 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
+        "name": "The North Wind (Daigo Hanada Re-work)",
+        "url": "https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5"
       },
       "artists": [
         {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
         }
       ],
-      "duration_ms": 125437,
-      "name": "Frost",
-      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
+      "duration_ms": 115133,
+      "name": "The North Wind - Daigo Hanada Re-work",
+      "url": "https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -263,6 +247,22 @@
       "duration_ms": 159000,
       "name": "Triptych 1 for Piano",
       "url": "https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 125437,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
         "name": "The Vasulka Effect: Music for the Motion Picture",
         "url": "https://open.spotify.com/album/6BciCC7yejXpGpVE4oq4Bg"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Clear Language",
-        "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 193386,
-      "name": "Clear Language",
-      "url": "https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0"
+      "duration_ms": 168085,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
         "name": "Movement 5 - Pt. 2",
         "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+        "name": "Clear Language",
+        "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
       },
       "artists": [
         {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
         }
       ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+      "duration_ms": 193386,
+      "name": "Clear Language",
+      "url": "https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "LYR",
-        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
+        "name": "Modulations: EP2",
+        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
       },
       "artists": [
         {
-          "name": "Aeden Azora",
-          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
         }
       ],
-      "duration_ms": 180250,
-      "name": "LYR",
-      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
+      "duration_ms": 201335,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Modulations: EP2",
-        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
+        "name": "LYR",
+        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
       },
       "artists": [
         {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+          "name": "Aeden Azora",
+          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
         }
       ],
-      "duration_ms": 201335,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
+      "duration_ms": 180250,
+      "name": "LYR",
+      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "As I Was (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 305691,
-      "name": "As I Was - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
         "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
         "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 233253,
       "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
       "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
+        "name": "As I Was (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 305691,
+      "name": "As I Was - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 184389,
       "name": "Time Out",
       "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
-        "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
-      },
-      "artists": [
-        {
-          "name": "Daith\u00ed",
-          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
-      "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 137500,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
+        "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
+        "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
+      },
+      "artists": [
+        {
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
+      "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
     },
     {
       "added_at": "2023-03-03 13:30:36",

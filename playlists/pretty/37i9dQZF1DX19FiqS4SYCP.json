@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 141675,
+  "num_followers": 141684,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ3MzgwOCwwMDAwMDAwMGUzZWYwYTFlMjE1M2VmNTdhZjc2NTljMzBmOTdmNTc5",
+  "snapshot_id": "MTY3ODQ3MzgwOCwwMDAwMDAwMDhiZTkyZmMyNTExOWE4ZDBjYjU5NzU5MmFmOTMzN2U2",
   "tracks": [
     {
       "added_at": "2023-03-10 18:43:28",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
+      },
+      "artists": [
+        {
+          "name": "Karla Christina",
+          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Quiereme (Hard Core Tex-Mex Version)",
         "url": "https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 207463,
       "name": "Quiereme - Hard Core Tex-Mex Version",
       "url": "https://open.spotify.com/track/0Mw3XtMS8mVa0TePH6JWPS"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
-      },
-      "artists": [
-        {
-          "name": "Karla Christina",
-          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Rogando Por Tu Amor (Version Tejano)",
-        "url": "https://open.spotify.com/album/61ZTUxn7bBbcdSLciTJW7x"
-      },
-      "artists": [
-        {
-          "name": "DEZ",
-          "url": "https://open.spotify.com/artist/7MQc01r8BvkgXApZOtPezs"
-        }
-      ],
-      "duration_ms": 203879,
-      "name": "Rogando Por Tu Amor (Version Tejano)",
-      "url": "https://open.spotify.com/track/3w1AC7BcBd8zRsKrtzJMZg"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Una Promesa",
         "url": "https://open.spotify.com/album/3oXhAc1BHDRgrb31kAZ0o7"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Volveras (Radio Edit)",
-        "url": "https://open.spotify.com/album/0z3Q5nydinwQIaatIN4ovS"
+        "name": "Rogando Por Tu Amor (Version Tejano)",
+        "url": "https://open.spotify.com/album/61ZTUxn7bBbcdSLciTJW7x"
       },
       "artists": [
         {
-          "name": "Jenny B",
-          "url": "https://open.spotify.com/artist/3BaCKKe6NFRb12KYkYAhgB"
+          "name": "DEZ",
+          "url": "https://open.spotify.com/artist/7MQc01r8BvkgXApZOtPezs"
         }
       ],
-      "duration_ms": 200698,
-      "name": "Volveras - Radio Edit",
-      "url": "https://open.spotify.com/track/6SJYst1tBc4E8i6gGqzROx"
+      "duration_ms": 203879,
+      "name": "Rogando Por Tu Amor (Version Tejano)",
+      "url": "https://open.spotify.com/track/3w1AC7BcBd8zRsKrtzJMZg"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -491,6 +475,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Volveras (Radio Edit)",
+        "url": "https://open.spotify.com/album/0z3Q5nydinwQIaatIN4ovS"
+      },
+      "artists": [
+        {
+          "name": "Jenny B",
+          "url": "https://open.spotify.com/artist/3BaCKKe6NFRb12KYkYAhgB"
+        }
+      ],
+      "duration_ms": 200698,
+      "name": "Volveras - Radio Edit",
+      "url": "https://open.spotify.com/track/6SJYst1tBc4E8i6gGqzROx"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Porque T\u00fa",
         "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 234186,
       "name": "Porque T\u00fa",
       "url": "https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Una Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU"
+      },
+      "artists": [
+        {
+          "name": "Isabel Marie",
+          "url": "https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Una Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/2kYq6e5BuHzKr8iRsl5AWo"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -523,22 +539,6 @@
       "duration_ms": 257678,
       "name": "Anhelos",
       "url": "https://open.spotify.com/track/4IloVueaAHDjIRuvxFOE9w"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Una Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU"
-      },
-      "artists": [
-        {
-          "name": "Isabel Marie",
-          "url": "https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Una Ilusi\u00f3n",
-      "url": "https://open.spotify.com/track/2kYq6e5BuHzKr8iRsl5AWo"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "No Te Voy A Perder",
-        "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Valadez",
-          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "No Te Voy A Perder",
-      "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Soy Mas Fuerte (Deluxe)",
         "url": "https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 302789,
       "name": "Jam Session El Besito Y Voy Navegando",
       "url": "https://open.spotify.com/track/38hja6SCCM5GnL6krYdhSh"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "No Te Voy A Perder",
+        "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Valadez",
+          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "No Te Voy A Perder",
+      "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/55H74KaK5knXlO72MFajfT"
-      },
-      "artists": [
-        {
-          "name": "Erika Ren\u00e9e",
-          "url": "https://open.spotify.com/artist/42MtvRYX0wZ5B00nbK2Jpw"
-        },
-        {
-          "name": "Aliz\u00e9 Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1MWIy3obn0cy1w2HPcCcNd"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C"
       },
@@ -819,22 +799,6 @@
       "duration_ms": 193850,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Porque Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
-      },
-      "artists": [
-        {
-          "name": "Roel Martinez",
-          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Porque Vivo Enamorado",
-      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -859,6 +823,42 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Porque Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
+      },
+      "artists": [
+        {
+          "name": "Roel Martinez",
+          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Porque Vivo Enamorado",
+      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/55H74KaK5knXlO72MFajfT"
+      },
+      "artists": [
+        {
+          "name": "Erika Ren\u00e9e",
+          "url": "https://open.spotify.com/artist/42MtvRYX0wZ5B00nbK2Jpw"
+        },
+        {
+          "name": "Aliz\u00e9 Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1MWIy3obn0cy1w2HPcCcNd"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/3u7xBy3IFkxHA0zumuZR4L"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 191256,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/6C1ln19uu7v3KJ5e13bfCS"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Entiende Corazon",
-        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
-      },
-      "artists": [
-        {
-          "name": "Zereno",
-          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
-        }
-      ],
-      "duration_ms": 189166,
-      "name": "Entiende Corazon",
-      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Entiende Corazon",
+        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
+      },
+      "artists": [
+        {
+          "name": "Zereno",
+          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
+        }
+      ],
+      "duration_ms": 189166,
+      "name": "Entiende Corazon",
+      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Que Dolor",
         "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
       },
@@ -919,38 +919,6 @@
       "duration_ms": 202292,
       "name": "Que Dolor",
       "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Como Te Voy a Olvidar",
-        "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
-      },
-      "artists": [
-        {
-          "name": "Genyva",
-          "url": "https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke"
-        }
-      ],
-      "duration_ms": 188265,
-      "name": "Como Te Voy a Olvidar",
-      "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Necesito Borrarte",
-        "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
-      },
-      "artists": [
-        {
-          "name": "G5",
-          "url": "https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA"
-        }
-      ],
-      "duration_ms": 254586,
-      "name": "Necesito Borrarte",
-      "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -971,18 +939,34 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Ven",
-        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
+        "name": "Increible",
+        "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
       },
       "artists": [
         {
-          "name": "ALICIA C",
-          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
+          "name": "MARISELA HERNANDEZ",
+          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
         }
       ],
-      "duration_ms": 177225,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
+      "duration_ms": 221640,
+      "name": "Increible",
+      "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Como Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
+      },
+      "artists": [
+        {
+          "name": "Genyva",
+          "url": "https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke"
+        }
+      ],
+      "duration_ms": 188265,
+      "name": "Como Te Voy a Olvidar",
+      "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1003,34 +987,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Increible",
-        "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
+        "name": "Necesito Borrarte",
+        "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
       },
       "artists": [
         {
-          "name": "MARISELA HERNANDEZ",
-          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
+          "name": "G5",
+          "url": "https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA"
         }
       ],
-      "duration_ms": 221640,
-      "name": "Increible",
-      "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Mas Tequila Por Favor",
-        "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
-      },
-      "artists": [
-        {
-          "name": "Cristelo",
-          "url": "https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Mas Tequila Por Favor",
-      "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
+      "duration_ms": 254586,
+      "name": "Necesito Borrarte",
+      "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1051,6 +1019,38 @@
       "duration_ms": 240383,
       "name": "Quebrando Cadenas",
       "url": "https://open.spotify.com/track/6EftRXMyuDZaM4vtgJ6dQn"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Mas Tequila Por Favor",
+        "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
+      },
+      "artists": [
+        {
+          "name": "Cristelo",
+          "url": "https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Mas Tequila Por Favor",
+      "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
+      },
+      "artists": [
+        {
+          "name": "ALICIA C",
+          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
+        }
+      ],
+      "duration_ms": 177225,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Bustamante",
-          "url": "https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g"
-        }
-      ],
-      "duration_ms": 192937,
-      "name": "Tiempo Sin Mi",
-      "url": "https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Ilusiones",
         "url": "https://open.spotify.com/album/3RuGEPSv2fjAkSAZ3zi06i"
       },
@@ -1147,22 +1131,6 @@
       "duration_ms": 197500,
       "name": "Ilusiones",
       "url": "https://open.spotify.com/track/2ppb8UJGd46K2s3amo3Tdf"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Simplemente Por Quererte a Ti",
-        "url": "https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Simplemente Por Quererte a Ti",
-      "url": "https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1199,34 +1167,34 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "La Tequilera",
-        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX"
       },
       "artists": [
         {
-          "name": "Andrea Michelle",
-          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
+          "name": "Cynthia Bustamante",
+          "url": "https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g"
         }
       ],
-      "duration_ms": 204355,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
+      "duration_ms": 192937,
+      "name": "Tiempo Sin Mi",
+      "url": "https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M"
     },
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Dime Por Qu\u00e9",
-        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
+        "name": "Simplemente Por Quererte a Ti",
+        "url": "https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ"
       },
       "artists": [
         {
-          "name": "Crystal Torres",
-          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Dime Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
+      "duration_ms": 198400,
+      "name": "Simplemente Por Quererte a Ti",
+      "url": "https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1247,6 +1215,38 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Dime Por Qu\u00e9",
+        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Torres",
+          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Dime Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "La Tequilera",
+        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
+      },
+      "artists": [
+        {
+          "name": "Andrea Michelle",
+          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
+        }
+      ],
+      "duration_ms": 204355,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "NADIE",
         "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 161623,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Toda Una Vida",
-        "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
-      },
-      "artists": [
-        {
-          "name": "Andie Bustamante",
-          "url": "https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK"
-        }
-      ],
-      "duration_ms": 180410,
-      "name": "Toda Una Vida",
-      "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1295,22 +1279,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "La Buena Vida",
-        "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
-      },
-      "artists": [
-        {
-          "name": "Rose Elva & the Crew",
-          "url": "https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn"
-        }
-      ],
-      "duration_ms": 222041,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "No Me Busques",
         "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
       },
@@ -1323,6 +1291,38 @@
       "duration_ms": 228812,
       "name": "No Me Busques",
       "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Toda Una Vida",
+        "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
+      },
+      "artists": [
+        {
+          "name": "Andie Bustamante",
+          "url": "https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK"
+        }
+      ],
+      "duration_ms": 180410,
+      "name": "Toda Una Vida",
+      "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "La Buena Vida",
+        "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
+      },
+      "artists": [
+        {
+          "name": "Rose Elva & the Crew",
+          "url": "https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn"
+        }
+      ],
+      "duration_ms": 222041,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
     }
   ],
   "unique_name": "New Tejano",

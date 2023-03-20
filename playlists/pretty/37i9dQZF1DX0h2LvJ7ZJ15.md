@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,872 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,587 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 10 | [green to blue \- slowed + reverbed](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [green to blue \(slowed + reverbed\)](https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s) | 3:07 |
 | 11 | [Black Out Days \- Future Islands Remix \(Slowed\)](https://open.spotify.com/track/5tRnzF4v2KL72QQdCjopyt) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \[Future Islands Remix \(Slowed\)\]](https://open.spotify.com/album/51DQUyUCSwUuIErPPGUcFj) | 3:34 |
 | 12 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
-| 13 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
-| 14 | [SNAP \- Low and Slow](https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:23 |
+| 13 | [SNAP \- Low and Slow](https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:23 |
+| 14 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
 | 15 | [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 |
 | 16 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
 | 17 | [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Us and Them](https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx) | [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu), [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Us and Them](https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ) | 2:46 |
 | 50 | [This December \- slow](https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Slowed Down Songs + Reverb](https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:33 |
 
-Snapshot ID: `MTY3NzU5Njc5MSwwMDAwMDAwMDYwYTdkOTkyODc0ZmIyZDA2ZWQ5MjY5ZTUyMjYxY2Iw`
+Snapshot ID: `MTY3NzU5Njc5MSwwMDAwMDAwMDk5NzA2NTQ4YTc2YmI2Y2FhNTY5OWFiNGYzNWQzMzJk`

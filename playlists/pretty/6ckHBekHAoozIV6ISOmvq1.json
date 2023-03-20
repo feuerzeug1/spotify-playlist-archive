@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTY2NixlYzRhMDIzNTAzYmU0NjBiMDM5N2ViNzQ2M2MwOGQ2ZjQ5NWZkYmIz",
+  "snapshot_id": "NTY2OCwwMjk4Y2U2ZDA3YzhjYWMyY2MwOWUwYmU0NmEwYjE0YzY5YTg4ODlh",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -1529,54 +1529,6 @@
       "url": "https://open.spotify.com/track/3iNaGI3Y6XtDQdUtbGCaYV"
     },
     {
-      "added_at": "2022-03-28 17:06:45",
-      "album": {
-        "name": "Madre de Deus, Cantigas de Santa Maria",
-        "url": "https://open.spotify.com/album/7sp2fALqdQK9UBqYG01HEF"
-      },
-      "artists": [
-        {
-          "name": "Alphonse X le Sage",
-          "url": "https://open.spotify.com/artist/1FvzUDd3VmY0jT5WvlHG4m"
-        },
-        {
-          "name": "Micrologus",
-          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
-        },
-        {
-          "name": "Patrizia Bovi",
-          "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
-        }
-      ],
-      "duration_ms": 269226,
-      "name": "Cantigas de Santa Maria: A Madre de Que Livrou",
-      "url": "https://open.spotify.com/track/41jdbx07sTNvc3BoPMnUo3"
-    },
-    {
-      "added_at": "2022-06-17 15:46:00",
-      "album": {
-        "name": "Sea Songs & Shanties",
-        "url": "https://open.spotify.com/album/1rUAhjLauNasB8ld0gWPR9"
-      },
-      "artists": [
-        {
-          "name": "Unknown",
-          "url": "https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57"
-        },
-        {
-          "name": "La Nef",
-          "url": "https://open.spotify.com/artist/44zM5sBndzzOBAPdbNa2fQ"
-        },
-        {
-          "name": "Sean Dagher",
-          "url": "https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw"
-        }
-      ],
-      "duration_ms": 248186,
-      "name": "Leave Her, Johnny (Arr. by Se\u00e1n Dagher)",
-      "url": "https://open.spotify.com/track/2OfSreeqGD1osKdzyMfi2P"
-    },
-    {
       "added_at": "2022-09-17 01:14:54",
       "album": {
         "name": "Richard C\u0153ur de Lion, troubadours et trouv\u00e8res",
@@ -1613,6 +1565,30 @@
       "url": "https://open.spotify.com/track/6sFgv5yANSTueVYgbWciJE"
     },
     {
+      "added_at": "2022-03-28 17:06:45",
+      "album": {
+        "name": "Madre de Deus, Cantigas de Santa Maria",
+        "url": "https://open.spotify.com/album/7sp2fALqdQK9UBqYG01HEF"
+      },
+      "artists": [
+        {
+          "name": "Alphonse X le Sage",
+          "url": "https://open.spotify.com/artist/1FvzUDd3VmY0jT5WvlHG4m"
+        },
+        {
+          "name": "Micrologus",
+          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
+        },
+        {
+          "name": "Patrizia Bovi",
+          "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
+        }
+      ],
+      "duration_ms": 269226,
+      "name": "Cantigas de Santa Maria: A Madre de Que Livrou",
+      "url": "https://open.spotify.com/track/41jdbx07sTNvc3BoPMnUo3"
+    },
+    {
       "added_at": "2022-12-30 17:02:22",
       "album": {
         "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
@@ -1635,6 +1611,30 @@
       "duration_ms": 209826,
       "name": "Adieu vous di, tres doulce compaynie",
       "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
+    },
+    {
+      "added_at": "2022-06-17 15:46:00",
+      "album": {
+        "name": "Sea Songs & Shanties",
+        "url": "https://open.spotify.com/album/1rUAhjLauNasB8ld0gWPR9"
+      },
+      "artists": [
+        {
+          "name": "Unknown",
+          "url": "https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57"
+        },
+        {
+          "name": "La Nef",
+          "url": "https://open.spotify.com/artist/44zM5sBndzzOBAPdbNa2fQ"
+        },
+        {
+          "name": "Sean Dagher",
+          "url": "https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw"
+        }
+      ],
+      "duration_ms": 248186,
+      "name": "Leave Her, Johnny (Arr. by Se\u00e1n Dagher)",
+      "url": "https://open.spotify.com/track/2OfSreeqGD1osKdzyMfi2P"
     },
     {
       "added_at": "2019-08-07 20:33:09",
@@ -2049,30 +2049,6 @@
       "url": "https://open.spotify.com/track/2uhPbHxvHStBgk2rcm3tho"
     },
     {
-      "added_at": "2023-02-16 16:50:54",
-      "album": {
-        "name": "Ockeghem: Requiem / Missa Fors seulement",
-        "url": "https://open.spotify.com/album/4bfwL1fvAsWJE92V8CAgWe"
-      },
-      "artists": [
-        {
-          "name": "Antoine Brumel",
-          "url": "https://open.spotify.com/artist/7kOay3yTSziCfffTrlEqsD"
-        },
-        {
-          "name": "The Clerks' Group",
-          "url": "https://open.spotify.com/artist/1xPrwzMXeBGn3vV2T8mt6s"
-        },
-        {
-          "name": "Edward Wickham",
-          "url": "https://open.spotify.com/artist/6SJ6eAvBM3JhLqjZKzXEkO"
-        }
-      ],
-      "duration_ms": 748800,
-      "name": "Du tout plongiet/Fors seulement",
-      "url": "https://open.spotify.com/track/4GeINy8JYsHPofZZR36zyN"
-    },
-    {
       "added_at": "2022-12-02 20:12:07",
       "album": {
         "name": "Music for the Bentivoglio: Unica and highlights from codex Q 18",
@@ -2131,6 +2107,30 @@
       "duration_ms": 218066,
       "name": "3 Branles de Bourgogne and Branle gay nouveau",
       "url": "https://open.spotify.com/track/5RsY0LMcEpAY89x3gDQKyx"
+    },
+    {
+      "added_at": "2023-02-16 16:50:54",
+      "album": {
+        "name": "Ockeghem: Requiem / Missa Fors seulement",
+        "url": "https://open.spotify.com/album/4bfwL1fvAsWJE92V8CAgWe"
+      },
+      "artists": [
+        {
+          "name": "Antoine Brumel",
+          "url": "https://open.spotify.com/artist/7kOay3yTSziCfffTrlEqsD"
+        },
+        {
+          "name": "The Clerks' Group",
+          "url": "https://open.spotify.com/artist/1xPrwzMXeBGn3vV2T8mt6s"
+        },
+        {
+          "name": "Edward Wickham",
+          "url": "https://open.spotify.com/artist/6SJ6eAvBM3JhLqjZKzXEkO"
+        }
+      ],
+      "duration_ms": 748800,
+      "name": "Du tout plongiet/Fors seulement",
+      "url": "https://open.spotify.com/track/4GeINy8JYsHPofZZR36zyN"
     },
     {
       "added_at": "2018-12-10 16:22:28",
@@ -2337,6 +2337,26 @@
       "url": "https://open.spotify.com/track/6iM2rNvrl3yvHB2xb4SxFQ"
     },
     {
+      "added_at": "2023-02-10 13:52:58",
+      "album": {
+        "name": "Boethius: Songs of Consolation",
+        "url": "https://open.spotify.com/album/4KEW5satTIwmKBTtuH3Xvn"
+      },
+      "artists": [
+        {
+          "name": "Anicius Manlius Severinus Boethius",
+          "url": "https://open.spotify.com/artist/3W5rAL2GY92Kd7ucM5AoXy"
+        },
+        {
+          "name": "Sequentia",
+          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
+        }
+      ],
+      "duration_ms": 419373,
+      "name": "Carmina qui quondam",
+      "url": "https://open.spotify.com/track/4R1VEypKnSxy12z396Trur"
+    },
+    {
       "added_at": "2022-09-24 03:28:17",
       "album": {
         "name": "Under der Linden",
@@ -2359,26 +2379,6 @@
       "duration_ms": 404000,
       "name": "Gar starc bekannt ist der helffant",
       "url": "https://open.spotify.com/track/6AkrDT8gUeQOvyVm9cJ9PU"
-    },
-    {
-      "added_at": "2023-02-10 13:52:58",
-      "album": {
-        "name": "Boethius: Songs of Consolation",
-        "url": "https://open.spotify.com/album/4KEW5satTIwmKBTtuH3Xvn"
-      },
-      "artists": [
-        {
-          "name": "Anicius Manlius Severinus Boethius",
-          "url": "https://open.spotify.com/artist/3W5rAL2GY92Kd7ucM5AoXy"
-        },
-        {
-          "name": "Sequentia",
-          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
-        }
-      ],
-      "duration_ms": 419373,
-      "name": "Carmina qui quondam",
-      "url": "https://open.spotify.com/track/4R1VEypKnSxy12z396Trur"
     },
     {
       "added_at": "2020-10-16 12:02:22",
@@ -2447,30 +2447,6 @@
     {
       "added_at": "2020-09-04 11:13:08",
       "album": {
-        "name": "Troubadours",
-        "url": "https://open.spotify.com/album/78SZrtwYwqiZbc95jeRCYW"
-      },
-      "artists": [
-        {
-          "name": "Peire Vidal",
-          "url": "https://open.spotify.com/artist/10lcTgYU9YAZSKs9QvJqAQ"
-        },
-        {
-          "name": "Clemencic Consort",
-          "url": "https://open.spotify.com/artist/7IU1mejEjVK8cebFCnGmlX"
-        },
-        {
-          "name": "Rene Clemencic",
-          "url": "https://open.spotify.com/artist/5sfK9WFJ7Jxq44RRs8blv5"
-        }
-      ],
-      "duration_ms": 488546,
-      "name": "Vida et Razos",
-      "url": "https://open.spotify.com/track/2DOKaNO36Wvq2aEI7qle3j"
-    },
-    {
-      "added_at": "2020-09-04 11:13:08",
-      "album": {
         "name": "Music of the Crusades",
         "url": "https://open.spotify.com/album/6QuLneX382Lqccj5rHkfvK"
       },
@@ -2495,6 +2471,30 @@
       "duration_ms": 193866,
       "name": "Pax in nomine domini!",
       "url": "https://open.spotify.com/track/4HzbSbM5JYP9sIbbCIjS99"
+    },
+    {
+      "added_at": "2020-09-04 11:13:08",
+      "album": {
+        "name": "Troubadours",
+        "url": "https://open.spotify.com/album/78SZrtwYwqiZbc95jeRCYW"
+      },
+      "artists": [
+        {
+          "name": "Peire Vidal",
+          "url": "https://open.spotify.com/artist/10lcTgYU9YAZSKs9QvJqAQ"
+        },
+        {
+          "name": "Clemencic Consort",
+          "url": "https://open.spotify.com/artist/7IU1mejEjVK8cebFCnGmlX"
+        },
+        {
+          "name": "Rene Clemencic",
+          "url": "https://open.spotify.com/artist/5sfK9WFJ7Jxq44RRs8blv5"
+        }
+      ],
+      "duration_ms": 488546,
+      "name": "Vida et Razos",
+      "url": "https://open.spotify.com/track/2DOKaNO36Wvq2aEI7qle3j"
     },
     {
       "added_at": "2022-04-15 15:52:11",
@@ -4005,30 +4005,6 @@
       "url": "https://open.spotify.com/track/3R4wrmER2iiQViv0SPkEnk"
     },
     {
-      "added_at": "2023-02-17 15:09:46",
-      "album": {
-        "name": "Madre de Deus, Cantigas de Santa Maria",
-        "url": "https://open.spotify.com/album/7sp2fALqdQK9UBqYG01HEF"
-      },
-      "artists": [
-        {
-          "name": "Alphonse X le Sage",
-          "url": "https://open.spotify.com/artist/1FvzUDd3VmY0jT5WvlHG4m"
-        },
-        {
-          "name": "Micrologus",
-          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
-        },
-        {
-          "name": "Patrizia Bovi",
-          "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
-        }
-      ],
-      "duration_ms": 515466,
-      "name": "Cantigas de Santa Maria: Madre de Deus",
-      "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
-    },
-    {
       "added_at": "2022-08-10 16:19:09",
       "album": {
         "name": "Cantigas de Santa Maria",
@@ -4051,6 +4027,30 @@
       "duration_ms": 184693,
       "name": "Cantigas de Santa Maria: Maravillosos e Piadosos",
       "url": "https://open.spotify.com/track/0WMhgLgM1zhYL4MkO7QKLC"
+    },
+    {
+      "added_at": "2023-02-17 15:09:46",
+      "album": {
+        "name": "Madre de Deus, Cantigas de Santa Maria",
+        "url": "https://open.spotify.com/album/7sp2fALqdQK9UBqYG01HEF"
+      },
+      "artists": [
+        {
+          "name": "Alphonse X le Sage",
+          "url": "https://open.spotify.com/artist/1FvzUDd3VmY0jT5WvlHG4m"
+        },
+        {
+          "name": "Micrologus",
+          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
+        },
+        {
+          "name": "Patrizia Bovi",
+          "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
+        }
+      ],
+      "duration_ms": 515466,
+      "name": "Cantigas de Santa Maria: Madre de Deus",
+      "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
     },
     {
       "added_at": "2022-09-24 03:28:17",

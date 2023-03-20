@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 742181,
+  "num_followers": 742376,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGFjYzEwNTBkODA5ZTc0MzljMDQzYzg0ZTdkYjhjODRl",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGU0NjVhOTFmOTIzMjJkZTFkZDQ3ZGJiMGI2MzVhMDMw",
   "tracks": [
     {
       "added_at": "2022-09-09 04:08:19",
@@ -745,26 +745,6 @@
       "url": "https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "I Won't Tell",
-        "url": "https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "I Won't Tell",
-      "url": "https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
@@ -805,6 +785,26 @@
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "I Won't Tell",
+        "url": "https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "I Won't Tell",
+      "url": "https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Show & Prove",
@@ -841,26 +841,6 @@
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "beat of a slow dance",
-        "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 234799,
-      "name": "beat of a slow dance",
-      "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Watch The Sun (Deluxe)",
@@ -895,6 +875,26 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "beat of a slow dance",
+        "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 234799,
+      "name": "beat of a slow dance",
+      "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -945,6 +945,22 @@
       "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "My Way (25th Anniversary Edition)",
@@ -963,22 +979,6 @@
       "duration_ms": 192064,
       "name": "Nice & Slow - Ryan James Carr Remake",
       "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1181,20 +1181,24 @@
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
     },
     {
-      "added_at": "2022-10-28 07:50:50",
+      "added_at": "2023-03-03 05:39:26",
       "album": {
-        "name": "LET IT RAIN EP",
-        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
+        "name": "Aged Eyes",
+        "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
         }
       ],
-      "duration_ms": 203064,
-      "name": "TEARS OF JOY",
-      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
+      "duration_ms": 246400,
+      "name": "Aged Eyes",
+      "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1269,64 +1273,20 @@
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-28 07:50:50",
       "album": {
-        "name": "PHILEO",
-        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
+        "name": "LET IT RAIN EP",
+        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
       },
       "artists": [
         {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 168235,
-      "name": "Scene 1",
-      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
-    },
-    {
-      "added_at": "2023-03-03 05:39:26",
-      "album": {
-        "name": "Aged Eyes",
-        "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Kaya Thomas-Dyke",
-          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Aged Eyes",
-      "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        }
-      ],
-      "duration_ms": 299366,
-      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
+      "duration_ms": 203064,
+      "name": "TEARS OF JOY",
+      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1353,6 +1313,46 @@
       "url": "https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 299366,
+      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "PHILEO",
+        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 168235,
+      "name": "Scene 1",
+      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
+    },
+    {
       "added_at": "2023-03-03 05:39:26",
       "album": {
         "name": "i remember you my ex",
@@ -1371,6 +1371,22 @@
       "duration_ms": 181773,
       "name": "i remember you my ex",
       "url": "https://open.spotify.com/track/4dGH4YFWf1qq4LcwG37yRH"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Coffee in the Morning",
+        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Coffee in the Morning",
+      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
       "added_at": "2022-11-18 18:12:42",
@@ -1403,22 +1419,6 @@
       "duration_ms": 176065,
       "name": "without you",
       "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Coffee in the Morning",
-        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Coffee in the Morning",
-      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/4hj7jCslc9kgnOhl9fqOsN"
     },
     {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 370213,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Don't Think You Ever Loved Me",
@@ -1551,6 +1535,22 @@
       "duration_ms": 396825,
       "name": "Don't Think You Ever Loved Me",
       "url": "https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b"
+    },
+    {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 370213,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1669,22 +1669,6 @@
       "url": "https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Rare Changes",
-        "url": "https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 194072,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "On the Run",
@@ -1703,6 +1687,22 @@
       "duration_ms": 231111,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Rare Changes",
+        "url": "https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 194072,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP"
     },
     {
       "added_at": "2022-11-18 18:12:42",

@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 6812,
+  "num_followers": 6817,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyODcyNiwwMDAwMDAwMDVkMzM2MmY4NTUwNWNiZDIzNzY3NDBkOWY5ZDNkM2Vm",
+  "snapshot_id": "MTY3NzIyODcyNiwwMDAwMDAwMDc4NzEyNDYyYzliMTAwMjllNDNiNjBjMjdkN2YxYTY2",
   "tracks": [
     {
       "added_at": "2023-01-25 01:27:19",
@@ -327,30 +327,6 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "Show Me the Money 5 Episode 2",
-        "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "ONE",
-          "url": "https://open.spotify.com/artist/36Hd8M3GV2FLpHUEDH6bCz"
-        }
-      ],
-      "duration_ms": 252258,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
         "name": "School Rapper 2 Team-Battle Part 3",
         "url": "https://open.spotify.com/album/5gzRcFZt1zI7Vpxq3N14vL"
       },
@@ -375,6 +351,46 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
+        "name": "Show Me the Money 5 Episode 2",
+        "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "ONE",
+          "url": "https://open.spotify.com/artist/36Hd8M3GV2FLpHUEDH6bCz"
+        }
+      ],
+      "duration_ms": 252258,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 229575,
       "name": "Time limit (Feat. Leellamarz, Loco)",
       "url": "https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -611,22 +611,18 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
+        "name": "X (Butterfly)",
+        "url": "https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O"
       },
       "artists": [
         {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 212200,
-      "name": "23 (Feat. SAM KIM)",
-      "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
+      "duration_ms": 193622,
+      "name": "X (Butterfly)",
+      "url": "https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -647,18 +643,22 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "X (Butterfly)",
-        "url": "https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O"
+        "name": "23",
+        "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 193622,
-      "name": "X (Butterfly)",
-      "url": "https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS"
+      "duration_ms": 212200,
+      "name": "23 (Feat. SAM KIM)",
+      "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -703,18 +703,22 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ"
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
       },
       "artists": [
         {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 247287,
-      "name": "FLOWER (Prod. by AVIN)",
-      "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
+      "duration_ms": 233013,
+      "name": "Til I Die",
+      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -755,22 +759,18 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
         }
       ],
-      "duration_ms": 233013,
-      "name": "Til I Die",
-      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
+      "duration_ms": 247287,
+      "name": "FLOWER (Prod. by AVIN)",
+      "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
     },
     {
       "added_at": "2023-01-25 01:27:19",

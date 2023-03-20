@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,238 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,319 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 13 | [Bubble](https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8) | 3:20 |
 | 14 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
 | 15 | [Wanted](https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Wanted](https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu) | 3:37 |
-| 16 | [If You Only Knew](https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [If You Only Knew](https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk) | 4:01 |
+| 16 | [Patra](https://open.spotify.com/track/6NABMkgjXgSbJvSmX0qg46) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [BLEU, Vol\. 1](https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe) | 3:25 |
 | 17 | [That's Not True](https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:28 |
-| 18 | [Patra](https://open.spotify.com/track/6NABMkgjXgSbJvSmX0qg46) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [BLEU, Vol\. 1](https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe) | 3:25 |
+| 18 | [If You Only Knew](https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [If You Only Knew](https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk) | 4:01 |
 | 19 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
 | 20 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 |
 | 21 | [Thy Will](https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Thy Will](https://open.spotify.com/album/6fni7JqR3wJqmz75SEeHI6) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Do Your Ting](https://open.spotify.com/track/35lAY27HwxYqDf2wKCIYXt) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/6vb64AUqN5DVTlGROkmxjD) | 3:12 |
 | 50 | [Stop You Coming and Come \- Jam in the Van Live Session](https://open.spotify.com/track/2v3p3V7E1BBBR6B7BNUs2d) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Steel Pulse \(Live at Reggae On The Mountain 2019\)](https://open.spotify.com/album/51sbA0X6M2RI6fDfi1kzoB) | 4:36 |
 
-Snapshot ID: `MTY2NTcwMTE5NywwMDAwMDAwMDJkOTE0MDY1OGM2YWY2NThlZDQ0YmM4ZTAzYTE1YTkx`
+Snapshot ID: `MTY2NTcwMTE5NywwMDAwMDAwMGQxODUwNjRkN2ExNTI5MDg0MDY3NzEzODkyNzI2MzQw`

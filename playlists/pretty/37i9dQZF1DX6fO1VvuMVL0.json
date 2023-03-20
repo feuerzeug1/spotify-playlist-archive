@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 49355,
+  "num_followers": 49423,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg3NDA0MCwwMDAwMDAwMGNiNmMxNmVhYTcwZjdlMDY1YjlhODg1MmY1ZTc1NGY5",
+  "snapshot_id": "MTY3ODg3NDA0MCwwMDAwMDAwMGNlOTE1YWI2NTJiNDcyMDY5YTBjYWFhMmU0MDY1YThj",
   "tracks": [
     {
       "added_at": "2023-03-02 08:54:27",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "Presenting The Gerry Mulligan Sextet",
-        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
         }
       ],
-      "duration_ms": 323373,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
+      "duration_ms": 390666,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+        "name": "Presenting The Gerry Mulligan Sextet",
+        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
       },
       "artists": [
         {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 390666,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
+      "duration_ms": 323373,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -575,26 +575,18 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "On Green Dolphin Street",
-        "url": "https://open.spotify.com/album/36qVpx6Ra3F9EqgX4mAMqW"
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 488600,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/31DobufWZZuZBHtdUO9WpJ"
+      "duration_ms": 356133,
+      "name": "Walkin' Out Blues",
+      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -615,18 +607,26 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+        "name": "On Green Dolphin Street",
+        "url": "https://open.spotify.com/album/36qVpx6Ra3F9EqgX4mAMqW"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
         }
       ],
-      "duration_ms": 356133,
-      "name": "Walkin' Out Blues",
-      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
+      "duration_ms": 488600,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/31DobufWZZuZBHtdUO9WpJ"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -679,6 +679,22 @@
       "duration_ms": 181674,
       "name": "Under Capricorn",
       "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Walkin' Shoes",
-      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
         "name": "The Complete Argo Mercury Sessions",
         "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
       },
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
         "name": "Jazz Alive! A Night At The Half Note (Live)",
         "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 614533,
       "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
       "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -907,6 +907,26 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
+        "name": "The Ivory Hunters",
+        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
+      },
+      "artists": [
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 446066,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
         "name": "Stan Kenton",
         "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 319240,
       "name": "Thanks For The Memory",
       "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
-        "name": "The Ivory Hunters",
-        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
-      },
-      "artists": [
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 446066,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Show Me - Instrumental",
+      "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 422266,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Show Me - Instrumental",
-      "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
     },
     {
       "added_at": "2023-03-02 08:54:27",

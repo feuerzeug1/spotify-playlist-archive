@@ -4869,6 +4869,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1gica Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
+      },
+      "artists": [
+        {
+          "name": "La Piba Berreta",
+          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190393,
+      "name": "M\u00e1gica Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
+    },
+    {
+      "album": {
         "name": "La Danza de los Principiantes",
         "url": "https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr"
       },
@@ -7718,7 +7740,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-20",
       "duration_ms": 217500,
       "name": "Vos y Yo",
       "url": "https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ"

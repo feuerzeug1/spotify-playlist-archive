@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado ",
-  "num_followers": 97960,
+  "num_followers": 97966,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDdlODEwMTA0OTQ2ZWJkNzU4NTAyMGMzYjdlNzBjN2U1",
+  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDFmNDc1ZWZmNzAxYTFjYWUyY2QxM2NjODBiODNiYjVl",
   "tracks": [
     {
       "added_at": "2023-03-17 06:06:33",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Mi Propuesta",
-        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 205075,
-      "name": "Mi Propuesta",
-      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Cambio De Canci\u00f3n",
         "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 169548,
       "name": "Cambio De Canci\u00f3n",
       "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Mi Propuesta",
+        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 205075,
+      "name": "Mi Propuesta",
+      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "No Fuimos Nada",
-        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 182981,
-      "name": "No Fuimos Nada",
-      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "NO SE VA",
         "url": "https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 251981,
       "name": "NO SE VA",
       "url": "https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "No Fuimos Nada",
+        "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 182981,
+      "name": "No Fuimos Nada",
+      "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
+      },
+      "artists": [
+        {
+          "name": "Panchito Vega",
+          "url": "https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Tiempos de Guerra 2",
         "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 171053,
       "name": "Tiempos de Guerra 2",
       "url": "https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "El Matrix",
-        "url": "https://open.spotify.com/album/4UwUyzqp8e5iqM8awTgHgU"
-      },
-      "artists": [
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 150678,
-      "name": "El Matrix",
-      "url": "https://open.spotify.com/track/5B3gw7EcyIODNP9K542xfl"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Quise Ser Bueno",
-        "url": "https://open.spotify.com/album/19kg4sH9AsYEu3oIuuBkcf"
-      },
-      "artists": [
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        },
-        {
-          "name": "Kevin Lopez",
-          "url": "https://open.spotify.com/artist/0ZzYMp49RXtrF29cEngFFJ"
-        }
-      ],
-      "duration_ms": 218280,
-      "name": "Quise Ser Bueno",
-      "url": "https://open.spotify.com/track/7MAPPJtHY6ufnyhi6OexMu"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Payonazo Exoticos",
         "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
       },
@@ -967,18 +947,38 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
+        "name": "El Matrix",
+        "url": "https://open.spotify.com/album/4UwUyzqp8e5iqM8awTgHgU"
       },
       "artists": [
         {
-          "name": "Panchito Vega",
-          "url": "https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg"
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl"
+      "duration_ms": 150678,
+      "name": "El Matrix",
+      "url": "https://open.spotify.com/track/5B3gw7EcyIODNP9K542xfl"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Quise Ser Bueno",
+        "url": "https://open.spotify.com/album/19kg4sH9AsYEu3oIuuBkcf"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        },
+        {
+          "name": "Kevin Lopez",
+          "url": "https://open.spotify.com/artist/0ZzYMp49RXtrF29cEngFFJ"
+        }
+      ],
+      "duration_ms": 218280,
+      "name": "Quise Ser Bueno",
+      "url": "https://open.spotify.com/track/7MAPPJtHY6ufnyhi6OexMu"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Ni Como Ni Cuando (En Vivo)",
-        "url": "https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3"
-      },
-      "artists": [
-        {
-          "name": "Doble Vision",
-          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
-        }
-      ],
-      "duration_ms": 128285,
-      "name": "Ni Como Ni cuando (En Vivo)",
-      "url": "https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Golpe de Suerte (En Vivo)",
         "url": "https://open.spotify.com/album/62bReN6yDjgYG3Aw3oKt4S"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 190249,
       "name": "Golpe de Suerte (En Vivo)",
       "url": "https://open.spotify.com/track/0MEEO56ULnC24ZLp0V4Ov2"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Ni Como Ni Cuando (En Vivo)",
+        "url": "https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3"
+      },
+      "artists": [
+        {
+          "name": "Doble Vision",
+          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
+        }
+      ],
+      "duration_ms": 128285,
+      "name": "Ni Como Ni cuando (En Vivo)",
+      "url": "https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 197719,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Es Claro",
         "url": "https://open.spotify.com/album/5bZbVxM7cTMdqUkoNcRr5y"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 161888,
       "name": "Es Claro",
       "url": "https://open.spotify.com/track/6rmWdaLQjCFmwgjujWPnY9"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 197719,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Ya Te Borre",
-        "url": "https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p"
-      },
-      "artists": [
-        {
-          "name": "GiGi",
-          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
-        }
-      ],
-      "duration_ms": 205269,
-      "name": "Ya Te Borre",
-      "url": "https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Hasta Arriba",
         "url": "https://open.spotify.com/album/0TgoWWHLP3KqfdLD01EafH"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Todo Termin\u00f3",
-        "url": "https://open.spotify.com/album/0i0FRjgz2NCaN8s212Rcd4"
+        "name": "Ya Te Borre",
+        "url": "https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p"
       },
       "artists": [
         {
-          "name": "Grupo Rocket",
-          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+          "name": "GiGi",
+          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Todo Termin\u00f3",
-      "url": "https://open.spotify.com/track/0RrN2Vm2FXGhZQZRiFnG0U"
+      "duration_ms": 205269,
+      "name": "Ya Te Borre",
+      "url": "https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1467,6 +1451,22 @@
       "duration_ms": 144340,
       "name": "El Jamaico",
       "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Todo Termin\u00f3",
+        "url": "https://open.spotify.com/album/0i0FRjgz2NCaN8s212Rcd4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Todo Termin\u00f3",
+      "url": "https://open.spotify.com/track/0RrN2Vm2FXGhZQZRiFnG0U"
     },
     {
       "added_at": "2023-03-17 06:06:33",

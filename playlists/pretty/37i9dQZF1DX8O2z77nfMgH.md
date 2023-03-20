@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,127 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,163 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 37 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
 | 38 | [Acabo de Gastar](https://open.spotify.com/track/0H4do0yzcSZkrdr8wRU9yy) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Acabo de Gastar](https://open.spotify.com/album/1RuPitYvZD6PbzE0iWz3pC) | 3:35 |
 | 39 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 |
-| 40 | [Kiweed](https://open.spotify.com/track/2Fdol3DAuNvyfFsxTQKpAP) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Kiweed](https://open.spotify.com/album/0pggsrbIax2k63ZLJjeLcy) | 3:17 |
+| 40 | [Kiweed](https://open.spotify.com/track/2Fdol3DAuNvyfFsxTQKpAP) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [UANTI](https://open.spotify.com/artist/0jo4N4Z4HUM6y0N19MApwQ) | [Kiweed](https://open.spotify.com/album/0pggsrbIax2k63ZLJjeLcy) | 3:17 |
 | 41 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 |
 | 42 | [LEALTAD](https://open.spotify.com/track/1jlMnFogG1NeVbs8h4UUw1) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [LEALTAD](https://open.spotify.com/album/322JP4Usb0tyKnNQLdPgac) | 2:30 |
 | 43 | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/album/308VA4UV7GdELyQHd5TGLD) | 3:29 |

@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Gene Moore",
-  "num_followers": 180689,
+  "num_followers": 180945,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMGJlZGYwNjA5OGQ5OTY3ZTRjYmE1NmE1ZDljNWMxMGVj",
+  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMGZkYjA1YjNlNmNiZWYyYWExZGQxNjQwYWNmOWFiN2Ux",
   "tracks": [
     {
       "added_at": "2023-01-20 09:20:39",
@@ -355,38 +355,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 223639,
-      "name": "Hands - Radio Version",
-      "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Ultimate Self",
-        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
-      },
-      "artists": [
-        {
-          "name": "Lani Rose",
-          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Ultimate Self",
-      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "CALL",
         "url": "https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j"
       },
@@ -407,22 +375,34 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+        "name": "Ultimate Self",
+        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
         }
       ],
-      "duration_ms": 415745,
-      "name": "Walk By Faith",
-      "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
+      "duration_ms": 225000,
+      "name": "Ultimate Self",
+      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 223639,
+      "name": "Hands - Radio Version",
+      "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -443,6 +423,26 @@
       "duration_ms": 159221,
       "name": "Strawberry Worship",
       "url": "https://open.spotify.com/track/6M51HiOTboltzBHExCNcRf"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 415745,
+      "name": "Walk By Faith",
+      "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -523,6 +523,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Hold On Me",
         "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
       },
@@ -535,6 +555,22 @@
       "duration_ms": 172113,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -559,58 +595,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "BUSY",
-        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "BUSY",
-      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "New Me",
-        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
-      },
-      "artists": [
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "New Me",
-      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Look Up to the Sky",
         "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 173522,
       "name": "Look Up to the Sky",
       "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 181776,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Hearts in Pain",
         "url": "https://open.spotify.com/album/1aXo94Pxz8t8fGbvaZ81Sj"
       },
@@ -691,22 +671,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "This Kind Of Love",
-        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "This Kind Of Love",
-      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Hard Times (feat. Mali Music)",
         "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
       },
@@ -723,6 +687,42 @@
       "duration_ms": 205333,
       "name": "Hard Times (feat. Mali Music)",
       "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 181776,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "This Kind Of Love",
+        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "This Kind Of Love",
+      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 263791,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Vans X Adidas",
         "url": "https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 234328,
       "name": "Vans X Adidas",
       "url": "https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 263791,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -855,22 +871,6 @@
       "duration_ms": 382608,
       "name": "Walk With You",
       "url": "https://open.spotify.com/track/1ccvFGOxax5zDNdt8fNZLg"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
-      },
-      "artists": [
-        {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 168236,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Kingdom Business: Season 1",
         "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 248926,
       "name": "Crazy Kinda Love",
       "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 168236,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Mr. McClure",
-        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "Mr. McClure",
-      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Waiting (Reimagined)",
         "url": "https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 211209,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Be My Everything (Reimagined)",
-        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 233086,
-      "name": "Be My Everything - Reimagined",
-      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Unguilty Pleasure",
         "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
+        "name": "Be My Everything (Reimagined)",
+        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
       },
       "artists": [
         {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
         }
       ],
-      "duration_ms": 186337,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
+      "duration_ms": 233086,
+      "name": "Be My Everything - Reimagined",
+      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1743,6 +1727,22 @@
       "duration_ms": 194139,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0BXUW4wib9sg9SH20Nwdam"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 186337,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
     },
     {
       "added_at": "2023-01-20 09:20:39",

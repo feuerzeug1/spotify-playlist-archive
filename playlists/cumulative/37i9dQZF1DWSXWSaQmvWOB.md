@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: The Teskey Brothers
 
-640 songs - 1 day 15 hr 18 min
+641 songs - 1 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [Real Deal](https://open.spotify.com/track/2yCT259s8awbxVuW9bBS31) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Real Deal](https://open.spotify.com/album/4I6A3ebJ9csleHvR6ZE9CE) | 4:41 | 2020-08-21 | 2020-10-09 |
 | [Recall](https://open.spotify.com/track/3f056kh9ylAHBtkitZHyKd) | [Joanna Teters](https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp) | [Recall](https://open.spotify.com/album/4eAwl993f7p4YvLkQdouwx) | 4:34 | 2020-03-25\* | 2020-06-05 |
 | [recluse](https://open.spotify.com/track/7mWeJYHYp8tVkIgiUIv7LX) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD) | [recluse](https://open.spotify.com/album/2HCk1cYWOHRtommqzN1qK9) | 3:38 | 2021-05-21 | 2021-10-29 |
-| [Recovery Time](https://open.spotify.com/track/17d1x0NWlRglnOxnAfqWMm) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Recovery Time](https://open.spotify.com/album/2zkwPbAe8duHRZP62hmg9s) | 3:43 | 2023-03-17 |  |
+| [Recovery Time](https://open.spotify.com/track/17d1x0NWlRglnOxnAfqWMm) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Recovery Time](https://open.spotify.com/album/2zkwPbAe8duHRZP62hmg9s) | 3:43 | 2023-03-17 | 2023-03-20 |
 | [Red Flags](https://open.spotify.com/track/0JjL6v0KIKgdXUorvfkcwn) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Red Flags](https://open.spotify.com/album/4LdbvblfBiYfe8lK3qMX5O) | 3:19 | 2020-12-05 | 2021-09-24 |
 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 | 2021-05-07 | 2021-10-29 |
 | [Red To Violet \- Feat\. Jamila Woods](https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Red To Violet \(Feat\. Jamila Woods\)](https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv) | 3:22 | 2022-08-25 |  |
@@ -491,6 +491,7 @@
 | [Slow](https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Slow](https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW) | 2:55 | 2022-07-28 |  |
 | [Slowly Starting to Take Form](https://open.spotify.com/track/1sW4lzC7SyXdzclH82WbgE) | [vbnd](https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW), [The Soulmate Collective](https://open.spotify.com/artist/1C9JOUtzsAzP34pZ26Cbwv) | [Slowly Starting to Take Form](https://open.spotify.com/album/282MjoItOGZcWHGd8mmPk7) | 3:22 | 2021-02-06 | 2021-10-29 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-12 | 2022-03-11 |
+| [So Many Ways to Get Downtown](https://open.spotify.com/track/4omjWR9RUMNQlEWTRHaYk8) | [Próxima Parada](https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz) | [So Many Ways to Get Downtown](https://open.spotify.com/album/3tdYWWWZNhSlRDWpW3B629) | 4:42 | 2023-03-17 |  |
 | [Sober](https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Sober](https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC) | 2:59 | 2020-06-05 | 2020-08-25 |
 | [Some Days](https://open.spotify.com/track/0GMZTe7a0XBj0kAsp8TOxA) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/2BEcS31JAcmiXeMsYAyJtq) | 3:28 | 2020-07-11 | 2020-10-09 |
 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 | 2022-07-21 |  |

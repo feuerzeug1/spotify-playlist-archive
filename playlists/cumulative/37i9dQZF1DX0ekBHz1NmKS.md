@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-656 songs - 1 day 10 hr 48 min
+657 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [Innocent Love](https://open.spotify.com/track/71vojPlEiXkv0ZGWyfWqFj) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Innocent Love](https://open.spotify.com/album/5p61tjKE3bf96LDICjSBa5) | 3:02 | 2022-02-26 | 2022-09-16 |
 | [Inte en gång till](https://open.spotify.com/track/6JD183FLGA6R4B0sYm2xiz) | [Jessica Bohlin](https://open.spotify.com/artist/6xMt0bWYPTHNcCj1zL80VB) | [Inte en gång till](https://open.spotify.com/album/0L8uwgD2s0AoXG4iJp1Xu7) | 3:08 | 2022-09-15 | 2022-09-22 |
 | [Irreplaceable](https://open.spotify.com/track/1gK79XAWFSYyl8FpphEQiH) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Irreplaceable](https://open.spotify.com/album/2dIihXdiXigVetfKI2QDqs) | 3:35 | 2021-12-16 | 2022-03-11 |
-| [Isabelle](https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Isabelle](https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P) | 3:35 | 2022-05-20 |  |
+| [Isabelle](https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Isabelle](https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P) | 3:35 | 2022-05-20 | 2023-03-20 |
 | [Island of the Sun](https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4) | 2:56 | 2022-03-10 | 2022-04-20 |
 | [Ja](https://open.spotify.com/track/7l7xxZPc59AS2ZELHnrLul) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [Ja](https://open.spotify.com/album/21daaQE9MppIykDklxl4wk) | 3:10 | 2022-05-05 | 2022-07-28 |
 | [Jag har en sång](https://open.spotify.com/track/5EEBaNtTSxGAFDDvF4u0to) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Jag har en sång](https://open.spotify.com/album/54APrhPiWgvMab1fFU8wiJ) | 1:12 | 2021-12-16 | 2022-05-10 |
@@ -307,6 +307,7 @@
 | [jag vill inte veta](https://open.spotify.com/track/0vdSIZl5VcLSHHaMKg4LR0) | [S:mon](https://open.spotify.com/artist/51y3C5frOfQpN0eMhxTAlt) | [jag vill inte veta](https://open.spotify.com/album/75HNTnorJCdME9UACaQt0z) | 2:41 | 2022-05-26 | 2022-09-26 |
 | [Jealous](https://open.spotify.com/track/2kxHarGEadxB7kVJXo8bwT) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Jealous](https://open.spotify.com/album/34mio8hxaosvK9PV8xt1Ko) | 2:43 | 2021-12-16 | 2022-03-11 |
 | [Josefin](https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII) | 3:41 | 2021-12-16 | 2022-03-11 |
+| [Julia](https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Julia](https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg) | 3:09 | 2023-03-16 |  |
 | [Jungle](https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Jungle](https://open.spotify.com/album/3weoFCQUyngxOP2Okdrfhc) | 2:40 | 2021-12-16 | 2022-03-11 |
 | [Just A Girl](https://open.spotify.com/track/4F2qj7XKsBZWgyyrchAPJO) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Just A Girl](https://open.spotify.com/album/7uW7dVCInNpUeXtLfk2JZz) | 3:43 | 2022-01-13 | 2022-09-16 |
 | [Karlavagnen](https://open.spotify.com/track/7rZ3Gqfwh5SuM5tvHK1eAq) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Karlavagnen](https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5) | 3:10 | 2022-04-28 |  |

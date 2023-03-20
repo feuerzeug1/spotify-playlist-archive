@@ -4,7 +4,7 @@
 
 > Alegra tu día con lo más pop para la mañana.
 
-269 songs - 14 hr 41 min
+270 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [BAILÉ CON MI EX](https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BAILÉ CON MI EX](https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI) | 2:41 | 2022-06-03 | 2023-02-25 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-04-15 |  |
 | [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2022-06-03 |  |
-| [Barranquilla Bajo Cero](https://open.spotify.com/track/02mhtclidb7Jpf1gwEasJh) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Barranquilla Bajo Cero](https://open.spotify.com/album/0TDGIoXeKDPhp1LpU4RMvf) | 4:06 | 2022-06-03 |  |
+| [Barranquilla Bajo Cero](https://open.spotify.com/track/02mhtclidb7Jpf1gwEasJh) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Barranquilla Bajo Cero](https://open.spotify.com/album/0TDGIoXeKDPhp1LpU4RMvf) | 4:06 | 2022-06-03 | 2023-03-20 |
 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 | 2022-12-01 | 2023-01-28 |
 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 | 2022-01-01 | 2022-06-04 |
 | [Bella \- Remix](https://open.spotify.com/track/0SaYeGhSXN0dDWstyNTQ56) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Bella \(Remix\)](https://open.spotify.com/album/1UsmrwFQhk483czxWluhS6) | 3:38 | 2022-04-15 | 2022-06-04 |
@@ -210,6 +210,7 @@
 | [Quédate](https://open.spotify.com/track/1rIsbHS2pHFa1mOxJ9xG6k) | [MAR](https://open.spotify.com/artist/07z2rbjbFEmLhSxD1ZD7wu) | [Quédate](https://open.spotify.com/album/6qLQskkfdMUEO93eC10Pnx) | 2:35 | 2022-12-24 | 2023-01-28 |
 | [Recuerdo](https://open.spotify.com/track/3DjInVTE03icrWsq2UZV9n) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Recuerdo](https://open.spotify.com/album/28RBKKab2bzmcaKzW8h3Ji) | 3:20 | 2022-01-01 | 2022-03-17 |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-04-15 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-02-24 |  |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-06 | 2023-03-18 |
 | [Ráptame](https://open.spotify.com/track/7KvrfnCkHb2qBDyVOqJ2bt) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:18 | 2022-01-01 | 2022-06-04 |
 | [Sabe](https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sabe](https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0) | 2:57 | 2022-04-15 | 2022-07-29 |

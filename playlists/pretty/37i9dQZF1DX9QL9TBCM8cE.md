@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,938 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,998 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 46 | [わたしの主人公はわたしだから!](https://open.spotify.com/track/5sTAYdUX0M7JIcjiDX7zuk) | [福丸小糸 \(CV.田嶌紗蘭\)](https://open.spotify.com/artist/0SFMjrJ2uPQknTC3m4f2oD) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Luna\- \(2022 Version\)](https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT) | 3:32 |
 | 47 | [Timeless Shooting Star](https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS L@YERED WING 06](https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp) | 3:32 |
 | 48 | [太陽キッス](https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 夢咲きAfter school](https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu) | 4:51 |
-| 49 | [Darling you!](https://open.spotify.com/track/0blUADIOntOI8r0qRpVyvy) | [桑山千雪 \(CV.芝崎典子\)](https://open.spotify.com/artist/6R8tCdnZadSp7NbPv2VQSd) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:10 |
-| 50 | [SOLAR WAY](https://open.spotify.com/track/1nmOTpQh47ZdD1HQ4ptptz) | [Team.Sol](https://open.spotify.com/artist/498Hx3TgxXrIwhfDzDh0QP) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:07 |
+| 49 | [SOLAR WAY](https://open.spotify.com/track/1nmOTpQh47ZdD1HQ4ptptz) | [Team.Sol](https://open.spotify.com/artist/498Hx3TgxXrIwhfDzDh0QP) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:07 |
+| 50 | [Darling you!](https://open.spotify.com/track/0blUADIOntOI8r0qRpVyvy) | [桑山千雪 \(CV.芝崎典子\)](https://open.spotify.com/artist/6R8tCdnZadSp7NbPv2VQSd) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:10 |
 
-Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMDYwNGFlMjIwZTIwYTExNTQ5NWMzMGVkODdlNTdhOTNj`
+Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMDlhMjVmMWE5ODUwYWI3ZWQ0NTZlY2Q2ZGI5OWE0MjAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: \_less\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,599 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,609 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 7 | [ลาทีราตรี \(GOOD NIGHT\)](https://open.spotify.com/track/3wDu41K0k699QCwJMokF6t) | [VYBES](https://open.spotify.com/artist/1QHlIhz1mXYD2KWRsdrnXI) | [ลาทีราตรี \(GOOD NIGHT\)](https://open.spotify.com/album/3xGgWF5AFngf6CzCtTbRxx) | 3:30 |
 | 8 | [รู้หรือยัง \(Got It?\)](https://open.spotify.com/track/5MI4U5ArjCSQZRMrq9u8ZZ) | [Pang Pattanan](https://open.spotify.com/artist/7FJwwIfLOAubzcHBReSN1b) | [รู้หรือยัง \(Got It?\)](https://open.spotify.com/album/6Rjb8uQZYnS6AK7ASBNsk8) | 3:35 |
 | 9 | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/track/1i4sHHgpXJICCcG8rmZVi2) | [Chilax](https://open.spotify.com/artist/347hkhpQtvkWFkspEmFQOE) | [ฉันนี่แหละ...คนอื่น](https://open.spotify.com/album/1JvcG0ZNdFlVFGyfIs704h) | 3:42 |
-| 10 | [ดาวน์ \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาวน์ \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 |
+| 10 | [ดาว \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาว \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 |
 | 11 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
 | 12 | [ไม่พอหรอก \(Nostalgia\)](https://open.spotify.com/track/4bQlOqQSBdiryJdl5luBSh) | [NSL](https://open.spotify.com/artist/1ivcHK8EtQIER7f6zAzujL) | [ไม่พอหรอก \(Nostalgia\)](https://open.spotify.com/album/2QDKKzlJwVKPyHQ5zTbTQN) | 3:57 |
 | 13 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 |

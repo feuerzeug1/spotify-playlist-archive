@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 61762,
+  "num_followers": 61776,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDU3ODI0NDUyNWMyYjNlMjVhMzYzNTc1YjJkMmVjMTQ1",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDJlNWMwYmUyNWJiMWU2YzJlMGFiNTMyMjViNThhMDA5",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
-        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
-      "url": "https://open.spotify.com/track/52V2BPdhlhFrUZF7AOrQP9"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Uns",
         "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 292306,
       "name": "Voce E Linda - Remixed Original Album",
       "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
+        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
+      "url": "https://open.spotify.com/track/52V2BPdhlhFrUZF7AOrQP9"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 105253,
-      "name": "Gostoso Demais - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Tim Maia 1971",
         "url": "https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A"
       },
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
+        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
       },
       "artists": [
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+      "duration_ms": 105253,
+      "name": "Gostoso Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Yellow Submarine Songtrack",
+        "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5zqJlEJcn0EfnvAScH8swK"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Abbey Road (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c"
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 185706,
-      "name": "Here Comes The Sun - 2019 Mix",
-      "url": "https://open.spotify.com/track/3CPFHaVEHkkH26hAEPgMMp"
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Chico Buarque de Hollanda Vol. 3",
-        "url": "https://open.spotify.com/album/3sxAzbLUDuydUwiyWj5kil"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Roda-Viva",
-      "url": "https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 97200,
       "name": "O Sol Nascer\u00e1 (A Sorrir)",
       "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Chico Buarque de Hollanda Vol. 3",
+        "url": "https://open.spotify.com/album/3sxAzbLUDuydUwiyWj5kil"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Roda-Viva",
+      "url": "https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-06-07 14:45:28",
       "album": {
-        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 223368,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6G9ZBD209DRFToSC8AEW1d"
-    },
-    {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
         "name": "Nossa Hist\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 222849,
       "name": "Quando Voc\u00ea Passa (Turu Turu) - Ao Vivo",
       "url": "https://open.spotify.com/track/59otIBHIQRlIQdo41EwQIi"
+    },
+    {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Deixa Vir Do Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 223368,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6G9ZBD209DRFToSC8AEW1d"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1573,6 +1573,22 @@
       "url": "https://open.spotify.com/track/2vhwNpHlTFGSwGffxVMIuM"
     },
     {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Nossa Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 88954,
+      "name": "Era Uma Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG"
+    },
+    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Bicho",
@@ -1587,26 +1603,6 @@
       "duration_ms": 436720,
       "name": "Odara - Remix",
       "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Elis Regina",
-        "url": "https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Tiro Ao \u00c1lvaro",
-      "url": "https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1641,20 +1637,24 @@
       "url": "https://open.spotify.com/track/374SHBJGZL3oaArhIi2GFi"
     },
     {
-      "added_at": "2022-06-07 14:45:28",
+      "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Nossa Hist\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
+        "name": "Elis Regina",
+        "url": "https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC"
       },
       "artists": [
         {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
         }
       ],
-      "duration_ms": 88954,
-      "name": "Era Uma Vez - Ao Vivo",
-      "url": "https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG"
+      "duration_ms": 162400,
+      "name": "Tiro Ao \u00c1lvaro",
+      "url": "https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2"
     }
   ],
   "unique_name": "Pais e Filhos",

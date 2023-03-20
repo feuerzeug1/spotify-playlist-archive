@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2319753,
+  "num_followers": 2319688,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDc5NGQ1MDQzZmU0MGM5NGUxM2YwYWNjZGQ0OTlkOGY1",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDc5Y2M5MjdhM2I5MGQ4MjI4OGFlNmYxYzNlNTQxNTMy",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Resilient",
+        "url": "https://open.spotify.com/album/1AwzLRB4cP8KISlr8ExOEt"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 250429,
+      "name": "Resilient",
+      "url": "https://open.spotify.com/track/2Nm0IGkliIwWjSBINf3KjG"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Resilient",
-        "url": "https://open.spotify.com/album/1AwzLRB4cP8KISlr8ExOEt"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 250429,
-      "name": "Resilient",
-      "url": "https://open.spotify.com/track/2Nm0IGkliIwWjSBINf3KjG"
     },
     {
       "added_at": "2023-02-10 05:00:00",

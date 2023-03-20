@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. chelji
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,897 likes - 82 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,959 likes - 82 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 49 | [I Don't Believe in Anything](https://open.spotify.com/track/5AUGTQppAxp03UpaEVZaiD) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Entropy](https://open.spotify.com/album/02k59B671W2g0wbwqFxPL8) | 3:14 |
 | 50 | [RELOAD! \(feat\. WHOKILLEDXIX\)](https://open.spotify.com/track/10uAw1klN0sgtH8WLoAjHY) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [RELOAD! \(feat\. WHOKILLEDXIX\)](https://open.spotify.com/album/6tXDJPnuatwzybjBGIrPZ2) | 2:59 |
 | 51 | [Weaponize This](https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Weaponize This](https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og) | 2:40 |
-| 52 | [God Is a Circle](https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/64m4Jlu0suYBFMpQeafoUa) | 3:32 |
+| 52 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 |
 | 53 | [welcome to my life](https://open.spotify.com/track/19WPwFCDUPdie3IJhv615s) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [welcome to my life](https://open.spotify.com/album/1KMdePaDf6qQcMiWVSQ62E) | 2:15 |
 | 54 | [brkdwn](https://open.spotify.com/track/17Ag5tNS39vOxvygMVlnJU) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 |
 | 55 | [Bull](https://open.spotify.com/track/1HdovCicIl6icinsOlrpqz) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [Bull](https://open.spotify.com/album/1Zf1hkjwXERIjI2585j7jl) | 3:11 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 81 | [Lips Apart](https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Lips Apart](https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan) | 3:26 |
 | 82 | [i don't reply](https://open.spotify.com/track/3CyCZZGuBCjir82ta1bkii) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [i don't reply](https://open.spotify.com/album/2j3CSAkyjU62aBogjlm277) | 2:48 |
 
-Snapshot ID: `MTY3OTAxMTIwMCwwMDAwMDAwMDdjZjFhM2ExNjI5MjBlZTNmZTcwYmZmYWY3ZjkzNmEx`
+Snapshot ID: `MTY3OTAxMTIwMCwwMDAwMDAwMDNjNGY1ZjdiNzRiNzdjY2ZhMzg3MmFlNTc5NzAxMzAy`

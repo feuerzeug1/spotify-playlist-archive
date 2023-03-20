@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1487963,
+  "num_followers": 1488059,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzYxNzk4MCwwMDAwMDAwMGI0YjdjZGU1NTNjMzNiZTBjZTQzYTJkN2IzZTg5ZTc3",
+  "snapshot_id": "MTY3NzYxNzk4MCwwMDAwMDAwMDc0NDAyYWJkMjA4ODE1NGE3MDQ1YzM0YzQ3MzhiYTcz",
   "tracks": [
     {
       "added_at": "2023-02-28 20:59:39",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "All Love Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/3nM3w8zepUEPTN8WbOccjz"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/7CfX9MI3qgRHch1OgWL6mz"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 147000,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/2TEZu0Rk7Rr6aEARBCMmhj"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "All Love Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 228120,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/3nM3w8zepUEPTN8WbOccjz"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Ancient Transition",
         "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 196240,
       "name": "Never Come Back Again",
       "url": "https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Time in the Sun",
-        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 201892,
-      "name": "Good Right Now",
-      "url": "https://open.spotify.com/track/7k6Ia6hsrweMKk1LiObkC9"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Twin Forks",
         "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 170962,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Time in the Sun",
+        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 201892,
+      "name": "Good Right Now",
+      "url": "https://open.spotify.com/track/7k6Ia6hsrweMKk1LiObkC9"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Lovers Carvings (WXAXRXP Session)",
+        "url": "https://open.spotify.com/album/7zDW4DTfobs2nuUv09XIWl"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "Lovers Carvings - WXAXRXP Session",
+      "url": "https://open.spotify.com/track/6FnqA5BcNf6EMnOIdP4H7W"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Lovers Carvings (WXAXRXP Session)",
-        "url": "https://open.spotify.com/album/7zDW4DTfobs2nuUv09XIWl"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "Lovers Carvings - WXAXRXP Session",
-      "url": "https://open.spotify.com/track/6FnqA5BcNf6EMnOIdP4H7W"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
-        "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
-      "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 229626,
       "name": "Heart Of My Own",
       "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
+        "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
+      "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Dancing For The Answers - EP",
-        "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 216753,
-      "name": "Punta Cometa - Dancing For The Answers Alt Version",
-      "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "The Weather Station",
         "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 220253,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Dancing For The Answers - EP",
+        "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 216753,
+      "name": "Punta Cometa - Dancing For The Answers Alt Version",
+      "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
     },
     {
       "added_at": "2022-10-14 04:00:00",

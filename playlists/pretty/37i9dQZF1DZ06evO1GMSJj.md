@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,092 likes - 35 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,117 likes - 35 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 2 | [Over The Horizon Radar](https://open.spotify.com/track/3EdKuUmSqITYGp1t3JhSC6) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:08 |
 | 3 | [Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:00 |
 | 4 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
-| 5 | [Wildlife Analysis](https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:15 |
+| 5 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 |
 | 6 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/0X2hccY9m1D9ICGZLkvpBP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:07 |
 | 7 | [Constants Are Changing](https://open.spotify.com/track/5ivVLMrixj6Qtw9HgX8EuD) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 1:42 |
 | 8 | [Melissa Juice](https://open.spotify.com/track/4KJE8soq80zLzaoDmDjqkb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf) | 1:32 |
-| 9 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 |
+| 9 | [Wildlife Analysis](https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:15 |
 | 10 | [Under The Coke Sign](https://open.spotify.com/track/67CP6JsS9XiK67JrhLg2ch) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c) | 1:31 |
 | 11 | [Peacock Tail](https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:24 |
 | 12 | [Sundown](https://open.spotify.com/track/2wJWTSdRT4wgKAyrWtwiqA) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:16 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 34 | [Hi Scores](https://open.spotify.com/track/4cK52WJ9gD5M3VrJoZvhaN) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 4:57 |
 | 35 | [Cold Earth](https://open.spotify.com/track/3D37FsVAqvQFAddR3JcJ3e) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:42 |
 
-Snapshot ID: `Mjc5ODQyNjYsMDAwMDAwMDA4ZjNjOTkxODg3NWQ0YzJiMGFiOWQ4MmJhMDljNmZiMw==`
+Snapshot ID: `Mjc5ODcxNjUsMDAwMDAwMDA4NTFkMjAxZGRhYTM0MDgzMjA0MTY1YmY2MzM2NzRjNQ==`

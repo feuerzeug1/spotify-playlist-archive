@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,681 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,790 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 41 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 |
 | 42 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 43 | [Jaded](https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Reality Testing](https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK) | 4:49 |
-| 44 | [All the Way Down](https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy) | 4:28 |
-| 45 | [So Many Details](https://open.spotify.com/track/1YpRBLuUWsdahTFhZr9pwK) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq) | 4:45 |
+| 44 | [So Many Details](https://open.spotify.com/track/1YpRBLuUWsdahTFhZr9pwK) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq) | 4:45 |
+| 45 | [All the Way Down](https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy) | 4:28 |
 | 46 | [Echo's Answer](https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI) | 3:11 |
 | 47 | [Silver Moon Over Sleeping Steeples](https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 2:21 |
 | 48 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 68 | [Before I Move Off](https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:10 |
 | 69 | [My Lights Kiss Your Thoughts Every Moment](https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Rushing](https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut) | 2:16 |
 | 70 | [Constant Reminder](https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc) | 1:30 |
-| 71 | [I Think Of You](https://open.spotify.com/track/36D5zut2til58ggxAbTFy7) | [Little annie](https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN) | [Short And Sweet](https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq) | 4:53 |
-| 72 | [Another Girl](https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [ANTH01](https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd) | 6:43 |
+| 71 | [Another Girl](https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [ANTH01](https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd) | 6:43 |
+| 72 | [I Think Of You](https://open.spotify.com/track/36D5zut2til58ggxAbTFy7) | [Little annie](https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN) | [Short And Sweet](https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq) | 4:53 |
 | 73 | [The Way You Talk](https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:50 |
 | 74 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
 | 75 | [Kilika](https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV) | 4:44 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 93 | [acceptance](https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [acceptance](https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs) | 5:11 |
 | 94 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
 | 95 | [The Feeling \(Of Warmth And Beauty\)](https://open.spotify.com/track/1RHS3g5lqOhVqrPbimpjYD) | [Richard H\. Kirk](https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr) | [Virtual State](https://open.spotify.com/album/7M5rzBraccybLpiYBSpty0) | 6:08 |
-| 96 | [Light Bodied](https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2) | 3:01 |
-| 97 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
+| 96 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
+| 97 | [Light Bodied](https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2) | 3:01 |
 | 98 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
 | 99 | [Core](https://open.spotify.com/track/0N1Wlo3BogRj4o1ObpGegv) | [LA Timpa](https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC) | [Equal Amounts Afraid](https://open.spotify.com/album/6NtQEro3xWLSkFwLuBOiIo) | 4:12 |
 | 100 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
 
-Snapshot ID: `MTY0Mzg1NjIwNiwwMDAwMDAwMDk0NmUyYTI2MTI2MWI3ZmE5MmJiMmZkOTlhZTg2YTli`
+Snapshot ID: `MTY0Mzg1NjIwNiwwMDAwMDAwMDdmOTBlYTMwMjA4NGI2NjE2ZDAwNmY2ODY1ZTJhMGM3`
