@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,985 likes - 72 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,661 likes - 72 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 12 | [Kalaavathi \(From "Sarkaru Vaari Paata"\)](https://open.spotify.com/track/0RjQR5QfKREKE9wQki8spV) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Kalaavathi \(From "Sarkaru Vaari Paata"\) \- Single](https://open.spotify.com/album/0PuturA4rrgnBAf4mP9dfE) | 4:02 |
 | 13 | [Boss Party](https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Boss Party \(From "Waltair Veerayya"\)](https://open.spotify.com/album/0JB0Brs2tTPzy9Su8TKLGl) | 3:20 |
 | 14 | [Chitti](https://open.spotify.com/track/6PQpG2HlVxuR6GwwWQX7XM) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Jathi Ratnalu](https://open.spotify.com/album/2EVWg8KlmiHE5tcjHxRzwA) | 3:04 |
-| 15 | [Anaganaganaga](https://open.spotify.com/track/47BZ5zznG2jzc2hjsEbvxH) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 4:47 |
+| 15 | [](https://open.spotify.com/track/47BZ5zznG2jzc2hjsEbvxH) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 0:00 |
 | 16 | [Dosti](https://open.spotify.com/track/04gj1dTfKOsir4SB70LLgS) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [RRR](https://open.spotify.com/album/3kBrgReuEedduqXf27qgn9) | 5:40 |
 | 17 | [Asha Pasham](https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Care Of Kancharapalem](https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p) | 4:20 |
 | 18 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 62 | [Kadalalle](https://open.spotify.com/track/76qPrPwuu0gLX4P7e5TyTL) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aishwarya Ravichandran](https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8) | [Dear Comrade](https://open.spotify.com/album/2Dm5RqMxec1kI17G2awogs) | 4:20 |
 | 63 | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/album/5qriE8k5TQuWLXKKnyxjDF) | 2:46 |
 | 64 | [He’S Soo Cute](https://open.spotify.com/track/4Ijq9U4ZvXuLord5plNeKR) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Sarileru Neekevvaru](https://open.spotify.com/album/6vi0HnekV5nuzXB96NOAEL) | 3:29 |
-| 65 | [Adhento Gaani Vunnapaatuga](https://open.spotify.com/track/6rji5mwjuHRuhozNhn8DG8) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey](https://open.spotify.com/album/2FJmYZos4BIzkjvhmAy1hU) | 3:57 |
-| 66 | [Dimaak Kharaab](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Saketh](https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:40 |
+| 65 | [](https://open.spotify.com/track/6rji5mwjuHRuhozNhn8DG8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2FJmYZos4BIzkjvhmAy1hU) | 0:00 |
+| 66 | [](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 0:00 |
 | 67 | [Emai Poyave](https://open.spotify.com/track/14M1StehpwsydSGGy8z9eq) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Padi Padi Leche Manasu](https://open.spotify.com/album/5yaWNdlJB8FoxwbngILePz) | 2:34 |
 | 68 | [Nee Neeli Kannullona](https://open.spotify.com/track/0LQzVOmKeMhC3ccO0wUlSP) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Dear Comrade](https://open.spotify.com/album/2Dm5RqMxec1kI17G2awogs) | 2:26 |
 | 69 | [Guruvaram](https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Kirrak Party](https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p) | 3:36 |

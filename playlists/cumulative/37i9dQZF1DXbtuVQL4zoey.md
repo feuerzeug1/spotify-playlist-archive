@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-478 songs - 18 hr 31 min
+480 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Caribs](https://open.spotify.com/track/77IvFp174yhWdvqwBYkphA) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Caribs](https://open.spotify.com/album/26hrmwEdbhGyQSKcJ6nu1w) | 2:07 | 2022-05-20 |  |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2022-05-20 |  |
 | [Celebrate You](https://open.spotify.com/track/5ZmTz0zMu1ENE9ksmNKuBi) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Celebrate You](https://open.spotify.com/album/6mur5z1CltJszyCwJFjLJx) | 2:22 | 2022-05-20 | 2022-09-17 |
+| [Cerebral Hemispheres](https://open.spotify.com/track/3JWHNLTvYVDDFkkVkeK5gP) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Gatekeepers Between The Spinal](https://open.spotify.com/album/27mjVyKedx9zOtRNwqTiTZ) | 2:00 | 2023-03-20 |  |
 | [chaos theory](https://open.spotify.com/track/1HHa95joz1Cfaezdf3OEd8) | [small query](https://open.spotify.com/artist/0jaXYZW9sn69ibU2X1fdrR) | [chaos theory](https://open.spotify.com/album/0QzbY5bvO4vfOz79HMSkl5) | 1:45 | 2022-05-20 | 2022-06-03 |
 | [Chi\-town](https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [Chi\-town](https://open.spotify.com/album/4UswIixSDaHuBY5YdrBQi7) | 2:41 | 2022-05-20 | 2022-09-03 |
 | [Chili is hot](https://open.spotify.com/track/7JnFdD5M4sKv4j26plgBPy) | [Lofidelity Habanero](https://open.spotify.com/artist/5N7C6JFjoEsCGskSYYGbq1) | [Chili is hot](https://open.spotify.com/album/1UisVUTos5X3wOpcDZUo1F) | 1:55 | 2022-05-20 |  |
@@ -167,6 +168,7 @@
 | [G&T!](https://open.spotify.com/track/6tgghxEXGuAeQWn3NYIsKT) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [G&T!](https://open.spotify.com/album/0E9J985TjgZozA7pUrwcCF) | 2:44 | 2022-05-20 | 2022-08-19 |
 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 | 2022-05-20 |  |
 | [Geo](https://open.spotify.com/track/5TJsB662tbbbhACuLX5cji) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Dimma](https://open.spotify.com/album/0SN2uundRtIpY6YL8fvVib) | 2:04 | 2022-05-20 | 2022-05-27 |
+| [Georgia Brown](https://open.spotify.com/track/2YGfsqQHA203w8SlE6jUOR) | [your best friend jippy](https://open.spotify.com/artist/2nyEmQWHkN4klNBWnNllLZ) | [BEAT TAPE 38](https://open.spotify.com/album/4Q3e1AkU0S4M3zv0pxvCWU) | 1:50 | 2023-03-20 |  |
 | [gin mood](https://open.spotify.com/track/5YAr1nEOeBQLsrqntj7Nyz) | [yori yoi hi](https://open.spotify.com/artist/0l5qxcD2fZRiXhbtJOkI5r) | [gin mood](https://open.spotify.com/album/6Taeo2fE2zaGNtHg7jTYVs) | 2:40 | 2022-05-20 |  |
 | [Give It Up](https://open.spotify.com/track/1SdXQbh3ypPM0uaXsm2eWS) | [Lo Fi Jack](https://open.spotify.com/artist/0kPdLQ90PR3ewNTTRSfOch) | [New Amsterdam](https://open.spotify.com/album/7iFtq9WQ4cAeBtsCydebMJ) | 2:26 | 2022-05-20 | 2022-06-03 |
 | [gm baby](https://open.spotify.com/track/1HwtLXqKnJvKYrVRcXbdsl) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [gm baby](https://open.spotify.com/album/3mYP9U7ew0gMDuehApbTDK) | 2:03 | 2022-07-12 |  |

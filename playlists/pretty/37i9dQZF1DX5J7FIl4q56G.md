@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,854 likes - 61 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,057 likes - 61 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

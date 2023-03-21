@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5798\)
+## Playlists \(5800\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2002,7 +2002,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Hard Rock Workout](/playlists/pretty/6kXNv8J3HCYztxjOIUzApv.md)
 - [Hardcore Rage](/playlists/pretty/37i9dQZF1DX3ND264N08pv.md)
 - [Hardly Strictly Bluegrass](/playlists/pretty/37i9dQZF1DWW3PJidfC26k.md)
-- [Hardstyle Adrenaline!](/playlists/pretty/37i9dQZF1DX7NhGf24haor.md)
+- [Hardstyle Adrenaline! 2023](/playlists/pretty/37i9dQZF1DX7NhGf24haor.md)
 - [Hardstyle Bangers](/playlists/pretty/37i9dQZF1DX0pH2SQMRXnC.md)
 - [Hardstyle Gym](/playlists/pretty/37i9dQZF1DX6scD2GXri65.md)
 - [Hardstyle Remixes](/playlists/pretty/37i9dQZF1DWWz3YvZd9NIz.md)
@@ -2721,6 +2721,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Martin Garrix DJ Mix: Sentio](/playlists/pretty/37i9dQZF1DWYIvtWSbA6Aj.md)
 - [Martin Garrix Radio](/playlists/pretty/1boYpG5G2QkmQ7FRi2dRc1.md)
 - [Martin Ikin DJ Mix: Feel The Vibe](/playlists/pretty/37i9dQZF1DWTvdcM9QUiSL.md)
+- [Massive Dance Classics](/playlists/pretty/37i9dQZF1DWYtg7TV07mgz.md)
 - [Massive Dance Hits](/playlists/pretty/37i9dQZF1DX5uokaTN4FTR.md)
 - [Massive Drum & Bass](/playlists/pretty/37i9dQZF1DX5wDmLW735Yd.md)
 - [Massive Pop Remixes](/playlists/pretty/37i9dQZF1DWVxqA801UP5W.md)
@@ -5850,6 +5851,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [봄같은 설레임](/playlists/pretty/37i9dQZF1DX5r2dSnnMHnG.md)
 - [빗 속으로 뛰어들어](/playlists/pretty/37i9dQZF1DXaw0Z91oVe88.md)
 - [사랑의 이해\(The Interest of Love\)](/playlists/pretty/37i9dQZF1DXdXSGMsmBNKJ.md)
+- [사랑이라 말해요\(Call It Love\)](/playlists/pretty/37i9dQZF1DWYJer66eoqCP.md)
 - [사랑하는 너에게.](/playlists/pretty/37i9dQZF1DXaHbNgKAMWAM.md)
 - [세기말 발라드](/playlists/pretty/37i9dQZF1DX4bUiDosd2wg.md)
 - [섹시 & 로맨틱](/playlists/pretty/37i9dQZF1DWTKHCqejn1Vg.md)

@@ -776,10 +776,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 126825,
       "name": "Mental Health",
       "url": "https://open.spotify.com/track/4jKMeSLQnZTafXY7iW0jn6"
+    },
+    {
+      "album": {
+        "name": "Mental Health",
+        "url": "https://open.spotify.com/album/3NurIxJFHWZCyYicllTMM5"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Scorpio",
+          "url": "https://open.spotify.com/artist/4MmceHDNzXjWNr42IFpuJc"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126825,
+      "name": "Mental Health",
+      "url": "https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7"
     },
     {
       "album": {

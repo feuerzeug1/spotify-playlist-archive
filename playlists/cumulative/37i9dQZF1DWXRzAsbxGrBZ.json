@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Middle Of The Garden",
+        "url": "https://open.spotify.com/album/7jxleiGFdZqd7ZFCKriMld"
+      },
+      "artists": [
+        {
+          "name": "SONIDO",
+          "url": "https://open.spotify.com/artist/5yUWxOhPOP18jZ2TwQxEtw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370185,
+      "name": "Middle Of The Garden",
+      "url": "https://open.spotify.com/track/6Fy6qP6B5CSvXo4auTbLCQ"
+    },
+    {
+      "album": {
         "name": "We Groove Different",
         "url": "https://open.spotify.com/album/1bx9h91xZGDa2mfh60RbZ3"
       },
@@ -964,7 +982,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 431693,
       "name": "Myself & The Dark",
       "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"

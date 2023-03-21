@@ -2,7 +2,7 @@
 
 ### [Happy Beats](https://open.spotify.com/playlist/37i9dQZF1DWSf2RDTDayIx)
 
-> Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
+> Feel\-good dance music! Adopting a dog will make you feel even better\. Go to <a href="http://www.adoptapet.com">adoptapet.com</a> to find a rescue dog near you \(US only\).
 
 335 songs - 17 hr 57 min
 

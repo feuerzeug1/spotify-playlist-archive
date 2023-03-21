@@ -2,7 +2,7 @@
 
 ### [Feelin' Good](https://open.spotify.com/playlist/37i9dQZF1DX9XIFQuFvzM4)
 
-> Feel good with this positively timeless playlist!
+> Music makes you feel good\. Adopting a dog will make you feel even better\. Go to <a href="https://www.adoptapet.com/">Adoptapet.com</a> to find a rescue dog near you \(US only\).
 
 242 songs - 13 hr 26 min
 

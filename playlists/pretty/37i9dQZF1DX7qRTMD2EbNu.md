@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/0oXCDYFtjdq5ruPQuz7NbP?si=9MXSaWNMQa2\-JdzA9US7RQ"> KWW</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,160 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,182 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 20 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 |
 | 21 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 |
 | 22 | [Fall](https://open.spotify.com/track/7l9vMTJJpeRwCJh5dSSAkW) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Fall](https://open.spotify.com/album/5C26tljU3oYAkLBqh6mNMi) | 2:39 |
-| 23 | [Don’t Forget To Pray \(DFTP\)](https://open.spotify.com/track/6bKxhA2LNaJObc3y0GgPYq) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Don’t Forget To Pray \(DFTP\)](https://open.spotify.com/album/206Ew5m9niQSRGnVDXGpc3) | 2:30 |
+| 23 | [Don’t Forget To Pray \(DFTP\)](https://open.spotify.com/track/6bKxhA2LNaJObc3y0GgPYq) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Don’t Forget To Pray \(DFTP\)](https://open.spotify.com/album/206Ew5m9niQSRGnVDXGpc3) | 2:29 |
 | 24 | [45](https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:52 |
 | 25 | [Masherita \(feat\. Skyface SDW, CHICOGOD & City Boy\)](https://open.spotify.com/track/1SR6dJwu1Feh0RlAqS0HvK) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Masherita \(feat\. Skyface SDW, CHICOGOD & City Boy\)](https://open.spotify.com/album/2cng5y9rfb7QCbcjakftV5) | 3:08 |
 | 26 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |

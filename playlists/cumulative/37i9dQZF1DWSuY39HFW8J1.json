@@ -24,7 +24,7 @@
     {
       "album": {
         "name": "b song (Mixed)",
-        "url": "https://open.spotify.com/album/0jjAejaDKMOKcp4yZk0241"
+        "url": "https://open.spotify.com/album/5zA9IFk3GhKR5rBrlZ72Yt"
       },
       "artists": [
         {
@@ -35,6 +35,24 @@
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186000,
+      "name": "b song - Mixed",
+      "url": "https://open.spotify.com/track/1TELTkWdVb2hx5PrFgIqnp"
+    },
+    {
+      "album": {
+        "name": "b song (Mixed)",
+        "url": "https://open.spotify.com/album/0jjAejaDKMOKcp4yZk0241"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
       "duration_ms": 186000,
       "name": "b song - Mixed",
       "url": "https://open.spotify.com/track/3sNiWcMGe5QTWRua0x2oHk"
@@ -103,6 +121,24 @@
     },
     {
       "album": {
+        "name": "footpaths",
+        "url": "https://open.spotify.com/album/6kTBakIxDSCSoreweShcEQ"
+      },
+      "artists": [
+        {
+          "name": "Former Hero",
+          "url": "https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "Foxgloves",
+      "url": "https://open.spotify.com/track/3t12j4zQ7LlLUlz8hvmWeX"
+    },
+    {
+      "album": {
         "name": "Foxgloves (Mixed)",
         "url": "https://open.spotify.com/album/4dOZwIqDgn5UWRdt56yHQA"
       },
@@ -114,7 +150,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 213000,
       "name": "Foxgloves - Mixed",
       "url": "https://open.spotify.com/track/6mVOb8BgYl4VLlGKBpsO0n"
@@ -206,7 +242,7 @@
     {
       "album": {
         "name": "nintendo 64 (Mixed)",
-        "url": "https://open.spotify.com/album/6cUG0WbUmc0JUqAAHJlIbV"
+        "url": "https://open.spotify.com/album/7FdyIp5vCaZHeqtsTAhijF"
       },
       "artists": [
         {
@@ -217,6 +253,24 @@
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 141000,
+      "name": "nintendo 64 - Mixed",
+      "url": "https://open.spotify.com/track/2NBrdqPSma5Qo7kG04OJeY"
+    },
+    {
+      "album": {
+        "name": "nintendo 64 (Mixed)",
+        "url": "https://open.spotify.com/album/6cUG0WbUmc0JUqAAHJlIbV"
+      },
+      "artists": [
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
       "duration_ms": 141000,
       "name": "nintendo 64 - Mixed",
       "url": "https://open.spotify.com/track/4gwWl6921QcafoTwTRCKLp"
@@ -277,6 +331,28 @@
     },
     {
       "album": {
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/0XsNinFykaFOKlHiUHXdrT"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138955,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/0HibkV2W1CAAMH5obrXj96"
+    },
+    {
+      "album": {
         "name": "SLEEP (Mixed)",
         "url": "https://open.spotify.com/album/6XtpfObqODpVDF3fgNqqPj"
       },
@@ -292,7 +368,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 139000,
       "name": "SLEEP - Mixed",
       "url": "https://open.spotify.com/track/7hYtfei9t1CFxeJkb39H4O"

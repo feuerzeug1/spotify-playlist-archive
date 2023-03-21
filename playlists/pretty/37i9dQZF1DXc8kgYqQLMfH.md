@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,688 likes - 513 songs - 19 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,743 likes - 513 songs - 19 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 86 | [Rosso](https://open.spotify.com/track/3pscNS95UxbGBl9JY0SsFP) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Rosso](https://open.spotify.com/album/0VBXpCv2RP6ekq7rtGpX7w) | 2:01 |
 | 87 | [Meanwhile](https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [Meanwhile](https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf) | 2:22 |
 | 88 | [Days before](https://open.spotify.com/track/0Yr84Z0J8XdIFgef0Gm4wC) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Days Before](https://open.spotify.com/album/0gSYHXWZ0niLxoUr7A63nq) | 2:47 |
-| 89 | [lo: expectations](https://open.spotify.com/track/5d7ciFNQxpSxePqrzlICTM) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g) | [lo: expectations](https://open.spotify.com/album/45WF3XO90C2lbvIfp78ypD) | 2:16 |
+| 89 | [lo: expectations](https://open.spotify.com/track/5d7ciFNQxpSxePqrzlICTM) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [lo: expectations](https://open.spotify.com/album/45WF3XO90C2lbvIfp78ypD) | 2:16 |
 | 90 | [Fields](https://open.spotify.com/track/27jH99Hj03THQbpOU5XnWF) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fields](https://open.spotify.com/album/28kyJFTa7twzNPVk68j1VT) | 2:05 |
 | 91 | [Yellow Mornings](https://open.spotify.com/track/2RUqbOHOiHEytATL8ia66F) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow) | [The View From The Tree House](https://open.spotify.com/album/59QF8BGS1UOX1l0NsluIYe) | 2:01 |
 | 92 | [A better day](https://open.spotify.com/track/5zS0cbkkN08L77RKpixCUj) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [A better day](https://open.spotify.com/album/2i9O9cYba4X8O43EOZFUIA) | 2:26 |

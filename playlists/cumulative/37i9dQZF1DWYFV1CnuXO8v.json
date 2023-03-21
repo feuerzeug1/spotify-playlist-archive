@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u062c\u0645\u0644 \u0623\u063a\u0627\u0646\u064a \u0646\u0627\u0646\u0633\u064a \u0639\u062c\u0631\u0645",
+        "url": "https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304413,
+      "name": "Inta Eyh",
+      "url": "https://open.spotify.com/track/7LpGX7ajb4o8OPQ1XdeeFZ"
+    },
+    {
+      "album": {
         "name": "Je Suis Malade",
         "url": "https://open.spotify.com/album/5yNMWMPlTFk8DX6TmgWhAD"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 196821,
       "name": "Mehtag Sana",
       "url": "https://open.spotify.com/track/53ZoGrHQevj1hq58PUS0tF"

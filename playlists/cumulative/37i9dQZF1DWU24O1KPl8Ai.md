@@ -4,17 +4,17 @@
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-62 songs - 2 hr 52 min
+62 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/3GK9bFPNVtFrjIhZDNyfZp) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3Bq5ez5mocOfymcQM1WVGV) | 0:00 | 2021-05-06 |  |
 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 | 2021-05-06 |  |
 | [Akatombo](https://open.spotify.com/track/5adXOZrM20D1AENYn3LKCy) | [Elena Moon Park](https://open.spotify.com/artist/4Okanr8CZ6f2oGudDIyv77) | [Rabbit Days and Dumplings](https://open.spotify.com/album/4YhjCfn1LfDFEzlu6JFxjy) | 3:24 | 2021-05-06 |  |
 | [Ako'Y Munting Tinig](https://open.spotify.com/track/6eWnt9e1advhO7PG64OguS) | [Bulilit Singers](https://open.spotify.com/artist/5rirrL1b5875YURFFqpk5w) | [Mga Awiting Pambata Collection, Vol\. 2 \(Tagalog Nursery Rhymes\)](https://open.spotify.com/album/45ftFJaE6qySqRvqMYHRmJ) | 4:00 | 2022-05-05 |  |
 | [Ako'Y Munting Tinig](https://open.spotify.com/track/5bIqPbw2XueeciJ7VTTDMJ) | [Bulilit Singers](https://open.spotify.com/artist/5rirrL1b5875YURFFqpk5w) | [Mga Awiting Pambata Collection, Vol\. 2 \(Tagalog Nursery Rhymes\)](https://open.spotify.com/album/0M8VxdwUXkU4sXezn69kH6) | 4:00 | 2021-05-06 | 2022-07-29 |
 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 | 2022-05-05 |  |
 | [Burung Kakak Tua](https://open.spotify.com/track/4y9k9bVppxdh4CGeFUedKA) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Legasi](https://open.spotify.com/album/2uw4S9AGL9WevXTwdGlNgj) | 4:04 | 2021-05-06 |  |
-| [Chaoro \(Lori\)](https://open.spotify.com/track/3GK9bFPNVtFrjIhZDNyfZp) | [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF) | [Mary Kom](https://open.spotify.com/album/3Bq5ez5mocOfymcQM1WVGV) | 2:33 | 2021-05-06 |  |
 | [Chào bạn mới](https://open.spotify.com/track/1NEXmJEeJVsjoZzrXRwxly) | [Ngọc Giàu](https://open.spotify.com/artist/3G5To1AOkPARtsN9fmlSWc) | [100 Bài Hát Thiếu Nhi Hay Nhất](https://open.spotify.com/album/50ldHY2iTLgjfoBXX6jgX6) | 2:49 | 2021-05-06 | 2022-07-29 |
 | [Claudia Kishi](https://open.spotify.com/track/5gpNwS8UaDW3lSfx1LayPs) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Claudia Kishi](https://open.spotify.com/album/0KOMK7EDDr4nEnr15BvAUF) | 1:40 | 2021-05-21 |  |
 | [Crayons Are Wonderful](https://open.spotify.com/track/23BlJRUssJuIYtkc8svTru) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [A Colorful World](https://open.spotify.com/album/3rjX6PHBw0KW8aqhxxQXfc) | 2:37 | 2022-05-05 | 2022-07-28 |

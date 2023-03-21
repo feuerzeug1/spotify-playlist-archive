@@ -982,7 +982,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 191353,
       "name": "Everyone I've Never Met",
       "url": "https://open.spotify.com/track/01cuVZlQ0fjxgxy7MwHRru"
@@ -2162,6 +2162,24 @@
       "duration_ms": 182805,
       "name": "It'll Work Itself Out",
       "url": "https://open.spotify.com/track/2u6SXgdzFNTQLc4LcSi3Vd"
+    },
+    {
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134641,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/0hREmEVmD1culIVeShGzwo"
     },
     {
       "album": {

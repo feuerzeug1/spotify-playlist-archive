@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
+> Down\-tempo and easy listening music\. Cover: Budjerah
 
 665 songs - 1 day 11 hr 51 min
 

@@ -608,7 +608,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 243473,
       "name": "Cicatrice",
       "url": "https://open.spotify.com/track/4ijVcIJQmQJsMM79kQ6axU"
@@ -2664,6 +2664,28 @@
       "duration_ms": 299570,
       "name": "Zydi",
       "url": "https://open.spotify.com/track/1r2iFBeekSLVyHetVvfTpy"
+    },
+    {
+      "album": {
+        "name": "\u0633\u062f\u0648 \u0639\u0644\u064a\u0627 \u0627\u0644\u0628\u0627\u0628",
+        "url": "https://open.spotify.com/album/5kvYzjQ1CFUppMgRisQ1bm"
+      },
+      "artists": [
+        {
+          "name": "Artmasta",
+          "url": "https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui"
+        },
+        {
+          "name": "Mohamed Al Saqri",
+          "url": "https://open.spotify.com/artist/3N4YESjs80Q7QyZqI1sTvT"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "\u0633\u062f\u0648 \u0639\u0644\u064a\u0627 \u0627\u0644\u0628\u0627\u0628",
+      "url": "https://open.spotify.com/track/1ySaBFF1Tyv5K25IzgBh3K"
     },
     {
       "album": {

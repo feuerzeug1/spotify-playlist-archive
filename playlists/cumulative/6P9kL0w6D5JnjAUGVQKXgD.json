@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 165580,
       "name": "Against The Rest",
       "url": "https://open.spotify.com/track/6IPkf3kASYGkgeHuvxRMXO"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 201330,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
@@ -3186,7 +3186,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 230571,
       "name": "Blame Myself",
       "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 198759,
       "name": "But Not Tonight (Gigi Dag & Luca Noise Dance Mix)",
       "url": "https://open.spotify.com/track/1PBZ77D3S8Ist2Fvifucy4"
@@ -4018,7 +4018,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 157949,
       "name": "By My Side (feat. Anthony Valadez)",
       "url": "https://open.spotify.com/track/6eSWdCAvzD4danVK3OlqYU"
@@ -5178,7 +5178,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 209761,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2kOH6869hEfccaUuR4jFMu"
@@ -7779,6 +7779,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9sol\u00e9e (Paris/Paname)",
+        "url": "https://open.spotify.com/album/380jows5YkchH1mDjAHdk4"
+      },
+      "artists": [
+        {
+          "name": "SHANGUY",
+          "url": "https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207821,
+      "name": "D\u00e9sol\u00e9e (Paris/Paname)",
+      "url": "https://open.spotify.com/track/00KCwnrvIXX8GRU3ZMOIBW"
+    },
+    {
+      "album": {
         "name": "Easier (feat. LOWES) [Radio Edit]",
         "url": "https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui"
       },
@@ -9234,7 +9252,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 235562,
       "name": "Finally Ready (feat. Billy Porter) - David Penn Remix",
       "url": "https://open.spotify.com/track/1iorKFVLmIetGK49hoOoK3"
@@ -9256,7 +9274,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 175164,
       "name": "Find Your Way - Alle Farben Radio Edit",
       "url": "https://open.spotify.com/track/0nUnsdDbN127jU3P5KtAeA"
@@ -11006,7 +11024,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 209907,
       "name": "Hands",
       "url": "https://open.spotify.com/track/5enElsJ9GpqasefsrSukbu"
@@ -11364,6 +11382,24 @@
       "duration_ms": 209600,
       "name": "HEART ATTACK (feat. lau.ra)",
       "url": "https://open.spotify.com/track/4esIFtCJ2RUFbJpDGluVG4"
+    },
+    {
+      "album": {
+        "name": "Heart to Heart",
+        "url": "https://open.spotify.com/album/5acVtnMTUYhOFCUxIrnrh6"
+      },
+      "artists": [
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/0SHGWofum5pzPIRCwdgCCM"
     },
     {
       "album": {
@@ -14524,7 +14560,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 296226,
       "name": "Jalisco",
       "url": "https://open.spotify.com/track/0xaAxijxtuzHb67Ai1kouN"
@@ -18810,7 +18846,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 175500,
       "name": "Never Been Better",
       "url": "https://open.spotify.com/track/0EVbZWxLOZT1siPMzEGNwc"
@@ -19314,7 +19350,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 173339,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/13J1DIbQaGs1Qb91rF8BEH"
@@ -20100,7 +20136,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 204026,
       "name": "Old Town Road - Diplo Remix",
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
@@ -20424,7 +20460,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 240383,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
@@ -21678,7 +21714,7 @@
       ],
       "date_added": "2021-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 226266,
       "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
       "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
@@ -22774,7 +22810,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Roll 'n Rock",
       "url": "https://open.spotify.com/track/7p2a3eDdVHD7xlwSFstAsF"
@@ -22796,7 +22832,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 170740,
       "name": "Rollerblade",
       "url": "https://open.spotify.com/track/1hz0SWhLPWKqpGiEBnWFpm"
@@ -24094,7 +24130,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 343478,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/1vEZowSqrFbit7x1Gx092r"
@@ -24120,7 +24156,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 184911,
       "name": "She Will Be Loved",
       "url": "https://open.spotify.com/track/6OEtf9kBSRNOVYAaFWl3Eg"
@@ -24204,7 +24240,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 193893,
       "name": "Sick Boy",
       "url": "https://open.spotify.com/track/7jqDzXJS0K0Re8uphYNit0"
@@ -24696,7 +24732,7 @@
       ],
       "date_added": "2020-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 213007,
       "name": "So What",
       "url": "https://open.spotify.com/track/0H6hQg7DnEIqnfzPsgNVPi"
@@ -25990,7 +26026,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2020-12-17",
+      "date_removed": null,
       "duration_ms": 154395,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/24x3hnr7GvtMo3KXOszHmY"
@@ -26720,7 +26756,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
@@ -28115,6 +28151,32 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2C9UzNTbk0tcS9s4yKsYjk"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Felix Snow",
+          "url": "https://open.spotify.com/artist/1qskAseW7apRxJBpYAO9Yk"
+        },
+        {
+          "name": "Madi",
+          "url": "https://open.spotify.com/artist/3F5IdSNMyCu0cVNmAyCaK7"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Touch - Extended Mix",
+      "url": "https://open.spotify.com/track/0ZSFTz55YaK4RoVXtLKTgY"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/7IuJUPFewXr0a2LXLH4Ohn"
       },
@@ -29050,7 +29112,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 145840,
       "name": "Used To Know Me",
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
@@ -29222,7 +29284,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 179516,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/7pPImgMQnOFgO9lnl0NUBz"
@@ -30070,7 +30132,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
@@ -31536,7 +31598,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 304333,
       "name": "You Know You Like It - Tchami Remix",
       "url": "https://open.spotify.com/track/6aQNsGH7p7VCFJ4zgO0MeY"

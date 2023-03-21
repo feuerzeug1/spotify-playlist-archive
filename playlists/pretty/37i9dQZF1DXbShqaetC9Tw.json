@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 83561,
+  "num_followers": 83636,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU3OTQyNCwwMDAwMDAwMDdkZGFhYmQyMWFmNDRmMzJmNTZlZGE1YzU5MGU2ZTIy",
+  "snapshot_id": "MTY3NzU3OTQyNCwwMDAwMDAwMDI2NzBhNGRkOGRmNDg4MzY0ZjRhNzgyYmI0ZjAzNWEy",
   "tracks": [
     {
       "added_at": "2023-02-28 10:17:04",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
+        "name": "bath",
+        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 261705,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
         "name": "Take You Down",
         "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
       },
@@ -239,18 +255,18 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 261705,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
+      "duration_ms": 139800,
+      "name": "Empty Cup",
+      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -303,22 +319,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Empty Cup",
-      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "starry night \u201817",
         "url": "https://open.spotify.com/album/2RPyn31wYLC9lWn4p0OVEI"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 232544,
       "name": "study abroad (Feat. Han-All)",
       "url": "https://open.spotify.com/track/6O4S5bDDOrhnHcVkwyAx1L"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 119401,
+      "name": "but I'll wait for you",
+      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -359,18 +375,18 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+        "name": "you won't be there for me",
+        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
         }
       ],
-      "duration_ms": 119401,
-      "name": "but I'll wait for you",
-      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
+      "duration_ms": 182645,
+      "name": "you won't be there for me",
+      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -391,22 +407,6 @@
       "duration_ms": 202840,
       "name": "That's Why I Can't Talk About Love (Feat. Woo)",
       "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "A Song Nobody Knows",
-      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -447,6 +447,22 @@
       "duration_ms": 204000,
       "name": "wandering (feat. george)",
       "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "A Song Nobody Knows",
+      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -499,26 +515,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "One Snowy Day",
-        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "One Snowy Day (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
       },
@@ -551,34 +547,38 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "you won't be there for me",
-        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
       "artists": [
         {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 182645,
-      "name": "you won't be there for me",
-      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
+      "duration_ms": 370659,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc"
     },
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE"
+        "name": "One Snowy Day",
+        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Please Love Me",
-      "url": "https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n"
+      "duration_ms": 240800,
+      "name": "One Snowy Day (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
         "name": "SINK",
         "url": "https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+        "name": "Far From the Madding City",
+        "url": "https://open.spotify.com/album/43toiDnPej9XfkfNB821JD"
       },
       "artists": [
         {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
         }
       ],
-      "duration_ms": 370659,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc"
+      "duration_ms": 211997,
+      "name": "PIZZA",
+      "url": "https://open.spotify.com/track/3xzl4MYc0YLQHJbaD6LxT6"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -663,22 +679,6 @@
       "duration_ms": 227320,
       "name": "Free (I'm Gonna Be)",
       "url": "https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
-        "name": "Far From the Madding City",
-        "url": "https://open.spotify.com/album/43toiDnPej9XfkfNB821JD"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 211997,
-      "name": "PIZZA",
-      "url": "https://open.spotify.com/track/3xzl4MYc0YLQHJbaD6LxT6"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Blue Candle",
-      "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "Yearbook 2022",
         "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Blue Candle",
+      "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

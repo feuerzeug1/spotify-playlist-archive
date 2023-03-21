@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "\u65b7\u6368\u96e2",
+        "url": "https://open.spotify.com/album/4b2XXczwNuQYYxv9VRT0EB"
+      },
+      "artists": [
+        {
+          "name": "The Freshman",
+          "url": "https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "\u65b7\u6368\u96e2",
+      "url": "https://open.spotify.com/track/0wiUOfOE3RTOhRCU5Xcqnb"
+    },
+    {
+      "album": {
         "name": "\u65e5\u5e38\u3001\u9060\u65b9\u53ca\u5176\u4ed6",
         "url": "https://open.spotify.com/album/189CcFeQ1acLGlbEUmpUL8"
       },
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 194522,
       "name": "\u6674\u6642\u96e8",
       "url": "https://open.spotify.com/track/2WE6d12wt6fjpJsh9ugXwo"
@@ -3344,6 +3362,24 @@
       "duration_ms": 297023,
       "name": "\u6700\u60b2\u50b7\u7684\u4e8b - \u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248 \u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240"
+    },
+    {
+      "album": {
+        "name": "\u6708\u5fc3\u8aaa",
+        "url": "https://open.spotify.com/album/0tX5D7Kj42NQCLDXk5kiAy"
+      },
+      "artists": [
+        {
+          "name": "Xian Zi",
+          "url": "https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231716,
+      "name": "\u6708\u5fc3\u8aaa",
+      "url": "https://open.spotify.com/track/4jAVdVZUiPUQQKeKBDxedz"
     },
     {
       "album": {
@@ -3902,7 +3938,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 232500,
       "name": "\u7fc5\u8180",
       "url": "https://open.spotify.com/track/6xcEl6mdZGvLCyYRCzWD41"
@@ -4032,7 +4068,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 229146,
       "name": "\u85cd\u773c\u775b(\u9b5a\u7248)",
       "url": "https://open.spotify.com/track/250KNabCJYzCWMMQ9RfukP"
@@ -4068,7 +4104,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-06",
+      "date_removed": null,
       "duration_ms": 250614,
       "name": "\u8655\u8655\u907a\u61be",
       "url": "https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER"

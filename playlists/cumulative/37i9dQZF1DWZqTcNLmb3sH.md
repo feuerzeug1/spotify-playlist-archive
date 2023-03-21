@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-596 songs - 1 day 13 hr 12 min
+597 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Kesariya Rangu \(From "Brahmastra \(Kannada\)"\)](https://open.spotify.com/track/1F0i0Ynrv28aAvycSLsugZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kesariya Rangu \[From "Brahmastra \(Kannada\)"\]](https://open.spotify.com/album/0St5fP672OHd31twjogATZ) | 4:38 | 2022-07-17 | 2022-10-07 |
 | [Kethi Bidabeaku Kanasugalanna \(From "Tanuja"\)](https://open.spotify.com/track/2sKCPpddu0CVPNhde3YiVz) | [Sneha Raghavan](https://open.spotify.com/artist/2Zqd4UE7XVVzTQ39LmoRra), [Praddyottan](https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw), [Naveen Kumar\. K](https://open.spotify.com/artist/1TarTchvUVsbBpm0ogN9Yy) | [Kethi Bidabeaku Kanasugalanna \(From "Tanuja"\) \- Single](https://open.spotify.com/album/2e2ibMtZeLGVRSr9l0yqrz) | 3:10 | 2023-02-03 |  |
 | [Khali Khali Agide \- From "Puksatte Lifu"](https://open.spotify.com/track/5Ty8cIug6a2wo5RkAKP7vZ) | [Shilpa Mudbi](https://open.spotify.com/artist/6ZlQidX01vhLzUBWZMrLoE), [Vasu Dixit](https://open.spotify.com/artist/5jF2q5B73UBoXNSbyQijPH) | [Khali Khali Agide \(From "Puksatte Lifu"\)](https://open.spotify.com/album/7hkXwKL0OPgUilKIktagFN) | 4:10 | 2021-12-06 | 2022-05-19 |
+| [Kirunage \(From “PS\-2"\) \[Kannada\]](https://open.spotify.com/track/1BedHFND13twtXgYlp9b5m) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kirunage \(From “PS\-2"\) \[Kannada\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2c59e0hgffUdQXmvbXaOzL) | 4:03 | 2023-03-20 |  |
 | [Kombe Uyyale](https://open.spotify.com/track/2otnBJdnE12fdRdIBpYwsi) | [Prakruthi Reddy](https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN) | [RRR](https://open.spotify.com/album/50jGyPdGvfn0U5icbTIoJc) | 4:44 | 2022-04-18 | 2022-11-15 |
 | [Komuram Bheemudho \(From "RRR"\)](https://open.spotify.com/track/7tJ90Ejr0RaStewhAcCxeN) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Komuram Bheemudho \(From "RRR"\)](https://open.spotify.com/album/2iwCk16cdBu0jxy33ifOVa) | 4:14 | 2021-12-24 | 2022-02-03 |
 | [Koti Koti Kotaro \(From "Danthapurana"\)](https://open.spotify.com/track/7p36WG97PeS1Wu4d1kgYOy) | [Arundhathi Vasishta](https://open.spotify.com/artist/7bpuejz9ux3FtEzQlTPWt5), [Rameshkrishna](https://open.spotify.com/artist/5auj9BvlrfpT8Jhg36yAsD) | [Koti Koti Kotaro \(From "Danthapurana"\)](https://open.spotify.com/album/72vJywi6wjhFQfhTNfMw9P) | 4:37 | 2022-09-29 | 2022-11-15 |

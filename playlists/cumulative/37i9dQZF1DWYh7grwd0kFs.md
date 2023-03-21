@@ -4,11 +4,14 @@
 
 > Best of Karva Chauth songs for you!
 
-40 songs - 3 hr 9 min
+40 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1GWWJzUJI9nAlcXfcBQtMG) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7mID1dJJmH2BgyZ4THY0Wc) | 0:00 | 2023-02-01 |  |
+| [](https://open.spotify.com/track/1bx6spmieE655BQvWdTYKA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 0:00 | 2023-02-01 |  |
 | [](https://open.spotify.com/track/2Rk3SdNdkxKopRotoio2iZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7HJVu7w2OoUHov9S936G5j) | 0:00 | 2023-02-01 |  |
+| [](https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE) | 0:00 | 2023-02-01 |  |
 | [Aabaad Barbaad \(From "Ludo"\)](https://open.spotify.com/track/0hFUtSsV2itYEUTZGj6w5H) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aabaad Barbaad \(From "Ludo"\)](https://open.spotify.com/album/1PzsfgcbPbiW7uflc9Zi5Z) | 5:09 | 2023-02-01 |  |
 | [Aashiyan](https://open.spotify.com/track/7ttlemwytO21npSmLKqTBg) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nikhil Paul George](https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 3:56 | 2023-02-01 |  |
 | [Aaye Ho Meri Zindagi Mein \- Female Version](https://open.spotify.com/track/0MOJU1KKbcDTgkdUtLs8G3) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Raja Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5G16twTP5dS4B99YLakLE6) | 6:03 | 2023-02-01 |  |
@@ -23,7 +26,6 @@
 | [Dil De Diya Hai](https://open.spotify.com/track/2zT6KfK583MkcLIHLBO8De) | [Anand Raj Anand](https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH) | [Masti](https://open.spotify.com/album/46PMlCgrb22nhjEaZaxQEQ) | 6:06 | 2023-02-01 |  |
 | [Gali Mein Chand \- Happy Version](https://open.spotify.com/track/04rmxV8Msc6ofVRDX36VKi) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Zakhm \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1X3DIMsEFC9hJXqAnvxVtY) | 5:09 | 2023-02-01 |  |
 | [Ghar Aaja Pardesi](https://open.spotify.com/track/4O92VRNJD4NG0OpSBZnoUr) | [Pamela Chopra](https://open.spotify.com/artist/4332VVki82ANHk0h50mCmU), [Manpreet Kaur](https://open.spotify.com/artist/3iXL8Y9QFYRXFmvtSc9nyl) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 7:31 | 2023-02-01 |  |
-| [Ghar More Pardesiya](https://open.spotify.com/track/1bx6spmieE655BQvWdTYKA) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 5:19 | 2023-02-01 |  |
 | [Hasi \- Female Version](https://open.spotify.com/track/1cmZbGkCEVVAck2MsWpPYQ) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 3:12 | 2023-02-01 |  |
 | [Jag Ghoomeya \(Female\)](https://open.spotify.com/track/4YRK38dk1rgrpjKubcSt18) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Sultan](https://open.spotify.com/album/0tAi6H8acUKefYMIEuxcMA) | 4:14 | 2023-02-01 |  |
 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 | 2023-02-01 |  |
@@ -46,7 +48,5 @@
 | [Tujhe Kitna Chahne Lage](https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:44 | 2023-02-01 |  |
 | [Tum Jo Aaye](https://open.spotify.com/track/2iZeKe5avjtKVmjfSFkpxd) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Once Upon A Time In Mumbaai](https://open.spotify.com/album/4ceWEQarPyTyeb9TUeyLOG) | 4:46 | 2023-02-01 |  |
 | [Tum Ko](https://open.spotify.com/track/2sf0cFFuJ8CWDft5NX0UR5) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 5:45 | 2023-02-01 |  |
-| [Ve Maahi](https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kesari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE) | 3:43 | 2023-02-01 |  |
-| [Waareya \- Female Solo Version](https://open.spotify.com/track/1GWWJzUJI9nAlcXfcBQtMG) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8) | [Suraj Pe Mangal Bhari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7mID1dJJmH2BgyZ4THY0Wc) | 4:38 | 2023-02-01 |  |
 
 \*This playlist was first scraped on 2023-02-02. Prior content cannot be recovered.

@@ -154,10 +154,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 362280,
       "name": "Cono",
       "url": "https://open.spotify.com/track/3Qx1zzq02YSVa1UMzApnQx"
+    },
+    {
+      "album": {
+        "name": "Africa Rising Vol.2",
+        "url": "https://open.spotify.com/album/14HCDahvIyixSHE6F15vvK"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "Da",
+      "url": "https://open.spotify.com/track/1oAM55oTaAwYWxH2jNISgy"
     },
     {
       "album": {

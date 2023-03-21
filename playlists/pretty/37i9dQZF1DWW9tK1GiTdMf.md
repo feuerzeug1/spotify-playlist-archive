@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ in cover i bnkr44
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,764 likes - 83 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,782 likes - 83 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

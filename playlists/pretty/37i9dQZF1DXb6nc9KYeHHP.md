@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6nc9KYeHHP.md) - [plain]
 
 > The rising star <a href="spotify:artist:3oKnyRhYWzNsTiss5n4Z1J">LP Giobbi</a> brings us a shining DJ mix full of piano melodies, a signature of this talented producer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,984 likes - 16 songs - 58 min 19 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,987 likes - 16 songs - 58 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,6 +23,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6nc9KYeHHP.md) - [plain]
 | 13 | [I Love to Watch You Dance \(Club Fever Part\. 3\) \- Mixed](https://open.spotify.com/track/5lAZtAI8XTPnVLQ8BL6jpJ) | [Kolombo](https://open.spotify.com/artist/4nZBJZHavxcUzGeK2k6fL9), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Love to Watch You Dance \(Club Fever Part\. 3\) \[Mixed\]](https://open.spotify.com/album/2TItKIKmdnV5V1exMdJjTn) | 2:47 |
 | 14 | [Apricots \- Mixed](https://open.spotify.com/track/5LDJW1s3VA4BZhjjUWeG3G) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots \(Mixed\)](https://open.spotify.com/album/2km4OtsjDzSwyMi8QtExhV) | 3:06 |
 | 15 | [Rhythm Is A Mystery \- Harry Romero Remix \- Mixed](https://open.spotify.com/track/27rQaNvO0HmH3WGlhO2pS4) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Bobbi Depasois](https://open.spotify.com/artist/32Rz0w4lU6OgXucbf5CYJA), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Rhythm Is A Mystery \- Harry Romero Remix \(Mixed\)](https://open.spotify.com/album/7JQP3F2CgWfbN6vo1BwA7Q) | 4:08 |
-| 16 | [All In A Dream \- Extended Mix \- Mixed](https://open.spotify.com/track/6bPdrG7oA8aRDt7BesExDk) | [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [All In A Dream \- Extended Mix \(Mixed\)](https://open.spotify.com/album/2CPvmt3xxtf2mk2BMCwzcf) | 4:30 |
+| 16 | [All In A Dream \- Extended Mix \- Mixed](https://open.spotify.com/track/6bPdrG7oA8aRDt7BesExDk) | [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [All In A Dream \- Extended Mix \(Mixed\)](https://open.spotify.com/album/2CPvmt3xxtf2mk2BMCwzcf) | 4:23 |
 
 Snapshot ID: `MTY1OTA2MTc3MCwwMDAwMDAwMDNjN2U2NmMxNzMwN2FiNmJlYTc0OWFmMTlhMDIyNjUx`

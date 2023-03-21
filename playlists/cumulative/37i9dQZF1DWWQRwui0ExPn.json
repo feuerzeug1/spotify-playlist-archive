@@ -29549,6 +29549,28 @@
     },
     {
       "album": {
+        "name": "Everything Is Calm",
+        "url": "https://open.spotify.com/album/2Q6VgJGBArEegBfrnZ6tKn"
+      },
+      "artists": [
+        {
+          "name": "Wieland & Ulrich",
+          "url": "https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN"
+        },
+        {
+          "name": "Taranczewski",
+          "url": "https://open.spotify.com/artist/64amSSHhJP5ZtaaYxFKgb5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144213,
+      "name": "Everything Is Calm",
+      "url": "https://open.spotify.com/track/06Ij7RjzQTAOyKIkenfAoA"
+    },
+    {
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/6l715y22gn98BnokxOrqNX"
       },
@@ -61876,6 +61898,28 @@
     {
       "album": {
         "name": "Mystery",
+        "url": "https://open.spotify.com/album/2D8GCtiWJSmWSAUzQ7F8S6"
+      },
+      "artists": [
+        {
+          "name": "Mirror Box",
+          "url": "https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F"
+        },
+        {
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167509,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/2of6R8mZp83uLt8YXpsX5r"
+    },
+    {
+      "album": {
+        "name": "Mystery",
         "url": "https://open.spotify.com/album/6iWDRYbT2Xyz6pRwlEG6Fr"
       },
       "artists": [
@@ -79152,7 +79196,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 126857,
       "name": "Seed",
       "url": "https://open.spotify.com/track/46rN0dUTqxTeWtF0g1lgKr"
@@ -85372,7 +85416,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 158808,
       "name": "spring",
       "url": "https://open.spotify.com/track/4XChGuM6Vcl9wFwB5SLgR8"
@@ -100544,7 +100588,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 121500,
       "name": "Watchtower dreams",
       "url": "https://open.spotify.com/track/0fATOmeL4L27d2TOSZjPYv"
@@ -102184,7 +102228,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 144545,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/56qBcUto6CZXjRJpqHxb3Y"

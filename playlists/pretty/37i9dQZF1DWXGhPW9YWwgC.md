@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGhPW9YWwgC.md) - [plain]
 
 > La playlist oficial de la serie de Netflix, Sky High.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 23 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 126 likes - 26 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,5 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGhPW9YWwgC.md) - [plain]
 | 21 | [Kalimba Beauty](https://open.spotify.com/track/7pFmzWxLdoFjjfMFh2Ddjp) | [Eliasson](https://open.spotify.com/artist/5Dj9JNInwX9anxzgiYx2u4) | [Retro Afrobeat](https://open.spotify.com/album/1LpWAaAPbGtqx7yMBGbIKj) | 3:45 |
 | 22 | [African Journey](https://open.spotify.com/track/36wRUH2ec7FtIuteZPrJUk) | [Eric Heber Suffrin](https://open.spotify.com/artist/7MQFnr0KcTl4EZUM8Ge5Oa) | [World Impressions](https://open.spotify.com/album/4tzPHd5EFW52GjbVBoCvZA) | 1:29 |
 | 23 | [Calypso Drums](https://open.spotify.com/track/2dgeDyEQ3550i12cbHUzck) | [Aurélien Chambaud](https://open.spotify.com/artist/1c4N14gu1jokeHNDbSPaBB), [Yon Kalawang](https://open.spotify.com/artist/0QXeGcT3mUqxhgiqZvCQ0i) | [Caribbean Islands, Vol\. 2](https://open.spotify.com/album/74GJWGb4ySzCC2znrFI1eI) | 1:38 |
+| 24 | [Kriptonita \(feat\. Villano Antillano\)](https://open.spotify.com/track/3CRIyxtaqIhrMbUmTpqwH5) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Hasta el Cielo, La Serie](https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR) | 2:51 |
+| 25 | [Quisiera Volverme Buena](https://open.spotify.com/track/6Ap6cqtMY5hGRq7vqqP9fj) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Miguel Campello](https://open.spotify.com/artist/0OzDyhPnwvUVGRNWrVILlg), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Hasta el Cielo, La Serie](https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR) | 3:43 |
+| 26 | [Parte Por Parte](https://open.spotify.com/track/3m6uuHUNDl3iYZVCBuvPEz) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Hasta el Cielo, La Serie](https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR) | 2:28 |
 
-Snapshot ID: `MTY3OTAwNDM1NSwwMDAwMDAwMDMzMjk3M2U2MmU1MmY4ZTk1OGRlMzMyNDkyYjk3ODZj`
+Snapshot ID: `MTY3OTMzOTMzOCwwMDAwMDAwMDJiMmQxOWRmZDVmYzkyYTAxODg2NDI1M2VmNWQwNDNm`

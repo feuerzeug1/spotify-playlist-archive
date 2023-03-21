@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 131270,
       "name": "Allegro",
       "url": "https://open.spotify.com/track/36jgt8ZFkqy2nqiD8DGdSz"
@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Draumkennd (Sound Bath)",
+        "url": "https://open.spotify.com/album/6d4FrI1InmsQ8TpBteiPJJ"
+      },
+      "artists": [
+        {
+          "name": "Arn\u00f3r",
+          "url": "https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151553,
+      "name": "Draumkennd (Sound Bath)",
+      "url": "https://open.spotify.com/track/5JLxt2KCICrily1GKlmqa8"
+    },
+    {
+      "album": {
         "name": "Early Morning",
         "url": "https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 163133,
       "name": "Halcyon River",
       "url": "https://open.spotify.com/track/54fAW6nglw7I5bjyeOcka4"
@@ -808,7 +826,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 173841,
       "name": "Mosaic Patterns",
       "url": "https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj"
@@ -866,6 +884,24 @@
       "duration_ms": 151333,
       "name": "Nature Pause",
       "url": "https://open.spotify.com/track/6606b0Jnwb9BaYJUgcmqq2"
+    },
+    {
+      "album": {
+        "name": "Nature Therapy",
+        "url": "https://open.spotify.com/album/6QexGgWoPrm4RQBXNkMpoz"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178635,
+      "name": "Nature Therapy",
+      "url": "https://open.spotify.com/track/7qkoegLNz9Lp4JgMszZ34P"
     },
     {
       "album": {
@@ -1356,6 +1392,24 @@
       "duration_ms": 192000,
       "name": "The Enchanted Forest",
       "url": "https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv"
+    },
+    {
+      "album": {
+        "name": "The Forest Waking Up",
+        "url": "https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8"
+      },
+      "artists": [
+        {
+          "name": "Taeda Trees",
+          "url": "https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180641,
+      "name": "The Forest Waking Up",
+      "url": "https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6"
     },
     {
       "album": {

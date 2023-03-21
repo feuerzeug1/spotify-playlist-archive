@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 27796,
+  "num_followers": 27890,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMTIwMCwwMDAwMDAwMDk2ZjQ0ZmJlNzExZjQxNGVlM2I2NDg1OWUwNjM4MTRk",
+  "snapshot_id": "MTY3OTAxMTIwMCwwMDAwMDAwMGE2NDllM2QwNjBmZmM3ODQwZGMxZDBhMGIwM2VjMzhh",
   "tracks": [
     {
       "added_at": "2023-03-17 00:00:00",
@@ -459,38 +459,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Scroll",
-        "url": "https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 157177,
-      "name": "Scroll",
-      "url": "https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Gota D'Espa\u00e7o",
-        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Ar",
-      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -527,22 +495,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Reflexo",
-        "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 306733,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
       },
@@ -559,6 +511,54 @@
       "duration_ms": 297737,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Gota D'Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Ar",
+      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Scroll",
+        "url": "https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 157177,
+      "name": "Scroll",
+      "url": "https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Reflexo",
+        "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 306733,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "PRA MIM",
-        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 153858,
-      "name": "PRA MIM",
-      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "Sons de Amor",
         "url": "https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 254400,
       "name": "Sons de Amor",
       "url": "https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "PRA MIM",
+        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 153858,
+      "name": "PRA MIM",
+      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -671,38 +671,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Vida De Artista",
-        "url": "https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk"
-      },
-      "artists": [
-        {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vida De Artista",
-      "url": "https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 279423,
-      "name": "Depois da Chuva",
-      "url": "https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "Come quarantine w me",
         "url": "https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi"
       },
@@ -719,18 +687,18 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Break It",
-        "url": "https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq"
+        "name": "Vida De Artista",
+        "url": "https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk"
       },
       "artists": [
         {
-          "name": "mishlawi",
-          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
         }
       ],
-      "duration_ms": 144982,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF"
+      "duration_ms": 192000,
+      "name": "Vida De Artista",
+      "url": "https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -751,22 +719,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "Ser Tua",
         "url": "https://open.spotify.com/album/3eC2nn5A7uEXKNKTcrspu6"
       },
@@ -783,6 +735,38 @@
       "duration_ms": 176747,
       "name": "Ser Tua",
       "url": "https://open.spotify.com/track/5FbRfLcCPfony92UnLd2vQ"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 279423,
+      "name": "Depois da Chuva",
+      "url": "https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq"
+      },
+      "artists": [
+        {
+          "name": "mishlawi",
+          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
+        }
+      ],
+      "duration_ms": 144982,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -815,6 +799,22 @@
       "duration_ms": 314009,
       "name": "Conversas",
       "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Tequila (Studio Version)",
-        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 199376,
-      "name": "Tequila (Studio Version)",
-      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "Jony Driver",
         "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
@@ -911,6 +895,38 @@
       "duration_ms": 274000,
       "name": "Fe.",
       "url": "https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Teu Eternamente",
+      "url": "https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Tequila (Studio Version)",
+        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 199376,
+      "name": "Tequila (Studio Version)",
+      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -951,22 +967,6 @@
       "duration_ms": 190560,
       "name": "777",
       "url": "https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Teu Eternamente",
-      "url": "https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
         "name": "NO MO Parties",
         "url": "https://open.spotify.com/album/10ZSwv9JsEhXYfWsniwvEh"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 208163,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Feisty",
-        "url": "https://open.spotify.com/album/0A6tqNmExdFyRCPJZ5uM39"
-      },
-      "artists": [
-        {
-          "name": "Nova Wave",
-          "url": "https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv"
-        }
-      ],
-      "duration_ms": 161404,
-      "name": "Feisty",
-      "url": "https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "Proezas",
         "url": "https://open.spotify.com/album/6UmJFEwuXm0MrFX1X8saAl"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 256265,
       "name": "Proezas",
       "url": "https://open.spotify.com/track/3wGLtyncg8nWioV1woLSA3"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Feisty",
+        "url": "https://open.spotify.com/album/0A6tqNmExdFyRCPJZ5uM39"
+      },
+      "artists": [
+        {
+          "name": "Nova Wave",
+          "url": "https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv"
+        }
+      ],
+      "duration_ms": 161404,
+      "name": "Feisty",
+      "url": "https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10"
     },
     {
       "added_at": "2023-03-17 00:00:00",

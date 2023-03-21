@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Contemplations",
+        "url": "https://open.spotify.com/album/2gOMTje0HNrjJZWB8n2W9K"
+      },
+      "artists": [
+        {
+          "name": "Oceanica",
+          "url": "https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123403,
+      "name": "Contemplations #2",
+      "url": "https://open.spotify.com/track/4mWGn5BKWKD8YDXpTIG3py"
+    },
+    {
+      "album": {
         "name": "Mal tiempo",
         "url": "https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr"
       },
@@ -484,7 +502,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 195095,
       "name": "Medium rain, Thunder Threatening",
       "url": "https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a"

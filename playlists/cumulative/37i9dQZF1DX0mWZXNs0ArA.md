@@ -4,7 +4,7 @@
 
 > 150%
 
-180 songs - 7 hr 46 min
+182 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [HUSH \(Speed\)](https://open.spotify.com/track/49JmcVegBY2IN3W8GbC2kH) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel \(Speed\)](https://open.spotify.com/album/6dTmErMYMBPJsC6GUUqOxq) | 2:35 | 2022-11-18 | 2022-12-14 |
 | [I Can't \- Sped Up](https://open.spotify.com/track/1V0RXIXbvghnccC1eiKG4w) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't](https://open.spotify.com/album/4UDnadI0O48uey6S8dunV3) | 2:01 | 2022-12-13 | 2022-12-22 |
 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 | 2022-12-13 |  |
+| [I Know \- sped up](https://open.spotify.com/track/6PjklVE4C9aBZkqTR3ATob) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:16 | 2023-03-20 |  |
 | [I WANNA BE SAVED](https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf) | [Nightocore Songs](https://open.spotify.com/artist/2nz194eBkvIzwRfdps1VPe) | [I WANNA BE SAVED](https://open.spotify.com/album/605ztgNljQNUeUeG835IQS) | 4:02 | 2023-01-03 | 2023-01-28 |
 | [I WANNA BE SAVED](https://open.spotify.com/track/5kCo9LVZrux26h9rGPSumc) | [Tkasi](https://open.spotify.com/artist/0vFylVX8JZ2m5BQULazlzY) | [I WANNA BE SAVED](https://open.spotify.com/album/0TI01an4MBa4111Mc70ag6) | 4:02 | 2023-01-18 | 2023-01-25 |
 | [I WANNA BE SAVED \- Remix](https://open.spotify.com/track/4Csr6QhRfKAHAm54mt2ZWY) | [DJ Fronteo](https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0) | [I WANNA BE SAVED \(Remix\)](https://open.spotify.com/album/4F0pMgh6o6y3LrHxmAHMfu) | 4:02 | 2023-01-18 |  |
@@ -94,8 +95,9 @@
 | [Jenny \- Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(Hearteye Speed Mix\)](https://open.spotify.com/album/6qLuZEfEiDrVoyfTQXYs8t) | 2:58 | 2022-06-09 |  |
 | [Jerk \- Sped Up Version](https://open.spotify.com/track/6Vq3tnOG1MlYklLVRpX1D8) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Jerk \(Sped Up Version\)](https://open.spotify.com/album/0ncELoW6dHgDUCc5C8ZuL8) | 1:53 | 2022-12-16 |  |
 | [Judas \(Lady Gaga\) \- Sped Up Version](https://open.spotify.com/track/0SfGYfOD0ipz1zg0ZCyqae) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Judas \(Lady Gaga\) \- Sped Up Version](https://open.spotify.com/album/2MH1Q3GTGl9mLUT6oCY0ve) | 3:26 | 2023-01-27 | 2023-02-12 |
+| [Judas \- Sped Up](https://open.spotify.com/track/0DMSs7vejX4FrV2EipYjT2) | [ethereal](https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG) | [Judas \(Sped Up\)](https://open.spotify.com/album/0HNsFQI3zpL1F1UV8ZssTt) | 3:26 | 2023-01-27 |  |
 | [Judas \- Sped Up](https://open.spotify.com/track/5qn1Dz4GFUdRNgKtO40LmY) | [ethereal](https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG), [Lofis](https://open.spotify.com/artist/7iFODSQxtV2tDxZBYtyFgt) | [Judas](https://open.spotify.com/album/5sPMLLr9CwQZPEd67PbJUr) | 3:26 | 2023-01-27 | 2023-02-24 |
-| [Judas \- Sped Up](https://open.spotify.com/track/4XPtTtlrsrIzFiMlOrX3TK) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Judas \- Sped Up](https://open.spotify.com/album/2UMCWd8fmH5HcBnguXciGp) | 3:26 | 2023-01-27 |  |
+| [Judas \- Sped Up](https://open.spotify.com/track/4XPtTtlrsrIzFiMlOrX3TK) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Judas \- Sped Up](https://open.spotify.com/album/2UMCWd8fmH5HcBnguXciGp) | 3:26 | 2023-01-27 | 2023-03-21 |
 | [just wanna rock \(Lil Uzi Vert\) \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 | 2022-10-13 |  |
 | [Karma \- Sped Up](https://open.spotify.com/track/0MwFC8WoPCjq2H3UES2aos) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer \(Sped Up\)](https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw) | 2:41 | 2022-11-15 |  |
 | [Karma \- Sped Up](https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Karma \(Sped Up\)](https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn) | 2:41 | 2022-08-01 | 2022-12-02 |

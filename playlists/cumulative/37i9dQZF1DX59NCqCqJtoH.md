@@ -4,7 +4,7 @@
 
 > We hear you.
 
-551 songs - 1 day 3 hr 12 min
+553 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Before You Go](https://open.spotify.com/track/1nH8IcJDJWhuKzs8ssBApy) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Hindsight](https://open.spotify.com/album/6gA0kACVRRPFjOCifHE4hM) | 3:32 | 2021-04-02 | 2022-07-12 |
 | [Behind the Clouds](https://open.spotify.com/track/6l8mSWXw3Jy7TvM0r8W6LR) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 2:40 | 2021-04-02 | 2022-07-22 |
 | [Best As I Can](https://open.spotify.com/track/0VXP6z47qxmafG9UcdNMWW) | [lovesick by choice](https://open.spotify.com/artist/6hw8TaF4rsDgimKMCpOcR4) | [Best As I Can](https://open.spotify.com/album/1FZWDC6vDndUGQhBm9bbsk) | 2:33 | 2022-04-12 | 2022-04-21 |
+| [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-03-20 |  |
 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2022-05-25 | 2022-10-15 |
 | [Black Dress](https://open.spotify.com/track/5zB8z2lhlHDEADHqgIkNYo) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Black Dress](https://open.spotify.com/album/2v8YgVuGZY0k00k0Q8mfZE) | 2:32 | 2021-06-25 | 2022-05-24 |
 | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/track/1x6xmj2HRJDYJB94sgzkpp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/album/3t7PD8kmLJdX3rLGwxmwT1) | 2:21 | 2021-11-19 | 2022-07-29 |
@@ -126,7 +127,7 @@
 | [emma, u up?](https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [emma, u up?](https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76) | 2:24 | 2021-04-02 | 2022-05-31 |
 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2021-04-02 | 2023-01-10 |
 | [Empty Room](https://open.spotify.com/track/2YUjJiHEhbb7eO9OWHdarW) | [Rishi](https://open.spotify.com/artist/5q1xsAah3kIdY7ouXeBa08) | [Empty Room](https://open.spotify.com/album/39LG3JcDyjuE9QHVhsL3mR) | 3:25 | 2021-06-25 | 2022-04-17 |
-| [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-20 |  |
+| [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-20 | 2023-03-21 |
 | [Everything and More](https://open.spotify.com/track/6qTEh8LELYNp9QCYyYfZS4) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 1:59 | 2021-04-02 | 2022-07-03 |
 | [everything i couldn't be](https://open.spotify.com/track/0Fzt24jmCa6G0ED7pW3IM1) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [everything i couldn't be](https://open.spotify.com/album/0OO54Y1nTh8WeZBNuD4AMV) | 2:10 | 2021-04-02 | 2022-07-22 |
 | [everything will be okay...](https://open.spotify.com/track/3ocXeXohKnLDwSfzjWs1tE) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO) | [everything will be okay...](https://open.spotify.com/album/6jcKxX5Huf3gOOLm98Lm6L) | 1:32 | 2021-04-02 | 2022-05-20 |
@@ -412,7 +413,7 @@
 | [say those things](https://open.spotify.com/track/3xiNoKG659HRaQwOoE7bHF) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [say those things](https://open.spotify.com/album/1XvickaUOGHJjeksW1aule) | 2:58 | 2021-04-02 | 2022-04-20 |
 | [Screams and Dreams \(Staying Friends\)](https://open.spotify.com/track/7ax2Jyn0CEjsWMZwrSREHy) | [Faye](https://open.spotify.com/artist/46OMcdfGCQJUOaA7o15lJG), [Sofflee](https://open.spotify.com/artist/5nnYwpUK0wd8uxU95JLU71) | [Screams and Dreams \(Staying Friends\)](https://open.spotify.com/album/1DnIl52atsyfrmlIkGC3CM) | 2:25 | 2021-04-02 | 2022-04-18 |
 | [Second Base](https://open.spotify.com/track/0krnQme22s9WqbuUq940fg) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Second Base](https://open.spotify.com/album/1CpVfieiYFzxzbiwckVBbl) | 2:37 | 2021-04-02 | 2022-07-27 |
-| [Second Place](https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Second Place](https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK) | 2:08 | 2021-11-08 |  |
+| [Second Place](https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Second Place](https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK) | 2:08 | 2021-11-08 | 2023-03-21 |
 | [Selfish](https://open.spotify.com/track/3fTd1AN7VM33g7OElNPJGb) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Selfish](https://open.spotify.com/album/3oM3S7CSJPRHjQxPoZs31a) | 2:57 | 2021-04-02 | 2022-07-29 |
 | [September 13th](https://open.spotify.com/track/5JzhtNahrk4YvntIa7jGNp) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Closure](https://open.spotify.com/album/3lLOJxYWfrolopz8MnKLIc) | 3:36 | 2021-04-02 | 2022-04-21 |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-01-25 | 2022-07-16 |
@@ -544,6 +545,7 @@
 | [Wish I Was Better](https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Wish I Was Better](https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr) | 2:20 | 2021-04-02 | 2022-04-11 |
 | [Without U](https://open.spotify.com/track/2VcyRyjpLFtvMSlz3hZSfh) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [Without U](https://open.spotify.com/album/1b0uz7iZ5T9qFmefbrHkw1) | 2:17 | 2021-04-02 | 2022-05-20 |
 | [Words Ain't Enough](https://open.spotify.com/track/7lMzNAybmy1UNPsgflbVcE) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Words Ain't Enough](https://open.spotify.com/album/1lVNR55Zdc0sXa6tztc31G) | 2:04 | 2021-04-02 | 2022-04-19 |
+| [Would You Do It Again?](https://open.spotify.com/track/4S3QaFRffd2LZH5kw0TytZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would You Do It Again?](https://open.spotify.com/album/0q4DIPAhsIhvnrYrHVVv7n) | 2:27 | 2023-03-10 |  |
 | [Would you do it again?](https://open.spotify.com/track/5IhOaFkIHZmRZmcBDoOZjQ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Would you do it again?](https://open.spotify.com/album/3lPAuwRmYdKEQa71owI4ol) | 2:27 | 2023-03-10 | 2023-03-15 |
 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 | 2022-07-15 |  |
 | [Yeah Right](https://open.spotify.com/track/2815rSBccLxZc67jEWBEvD) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Yeah Right](https://open.spotify.com/album/4lSynJxg1TaU4Mv0t9qz4c) | 2:54 | 2021-04-02 | 2022-07-29 |

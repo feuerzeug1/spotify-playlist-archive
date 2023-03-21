@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-684 songs - 1 day 16 hr 48 min
+685 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 | 2022-07-22 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-01-24 |  |
 | [Colors](https://open.spotify.com/track/5zn38bzjOZhCNmipZ9agN1) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Colors](https://open.spotify.com/album/3uO1F4TvpNqp1EQ6RNxfF1) | 3:11 | 2021-12-17 | 2022-07-28 |
-| [Colors](https://open.spotify.com/track/6pPMNzjGavElntvvM4eLoA) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:11 | 2023-02-10 |  |
+| [Colors](https://open.spotify.com/track/6pPMNzjGavElntvvM4eLoA) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:11 | 2023-02-10 | 2023-03-21 |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2021-12-17 |  |
 | [Come To The Beach \- Acoustic Version](https://open.spotify.com/track/5AYixj0Xa8qMPVeFS2uuzT) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Come To The Beach \(Acoustic Version\)](https://open.spotify.com/album/4cAEODeG7oWbfqAbXZD59Y) | 2:28 | 2021-12-17 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/0H2oAJ06XboQPa4DnKSbXL) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Control](https://open.spotify.com/album/7Ea1qWHjd65hekrOI51DJl) | 3:30 | 2021-12-17 | 2022-07-25 |
@@ -183,6 +183,7 @@
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-06-29 | 2023-03-19 |
 | [Feel Like That](https://open.spotify.com/track/76erTWkhmpV60sUAGy9XMt) | [Emma Jayne](https://open.spotify.com/artist/7ubWjhhe5vngwLTDrd2PEF) | [Feel Like That](https://open.spotify.com/album/6D8ZWS0oWd7J2VO96fWITq) | 2:46 | 2021-12-17 | 2022-07-29 |
 | [Feels Like Home](https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Feels Like Home](https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW) | 4:03 | 2021-12-17 |  |
+| [Feels Like Home](https://open.spotify.com/track/3ZDjwbBGVqA8UEVZGcjzB1) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Remedy](https://open.spotify.com/album/3y7hZARYGt2hn7MTLOtpfS) | 3:25 | 2023-03-17 |  |
 | [Feels Like Home](https://open.spotify.com/track/7tasMFG5QHRkZuOzQ372aE) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Feels Like Home](https://open.spotify.com/album/7EicnMJJeAroPvgh5OrIFa) | 3:25 | 2021-12-17 | 2022-07-28 |
 | [Ferris Wheels](https://open.spotify.com/track/0lwI8xs4YZlum7jo007xw4) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Circling the Sun](https://open.spotify.com/album/71ZmsJAMYoLhhgFqxgClbo) | 3:54 | 2021-12-17 | 2022-04-18 |
 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 | 2022-07-22 |  |
@@ -260,7 +261,7 @@
 | [Hold My Girl](https://open.spotify.com/track/1kjrgWG47wJgVqvQOvyb7C) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl](https://open.spotify.com/album/6cYPeMZiYaFOyHEoXglH7m) | 3:31 | 2022-01-24 | 2022-04-19 |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-07-22 |  |
 | [Hold On](https://open.spotify.com/track/6FZlUjVbVWocdZG2mJNMlU) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Hold On](https://open.spotify.com/album/6RBUF9yCmucqHM5lIOaBVs) | 5:05 | 2021-12-17 | 2022-07-29 |
-| [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 | 2021-12-17 |  |
+| [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 | 2021-12-17 | 2023-03-21 |
 | [Hold On To Happiness \- Acoustic](https://open.spotify.com/track/38xpylBakIgVq2k4RG8Szr) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/0rGSRypl3i16bk9X5f2nDQ) | 3:51 | 2021-12-17 | 2022-04-19 |
 | [Hold Space \- Live Acoustic](https://open.spotify.com/track/3Eyis5vCi3NfeQktrFtSwU) | [Kevin Paris](https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd), [Casey Kalmenson](https://open.spotify.com/artist/0k6NsmbguZ8OgZkJlgW1b8) | [Hold Space \(Live Acoustic\)](https://open.spotify.com/album/5WVojDixFdPVRiiGq976S5) | 3:13 | 2021-12-17 | 2022-06-06 |
 | [Hollow](https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Hollow](https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO) | 3:03 | 2021-12-17 | 2022-04-30 |
@@ -359,7 +360,7 @@
 | [Listen Up](https://open.spotify.com/track/0g4v8zDxXSCwXZvae6dfQg) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Listen Up](https://open.spotify.com/album/1I1Ahe6u0yNUj0OCfgrsGr) | 3:10 | 2022-01-24 | 2022-04-17 |
 | [Little Bit Better](https://open.spotify.com/track/5Keeju9Yx1xM7r771Ex7OY) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Little Bit Better](https://open.spotify.com/album/3mJeHXa94CyEOHoMLRypwd) | 4:17 | 2022-01-24 | 2022-04-20 |
 | [Little Marks](https://open.spotify.com/track/2muCD2b8lL3LEFd6rAXoYc) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Little Marks](https://open.spotify.com/album/5JSZFsEwC6JJap7DaYJt5M) | 2:49 | 2022-01-24 | 2022-04-21 |
-| [Little Marks](https://open.spotify.com/track/3f6CKzOD5zaVvHCOboOp7Y) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Vinter](https://open.spotify.com/album/6ah9pwb4VzAVru5OahGLxO) | 2:49 | 2022-07-22 | 2023-02-21 |
+| [Little Marks](https://open.spotify.com/track/3f6CKzOD5zaVvHCOboOp7Y) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Vinter](https://open.spotify.com/album/6ah9pwb4VzAVru5OahGLxO) | 2:49 | 2022-07-22 |  |
 | [Little Things](https://open.spotify.com/track/74mU4zNiHJl990F6gqBG4p) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Madelyn Paquette](https://open.spotify.com/artist/4yL7BcVGrznuqkWFmNM19M) | [Little Things](https://open.spotify.com/album/7z7s43LmJPmOqe9Wrmlbjw) | 2:26 | 2022-01-24 | 2022-04-20 |
 | [Loneliness](https://open.spotify.com/track/38YUiPZdeg1DDX8d6eV5Gi) | [Kevin Paris](https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd) | [Loneliness](https://open.spotify.com/album/0UJpeok7iX154IgLHvezYa) | 4:46 | 2022-01-24 | 2022-04-19 |
 | [Lonely and Bored](https://open.spotify.com/track/5kbePc3HrrD2LjuagQEt8I) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Lonely and Bored](https://open.spotify.com/album/3XuEd8hRssPnNadEQ3OZdU) | 3:01 | 2021-12-17 | 2022-06-28 |

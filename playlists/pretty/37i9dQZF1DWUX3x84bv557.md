@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Vincent Vissers & Jairzinho op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,196 likes - 103 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,233 likes - 103 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,18 +14,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 4 | [Leidseplein](https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Leidseplein](https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC) | 2:41 |
 | 5 | [Camera](https://open.spotify.com/track/4twF3kjfCgl0MJIhbJlXca) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Camera](https://open.spotify.com/album/5Cv9zHrHO15rMIkDGEAiwp) | 2:26 |
 | 6 | [Vlinder](https://open.spotify.com/track/07anqvcBCZVR8AKn4RZEw1) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Vlinder](https://open.spotify.com/album/7oxJp1V8RBoIjXHx9x9dyi) | 3:15 |
-| 7 | [De Vergiffenis](https://open.spotify.com/track/112BxBbiiPs82A4B99v18s) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 2:54 |
-| 8 | [Hou Me Vast](https://open.spotify.com/track/5cEXuATPIXChMiJ9J2K8N5) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Hou Me Vast](https://open.spotify.com/album/1V0jz27qKfVx0veO3QrdhJ) | 3:03 |
-| 9 | [Vliegen](https://open.spotify.com/track/2tnv26XNloxZMK1usRktqa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Vliegen](https://open.spotify.com/album/3VDVZIdLTmS21GbNVyYeBL) | 2:46 |
-| 10 | [Hoop \- Bonus Track](https://open.spotify.com/track/7G7HyrEcu4KqiVAgAaAXOr) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Online/Offline \(Deluxe\)](https://open.spotify.com/album/2uqrR2tkqMm6F5AdQIPlui) | 2:30 |
-| 11 | [Moeilijk](https://open.spotify.com/track/3t1kY2rVGBGxFjUw1kxIdD) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Moeilijk](https://open.spotify.com/album/3nATqZ2lFP9DYKDcajA8Yd) | 2:37 |
-| 12 | [Geef Me Dan Iets](https://open.spotify.com/track/5RtzKPMq4NIlLFmpgafBQA) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Geef Me Dan Iets](https://open.spotify.com/album/0Vv3vhNdSY9QBVZyQCXtur) | 2:58 |
-| 13 | [Ben Je Wakker?](https://open.spotify.com/track/3ibGc2PLDs46Qa5FU870di) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ben Je Wakker?](https://open.spotify.com/album/6IVj4qgirdMuRZC70CAmc4) | 2:17 |
-| 14 | [Als Je Haar Ziet](https://open.spotify.com/track/60JWfBfFzHeZWoQBE6rLwW) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Als Je Haar Ziet](https://open.spotify.com/album/6cAw10hJOgG4ovnIsikgl5) | 4:19 |
-| 15 | [Ik Voel Me Goed](https://open.spotify.com/track/5XqMs1M9TPOxeQV4kl1kEF) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Ik Voel Me Goed](https://open.spotify.com/album/7rAcfvWvZUEPezw9b08nzh) | 3:03 |
-| 16 | [Blijf Nog Even](https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Blijf Nog Even](https://open.spotify.com/album/51tulVCxklGWd6DXqAtmIZ) | 3:45 |
-| 17 | [Anorak](https://open.spotify.com/track/125nmYAaZVIwLXVyLf6PDc) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 2:05 |
-| 18 | [Zij Heeft Alles](https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Zij Heeft Alles](https://open.spotify.com/album/69jSlMa042sypmsAS7rORE) | 3:03 |
+| 7 | [Zij Heeft Alles](https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Zij Heeft Alles](https://open.spotify.com/album/69jSlMa042sypmsAS7rORE) | 3:03 |
+| 8 | [De Vergiffenis](https://open.spotify.com/track/112BxBbiiPs82A4B99v18s) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 2:54 |
+| 9 | [Hou Me Vast](https://open.spotify.com/track/5cEXuATPIXChMiJ9J2K8N5) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Hou Me Vast](https://open.spotify.com/album/1V0jz27qKfVx0veO3QrdhJ) | 3:03 |
+| 10 | [Vliegen](https://open.spotify.com/track/2tnv26XNloxZMK1usRktqa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Vliegen](https://open.spotify.com/album/3VDVZIdLTmS21GbNVyYeBL) | 2:46 |
+| 11 | [Hoop \- Bonus Track](https://open.spotify.com/track/7G7HyrEcu4KqiVAgAaAXOr) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Online/Offline \(Deluxe\)](https://open.spotify.com/album/2uqrR2tkqMm6F5AdQIPlui) | 2:30 |
+| 12 | [Moeilijk](https://open.spotify.com/track/3t1kY2rVGBGxFjUw1kxIdD) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Moeilijk](https://open.spotify.com/album/3nATqZ2lFP9DYKDcajA8Yd) | 2:37 |
+| 13 | [Geef Me Dan Iets](https://open.spotify.com/track/5RtzKPMq4NIlLFmpgafBQA) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Geef Me Dan Iets](https://open.spotify.com/album/0Vv3vhNdSY9QBVZyQCXtur) | 2:58 |
+| 14 | [Ben Je Wakker?](https://open.spotify.com/track/3ibGc2PLDs46Qa5FU870di) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ben Je Wakker?](https://open.spotify.com/album/6IVj4qgirdMuRZC70CAmc4) | 2:17 |
+| 15 | [Als Je Haar Ziet](https://open.spotify.com/track/60JWfBfFzHeZWoQBE6rLwW) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Als Je Haar Ziet](https://open.spotify.com/album/6cAw10hJOgG4ovnIsikgl5) | 4:19 |
+| 16 | [Ik Voel Me Goed](https://open.spotify.com/track/5XqMs1M9TPOxeQV4kl1kEF) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Ik Voel Me Goed](https://open.spotify.com/album/7rAcfvWvZUEPezw9b08nzh) | 3:03 |
+| 17 | [Blijf Nog Even](https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Blijf Nog Even](https://open.spotify.com/album/51tulVCxklGWd6DXqAtmIZ) | 3:45 |
+| 18 | [Anorak](https://open.spotify.com/track/125nmYAaZVIwLXVyLf6PDc) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 2:05 |
 | 19 | [Onderweg](https://open.spotify.com/track/0gekZRV95IfIVeJTtJHa2v) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Onderweg](https://open.spotify.com/album/44KUJqwC7TJcUcQNqhMRAX) | 2:37 |
 | 20 | [Der Af \(Oya Lélé\)](https://open.spotify.com/track/443rDqZIaqvZzJ1DgdJNgr) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Der Af \(Oya Lélé\)](https://open.spotify.com/album/6AAEje0hsC6HnJy5SsMiYD) | 2:26 |
 | 21 | [De Helft Van Je Hart](https://open.spotify.com/track/6ci2soUdoTPdn0ytw99LjN) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/2P6oEIpeCgngnghCvzO4T3) | 3:32 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 102 | [Kansen](https://open.spotify.com/track/7Mw4F5tnXF5D52dghmzbLQ) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Kansen](https://open.spotify.com/album/7Jk5bj58KHAdhERKgUqgET) | 2:50 |
 | 103 | [Heimwee](https://open.spotify.com/track/3jTDCptomGx0Y7NF7T874P) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Heimwee](https://open.spotify.com/album/0jfzgWx5m88pvXWbyA8kbw) | 2:45 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDU4NThmZDI3NmIyYmE4MDcyZGIyZjgxYmUxOGRiY2Rj`
+Snapshot ID: `MTY3OTMxNTM3MCwwMDAwMDAwMDdhZjZiMzEwYmIxODgxM2UyN2RiOTg5MzFlYjM0YWFh`

@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "im sorry i never texted u back",
+        "url": "https://open.spotify.com/album/0Uv6EaqO8PWeJxMoAwc7Nv"
+      },
+      "artists": [
+        {
+          "name": "fats'e",
+          "url": "https://open.spotify.com/artist/6XFt0iOyYmGY19gn8upF5t"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105279,
+      "name": "another night on the edge",
+      "url": "https://open.spotify.com/track/4BE1RiDAUPdO7cknzaVHQf"
+    },
+    {
+      "album": {
         "name": "apartmnt",
         "url": "https://open.spotify.com/album/1mqj22B6EL8FsqVOBfRtFJ"
       },

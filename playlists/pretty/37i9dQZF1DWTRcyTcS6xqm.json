@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 8782,
+  "num_followers": 8798,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDE1Y2RmOGFkZTgxZDQ4MmYzYjVjMTYwZWFhZDQ0YmVl",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGRlMjYzOWQ2Mzg4ZjVmNDdkZmViYmYxZjUzYThjYjg5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Too Drunk To Drive Drunk",
-      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Benton County Relic",
         "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 150667,
       "name": "Shake Your Money Maker",
       "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Too Drunk To Drive Drunk",
+      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -847,18 +847,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Down Home Mojo",
-        "url": "https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz"
+        "name": "50 - Just warming up !",
+        "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
       },
       "artists": [
         {
-          "name": "Tony Spinner",
-          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        },
+        {
+          "name": "Danielia Cotton",
+          "url": "https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t"
+        },
+        {
+          "name": "Sugar Blue",
+          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
         }
       ],
-      "duration_ms": 291720,
-      "name": "Sweet Thang",
-      "url": "https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy"
+      "duration_ms": 275226,
+      "name": "Let The Good Time Party Begin",
+      "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
     }
   ],
   "unique_name": "Blues Party",

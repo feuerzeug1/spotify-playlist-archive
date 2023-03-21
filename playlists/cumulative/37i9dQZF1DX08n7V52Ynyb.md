@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-166 songs - 12 hr 26 min
+167 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,9 +151,10 @@
 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 | 2022-04-13 |  |
 | [The Streets of Berlin](https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stations](https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6) | 4:53 | 2022-04-13 |  |
 | [The Sweetest Sounds](https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Paco Soto](https://open.spotify.com/artist/5WvleVXgt2bK1LRn1zlp4Q), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [Musa](https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0) | 3:01 | 2022-04-13 |  |
-| [The Very Thought of You](https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [The Very Thought of You](https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n) | 3:27 | 2022-09-28 |  |
+| [The Very Thought of You](https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [The Very Thought of You](https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n) | 3:27 | 2022-09-28 | 2023-03-21 |
 | [The Way You Look Tonight](https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [Coming Forth by Day](https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU) | 3:50 | 2022-04-13 |  |
 | [There You Are](https://open.spotify.com/track/1g30SgnZXLzcgHj9eVszPs) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [There You Are](https://open.spotify.com/album/12f8nBfTJsR7JYovTWFprd) | 4:16 | 2022-04-13 |  |
+| [There's a Lull in My Life](https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Lonely House](https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5) | 3:31 | 2023-03-15 |  |
 | [Thunderclouds](https://open.spotify.com/track/2OCV5Cn5DgesacD7ZLL10o) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Thunderclouds](https://open.spotify.com/album/0oTY2QwL9n2OHFEjk4SbSh) | 3:36 | 2022-04-13 | 2022-07-29 |
 | [Thunderclouds](https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 3:36 | 2022-07-21 |  |
 | [Too Late Now](https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 5:09 | 2022-04-13 |  |

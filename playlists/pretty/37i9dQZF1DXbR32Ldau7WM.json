@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u30a8\u30ec\u30d5\u30a1\u30f3\u30c8\u30ab\u30b7\u30de\u30b7",
-  "num_followers": 252231,
+  "num_followers": 252278,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNjAwMCwwMDAwMDAwMDEzN2E2MGM0YmZkNjAxYzUxN2I0M2VkMDY4OTZhOTM2",
+  "snapshot_id": "MTY3ODgwNjAwMCwwMDAwMDAwMGI0MDk2YTA1MzZiZWU1MThiNTZlNDRkM2U4MDdiZGFm",
   "tracks": [
     {
       "added_at": "2023-03-14 15:00:00",
@@ -523,38 +523,6 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 246518,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
-        "name": "yes. I. do",
-        "url": "https://open.spotify.com/album/0FHJHsRQBd3U2vjYd6FJjo"
-      },
-      "artists": [
-        {
-          "name": "Elephant Kashimashi",
-          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "It\u2019s only lonely crazy days",
-      "url": "https://open.spotify.com/track/7AYbM2IImncnflOBbGIih9"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
         "name": "10-feat",
         "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
@@ -575,50 +543,18 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
-        "url": "https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8"
+        "name": "yes. I. do",
+        "url": "https://open.spotify.com/album/0FHJHsRQBd3U2vjYd6FJjo"
       },
       "artists": [
         {
-          "name": "Ivy to Fraudulent Game",
-          "url": "https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX"
+          "name": "Elephant Kashimashi",
+          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
         }
       ],
-      "duration_ms": 150595,
-      "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
-      "url": "https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
-        "name": "Memorable",
-        "url": "https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o"
-      },
-      "artists": [
-        {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Memorable",
-      "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
-    },
-    {
-      "added_at": "2023-03-14 15:00:00",
-      "album": {
-        "name": "\u5e78\u305b\u306b\u3057\u3066\u304f\u308c\u3044\u30fc\u3074\u30fc",
-        "url": "https://open.spotify.com/album/2q37HtYAlyNvkGvKSeojsZ"
-      },
-      "artists": [
-        {
-          "name": "THE KEBABS",
-          "url": "https://open.spotify.com/artist/59RHw8mybzyMx2euAXycie"
-        }
-      ],
-      "duration_ms": 213766,
-      "name": "THE KEBABS\u3092\u62b1\u304d\u3057\u3081\u3066",
-      "url": "https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a"
+      "duration_ms": 217920,
+      "name": "It\u2019s only lonely crazy days",
+      "url": "https://open.spotify.com/track/7AYbM2IImncnflOBbGIih9"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -639,6 +575,70 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
+        "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8"
+      },
+      "artists": [
+        {
+          "name": "Ivy to Fraudulent Game",
+          "url": "https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX"
+        }
+      ],
+      "duration_ms": 150595,
+      "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
+      "url": "https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
+        "name": "\u5e78\u305b\u306b\u3057\u3066\u304f\u308c\u3044\u30fc\u3074\u30fc",
+        "url": "https://open.spotify.com/album/2q37HtYAlyNvkGvKSeojsZ"
+      },
+      "artists": [
+        {
+          "name": "THE KEBABS",
+          "url": "https://open.spotify.com/artist/59RHw8mybzyMx2euAXycie"
+        }
+      ],
+      "duration_ms": 213766,
+      "name": "THE KEBABS\u3092\u62b1\u304d\u3057\u3081\u3066",
+      "url": "https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
+        "name": "Memorable",
+        "url": "https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Memorable",
+      "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
+    },
+    {
+      "added_at": "2023-03-14 15:00:00",
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/3XKXbGqYOWElmctD6tfrIJ"
       },
@@ -655,8 +655,8 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "More Than Words",
-        "url": "https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC"
+        "name": "Blaze",
+        "url": "https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 230542,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
+      "duration_ms": 219360,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
     },
     {
       "added_at": "2023-03-14 15:00:00",
@@ -803,8 +803,8 @@
     {
       "added_at": "2023-03-14 15:00:00",
       "album": {
-        "name": "Blaze",
-        "url": "https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy"
+        "name": "More Than Words",
+        "url": "https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 219360,
-      "name": "Blaze",
-      "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
+      "duration_ms": 230542,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
     }
   ],
   "unique_name": "Big in Japan",

@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-337 songs - 12 hr 57 min
+342 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [free agent](https://open.spotify.com/track/3I1EMZaJzJn1PljYX46ZOk) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [free agent](https://open.spotify.com/album/5K52oFLaPpHJ9KzzndaABx) | 2:24 | 2022-09-09 |  |
 | [Gems of Peace](https://open.spotify.com/track/441mPZwOHpu06MdLJIX7JJ) | [Vapista](https://open.spotify.com/artist/4FAUTn5choCqDcNV70VtaA) | [Gems of Peace](https://open.spotify.com/album/7iYhs4msMNYD7ffllCdM0S) | 1:50 | 2022-09-09 | 2022-09-30 |
 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 | 2022-09-16 |  |
+| [Gifts](https://open.spotify.com/track/5A4HO3cB7QFH1pJio7eJPN) | [zakori](https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms) | [Lofi Lullaby](https://open.spotify.com/album/6KOidWLkTlLSUQXI0hu9iq) | 2:07 | 2023-03-20 |  |
 | [Giveaway](https://open.spotify.com/track/1MQ29OwKSvVJ5zyCYvHkLX) | [Matt Louda](https://open.spotify.com/artist/6xEvlu9Brgxw4oW1u6Vwxw) | [Giveaway](https://open.spotify.com/album/3TRZ9vnRxP3TIeqOUJXjc3) | 2:44 | 2022-09-09 |  |
 | [Golden Light](https://open.spotify.com/track/5Qr0Pq6LUTtfkza2BwfiTN) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Golden Light](https://open.spotify.com/album/4CGLmkjxqTobXHVSiBjmBw) | 2:17 | 2022-09-09 |  |
 | [Grounding](https://open.spotify.com/track/5wMvw6fFXoeINA8v4Ru13n) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Grounding](https://open.spotify.com/album/2KqN3WUFFfQmRhRtVacP4N) | 2:42 | 2022-09-09 |  |
@@ -185,6 +186,7 @@
 | [Maple Tree](https://open.spotify.com/track/5aqpLbtOqGbAlpCWJrbIYF) | [Plant Guy](https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH) | [Maple Tree](https://open.spotify.com/album/6GOznOKn0MZqtrBSASuzDn) | 1:44 | 2022-09-16 |  |
 | [Matraz](https://open.spotify.com/track/0EExX0iMNhZmHM4rqDOrJU) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [Matraz](https://open.spotify.com/album/2txrxySHANr9oGVC4w6i3X) | 1:49 | 2022-12-09 |  |
 | [meditation vibes](https://open.spotify.com/track/0tgec4Q65PDKyprqxl10F3) | [Dymas](https://open.spotify.com/artist/3d4CdboHk00789IhccNRF3) | [meditation vibes](https://open.spotify.com/album/7lEYOTd4M8zHINq390U9e6) | 2:31 | 2022-10-28 |  |
+| [Meditative State](https://open.spotify.com/track/0YXyIpdq9ZFvCH6ZsaGfwE) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Meditative State](https://open.spotify.com/album/3nSx2XYH36538HeHh8X0SR) | 1:56 | 2023-03-20 |  |
 | [Mellifluous](https://open.spotify.com/track/0r40wXiWwQCSRRegTwsG51) | [Maelk](https://open.spotify.com/artist/5iv7276O5MpFO01YZ1TTjx), [Coogan](https://open.spotify.com/artist/1U3FmjBRcKqEV3TktVmero) | [Mellifluous](https://open.spotify.com/album/5T8Gbc6K56bD9IpVGmVq4q) | 2:37 | 2022-10-07 |  |
 | [Melon Madness](https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Melon Madness](https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu) | 2:18 | 2022-09-09 |  |
 | [Meteor Shower](https://open.spotify.com/track/7ramzkXZYtHU4bUzR2qTJ6) | [Theo Aabel](https://open.spotify.com/artist/6yxMxVw1MRLoB9EJWO5XVe), [møndberg](https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2) | [Meteor Shower](https://open.spotify.com/album/009XcHxeU83CdvOQ5cctHH) | 2:36 | 2022-09-23 |  |
@@ -198,6 +200,7 @@
 | [Mon Frére](https://open.spotify.com/track/6v1M5ZiUaLjYyaJaonKUKM) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Mon Frére](https://open.spotify.com/album/5kMYre1Xm6waTfWFPIOW3N) | 1:55 | 2022-12-23 |  |
 | [Monday Holidays](https://open.spotify.com/track/267zdUG17CHaVy97wN8hz4) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Monday Holidays](https://open.spotify.com/album/3ui5xtOQYUoHxBNyFo65DP) | 2:23 | 2022-09-30 |  |
 | [Monsoon Lullaby](https://open.spotify.com/track/4B2MGJ8zI8tmEbfYxp8nlj) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Monsoon Lullaby](https://open.spotify.com/album/4ayz8NqAUyVwQiEASdok2f) | 2:33 | 2022-11-11 | 2022-11-19 |
+| [Moonlit Canvas](https://open.spotify.com/track/1DsqevLhpY01DNmVxiqqAZ) | [Kiko Kaid](https://open.spotify.com/artist/2DgElimlxH8vCyfILVlrqP) | [Moonlit Canvas](https://open.spotify.com/album/1SffCgrJNnq5YP0EKoKA4y) | 2:23 | 2023-03-20 |  |
 | [More Than Ever](https://open.spotify.com/track/20xBuY19xf6sdctIwYM7se) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7) | [More Than Ever](https://open.spotify.com/album/1yFR5GXRlrgBlVOaXtHv7x) | 2:46 | 2022-10-14 |  |
 | [Moving On](https://open.spotify.com/track/0OKlzcuA2lZFCve9fJdZCB) | [Ayzic](https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC) | [Moving On](https://open.spotify.com/album/3dvbkdGKNIIl8maPEI6TwD) | 2:08 | 2022-09-09 |  |
 | [Muse](https://open.spotify.com/track/0vpd3BZoa4XlofMz9F7p9v) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Muse](https://open.spotify.com/album/1ntYogE5ung04usLCWvZQ9) | 2:32 | 2022-12-23 |  |
@@ -236,10 +239,12 @@
 | [Port Evenings](https://open.spotify.com/track/0tPjix5HfFWwKlJJ69QnE3) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Port Evenings](https://open.spotify.com/album/1UuJTx8Tv4udt0IVrVidgz) | 2:29 | 2022-09-09 |  |
 | [prism](https://open.spotify.com/track/7x6LbHwFGwyQahnp7xG53y) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [prism](https://open.spotify.com/album/7KCabudhTNECE5TfEBW9Gz) | 1:42 | 2022-10-14 |  |
 | [Promise Keeper](https://open.spotify.com/track/0C0zdDrUpv78MocEzCHEig) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq), [Joseph Newton](https://open.spotify.com/artist/4sortLWQS0SQiIvkRnHWQq) | [Promise Keeper](https://open.spotify.com/album/540CmBpmGhDyiNEoyhzn87) | 1:54 | 2022-09-09 | 2022-12-09 |
+| [pulsation](https://open.spotify.com/track/3VjK1arZPnFcTbSJ4zR3hc) | [fontatron](https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d) | [pulsation](https://open.spotify.com/album/6A95PAtS0MSpuWR6yx63U7) | 2:10 | 2023-03-20 |  |
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2022-09-09 |  |
 | [Purple Sky](https://open.spotify.com/track/0KJV4g3S5w1T7fqsyDrGJz) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/4jUHN7x4JwSVQnxlz29LNl) | 2:07 | 2022-12-09 |  |
 | [Purple Sky](https://open.spotify.com/track/1vSGmKm49xTrc4nzhkQ5Oa) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/6svxvqUaD5PKTQvjD303T7) | 2:07 | 2022-11-18 | 2022-12-15 |
 | [Purple Sky](https://open.spotify.com/track/4MjQ2ViBJketrS9Ub3MRpA) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/39RqaB9nZz8zZ1qGrEBJmU) | 2:07 | 2022-09-30 | 2022-11-20 |
+| [Radiant](https://open.spotify.com/track/6W97XqA8NrUQgGdNaXWB5n) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Radiant](https://open.spotify.com/album/6QaVyVq8YDg2KGStrIlQ5M) | 1:48 | 2023-03-20 |  |
 | [Rain In July](https://open.spotify.com/track/4oHehRJn9BcMDsRb6Hhkax) | [Lunaco](https://open.spotify.com/artist/1ExbHTwjAHCB0JBa5Jk7VK), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Rain In July](https://open.spotify.com/album/3Dkz1hyD9TJtM2Rki0LyVd) | 2:34 | 2022-11-18 |  |
 | [Rain Reverie](https://open.spotify.com/track/5A3eMTARV2hVzgCNS47CZl) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Breathing Space](https://open.spotify.com/album/3X9TTMLkGioGksEZkWNMd5) | 2:08 | 2022-11-18 | 2023-01-20 |
 | [Rainy Friday](https://open.spotify.com/track/1FMYCvLGPQmMjSOzDd9yt0) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [breakfast oats.](https://open.spotify.com/artist/60GtRTpm5lE77BuKLejtlw) | [Rainy Friday](https://open.spotify.com/album/5hHSliveeX9fNfqjW7Od6Q) | 2:24 | 2022-09-09 |  |

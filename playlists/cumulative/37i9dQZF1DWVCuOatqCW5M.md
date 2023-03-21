@@ -4,10 +4,11 @@
 
 > New music from popular Hindi artists\. Cover\- Aditi Singh Sharma
 
-445 songs - 1 day 1 hr 46 min
+445 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/3k4xoBzWbKy2mebPN4nF9y) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0vJzEwSxd5kJvHnlt1Inti) | 0:00 | 2023-02-17 |  |
 | [12 Ladke](https://open.spotify.com/track/1SPsVUm6aB9ztpD6naRrXd) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [12 Ladke](https://open.spotify.com/album/3vdf52R0THbfGrqszSsTG7) | 2:26 | 2022-11-18 | 2023-01-13 |
 | [2835](https://open.spotify.com/track/2pExwM3gZGiD4xpzHF4MYL) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [2835](https://open.spotify.com/album/3venQ88Lc6SKQGrObSlzW8) | 2:56 | 2022-12-02 | 2023-01-21 |
 | [Aa Mere Kol](https://open.spotify.com/track/2DiyS9ak3O1qHjlQuAeSKf) | [Vinayak Bahl](https://open.spotify.com/artist/0a3d9L4ClTZmqUQEcg4CLv), [Shobhit Agarwal](https://open.spotify.com/artist/5Qj0uLYfV3IRUzuKKDKzbC), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Aa Mere Kol](https://open.spotify.com/album/34D5f8FR5LSNvulBYjsZKr) | 3:28 | 2023-02-24 |  |
@@ -234,7 +235,6 @@
 | [Kirdaar, Episode 2](https://open.spotify.com/track/6C8abGIyJR6aDg5Iz70gNd) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Kirdaar, Episode 2](https://open.spotify.com/album/1ujgi3EUePJnvDyj3VdgFw) | 2:51 | 2022-06-10 | 2022-06-18 |
 | [Kiss You](https://open.spotify.com/track/0valk4SlQMT3OXUthOO3OA) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Kiss You](https://open.spotify.com/album/1z1ja5KHQbap790rQob2sd) | 2:01 | 2022-07-01 | 2022-07-30 |
 | [Kitni Bechain Hoke](https://open.spotify.com/track/0aOfRjTDSuaNXRwvSH5t8X) | [Sahil Solanki](https://open.spotify.com/artist/4HOFwTSYn9JAfqvJj9ie7F), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Rashi Maheshwari](https://open.spotify.com/artist/4uO47xOvYFscP8FnvpCIy8) | [Kitni Bechain Hoke](https://open.spotify.com/album/7ufeoPmtlc47O31uxrJYhP) | 4:04 | 2022-05-27 | 2022-06-11 |
-| [Kora Sa Chehra](https://open.spotify.com/track/3k4xoBzWbKy2mebPN4nF9y) | [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Kora Sa Chehra](https://open.spotify.com/album/0vJzEwSxd5kJvHnlt1Inti) | 3:44 | 2023-02-17 |  |
 | [Koyla](https://open.spotify.com/track/0FPQM1jPC58pAmW34zB2qc) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Koyla](https://open.spotify.com/album/10BoGILLTQ8rLBXvwTCGey) | 3:47 | 2022-06-24 | 2022-07-02 |
 | [Kuch Bhi Nahi](https://open.spotify.com/track/7razqr1rfm4THLuE1IhfQg) | [Raeyna](https://open.spotify.com/artist/4cSuJFjNwzW29ciFECV2dg) | [Kuch Bhi Nahi](https://open.spotify.com/album/1FERRcIHnjKPS5rGeBBHc7) | 2:59 | 2022-06-24 | 2022-07-16 |
 | [Kuch Toh Zaroor Hai](https://open.spotify.com/track/7jDYNeso9PzdUzo8FKNh78) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Kuch Toh Zaroor Hai \- Single](https://open.spotify.com/album/1aHqQ2LzoRyPhoSAc4ZZPd) | 3:27 | 2022-11-25 | 2023-01-21 |

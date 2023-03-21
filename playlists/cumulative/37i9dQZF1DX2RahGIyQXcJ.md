@@ -4,10 +4,11 @@
 
 > Best of hip\-hop tracks from South Asia\. Cover:  Channi Nattan & Inderpal Moga
 
-179 songs - 10 hr 25 min
+179 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/5n7P6A365Prut3q8vo5G4m) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1oZVS1RjOOZjLhPguAENAD) | 0:00 | 2022-11-30 |  |
 | [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2022-10-10 | 2022-12-01 |
 | [051021](https://open.spotify.com/track/6D0RJju2TSMtZM1jsRc58S) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:31 | 2022-10-10 | 2022-12-01 |
 | [12 Bajay](https://open.spotify.com/track/4G4mzPZFeJRtiTRMZer86A) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok) | [12 Bajay](https://open.spotify.com/album/7laPcPTDp1pi9QPko64FHF) | 6:12 | 2022-10-10 | 2022-12-01 |
@@ -61,7 +62,6 @@
 | [Deal With It](https://open.spotify.com/track/3l9KybL4tK1jAP7u3UkWwe) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5) | 2:31 | 2022-07-18 | 2023-01-13 |
 | [Dear Mama](https://open.spotify.com/track/4wWugVbhblSjTsW1fjwf3u) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Dear Mama](https://open.spotify.com/album/1sa9xGrtMw8IIyZKCUr98o) | 3:06 | 2022-07-18 | 2022-10-11 |
 | [Dilli Waali Baatcheet](https://open.spotify.com/track/4z5TrwJbxRL25IbVXM6fch) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Dilli Waali Baatcheet \(From "Mr\. Nair"\)](https://open.spotify.com/album/4jZM9xaJeZGBXmzg2SCQL9) | 3:21 | 2021-12-03 | 2022-07-19 |
-| [Dilli Waali Baatcheet](https://open.spotify.com/track/5n7P6A365Prut3q8vo5G4m) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Mr\. Nair](https://open.spotify.com/album/1oZVS1RjOOZjLhPguAENAD) | 3:21 | 2022-11-30 |  |
 | [Don't Forgive Me](https://open.spotify.com/track/5J3qCUclRF7NnIgA6VzNiZ) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Hooked](https://open.spotify.com/album/2egmXoikzo8TRETZN0Di5G) | 3:39 | 2022-07-18 | 2023-01-13 |
 | [Droptop](https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Droptop](https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD) | 2:21 | 2021-12-03 |  |
 | [Ek Din](https://open.spotify.com/track/3nOefpWyZos25ipFr6LCEK) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Ek Din](https://open.spotify.com/album/2wEgS4V318gie8SJW7knRr) | 4:49 | 2021-12-03 | 2023-01-13 |

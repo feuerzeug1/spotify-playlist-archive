@@ -4,7 +4,7 @@
 
 > La playlist oficial de la serie de Netflix, Sky High.
 
-23 songs - 1 hr 8 min
+26 songs - 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Just Like This](https://open.spotify.com/track/3weSaf2Dycd25zteQP5Tjj) | [Henry Parsley](https://open.spotify.com/artist/1CRpNf9ceFASm89QV2U0aY), [Sid Narbom](https://open.spotify.com/artist/07bc07kEzUQS2m70LOWchA) | [Hello Future](https://open.spotify.com/album/4RT2kZOigGFTQMA5qSIfmp) | 2:35 | 2023-03-16 |  |
 | [Kalimba Beauty](https://open.spotify.com/track/7pFmzWxLdoFjjfMFh2Ddjp) | [Eliasson](https://open.spotify.com/artist/5Dj9JNInwX9anxzgiYx2u4) | [Retro Afrobeat](https://open.spotify.com/album/1LpWAaAPbGtqx7yMBGbIKj) | 3:45 | 2023-03-16 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 | 2023-03-16 |  |
+| [Kriptonita \(feat\. Villano Antillano\)](https://open.spotify.com/track/3CRIyxtaqIhrMbUmTpqwH5) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Hasta el Cielo, La Serie](https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR) | 2:51 | 2023-03-20 |  |
 | [Le vent nous portera](https://open.spotify.com/track/2g4oQ1siRRrg8yAkQLVx0c) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [Des visages des figures](https://open.spotify.com/album/4vvtMZGxbWEHyOv7MNgrsT) | 4:48 | 2023-03-16 |  |
 | [Like We Do](https://open.spotify.com/track/3b5nalfUlw30Hvk36Bz9sX) | [Nathalie Mac](https://open.spotify.com/artist/3aWOFh8GZ19uI0ZdIEJOcu), [Henry Richard Obree Parsley](https://open.spotify.com/artist/0HuUTQ2zRcSJ5npEKjqglh) | [Pure Pop](https://open.spotify.com/album/4QE6O7nmoZJdg3T9yQ8Xkd) | 2:29 | 2023-03-16 |  |
 | [Lose Your Head](https://open.spotify.com/track/0mgIRj1X6Jl1iD0QiBSaQi) | [Stax](https://open.spotify.com/artist/72NM7f1GtFP1LvuhMzqfT6), [Beth Cole](https://open.spotify.com/artist/6nsig1J2LF9B2tsX9XDH7X) | [Percussive Pop](https://open.spotify.com/album/4z7UTQ7cn3NSZ8Asrfle5f) | 2:26 | 2023-03-16 |  |
@@ -24,7 +25,9 @@
 | [Moon \(And It Went Like\)](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 6:30 | 2023-03-16 |  |
 | [On Fleek](https://open.spotify.com/track/7EpMFmGu8pdVgRTOg8Mrk6) | [Oliver Holmes](https://open.spotify.com/artist/74sowxTJmpHW0j0oAcUWYJ), [AFRODITETOOLIVELY](https://open.spotify.com/artist/1vYoCjBZp412cCNoHfApR4) | [LDN Sounds 2](https://open.spotify.com/album/11ZoQ8pSRn3ZTPexF6d8ma) | 2:04 | 2023-03-16 |  |
 | [Out Of The Night](https://open.spotify.com/track/0KvUTACJYxJOABcNM5KAMx) | [Henrik Lars Wikstrom](https://open.spotify.com/artist/1No9dLQzBAihU2KAM5HMdP) | [POP: Synthwave](https://open.spotify.com/album/0jS9LOKH9vGFeCoqpFoqri) | 3:35 | 2023-03-16 |  |
+| [Parte Por Parte](https://open.spotify.com/track/3m6uuHUNDl3iYZVCBuvPEz) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Hasta el Cielo, La Serie](https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR) | 2:28 | 2023-03-20 |  |
 | [Peon \(feat\. Orelsan\)](https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:47 | 2023-03-16 |  |
+| [Quisiera Volverme Buena](https://open.spotify.com/track/6Ap6cqtMY5hGRq7vqqP9fj) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Miguel Campello](https://open.spotify.com/artist/0OzDyhPnwvUVGRNWrVILlg), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Hasta el Cielo, La Serie](https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR) | 3:43 | 2023-03-20 |  |
 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 | 2023-03-16 |  |
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2023-03-16 |  |
 | [Sin Carné](https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sin Carné](https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc) | 1:57 | 2023-03-16 |  |

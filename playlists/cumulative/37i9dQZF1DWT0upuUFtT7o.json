@@ -7395,6 +7395,24 @@
     },
     {
       "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/4C3xU3ky500oslwuJPv16X"
+      },
+      "artists": [
+        {
+          "name": "Lonely Pirate Committee",
+          "url": "https://open.spotify.com/artist/2vsjCgyBZaH29ekrJRrpf2"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162090,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk"
+    },
+    {
+      "album": {
         "name": "Germaphobe",
         "url": "https://open.spotify.com/album/0HpqNDpCRilFNZso1M2XJX"
       },
@@ -22240,7 +22258,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 208750,
       "name": "Virgo",
       "url": "https://open.spotify.com/track/555j37nNg3zppVNEBXHsAV"

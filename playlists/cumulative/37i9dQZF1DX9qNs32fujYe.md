@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Metallica
 
-702 songs - 2 day 4 hr 16 min
+703 songs - 2 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Freak On a Leash](https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:15 | 2022-08-19 |  |
 | [Freezing Moon](https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:23 | 2022-08-19 | 2023-02-11 |
 | [From Hell with Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell with Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 | 2021-12-17 |  |
-| [From the Cradle to Enslave](https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [From The Cradle To Enslave](https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp) | 6:37 | 2022-08-19 |  |
+| [From the Cradle to Enslave](https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [From The Cradle To Enslave](https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp) | 6:37 | 2022-08-19 | 2023-03-21 |
 | [Full Circle](https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:22 | 2021-12-17 |  |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 | 2022-10-08 |
 | [Gateways](https://open.spotify.com/track/5JxyDHWj4XMRgvuRzWd9JK) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Abrahadabra](https://open.spotify.com/album/1lAP0ZWj2nDXDHcChtDzSO) | 5:10 | 2022-08-19 |  |
@@ -481,6 +481,7 @@
 | [Revolution Is My Name \- 2020 Terry Date Mix](https://open.spotify.com/track/2ZDpLMQHTZPEN05gQMPbDs) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing The Steel \- 20th Anniversary Deluxe Edition \(Terry Date Mix\)](https://open.spotify.com/album/5t6KIM8JLS1NQ46PWPrPtR) | 5:16 | 2021-12-17 | 2022-07-21 |
 | [Ride into the Light](https://open.spotify.com/track/46wMCxSguASbKzxmcgPZB7) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Enlightened In Eternity](https://open.spotify.com/album/2PRYdPB2jz4mC7rmIU4E1M) | 4:42 | 2021-12-17 | 2022-07-29 |
 | [Ride on the Wild Side](https://open.spotify.com/track/2W4x14ONqFL4C2OhQlX15c) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Ride on the Wild Side](https://open.spotify.com/album/4WcHMesMqQUZGiTI2IKltc) | 4:06 | 2021-12-17 | 2022-06-30 |
+| [RISE](https://open.spotify.com/track/1Q99lciGepKxOoUO0JxDAh) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [RISE](https://open.spotify.com/album/6SA6Ml0cEluSLl5NdqU0Bp) | 4:35 | 2023-03-21 |  |
 | [Rise Of The Dragon Empire](https://open.spotify.com/track/1CfIgWmS5LuZMinBMjxuWc) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Rise Of The Dragon Empire](https://open.spotify.com/album/2EfhdHrbnVo4zt4RnoHOdr) | 4:36 | 2021-12-17 | 2022-07-28 |
 | [Rise of the Dragon Empire](https://open.spotify.com/track/3JqeGhxwgyVDdO9T8kUeda) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Rise of the Dragon Empire](https://open.spotify.com/album/6vdr1V3sTwEmhfho5oMURC) | 4:36 | 2022-07-08 | 2023-02-11 |
 | [Rising Fire](https://open.spotify.com/track/5uEOhWDWr4gN9YMgZNVGRB) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Rising Fire](https://open.spotify.com/album/4gGtBcTbf80l1PNvhgJXnx) | 3:26 | 2021-12-17 | 2022-07-29 |

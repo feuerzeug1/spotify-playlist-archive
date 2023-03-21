@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
+> Down\-tempo and easy listening music\. Cover: Budjerah
 
 [Topsify Australia](https://open.spotify.com/user/popmob) - 5,708 likes - 323 songs - 17 hr 29 min
 
@@ -332,4 +332,4 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 322 | [180 \(feat\. Lil Spacely\)](https://open.spotify.com/track/2Eph6fuQSCCihTTvhptxfC) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [180 \(feat\. Lil Spacely\)](https://open.spotify.com/album/0clsV6sGN7Qrwt4wbv95xx) | 3:14 |
 | 323 | [Operator](https://open.spotify.com/track/0SEvjN9rWrif8YJPLePfrC) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 4:28 |
 
-Snapshot ID: `MTYxMiw1MWY5ZDUyMmI0YTJjYzg2MDQ4NWRiYjNiNTM3YWZmNGM3YjViNDkz`
+Snapshot ID: `MTYxMywzZmEyNDhlMjcxY2Y5NTU3ZmEzYmY1ZDhmY2UyMTc2MzNkY2E5MjU0`

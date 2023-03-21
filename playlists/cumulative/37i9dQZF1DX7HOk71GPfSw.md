@@ -4,7 +4,7 @@
 
 > gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec
 
-1,669 songs - 3 day 3 hr 51 min
+1,670 songs - 3 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,6 +855,7 @@
 | [Kyoto](https://open.spotify.com/track/4Ie1robxn85Wn0hlSOnGBe) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto](https://open.spotify.com/album/2PPS5XsNRXEENzpWwrUufN) | 2:41 | 2020-11-20 | 2021-11-13 |
 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 | 2021-08-21 | 2022-01-13 |
 | [la fleur](https://open.spotify.com/track/6pZaP9L3hJ04ZdIEEYMPj0) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [la fleur](https://open.spotify.com/album/5k0C86pUKd7RFNzabzGPaw) | 1:39 | 2022-03-25 | 2022-05-21 |
+| [Labyrinth \- Neggy Gemmy Remix](https://open.spotify.com/track/5JDFnvb8b6lLXFcyK8Auas) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY), [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Labyrinth \(Neggy Gemmy Remix\)](https://open.spotify.com/album/02YYUeb60vqbPOyZPhrCtM) | 5:46 | 2023-03-20 |  |
 | [Lacrimosa](https://open.spotify.com/track/4fmx5aFpBc8HrHrC6UUKTX) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [The Best Red](https://open.spotify.com/album/48S8Gg7ZPeonbt2Vw5Vauh) | 4:13 | 2021-10-16 | 2021-10-21 |
 | [Ladida](https://open.spotify.com/track/0RkJu38Kh5beBzrAVroDBb) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Harmony EP](https://open.spotify.com/album/2kbMwqHzoqdBHRjg3LEVdd) | 2:35 | 2022-04-01 | 2022-06-04 |
 | [LAKE OF LOVE](https://open.spotify.com/track/7MZRh424fSUsjmUYEebcvK) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [LAKE OF LOVE](https://open.spotify.com/album/4W4eNy279B7ogE6nBm6Dbw) | 5:43 | 2022-04-01 | 2022-04-29 |

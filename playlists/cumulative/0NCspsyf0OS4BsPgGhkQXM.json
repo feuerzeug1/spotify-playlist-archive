@@ -12433,6 +12433,28 @@
     },
     {
       "album": {
+        "name": "Stay The Night",
+        "url": "https://open.spotify.com/album/1eMdAJDIE94nXFxI56HkFZ"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Dyson",
+          "url": "https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Stay The Night",
+      "url": "https://open.spotify.com/track/45ZGq5V2xy1CV8uVkvxt8t"
+    },
+    {
+      "album": {
         "name": "Until It Isn't",
         "url": "https://open.spotify.com/album/0PUh79wOZHNlFddJytsl9z"
       },

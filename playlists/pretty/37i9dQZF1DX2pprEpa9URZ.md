@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep sound, combining electronic elements and organic instrumentation stemming from the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,107 likes - 60 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,431 likes - 60 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 10 | [Aruna Chandra](https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4) | [Mashti](https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf), [Deep Dive Corp.](https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb), [David Devanagari](https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3) | [Aruna Chandra](https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn) | 8:58 |
 | 11 | [Bahar](https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Bahar](https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT) | 3:52 |
 | 12 | [Feather \- Iorie & Madmotormiquel Remix](https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz) | [Nhii](https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X), [Pippermint](https://open.spotify.com/artist/3U05nJox1ck1J6Cgvu9ANF), [Madmotormiquel](https://open.spotify.com/artist/0aiPokyV5CIqT8kmoYoHg1), [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH) | [Feather \(The Remixes\)](https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h) | 7:07 |
-| 13 | [Kidz of Tibet](https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE) | [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn), [Badau](https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU) | [Drum 'N' Feels](https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8) | 6:02 |
-| 14 | [Before the Storm](https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Before the Storm](https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j) | 7:25 |
+| 13 | [Before the Storm](https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Before the Storm](https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j) | 7:25 |
+| 14 | [Kidz of Tibet](https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE) | [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn), [Badau](https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU) | [Drum 'N' Feels](https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8) | 6:02 |
 | 15 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 |
 | 16 | [Hidden Garden](https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Hidden Garden](https://open.spotify.com/album/5ADWAdx830C67511L0FVPj) | 4:57 |
 | 17 | [Luv Machine](https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp) | [Zoe Reijue](https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF) | [Luv Machine](https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3) | 6:11 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 51 | [Quem Sou Eu](https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Quem Sou Eu](https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL) | 5:28 |
 | 52 | [Izivunguvungu \- Chloé Remix](https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg), [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Izivunguvungu \(Chloé Remix\)](https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB) | 6:24 |
 | 53 | [Kite Zo A](https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 5:54 |
-| 54 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 |
-| 55 | [Take Me Back](https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [Tim Jules](https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk) | [Take Me Back](https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y) | 4:46 |
+| 54 | [Take Me Back](https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [Tim Jules](https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk) | [Take Me Back](https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y) | 4:46 |
+| 55 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 |
 | 56 | [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 |
 | 57 | [Lotus \- Radio Edit](https://open.spotify.com/track/3tx2LWG7qvk51C8A6d3qdg) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Lotus \(Radio Edit\)](https://open.spotify.com/album/4T9DDQJLabUvrjfAucsNjg) | 3:43 |
-| 58 | [Time](https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [Time & Space](https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy) | 6:21 |
+| 58 | [The Landing \- Nadav Dagon & JPattersson](https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl) | [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK), [Nadav Dagon](https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU) | [The Landing](https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep) | 7:15 |
 | 59 | [Entrecote](https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Osam](https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb) | 8:02 |
-| 60 | [Graceland](https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Graceland](https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV) | 6:45 |
+| 60 | [Time](https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [Time & Space](https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy) | 6:21 |
 
-Snapshot ID: `MTY3NjY0Nzk5NywwMDAwMDAwMDc3NTQ5MzQyODFkYWUwNTQyYTgyMWFmZjdkZWVjMTZm`
+Snapshot ID: `MTY3NjY0Nzk5NywwMDAwMDAwMDc3NTg2MzQ3YTA1NDc2ODQ1NTA4NmY2OTBmMWFjZGU2`

@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-428 songs - 1 day 6 hr 17 min
+429 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Cities In Dust \- Single Version](https://open.spotify.com/track/039IfPq41KEsEwv6WrY8ab) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Twice Upon A Time / The Singles](https://open.spotify.com/album/70jdjzXQTmNe7c6xWhF2Bt) | 4:07 | 2018-12-12 | 2022-04-21 |
 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 | 2018-12-12 | 2022-07-29 |
 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 | 2018-12-12 |  |
+| [Cloudbusting](https://open.spotify.com/track/373vZ0g1dpWaUcrbh0WKhd) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 5:10 | 2019-08-02 |  |
 | [Cloudbusting](https://open.spotify.com/track/5atQ2haKP5LT65WM0KUts3) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 5:10 | 2019-08-02 | 2022-07-29 |
 | [Cloudbusting \- 2018 Remaster](https://open.spotify.com/track/0cuMpt0w9ahbhJl0R2fbkY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:09 | 2019-08-02 | 2023-03-18 |
 | [Collapsing New People](https://open.spotify.com/track/1KvEIrMv8Jl0ASfWyr4U4D) | [Fad Gadget](https://open.spotify.com/artist/5IRIVOsIjIch3u8UfWdnBd) | [Frank Tovey By Fad Gadget](https://open.spotify.com/album/7k27rdWm2m5K2u9mWKq9eq) | 4:15 | 2018-12-12 | 2022-04-21 |
@@ -330,7 +331,7 @@
 | [Soapy](https://open.spotify.com/track/5R4FpxoKoIcDax145OXXuG) | [Lyres](https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml) | [On Fyre](https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f) | 3:45 | 2020-05-06 | 2022-04-21 |
 | [Someone Somewhere \(In Summertime\)](https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj) | 4:37 | 2022-03-31 |  |
 | [Something's Jumpin' in Your Shirt \(with Malcolm McLaren & The Bootzilla Orchestra\)](https://open.spotify.com/track/4mbnrFl4l0bbHuvRedRsl0) | [Lisa Marie](https://open.spotify.com/artist/1z676UwffUl4tpUPOQ9GSN), [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ), [The Bootzilla Orchestra](https://open.spotify.com/artist/7oNW0FHu1FMVPZPtyRzGpB) | [Waltz Darling](https://open.spotify.com/album/27vgR1KFT3uNokFAMCZawV) | 4:52 | 2020-12-07 | 2022-04-21 |
-| [Sometimes Always](https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned](https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb) | 2:31 | 2022-07-06 |  |
+| [Sometimes Always](https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned](https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb) | 2:31 | 2022-07-06 | 2023-03-21 |
 | [Somewhere Down The Crazy River](https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH) | [Robbie Robertson](https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf) | [Robbie Robertson](https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J) | 4:55 | 2019-08-02 |  |
 | [Song To The Siren](https://open.spotify.com/track/4WOvx1gdPtmW1c4rXeo0iO) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [Lilliput](https://open.spotify.com/album/1c2QIcoBAm2fB2YUcDe0v7) | 3:35 | 2018-12-12 | 2022-04-20 |
 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 | 2018-12-12 |  |

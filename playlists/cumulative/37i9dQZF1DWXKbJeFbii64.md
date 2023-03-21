@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-76 songs - 3 hr 41 min
+77 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Almost Supernatural](https://open.spotify.com/track/5zvfHSjOJj3oWIV7CtUAe7) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:08 | 2023-01-13 | 2023-03-02 |
 | [Archipelago Rain & Thunder](https://open.spotify.com/track/6TxDMAKrOapQFF4MBsf4UV) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Stormy Seasons](https://open.spotify.com/album/3Ms2VW0VJri8JHjSuJKh9x) | 2:22 | 2022-10-28 |  |
 | [Atmosphère Nord](https://open.spotify.com/track/12YwouliX4zdxGoI9jArlO) | [Thibaut Lozé](https://open.spotify.com/artist/6xcbQLZPMTSqeZ46TU9ihv) | [Histoires Sur Le Flash](https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33) | 1:50 | 2022-10-28 |  |
+| [Contemplations \#2](https://open.spotify.com/track/4mWGn5BKWKD8YDXpTIG3py) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [Contemplations](https://open.spotify.com/album/2gOMTje0HNrjJZWB8n2W9K) | 2:03 | 2023-01-13 |  |
 | [Costa Tormenta](https://open.spotify.com/track/1fK6fnY1WSGzInlketXt6D) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Mal tiempo](https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr) | 1:52 | 2022-10-28 |  |
 | [Deep Storm](https://open.spotify.com/track/5T9OJA2LwDfIy2N6tEoJSD) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 2:48 | 2022-12-09 | 2023-01-24 |
 | [Distant Storm](https://open.spotify.com/track/6sZVHMKQ7lf57eTlgby2WL) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Through The Night](https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5) | 2:36 | 2022-10-28 | 2023-01-06 |
@@ -34,7 +35,7 @@
 | [Low Rumble of Rain and Thunder](https://open.spotify.com/track/1xxD524mnciVxvx1xQK3bJ) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 2:35 | 2023-01-13 |  |
 | [Luscious Rain](https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0) | [Harmonious Nature](https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ) | [Luscious Rain](https://open.spotify.com/album/4HGhxEOSzvVuaXAb39qhkX) | 2:12 | 2022-10-28 |  |
 | [Medium Rain and Intense NJ Thunder](https://open.spotify.com/track/67P3hjyYGjth8lNBl1gDsI) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 4:00 | 2023-01-13 |  |
-| [Medium rain, Thunder Threatening](https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 3:15 | 2022-10-28 |  |
+| [Medium rain, Thunder Threatening](https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 3:15 | 2022-10-28 | 2023-03-21 |
 | [Mountain Thunderstorm](https://open.spotify.com/track/29XSvNdu4rTuvWgxeiMDM7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 | 2022-12-09 |  |
 | [Night Thunder](https://open.spotify.com/track/16HCJtRKmMbKKflHHQ7oJZ) | [David Struck](https://open.spotify.com/artist/4k2SHabbAKcyqgXrLpVPVn) | [Night Thunder](https://open.spotify.com/album/13ayzWPy1dkOGDb9uTEdoI) | 1:38 | 2022-10-28 |  |
 | [Nuage Froid](https://open.spotify.com/track/5Bwc0m1mEGgtMOTtJell0T) | [Elise Édouard](https://open.spotify.com/artist/5BCk7QdCsT8O9EO3EF18SB) | [Nuage Froid](https://open.spotify.com/album/6I0XXsyriPTf9gRdK9MOlQ) | 2:07 | 2022-10-28 |  |

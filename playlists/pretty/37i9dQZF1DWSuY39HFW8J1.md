@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuY39HFW8J1.md) - [plain]
 
 > Staying vibrant is <a href="spotify:artist:0jNDKefhfSbLR9sFvcPLHo">San Holo</a>'s<br/> currency, which can definitively be felt in his latest mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406 likes - 22 songs - 59 min 59 sec
+[Spotify](https://open.spotify.com/user/spotify) - 409 likes - 22 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuY39HFW8J1.md) - [plain]
 | 3 | [zZz \- Mixed](https://open.spotify.com/track/3uGaP46FikX5hTqHNolCjR) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [zZz \(Mixed\)](https://open.spotify.com/album/08At1fd1su3GthHkZQhVqP) | 2:34 |
 | 4 | [about the kid that never left the house \- Mixed](https://open.spotify.com/track/4FtTKKc6h8TAtJmpxH8wra) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [about the kid that never left the house \(Mixed\)](https://open.spotify.com/album/1Z0Nd4qIRm5cUFl929jl7J) | 1:04 |
 | 5 | [You Changed Your Hair \- Mixed](https://open.spotify.com/track/2940779vloCFpVzIs2W4RW) | [Synova](https://open.spotify.com/artist/0nZkBPxczfHoKnG6SKOHFd) | [You Changed Your Hair \(Mixed\)](https://open.spotify.com/album/3eBgk6gjcI0JV1k0ACszbb) | 2:11 |
-| 6 | [Foxgloves \- Mixed](https://open.spotify.com/track/6mVOb8BgYl4VLlGKBpsO0n) | [Former Hero](https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm) | [Foxgloves \(Mixed\)](https://open.spotify.com/album/4dOZwIqDgn5UWRdt56yHQA) | 3:33 |
+| 6 | [Foxgloves](https://open.spotify.com/track/3t12j4zQ7LlLUlz8hvmWeX) | [Former Hero](https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm) | [footpaths](https://open.spotify.com/album/6kTBakIxDSCSoreweShcEQ) | 3:40 |
 | 7 | [thinkin \- Mixed](https://open.spotify.com/track/4n5jZOZQTZevpksPQduoxf) | [haak](https://open.spotify.com/artist/1OUrdQZBdpVBqO2khkV6BU) | [thinkin \(Mixed\)](https://open.spotify.com/album/3ZpebZHzCv96r4qDxuAqJo) | 3:03 |
 | 8 | [Push Through \- Mixed](https://open.spotify.com/track/5UX2uOGqPp4x0IA13tpFSh) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Push Through \(Mixed\)](https://open.spotify.com/album/4nhYqN3JDqXLEpOh9z9kfF) | 3:35 |
-| 9 | [nintendo 64 \- Mixed](https://open.spotify.com/track/4gwWl6921QcafoTwTRCKLp) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64 \(Mixed\)](https://open.spotify.com/album/6cUG0WbUmc0JUqAAHJlIbV) | 2:21 |
+| 9 | [nintendo 64 \- Mixed](https://open.spotify.com/track/2NBrdqPSma5Qo7kG04OJeY) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64 \(Mixed\)](https://open.spotify.com/album/7FdyIp5vCaZHeqtsTAhijF) | 2:21 |
 | 10 | [is that ok? \- Mixed](https://open.spotify.com/track/2EvuYdjpi8OmuuLIA843i8) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [is that ok? \(Mixed\)](https://open.spotify.com/album/7EJHVPUo2G8kLDFof17x8C) | 3:30 |
 | 11 | [Sensory Overload \- Mixed](https://open.spotify.com/track/5Y8jVDP7j60M3DlxCY5odP) | [haak](https://open.spotify.com/artist/1OUrdQZBdpVBqO2khkV6BU) | [Sensory Overload \(Mixed\)](https://open.spotify.com/album/4EmoLF4oZNVOigr4Cdb4uu) | 1:20 |
 | 12 | [Remote Viewing \- Mixed](https://open.spotify.com/track/6pDToWHRwQdjm0mfInILVB) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv) | [Remote Viewing \(Mixed\)](https://open.spotify.com/album/69zOY1UhJmRPWUljHMRLs2) | 4:03 |
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuY39HFW8J1.md) - [plain]
 | 15 | [Ethereal \- RamonPang Remix \- Mixed](https://open.spotify.com/track/3k7Rhkj4UeQyOlJKoIUcHs) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Ethereal \- RamonPang Remix \(Mixed\)](https://open.spotify.com/album/1882ZislVFQcCedJMVpwmt) | 1:27 |
 | 16 | [Time Goes By \- Mixed](https://open.spotify.com/track/1XK6IC8yyl4IkAwKv623zX) | [Faith](https://open.spotify.com/artist/0q8z4y0Kp5CxKeYhC6SeEX), [Janee](https://open.spotify.com/artist/4pFNPXd2phUG2uqeSlc8oC), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT) | [Time Goes By \(Mixed\)](https://open.spotify.com/album/74KJqoMv6QWqsrHW88yins) | 2:32 |
 | 17 | [Dive \- Mixed](https://open.spotify.com/track/041x8IJRsEylXi6ITHw0up) | [Zes](https://open.spotify.com/artist/71xwQBpvIGWm4oo7Cx5jli) | [Dive \(Mixed\)](https://open.spotify.com/album/6j84JLivJngv2PitKuFIKz) | 3:16 |
-| 18 | [SLEEP \- Mixed](https://open.spotify.com/track/7hYtfei9t1CFxeJkb39H4O) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [SLEEP \(Mixed\)](https://open.spotify.com/album/6XtpfObqODpVDF3fgNqqPj) | 2:19 |
-| 19 | [b song \- Mixed](https://open.spotify.com/track/3sNiWcMGe5QTWRua0x2oHk) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [b song \(Mixed\)](https://open.spotify.com/album/0jjAejaDKMOKcp4yZk0241) | 3:06 |
+| 18 | [SLEEP](https://open.spotify.com/track/0HibkV2W1CAAMH5obrXj96) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [SLEEP](https://open.spotify.com/album/0XsNinFykaFOKlHiUHXdrT) | 2:18 |
+| 19 | [b song \- Mixed](https://open.spotify.com/track/1TELTkWdVb2hx5PrFgIqnp) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [b song \(Mixed\)](https://open.spotify.com/album/5zA9IFk3GhKR5rBrlZ72Yt) | 3:06 |
 | 20 | [golden youth \- Mixed](https://open.spotify.com/track/2oYU9EekZ6vz4SKMpTCNHY) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [golden youth \(Mixed\)](https://open.spotify.com/album/30ZVBcFftJdiVlSbJvFBm6) | 3:24 |
 | 21 | [Good for Nothing \- Mixed](https://open.spotify.com/track/3F90d2i8IlNc069ItvXqOZ) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [Good for Nothing \(Mixed\)](https://open.spotify.com/album/1ztzTWSyemNekElGk8nII8) | 3:19 |
 | 22 | [vestal avenue \- Mixed](https://open.spotify.com/track/2iwTGKCvkn2ZFpml0GgNLe) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [vestal avenue \(Mixed\)](https://open.spotify.com/album/7b3pMXKfIHNl9rSheQWmBj) | 3:33 |
 
-Snapshot ID: `MTY3NzY1NzY3MiwwMDAwMDAwMGRjMDUxMDEyYjU4Zjg1ZWY1NGM1NDE2NjNmNGNhNTM4`
+Snapshot ID: `MTY3NzY1NzY3MiwwMDAwMDAwMGViYTcxYjdiOWU3YjAxOGM5MzdlN2MzMjA4M2U5ZTIy`

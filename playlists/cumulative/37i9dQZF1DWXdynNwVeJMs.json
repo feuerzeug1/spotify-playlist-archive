@@ -464,10 +464,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 240480,
       "name": "Candy",
       "url": "https://open.spotify.com/track/30nOmimeRq4Nii8VSK4faT"
+    },
+    {
+      "album": {
+        "name": "Dopamine Overdose",
+        "url": "https://open.spotify.com/album/6ZalNPvkWelPjhB4NaV5RL"
+      },
+      "artists": [
+        {
+          "name": "L\u0169p\u1e01GangGang",
+          "url": "https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240480,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/5S0woVYkJa3e4vU3By6MIM"
     },
     {
       "album": {

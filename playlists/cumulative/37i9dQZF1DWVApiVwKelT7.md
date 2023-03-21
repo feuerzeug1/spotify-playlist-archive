@@ -4,10 +4,11 @@
 
 > Time to mend your broken heart with beautiful melodies!
 
-89 songs - 6 hr 32 min
+89 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/16ASkQZ0cTrSdUYU1TB2nt) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 0:00 | 2021-09-15 |  |
 | [Aaromale](https://open.spotify.com/track/5Toj8uGqy5Tyb6nXxPU3RD) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Alphons Joseph](https://open.spotify.com/artist/7r6kmDCXWnmTa2Uu1F37qm) | [Vinnathaandi Varuvaayaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VAR4nGvZh6KW3PLioooYM) | 5:46 | 2021-09-15 | 2022-10-12 |
 | [Aaruyire](https://open.spotify.com/track/1kEBn42BGm8y3nQUjQvUve) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Madharasapattinam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ffYI02SEVQbb3qRgdpJGk) | 6:10 | 2021-09-15 |  |
 | [Adiyae Ivalaey](https://open.spotify.com/track/2qWtVodJgQ6HtLgNuAK8Nb) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Romeo Juliet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tg4GGCWmHfmyNxt2degIX) | 4:47 | 2021-09-15 |  |
@@ -40,7 +41,6 @@
 | [Kadhal Valarthen](https://open.spotify.com/track/2bZOaehykrzd1gGXA6IfvC) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kay Kay](https://open.spotify.com/artist/5gvyySuBMClBPfubvOjrIR) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xAqOpePLMt4LOwoS41dBl) | 7:29 | 2021-09-15 |  |
 | [Kan Pesum Varthaigal \(From "7/G Rainbow Colony"\)](https://open.spotify.com/track/6YDJ4XEYgW0jbn8WDZCfsB) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Youth Beats \- Hits of A.R.Rahman and Yuvan Shankar Raja](https://open.spotify.com/album/41JsrslvFMaFxVV6bfpe3O) | 5:48 | 2021-09-15 |  |
 | [Kanave Kanave](https://open.spotify.com/track/6sPW145Y3LSXd4p1LjBOcS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [David](https://open.spotify.com/album/3Gef2xMe3ihEF1UILkiriu) | 4:44 | 2022-08-15 |  |
-| [Kanave Nee Naan](https://open.spotify.com/track/16ASkQZ0cTrSdUYU1TB2nt) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Kannum Kannum Kollaiyadithaal](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 2:04 | 2021-09-15 |  |
 | [Kannai Vittu](https://open.spotify.com/track/6cxo3Hsiy17OYbRaIoZeCG) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Pravin Saivi](https://open.spotify.com/artist/3g6Rl18EhUhnSBEv20h8U0), [Srimathumitha](https://open.spotify.com/artist/6QrOW5VVKkMPUWFYGTR4kB) | [Iru Mugan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uUbjHmv6CglcQkRnFyBsz) | 6:04 | 2021-09-15 |  |
 | [Kannamma](https://open.spotify.com/track/3gJbCMoDT9rUmPS1GPd6kn) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Ananthu](https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 4:49 | 2021-09-15 |  |
 | [Kannamma \- Reprise](https://open.spotify.com/track/57C2emenhsov770NmD7Y6R) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [KO, 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GxE0LCLBZx5gmtl4QrWXj) | 4:24 | 2021-09-15 | 2022-10-12 |

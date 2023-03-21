@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-562 songs - 1 day 11 hr 3 min
+563 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Adiyea Raatchasiyea \(From "Mayan"\)](https://open.spotify.com/track/6yGDq8z4YiZAHmCJREQO49) | [M\. S\. Jones Rupert](https://open.spotify.com/artist/3MJb4WRTY3xFsZ3cXQQbog), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Adiyea Raatchasiyea \(From "Mayan"\)](https://open.spotify.com/album/0m2T3TBZ9ldcFziwYou29T) | 3:16 | 2022-05-14 | 2022-05-31 |
 | [Aethukkoa](https://open.spotify.com/track/09MEbPRSJ48CpysxCPCbkQ) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Shamshera \- Tamil](https://open.spotify.com/album/3Q3bar7jEDWuxDekyOZvKj) | 4:09 | 2022-07-07 | 2022-07-16 |
 | [Aethukkoa \(From "Shamshera"\) \- Tamil Version](https://open.spotify.com/track/3GWD2CjiECmR52OJPo0s7i) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB) | [Aethukkoa \(From "Shamshera"\) \- Tamil Version](https://open.spotify.com/album/7wAHpF9Mgp22pFmML1pL2Z) | 4:09 | 2022-06-29 | 2022-07-19 |
+| [Aga Naga \(From “Ponniyin Selvan Part\-2”\)](https://open.spotify.com/track/4oUn3DozNxFnjxegR1GlkZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Aga Naga \(From “Ponniyin Selvan Part\-2”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5A576slaUQhlCvNZtWynEX) | 4:03 | 2023-03-20 |  |
 | [Agilam Nee \(From "Kgf Chapter 2"\)](https://open.spotify.com/track/6C9oDGZOChcREVUiu6kRcR) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Agilam Nee \(From "Kgf Chapter 2"\)](https://open.spotify.com/album/1oxBgCDjNLvXKznlsVyBhZ) | 2:51 | 2022-04-06 | 2022-07-12 |
 | [Aiyo \- From "Think Indie"](https://open.spotify.com/track/7mNB1MALEoRd6VrDjJktFI) | [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx) | [Aiyo \(From "Think Indie"\)](https://open.spotify.com/album/4iSiDRfGh96CxLNSMFMoi2) | 4:00 | 2023-02-13 | 2023-03-04 |
 | [Akdi Pakdi \(Tamil\) \[From "Liger \(Tamil\)"\]](https://open.spotify.com/track/6NGhHNsNBccDjXCrLhBBgz) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Sunil Kashyap](https://open.spotify.com/artist/4ZTli8xiH8txCfWJtulNXQ), [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Akdi Pakdi \(Tamil\) \[From "Liger \(Tamil\)"\]](https://open.spotify.com/album/3TyO0ZiBeUnaGiyGzHsvek) | 3:50 | 2022-07-11 | 2022-09-23 |

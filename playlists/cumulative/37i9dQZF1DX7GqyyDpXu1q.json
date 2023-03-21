@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Lost in the Valley of Hate & Love Vol. I",
+        "url": "https://open.spotify.com/album/66FdUWpsGaziwlkZivqOUP"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258581,
+      "name": "Ain't No Need",
+      "url": "https://open.spotify.com/track/2kpYpvDn6mYERIUqIrFSb9"
+    },
+    {
+      "album": {
         "name": "Ain't No Need",
         "url": "https://open.spotify.com/album/2f1WE56CRY8UddaiXoYvFb"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 258581,
       "name": "Ain't No Need",
       "url": "https://open.spotify.com/track/5iPzaDpKReF3XqdmFvpwaU"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 192673,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0dmJKXSpzkNbxnoCJDJ1ZV"
@@ -1242,6 +1260,24 @@
       "duration_ms": 192673,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1wsUe3xzuhB5FB8HpFvZjA"
+    },
+    {
+      "album": {
+        "name": "Lost in the Valley of Hate & Love Vol. I",
+        "url": "https://open.spotify.com/album/66FdUWpsGaziwlkZivqOUP"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192673,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/3A7HkIU9cVYrT5ZopIxH09"
     },
     {
       "album": {

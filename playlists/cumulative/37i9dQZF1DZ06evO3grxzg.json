@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Viaje A La Luz (De \"M\u00e1s All\u00e1 De La Luna\" Soundtrack)",
+        "url": "https://open.spotify.com/album/29hfMCh9vKqYakjav3UU4Y"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137413,
+      "name": "Viaje A La Luz",
+      "url": "https://open.spotify.com/track/7mQbHLZzQLP1kD3cOiAlMJ"
+    },
+    {
+      "album": {
         "name": "Vuelve, Vuelve",
         "url": "https://open.spotify.com/album/4xTMKZ0p01gSgO0YW5aJud"
       },

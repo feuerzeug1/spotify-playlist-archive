@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: LũpḁGangGang
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,248 likes - 98 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,249 likes - 98 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 12 | [Solace In Solitude](https://open.spotify.com/track/1lc91yToT1IMkmcJ6TzFXd) | [Profound Observer](https://open.spotify.com/artist/0dvxvZTqgUjgROTCBoF4NR) | [Solace In Solitude](https://open.spotify.com/album/6ciVgd0syuPG2hOzA3wu6P) | 5:48 |
 | 13 | [Dag Na Naamdag](https://open.spotify.com/track/6sF5HnGQraBYRwZLsTJQG7) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Coaxial](https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6) | 4:45 |
 | 14 | [Pickles](https://open.spotify.com/track/4Lu7Igq9s2nQ0af1RGqNfo) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Mixmaster Menno](https://open.spotify.com/artist/11sBV4HVBIdqHEV8oMOQIS) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 5:03 |
-| 15 | [Candy](https://open.spotify.com/track/30nOmimeRq4Nii8VSK4faT) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Time Faded](https://open.spotify.com/album/4hcyzkUSY9tpmjnVLJpTHr) | 4:00 |
+| 15 | [Candy](https://open.spotify.com/track/5S0woVYkJa3e4vU3By6MIM) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Dopamine Overdose](https://open.spotify.com/album/6ZalNPvkWelPjhB4NaV5RL) | 4:00 |
 | 16 | [How We'll Meet Tonight ?](https://open.spotify.com/track/3ao50dH6fEGQXKgZBlpQL1) | [WITVROUW](https://open.spotify.com/artist/2VkgYHdG7g57sHOZpEAy8x) | [WITVROUW](https://open.spotify.com/album/6oupqzhjk5i8ZZR7ISlgvd) | 7:30 |
 | 17 | [Quanked](https://open.spotify.com/track/4ScsbA64TjlH2szHkAW8Kz) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:02 |
 | 18 | [Palm](https://open.spotify.com/track/38ziPejDZl6scCf5FpX5pt) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [6](https://open.spotify.com/album/1blPxSk5fILBbLVUdaXu53) | 7:35 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 97 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 |
 | 98 | [Drops](https://open.spotify.com/track/3awFJqol6x36gdU7I0p8vw) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Maxime Delpierre](https://open.spotify.com/artist/7IHLrjSlSFup9A50WSJkRO) | [Drops & Points](https://open.spotify.com/album/2KKXVzr8i0J2oGKFMvKz60) | 5:33 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDUwNTNmZDg4MTQ3YTM3MDU0NDkwZDAzNjA0N2Y5YWIx`
+Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDU0NmQwYTFmNjJkM2FiYmIzNmM4OGQ3NjUxODI1MjE0`

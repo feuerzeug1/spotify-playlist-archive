@@ -4123,6 +4123,28 @@
     },
     {
       "album": {
+        "name": "Kingslayer",
+        "url": "https://open.spotify.com/album/7uAVQn7dKdmZSqk3Lu47g8"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "RIENK",
+          "url": "https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Kingslayer",
+      "url": "https://open.spotify.com/track/2xYI4GVeC4SUaNsx9HIUJ1"
+    },
+    {
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n"
       },

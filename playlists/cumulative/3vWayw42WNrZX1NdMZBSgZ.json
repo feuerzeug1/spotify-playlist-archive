@@ -1553,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "Condenao",
+        "url": "https://open.spotify.com/album/0mXcfPWbOSFd6lBTUu8zmC"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "G.Zamora",
+          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Condenao",
+      "url": "https://open.spotify.com/track/37qL6CKrmLqURQxkGUxURc"
+    },
+    {
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/6aliVhXmEKLUNe6SzwSJac"
       },

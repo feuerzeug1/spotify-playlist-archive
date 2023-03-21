@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 194373,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/1uE7Gln68v4duncYy4QgQm"
@@ -280,6 +280,28 @@
       "duration_ms": 241852,
       "name": "Ana Negm",
       "url": "https://open.spotify.com/track/6CU68VwcV10VfulVQMfj3X"
+    },
+    {
+      "album": {
+        "name": "Ana Qader From Gafar El Omda Series",
+        "url": "https://open.spotify.com/album/6McyOWAOJs2fdzAA3NgZp1"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        },
+        {
+          "name": "Hesham El Gakh",
+          "url": "https://open.spotify.com/artist/0u4oTPQ4k14CO5TUqKduUK"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Ana Qader From Gafar El Omda Series",
+      "url": "https://open.spotify.com/track/0xIbsBFRTZoNfg54EAYHoN"
     },
     {
       "album": {
@@ -1777,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Ramadan Fi Masr Haja Taniah",
+        "url": "https://open.spotify.com/album/0oSVE8rcu8adMS2Rd0qZiE"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Ramadan Fi Masr Haja Taniah",
+      "url": "https://open.spotify.com/track/3Ro4duVEwWgCyCRH4e4NWh"
+    },
+    {
+      "album": {
         "name": "Rased El Satr",
         "url": "https://open.spotify.com/album/2tkDEznir270fP93uND9k1"
       },
@@ -1824,10 +1864,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 586866,
       "name": "Rmdan Gana",
       "url": "https://open.spotify.com/track/6jUCTPPX5VAEFaiQl75xel"
+    },
+    {
+      "album": {
+        "name": "Saaban Aleky",
+        "url": "https://open.spotify.com/album/25ytJTSmL4SGHrXlL7IoZ5"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290909,
+      "name": "Saaban Aleky",
+      "url": "https://open.spotify.com/track/1PvZPBCLn5pvAGec12ZlDV"
     },
     {
       "album": {
@@ -2702,7 +2760,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 250540,
       "name": "\u062c\u0648\u0628",
       "url": "https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ"

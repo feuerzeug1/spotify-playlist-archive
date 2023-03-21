@@ -2,7 +2,7 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> Maks: "Oké jij wilt vies nou ik zal je wat vertellen\. Zij heeft dyscalculie dus is niet zo goed in tellen."
+> Viraal gaan is ook gaan! \#Hollands "Ik weet nu dat er een Engelbewaarder bestaat"\. Cover: Marco Schuitmaker
 
 85 songs - 4 hr 12 min
 

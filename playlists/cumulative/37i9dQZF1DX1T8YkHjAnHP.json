@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/3kVuuASjIPzf7qHMus6qRP"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/7gSkM5Q3rqCoxo0lNDyKLw"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/2tP0kTgAwmBAt4zkWbFQ8g"
       },
@@ -104,7 +122,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 531977,
       "name": "April",
       "url": "https://open.spotify.com/track/2CfAxVNSrruS7BcbqDWOuL"
@@ -477,6 +495,40 @@
     },
     {
       "album": {
+        "name": "Diplo (Life and Death Remixes)",
+        "url": "https://open.spotify.com/album/2upODwjr88W3EhHghbEtDv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Damian Lazarus",
+          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+        },
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232279,
+      "name": "Don't Be Afraid - DJ Tennis & Carlita Remix",
+      "url": "https://open.spotify.com/track/6Vu7uVbGQBCR5S051RPEEF"
+    },
+    {
+      "album": {
         "name": "Duma (Radio Edit)",
         "url": "https://open.spotify.com/album/1mipzZyPS3Z6bhO5VIgXBO"
       },
@@ -496,6 +548,32 @@
       "duration_ms": 199375,
       "name": "Duma - Radio Edit",
       "url": "https://open.spotify.com/track/2IEeAoSJiLCpgs05oTqqfn"
+    },
+    {
+      "album": {
+        "name": "El Ritmo",
+        "url": "https://open.spotify.com/album/6WC6gMPKsJmo0o3llDior4"
+      },
+      "artists": [
+        {
+          "name": "Vega & Romero",
+          "url": "https://open.spotify.com/artist/1u85J5Rjr9IdCbpVsjlDdd"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215160,
+      "name": "El Ritmo",
+      "url": "https://open.spotify.com/track/2eeF2Q5xKEQznlQqQ8pWDo"
     },
     {
       "album": {
@@ -582,7 +660,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 408661,
       "name": "Fluir",
       "url": "https://open.spotify.com/track/1Mqy114Ipmbj4HkS1FsnyN"
@@ -665,6 +743,28 @@
     },
     {
       "album": {
+        "name": "Horizon Red",
+        "url": "https://open.spotify.com/album/5UAkI4o2tcyvoISpG0s9Wb"
+      },
+      "artists": [
+        {
+          "name": "Made By Pete",
+          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
+        },
+        {
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259672,
+      "name": "Horizon Red",
+      "url": "https://open.spotify.com/track/0PgOKL49AVmYzcdPCwpwng"
+    },
+    {
+      "album": {
         "name": "Bring The Night",
         "url": "https://open.spotify.com/album/71lm6YSJL1UevPxS6lND8a"
       },
@@ -680,6 +780,28 @@
       "duration_ms": 317493,
       "name": "I Found U - Classic Mix",
       "url": "https://open.spotify.com/track/4ZnrkvpMAKNvT4ynKrxKKa"
+    },
+    {
+      "album": {
+        "name": "In My Room (feat. SHELLS)",
+        "url": "https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145872,
+      "name": "In My Room (feat. SHELLS)",
+      "url": "https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy"
     },
     {
       "album": {
@@ -953,6 +1075,32 @@
     },
     {
       "album": {
+        "name": "Balsame Remixes",
+        "url": "https://open.spotify.com/album/5jcS2BaMRrM7ZPo6pXIX1z"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Meta_",
+          "url": "https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J"
+        },
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343951,
+      "name": "Mujer - Anja Schneider Remix",
+      "url": "https://open.spotify.com/track/2ghtRwumqvKue1kmniTzat"
+    },
+    {
+      "album": {
         "name": "Crosstown Rebels present SPIRITS V",
         "url": "https://open.spotify.com/album/6kUi8My9hXd03XCvvSnxXF"
       },
@@ -1204,7 +1352,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 420000,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/2gwuSWS7Yh7At0MsT2w3Fj"
@@ -1244,7 +1392,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 416000,
       "name": "Reebab",
       "url": "https://open.spotify.com/track/6EeGyKzn07BfXwT9B9gknz"
@@ -1266,7 +1414,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 199680,
       "name": "Rendez-Vu - Marco Lys Remix - Edit",
       "url": "https://open.spotify.com/track/2fUkcyLhxm8AVT4v7vsjlI"
@@ -1425,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "Remix Crusades (2007-2013)",
+        "url": "https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A"
+      },
+      "artists": [
+        {
+          "name": "Kasper Bj\u00f8rke",
+          "url": "https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp"
+        },
+        {
+          "name": "Mano Le Tough",
+          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "Symptoms - Mano Le Tough Remix",
+      "url": "https://open.spotify.com/track/6XeXUKDf0GmuGPfTFEh9zF"
+    },
+    {
+      "album": {
         "name": "Telling Me Something EP",
         "url": "https://open.spotify.com/album/6G1JfqlVxSeUgAmF6tdjPk"
       },
@@ -1440,6 +1610,28 @@
       "duration_ms": 474979,
       "name": "Telling Me Something",
       "url": "https://open.spotify.com/track/2BT03uRNeofELzCkSfROay"
+    },
+    {
+      "album": {
+        "name": "Terra Rasgada (Santiago Garcia Remix)",
+        "url": "https://open.spotify.com/album/7kFv48dGaYfsVwpzBfVOWN"
+      },
+      "artists": [
+        {
+          "name": "Embatucadores",
+          "url": "https://open.spotify.com/artist/26WcldLimxcEG1SkHgP3ky"
+        },
+        {
+          "name": "Santiago Garcia",
+          "url": "https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384062,
+      "name": "Terra Rasgada - Santiago Garcia Remix",
+      "url": "https://open.spotify.com/track/0pmAFbgm9YdB1teCoD8yY2"
     },
     {
       "album": {
@@ -1538,6 +1730,24 @@
       "duration_ms": 421027,
       "name": "Two Zulu Men In Ibiza",
       "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
+    },
+    {
+      "album": {
+        "name": "Una Pena",
+        "url": "https://open.spotify.com/album/4KHVqwTF2jO1gTYHATQVMM"
+      },
+      "artists": [
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485124,
+      "name": "UNA PENA - ORGINAL",
+      "url": "https://open.spotify.com/track/0KD97PT97Qi2a7Zuq2gJkL"
     },
     {
       "album": {
@@ -1654,6 +1864,50 @@
       "duration_ms": 390476,
       "name": "We Will Forgive Ourselves - MK Dub",
       "url": "https://open.spotify.com/track/1iZtXObHD0IQjLF8iIto11"
+    },
+    {
+      "album": {
+        "name": "What Else Is There?",
+        "url": "https://open.spotify.com/album/33BQGwywIquZMN26cozXnl"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462373,
+      "name": "What Else Is There? - Trentemoller Remix",
+      "url": "https://open.spotify.com/track/2eUomofxqu973hHJJuIj51"
+    },
+    {
+      "album": {
+        "name": "Send Return",
+        "url": "https://open.spotify.com/album/3EIYsOioUOBlxSf2tMpGsU"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403505,
+      "name": "What You Expected",
+      "url": "https://open.spotify.com/track/5dVNX4bu0pQImyIcsodydt"
     },
     {
       "album": {

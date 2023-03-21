@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsoHwrXiG4q.md) - [plain]
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,131 likes - 63 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,189 likes - 63 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsoHwrXiG4q.md) - [plain]
 | 9 | [Gift of mine](https://open.spotify.com/track/6wrLBtrQ31FUBh4vYIya95) | [Dan Guidance](https://open.spotify.com/artist/7hyHqP7jOnuLTxY8mHNKzL), [Echo Motion](https://open.spotify.com/artist/729SCkKQ3GmcAE3xaqLQec) | [Aperture EP](https://open.spotify.com/album/0XH4qOQY0OJ57DJWPEmGHo) | 5:02 |
 | 10 | [Mr Right On \- Remastered](https://open.spotify.com/track/0oQDVQygGLhYhEUTb15XjP) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Carry Me Away / Mr Right On](https://open.spotify.com/album/7qgQhIJD5TtcmpCmT0NOaj) | 5:19 |
 | 11 | [Trick of The Light](https://open.spotify.com/track/3gwF8qFu0bx2jUUPaicymE) | [Tokyo Prose](https://open.spotify.com/artist/361kscBTEw82NTOFS8hq0D) | [Wild Grace](https://open.spotify.com/album/3h7IZ3GzubFZhAzDcx5kE9) | 5:36 |
-| 12 | [Losing my soul](https://open.spotify.com/track/0UMr7sXDttPzFG1qVuTIBs) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Modern Soul 3 LP](https://open.spotify.com/album/69uFpVWTZxpdz9BTHRwFcv) | 5:14 |
+| 12 | [Losing my soul \- Original Mix](https://open.spotify.com/track/0UMr7sXDttPzFG1qVuTIBs) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Modern Soul 3 LP](https://open.spotify.com/album/69uFpVWTZxpdz9BTHRwFcv) | 5:14 |
 | 13 | [Only Ever Kind](https://open.spotify.com/track/03hCREcMFPPTcEUE8slTUX) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Deep News](https://open.spotify.com/album/5Eczut7zUztAYsibkrIFE6) | 4:58 |
 | 14 | [Leave](https://open.spotify.com/track/4G74xnV7PxsFIp2gjIspNo) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Shelflife 5](https://open.spotify.com/album/56V1KL4fYyq4Ju8eF6gqQ7) | 5:58 |
 | 15 | [Is This Real \- Zero T Remix](https://open.spotify.com/track/2ODdEGZJBLq3MtuYyLacDn) | [Artificial Intelligence](https://open.spotify.com/artist/3dfQn1ijJNptfREJB2rRd2), [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [Timeline Remixed \- EP](https://open.spotify.com/album/3TRNq1aSAYrX2lVaWPGKMv) | 4:51 |

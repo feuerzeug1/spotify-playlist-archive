@@ -1,12 +1,12 @@
 {
   "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
-  "num_followers": 7834,
+  "num_followers": 7853,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGY4MzNlZDJjMTA5YmQ0MDViNDE2Zjc0NWU5ZTg0MTI0",
+  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGJmY2ZmMzQ0NjU4Yjk5Zjk2ZjFkMmQwYzA2YjRkOTUx",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -259,38 +259,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -315,6 +283,22 @@
       "duration_ms": 217973,
       "name": "Sk\u00e1pate",
       "url": "https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -367,8 +351,8 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
       "artists": [
         {
@@ -376,25 +360,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -439,18 +407,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -471,6 +439,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Lucha Rock",
         "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
       },
@@ -483,26 +467,6 @@
       "duration_ms": 223013,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
-        }
-      ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -523,18 +487,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -551,6 +515,26 @@
       "duration_ms": 237346,
       "name": "Fantasma de la Rana",
       "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+    },
+    {
+      "added_at": "2023-02-03 20:52:12",
+      "album": {
+        "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Cesar Franco",
+          "url": "https://open.spotify.com/artist/0jPN4FO3F86pPyoa4Pyd3w"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "Mi Coraz\u00f3n Encantado",
+      "url": "https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -593,24 +577,40 @@
       "url": "https://open.spotify.com/track/52Ocbi72eRBWUpE4gYK6PQ"
     },
     {
-      "added_at": "2023-02-03 20:52:12",
+      "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         },
         {
-          "name": "Cesar Franco",
-          "url": "https://open.spotify.com/artist/0jPN4FO3F86pPyoa4Pyd3w"
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
         }
       ],
-      "duration_ms": 238013,
-      "name": "Mi Coraz\u00f3n Encantado",
-      "url": "https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH"
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -627,22 +627,6 @@
       "duration_ms": 189480,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Unidad, Cerveza y Ska",
-        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "No Piensa En Ti",
-      "url": "https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -699,6 +683,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Unidad, Cerveza y Ska",
+        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "No Piensa En Ti",
+      "url": "https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Mejores Tiempos",
         "url": "https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Flores para los Muertos",
-        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Nada Que Perder",
-      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "The Maskatonians All Stars And Friends",
         "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 190933,
       "name": "La Trucha Capirucha",
       "url": "https://open.spotify.com/track/21JGSiGVqtQHQskfnGcKST"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Flores para los Muertos",
+        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Nada Que Perder",
+      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Armada Hasta los Dientes V 1.5",
-        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 132146,
-      "name": "Nana Punk",
-      "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -965,6 +949,22 @@
       "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
     },
     {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Armada Hasta los Dientes V 1.5",
+        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 132146,
+      "name": "Nana Punk",
+      "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
+    },
+    {
       "added_at": "2023-02-03 20:52:12",
       "album": {
         "name": "Invasion",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/4AO65tvVdVNVUwH3TSt4Az"
     },
     {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Piel De Banqueta",
-        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "Esperges\u00eda",
-      "url": "https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1"
-    },
-    {
       "added_at": "2022-03-18 06:00:00",
       "album": {
         "name": "La Rebeli\u00f3n",
@@ -1011,6 +995,38 @@
       "duration_ms": 271301,
       "name": "Y la Recuerdo de Ayer",
       "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Sonora Skandalera",
+        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+      },
+      "artists": [
+        {
+          "name": "Sonora Skandalera",
+          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Piel De Banqueta",
+        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "Esperges\u00eda",
+      "url": "https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1"
     },
     {
       "added_at": "2023-02-03 20:52:12",
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Sonora Skandalera",
-        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+        "name": "Vatos Rudos Forever! (1994-2014)",
+        "url": "https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt"
       },
       "artists": [
         {
-          "name": "Sonora Skandalera",
-          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+          "name": "Los Skarnales",
+          "url": "https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ"
+      "duration_ms": 210320,
+      "name": "Rudy Rude Boy",
+      "url": "https://open.spotify.com/track/0knRFhZtR19PH5qteuV778"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 236840,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Vatos Rudos Forever! (1994-2014)",
-        "url": "https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt"
-      },
-      "artists": [
-        {
-          "name": "Los Skarnales",
-          "url": "https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Rudy Rude Boy",
-      "url": "https://open.spotify.com/track/0knRFhZtR19PH5qteuV778"
     },
     {
       "added_at": "2023-02-03 20:52:12",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj"
     },
     {
-      "added_at": "2023-02-03 20:52:12",
-      "album": {
-        "name": "La Ciudad Es...Nuestra",
-        "url": "https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz"
-      },
-      "artists": [
-        {
-          "name": "Los Chickl\u00e9ts",
-          "url": "https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp"
-        }
-      ],
-      "duration_ms": 60033,
-      "name": "Skarface",
-      "url": "https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl"
-    },
-    {
       "added_at": "2022-03-18 06:00:00",
       "album": {
         "name": "Frecuencia Rebelde",
@@ -1155,6 +1139,22 @@
       "duration_ms": 217800,
       "name": "Ni un paso atras",
       "url": "https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F"
+    },
+    {
+      "added_at": "2023-02-03 20:52:12",
+      "album": {
+        "name": "La Ciudad Es...Nuestra",
+        "url": "https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz"
+      },
+      "artists": [
+        {
+          "name": "Los Chickl\u00e9ts",
+          "url": "https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp"
+        }
+      ],
+      "duration_ms": 60033,
+      "name": "Skarface",
+      "url": "https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1289,6 +1289,22 @@
       "url": "https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH"
     },
     {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Frente al Mar",
+        "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "duration_ms": 304172,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
+    },
+    {
       "added_at": "2023-02-24 06:00:00",
       "album": {
         "name": "Buena Vibra Social Sound, Vol. 1",
@@ -1337,40 +1353,20 @@
       "url": "https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG"
     },
     {
-      "added_at": "2022-03-18 06:00:00",
+      "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Classic's Ska",
-        "url": "https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj"
+        "name": "La Kruda Realidad",
+        "url": "https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda"
       },
       "artists": [
         {
-          "name": "Pachecos Orchestra",
-          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
-        },
-        {
-          "name": "Betania L\u00f3pez",
-          "url": "https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL"
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
         }
       ],
-      "duration_ms": 253270,
-      "name": "No Insistas M\u00e1s",
-      "url": "https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Frente al Mar",
-        "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
-      },
-      "artists": [
-        {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
-        }
-      ],
-      "duration_ms": 304172,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
+      "duration_ms": 198226,
+      "name": "Lejos Otra Vez",
+      "url": "https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1389,20 +1385,24 @@
       "url": "https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy"
     },
     {
-      "added_at": "2023-02-24 06:00:00",
+      "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "La Kruda Realidad",
-        "url": "https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda"
+        "name": "Classic's Ska",
+        "url": "https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj"
       },
       "artists": [
         {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
+          "name": "Pachecos Orchestra",
+          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
+        },
+        {
+          "name": "Betania L\u00f3pez",
+          "url": "https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL"
         }
       ],
-      "duration_ms": 198226,
-      "name": "Lejos Otra Vez",
-      "url": "https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG"
+      "duration_ms": 253270,
+      "name": "No Insistas M\u00e1s",
+      "url": "https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz"
     },
     {
       "added_at": "2022-03-18 06:00:00",

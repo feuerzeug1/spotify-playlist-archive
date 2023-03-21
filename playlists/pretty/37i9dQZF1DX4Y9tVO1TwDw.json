@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Estevie",
-  "num_followers": 19146,
+  "num_followers": 19149,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzI3MCwwMDAwMDAwMGUxYzE0ZWRiMTBlMzM3NzI2YWNkYjZhNzM5MTA1ZjY3",
+  "snapshot_id": "MTY3OTAzMzI3MCwwMDAwMDAwMGU3OWRjYWZlNTcwYTRkNDE4YzY3ZTExZTVkOGMzYjAx",
   "tracks": [
     {
       "added_at": "2023-03-17 05:21:31",
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/56XRdqcXlIquG1BZuirDel"
     },
     {
-      "added_at": "2023-03-20 00:51:21",
+      "added_at": "2023-03-21 00:50:09",
       "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/0jdlWpht7OheUR2kvWWPlA"
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+    },
+    {
+      "added_at": "2023-03-17 05:21:31",
+      "album": {
         "name": "dale Play",
         "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
@@ -383,34 +399,18 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+        "name": "Cambio De Canci\u00f3n",
+        "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
         }
       ],
-      "duration_ms": 172748,
-      "name": "Mi Vecindario",
-      "url": "https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm"
-    },
-    {
-      "added_at": "2023-03-17 05:21:31",
-      "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 160880,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+      "duration_ms": 169548,
+      "name": "Cambio De Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "Cambio De Canci\u00f3n",
-        "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
       "artists": [
         {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 169548,
-      "name": "Cambio De Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
+      "duration_ms": 172748,
+      "name": "Mi Vecindario",
+      "url": "https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
-      },
-      "artists": [
-        {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
-    },
-    {
-      "added_at": "2023-03-17 05:21:31",
-      "album": {
         "name": "Tu Labial",
         "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 227018,
       "name": "Tu Labial",
       "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
+    },
+    {
+      "added_at": "2023-03-17 05:21:31",
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        }
+      ],
+      "duration_ms": 164770,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "La Cancion",
-        "url": "https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c"
+        "name": "Sexo Sin Drama",
+        "url": "https://open.spotify.com/album/2ndDGHFi69bEujXAftA959"
       },
       "artists": [
         {
-          "name": "Omar Rodriguez",
-          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+          "name": "Digiannia",
+          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
         }
       ],
-      "duration_ms": 205600,
-      "name": "La Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR"
+      "duration_ms": 142216,
+      "name": "Sexo Sin Drama",
+      "url": "https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "Sexo Sin Drama",
-        "url": "https://open.spotify.com/album/2ndDGHFi69bEujXAftA959"
+        "name": "La Cancion",
+        "url": "https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c"
       },
       "artists": [
         {
-          "name": "Digiannia",
-          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
         }
       ],
-      "duration_ms": 142216,
-      "name": "Sexo Sin Drama",
-      "url": "https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw"
+      "duration_ms": 205600,
+      "name": "La Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
+        "name": "La Ingenua",
+        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
+      },
+      "artists": [
+        {
+          "name": "La Cassandra",
+          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
+        }
+      ],
+      "duration_ms": 217072,
+      "name": "La Ingenua",
+      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
+    },
+    {
+      "added_at": "2023-03-17 05:21:31",
+      "album": {
         "name": "\u00bfD\u00f3nde?",
         "url": "https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "La Ingenua",
-        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
+        "name": "Mares\u00eda",
+        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
       },
       "artists": [
         {
-          "name": "La Cassandra",
-          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
         }
       ],
-      "duration_ms": 217072,
-      "name": "La Ingenua",
-      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
+      "duration_ms": 211169,
+      "name": "Mares\u00eda",
+      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -975,22 +991,6 @@
       "duration_ms": 146102,
       "name": "9pm",
       "url": "https://open.spotify.com/track/3aGcPlMBBA7t0UTRgfYGNX"
-    },
-    {
-      "added_at": "2023-03-17 05:21:31",
-      "album": {
-        "name": "Mares\u00eda",
-        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        }
-      ],
-      "duration_ms": 211169,
-      "name": "Mares\u00eda",
-      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 212516,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/0e69hMJTwnCTA83HNyaSKx"
-    },
-    {
-      "added_at": "2023-03-17 05:21:31",
-      "album": {
         "name": "Atmosf\u00e9rica",
         "url": "https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 237737,
       "name": "Atmosf\u00e9rica",
       "url": "https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz"
+    },
+    {
+      "added_at": "2023-03-17 05:21:31",
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 212516,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/0e69hMJTwnCTA83HNyaSKx"
     },
     {
       "added_at": "2023-03-17 05:21:31",

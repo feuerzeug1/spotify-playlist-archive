@@ -3405,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Harsa",
+        "url": "https://open.spotify.com/album/52TFBADvgZIXGoLIoTs4z6"
+      },
+      "artists": [
+        {
+          "name": "Blake Hollow",
+          "url": "https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124474,
+      "name": "Harsa",
+      "url": "https://open.spotify.com/track/4ynhellTDGYbADxBswSGAS"
+    },
+    {
+      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7"
       },
@@ -6523,6 +6541,24 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5Dr6zag6df7IHjji2HvENW"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Nucci",
+          "url": "https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/4VZoLMNvL4gqfMQdtwo0pC"
+    },
+    {
+      "album": {
         "name": "Peaceful Rebellion",
         "url": "https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI"
       },
@@ -8652,6 +8688,24 @@
       "duration_ms": 165000,
       "name": "Still Water",
       "url": "https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI"
+    },
+    {
+      "album": {
+        "name": "Stj\u00e4rn\u00f6ga",
+        "url": "https://open.spotify.com/album/2DyGHcs004UG9Wc5AQsljD"
+      },
+      "artists": [
+        {
+          "name": "Noah Hart",
+          "url": "https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191279,
+      "name": "Stj\u00e4rn\u00f6ga",
+      "url": "https://open.spotify.com/track/2bKFD7mAcSDQvtAV08VXv1"
     },
     {
       "album": {

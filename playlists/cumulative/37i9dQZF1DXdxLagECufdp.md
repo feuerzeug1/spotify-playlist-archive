@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-145 songs - 9 hr 18 min
+146 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Georgian Lessons 1\-6](https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2) | [BalkanBeats Soundlab](https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y) | 3:41 | 2023-01-07 |  |
 | [Gitanas Mojadas](https://open.spotify.com/track/1UNkCY2v2hOUeoiJZMtX6C) | [Polka Madre](https://open.spotify.com/artist/0mQaCZUXORP5789FFfzDP8) | [Casa Dónde](https://open.spotify.com/album/7kfblvYGIlfBbetr0aZYFA) | 2:54 | 2021-09-10 | 2022-07-29 |
 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 | 2021-09-10 | 2023-01-07 |
+| [Gypsie Doodle \- Live](https://open.spotify.com/track/629f1Dy6T4NtcoHalprl6c) | [Analogik](https://open.spotify.com/artist/25czOabAkMaqDEMiIgrTXh) | [Klunserbeats Live](https://open.spotify.com/album/4OfxTH08O6sUb7Dk3ucFGs) | 3:29 | 2023-01-07 |  |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-09-10 |  |
 | [Hasta el Amanecer \(feat\. Gina Bustamante\)](https://open.spotify.com/track/733JqA2OMB1g4rmCMlqfXn) | [Los Kamer](https://open.spotify.com/artist/6Zsa6YJUpv57fOESdkQQ8M), [Gina Bustamante](https://open.spotify.com/artist/7bDkjZt8lmtgqoxAIDjsFJ) | [Los Kamer](https://open.spotify.com/album/2sQBMrJchTauZdl0228rBm) | 4:55 | 2021-09-10 | 2022-07-27 |
 | [Hurry Up](https://open.spotify.com/track/55IgT3P3jYAbvnNcQgMUH9) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [Colección Dorada \(Vol\. I\)](https://open.spotify.com/album/6JzeapBSMrUsjGZDgSCsyc) | 2:46 | 2021-09-10 | 2022-07-29 |
@@ -119,7 +120,7 @@
 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/701VW4sjPM6NNyvgQiAUDX) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Pa' Bailar](https://open.spotify.com/album/5s5UhYWKiVH8o5GLmCVKDF) | 3:38 | 2021-09-10 | 2022-07-29 |
 | [Padam Padam](https://open.spotify.com/track/4LMjiB1lKCOwVMwMw9ecXe) | [Carte Blanche](https://open.spotify.com/artist/4gOHHRs5KgFVxwZBW0sZK7) | [Carte Blanche](https://open.spotify.com/album/5r10XYBTlosImiqo24TP7X) | 2:59 | 2021-09-10 | 2022-07-29 |
 | [Palinka](https://open.spotify.com/track/5A4bNWDzBFd6cfGrREE2Fo) | [Lemon Bucket Orkestra](https://open.spotify.com/artist/6GWO9W0sGGhCFEXPNt1w21), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [If I Had The Strength](https://open.spotify.com/album/27oG7yQMyxzz5p40ZwDjgb) | 4:16 | 2021-09-10 | 2022-07-29 |
-| [Papa Chajes](https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Katla](https://open.spotify.com/album/5B59wDL9L6PQxsWWnYtrk9) | 3:09 | 2023-01-07 |  |
+| [Papa Chajes](https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Katla](https://open.spotify.com/album/5B59wDL9L6PQxsWWnYtrk9) | 3:09 | 2023-01-07 | 2023-03-21 |
 | [Para Olvidarte](https://open.spotify.com/track/4zqtjs0gntUiyOwJ2XwGRa) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Para Olvidarte](https://open.spotify.com/album/7LJJlpLzQTBQ0wjMopDN81) | 4:04 | 2021-09-10 | 2022-07-29 |
 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 | 2022-02-25 | 2022-09-03 |
 | [Parla più piano \(Love Theme from "The Godfather"\)](https://open.spotify.com/track/4vs7AkZvFE3T87rdfQEvVA) | [The Speakeasies' Swing Band!](https://open.spotify.com/artist/1oUi6Bbik9rnyUtnQUnC2g) | [Land of Plenty](https://open.spotify.com/album/2R4Nkyigz44hJbVd004zhS) | 4:51 | 2021-09-10 |  |

@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-1,414 songs - 2 day 6 hr 32 min
+1,415 songs - 2 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Brainwaves](https://open.spotify.com/track/1upsUbZSRONTmWYq8iXTvR) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Brainwaves](https://open.spotify.com/album/337H8IQR3KiJLmdFTaX8T4) | 2:31 | 2023-03-08 |  |
 | [Brandy & Apple Juice](https://open.spotify.com/track/24HZpLFRijvJawsS7Vthud) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Brandy & Apple Juice](https://open.spotify.com/album/42YfWVfh7I3fuUvvlQGN99) | 4:09 | 2021-12-07 | 2023-02-18 |
 | [Bravado](https://open.spotify.com/track/7sBADAbyjri5eDaU8qtCOK) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Feeling Something](https://open.spotify.com/album/4NQa8HcFQvWCheoZlMzMAc) | 2:07 | 2021-12-07 | 2022-07-22 |
+| [Breakfast at the diner](https://open.spotify.com/track/5zN5hcMJSTyJyp9JjH33Q8) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Breakfast at the diner](https://open.spotify.com/album/3TyHScGdUwyaVMvpxuUxc4) | 2:17 | 2023-03-20 |  |
 | [breathe](https://open.spotify.com/track/1VpoopLMXHk9Y0RGtJj6O7) | [commonbeats](https://open.spotify.com/artist/00LuMIocV08ovp4ri9z6lb) | [breathe](https://open.spotify.com/album/0VfKsKB9Ain4hpdWRsTyjd) | 2:44 | 2022-06-24 | 2022-07-22 |
 | [Breathe](https://open.spotify.com/track/4LV607jnw7Q68xf6dH9I9V) | [Suede Wallet](https://open.spotify.com/artist/2oTCWOKOMia5kg2jep7nKY) | [Breathe](https://open.spotify.com/album/37s7GuBuGkle8nICwUlDxC) | 2:11 | 2022-06-10 | 2022-08-12 |
 | [Breeze](https://open.spotify.com/track/2uV6rwsq72mgVB6zmBe0Kd) | [seekx](https://open.spotify.com/artist/08ugVajzIjHOiJ7SHCMYXJ) | [Breeze](https://open.spotify.com/album/7i171yy9Th7H0yUKBj2xqP) | 2:27 | 2022-11-11 |  |

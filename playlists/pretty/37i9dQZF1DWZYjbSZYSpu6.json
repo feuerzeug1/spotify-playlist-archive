@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Chuu & KIM YOHAN)",
-  "num_followers": 382589,
+  "num_followers": 382717,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxMTE2NSwwMDAwMDAwMGQ5YzYyOTJiNWE3ZDZjNDQ3NTA4ZWJmNDEwYWFjODlj",
+  "snapshot_id": "MTY3NzIxMTE2NSwwMDAwMDAwMDQ4ZjZhMGFkODg2MjZlZjkxMjc1OWY3MWUyMjI1YmZi",
   "tracks": [
     {
       "added_at": "2023-01-25 07:51:52",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-01-25 07:51:52",
       "album": {
-        "name": "Modern Times \u2013 Epilogue",
-        "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "Jang Yi-jeong",
-          "url": "https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Friday (feat.Jang Yi-jeong)",
-      "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
-    },
-    {
-      "added_at": "2023-01-25 07:51:52",
-      "album": {
         "name": "Querencia",
         "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 219106,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "added_at": "2023-01-25 07:51:52",
+      "album": {
+        "name": "Modern Times \u2013 Epilogue",
+        "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "Jang Yi-jeong",
+          "url": "https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F"
+        }
+      ],
+      "duration_ms": 217129,
+      "name": "Friday (feat.Jang Yi-jeong)",
+      "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
     },
     {
       "added_at": "2023-01-25 07:51:52",
@@ -623,46 +623,6 @@
     {
       "added_at": "2023-01-25 07:51:52",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Troll (Feat. DEAN)",
-      "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
-    },
-    {
-      "added_at": "2023-01-25 07:51:52",
-      "album": {
-        "name": "homemade 1",
-        "url": "https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Mayday (feat. \uc870\uc774)",
-      "url": "https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke"
-    },
-    {
-      "added_at": "2023-01-25 07:51:52",
-      "album": {
         "name": "Layin' Low (feat. Jooyoung)",
         "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
       },
@@ -723,6 +683,46 @@
     {
       "added_at": "2023-01-25 07:51:52",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Troll (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
+    },
+    {
+      "added_at": "2023-01-25 07:51:52",
+      "album": {
+        "name": "homemade 1",
+        "url": "https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Mayday (feat. \uc870\uc774)",
+      "url": "https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke"
+    },
+    {
+      "added_at": "2023-01-25 07:51:52",
+      "album": {
         "name": "The Moon (Feat. TAEIL of NCT)",
         "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
       },
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-01-25 07:51:52",
       "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
+    },
+    {
+      "added_at": "2023-01-25 07:51:52",
+      "album": {
         "name": "Waves (feat. Simon Dominic & Jamie)",
         "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 164920,
       "name": "Waves (feat. Simon Dominic & Jamie)",
       "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
-    },
-    {
-      "added_at": "2023-01-25 07:51:52",
-      "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        },
-        {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
     },
     {
       "added_at": "2023-01-25 07:51:52",
@@ -931,6 +931,26 @@
     {
       "added_at": "2023-01-25 07:51:52",
       "album": {
+        "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/0l2EK3FdDY9MVRD3tckhDC"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        },
+        {
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "Ing..",
+      "url": "https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje"
+    },
+    {
+      "added_at": "2023-01-25 07:51:52",
+      "album": {
         "name": "\uadf8\ub0e5 \uc9c0\uae08 \ubc14\ub78c\uc774 \uc88b\uc796\uc544 Feel this breeze (with JoeSwan)",
         "url": "https://open.spotify.com/album/7fNgIXb4djTJEJoMdNagHw"
       },
@@ -955,26 +975,6 @@
     {
       "added_at": "2023-01-25 07:51:52",
       "album": {
-        "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/0l2EK3FdDY9MVRD3tckhDC"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        },
-        {
-          "name": "Boramiyu",
-          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "Ing..",
-      "url": "https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje"
-    },
-    {
-      "added_at": "2023-01-25 07:51:52",
-      "album": {
         "name": "Flower Language",
         "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
       },
@@ -995,22 +995,22 @@
     {
       "added_at": "2023-01-25 07:51:52",
       "album": {
-        "name": "one summer",
-        "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
+        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
+        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        },
-        {
           "name": "WENDY",
           "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 239692,
-      "name": "one summer",
-      "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
+      "duration_ms": 198749,
+      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
+      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

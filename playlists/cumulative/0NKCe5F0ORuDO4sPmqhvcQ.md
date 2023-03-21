@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-417 songs - 23 hr 22 min
+418 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 | 2022-12-02 |  |
 | [Dream About You](https://open.spotify.com/track/7ImKTptfTfSsr6YzLSUdPi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Dream About You](https://open.spotify.com/album/49nqo2DQsN0uLSsrDF7D24) | 3:33 | 2021-11-12 | 2022-01-08 |
 | [Dreamfields](https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Dreamfields](https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS) | 2:40 | 2022-09-18 | 2023-01-30 |
+| [Dreams](https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Dreams](https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI) | 3:55 | 2023-03-20 |  |
 | [Dreams \- Bleu Clair Remix](https://open.spotify.com/track/4xtD1wi5TDqcOKf1dowtIp) | [Smokin Beats](https://open.spotify.com/artist/25KE5ZwChQizbTmJzg3Lob), [Lyn Eden](https://open.spotify.com/artist/0pt4O98Bo1vxjqZnjttafk), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Dreams \(Bleu Clair Remix\)](https://open.spotify.com/album/2IRiDJ0P6xZcEpXZUpIvTL) | 3:04 | 2022-01-14 | 2022-02-01 |
 | [Drifting](https://open.spotify.com/track/7uToGdhcxRZ5lo9WCVVQdx) | [London Topaz](https://open.spotify.com/artist/2QNu1AjQAl2trTfbVMovyd), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Drifting](https://open.spotify.com/album/62BaTuGHN2cqQvah1IhuZ0) | 3:46 | 2023-02-23 |  |
 | [Droves](https://open.spotify.com/track/0u9qsoepu46b6aHi3fr6gW) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/6lR1ihhd03xEjXgCRO8Icj) | 3:50 | 2022-04-01 |  |

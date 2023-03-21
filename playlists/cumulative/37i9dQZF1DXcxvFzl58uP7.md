@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-828 songs - 1 day 19 hr 4 min
+830 songs - 1 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-03-04 | 2023-02-10 |
 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 | 2021-02-27 | 2022-09-06 |
 | [Beauty Rains](https://open.spotify.com/track/5SEiOGFQsL6fJAwD0AWHBJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Beauty Rains](https://open.spotify.com/album/24z9o5rVLMHLmrMyH7WUJv) | 3:31 | 2021-08-27 | 2022-07-25 |
+| [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 | 2023-03-21 |  |
 | [Before The Morning Comes](https://open.spotify.com/track/77HoENqFfbJ9O2bostlK4O) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Before The Morning Comes](https://open.spotify.com/album/5SLquQm6I3AUuon4UiMqer) | 3:32 | 2021-10-08 | 2022-04-19 |
 | [Bends](https://open.spotify.com/track/31hlhFQVLQS4VADMTPl59i) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Bends](https://open.spotify.com/album/3LIYf4uhGMwW4ccnXLWPpQ) | 2:35 | 2020-06-29 | 2022-07-29 |
 | [Bends](https://open.spotify.com/track/7neXef29cogkuASB5rTafo) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Cut Out](https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB) | 2:35 | 2021-02-27 | 2022-12-15 |
@@ -347,7 +348,7 @@
 | [Hot Rod](https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:24 | 2022-09-14 |  |
 | [how the hell did we end up here?](https://open.spotify.com/track/7g2ZfScI3hUoHAdpVO0P4Z) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [ache \(demos\)](https://open.spotify.com/album/5qNyLZnMwnZBv7NFXmChtV) | 1:25 | 2022-04-29 | 2022-06-14 |
 | [How Was Your Day?](https://open.spotify.com/track/5jx99x0wf2r9hzq0ekAmRr) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [How Was Your Day?](https://open.spotify.com/album/7rUsxlkjBKrKdumIkBMieZ) | 4:20 | 2020-10-03 | 2022-07-29 |
-| [How Was Your Day?](https://open.spotify.com/track/2E01rRrzaz6TuwCdm27m4m) | [Mellow Fellow](https://open.spotify.com/artist/4evVEvE5p9WsdXQKBPmAxT), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [How Was Your Day?](https://open.spotify.com/album/6jImcs0N4HZG23G7YTvAZ9) | 3:08 | 2019-08-04 |  |
+| [How Was Your Day?](https://open.spotify.com/track/2E01rRrzaz6TuwCdm27m4m) | [Mellow Fellow](https://open.spotify.com/artist/4evVEvE5p9WsdXQKBPmAxT), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [How Was Your Day?](https://open.spotify.com/album/6jImcs0N4HZG23G7YTvAZ9) | 3:08 | 2019-08-04 | 2023-03-21 |
 | [Human Breach](https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP) | [LOMELI](https://open.spotify.com/artist/5HhNeohGg8OhavQVZsiHxB) | [I Ask Nothing of You](https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT) | 4:14 | 2020-05-17 | 2021-05-21 |
 | [Huron Disko](https://open.spotify.com/track/56Ydhy30ogSmTKTyDxcirY) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [cartoon therapy](https://open.spotify.com/album/1JvMNlu1GNdxsoBTTdR3AL) | 3:21 | 2021-06-04 | 2022-07-29 |
 | [I Can't Dance](https://open.spotify.com/track/0NOgjn2s5fAGJ2n3OBcei4) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [I Can't Dance](https://open.spotify.com/album/7xCWlgPhIPrKWmqpUaSpDJ) | 3:34 | 2019-09-19 | 2021-05-24 |
@@ -388,6 +389,7 @@
 | [In a Mood](https://open.spotify.com/track/7vpvMspRgoeBTxOwP44a1Q) | [TheSecondSex](https://open.spotify.com/artist/2TLvEQjCrq7LCZD3A7zUpi) | [In a Mood](https://open.spotify.com/album/6AdQ6hDRrXbwPjC8a64oiY) | 4:07 | 2019-08-01 | 2021-05-27 |
 | [In Dreams...](https://open.spotify.com/track/1OghGAJGDks8X4y8KMQy4X) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [In Dreams / Anais](https://open.spotify.com/album/09vRkhxE5jc9QdeRoTXp21) | 2:19 | 2019-07-30\* | 2020-02-26 |
 | [In My Bag](https://open.spotify.com/track/61W0YnfMvSdmogcvikIvs6) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [In My Bag](https://open.spotify.com/album/2oXWsC6HbR7tuMOkPgdZBJ) | 2:45 | 2021-04-29 | 2021-05-28 |
+| [In My Head](https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l) | 5:54 | 2023-03-21 |  |
 | [In Too Deep](https://open.spotify.com/track/1JufjjiYDVYzormD09fbxX) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [In Too Deep](https://open.spotify.com/album/401nuIcawYgBTwVf69xECR) | 3:48 | 2021-02-24 | 2021-07-31 |
 | [In Uh Breeze](https://open.spotify.com/track/2pDVWbHyh5tIp2TlDhUBzG) | [Monica Riskey](https://open.spotify.com/artist/3JpHMpV3QOd4qrz7Jfkw7w) | [In Uh Breeze](https://open.spotify.com/album/4JTz2v69vN9CIJl2EuqpEr) | 2:18 | 2019-07-30\* | 2020-04-24 |
 | [Indecision](https://open.spotify.com/track/3awX3r7giTXvHXhTUVRp5M) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Indecision](https://open.spotify.com/album/4WX7tjpZChkvTTa7AyyJ23) | 2:32 | 2020-08-11 | 2021-04-13 |
@@ -775,7 +777,7 @@
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-27 | 2022-04-29 |
 | [Volvernos a Ver](https://open.spotify.com/track/37KNkyB6TDqVYrNl2ZXwK6) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Canciones Que Hice en Mi Habitación](https://open.spotify.com/album/1Gr7WNfsyWx3d3ZYhqd9y5) | 1:04 | 2021-05-15 | 2021-05-27 |
 | [Voyage](https://open.spotify.com/track/7fLKkKXKRMOSx9UMhJkNo9) | [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu) | [Voyage](https://open.spotify.com/album/6FRJuikLEt3T5aToUFIEva) | 2:39 | 2021-08-27 | 2022-04-16 |
-| [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 |  |
+| [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 | 2023-03-21 |
 | [VVS](https://open.spotify.com/track/2V7HUZS37OpOR2TLxWZPC4) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [Freaks and Wild Things](https://open.spotify.com/album/4cxHPZ1YROwurrbsei3h58) | 3:20 | 2022-09-14 | 2022-12-16 |
 | [VVS](https://open.spotify.com/track/7BgsZCBMarOfvTkHQXe1TQ) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/5LbjS306ZqHJSBM0MiPIQo) | 3:20 | 2021-11-19 | 2022-06-08 |
 | [Waiter](https://open.spotify.com/track/57DgZXPfjOBt5BIAH1H2bg) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [You Don't See Me](https://open.spotify.com/album/00FxI3tMsgKkAfNr5TBCLC) | 3:17 | 2019-12-14 | 2021-05-28 |

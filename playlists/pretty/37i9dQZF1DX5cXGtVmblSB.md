@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Feline\-friendly tracks curated by musicologist <a href="spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B">David Teie</a>, who pioneered scientifically researched music for cats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,057 likes - 33 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,062 likes - 33 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 11 | [Opus for Oliver](https://open.spotify.com/track/3Nda8HVJcMQmwRrg01u6ou) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 8:13 |
 | 12 | [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 |
 | 13 | [Tigerlili and Mimi's Mewsical](https://open.spotify.com/track/1NxgrJyQh1KTSslKIpieCi) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 5:36 |
-| 14 | [Goldberg Variations, BWV 988: Variation 7 a 1 ovvero 2 Clav\. \- 1955 Version](https://open.spotify.com/track/30JuGvGfyl4bxuyo9OB1N4) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [A State of Wonder: The Complete Goldberg Variations, BWV 988 \(Recorded 1955 & 1981\)](https://open.spotify.com/album/6RkddyAzYq3QNZqdAhxPxF) | 1:08 |
+| 14 | [Goldberg Variations, BWV 988: Variation 7 a 1 ovvero 2 Clav.](https://open.spotify.com/track/30JuGvGfyl4bxuyo9OB1N4) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [A State of Wonder: The Complete Goldberg Variations, BWV 988 \(Recorded 1955 & 1981\)](https://open.spotify.com/album/6RkddyAzYq3QNZqdAhxPxF) | 1:08 |
 | 15 | [Simon Says](https://open.spotify.com/track/3eUde69UEDub59LN6d3V0d) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 11:47 |
 | 16 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 |
 | 17 | [Luna and June's Purrfect Harmony](https://open.spotify.com/track/7zqaY1x1PeKnFtLAhzYXtJ) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 5:44 |

@@ -1,12 +1,12 @@
 {
   "description": "Non-stop energy, riffs and belters.. it never gets old, no guest list required.",
-  "num_followers": 65705,
+  "num_followers": 65738,
   "original_name": "Sticky Floors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjMzMDg2NSwwMDAwMDAwMGM3M2I2ZjViNzgwZDQ1NTRkYTcxZWYxZTliYmY3YmJh",
+  "snapshot_id": "MTY3MjMzMDg2NSwwMDAwMDAwMDVkOTcxOTI0ODE4YjZjZmFkNTZlMDc1YmMyMGY0NjMz",
   "tracks": [
     {
       "added_at": "2022-12-28 15:42:42",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-12-28 15:42:42",
       "album": {
-        "name": "Bad Nerves",
-        "url": "https://open.spotify.com/album/1wMtklLScB4SwEXEbmdiQx"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 140546,
-      "name": "Baby Drummer",
-      "url": "https://open.spotify.com/track/1HW8Eci2TSMF9EaVZHnNzj"
-    },
-    {
-      "added_at": "2022-12-28 15:42:42",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 177426,
       "name": "I Can Talk",
       "url": "https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi"
+    },
+    {
+      "added_at": "2022-12-28 15:42:42",
+      "album": {
+        "name": "Bad Nerves",
+        "url": "https://open.spotify.com/album/1wMtklLScB4SwEXEbmdiQx"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 140546,
+      "name": "Baby Drummer",
+      "url": "https://open.spotify.com/track/1HW8Eci2TSMF9EaVZHnNzj"
     },
     {
       "added_at": "2022-12-28 15:42:42",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-12-28 15:42:42",
       "album": {
-        "name": "Puppets",
-        "url": "https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw"
+        "name": "Celebrity Mansions",
+        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
       },
       "artists": [
         {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 149028,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj"
+      "duration_ms": 188653,
+      "name": "Back Foot",
+      "url": "https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC"
     }
   ],
   "unique_name": "Sticky Floors",

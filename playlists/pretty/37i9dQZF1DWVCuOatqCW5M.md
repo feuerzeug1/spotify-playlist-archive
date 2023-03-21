@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Aditi Singh Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,897 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,929 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 32 | [Aa Mere Kol](https://open.spotify.com/track/2DiyS9ak3O1qHjlQuAeSKf) | [Vinayak Bahl](https://open.spotify.com/artist/0a3d9L4ClTZmqUQEcg4CLv), [Shobhit Agarwal](https://open.spotify.com/artist/5Qj0uLYfV3IRUzuKKDKzbC), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Aa Mere Kol](https://open.spotify.com/album/34D5f8FR5LSNvulBYjsZKr) | 3:28 |
 | 33 | [Daayein Baayein](https://open.spotify.com/track/2f7Rmr904CGu8HRLfakm0Y) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Daayein Baayein \- Single](https://open.spotify.com/album/6LeVMwAkOPwOsphWbMMcLa) | 3:34 |
 | 34 | [Meherbaan](https://open.spotify.com/track/46hWgb9J4Lf5bAnEV4dY2T) | [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Meherbaan](https://open.spotify.com/album/1lI6lP0ODvHbBzSXuzqIWy) | 2:33 |
-| 35 | [Kora Sa Chehra](https://open.spotify.com/track/3k4xoBzWbKy2mebPN4nF9y) | [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Kora Sa Chehra](https://open.spotify.com/album/0vJzEwSxd5kJvHnlt1Inti) | 3:44 |
+| 35 | [](https://open.spotify.com/track/3k4xoBzWbKy2mebPN4nF9y) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0vJzEwSxd5kJvHnlt1Inti) | 0:00 |
 | 36 | [Aja Sawariya](https://open.spotify.com/track/1YiwARhwbWkDELenG8Toi6) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Aja Sawariya](https://open.spotify.com/album/3DW4dwDoi4pGl5f55YqsKK) | 2:52 |
 | 37 | [Mane Na](https://open.spotify.com/track/1b1l5KS5PmoHX51z5VNvLc) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Rahul Pandey](https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq) | [Mane Na](https://open.spotify.com/album/1DBdFCkhof8cjdDig2eSSn) | 2:57 |
 | 38 | [Feel You Now](https://open.spotify.com/track/1qvG2HriblOKz5d6lMT81E) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Feel You Now](https://open.spotify.com/album/1QjVRLJLQ3wM1RY9AznBlC) | 2:14 |

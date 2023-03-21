@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/0fLIH86l7XiKxZ1mw75i7v"
+      },
+      "artists": [
+        {
+          "name": "Bekx",
+          "url": "https://open.spotify.com/artist/0YHJ5LhJ309STNOJ9pJxER"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277501,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/1euNFApRpCYzoHV847acSa"
+    },
+    {
+      "album": {
         "name": "A&W",
         "url": "https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS"
       },
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -9900,7 +9918,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 216521,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0JK0UF0VcZTNRkx5HhmQOV"
@@ -12640,7 +12658,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"

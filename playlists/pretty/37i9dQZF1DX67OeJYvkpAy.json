@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 84552,
+  "num_followers": 84582,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDdhNDc4ZGRkYTcwMjRmZDM1ZWE2NWRiMWNmYWEyMzU0",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDQxZmQ5ODJhNzAyY2YzN2NmMjc0YTMzNGVhZWZkYzY0",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Local Mvp",
         "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 145711,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0nmW4fvqTwUDjlz13MNpJU"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "The Sunrise Project",
-        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
-      },
-      "artists": [
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 134234,
       "name": "Again",
       "url": "https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "The Sunrise Project",
+        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "High (All The Time)",
-        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
       },
       "artists": [
         {
-          "name": "RhyRab",
-          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
+          "name": "Anubis",
+          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
         }
       ],
-      "duration_ms": 160030,
-      "name": "High (All The Time)",
-      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
+      "duration_ms": 192004,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
+        "name": "High (All The Time)",
+        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
       },
       "artists": [
         {
-          "name": "Anubis",
-          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
+          "name": "RhyRab",
+          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
         }
       ],
-      "duration_ms": 192004,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x"
+      "duration_ms": 160030,
+      "name": "High (All The Time)",
+      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Is it too much? (Pray things change)",
         "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
@@ -1359,6 +1343,38 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Akhirah",
+        "url": "https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW"
+      },
+      "artists": [
+        {
+          "name": "Official TS",
+          "url": "https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf"
+        }
+      ],
+      "duration_ms": 221570,
+      "name": "Akhirah",
+      "url": "https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 175774,
       "name": "Hearts Get Numb",
       "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Akhirah",
-        "url": "https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW"
-      },
-      "artists": [
-        {
-          "name": "Official TS",
-          "url": "https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf"
-        }
-      ],
-      "duration_ms": 221570,
-      "name": "Akhirah",
-      "url": "https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx"
     },
     {
       "added_at": "2022-08-02 15:42:28",

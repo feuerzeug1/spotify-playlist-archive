@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 126685,
+  "num_followers": 126675,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMGE3OTkzZjc0YTI3OTZhMGY1MmI0YWE5ZDQ0N2MwYzQ3",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMGFjMDI4MzE1YjA0YTJlNjk2YzhmMzAzYjUxNzA3MzAw",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "All I Want (For Christmas)",
-        "url": "https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        }
-      ],
-      "duration_ms": 181144,
-      "name": "All I Want (For Christmas)",
-      "url": "https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "For Those Who Can't Be Here",
         "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 183079,
       "name": "For Those Who Can't Be Here",
       "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "All I Want (For Christmas)",
+        "url": "https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "duration_ms": 181144,
+      "name": "All I Want (For Christmas)",
+      "url": "https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Christmas Bells",
-        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 246745,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Warm on a Christmas Night",
         "url": "https://open.spotify.com/album/0hNsNVEk5TwAFs6fmXUrmE"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "The King of Soul",
-        "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
+        "name": "Christmas Bells",
+        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 155560,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
+      "duration_ms": 246745,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -787,6 +771,22 @@
       "duration_ms": 132108,
       "name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
       "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The King of Soul",
+        "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC (Spotify Singles - Christmas)",
-        "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 225576,
-      "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC - Spotify Singles - Christmas",
-      "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Man On The Moon",
         "url": "https://open.spotify.com/album/6Pchjb89jY7FiyzzAo67Q6"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 171078,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/4mcgyq5Ay6OYOE4ou2FCNx"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC (Spotify Singles - Christmas)",
+        "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 225576,
+      "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC - Spotify Singles - Christmas",
+      "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/2HVzChP0rkqzQFSwuvT6l6"
     },
     {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "At Christmas",
-        "url": "https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "At Christmas",
-      "url": "https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby"
-    },
-    {
       "added_at": "2022-11-18 01:05:05",
       "album": {
         "name": "Day After Tomorrow",
@@ -1175,6 +1159,22 @@
       "duration_ms": 221906,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "At Christmas",
+        "url": "https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "At Christmas",
+      "url": "https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "A Very She & Him Christmas",
-        "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 129679,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Tracks in the Snow",
         "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 230973,
       "name": "Tracks in the Snow",
       "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "A Very She & Him Christmas",
+        "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 129679,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "This Christmas Day",
-        "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "This Christmas Day",
-      "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
         "url": "https://open.spotify.com/album/3JbFpGAcLNqPYrJOlg9nM6"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 170459,
       "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
       "url": "https://open.spotify.com/track/58slbodEk0CkLmnGRf2La2"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "This Christmas Day",
+        "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "This Christmas Day",
+      "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
     },
     {
       "added_at": "2022-11-18 01:05:05",

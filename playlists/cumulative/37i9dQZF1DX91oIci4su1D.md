@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-571 songs - 1 day 11 hr 6 min
+572 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-05-14 |
 | [Breaking Light](https://open.spotify.com/track/616t2cVL8B7jUtzxqyLRAx) | [Aurosonic](https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1), [Sharon Valerona](https://open.spotify.com/artist/5QqFl3TTNF95pndfKUr1Vb) | [Breaking Light](https://open.spotify.com/album/3qYFbXf36nY6ChDS26Q268) | 3:42 | 2022-02-18 | 2022-10-29 |
 | [Breath Of The Wild](https://open.spotify.com/track/08ikdgOu28YP4bFKAq44wL) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej) | [Breath Of The Wild](https://open.spotify.com/album/5KPwjMCZyCXLWltnBnewor) | 3:30 | 2022-10-07 |  |
-| [Breathe](https://open.spotify.com/track/3W6kvOOFOe2Br9X1TCfR7G) | [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Breathe](https://open.spotify.com/album/3mhjrFINMjUNpVcNOBMFRf) | 3:43 | 2023-02-24 |  |
+| [Breathe](https://open.spotify.com/track/3W6kvOOFOe2Br9X1TCfR7G) | [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Breathe](https://open.spotify.com/album/3mhjrFINMjUNpVcNOBMFRf) | 3:43 | 2023-02-24 | 2023-03-21 |
 | [Brighter \- Aimoon Remix](https://open.spotify.com/track/3JV0H72eSiSxHXpovPj6Yb) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Novan](https://open.spotify.com/artist/7tWMqcbdCIBp5NF23GkbaA), [Aimoon](https://open.spotify.com/artist/17vJZOw0HdCJgRMBWBTmHT), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Brighter \(Aimoon Remix\)](https://open.spotify.com/album/1v1ORc5Ltl82Qj9H2FZhZb) | 3:52 | 2021-12-17 | 2022-05-28 |
 | [Butterfly x Metamorphosis](https://open.spotify.com/track/6ONguNljES7sX2KdLF4Giq) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Butterfly x Metamorphosis](https://open.spotify.com/album/67BoNabTRA8C01jLJOkNbt) | 4:38 | 2022-10-14 |  |
 | [By My Side](https://open.spotify.com/track/3SIAjk8qHhIdldTDZxl2WH) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [By My Side](https://open.spotify.com/album/73nxKigYLBMQtCLohsZaI3) | 3:24 | 2021-12-17 | 2022-02-26 |
@@ -359,6 +359,7 @@
 | [Not Alone \(Moon\)](https://open.spotify.com/track/2dJjSI4tnna64hTar6xMBV) | [Tycoos](https://open.spotify.com/artist/0ZesultCLHEe8lbXluMvV7), [PITTARIUS CODE](https://open.spotify.com/artist/5o9eLiSbwpPJOt0a6QMaIn), [Josie Sandfeld](https://open.spotify.com/artist/19HQyS89sUHeCAUAXWsznp) | [Summer Hits 2022](https://open.spotify.com/album/57lVZKIfGsHXkgGtVU51wn) | 3:14 | 2022-08-26 | 2023-03-10 |
 | [Nothing Compares To You](https://open.spotify.com/track/0HovEj9ww9qYqKjJGFO9fT) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Nothing Compares To You](https://open.spotify.com/album/5LL9iRnhhLQX9aOmIKzel6) | 3:33 | 2022-03-25 | 2022-09-05 |
 | [Nothing I Won't Do](https://open.spotify.com/track/4btEvNobYILJy7az4mtN66) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Nothing I Won't Do](https://open.spotify.com/album/2yKEHeolZSiPLqolF5l9ao) | 3:23 | 2021-12-17 | 2022-05-28 |
+| [Nothing Stopping Me](https://open.spotify.com/track/3OWnVqPDm4CKt5JENcxxJX) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Clara Yates](https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0) | [Wanderlust](https://open.spotify.com/album/2RofLmRMQv975VuVNkFDGr) | 4:15 | 2023-03-17 |  |
 | [Nothing to Hide](https://open.spotify.com/track/2V1BrpHiHIJTtzBBvjWSTH) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Nothing to Hide](https://open.spotify.com/album/49C5OoTcYTeF3tkY1QZmJe) | 3:34 | 2021-12-17 | 2023-02-25 |
 | [Now or Never](https://open.spotify.com/track/04q38wqa9G0d6mX0gCfxYu) | [BiXX](https://open.spotify.com/artist/4RiwBL7Ca5pV4qR7gRmEOh) | [Now or Never](https://open.spotify.com/album/0xDibmnP8xbK6Vjh6BN1s0) | 3:36 | 2022-08-19 | 2022-12-03 |
 | [Numb](https://open.spotify.com/track/0UjkSJvxzQoD0V4qSnU7Nc) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Numb](https://open.spotify.com/album/5Ryj5HUt7mLLaisGo27JmN) | 4:24 | 2021-12-17 | 2022-01-08 |

@@ -3532,7 +3532,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 134050,
       "name": "Astral Plunge",
       "url": "https://open.spotify.com/track/0Lzk4agjpku1JzYVvBqShd"
@@ -17813,6 +17813,28 @@
     },
     {
       "album": {
+        "name": "Everything Is Calm",
+        "url": "https://open.spotify.com/album/2Q6VgJGBArEegBfrnZ6tKn"
+      },
+      "artists": [
+        {
+          "name": "Wieland & Ulrich",
+          "url": "https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN"
+        },
+        {
+          "name": "Taranczewski",
+          "url": "https://open.spotify.com/artist/64amSSHhJP5ZtaaYxFKgb5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144213,
+      "name": "Everything Is Calm",
+      "url": "https://open.spotify.com/track/06Ij7RjzQTAOyKIkenfAoA"
+    },
+    {
+      "album": {
         "name": "Everything Is Moving",
         "url": "https://open.spotify.com/album/2lzuLJtRVz16O4NZdoyL6p"
       },
@@ -25350,7 +25372,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 92000,
       "name": "HOW WE DO",
       "url": "https://open.spotify.com/track/1yO8cEQrvdkQ3PG0cT7E0P"
@@ -29172,7 +29194,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 122758,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/33YYeNVd3MilBCq9GzBdrc"
@@ -34558,6 +34580,28 @@
       "duration_ms": 93301,
       "name": "Luna",
       "url": "https://open.spotify.com/track/4dKVTt3yaH7NMe8C3kXjou"
+    },
+    {
+      "album": {
+        "name": "lunar juice",
+        "url": "https://open.spotify.com/album/0wuW31ojwWM7kMEaKCIoXR"
+      },
+      "artists": [
+        {
+          "name": "Jadu Jadu",
+          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127659,
+      "name": "lunar juice",
+      "url": "https://open.spotify.com/track/3qoAPBc6GKo3imGVNf813P"
     },
     {
       "album": {
@@ -40698,7 +40742,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 125647,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5EqzrIDrJXMBPAehmmRSW6"

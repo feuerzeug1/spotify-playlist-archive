@@ -274,7 +274,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 190250,
       "name": "Asar",
       "url": "https://open.spotify.com/track/4Cl13lnGGhHmNpO4tTi3az"
@@ -1684,6 +1684,24 @@
       "duration_ms": 263443,
       "name": "Ilm Na Mujhe Ishq Ki",
       "url": "https://open.spotify.com/track/50UEBQ956XJj1tEYU11Q29"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200724,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-393 songs - 1 day 4 hr 6 min
+394 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Dangerous Desires](https://open.spotify.com/track/1CT5WeUsZkH2Etdb7HFC6N) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Streetwalker](https://open.spotify.com/album/0jlkbUkGsmy37ncfhxlP68) | 3:29 | 2022-04-01 |  |
 | [Dangerous Dreams](https://open.spotify.com/track/1hFQfBk8Nl8YnfD6a2xGfB) | [LeBrock](https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ) | [Action & Romance](https://open.spotify.com/album/0xpMKiD0WGBHBGQfYRPubw) | 4:02 | 2021-10-15 |  |
 | [Dani](https://open.spotify.com/track/2sf9WlBq7ZJjjTPYly04hk) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Dani](https://open.spotify.com/album/6GtLFLoASdgcQsMq9w4fUc) | 3:50 | 2022-07-22 | 2022-07-30 |
+| [Dans la forêt](https://open.spotify.com/track/5P4G0CHQZOdJufaqU4jDA6) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3), [Rozam](https://open.spotify.com/artist/3xwQZjgC4Cr2LBmRIUKSs4) | [Dans la forêt](https://open.spotify.com/album/2h7R8DC7UEXttfd0Csy904) | 3:44 | 2023-01-13 |  |
 | [Dans la forêt](https://open.spotify.com/track/7pXJSMQd8MpUBWSDTgXoQY) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3), [Rozam](https://open.spotify.com/artist/3xwQZjgC4Cr2LBmRIUKSs4) | [Dans la forêt](https://open.spotify.com/album/6ZSGchl6f29QhV6mU7tdx7) | 3:44 | 2022-12-02 | 2023-02-23 |
 | [Dark Prince, Pt\. 3](https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL) | [Atrey](https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw) | [Dark Prince](https://open.spotify.com/album/7F5QqidQ5gDSIWBIY8Khy4) | 3:48 | 2021-10-15 |  |
 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 | 2021-10-15 |  |
@@ -374,7 +375,7 @@
 | [Timewarp](https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Timewarp](https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C) | 4:07 | 2022-04-15 | 2022-07-29 |
 | [Timmy Goes To Space](https://open.spotify.com/track/3ygygDgeSK98dfOknKRLUw) | [Mr\. Maen](https://open.spotify.com/artist/0d5tUTjMd6EFBWNeRMKpb3) | [Slow Love](https://open.spotify.com/album/07x3cBPHSNxNA5MUQw2HKk) | 3:32 | 2022-04-01 | 2022-11-13 |
 | [Too Far Gone](https://open.spotify.com/track/10n7xcB7chcHmHBvEyMqjB) | [Echo\-Eclipse](https://open.spotify.com/artist/6KGpRKwr3IKBxeEeUW7DLc) | [Arcade Machine](https://open.spotify.com/album/0GeQGXS8uLRnqNKIgnOxSd) | 3:06 | 2021-10-15 | 2022-07-27 |
-| [Transmission](https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Transmission](https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw) | 3:06 | 2021-10-15 |  |
+| [Transmission](https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Transmission](https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw) | 3:06 | 2021-10-15 | 2023-03-21 |
 | [True Love](https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [True Love](https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D) | 4:30 | 2022-05-13 | 2022-05-20 |
 | [Try](https://open.spotify.com/track/3J3kAVctdwSU4wQ0CDz7aB) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Try / Dark Strings](https://open.spotify.com/album/1OwAemnirDJgzAms6uBbDR) | 3:44 | 2022-05-27 |  |
 | [Tsukuyomi](https://open.spotify.com/track/61vC11KWndHG1OmoCqhELP) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Tsukuyomi](https://open.spotify.com/album/6hkKkB6BqmPXiVl559OdyO) | 4:30 | 2022-07-08 |  |

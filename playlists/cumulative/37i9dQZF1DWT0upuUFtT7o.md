@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: King Isis
 
-1,294 songs - 2 day 23 hr 8 min
+1,295 songs - 2 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Garfield's Starfield](https://open.spotify.com/track/0sCyvGDXenmkGZdcwdamQl) | [Recess Radio](https://open.spotify.com/artist/76whwWZPwPoPY0e6ZP2doW) | [Garfield's Starfield](https://open.spotify.com/album/4i4VHdtF3h6m52AhgepHsm) | 3:04 | 2021-12-01 | 2022-01-13 |
 | [Gasoline](https://open.spotify.com/track/6OIljojYdrZkg6bZICQwzk) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [Gasoline](https://open.spotify.com/album/2NUCQmCHfQv7yzMTu6VW71) | 3:01 | 2023-03-15 |  |
 | [Gentle Pets](https://open.spotify.com/track/39RO0RUE2jBwEUijOHlCWx) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Strawberry Season](https://open.spotify.com/album/3gQuZtriWCxdUEo9sJR4DI) | 3:26 | 2023-02-01 | 2023-03-02 |
+| [Gentleman](https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk) | [Lonely Pirate Committee](https://open.spotify.com/artist/2vsjCgyBZaH29ekrJRrpf2) | [Gentleman](https://open.spotify.com/album/4C3xU3ky500oslwuJPv16X) | 2:42 | 2023-03-20 |  |
 | [Germaphobe](https://open.spotify.com/track/7etS3cjv6GvXvLmpdNDMS0) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Germaphobe](https://open.spotify.com/album/0HpqNDpCRilFNZso1M2XJX) | 4:20 | 2023-01-11 | 2023-02-16 |
 | [Get Her](https://open.spotify.com/track/1diokBKhzTbxfNFYKmG418) | [Bikôkô](https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV) | [Get Her](https://open.spotify.com/album/2hiMDhuOZd92L7roNcA5S8) | 2:25 | 2023-02-08 |  |
 | [Get Some](https://open.spotify.com/track/2WQ5EJ7KJMVxOu8bPYMplc) | [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [Get Some](https://open.spotify.com/album/1Mb5tOxLiWQkalwPzckorS) | 3:43 | 2022-01-19 | 2022-02-10 |
@@ -1224,7 +1225,7 @@
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-12-01 | 2022-01-13 |
 | [violet](https://open.spotify.com/track/3LNa80ozLYLxSyEW1G2vsw) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [violet](https://open.spotify.com/album/1gyjRT8c0SAiH58YtFqbVc) | 3:07 | 2022-10-25 | 2023-01-12 |
 | [VIP](https://open.spotify.com/track/3nm4xbUDMENxRLJLLTdLVp) | [Honey Moon](https://open.spotify.com/artist/1BuCh3XyQ6QfIecry9IcUl) | [VIP](https://open.spotify.com/album/0zz1dVdKjPtYFLoTS1EGJe) | 2:24 | 2022-03-02 | 2022-04-27 |
-| [Virgo](https://open.spotify.com/track/555j37nNg3zppVNEBXHsAV) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Lucky Me, Lucky Mud](https://open.spotify.com/album/3kYFCZhHZEhPGdMYj12blw) | 3:28 | 2023-02-15 |  |
+| [Virgo](https://open.spotify.com/track/555j37nNg3zppVNEBXHsAV) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Lucky Me, Lucky Mud](https://open.spotify.com/album/3kYFCZhHZEhPGdMYj12blw) | 3:28 | 2023-02-15 | 2023-03-21 |
 | [virgo sun](https://open.spotify.com/track/6uuHSq183n5Z3HVHbAYSQa) | [Faerie](https://open.spotify.com/artist/4kGFQZ0RuDoBFSBYzF0qJl) | [dizzy spells](https://open.spotify.com/album/1Q4XLN5joAXawqozQDaBae) | 3:14 | 2023-03-08 |  |
 | [Vodka Coke](https://open.spotify.com/track/5MqHZwO6YpRJjmSOODVdG7) | [Margot Liotta](https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM) | [Vodka Coke](https://open.spotify.com/album/4Hq82gTskaBb5QBJxshhBE) | 4:01 | 2022-03-22 | 2022-04-27 |
 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 | 2022-06-15 | 2022-07-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Loquera Tradición\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,183 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,184 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 29 | [CORAZON DE NIEVE](https://open.spotify.com/track/6jKdi3HZuPTpr8BPap6D2b) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [SINCERAMENTE, BEBE](https://open.spotify.com/album/5pRyuC3CDcSZkJbg3KUFut) | 2:48 |
 | 30 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
 | 31 | [Pelicula](https://open.spotify.com/track/0uqPbGs9P2GH8nS4EdT4WZ) | [J Reboll](https://open.spotify.com/artist/6yEEfhFfsrrYeOHLYOW8HB) | [Pelicula](https://open.spotify.com/album/1N9omVg4wsBZjEbH7LkA5s) | 2:19 |
-| 32 | [Tus Te Quieros](https://open.spotify.com/track/7LrK8wbofELyG7kauy79fe) | [toni duart](https://open.spotify.com/artist/72d2PLgnOXyDT1HIGXC9Ls), [CCF](https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx), [Sara Mostaza](https://open.spotify.com/artist/64izd9xKBPFn7P1qNsaBQ9) | [Tus Te Quieros](https://open.spotify.com/album/2lZWw0bI5MHJ5W5S2uQYy7) | 2:44 |
-| 33 | [Complejo de Martir](https://open.spotify.com/track/5xVAjvnDSbjEQjTX3LXQKB) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Complejo de Martir](https://open.spotify.com/album/7anGWpldwOfPvADPqdoPq4) | 3:15 |
+| 32 | [Complejo de Martir](https://open.spotify.com/track/5xVAjvnDSbjEQjTX3LXQKB) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Complejo de Martir](https://open.spotify.com/album/7anGWpldwOfPvADPqdoPq4) | 3:15 |
+| 33 | [Tus Te Quieros](https://open.spotify.com/track/7LrK8wbofELyG7kauy79fe) | [toni duart](https://open.spotify.com/artist/72d2PLgnOXyDT1HIGXC9Ls), [CCF](https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx), [Sara Mostaza](https://open.spotify.com/artist/64izd9xKBPFn7P1qNsaBQ9) | [Tus Te Quieros](https://open.spotify.com/album/2lZWw0bI5MHJ5W5S2uQYy7) | 2:44 |
 | 34 | [Luna \- Versión Acústica](https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi) | [Mireia De La Torre](https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG) | [Luna Rota](https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5) | 2:31 |
 | 35 | [Lo Que Pudo Ser](https://open.spotify.com/track/7ampr6A59qFGZD3R9pfvNp) | [Hermanos De La Vibra](https://open.spotify.com/artist/24iikwybit4U9z1Jv1pzNm) | [Lo Que Pudo Ser](https://open.spotify.com/album/1nsmvF9N6I8wlcfAfV2CjI) | 3:18 |
 | 36 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 38 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
 | 39 | [Lo Que Digan](https://open.spotify.com/track/7K29ZLNVx0Aho10dUGokMN) | [Sait](https://open.spotify.com/artist/3r5sW8MhWdRpmaCMjoewj8) | [Lo Que Digan](https://open.spotify.com/album/20mEhq8olsKXr88puOgbzi) | 3:18 |
 | 40 | [I Want 2](https://open.spotify.com/track/6jd3IIlPej4QU0cSKUehsx) | [Banana Leaf Boy](https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY) | [I Want 2](https://open.spotify.com/album/4Vc751bJD0eQkOdqc4IiSj) | 4:33 |
-| 41 | [Mas Humano](https://open.spotify.com/track/3vLVC7wKyfbD8qFZxjgJhf) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Mas Humano](https://open.spotify.com/album/679topqr2Z1ZkragXyxNKQ) | 3:08 |
-| 42 | [Anhelos](https://open.spotify.com/track/6N474kZaYzSS6Xah4qFX9t) | [Naen](https://open.spotify.com/artist/2NfXmWc2ozZ4kXoIpTDDkR), [Noche](https://open.spotify.com/artist/6NZGyfzzigXWOI1HvNxwhR), [Havni](https://open.spotify.com/artist/07PTSHyzwYQIsaevttLTuw) | [Anhelos](https://open.spotify.com/album/0ZEKBTqZ0nkibLTZM4o1pJ) | 3:05 |
-| 43 | [ADRalia](https://open.spotify.com/track/6EiG1lxxv9DjNtcATmKK6A) | [Zeta Galan](https://open.spotify.com/artist/268pklc2m76hJ30bFlcJcr), [Tommy Blanco](https://open.spotify.com/artist/37GpjLgunGgS7iDMCp5Cch), [Mitxhell](https://open.spotify.com/artist/1g2xHY8b2fSIBEdeAIhbvc) | [ADRalia](https://open.spotify.com/album/7qqJQumYauhlhiYBlq2YiV) | 2:55 |
+| 41 | [Anhelos](https://open.spotify.com/track/6N474kZaYzSS6Xah4qFX9t) | [Naen](https://open.spotify.com/artist/2NfXmWc2ozZ4kXoIpTDDkR), [Noche](https://open.spotify.com/artist/6NZGyfzzigXWOI1HvNxwhR), [Havni](https://open.spotify.com/artist/07PTSHyzwYQIsaevttLTuw) | [Anhelos](https://open.spotify.com/album/0ZEKBTqZ0nkibLTZM4o1pJ) | 3:05 |
+| 42 | [ADRalia](https://open.spotify.com/track/6EiG1lxxv9DjNtcATmKK6A) | [Zeta Galan](https://open.spotify.com/artist/268pklc2m76hJ30bFlcJcr), [Tommy Blanco](https://open.spotify.com/artist/37GpjLgunGgS7iDMCp5Cch), [Mitxhell](https://open.spotify.com/artist/1g2xHY8b2fSIBEdeAIhbvc) | [ADRalia](https://open.spotify.com/album/7qqJQumYauhlhiYBlq2YiV) | 2:55 |
+| 43 | [Mas Humano](https://open.spotify.com/track/3vLVC7wKyfbD8qFZxjgJhf) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Mas Humano](https://open.spotify.com/album/679topqr2Z1ZkragXyxNKQ) | 3:08 |
 | 44 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
 | 45 | [NUBE](https://open.spotify.com/track/1P1yx8BHKYWHR6Sh6LmQnJ) | [Ceressa](https://open.spotify.com/artist/0iAiRbVaLk4vZWUhoMo6wU) | [NUBE](https://open.spotify.com/album/2tTokV1HFIcNXG5pNGZ885) | 3:11 |
 | 46 | [ISLA DEL PERREO](https://open.spotify.com/track/4c4qamGkrpiGJGjOn2Z1cV) | [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [ISLA DEL PERREO](https://open.spotify.com/album/2Z8HSoRG4W9SBCzG9aFCxl) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [La Trampa](https://open.spotify.com/track/4fFoxalUsWW1qraPLpnb1T) | [Carla Cune](https://open.spotify.com/artist/1eJCiBiU5FzMEXBxrsNxkd) | [La Trampa](https://open.spotify.com/album/5xzOHndFvxS9b9VQrcYoFH) | 2:39 |
 | 50 | [Insomnio](https://open.spotify.com/track/0Q40XCyV51hOZunQbicmUX) | [Ripoll](https://open.spotify.com/artist/40GV6ITFe1i4SZymeH6jo7) | [Marinero Sentimiento](https://open.spotify.com/album/0RSIbS9P4BvOTJGOArgr6w) | 3:08 |
 
-Snapshot ID: `MTY3ODg2MDAwMCwwMDAwMDAwMDQ3NDBmMzA3ZTI5NTlhZTZiYmRmZDM2YWI1YTNlN2Zi`
+Snapshot ID: `MTY3ODg2MDAwMCwwMDAwMDAwMDE0MDgxMzIxMGQ5ODJiYmVjNGJhYjEyNGVkODFmMTI0`

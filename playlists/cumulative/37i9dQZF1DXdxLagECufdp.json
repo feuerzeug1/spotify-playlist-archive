@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Klunserbeats Live",
+        "url": "https://open.spotify.com/album/4OfxTH08O6sUb7Dk3ucFGs"
+      },
+      "artists": [
+        {
+          "name": "Analogik",
+          "url": "https://open.spotify.com/artist/25czOabAkMaqDEMiIgrTXh"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209773,
+      "name": "Gypsie Doodle - Live",
+      "url": "https://open.spotify.com/track/629f1Dy6T4NtcoHalprl6c"
+    },
+    {
+      "album": {
         "name": "Harta",
         "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
       },
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 189732,
       "name": "Papa Chajes",
       "url": "https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM"

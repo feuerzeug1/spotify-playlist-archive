@@ -4,7 +4,7 @@
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-214 songs - 12 hr 29 min
+215 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/7ryu06ohNTICM1Txt5JRXs) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Coleccion Aniversario](https://open.spotify.com/album/4FYJKa0ohgXoDoWVerH45P) | 2:58 | 2021-07-23 | 2022-07-29 |
 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/0bSDRwi6Cc8Qqp7RMM9vC6) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [La Historia](https://open.spotify.com/album/3Vl530kXcucjG8KLFPANtR) | 3:10 | 2021-07-23 | 2022-07-29 |
 | [Córdoba Sin Ti](https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:47 | 2021-07-23 |  |
-| [De Alberdi \- Zamba](https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Folclore \- La Colección \- Los Del Suquía](https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik) | 3:34 | 2021-07-23 |  |
+| [De Alberdi \- Zamba](https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Folclore \- La Colección \- Los Del Suquía](https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik) | 3:34 | 2021-07-23 | 2023-03-21 |
 | [Del Chucaro](https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:27 | 2021-07-23 |  |
 | [Desde el Puente Carretero \(with Peteco Carabajal\)](https://open.spotify.com/track/32mWcBr72gtKjrZhbWotbi) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [14 De Colección](https://open.spotify.com/album/4uS0algE0q6RfX07BdZkPi) | 2:26 | 2021-07-23 | 2022-07-29 |
 | [Dios a la Una](https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE) | [Daniel Altamirano](https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx) | [Mi Ultima Canción](https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz) | 6:04 | 2021-07-23 |  |
@@ -93,6 +93,7 @@
 | [El Pastor](https://open.spotify.com/track/2rx096DLTOIwU5WcE3oIKn) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 3:49 | 2021-07-23 | 2023-03-12 |
 | [El Pastor](https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 3:49 | 2022-02-21 |  |
 | [El Preso Nº 9](https://open.spotify.com/track/3GeFKVsojFAPxafcfnCsxX) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 4:44 | 2021-07-23 | 2023-03-12 |
+| [El Preso, No\. 9](https://open.spotify.com/track/3KYyx4vhhLev3up8EMqY6U) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 4:44 | 2022-02-21 |  |
 | [El Que Toca Nunca Baila](https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:43 | 2021-07-23 |  |
 | [El Seclanteño](https://open.spotify.com/track/1A0DWfpjBNBGNFj74DdwsN) | [Daniel Toro](https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu) | [El Nombrador](https://open.spotify.com/album/3QTLPn3zMOv7Kic7mRifym) | 3:27 | 2022-02-21 | 2023-02-21 |
 | [El Seclanteño](https://open.spotify.com/track/5KG1MI9BG8xzk2kQqR4cmJ) | [Daniel Toro](https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu) | [El Nombrador](https://open.spotify.com/album/6U5PrxODD0eyR1ZyOF1A7e) | 3:27 | 2021-07-23 | 2022-07-08 |

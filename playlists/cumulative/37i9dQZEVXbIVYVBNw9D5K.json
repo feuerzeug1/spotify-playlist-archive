@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 191275,
       "name": "BAYBAY",
       "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 191914,
       "name": "BAYBAY",
       "url": "https://open.spotify.com/track/2QYc9Z0vdqsDgcRKHvg9qR"
@@ -2844,6 +2844,28 @@
       "duration_ms": 157521,
       "name": "Dayanamam",
       "url": "https://open.spotify.com/track/4V7xs605t9EWS81GSbP1il"
+    },
+    {
+      "album": {
+        "name": "Dayanam\u0131yorum",
+        "url": "https://open.spotify.com/album/4h7y7eDbVmD5wLoy7hCNeh"
+      },
+      "artists": [
+        {
+          "name": "Kerim Araz",
+          "url": "https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb"
+        },
+        {
+          "name": "Sevgim Y\u0131lmaz",
+          "url": "https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174154,
+      "name": "Dayanam\u0131yorum",
+      "url": "https://open.spotify.com/track/1iv9A5Rvjff0T5I9pcJJpL"
     },
     {
       "album": {
@@ -5202,7 +5224,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 185333,
       "name": "Herkes Gibisin",
       "url": "https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj"
@@ -10772,7 +10794,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 250218,
       "name": "Unuttun mu Beni",
       "url": "https://open.spotify.com/track/0x9154bA7PgqF6Za1CtszP"
@@ -10910,7 +10932,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 216119,
       "name": "VAMPIR",
       "url": "https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU"

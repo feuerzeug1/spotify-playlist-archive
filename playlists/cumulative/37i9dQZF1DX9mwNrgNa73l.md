@@ -4,10 +4,11 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-124 songs - 14 hr 16 min
+124 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/6Y1cH3RzDCMWGQtOS0HmP8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6NucTCpJkSWDphKnLBXp6P) | 0:00 | 2022-10-25 |  |
 | [Aa Meda Dhola](https://open.spotify.com/track/5T7eWVRYVA2FsbLJORHtpO) | [MASUMA ANWAR](https://open.spotify.com/artist/55DHZ4eEuBZM0xfX7bCX1H) | [Dhola](https://open.spotify.com/album/5QEjYCacgMeNn6JsBWJzxx) | 4:31 | 2023-03-16 |  |
 | [Aaja Tenon Akhiyan Udeek Diyan](https://open.spotify.com/track/3uD1gnPxeBeUJ3Ut8FWEdd) | [Sabri Brothers & Nusrat Fateh Ali Khan](https://open.spotify.com/artist/4ljg4oWX2tE1wsyG1AeqWo) | [The Best Of Sabri Brothers & Nusrat Fateh Ali Khan](https://open.spotify.com/album/0JtKMVGy841ydtXY0DxxTz) | 15:02 | 2022-08-02 | 2022-10-25 |
 | [Aameen Sum Aameen](https://open.spotify.com/track/2tvbXJeZYwii8TQrq8b3Mx) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Aameen Sum Aameen](https://open.spotify.com/album/7GAzkyAAWcYpcfB5l28cYm) | 4:23 | 2022-06-21 |  |
@@ -31,7 +32,6 @@
 | [Allah Hoo](https://open.spotify.com/track/2oAsqDg6T3r1aCuA6RnXmQ) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Allah Hoo](https://open.spotify.com/album/67MfQAsIqudWrhvPjP5MAr) | 4:02 | 2022-06-21 |  |
 | [Allah Hoo](https://open.spotify.com/track/2TEwVLEEIuQxTWAVWALkOH) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Sultana Nooran](https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG) | [Coke Studio India Season 2: Episode 2](https://open.spotify.com/album/4l5prCXlsZFNDCmd20YDsJ) | 7:28 | 2022-08-02 | 2022-10-25 |
 | [Allah Hu](https://open.spotify.com/track/6EWDE9xJuEGK4CD9SMnlm9) | [Hamza Akram Qawwal](https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT), [Taimoor Akram](https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq), [Abdul Akram](https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC) | [Allah Hu](https://open.spotify.com/album/1cYcGtARBCMQNpNrj8iEcu) | 4:56 | 2022-06-21 | 2023-03-18 |
-| [Allah Ke Bande](https://open.spotify.com/track/6Y1cH3RzDCMWGQtOS0HmP8) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Waisa Bhi Hota Hai Part 2](https://open.spotify.com/album/6NucTCpJkSWDphKnLBXp6P) | 4:06 | 2022-10-25 |  |
 | [Allah Ke Bande \- Live](https://open.spotify.com/track/4MGTYzFHCVehaWLdvLlvSi) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 4:35 | 2022-08-02 | 2022-10-25 |
 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 | 2022-06-21 |  |
 | [Arziyan](https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 8:39 | 2022-10-25 |  |

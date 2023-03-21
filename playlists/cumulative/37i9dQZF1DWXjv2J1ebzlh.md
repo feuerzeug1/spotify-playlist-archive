@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,906 songs - 5 day 8 hr 11 min
+1,907 songs - 5 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,9 +440,10 @@
 | [Cumbia Del Monte](https://open.spotify.com/track/05VYy9wCmhvywOgDI3qfv7) | [Carmen Rivero Y Su Conjunto](https://open.spotify.com/artist/4xtmYfec6gCSbTiZv4NRp6) | [La Gran Coleccion Del 60 Aniversario CBS \- Carmen Rivero Y Su Conjunto / Linda Vera](https://open.spotify.com/album/6uecN4Frh5DSbib4ryYId6) | 3:12 | 2022-07-12 |  |
 | [Cumbia del Monte](https://open.spotify.com/track/4d9Vc5ByiXzu9IGDcaNmID) | [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3JoaLNavAXOlnbp0FUVF9b) | 2:39 | 2022-10-31 | 2022-11-13 |
 | [Cumbia del Monte](https://open.spotify.com/track/52rFl2q1Rp6XMhxM24FXNR) | [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3f2vGfuy9m5nsrlhYHuOwM) | 2:39 | 2022-06-09 | 2022-07-29 |
-| [Cumbia del Monte Fuji](https://open.spotify.com/track/24fMHoWCFcyuuSDbHWzbPc) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Cumbia del Monte Fuji](https://open.spotify.com/album/4QajQb50l0ry5S3dcl2SVo) | 4:24 | 2022-07-27 |  |
+| [Cumbia del Monte Fuji](https://open.spotify.com/track/24fMHoWCFcyuuSDbHWzbPc) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Cumbia del Monte Fuji](https://open.spotify.com/album/4QajQb50l0ry5S3dcl2SVo) | 4:24 | 2022-07-27 | 2023-03-21 |
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/26mJwKuX1TfFxKWVizG7Mw) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Minyo Cumbiero \(From Tokyo to Bogota\)](https://open.spotify.com/album/28RiNeg11IzksYdPBwveWE) | 4:24 | 2022-10-31 | 2022-11-13 |
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/2ErLVOXP9j8ziacqpz5JJr) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Cumbia del Monte Fuji](https://open.spotify.com/album/75gyj3yKAFyATEEV2CtWVw) | 4:24 | 2022-06-09 | 2022-07-29 |
+| [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 | 2023-03-17 |  |
 | [Cumbia Del Puerto](https://open.spotify.com/track/6GzE6gVVu35Bzpro5zRO11) | [Conjunto Los Rumberos](https://open.spotify.com/artist/79K5AdwMm6o4W6AIVk6Zds) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:43 | 2022-07-27 |  |
 | [Cumbia del Puerto](https://open.spotify.com/track/6ID6ocPSSoxFLRi24vDCQQ) | [Conjunto Los Rumberos](https://open.spotify.com/artist/79K5AdwMm6o4W6AIVk6Zds) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:43 | 2022-06-09 | 2022-07-29 |
 | [Cumbia Divina](https://open.spotify.com/track/4SUxBg3jDSbCismwRBVLMV) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Cumbia Divina](https://open.spotify.com/album/0JMgjnQAPG9wshV7jXXpUX) | 3:35 | 2022-12-20 |  |

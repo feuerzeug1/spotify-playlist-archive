@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=j11QL6MsRaSneLxTbjw4Eg\" > Zlatan </a> ",
-  "num_followers": 16659,
+  "num_followers": 16719,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzOTU1MSwwMDAwMDAwMDc0NTlhNjExMjEzOTQ1YmVlMzkwOTc0NzU1OTQzZDJm",
+  "snapshot_id": "MTY3OTAzOTU1MSwwMDAwMDAwMDU4NjU1YjdlZTA5NjM2NWI3YjIwMzc2NzI5NGJhN2Yz",
   "tracks": [
     {
       "added_at": "2023-03-10 11:41:01",
@@ -247,6 +247,26 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
-      "added_at": "2023-03-20 00:33:31",
+      "added_at": "2023-03-21 00:59:17",
       "album": {
         "name": "Philo (Remix)",
         "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "Commander",
-        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Commander",
-      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
         "name": "BBO (Bad Bxtches Only)",
         "url": "https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 163976,
       "name": "BBO (Bad Bxtches Only)",
       "url": "https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "High Tension 2.0",
-        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
-      },
-      "artists": [
-        {
-          "name": "Dangbana Republik",
-          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
         "name": "Vigilante Bop",
         "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
+        "name": "High Tension 2.0",
+        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
+      },
+      "artists": [
+        {
+          "name": "Dangbana Republik",
+          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -911,6 +911,22 @@
       "duration_ms": 168247,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
+        "name": "YPSZN3",
+        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "Silent Mode",
+      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "YPSZN3",
-        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "Silent Mode",
-      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 143220,
       "name": "Ball Till We Fall",
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1101,6 +1117,26 @@
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
     },
     {
+      "added_at": "2023-03-21 00:59:17",
+      "album": {
+        "name": "Bougie and Thick",
+        "url": "https://open.spotify.com/album/3ILEi9iWRNrCEiteWk0FeR"
+      },
+      "artists": [
+        {
+          "name": "Sosa.ttw",
+          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
+        },
+        {
+          "name": "AT Martian",
+          "url": "https://open.spotify.com/artist/37aE8EiBoUxAP0VLex7Ow9"
+        }
+      ],
+      "duration_ms": 111106,
+      "name": "Bougie and Thick",
+      "url": "https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3"
+    },
+    {
       "added_at": "2023-03-10 11:41:01",
       "album": {
         "name": "Trouble",
@@ -1125,40 +1161,44 @@
       "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
     },
     {
-      "added_at": "2023-03-20 00:33:31",
+      "added_at": "2023-03-21 00:59:17",
       "album": {
-        "name": "Bougie and Thick",
-        "url": "https://open.spotify.com/album/3ILEi9iWRNrCEiteWk0FeR"
+        "name": "Fun for Love",
+        "url": "https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ"
       },
       "artists": [
         {
-          "name": "Sosa.ttw",
-          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
+          "name": "Davolee",
+          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
         },
         {
-          "name": "AT Martian",
-          "url": "https://open.spotify.com/artist/37aE8EiBoUxAP0VLex7Ow9"
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
         }
       ],
-      "duration_ms": 111106,
-      "name": "Bougie and Thick",
-      "url": "https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3"
+      "duration_ms": 158608,
+      "name": "Fun for Love",
+      "url": "https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv"
     },
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
       },
       "artists": [
         {
           "name": "PsychoYP",
           "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+      "duration_ms": 173571,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1201,24 +1241,20 @@
       "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
     },
     {
-      "added_at": "2023-03-20 00:33:31",
+      "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "Fun for Love",
-        "url": "https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ"
+        "name": "Barawo",
+        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
       },
       "artists": [
         {
-          "name": "Davolee",
-          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
-        },
-        {
-          "name": "Otega",
-          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 158608,
-      "name": "Fun for Love",
-      "url": "https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv"
+      "duration_ms": 229250,
+      "name": "Barawo",
+      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1247,22 +1283,6 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "Barawo",
-        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 229250,
-      "name": "Barawo",
-      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
         "name": "All I Please",
         "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
       },
@@ -1281,27 +1301,7 @@
       "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
     },
     {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
-    },
-    {
-      "added_at": "2023-03-20 00:33:31",
+      "added_at": "2023-03-21 00:59:17",
       "album": {
         "name": "Blessed Sinner",
         "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
@@ -1317,7 +1317,7 @@
       "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
     },
     {
-      "added_at": "2023-03-20 00:33:31",
+      "added_at": "2023-03-21 00:59:17",
       "album": {
         "name": "Wild Side",
         "url": "https://open.spotify.com/album/1IP7a8gdy3PtSoRw1gLG5K"
@@ -1337,7 +1337,7 @@
       "url": "https://open.spotify.com/track/6jplKm9eFCulH6CQZKeDhd"
     },
     {
-      "added_at": "2023-03-20 00:33:31",
+      "added_at": "2023-03-21 00:59:17",
       "album": {
         "name": "On My Grind",
         "url": "https://open.spotify.com/album/2agfSDraZLcjFYoaTmf7tB"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/6MTOvHuqJcw0HN6xDHiVNQ"
     },
     {
-      "added_at": "2023-03-20 00:33:31",
+      "added_at": "2023-03-21 00:59:17",
       "album": {
         "name": "Kilode (In Particular)",
         "url": "https://open.spotify.com/album/5BlU5AuobL4wUpdlQUANCZ"

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-944 songs - 2 day 3 hr 36 min
+945 songs - 2 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Cross Your Mind](https://open.spotify.com/track/03F7FL0pcmVT4W8V8pERCH) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR) | [Cross Your Mind](https://open.spotify.com/album/3WTRKUecyrM9ydt9ihGWoH) | 3:00 | 2021-02-06 | 2021-09-18 |
 | [Crossroads](https://open.spotify.com/track/03G6Y1MLCUVTbCLqzFeIm1) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Eric Spike](https://open.spotify.com/artist/4cqrH3J95V5eocwwAquMdy) | [Crossroads](https://open.spotify.com/album/4XpsZnLY0o9HxdLiLNOfDb) | 2:53 | 2022-04-22 | 2022-04-26 |
 | [Cry \(with Aluna\)](https://open.spotify.com/track/2HdEtRBwROKFsTiX2VTLCq) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Cry](https://open.spotify.com/album/0lmj4wnLLdvmwlAi2RrfWo) | 2:49 | 2022-04-01 | 2022-04-20 |
+| [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-03-17 |  |
 | [Crystallise](https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Crystallise](https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK) | 3:02 | 2021-06-26 | 2021-09-18 |
 | [Cthulhu Sleeps](https://open.spotify.com/track/6VCrMyk8iLLdAxkqSWiLAH) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [4x4=12](https://open.spotify.com/album/0tCLiTicEOdRuqFWJrHDcR) | 10:32 | 2020-09-21\* | 2020-12-18 |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2022-01-04 | 2022-05-07 |
@@ -561,7 +562,7 @@
 | [On Repeat](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On Repeat](https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw) | 3:10 | 2022-05-13 |  |
 | [On Your Own \(feat\. Elderbrook\)](https://open.spotify.com/track/6LJsVZlhPAvrALPYka3xXz) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [On Your Own \(feat\. Elderbrook\)](https://open.spotify.com/album/7pVugOs4vuWCPSBI0OIFOD) | 3:43 | 2022-04-01 | 2022-07-29 |
 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 | 2022-12-02 |  |
-| [One More Time](https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [One More Time](https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM) | 2:28 | 2022-07-15 |  |
+| [One More Time](https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [One More Time](https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM) | 2:28 | 2022-07-15 | 2023-03-21 |
 | [One Night Away](https://open.spotify.com/track/63iTZ9zpkQOTYYbzWDSFdp) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [One Night Away](https://open.spotify.com/album/21LVbYbk6Dupy1cmlgqsed) | 3:30 | 2021-06-12 | 2021-09-18 |
 | [Ones You Miss](https://open.spotify.com/track/4cFeXui0uAhC2f4fTwN4P7) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss](https://open.spotify.com/album/1OEEVoyaZUt6yCncONcQZr) | 2:13 | 2021-01-05 | 2021-07-24 |
 | [Only For A Night](https://open.spotify.com/track/6FWNDcdJr58TPSTIdpIyx6) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Only For A Night](https://open.spotify.com/album/3Gf5wI0fMmFh4K3Bo1mzM1) | 2:47 | 2021-07-07 | 2021-09-18 |

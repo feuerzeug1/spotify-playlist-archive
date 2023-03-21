@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain](/playlists/plain/37i9dQZF1DX7NhGf24haor) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7NhGf24haor)
 
-### [Hardstyle Adrenaline!](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
+### [Hardstyle Adrenaline! 2023](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Discover the newest Hardstyle tracks\. Cover: Sub Zero Project
+> The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Sub Zero Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,593 likes - 114 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,677 likes - 114 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 113 | [Goes Like This](https://open.spotify.com/track/3DMzy0qSPA415zU5wJvGlB) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Goes Like This](https://open.spotify.com/album/42daUctji9hiLuz5bbHumY) | 2:26 |
 | 114 | [The Get Back](https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [The Get Back](https://open.spotify.com/album/408QsFdYz9ZT0jq9uqAyOY) | 2:10 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMGE2NjAxY2Q4MzEzYmRjNDY3NjIxMWQ1Mzc4YmY0MGVj`
+Snapshot ID: `MTY3OTMwMzMxNSwwMDAwMDAwMGFmN2I4ZDNhYzBjNGNhYjg1Y2EzZWZhYWNlYjM1YzZj`

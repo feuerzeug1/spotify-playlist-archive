@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Eric IV\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,026 likes - 152 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,084 likes - 152 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1497,6 +1497,28 @@
     },
     {
       "album": {
+        "name": "Know Me Too Well (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4Z2xqqlIAKcRpvXRq34zmB"
+      },
+      "artists": [
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160443,
+      "name": "Know Me Too Well - Sped Up Version",
+      "url": "https://open.spotify.com/track/1ESvtk6BMZcj8wWsTgVBts"
+    },
+    {
+      "album": {
         "name": "Left and Right (Charlie Puth) [feat. Jung Kook of BTS] [Sped Up Version]",
         "url": "https://open.spotify.com/album/55rl4IbGHVR8AaT2j0FL5r"
       },
@@ -2270,7 +2292,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 242142,
       "name": "Shootout (Sped Up)",
       "url": "https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY"

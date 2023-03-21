@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-87 songs - 9 hr 57 min
+88 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,11 +50,12 @@
 | [Love Me](https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Love Me](https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law) | 6:32 | 2022-09-29 | 2023-03-11 |
 | [M.A.U.R](https://open.spotify.com/track/6FN2OCdwgB83jSf5DS3hIn) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 7:24 | 2022-09-14 | 2022-10-03 |
 | [Makhenikha](https://open.spotify.com/track/3ynnErvgu27QSAuRIqoXYm) | [Aquadeep](https://open.spotify.com/artist/0n2IlfSYardosNRNdCLWPd), [Veesoul](https://open.spotify.com/artist/3Tv5NqamdRmZYzblrn2aBr), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Another Mile EP](https://open.spotify.com/album/0nRYOHYnD7wzC8Ppp9ERJh) | 7:14 | 2022-09-14 | 2023-03-18 |
+| [Middle Of The Garden](https://open.spotify.com/track/6Fy6qP6B5CSvXo4auTbLCQ) | [SONIDO](https://open.spotify.com/artist/5yUWxOhPOP18jZ2TwQxEtw) | [Middle Of The Garden](https://open.spotify.com/album/7jxleiGFdZqd7ZFCKriMld) | 6:10 | 2023-03-17 |  |
 | [Mmantwa's Groove](https://open.spotify.com/track/5hGktS3qbk8HDhdICoo3s7) | [Gabbana](https://open.spotify.com/artist/0I3Acccg46Me47afcARZYX) | [We Groove Different](https://open.spotify.com/album/1bx9h91xZGDa2mfh60RbZ3) | 7:17 | 2022-09-14 | 2023-03-18 |
 | [Monomotapa](https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL) | [Alexsir](https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Next Generation](https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb) | 5:42 | 2022-11-10 |  |
 | [Multiverse Theory](https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Ottis Blake](https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02) | [Multiverse Theory](https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7) | 6:14 | 2022-09-14 | 2023-03-18 |
 | [My Heartbeat For You](https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs) | [RoneeDeep](https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [My Heartbeat For You](https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6) | 5:32 | 2022-09-14 |  |
-| [Myself & The Dark](https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol) | [Supreme Rhythm](https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i) | [Sentimental Affair](https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1) | 7:11 | 2022-09-14 |  |
+| [Myself & The Dark](https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol) | [Supreme Rhythm](https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i) | [Sentimental Affair](https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1) | 7:11 | 2022-09-14 | 2023-03-21 |
 | [Ndoyiswe](https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Bamtho Imbongi](https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX) | [Ndoyiswe](https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq) | 5:25 | 2022-09-14 | 2022-12-14 |
 | [Nelisiwe](https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT) | [Craving Souls](https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe), [Da Tee SA](https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Joyful Music, Vol\. 1 \(Compiled\)](https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV) | 6:53 | 2022-09-29 |  |
 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 | 2022-09-14 | 2022-12-06 |

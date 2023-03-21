@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-387 songs - 23 hr 30 min
+388 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Close the Door \(feat\. Mali Music\)](https://open.spotify.com/track/71tTzTUW9VP8u1sFJxXp6k) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 2:10 | 2022-02-19 | 2022-06-24 |
 | [Clouds](https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [Clouds](https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii) | 3:39 | 2022-02-19 | 2022-06-26 |
 | [Clutch](https://open.spotify.com/track/4fGoRPP6w946HUcCtTz8dD) | [Freewill](https://open.spotify.com/artist/3bBpgrS9jtGE8dVNBjXgO8) | [Clutch](https://open.spotify.com/album/1JEsQsCYSbrTB6opuxpWQ1) | 4:11 | 2022-02-27 | 2022-06-26 |
-| [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 | 2022-06-25 |  |
+| [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 | 2022-06-25 | 2023-03-21 |
 | [Come By Here](https://open.spotify.com/track/0KGqrTMzjWXpxLbHxeNqBf) | [Prince Tai](https://open.spotify.com/artist/65q6z218YZZypBw6PIQY5J) | [Come By Here](https://open.spotify.com/album/1cPWBquO0f4f5saedjxrhW) | 3:46 | 2022-02-19 | 2022-06-26 |
 | [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 | 2022-06-25 | 2023-01-21 |
 | [Come Through](https://open.spotify.com/track/2dcpZsaS5nzxb4v9AaffiP) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [SOL](https://open.spotify.com/album/4z5xOi6dTtd7SaGJY5Sh3e) | 2:45 | 2022-04-01 | 2022-04-07 |
@@ -370,6 +370,7 @@
 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 | 2022-02-19 | 2022-06-26 |
 | [When Tears Fall](https://open.spotify.com/track/6kGPEBbI2Uk7nTsfcd2pmF) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [When Tears Fall](https://open.spotify.com/album/5KIb2TJs6Fz2h1egoxjweO) | 2:48 | 2023-01-20 |  |
 | [When We Get There](https://open.spotify.com/track/20NBUKWjWeWr6P3vNQL6d9) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:19 | 2022-06-25 |  |
+| [who.](https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [polaroids.](https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL) | 2:35 | 2023-01-20 |  |
 | [WILIN'](https://open.spotify.com/track/7AiB9ggkygd2xLF0x4HVN4) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [CHURCH GIRLS LOVE R&B](https://open.spotify.com/album/44iSFo3yR8NhX8CJUsERmk) | 4:09 | 2022-03-05 | 2022-04-08 |
 | [Win](https://open.spotify.com/track/7JgMB2xjZQ7yXG50DQFcpS) | [CANDIACE](https://open.spotify.com/artist/5JszSvXkRAk75bLoZDOHkP) | [Win](https://open.spotify.com/album/6Wo2MhAA70UrNXhVfI65rn) | 2:36 | 2022-04-01 | 2023-01-15 |
 | [Window Pane](https://open.spotify.com/track/2KYE1Kv1kMpruDPAOW1mw7) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Window Pane](https://open.spotify.com/album/3QeGq4OruARDU3xLn47uUz) | 4:29 | 2022-03-05 | 2022-06-13 |

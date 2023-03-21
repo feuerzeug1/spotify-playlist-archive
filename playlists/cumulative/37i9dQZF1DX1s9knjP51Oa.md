@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-653 songs - 1 day 4 hr 10 min
+654 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Me Donner Un Essai](https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Me Donner Un Essai](https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue) | 1:57 | 2021-12-13 |  |
 | [Me Time](https://open.spotify.com/track/15ErabbOFwo4gEknWytsAG) | [Jakob München](https://open.spotify.com/artist/5lzyS07BZQrvRmABhTmroF) | [Me Time](https://open.spotify.com/album/5XOxeo91vjLNW9Oh91A49o) | 1:56 | 2023-03-13 |  |
 | [Meadows](https://open.spotify.com/track/5MBETReLzdJo72i0ks7Fbn) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Meadows](https://open.spotify.com/album/19A0V6vB5o2Or2qp54OaTF) | 2:38 | 2022-10-24 |  |
-| [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 | 2022-05-26 |  |
+| [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 | 2022-05-26 | 2023-03-21 |
 | [Memento Mori](https://open.spotify.com/track/3hZJql1Z6TQXZaiT09NCPL) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Memento Mori](https://open.spotify.com/album/76tps53cRnz3GAGYtBWO2N) | 2:12 | 2021-12-13 | 2022-11-12 |
 | [Memory Lane](https://open.spotify.com/track/1z2q4Dmj24cBFnkkV0GPli) | [Niels Saunders](https://open.spotify.com/artist/6nlfg6qBEp3xeCBIkgqOmu) | [Memory Lane](https://open.spotify.com/album/21WNlxDCxJFAZuihLhOPRQ) | 2:18 | 2021-12-13 | 2022-09-24 |
 | [Mer de rêves](https://open.spotify.com/track/5hGueE5UZ2PdUI4CD75MyR) | [India Atanasie](https://open.spotify.com/artist/6yBWntJNNKBu66b5Jy6sVg) | [Mer de rêves](https://open.spotify.com/album/43IM6dQThe1o9Ay5i0JAv0) | 2:23 | 2022-11-11 |  |
@@ -387,7 +387,7 @@
 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 | 2022-07-28 | 2022-10-25 |
 | [Nederlag](https://open.spotify.com/track/2Or57lFpdUW3dtjg82VrBt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/39AL4A5Eq7QEDW0TU36UzT) | 2:17 | 2021-12-13 | 2022-07-29 |
 | [New Dawning](https://open.spotify.com/track/1V6NLqtNVTQzL0erwMP5ZI) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Loose Hours](https://open.spotify.com/album/3fQRf3vaRT11WjLdBQaq6Z) | 3:30 | 2022-09-23 | 2023-02-07 |
-| [New Endings](https://open.spotify.com/track/4KSdr3OT89D5oqbHvISQEk) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [New Endings](https://open.spotify.com/album/5LCUJB2FVJfTLaMcpiJ0pu) | 2:39 | 2022-12-21 |  |
+| [New Endings](https://open.spotify.com/track/4KSdr3OT89D5oqbHvISQEk) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [New Endings](https://open.spotify.com/album/5LCUJB2FVJfTLaMcpiJ0pu) | 2:39 | 2022-12-21 | 2023-03-21 |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2021-12-13 | 2022-09-24 |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2021-12-13 | 2022-11-12 |
 | [No More Love to Give](https://open.spotify.com/track/7qQ3QwLptc5YtcJgSSKfI9) | [Mark Lieder](https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj) | [No More Love to Give](https://open.spotify.com/album/0x3BvWKAicOlzf34TwYDBI) | 2:28 | 2021-12-13 | 2022-01-19 |
@@ -650,6 +650,7 @@
 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 | 2022-12-05 | 2023-02-01 |
 | [Wistful Heart](https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV) | [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Wistful Heart](https://open.spotify.com/album/4oKAXORzsZEqbSNX0qIR0K) | 2:33 | 2021-12-13 | 2022-09-24 |
 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 | 2021-12-13 | 2022-07-22 |
+| [With Fewer Tensions](https://open.spotify.com/track/0Sd9ECo0muEWnz9CTP1TAT) | [Douglas Simmons](https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS) | [With Fewer Tensions](https://open.spotify.com/album/5GvWxTKxOSzDLGJG6cu0b1) | 3:13 | 2023-03-20 |  |
 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 | 2021-12-13 | 2022-10-14 |
 | [Written in Stone](https://open.spotify.com/track/17My9MgcVSH9ABRiXtiZSv) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Written in Stone](https://open.spotify.com/album/3SKH2KhCNa0HP3S28xPWbL) | 2:36 | 2021-12-13 | 2022-10-14 |
 | [Yasashii](https://open.spotify.com/track/2Zq0snCBJhOzT61Lhroxr6) | [Asahi Haru](https://open.spotify.com/artist/2n6xoAIjeAig3mKdbHWrgM) | [Yasashii](https://open.spotify.com/album/3lpTY9zCdlgiZV1EZm4UJR) | 2:14 | 2022-10-04 |  |

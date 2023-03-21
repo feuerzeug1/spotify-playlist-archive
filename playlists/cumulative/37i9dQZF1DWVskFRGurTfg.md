@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con Young Miko.
 
-491 songs - 1 day 3 hr 37 min
+492 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,8 +214,9 @@
 | [KAWAII](https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [KAWAII](https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf) | 3:18 | 2022-09-23 | 2022-11-26 |
 | [Killer Bombón](https://open.spotify.com/track/4z5qbMlx4iAexxMQ9FbSa1) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Killer Bombón](https://open.spotify.com/album/67n9KcQSGTqIJVkIL4ghe8) | 2:40 | 2022-09-02 | 2022-10-01 |
 | [Klonk \- Remix](https://open.spotify.com/track/4RG1T9AqbSmOBQlUpbY50s) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt), [Galindo Again](https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Felo Blonck](https://open.spotify.com/artist/7kJEoJXXCcAcziKADYgS0c) | [Klonk \(Remix\)](https://open.spotify.com/album/1ZjdhHTgtEQawzQgCYxlRT) | 5:05 | 2022-04-01 | 2022-08-09 |
-| [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-01-30 |  |
+| [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-01-30 | 2023-03-21 |
 | [LA BEBE \(PREVIEW\) \- Bonus Track](https://open.spotify.com/track/60SzI1p5wfWKOrpocjlwSB) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Wup? Mixtape1](https://open.spotify.com/album/4UdOwNeZrKGk2ORXR55U4s) | 3:38 | 2023-01-27 | 2023-02-01 |
+| [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-20 |  |
 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 | 2022-06-10 | 2022-11-04 |
 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 | 2022-11-30 |  |
 | [La Llamada](https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP) | [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Llamada](https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m) | 3:44 | 2021-12-17 | 2022-07-08 |

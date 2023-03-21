@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6FfNmnl6x2AURdIRKJj925"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0gPW9v2NYGnWzhz5I06ajD"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0QAZxuGZxtJ4hcCJaMGBkB"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7rNFiL6NGvaXkFkemj91Tg"
+    },
+    {
+      "album": {
         "name": "The King (Greatest Hits)",
         "url": "https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH"
       },
@@ -666,7 +702,7 @@
       },
       "artists": [
         {
-          "name": "Akriti Kakkar",
+          "name": "Akriti Kakar",
           "url": "https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW"
         },
         {
@@ -705,24 +741,6 @@
     },
     {
       "album": {
-        "name": "Udta Punjab",
-        "url": "https://open.spotify.com/album/6FfNmnl6x2AURdIRKJj925"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "date_added": "2021-11-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247289,
-      "name": "Ikk Kudi - Reprised Version",
-      "url": "https://open.spotify.com/track/0gPW9v2NYGnWzhz5I06ajD"
-    },
-    {
-      "album": {
         "name": "Jugni",
         "url": "https://open.spotify.com/album/3D783nXYZzw8b0snc5dz9e"
       },
@@ -738,32 +756,6 @@
       "duration_ms": 301589,
       "name": "Jugni",
       "url": "https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl"
-    },
-    {
-      "album": {
-        "name": "Jugni 2.0",
-        "url": "https://open.spotify.com/album/0QAZxuGZxtJ4hcCJaMGBkB"
-      },
-      "artists": [
-        {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
-        },
-        {
-          "name": "Mumzy Stranger",
-          "url": "https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw"
-        },
-        {
-          "name": "Iyan Rose",
-          "url": "https://open.spotify.com/artist/7ysTASyLV8jrYJHPfrUPzA"
-        }
-      ],
-      "date_added": "2021-11-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184615,
-      "name": "Jugni 2.0",
-      "url": "https://open.spotify.com/track/7rNFiL6NGvaXkFkemj91Tg"
     },
     {
       "album": {

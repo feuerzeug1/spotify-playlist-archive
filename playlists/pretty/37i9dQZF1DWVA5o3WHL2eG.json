@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by CATT. Learn more in our playlist clips!",
-  "num_followers": 24848,
+  "num_followers": 24847,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDhmODk2NTEzZDVlN2FhYzcwMDIwMDE1MTc1NGVhNjY4",
+  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDkxNDRiMDA3MzZjN2IwYzg5ZTE5NDFlNDExYjA0NTE0",
   "tracks": [
     {
       "added_at": "2023-03-06 09:38:59",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "tristesse",
-        "url": "https://open.spotify.com/album/6POvDmme72sKHApHzRqyzS"
-      },
-      "artists": [
-        {
-          "name": "ma\u00efa",
-          "url": "https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "tristesse",
-      "url": "https://open.spotify.com/track/1m5CNvawNLaWC5YBWF0sXQ"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Notfallkontakt",
         "url": "https://open.spotify.com/album/5nTfxllqpkVgBaV1p6o1bp"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 180500,
       "name": "Notfallkontakt",
       "url": "https://open.spotify.com/track/16OeWavQ9VW0lyrXIGcEiV"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "tristesse",
+        "url": "https://open.spotify.com/album/6POvDmme72sKHApHzRqyzS"
+      },
+      "artists": [
+        {
+          "name": "ma\u00efa",
+          "url": "https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "tristesse",
+      "url": "https://open.spotify.com/track/1m5CNvawNLaWC5YBWF0sXQ"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "SOUL TO KEEP",
-        "url": "https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 420408,
-      "name": "SOUL TO KEEP",
-      "url": "https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Heavy Objects",
         "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 123200,
       "name": "Heavy Objects",
       "url": "https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "SOUL TO KEEP",
+        "url": "https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 420408,
+      "name": "SOUL TO KEEP",
+      "url": "https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "BBB #40",
-        "url": "https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq"
-      },
-      "artists": [
-        {
-          "name": "TRINA",
-          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "BBB #40",
-      "url": "https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "ALL I WANT",
         "url": "https://open.spotify.com/album/715TgYzWSZPq3i2BB5sOaV"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 233203,
       "name": "ALL I WANT",
       "url": "https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "BBB #40",
+        "url": "https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq"
+      },
+      "artists": [
+        {
+          "name": "TRINA",
+          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "BBB #40",
+      "url": "https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Echt",
-        "url": "https://open.spotify.com/album/62ROhodMC9Pgx0O9o4QFde"
-      },
-      "artists": [
-        {
-          "name": "Phela",
-          "url": "https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O"
-        }
-      ],
-      "duration_ms": 176730,
-      "name": "Echt",
-      "url": "https://open.spotify.com/track/5m1EmuvBcvReq1Wbsuzcl0"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Unter Uns",
         "url": "https://open.spotify.com/album/7ABBR4IBQkgjeRZeHTR4BP"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 193446,
       "name": "Unter Uns",
       "url": "https://open.spotify.com/track/37rODg6X5gCPrxOw4cfp2O"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Echt",
+        "url": "https://open.spotify.com/album/62ROhodMC9Pgx0O9o4QFde"
+      },
+      "artists": [
+        {
+          "name": "Phela",
+          "url": "https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O"
+        }
+      ],
+      "duration_ms": 176730,
+      "name": "Echt",
+      "url": "https://open.spotify.com/track/5m1EmuvBcvReq1Wbsuzcl0"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -575,6 +575,22 @@
       "duration_ms": 224155,
       "name": "magnetic wave",
       "url": "https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "TRAUM",
+        "url": "https://open.spotify.com/album/3dW70AYuaeZVJkwmfiQl6i"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
+        }
+      ],
+      "duration_ms": 132008,
+      "name": "TRAUM",
+      "url": "https://open.spotify.com/track/6TUJs76PxY3geuAHoJSvF4"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -671,22 +687,6 @@
       "duration_ms": 439998,
       "name": "Opia",
       "url": "https://open.spotify.com/track/2iuh1TuXGRxLvr2frc8HFA"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "TRAUM",
-        "url": "https://open.spotify.com/album/3dW70AYuaeZVJkwmfiQl6i"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
-        }
-      ],
-      "duration_ms": 132008,
-      "name": "TRAUM",
-      "url": "https://open.spotify.com/track/6TUJs76PxY3geuAHoJSvF4"
     },
     {
       "added_at": "2023-03-06 09:38:59",

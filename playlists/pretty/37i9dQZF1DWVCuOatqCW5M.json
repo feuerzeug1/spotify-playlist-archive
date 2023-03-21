@@ -1,6 +1,6 @@
 {
   "description": "New music from popular Hindi artists. Cover- Aditi Singh Sharma",
-  "num_followers": 19897,
+  "num_followers": 19929,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
@@ -687,21 +687,17 @@
     {
       "added_at": "2023-03-17 05:06:41",
       "album": {
-        "name": "Kora Sa Chehra",
+        "name": "",
         "url": "https://open.spotify.com/album/0vJzEwSxd5kJvHnlt1Inti"
       },
       "artists": [
         {
-          "name": "Arko",
-          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
-        },
-        {
-          "name": "Palak Muchhal",
-          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 224166,
-      "name": "Kora Sa Chehra",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/3k4xoBzWbKy2mebPN4nF9y"
     },
     {

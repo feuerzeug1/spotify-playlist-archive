@@ -2883,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Breakfast at the diner",
+        "url": "https://open.spotify.com/album/3TyHScGdUwyaVMvpxuUxc4"
+      },
+      "artists": [
+        {
+          "name": "Florida Frank",
+          "url": "https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Breakfast at the diner",
+      "url": "https://open.spotify.com/track/5zN5hcMJSTyJyp9JjH33Q8"
+    },
+    {
+      "album": {
         "name": "breathe",
         "url": "https://open.spotify.com/album/0VfKsKB9Ain4hpdWRsTyjd"
       },

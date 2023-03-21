@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 884616,
+  "num_followers": 884923,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMDQwMzQ5YzM0ZGEzNmFjZjNlZDM3OTBjNzc1NGRjNTdk",
+  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMDA1NjljMWIxMTFmOGQ0MTZlOTQxZGIyODk4ZWIxYzYw",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Us and Them (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Save Me - Acoustic",
-      "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "...Like Cologne (Spotify Exclusive)",
         "url": "https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 275571,
       "name": "I Sat by the Ocean - Live Acoustic",
       "url": "https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Us and Them (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Save Me - Acoustic",
+      "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
     },
     {
       "added_at": "2023-01-11 17:00:00",

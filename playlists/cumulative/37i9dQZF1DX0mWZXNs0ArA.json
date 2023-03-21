@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136142,
+      "name": "I Know - sped up",
+      "url": "https://open.spotify.com/track/6PjklVE4C9aBZkqTR3ATob"
+    },
+    {
+      "album": {
         "name": "I WANNA BE SAVED",
         "url": "https://open.spotify.com/album/605ztgNljQNUeUeG835IQS"
       },
@@ -1689,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Judas (Sped Up)",
+        "url": "https://open.spotify.com/album/0HNsFQI3zpL1F1UV8ZssTt"
+      },
+      "artists": [
+        {
+          "name": "ethereal",
+          "url": "https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206355,
+      "name": "Judas - Sped Up",
+      "url": "https://open.spotify.com/track/0DMSs7vejX4FrV2EipYjT2"
+    },
+    {
+      "album": {
         "name": "Judas",
         "url": "https://open.spotify.com/album/5sPMLLr9CwQZPEd67PbJUr"
       },
@@ -1722,7 +1758,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 206001,
       "name": "Judas - Sped Up",
       "url": "https://open.spotify.com/track/4XPtTtlrsrIzFiMlOrX3TK"

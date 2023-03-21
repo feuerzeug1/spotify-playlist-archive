@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-411 songs - 15 hr 57 min
+416 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [G&T!](https://open.spotify.com/track/6tgghxEXGuAeQWn3NYIsKT) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [G&T!](https://open.spotify.com/album/0E9J985TjgZozA7pUrwcCF) | 2:44 | 2021-11-11 | 2022-09-03 |
 | [Gary Valentine](https://open.spotify.com/track/68pKz8cONemO0EHd4DITfn) | [Sepia Tapes](https://open.spotify.com/artist/3PuHZwsr0txnw9NMq6b1kT) | [Gary Valentine](https://open.spotify.com/album/7DjXakUEVv3FZ9TW21sGIK) | 2:20 | 2022-06-10 | 2022-10-29 |
 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 | 2021-11-11 |  |
+| [Gifts](https://open.spotify.com/track/5A4HO3cB7QFH1pJio7eJPN) | [zakori](https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms) | [Lofi Lullaby](https://open.spotify.com/album/6KOidWLkTlLSUQXI0hu9iq) | 2:07 | 2023-03-20 |  |
 | [gin mood](https://open.spotify.com/track/5YAr1nEOeBQLsrqntj7Nyz) | [yori yoi hi](https://open.spotify.com/artist/0l5qxcD2fZRiXhbtJOkI5r) | [gin mood](https://open.spotify.com/album/6Taeo2fE2zaGNtHg7jTYVs) | 2:40 | 2021-11-11 |  |
 | [Girasoles](https://open.spotify.com/track/3YAT7ZuCsfFQCF9DnQCpBB) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Girasoles](https://open.spotify.com/album/3Umn5tilaSDrOEdXObGBFv) | 2:03 | 2022-10-28 |  |
 | [Goiaba](https://open.spotify.com/track/4KCGYOHGExcKUlFkNajeVO) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7HKTZkhWHbRZmWgCifVwfv) | 2:19 | 2022-09-16 | 2022-11-21 |
@@ -247,6 +248,7 @@
 | [Mount Rakko](https://open.spotify.com/track/3gH6U0EQHbFrCNebvbnk8Y) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Close Distance](https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1) | 2:29 | 2022-11-11 | 2023-01-13 |
 | [Mount Rakko](https://open.spotify.com/track/6ogjgDHnzNUgtvH35sCtVj) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Close Distance](https://open.spotify.com/album/4sOw1jxgB9hyOzGY9UJBg2) | 2:29 | 2022-04-08 | 2022-11-20 |
 | [Mr Lonely](https://open.spotify.com/track/3vkXcpV294D0mrLIz5k1nM) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Mr Lonely](https://open.spotify.com/album/4cDFjL4PrJKlKch2Xfjx1k) | 1:52 | 2021-11-11 | 2022-09-17 |
+| [My Cat](https://open.spotify.com/track/2bUGdtSMPBCMN7UMaBZ6u2) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [My Cat](https://open.spotify.com/album/7lpOIatP0ZjANeUl2YzQKY) | 1:40 | 2023-03-20 |  |
 | [Naru](https://open.spotify.com/track/3s9p5XqMCrTuUmTkVNNacS) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Naru](https://open.spotify.com/album/2UFCvN7iuvVsbCMjVfggnJ) | 1:45 | 2022-05-13 |  |
 | [new era](https://open.spotify.com/track/7CTGxw6PA0sBp8hV9e9BjQ) | [franz.](https://open.spotify.com/artist/2iNqhG5SC3ZAG6KpHM3HIk), [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [16](https://open.spotify.com/album/2Ej2zkT85Z4N0yjcVsMo0O) | 1:53 | 2022-11-11 |  |
 | [New Home](https://open.spotify.com/track/60Yiz8GUOwA69ZpxJUBZIG) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [New Home](https://open.spotify.com/album/5O8nVWrWVj9Rd1rTa51PaK) | 2:31 | 2022-06-03 | 2022-08-19 |
@@ -316,6 +318,7 @@
 | [Set the Sky on Fire](https://open.spotify.com/track/3jZ6PpHPQuON6Bt2PYl7Vs) | [Sunshine and Raindrops](https://open.spotify.com/artist/3zdR3KZ4ahx7Q9qWjqHX3Y) | [Set the Sky on Fire](https://open.spotify.com/album/2B5IYKmqCNKbUAouQeWf8L) | 2:22 | 2021-11-11 |  |
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2021-11-11 | 2022-09-03 |
 | [Shoreline Shake](https://open.spotify.com/track/5FI1P3ol0riVBoJiWk4WuY) | [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Shoreline Shake](https://open.spotify.com/album/13dCpLXy9XRBLEriI8Gzli) | 2:40 | 2022-06-24 | 2022-09-03 |
+| [Shroom](https://open.spotify.com/track/6mxnpHQMS44u4eQ9IQrus5) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Shroom](https://open.spotify.com/album/1mWo0lXQTVGZ4H3Y5xmHZB) | 3:13 | 2023-03-20 |  |
 | [slow breath](https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:08 | 2021-11-11 | 2022-07-01 |
 | [Smokes](https://open.spotify.com/track/2FGPAygk8Vsg13PZ51qINX) | [Monkey Larsson](https://open.spotify.com/artist/1NNMXNmMeMap4smySFZTLk) | [California Dreaming](https://open.spotify.com/album/14CfuAeDQUkihQCeA1c5G9) | 1:36 | 2021-11-11 | 2022-05-27 |
 | [So Good](https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [So Good](https://open.spotify.com/album/7tzLWx2zmUYzsdURvfobxf) | 2:00 | 2023-01-13 |  |
@@ -352,6 +355,7 @@
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2021-11-11 | 2022-09-24 |
 | [Talk About It](https://open.spotify.com/track/4y3r110Eb6leMBaoz83S4s) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [Talk About It](https://open.spotify.com/album/3Fcz7rRbQEKo8X3r4MMuvO) | 2:22 | 2021-11-11 |  |
 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 | 2021-11-11 | 2022-07-22 |
+| [that 90s low](https://open.spotify.com/track/1pzOWECKHnMy5UrKeJduNB) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [that 90s low](https://open.spotify.com/album/74IMFw1dPIiXI1fXvXDsH4) | 2:23 | 2023-03-20 |  |
 | [That Strange Reminder](https://open.spotify.com/track/6a5zV8gf5eSgLaajCTP4cN) | [Emilioats](https://open.spotify.com/artist/0eQrkyv90qExbZcrazhnH4) | [That Strange Reminder](https://open.spotify.com/album/2N3NpgI7nvY4mq92opKPoj) | 2:32 | 2022-04-22 |  |
 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2021-11-11 |  |
 | [The Daily Special](https://open.spotify.com/track/0cymQFMEAd4himK9cKzwEw) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Solar Daze](https://open.spotify.com/album/3TMRES3rVh3fKhri7JYgHW) | 2:12 | 2022-08-12 | 2022-11-20 |
@@ -409,6 +413,7 @@
 | [Wednesday](https://open.spotify.com/track/5HuWX6GZ5s9cOYVSv3Pi0j) | [Mike Angello](https://open.spotify.com/artist/7hwyKGEnB8408LB3SwfMM8) | [Hysteria](https://open.spotify.com/album/576XK15YhFQ8aTccc3pEom) | 1:16 | 2021-11-11 | 2022-06-10 |
 | [Wee Hours](https://open.spotify.com/track/1AmusTPVvkxMo7pTKrGWoE) | [Sobremesa](https://open.spotify.com/artist/7DiPStuVRz0u4HiOj3A5NQ), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Wee Hours](https://open.spotify.com/album/4TEuU29433mJOyxdLjclhv) | 2:32 | 2021-11-11 | 2022-05-27 |
 | [Weekend Slide](https://open.spotify.com/track/7ugkcHNMy9tjov6VMmLoKg) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Weekend Slide](https://open.spotify.com/album/2T8PKVKz0yyfqVG2PZZY74) | 2:28 | 2022-03-21 |  |
+| [What R U Takin'](https://open.spotify.com/track/7cziDoATAIL6MJiosqWkkG) | [Franky Newton](https://open.spotify.com/artist/4zrzZyQKgahX46AI1tP594) | [What R U Takin'](https://open.spotify.com/album/7MgGdtl8r5vwW2gBrBIWNg) | 2:49 | 2023-03-20 |  |
 | [Where the Sun Lives](https://open.spotify.com/track/1Q6Yq87dBVj1BYaiOsjKph) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chillin In Cabo](https://open.spotify.com/album/0R3G448YpmWiCpGRGfGgbo) | 2:21 | 2021-11-11 |  |
 | [Whiskey Jazz](https://open.spotify.com/track/2sig8mxmjeVn3MUPn6NeAC) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Whiskey Jazz](https://open.spotify.com/album/3gU8psGILcqNzKqDUEZx0m) | 2:10 | 2021-11-11 | 2022-05-27 |
 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 | 2021-11-11 |  |

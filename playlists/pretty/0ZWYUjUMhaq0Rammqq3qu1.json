@@ -1,15 +1,91 @@
 {
   "description": "Dance hits in 2023. Cover: SG Lewis",
-  "num_followers": 116671,
+  "num_followers": 116665,
   "original_name": "Dance Hits 2023",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "NDU5MCwxZjY4YjA2MjNmZDdmNmU3YTI1YjgwMWI3M2JmZWRmYmUzY2Q2ZWRm",
+  "snapshot_id": "NDU5Miw3NWIxZWU5NGE3YzYxYWZmYmQ2Y2UwZTliNzk3Y2UwZTRiZjA4Zjc3",
   "tracks": [
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 235215,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg"
+    },
+    {
+      "added_at": "2023-03-20 05:52:14",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/6ybEZk0qcfHki7HAcqUtcw"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        },
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        }
+      ],
+      "duration_ms": 203420,
+      "name": "Submarine",
+      "url": "https://open.spotify.com/track/6cBRrVuaqVQ8WW6VDUHH9l"
+    },
+    {
+      "added_at": "2023-03-20 05:52:14",
+      "album": {
+        "name": "Where Did You Go?",
+        "url": "https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go?",
+      "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
+    },
+    {
+      "added_at": "2023-03-20 05:52:14",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/1MTAPqxvOAo54UcBZLD2AQ"
+      },
+      "artists": [
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        }
+      ],
+      "duration_ms": 156916,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/7AFgtsFcRfvXd2sUKd9o88"
+    },
+    {
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
@@ -25,7 +101,27 @@
       "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
+      "album": {
+        "name": "1001 Arabian Nights",
+        "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        },
+        {
+          "name": "Chipz",
+          "url": "https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "1001 Arabian Nights",
+      "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
+    },
+    {
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Whistle (feat. Calum Scott)",
         "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
@@ -45,27 +141,7 @@
       "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
-      "album": {
-        "name": "Would You Lie (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2Lo403tMOoz1p3u1OKC1sH"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 214647,
-      "name": "Would You Lie",
-      "url": "https://open.spotify.com/track/6w1WSMy529RDbMYw6zgiiw"
-    },
-    {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Hungry Heart ft. Hayley Kiyoko",
         "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
@@ -89,7 +165,23 @@
       "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/1JVRTwsb069wBbLoFF9WeZ"
+      },
+      "artists": [
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1WFHGHJcGJuzvAybmU5oQ0"
+    },
+    {
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
@@ -109,7 +201,7 @@
       "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Can\u2019t Do Both (with Clara Mae)",
         "url": "https://open.spotify.com/album/3eLwA43vI5bh00YocrNWPU"
@@ -129,7 +221,7 @@
       "url": "https://open.spotify.com/track/51Msclnf6boUX26DmZvViX"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
@@ -149,7 +241,27 @@
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
+      "album": {
+        "name": "Would You Lie (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2Lo403tMOoz1p3u1OKC1sH"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 214647,
+      "name": "Would You Lie",
+      "url": "https://open.spotify.com/track/6w1WSMy529RDbMYw6zgiiw"
+    },
+    {
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Highs And Lows",
         "url": "https://open.spotify.com/album/2yfHta0dmPYSlOvpMhmt3P"
@@ -173,7 +285,7 @@
       "url": "https://open.spotify.com/track/5ahreMEX9oBKkDlv6pWWlE"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Ignite",
         "url": "https://open.spotify.com/album/6G9QGTgljI6R6VOUWX0A5Z"
@@ -189,7 +301,7 @@
       "url": "https://open.spotify.com/track/6B6DMevt44SK6QtCoVyAfO"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Is It Love",
         "url": "https://open.spotify.com/album/0E5lTb40e3rvtm8dWXjfmv"
@@ -209,7 +321,7 @@
       "url": "https://open.spotify.com/track/4inSIskko4hF2UAIj8lg8y"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph"
@@ -233,7 +345,7 @@
       "url": "https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Just Know It (Felix Cartal's Sunset Mix)",
         "url": "https://open.spotify.com/album/5l73wrV4OW4r208bPaiCjq"
@@ -253,7 +365,7 @@
       "url": "https://open.spotify.com/track/6g1nZGJA20gADqQYbM6JWX"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9"
@@ -273,7 +385,7 @@
       "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Worst Kept Secret",
         "url": "https://open.spotify.com/album/6GEgcymdAWxkbHWYMaHfRG"
@@ -289,7 +401,7 @@
       "url": "https://open.spotify.com/track/405Zy4AndqlaewcRzyKRtP"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "AudioLust & HigherLove",
         "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
@@ -305,7 +417,7 @@
       "url": "https://open.spotify.com/track/66x2BjfIuvRV96EoFYxBDs"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "City Of Love",
         "url": "https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0"
@@ -325,7 +437,7 @@
       "url": "https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Meant To Be",
         "url": "https://open.spotify.com/album/4guU8vaM8ltcJX7qwUH2oF"
@@ -341,7 +453,7 @@
       "url": "https://open.spotify.com/track/5NH4qjZpXcaWHGMLL7OF3n"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
@@ -361,7 +473,7 @@
       "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/3bzV6kPiPyqa1y6k3mTDsU"
@@ -385,7 +497,7 @@
       "url": "https://open.spotify.com/track/1WDyLlB5BfbWbTTYRX7baO"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "She's Like The Wind (Through My Tree)",
         "url": "https://open.spotify.com/album/7EFzQfsEuC4a4HU61QZBP8"
@@ -405,7 +517,7 @@
       "url": "https://open.spotify.com/track/1ddRmY5BXZGl8uSv8yNEsU"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Wishlist",
         "url": "https://open.spotify.com/album/4bJoRazDOrMpA58mF7n5HT"
@@ -421,7 +533,7 @@
       "url": "https://open.spotify.com/track/4WCOxwqS5NqmcGCO0FngNb"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Same Mistake",
         "url": "https://open.spotify.com/album/3u0oVZrXVxbsf3L14zDFba"
@@ -445,7 +557,7 @@
       "url": "https://open.spotify.com/track/7oHQYcT1UGBaHJr481GdVG"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx"
@@ -465,7 +577,7 @@
       "url": "https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v"
@@ -485,7 +597,7 @@
       "url": "https://open.spotify.com/track/1PknqupRJmUOeOj0ghpwLZ"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Would You Lie",
         "url": "https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V"
@@ -505,7 +617,7 @@
       "url": "https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "New York ft. mazie",
         "url": "https://open.spotify.com/album/5MIu1XVdFF3AD2rTuMvGX8"
@@ -529,7 +641,7 @@
       "url": "https://open.spotify.com/track/0WdkklLlHI5SdulAdk32wE"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
@@ -545,7 +657,7 @@
       "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Future Champ",
         "url": "https://open.spotify.com/album/4VdOqzHHavSGDDKNXUb5gl"
@@ -565,7 +677,7 @@
       "url": "https://open.spotify.com/track/6mY3z56KmPtxEYPV6i85vB"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Poison (with Timmy Trumpet x W&W)",
         "url": "https://open.spotify.com/album/0i36q6Jj9rtyiaonm15vZe"
@@ -589,7 +701,7 @@
       "url": "https://open.spotify.com/track/7d4vcqHz2rjPQooXa0CZM3"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Unbreak My Heart",
         "url": "https://open.spotify.com/album/1HyLVFnLPB5pWd5uyVNPIn"
@@ -609,7 +721,7 @@
       "url": "https://open.spotify.com/track/1SnxYv6ISgwCCDuOYacWRX"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Anti-Hero (Remixes)",
         "url": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt"
@@ -629,27 +741,7 @@
       "url": "https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "Forever (feat. Elley Duh\u00e9)",
-      "url": "https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC"
-    },
-    {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
@@ -669,31 +761,7 @@
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
-      "album": {
-        "name": "Layla (English Version)",
-        "url": "https://open.spotify.com/album/22tUIhDDaPJIau5ufP1VFz"
-      },
-      "artists": [
-        {
-          "name": "DJ Robin",
-          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
-        },
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 174964,
-      "name": "Layla - English Version",
-      "url": "https://open.spotify.com/track/6Jp404HEXaNS4FD9ZAMub1"
-    },
-    {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Havana",
         "url": "https://open.spotify.com/album/5RK7gHsV6IJ54NBJxan4fk"
@@ -713,7 +781,7 @@
       "url": "https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "I Hope That It Hurts",
         "url": "https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck"
@@ -733,7 +801,7 @@
       "url": "https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Nothing But A Heartache",
         "url": "https://open.spotify.com/album/24sK7dXdU5nesFN6pQfsHd"
@@ -757,7 +825,7 @@
       "url": "https://open.spotify.com/track/0JQQoErvSqk1VdXApeVSs8"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Superstars",
         "url": "https://open.spotify.com/album/3GahNbth3Pt8Txu3kIXl4A"
@@ -781,7 +849,7 @@
       "url": "https://open.spotify.com/track/3Nsa1lYqkuyQwFcSjG9xPj"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Worlds On Fire (with R3HAB & Au/Ra)",
         "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
@@ -805,7 +873,7 @@
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW"
@@ -829,7 +897,7 @@
       "url": "https://open.spotify.com/track/0lqgo6rIBS0nVsvppZC3Ay"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Don\u2019t Wake Me Up",
         "url": "https://open.spotify.com/album/4jtphbkIygNlWbAvstfIIv"
@@ -849,7 +917,7 @@
       "url": "https://open.spotify.com/track/75kDBnxxZLRLJoP7qyVuTX"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
         "url": "https://open.spotify.com/album/5fGpsmRrs2q0XWY8lo4xaA"
@@ -873,27 +941,7 @@
       "url": "https://open.spotify.com/track/251aCFbFK1f4Jkil96E5g1"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/2Oy8FCMc08WhIBKRU9r79v"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 156249,
-      "name": "Reckless (with M\u00d8)",
-      "url": "https://open.spotify.com/track/6FUHEGAHbt4DbUFp5dNwod"
-    },
-    {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
@@ -917,7 +965,7 @@
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Perfect Melody",
         "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
@@ -937,7 +985,7 @@
       "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
@@ -957,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
-      "added_at": "2023-03-06 05:30:48",
+      "added_at": "2023-03-20 05:52:14",
       "album": {
         "name": "Do It Better (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
@@ -975,62 +1023,6 @@
       "duration_ms": 170045,
       "name": "Do It Better (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
-    },
-    {
-      "added_at": "2023-03-06 05:30:48",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
-    },
-    {
-      "added_at": "2023-03-06 05:30:48",
-      "album": {
-        "name": "Heavy Metal Love",
-        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Heavy Metal Love",
-      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
-    },
-    {
-      "added_at": "2023-03-06 05:30:48",
-      "album": {
-        "name": "Where Did You Go?",
-        "url": "https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go?",
-      "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
     }
   ],
   "unique_name": "Dance Hits 2023",

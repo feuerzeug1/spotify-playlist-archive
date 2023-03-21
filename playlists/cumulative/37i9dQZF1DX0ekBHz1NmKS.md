@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-657 songs - 1 day 10 hr 51 min
+658 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Alone with Me](https://open.spotify.com/track/4LvpvKYAJY7S4oWygjyCbS) | [Bella Skyller](https://open.spotify.com/artist/5c8mQlkuj5vXcRsPvdAdjD) | [Alone with Me](https://open.spotify.com/album/6h1jgOTerKJ2t8xFF2Or7E) | 3:28 | 2022-03-17 | 2022-05-08 |
 | [Amazon](https://open.spotify.com/track/30QJyAyoVxj63NSr4zGXNg) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [Amazon](https://open.spotify.com/album/3sJuGsgyLtnAO2qS1un1Hk) | 3:25 | 2022-04-28 | 2022-07-08 |
 | [Amerika](https://open.spotify.com/track/1hY8fmJv09fIDFh8Tnz4SS) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Amerika](https://open.spotify.com/album/44IWjhudWo6wXlU9kpSCv8) | 4:53 | 2022-06-16 | 2022-07-12 |
+| [And The Oscar Goes To](https://open.spotify.com/track/6M3fZyQynCjyInsOk0ePW4) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [And The Oscar Goes To](https://open.spotify.com/album/193B7SpZ5AOyiYLutUz313) | 2:48 | 2023-03-16 |  |
 | [Andas](https://open.spotify.com/track/6six34mEJ75TVaPcKeeHrC) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Andas](https://open.spotify.com/album/3pdIAffaj2U6tXnXLGA70Y) | 3:30 | 2021-12-16 | 2022-03-11 |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-28 |  |
 | [Aniara](https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:49 | 2022-05-30 |  |
@@ -403,7 +404,7 @@
 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 | 2021-12-16 | 2022-03-04 |
 | [Nonono](https://open.spotify.com/track/3yfMnmyvUPamwT4aXCORmk) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Nonono](https://open.spotify.com/album/2uDilBq2pCCTzXA3RdKCwT) | 4:02 | 2021-12-16 | 2022-02-22 |
 | [not your fault](https://open.spotify.com/track/2jtHAE1bwV0qPnpg1KCMkH) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [not your fault](https://open.spotify.com/album/0Qq8puDyqqdmAWMUirix5o) | 3:45 | 2022-03-10 | 2022-04-21 |
-| [Notre\-Dame](https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Notre\-Dame](https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch) | 3:22 | 2022-04-07 |  |
+| [Notre\-Dame](https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Notre\-Dame](https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch) | 3:22 | 2022-04-07 | 2023-03-21 |
 | [Nu Brinner Ängarna](https://open.spotify.com/track/3RmmF7UZoucWbBy8zuG3T5) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Nu Brinner Ängarna](https://open.spotify.com/album/31Jd4Ug0PDK80oj1rGZEsY) | 2:41 | 2021-12-16 | 2022-03-11 |
 | [Nu grönskar det](https://open.spotify.com/track/5ZZGRLU47Gkp8q5ERLTLP5) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [Nu grönskar det](https://open.spotify.com/album/7sMqoulaSuezdKiz0T9K3d) | 3:39 | 2022-03-17 | 2022-07-29 |
 | [Nu kan du få mig så lätt \- Spotify Singles](https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Nu kan du få mig så lätt \- Spotify Singles](https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo) | 3:00 | 2022-05-12 |  |

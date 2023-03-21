@@ -1,12 +1,12 @@
 {
   "description": "All the New Joints featuring Gucci Mane, Lil Mosey and more. Cover: GloRilla",
-  "num_followers": 209608,
+  "num_followers": 209700,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTEwODQ2MiwwMDAwMDAwMGQ4YTkyY2MxMDZmNjZkMzJlMzE3MDBkZGY5Nzg3NGY0",
+  "snapshot_id": "MTY3OTI3OTEzMywwMDAwMDAwMDU4MzFhYjJiNzRhM2I2ODQ2ZGE5NjBlZDNjNzgxOGRm",
   "tracks": [
     {
       "added_at": "2023-03-17 08:12:36",
@@ -27,6 +27,22 @@
       "duration_ms": 197011,
       "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
       "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
+    },
+    {
+      "added_at": "2023-03-17 08:12:36",
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "BALL LIKE ME TOO",
+      "url": "https://open.spotify.com/track/2niJk9HZuWEBGPuR1aGYjy"
     },
     {
       "added_at": "2023-03-17 08:12:36",
@@ -55,22 +71,6 @@
     {
       "added_at": "2023-03-17 08:12:36",
       "album": {
-        "name": "Flu Game",
-        "url": "https://open.spotify.com/album/3wIiLi9UOmviVrZxLoq0p7"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 133906,
-      "name": "Flu Game",
-      "url": "https://open.spotify.com/track/1Nb5qtsaBGGcfEAK5vcn1O"
-    },
-    {
-      "added_at": "2023-03-17 08:12:36",
-      "album": {
         "name": "Creepin' (Remix)",
         "url": "https://open.spotify.com/album/3P2UkOkqWp8ucd1EOnVAH7"
       },
@@ -95,22 +95,6 @@
       "duration_ms": 232800,
       "name": "Creepin' (feat. 21 Savage) - Remix",
       "url": "https://open.spotify.com/track/5Ee4IyhPaOVRMc15fUOeG9"
-    },
-    {
-      "added_at": "2023-03-17 08:12:36",
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "BALL LIKE ME TOO",
-      "url": "https://open.spotify.com/track/2niJk9HZuWEBGPuR1aGYjy"
     },
     {
       "added_at": "2023-03-17 08:12:36",
@@ -169,6 +153,74 @@
       "url": "https://open.spotify.com/track/3jL2NEybvvgwpepnbF1bAN"
     },
     {
+      "added_at": "2023-03-17 08:12:36",
+      "album": {
+        "name": "Protect Me From Evil",
+        "url": "https://open.spotify.com/album/16gD38m4uMp78GLekoVP7y"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Protect Me From Evil",
+      "url": "https://open.spotify.com/track/12zZRWYbmGwLAM3AHGw5Aq"
+    },
+    {
+      "added_at": "2023-03-17 08:12:36",
+      "album": {
+        "name": "Flu Game",
+        "url": "https://open.spotify.com/album/3wIiLi9UOmviVrZxLoq0p7"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "duration_ms": 133906,
+      "name": "Flu Game",
+      "url": "https://open.spotify.com/track/1Nb5qtsaBGGcfEAK5vcn1O"
+    },
+    {
+      "added_at": "2023-03-17 08:12:36",
+      "album": {
+        "name": "Short Skirt (Original and Sped Up)",
+        "url": "https://open.spotify.com/album/1DcgosAH0rzrP1ZfT9FN9T"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 146337,
+      "name": "Short Skirt",
+      "url": "https://open.spotify.com/track/2USaqXUoDiGYjnzwJWKr2D"
+    },
+    {
+      "added_at": "2023-03-17 08:12:36",
+      "album": {
+        "name": "Essence Fest",
+        "url": "https://open.spotify.com/album/1FF2B85Tz9BP4GP5nnz6fr"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        }
+      ],
+      "duration_ms": 181594,
+      "name": "Essence Fest",
+      "url": "https://open.spotify.com/track/3BGcnN2i4Lm98vNrUcM37j"
+    },
+    {
       "added_at": "2023-03-18 03:01:02",
       "album": {
         "name": "Shabooya (Remix)",
@@ -203,58 +255,6 @@
       "duration_ms": 231774,
       "name": "Shabooya - Remix",
       "url": "https://open.spotify.com/track/3phHsBW2j2Asxk4Q5BwzSS"
-    },
-    {
-      "added_at": "2023-03-17 08:12:36",
-      "album": {
-        "name": "Short Skirt (Original and Sped Up)",
-        "url": "https://open.spotify.com/album/1DcgosAH0rzrP1ZfT9FN9T"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 146337,
-      "name": "Short Skirt",
-      "url": "https://open.spotify.com/track/2USaqXUoDiGYjnzwJWKr2D"
-    },
-    {
-      "added_at": "2023-03-17 08:12:36",
-      "album": {
-        "name": "Protect Me From Evil",
-        "url": "https://open.spotify.com/album/16gD38m4uMp78GLekoVP7y"
-      },
-      "artists": [
-        {
-          "name": "BigWalkDog",
-          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Protect Me From Evil",
-      "url": "https://open.spotify.com/track/12zZRWYbmGwLAM3AHGw5Aq"
-    },
-    {
-      "added_at": "2023-03-17 08:12:36",
-      "album": {
-        "name": "Essence Fest",
-        "url": "https://open.spotify.com/album/1FF2B85Tz9BP4GP5nnz6fr"
-      },
-      "artists": [
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
-        }
-      ],
-      "duration_ms": 181594,
-      "name": "Essence Fest",
-      "url": "https://open.spotify.com/track/3BGcnN2i4Lm98vNrUcM37j"
     },
     {
       "added_at": "2023-03-17 08:12:36",

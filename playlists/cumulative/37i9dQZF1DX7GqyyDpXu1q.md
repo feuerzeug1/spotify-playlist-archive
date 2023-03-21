@@ -4,15 +4,16 @@
 
 > Rock swagger served neat\. Cover: Nickelback
 
-176 songs - 10 hr 49 min
+178 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [105 Degrees](https://open.spotify.com/track/061NHZijloOmBvbujB72sm) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:10 | 2021-07-02 | 2022-04-09 |
 | [11/17](https://open.spotify.com/track/3efydF0TF67eydgM86XEwq) | [The Honest Heart Collective](https://open.spotify.com/artist/2qgcVY8aup4vFHfp4uoZ2X) | [11/17](https://open.spotify.com/album/0VOFvOzlavgsiKF0e9bJhY) | 2:32 | 2021-08-06 | 2022-02-19 |
 | [Again](https://open.spotify.com/track/71si6qnqug1pf2qHgRxMDV) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Again](https://open.spotify.com/album/5nFsS70swqj4YWP5t6vyWh) | 3:55 | 2020-08-21 | 2022-01-05 |
+| [Ain't No Need](https://open.spotify.com/track/2kpYpvDn6mYERIUqIrFSb9) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Lost in the Valley of Hate & Love Vol\. I](https://open.spotify.com/album/66FdUWpsGaziwlkZivqOUP) | 4:18 | 2023-01-06 |  |
 | [Ain't No Need](https://open.spotify.com/track/5aln9BaySR0CldSCFY6xdX) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Ain't No Need](https://open.spotify.com/album/2f1WE56CRY8UddaiXoYvFb) | 4:18 | 2021-08-27 | 2022-07-29 |
-| [Ain't No Need](https://open.spotify.com/track/5iPzaDpKReF3XqdmFvpwaU) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Ain't No Need](https://open.spotify.com/album/4iFlqyFAhYzqMvrntfeAB3) | 4:18 | 2022-06-14 |  |
+| [Ain't No Need](https://open.spotify.com/track/5iPzaDpKReF3XqdmFvpwaU) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Ain't No Need](https://open.spotify.com/album/4iFlqyFAhYzqMvrntfeAB3) | 4:18 | 2022-06-14 | 2023-03-21 |
 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 | 2020-08-21 |  |
 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 | 2022-08-16 |  |
 | [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 | 2021-07-16 |  |
@@ -74,8 +75,9 @@
 | [Give Me One Reason](https://open.spotify.com/track/2ijOycEM1ZFb5s1IrneQQo) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Give Me One Reason](https://open.spotify.com/album/56r5BoQZc84HHZP3r4Rhs1) | 3:35 | 2022-10-28 | 2022-11-13 |
 | [Give Me One Reason](https://open.spotify.com/track/2jjfkPJmgsAbgT5peNwoFL) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Give Me One Reason](https://open.spotify.com/album/4M4iQFxjYyT8dIaYTciHJr) | 3:35 | 2021-07-02 | 2022-07-29 |
 | [Give Me One Reason \(The Plug\)](https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [The Human Condition \(Deluxe Edition\)](https://open.spotify.com/album/4ZtEyTG6s7MfPjoEDrxH9C) | 3:34 | 2022-06-14 |  |
-| [Good Life](https://open.spotify.com/track/0dmJKXSpzkNbxnoCJDJ1ZV) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Good Life](https://open.spotify.com/album/1k5RtNRhskf6DG3mX7Oh6Y) | 3:12 | 2022-06-14 |  |
+| [Good Life](https://open.spotify.com/track/0dmJKXSpzkNbxnoCJDJ1ZV) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Good Life](https://open.spotify.com/album/1k5RtNRhskf6DG3mX7Oh6Y) | 3:12 | 2022-06-14 | 2023-03-21 |
 | [Good Life](https://open.spotify.com/track/1wsUe3xzuhB5FB8HpFvZjA) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Good Life](https://open.spotify.com/album/7LIyBPr7s9Gb2b4TG4Qe2B) | 3:12 | 2021-11-05 | 2022-07-29 |
+| [Good Life](https://open.spotify.com/track/3A7HkIU9cVYrT5ZopIxH09) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Lost in the Valley of Hate & Love Vol\. I](https://open.spotify.com/album/66FdUWpsGaziwlkZivqOUP) | 3:12 | 2023-01-06 |  |
 | [Good Night Down in Georgia](https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/4C75RzJVeSN3s1K0cwZTpY) | 4:10 | 2021-08-13 |  |
 | [Got Me Feeling Good](https://open.spotify.com/track/4RuCWaWlvXHwM39EZMYtBT) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Got Me Feeling Good](https://open.spotify.com/album/0C1KjdzzSIg1iDvGhIAfFn) | 4:12 | 2021-03-26 | 2022-01-05 |
 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-09-03 |  |

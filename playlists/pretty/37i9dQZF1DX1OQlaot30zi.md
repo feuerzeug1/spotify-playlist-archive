@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rhove, thasup, Tedua, Dani Faiv e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,105 likes - 98 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,138 likes - 98 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

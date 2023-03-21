@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXQuxfjYVxb.md) - [plain]
 
 > The very best of Cardi B\. Listen to Cardi's new song  "UP" Okurr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,268 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,381 likes - 43 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXQuxfjYVxb.md) - [plain]
 | 31 | [Bronx Season](https://open.spotify.com/track/5rsH1ezDwyf4o8JJguPgRc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Gangsta Bitch Music Vol\. 2](https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM) | 2:22 |
 | 32 | [Washpoppin](https://open.spotify.com/track/4GDhJN2w2fLMovXBvjWywV) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Gangsta Bitch Music Vol 1](https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO) | 3:20 |
 | 33 | [Sauce Boyz](https://open.spotify.com/track/5W8U3zV3xjeZL0gjKapWxZ) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Gangsta Bitch Music Vol 1](https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO) | 2:53 |
-| 34 | [Back It Up \(feat\. Konshens & Hoodcelebrityy\)](https://open.spotify.com/track/6J4khM5qxAUjCsxoURWem1) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [HoodCelebrityy](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Gangsta Bitch Music Vol\. 2](https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM) | 2:37 |
+| 34 | [Back It Up \(feat\. Konshens & Hoodcelebrityy\)](https://open.spotify.com/track/6J4khM5qxAUjCsxoURWem1) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Gangsta Bitch Music Vol\. 2](https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM) | 2:37 |
 | 35 | [Cute \- Remix](https://open.spotify.com/track/0s12zeNh080RjPnV8gWngY) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Cute \(Remix\) \[feat\. Cardi B\]](https://open.spotify.com/album/3AquWPa5RWSiV4PTUuzXXI) | 3:53 |
 | 36 | [Trust Issues](https://open.spotify.com/track/4cxKwt0mdy35povvGlyirE) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Gangsta Bitch Music Vol 1](https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO) | 2:24 |
 | 37 | [Rollin](https://open.spotify.com/track/5FY4uYtImpQporoncKhclK) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Gangsta Bitch Music Vol\. 2](https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM) | 3:34 |

@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -8322,7 +8322,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -10347,6 +10347,24 @@
     },
     {
       "album": {
+        "name": "Kiss cam (podryw roku)",
+        "url": "https://open.spotify.com/album/72xEFOgZRGb1r1d2nehyyg"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2021-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-03",
+      "duration_ms": 170508,
+      "name": "Kiss cam (podryw roku)",
+      "url": "https://open.spotify.com/track/5hfJcAXpOVb65HtYqgtoE4"
+    },
+    {
+      "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
       },
@@ -10366,28 +10384,10 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 177306,
-      "name": "Kiss cam",
-      "url": "https://open.spotify.com/track/6eIVuPSZ7D8Q1uaZc8cQnz"
-    },
-    {
-      "album": {
-        "name": "Kiss cam (podryw roku)",
-        "url": "https://open.spotify.com/album/72xEFOgZRGb1r1d2nehyyg"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "date_added": "2021-06-23",
-      "date_added_asterisk": false,
-      "date_removed": "2021-10-03",
-      "duration_ms": 170508,
       "name": "Kiss cam (podryw roku)",
-      "url": "https://open.spotify.com/track/5hfJcAXpOVb65HtYqgtoE4"
+      "url": "https://open.spotify.com/track/6eIVuPSZ7D8Q1uaZc8cQnz"
     },
     {
       "album": {
@@ -12752,7 +12752,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 45 min 7 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 4 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You're Insane](https://open.spotify.com/track/5dBwTQ0yjA05SggkAfrAeL) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Ungrateful \(Deluxe\)](https://open.spotify.com/album/0oDUmbhMjDzh8AeVvyy9xX) | 3:34 |
-| 2 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:06 |
-| 3 | [Equally Destructive](https://open.spotify.com/track/0Nt1lKIspwVGteAP2oMoZs) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever](https://open.spotify.com/album/3BZ4eHYpae6I6rJRioNAHN) | 3:31 |
-| 4 | [When I Get Home You're So Dead](https://open.spotify.com/track/4ccr6FKdh8sfhnQWDGJDg5) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/7F9J85hbe51aJxuZCVndET) | 3:13 |
-| 5 | [Pembe](https://open.spotify.com/track/0a41ZkguFMiqfmsZ6b4GFb) | [Afil](https://open.spotify.com/artist/3VLAvGTqIwUGu3Tq8uI4TQ) | [Pembe](https://open.spotify.com/album/1Sd7cRCqnXwqF2DwocoSVw) | 2:30 |
-| 6 | [Tears of a Clown](https://open.spotify.com/track/1UuWgZ0TXOAKCa7bXD0zW8) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 4:58 |
-| 7 | [Hunting High and Low](https://open.spotify.com/track/5tewIdMVsaJWN19ZnmnPNN) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:48 |
-| 8 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 |
-| 9 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 |
-| 10 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
-| 11 | [Sleeping Village](https://open.spotify.com/track/0Had26EYIfPuSIxhnzoeen) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(Remastered\)](https://open.spotify.com/album/3kloiihScLGVQVI1uHvdsd) | 3:46 |
-| 12 | [Çilehane](https://open.spotify.com/track/2dxALETfKISmxQaLeZe8Mc) | [H\. Mücahit Pehlivan](https://open.spotify.com/artist/4u76tO2Z2kYuhMF0M2JV2q) | [Çilehane](https://open.spotify.com/album/1JscprvxhMRCWKLnqpZS0X) | 3:09 |
+| 1 | [Sancta Terra](https://open.spotify.com/track/2fmVfcXaKrDNHa3ZKeILob) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Divine Conspiracy](https://open.spotify.com/album/0GCDjxk7URd6Glt4mg1EgP) | 4:57 |
+| 2 | [La Vida Que Yo He Pasado \- Unplugged Version](https://open.spotify.com/track/2jqLB54yRp8SLNzBALhqyp) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 3:20 |
+| 3 | [Symphony No\. 40 in G Minor, K\. 550: III\. Menuetto \(Allegretto\) \- Trio \- Live at Grosser Saal, Musikverein, Wien / 1984](https://open.spotify.com/track/5nRrWjNIjQcs7EE4kUfdLm) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [Mozart: Symphony No\. 40 in G minor K.550](https://open.spotify.com/album/6zibIhSvaqI1TEeZO5FujG) | 4:51 |
+| 4 | [Anywhere But Here](https://open.spotify.com/track/2jPHd4fHNhm2QnJPqK130V) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 3:45 |
+| 5 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 |
+| 6 | [Rose of Sharyn](https://open.spotify.com/track/6dLXK2ppW3GiNEHN2vcMWl) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [The End of Heartache \(Special Edition\)](https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V) | 3:36 |
+| 7 | [M+M's](https://open.spotify.com/track/396eg8tYcMWHRhk8lmZYq1) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits \[International Version \(Explicit\)\]](https://open.spotify.com/album/0SvLzQZVwLWoY7p7zUcvxs) | 2:35 |
+| 8 | [Quantity Is Their Quality](https://open.spotify.com/track/2m44i9r4MwUB7jRnzN3orw) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Sleepwalking](https://open.spotify.com/album/4LtD59YdjyGoA8twhW3gPo) | 3:28 |
+| 9 | [When I Come Around](https://open.spotify.com/track/0mhFWJ1HkT8pTeqdlNRxvA) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [International Superhits!](https://open.spotify.com/album/6HUIbDhzmqcwxrxUfTuHdW) | 2:58 |
+| 10 | [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 |
+| 11 | [Heartless \- Live at the Capitol](https://open.spotify.com/track/2PNkYCxSIhDBeDdZ5lk2Cb) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart Re\-Issue](https://open.spotify.com/album/1tVzHnNzqvnpUgeThbHJF7) | 2:54 |
+| 12 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
 
-Snapshot ID: `MzMsZmJkMDY0Zjg4NGQ3NWE0OGE1OGMxYzlmMGEwNTIxNDNiYjI4OTVhMw==`
+Snapshot ID: `MzQsMDBkNDhkNTI1OTlhNDVlNWE2YzUwMmM3ZjNiZDQ2Yjc0OTQ3NDYzMw==`

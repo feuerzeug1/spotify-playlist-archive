@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Evening Drive",
+        "url": "https://open.spotify.com/album/5vp1e9FAeRseEuk4XCVVll"
+      },
+      "artists": [
+        {
+          "name": "Milo Who",
+          "url": "https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Evening Drive",
+      "url": "https://open.spotify.com/track/5Q9BHeEnFBt4KAPRTc3MmZ"
+    },
+    {
+      "album": {
         "name": "Exploring",
         "url": "https://open.spotify.com/album/25v9SOmcBQvQlvQ3dOrKYZ"
       },
@@ -8706,7 +8724,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 165333,
       "name": "Woodstock",
       "url": "https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ"

@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Manuel Turizo",
-  "num_followers": 56529,
+  "num_followers": 56525,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzcxOSxhZjhkOTc1NmRlMzQyNmVjNTU3Y2MzMzE5NWUxZGU4ZGU4ZGI5OGFl",
+  "snapshot_id": "MzcyMCwwMWI5OGJhMjVmNjBjNzczMjkxNmU2MDEyODM1NDQzZGEzOGUzYjBm",
   "tracks": [
     {
       "added_at": "2023-03-17 04:22:20",
@@ -239,6 +239,26 @@
       "duration_ms": 171100,
       "name": "Kriptonita (feat. Villano Antillano)",
       "url": "https://open.spotify.com/track/0OfGEZISm2Pilt7xj5wNGZ"
+    },
+    {
+      "added_at": "2023-03-20 13:44:05",
+      "album": {
+        "name": "Condenao",
+        "url": "https://open.spotify.com/album/0mXcfPWbOSFd6lBTUu8zmC"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "G.Zamora",
+          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Condenao",
+      "url": "https://open.spotify.com/track/37qL6CKrmLqURQxkGUxURc"
     },
     {
       "added_at": "2023-03-10 14:55:39",

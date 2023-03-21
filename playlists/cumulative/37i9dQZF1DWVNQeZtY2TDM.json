@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "From Taiwan to all the mandarin-speaking regions, young generation is looking to hip-hop for expression. Cover: MC\u8000\u5b97",
+  "description": "From Taiwan to all the mandarin-speaking regions, young generation is looking to hip-hop for expression. Cover: Barry Chen (\u9673\u67cf\u9293)",
   "name": "Mandarin Hip Hop Stars",
   "tracks": [
     {
@@ -210,6 +210,24 @@
       "duration_ms": 192258,
       "name": "Again",
       "url": "https://open.spotify.com/track/1xmYHZHNAvcPJpGBo1p6bz"
+    },
+    {
+      "album": {
+        "name": "Air Max",
+        "url": "https://open.spotify.com/album/79qici9VWr84McpUtMFnGM"
+      },
+      "artists": [
+        {
+          "name": "PSY.P",
+          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185365,
+      "name": "Air Max",
+      "url": "https://open.spotify.com/track/5quCNBLhyHE7O9fMpPt31Z"
     },
     {
       "album": {
@@ -513,6 +531,32 @@
     },
     {
       "album": {
+        "name": "Rose Again",
+        "url": "https://open.spotify.com/album/1LY5XxJaCmqkp2LPVj6iY0"
+      },
+      "artists": [
+        {
+          "name": "Barry Chen",
+          "url": "https://open.spotify.com/artist/45sDYsh1i1bXB3IRi04MTz"
+        },
+        {
+          "name": "Gordon",
+          "url": "https://open.spotify.com/artist/4L4ArdVJzY6Uxbd82fJjqu"
+        },
+        {
+          "name": "JAYRoll",
+          "url": "https://open.spotify.com/artist/26A8DOKj6bgV93LtPkonbG"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248823,
+      "name": "Believe It (feat. \u570b\u86cb & JAYRoll)",
+      "url": "https://open.spotify.com/track/2BDYRtVdjawWegSZb24fVI"
+    },
+    {
+      "album": {
         "name": "Black Car",
         "url": "https://open.spotify.com/album/0F75HR9SARaSUdiDYpIP87"
       },
@@ -811,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Can't Can't",
+        "url": "https://open.spotify.com/album/3GPjXWqYsa3IIWaoYSxv8z"
+      },
+      "artists": [
+        {
+          "name": "+How",
+          "url": "https://open.spotify.com/artist/6LflNwn9tEmNpKasydqjHR"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174188,
+      "name": "Can't Can't",
+      "url": "https://open.spotify.com/track/1GKibtlc9S4j2eQGHjOBUt"
+    },
+    {
+      "album": {
         "name": "Capital Q",
         "url": "https://open.spotify.com/album/7lArZYcWOSDMqduJb5GXyH"
       },
@@ -884,7 +946,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 155155,
       "name": "Cheeky Face",
       "url": "https://open.spotify.com/track/0Tfl1o2814LFQEM1gN6fRI"
@@ -1126,7 +1188,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 167210,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/0c4SYDG2fS04yf2A1Wteu6"
@@ -2948,7 +3010,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 187893,
       "name": "My Sh*t",
       "url": "https://open.spotify.com/track/3nqqa51bfaOQTCfneq5iyO"
@@ -2974,7 +3036,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 160941,
       "name": "Neva Fold",
       "url": "https://open.spotify.com/track/2lsXjjKVuebb4yt8sYRB2W"
@@ -3080,6 +3142,28 @@
       "duration_ms": 213818,
       "name": "No Worry (feat. \u7626\u5b50E.SO)",
       "url": "https://open.spotify.com/track/1tnhlu9jKI3RCjro28rIYG"
+    },
+    {
+      "album": {
+        "name": "Northside",
+        "url": "https://open.spotify.com/album/7H0V17nIruoQ8As5A4sxCH"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Dizzo",
+          "url": "https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw"
+        },
+        {
+          "name": "KVNLOVERBOY",
+          "url": "https://open.spotify.com/artist/2rlYr1sTRq3Ey2ktT2XPIG"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Northside",
+      "url": "https://open.spotify.com/track/69ajBgmgWTlbKmVqJD4TzL"
     },
     {
       "album": {
@@ -3900,7 +3984,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 189189,
       "name": "STAR",
       "url": "https://open.spotify.com/track/04a06H09YFENQMGvmdFdcE"
@@ -4392,7 +4476,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 172176,
       "name": "The Happy Song (prod. by PUZZLEMAN)",
       "url": "https://open.spotify.com/track/2G4DRTmZJhLlinjpkkX49G"
@@ -5703,6 +5787,24 @@
     },
     {
       "album": {
+        "name": "\u5289\u3109\u83ef",
+        "url": "https://open.spotify.com/album/2AC0MxXzO01fNRpKYoii7q"
+      },
+      "artists": [
+        {
+          "name": "HomeRich",
+          "url": "https://open.spotify.com/artist/4GtW6FVTo4AlQRzVMgexJF"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165520,
+      "name": "\u5289\u3109\u83ef",
+      "url": "https://open.spotify.com/track/3u3BHxv7cZPfNDy97KIG7r"
+    },
+    {
+      "album": {
         "name": "\u534a\u591c Highway",
         "url": "https://open.spotify.com/album/24qyyToahxZ8zuSUw5Th23"
       },
@@ -5744,6 +5846,24 @@
       "duration_ms": 240352,
       "name": "\u53cd\u6b63\u6211\u5011\u90fd\u8981\u6b7b",
       "url": "https://open.spotify.com/track/0OYrnq2dyD5tHwHmH8hZsZ"
+    },
+    {
+      "album": {
+        "name": "\u5927\u563b\u54c8\u6642\u4ee32: JUDGE \u8a55\u5be9\u4e3b\u984c\u8cfd_\u8857\u5340\u6545\u4e8b / \u611b\u8207\u6068 / \u9322\u8207\u540d\u5229",
+        "url": "https://open.spotify.com/album/79KHcCyORAKRIci65KfFyw"
+      },
+      "artists": [
+        {
+          "name": "Gummy B",
+          "url": "https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223314,
+      "name": "\u53db\u9006\u671f",
+      "url": "https://open.spotify.com/track/3tYRiCO1sIj10WI6aTPvVG"
     },
     {
       "album": {
@@ -5882,7 +6002,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 210418,
       "name": "\u56e0\u70ba\u6211\u9084\u5e74\u8f15",
       "url": "https://open.spotify.com/track/2rJZJT8waYGkWIDlP6OKVI"
@@ -6890,7 +7010,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 195000,
       "name": "\u611b,\u4e0d\u5b58\u5728? - \u5287\u5834\u7248",
       "url": "https://open.spotify.com/track/5QAaM2hr88Upn81PfVw3PP"
@@ -8372,7 +8492,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 215717,
       "name": "\u73b0\u8c61 (PHENOMENON)",
       "url": "https://open.spotify.com/track/1pwJiQtACBQHQQQWh40Ifw"
@@ -8712,7 +8832,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-21",
       "duration_ms": 215181,
       "name": "\u7d55\u592a\u5e73\u6d0b",
       "url": "https://open.spotify.com/track/1DWleMjZwDptTh28SCAirj"
@@ -9800,6 +9920,24 @@
       "duration_ms": 205597,
       "name": "\u903c\u74e6\u7279 (feat. \u7530\u4e00\u5fb7)",
       "url": "https://open.spotify.com/track/1UMMFhNOXcwWTdBFFBxTtx"
+    },
+    {
+      "album": {
+        "name": "\u904a\u6232\u898f\u5247",
+        "url": "https://open.spotify.com/album/2Ka9TJRds1Mo4t2uVbbS68"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u7d93\u5143",
+          "url": "https://open.spotify.com/artist/0JO7LjM53ktNVO02Px0aDh"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163555,
+      "name": "\u904a\u6232\u898f\u5247",
+      "url": "https://open.spotify.com/track/4Bii5xFXOeLqTD0dFK7MZp"
     },
     {
       "album": {

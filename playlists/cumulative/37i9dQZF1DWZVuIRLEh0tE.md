@@ -4,7 +4,7 @@
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Bulin 47
 
-136 songs - 6 hr 45 min
+137 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [De La Mata](https://open.spotify.com/track/7BqEX4un0WgjEPuvEi6qIJ) | [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc) | [De La Mata](https://open.spotify.com/album/13mCUKmlZQke3fqHlQigFi) | 3:09 | 2022-12-02 | 2023-01-06 |
 | [De Manhattan Pa El Bronx](https://open.spotify.com/track/6JPCogBdqEPWvw8orbmdx4) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [De Manhattan Pa El Bronx](https://open.spotify.com/album/1dAbiPuNIR5oiA2C3dSl75) | 2:48 | 2022-03-15 |  |
 | [Delicioso](https://open.spotify.com/track/5iWzFct1LpGzj8kIYHEoLN) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Young Gatillo](https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD) | [Delicioso](https://open.spotify.com/album/4n5362Z6upMKpnBTf95Joq) | 2:33 | 2022-05-27 | 2022-05-31 |
-| [Depues De Las 3](https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Depues De Las 3](https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG) | 3:11 | 2022-03-15 |  |
+| [Depues De Las 3](https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Depues De Las 3](https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ) | 3:11 | 2023-03-17 |  |
+| [Depues De Las 3](https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Depues De Las 3](https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG) | 3:11 | 2022-03-15 | 2023-03-21 |
 | [Desacatate](https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Desacatate](https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV) | 2:41 | 2022-05-13 | 2023-01-06 |
 | [Diablona](https://open.spotify.com/track/0WoS8Xeb60rK22NuShJv97) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Onguito](https://open.spotify.com/artist/5CEmVm4SbLawlq7evC42i0) | [Diablona](https://open.spotify.com/album/5WOuqQYFO6mp1rqIVCOENu) | 3:33 | 2022-03-15 |  |
 | [Dime](https://open.spotify.com/track/03WvboIAz8l4bemwpW4r99) | [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT) | [Dime](https://open.spotify.com/album/6mFKAOFq085ztxcnGII91s) | 2:40 | 2022-03-15 | 2022-05-28 |

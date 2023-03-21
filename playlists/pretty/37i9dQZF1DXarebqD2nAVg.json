@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 413347,
+  "num_followers": 413534,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMGI4OGI3YzM2MTc0OTljZWYxZGQxODlhNDE4NDU4MDY0",
+  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMDFhZmYyNGE0N2ZhMWFiZjA2MzBmMGJmYTE1OTkzOTE1",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "[oops]",
+        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "[oops]",
+      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 105142,
       "name": "I Don't Sleep",
       "url": "https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "[oops]",
-        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "[oops]",
-      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP"
+      },
+      "artists": [
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "Louie's Lullaby",
+      "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Seymour (with Dawn Golden)",
         "url": "https://open.spotify.com/album/7BccR0AIrdXUozgZTAX6gE"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 113345,
       "name": "Seymour (with Dawn Golden)",
       "url": "https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP"
-      },
-      "artists": [
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "Louie's Lullaby",
-      "url": "https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71"
     },
     {
       "added_at": "2023-02-16 22:50:07",
