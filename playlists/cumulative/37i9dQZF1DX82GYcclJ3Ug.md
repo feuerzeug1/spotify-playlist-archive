@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Cover: Tash Sultana
 
-896 songs - 1 day 23 hr 35 min
+897 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Beautiful Life](https://open.spotify.com/track/6wAut6sadO8orbRcbRLUCV) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Beautiful Life](https://open.spotify.com/album/5UtjShaLwFSPTBIqEFQSnD) | 3:27 | 2021-11-26 | 2022-01-29 |
 | [Beauty In The Bad Things](https://open.spotify.com/track/0aGXMi4C241O4y0vtIFAmI) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Beauty In The Bad Things](https://open.spotify.com/album/79vwQSbG2INsGGIJHT57Gs) | 3:33 | 2022-07-01 | 2022-07-30 |
 | [Bed Head](https://open.spotify.com/track/5dNxaT34wYwGWv7eqGviBm) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Bed Head](https://open.spotify.com/album/59URAiEtM041RlY61UImaJ) | 2:43 | 2022-07-01 | 2022-08-06 |
-| [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 | 2023-02-24 |  |
+| [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 | 2023-02-24 | 2023-03-22 |
+| [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 | 2023-03-17 |  |
 | [Beds Are Burning \(feat\. Tim Mcllrath of Rise Against\)](https://open.spotify.com/track/3lF0EMxSiT8uee5dSgKyUO) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Beds are Burning \(feat\. Tim McIlrath of Rise Against\)](https://open.spotify.com/album/1xrX7Y8XQzeZvBvC8V6INj) | 4:06 | 2022-03-04 | 2022-07-23 |
 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 | 2022-09-23 | 2022-11-12 |
 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-09-16 | 2022-12-10 |

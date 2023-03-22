@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Jesus Piece ",
-  "num_followers": 448429,
+  "num_followers": 448547,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA3NTU2OSwwMDAwMDAwMGZjM2E0ODhkZjMwZGQyZTQwYjgwNzJhMjg0M2EwNzY2",
+  "snapshot_id": "MTY3OTA3NTU2OSwwMDAwMDAwMGE2ZWRhYzdiNmY5OTUxYjdhZWU3MjdkY2RiZjJkZTQ4",
   "tracks": [
     {
       "added_at": "2022-12-13 20:10:17",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ"
     },
     {
-      "added_at": "2023-03-21 01:12:42",
+      "added_at": "2023-03-22 00:27:39",
       "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
     },
     {
-      "added_at": "2023-03-21 01:12:42",
+      "added_at": "2023-03-22 00:27:39",
       "album": {
         "name": "Hiccup",
         "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
     },
     {
-      "added_at": "2023-03-21 01:12:42",
+      "added_at": "2023-03-22 00:27:39",
       "album": {
         "name": "Platypus Boys",
         "url": "https://open.spotify.com/album/4vG5sf2rPzHzwPeaelbMTe"
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Ivy (Doomsday)",
-      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 225117,
       "name": "Instability",
       "url": "https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Ivy (Doomsday)",
+      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Anon.",
-        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Nocturnal Future",
         "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 272725,
       "name": "Nocturnal Future",
       "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Anon.",
+        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
     },
     {
-      "added_at": "2023-02-10 16:17:13",
-      "album": {
-        "name": "Evil Finds Light",
-        "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 127933,
-      "name": "Evil Finds Light",
-      "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "wonderful life (feat. Dani Filth)",
@@ -1091,6 +1075,22 @@
       "duration_ms": 274403,
       "name": "wonderful life (feat. Dani Filth)",
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
+    },
+    {
+      "added_at": "2023-02-10 16:17:13",
+      "album": {
+        "name": "Evil Finds Light",
+        "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 127933,
+      "name": "Evil Finds Light",
+      "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-27 16:27:25",
       "album": {
-        "name": "Gates of Horn",
-        "url": "https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m"
-      },
-      "artists": [
-        {
-          "name": "Jesus Piece",
-          "url": "https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR"
-        }
-      ],
-      "duration_ms": 137796,
-      "name": "Gates of Horn",
-      "url": "https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly"
-    },
-    {
-      "added_at": "2023-01-27 16:27:25",
-      "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 203813,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
+    },
+    {
+      "added_at": "2023-01-27 16:27:25",
+      "album": {
+        "name": "Gates of Horn",
+        "url": "https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m"
+      },
+      "artists": [
+        {
+          "name": "Jesus Piece",
+          "url": "https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR"
+        }
+      ],
+      "duration_ms": 137796,
+      "name": "Gates of Horn",
+      "url": "https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1187,22 +1187,6 @@
       "duration_ms": 207145,
       "name": "Mother",
       "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
-    },
-    {
-      "added_at": "2023-03-21 01:12:42",
-      "album": {
-        "name": "FTS (KYS)",
-        "url": "https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "FTS (KYS)",
-      "url": "https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1251,6 +1235,22 @@
       "duration_ms": 211125,
       "name": "New England Palm Trees",
       "url": "https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP"
+    },
+    {
+      "added_at": "2023-03-22 00:27:39",
+      "album": {
+        "name": "FTS (KYS)",
+        "url": "https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "FTS (KYS)",
+      "url": "https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Bad Idea",
-        "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 192504,
-      "name": "Bad Idea",
-      "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Night Terrors",
         "url": "https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 213144,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 192504,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1427,6 +1427,22 @@
       "duration_ms": 184000,
       "name": "11 Minutes",
       "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
+    },
+    {
+      "added_at": "2023-03-22 00:27:39",
+      "album": {
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Bankrupt",
-      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Restless Heart, Keep Running",
         "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 227573,
       "name": "We\u2019ll Always Have Paris",
       "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Bankrupt",
+      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
     },
     {
       "added_at": "2023-02-10 16:17:13",
@@ -1523,22 +1539,6 @@
       "duration_ms": 103488,
       "name": "Attainable",
       "url": "https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw"
-    },
-    {
-      "added_at": "2023-03-21 01:12:42",
-      "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
-      },
-      "artists": [
-        {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
-        }
-      ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU"
     },
     {
-      "added_at": "2023-01-19 23:53:27",
-      "album": {
-        "name": "Dark Blue",
-        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 169045,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Bob Vylan Presents The Price Of Life",
@@ -1643,6 +1627,22 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2023-01-19 23:53:27",
+      "album": {
+        "name": "Dark Blue",
+        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 169045,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
     }
   ],
   "unique_name": "Crash Course",

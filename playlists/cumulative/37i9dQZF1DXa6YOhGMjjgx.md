@@ -4,7 +4,7 @@
 
 > The best of today's true alternative rock scene\. Cover: The Luka State
 
-283 songs - 16 hr 16 min
+284 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Don't Go Dark](https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Don't Go Dark](https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex) | 3:11 | 2023-03-01 |  |
 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 | 2021-08-13 |  |
 | [Doom & Bloom](https://open.spotify.com/track/2xZRImWklE8cTFgcjAyHBc) | [Dude Safari](https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX) | [Doom & Bloom](https://open.spotify.com/album/3c9KSgPgZ6XBdj7xJs7ep9) | 4:25 | 2021-09-17 | 2022-07-28 |
-| [Double Down \- 2019 Mix](https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Double Down](https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8) | 3:10 | 2021-03-31 |  |
+| [Double Down \- 2019 Mix](https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Double Down](https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8) | 3:10 | 2021-03-31 | 2023-03-22 |
 | [Earth Is A Black Hole](https://open.spotify.com/track/7eaEaXAiGR3i3LUJUDRRXc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2oRaxJoPECqRRpQ9PK2UVA) | 2:55 | 2021-03-31 |  |
 | [Enter Entirely](https://open.spotify.com/track/5b9PdT1iD3rKYkhlIPRCy8) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Life Without Sound](https://open.spotify.com/album/4xT80zh4DhVGVdc3QTObav) | 4:58 | 2021-03-31 | 2022-01-15 |
 | [Euphoria](https://open.spotify.com/track/1cuGoxBr2nnJnGqmzwTqGQ) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Timebomb](https://open.spotify.com/album/2HlChoGn7eimoJ5YtJ2uJR) | 4:24 | 2022-04-29 | 2023-01-28 |
@@ -167,6 +167,7 @@
 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 | 2023-03-01 |  |
 | [Loser](https://open.spotify.com/track/4AY7vvKJ5URWd61B5Q6S5Z) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Loser](https://open.spotify.com/album/15SJkF9Ly3LLe2a5dYmy6i) | 2:03 | 2021-07-23 | 2022-11-13 |
 | [Love's Not Enough](https://open.spotify.com/track/05oQoV4EScN9MYyCAE4llX) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Love's Not Enough](https://open.spotify.com/album/7b1FC4bu18T9cHNiNsnYcU) | 3:48 | 2021-03-31 | 2022-02-27 |
+| [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 | 2023-03-17 |  |
 | [Make A Dime](https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [What's So Fucking Funny?](https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG) | 2:56 | 2022-04-29 |  |
 | [Make A Dime](https://open.spotify.com/track/7n7W5gnt66DmY0jVPDD3qp) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Make A Dime](https://open.spotify.com/album/7fdTaeKdHaCZ8CJchQ6V5B) | 2:56 | 2021-09-17 | 2022-07-29 |
 | [Me.TV \(feat\. Bobby Gillespie\)](https://open.spotify.com/track/7aIEOtCR4HhoDreA6syizW) | [Never Not Nothing](https://open.spotify.com/artist/5tSGiNtq3vtp0dkqEefuDC), [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o) | [Me.TV \(feat\. Bobby Gillespie\)](https://open.spotify.com/album/3mrpnZpsLBfvQfry8QDw27) | 3:34 | 2021-03-31 | 2022-01-25 |

@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "HOLD",
+        "url": "https://open.spotify.com/album/0WZvUnHEnnAzpxd60ZeJVp"
+      },
+      "artists": [
+        {
+          "name": "Caleb Peters",
+          "url": "https://open.spotify.com/artist/1AaJS5oq6oQMUjd1mpO1t3"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "HOLD",
+      "url": "https://open.spotify.com/track/0YJBmQTqJyexrx5DNfog6n"
+    },
+    {
+      "album": {
         "name": "HOLIDAY",
         "url": "https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5"
       },
@@ -902,7 +920,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 181161,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj"
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 132187,
       "name": "Sierra Echo X-Ray",
       "url": "https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG"

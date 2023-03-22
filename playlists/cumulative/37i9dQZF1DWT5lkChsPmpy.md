@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-419 songs - 18 hr 48 min
+420 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2021-11-10 | 2022-10-14 |
 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 | 2021-11-10 |  |
 | [Background Experience](https://open.spotify.com/track/5LK6iUQp2brDC9Dl3xhhPW) | [Ogi Feel the Beat](https://open.spotify.com/artist/03ODvxPFTYW0NS7wnXclYG) | [Stress Reducing \(Original\)](https://open.spotify.com/album/0XiLezwfHR3mKG1S0QwpXa) | 4:27 | 2023-01-06 |  |
-| [Backpacked](https://open.spotify.com/track/76Cduh6Txq8dnZ8o6bLRGU) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Backpacked](https://open.spotify.com/album/0KRPqPM8JroUiD9zom2kaj) | 2:09 | 2022-10-28 |  |
+| [Backpacked](https://open.spotify.com/track/76Cduh6Txq8dnZ8o6bLRGU) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Backpacked](https://open.spotify.com/album/0KRPqPM8JroUiD9zom2kaj) | 2:09 | 2022-10-28 | 2023-03-22 |
+| [Backpacked](https://open.spotify.com/track/7JNbzQ3jz1v7EXgaUCIvkw) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Backpacked](https://open.spotify.com/album/7JRH6yFgbxRh6RzolQM8dw) | 2:09 | 2023-03-17 |  |
 | [Baines Brains](https://open.spotify.com/track/4mYZMVHrAEVQUexcjwuHHa) | [Onedin](https://open.spotify.com/artist/7KrGMuULLxPvuxjbfmUSyj) | [Baines Brains](https://open.spotify.com/album/10oADYbyibQzzhvtqKLyjv) | 3:21 | 2021-11-10 | 2022-05-20 |
 | [Beach Vacay](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Beach Vacay](https://open.spotify.com/album/3GCaSyRf0LPvVGj4s7n3mW) | 2:41 | 2021-11-10 |  |
 | [Beat Wave](https://open.spotify.com/track/0K07LFH3vL8cNkEo1iMfok) | [Butia](https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h) | [Beat Wave](https://open.spotify.com/album/6W0wlThNv1BAiNqsWaxnQg) | 2:48 | 2022-04-05 |  |

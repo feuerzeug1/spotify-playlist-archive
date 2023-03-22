@@ -4,7 +4,7 @@
 
 > Just chill.
 
-462 songs - 1 day 2 hr 35 min
+463 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Crazy](https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Crazy](https://open.spotify.com/album/4aGTpjVc03JPP4phPm3e90) | 4:19 | 2020-10-16 | 2023-02-17 |
 | [Crocodile](https://open.spotify.com/track/5D4RqYeLGebipeelVqUpWA) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Crocodile](https://open.spotify.com/album/4R0LvyXONImViHbzwSFTx1) | 3:41 | 2022-08-19 |  |
 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 | 2021-06-07 | 2023-02-02 |
-| [Crust](https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:13 | 2022-08-19 |  |
+| [Crust](https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:13 | 2022-08-19 | 2023-03-22 |
 | [Dancing in the Moonlight \(Beach\)](https://open.spotify.com/track/07vT5XKYnkytySiCLZPYn3) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Dancing in the Moonlight \(Beach\)](https://open.spotify.com/album/2X9C6daog3060N1C99C49C) | 3:03 | 2023-02-24 |  |
 | [Dandelions](https://open.spotify.com/track/5Ah7CDmFosZEwcQHkVXzxq) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Dandelions](https://open.spotify.com/album/0XvAu6HRgd6Tg5Srbr4Va3) | 2:27 | 2022-09-29 |  |
 | [Devil Eyes](https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Providence](https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi) | 2:11 | 2019-11-13 | 2022-09-30 |
@@ -391,6 +391,7 @@
 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 | 2022-08-11 |  |
 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 | 2022-09-29 |  |
 | [Sunrise](https://open.spotify.com/track/504BrFbtkCK5GG8U0wb2qb) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [Sunrise](https://open.spotify.com/album/38HbJPmQs9Hby1736L1GYZ) | 3:28 | 2020-01-07 | 2022-09-30 |
+| [Sunset For The Dead](https://open.spotify.com/track/3E2qVqPW3FS2LXzCbss9yq) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Glasshead](https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz) | 3:23 | 2023-03-21 |  |
 | [Supalonely \(Lownely\)](https://open.spotify.com/track/0hVZCUZKWsWFU6i5zlRZZr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Supalonely \(Lownely\)](https://open.spotify.com/album/7lkrgPpSZTMcgNi2yHdQ7E) | 3:19 | 2020-05-08 | 2022-08-20 |
 | [Surf's Up, I'm Drowning](https://open.spotify.com/track/3hsBnnID20GgUjgY2nqkue) | [Jesse Aicher](https://open.spotify.com/artist/4fpOVrO6DmQdxQJSqiGIqQ), [Westerns](https://open.spotify.com/artist/4dYYNJWW0gqWLVGIfrxEsl) | [Surf's Up, I'm Drowning](https://open.spotify.com/album/0SxR5giaDLkKsmFLYTSXgP) | 2:45 | 2020-02-28 | 2022-01-22 |
 | [Table for Two](https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa) | 3:22 | 2022-04-29 | 2022-10-14 |

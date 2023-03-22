@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Japanese female rock icons. \u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Cover: \u30e4\u30e6\u30e8",
+  "description": "Japanese female rock icons. \u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Cover: \u65b0\u3057\u3044\u5b66\u6821\u306e\u30ea\u30fc\u30c0\u30fc\u30ba(ATARASHII GAKKO! )",
   "name": "She Rocks",
   "tracks": [
     {
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 203320,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ"
@@ -5022,7 +5022,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 230553,
       "name": "School",
       "url": "https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b"
@@ -6986,7 +6986,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 259420,
       "name": "ZUTTO",
       "url": "https://open.spotify.com/track/1WQg8t53Iu9g1nAHsscbnN"
@@ -7498,7 +7498,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 273856,
       "name": "\u3053\u306e\u307e\u307e\u3058\u3083",
       "url": "https://open.spotify.com/track/2HIp2q3CAjJTxSsVfEKlni"
@@ -7592,6 +7592,24 @@
       "duration_ms": 194890,
       "name": "\u3055\u3088\u306a\u3089\u3092\u8a00\u3048\u305f\u304b\u306a",
       "url": "https://open.spotify.com/track/4VP5WUKSbviGuoLy6c46Ea"
+    },
+    {
+      "album": {
+        "name": "\u3058\u3083\u306a\u3044\u3093\u3060\u3088",
+        "url": "https://open.spotify.com/album/6Av8lwCi8PQFJvoC6otCdH"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180300,
+      "name": "\u3058\u3083\u306a\u3044\u3093\u3060\u3088",
+      "url": "https://open.spotify.com/track/7pSDEok3rFFYjpWQ0iogiA"
     },
     {
       "album": {
@@ -11704,7 +11722,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 225649,
       "name": "\u541b\u3068\u590f\u30d5\u30a7\u30b9",
       "url": "https://open.spotify.com/track/2nSJH1z0BScpVsTP7EFtX7"

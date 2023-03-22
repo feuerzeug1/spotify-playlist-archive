@@ -4,7 +4,7 @@
 
 > Con licuachela en mano y perreando hasta el piso\. Rosa ✞ Pistola en portada
 
-145 songs - 7 hr 18 min
+146 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Contra la Pared](https://open.spotify.com/track/1AOJGa2b29LokEYqaaHWyg) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [City Lights](https://open.spotify.com/artist/1LmRtLEIqkkFfvMaLxbJ5a) | [Contra la Pared](https://open.spotify.com/album/1Dj6HcOXpEDTtCMOZ7LVks) | 2:57 | 2022-01-04 | 2023-03-04 |
 | [CULO](https://open.spotify.com/track/12DGHYNvwPA5wFtxKQoeNZ) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [CULO](https://open.spotify.com/album/4nwxFDlSeRxlPhz0w0cDO9) | 2:59 | 2022-01-04 | 2022-09-28 |
 | [Culo Arabe](https://open.spotify.com/track/4B4ayQqNLHv3fU2d2ln7iD) | [DJ Tona](https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB), [Kareem the Press](https://open.spotify.com/artist/0TNzbgKXLX3V6CbbnQ6fpm) | [Culo Arabe](https://open.spotify.com/album/5vJcPE9KIFh0uxczunFUIT) | 3:15 | 2022-01-04 |  |
+| [Cumbiatronik](https://open.spotify.com/track/18Ms0QJv4moFhSUJG22Qpk) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Cumbiatronik](https://open.spotify.com/album/7j0Z8sEAuR8891I0m7iFEx) | 3:06 | 2022-12-16 |  |
 | [Cumbiatronik](https://open.spotify.com/track/1PooFwkjYMobQx9qCozXhb) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Cumbiatronik](https://open.spotify.com/album/1PCXjPBVHXl8pHMsY96yMF) | 3:12 | 2022-08-19 | 2023-03-14 |
 | [Dale Agachadita](https://open.spotify.com/track/0D4BSEA5fddnZ0FQEc3n3O) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Luam](https://open.spotify.com/artist/0p5lNivYQ06xMqR6wN4GI3), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP) | [Dale Agachadita](https://open.spotify.com/album/2U9hw9oBgR7lcXofg1t87b) | 3:09 | 2022-01-04 | 2022-12-30 |
 | [Dale Kontakto](https://open.spotify.com/track/71b88JDWZqqE5wzqhBn5Xc) | [Zoop One](https://open.spotify.com/artist/22MvD3agFn8juQKDizmZWZ) | [Dale Kontakto](https://open.spotify.com/album/5VDn4zonYKo6qizfn9Ed79) | 3:57 | 2023-03-17 |  |
@@ -150,7 +151,7 @@
 | [Vasito Rojo \(feat\. Jose Dolche & Paulina Fuego\)](https://open.spotify.com/track/29WGTtAAeQgyFEh95FqqgL) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Jose Dolche](https://open.spotify.com/artist/52wmMMnrrpKH0caPjpTiUy), [Paulina Fuego](https://open.spotify.com/artist/08ISOfeZVfZ3SdGtTyYKM0) | [Vasito Rojo \(feat\. Jose Dolche & Paulina Fuego\)](https://open.spotify.com/album/3FprduKLlWaTGdIB7MMxRQ) | 2:36 | 2022-01-04 | 2022-07-27 |
 | [X2](https://open.spotify.com/track/4OjIDpty93Wk3OAsG3YDS6) | [GS](https://open.spotify.com/artist/2H94tx4gKrhBhunHQsH7xs), [FL Fredy](https://open.spotify.com/artist/6EIHM1u3DGXpB32niTwNM7), [Kyke](https://open.spotify.com/artist/5odRCov6cjg4And5i28wlA) | [X2](https://open.spotify.com/album/6LRk28jl8v6Z1idebPQvcf) | 2:56 | 2022-02-23 | 2022-07-28 |
 | [Yakuza](https://open.spotify.com/track/7Jyk0UOKEfXbcuZPEYqe3S) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Yakuza](https://open.spotify.com/album/20xl5EPX6JtQERzwcpzIVs) | 2:49 | 2022-01-04 | 2022-07-28 |
-| [Yo Quiero De Eso](https://open.spotify.com/track/6mx3RV0pobsvblmDYluDYI) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Yo Quiero De Eso](https://open.spotify.com/album/4OOGzzhfdiSFVS9QCtm86s) | 2:14 | 2023-03-10 |  |
+| [Yo Quiero De Eso](https://open.spotify.com/track/6mx3RV0pobsvblmDYluDYI) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Yo Quiero De Eso](https://open.spotify.com/album/4OOGzzhfdiSFVS9QCtm86s) | 2:14 | 2023-03-10 | 2023-03-22 |
 | [Yumi Yumi](https://open.spotify.com/track/7BMXyM754xlyx8IN23WLHI) | [Kentow](https://open.spotify.com/artist/4u3hoILnjldAsnwZkAa0oh) | [Yumi Yumi](https://open.spotify.com/album/3VEwb1dVNNgz4C0qnOSa9I) | 3:12 | 2023-03-17 |  |
 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 | 2023-03-03 | 2023-03-11 |
 

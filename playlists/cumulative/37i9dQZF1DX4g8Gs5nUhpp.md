@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: HIEUTHUHAI
+> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: RPT MCK
 
-155 songs - 10 hr 5 min
+156 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Anh Đã Ổn Hơn](https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:14 | 2023-03-05 |  |
 | [bao tiền một mớ bình yên?](https://open.spotify.com/track/3wn8HJNjkY4wzTBy35ZvQ6) | [14 Casper](https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p), [Bon Nghiêm](https://open.spotify.com/artist/6hnfLIkvDl6pjlAe1YRGXY) | [bao tiền một mớ bình yên?](https://open.spotify.com/album/5O0csa2fMgpO8DwEhwThRV) | 5:00 | 2022-06-07 |  |
 | [Blue Tequila](https://open.spotify.com/track/4Ba99csVDlRFQILO5cSi7I) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/26jN76TbwKh8wHd7DY27hf) | 3:22 | 2022-05-27 | 2022-06-21 |
-| [Bo Xì Bo](https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 2:52 | 2022-12-18 |  |
+| [Bo Xì Bo](https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 2:52 | 2022-12-18 | 2023-03-22 |
 | [Bên Trên Tầng Lầu](https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ) | [Bên Trên Tầng Lầu](https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG) | 3:04 | 2022-07-12 | 2022-12-19 |
 | [Bông Hoa Đẹp Nhất](https://open.spotify.com/track/7oX6qKTnKeVG6iT0qG1i29) | [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi) | [Bông Hoa Đẹp Nhất](https://open.spotify.com/album/0Vw8JSu2raGD3tKl5qKFwc) | 5:15 | 2022-05-27 | 2022-06-23 |
 | [Bước Qua Nhau](https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Nhau](https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU) | 4:17 | 2022-05-27 | 2022-06-29 |
@@ -31,8 +31,9 @@
 | [Chuyện Rằng](https://open.spotify.com/track/3VOeGtJwJh2jslvQAFaaEn) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chuyện Rằng](https://open.spotify.com/album/4LCUSz7bnPTF3IKerCv308) | 4:32 | 2022-05-27 | 2022-06-23 |
 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Muộii \(Starry Night\)](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 | 2022-05-27 |  |
 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 | 2022-05-27 | 2022-10-06 |
+| [Chìm Sâu](https://open.spotify.com/track/7jLSThU5Kg1RWt19Leiaxm) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:36 | 2023-03-21 |  |
 | [Chúng Ta Sau Này](https://open.spotify.com/track/4Wdwvi2C5MD8zDi9Kg3x4X) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/7xWIiLIMicso31AA6umVjI) | 3:31 | 2022-05-27 | 2022-07-29 |
-| [Chúng Ta Sau Này](https://open.spotify.com/track/5IO873C4IP8pXdsXcJiBes) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/4J0LzY0UJJAeZnyLKWWWOO) | 3:31 | 2022-07-27 |  |
+| [Chúng Ta Sau Này](https://open.spotify.com/track/5IO873C4IP8pXdsXcJiBes) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/4J0LzY0UJJAeZnyLKWWWOO) | 3:31 | 2022-07-27 | 2023-03-22 |
 | [Chúng Ta Sau Này](https://open.spotify.com/track/6hF3ZBlTIwtmYB04ioJqrX) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/1llkqHgTTx9LcZ9gr5d5wQ) | 3:31 | 2022-11-07 | 2022-11-14 |
 | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ) | 4:15 | 2022-07-05 |  |
 | [Chậm Lại](https://open.spotify.com/track/067J8jL5iPDzVBH0jClJpI) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Chậm Lại](https://open.spotify.com/album/4sGS3UYEjJtBi4MuiOwGKV) | 3:43 | 2022-08-25 | 2022-09-12 |
@@ -50,7 +51,7 @@
 | [Cô Đơn Trên Sofa](https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia) | [Hồ Ngọc Hà](https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ) | [Cô Đơn Trên Sofa](https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5) | 4:23 | 2022-10-27 | 2022-12-19 |
 | [Cơn Đau](https://open.spotify.com/track/6hLEsk1t37XKNwtTQ3iI1b) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Cơn Đau](https://open.spotify.com/album/2HFJlexWqI9WnoMZ9K1N65) | 3:39 | 2022-07-05 | 2022-08-08 |
 | [Cứ Chill Thôi](https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Cứ Chill Thôi](https://open.spotify.com/album/7FEh6eJumH2tqhXKfQ5Tul) | 4:30 | 2022-05-27 | 2022-09-07 |
-| [Dear \(feat\. Lê Hiếu\)](https://open.spotify.com/track/7sEIHN9lpk8ad8iIAYnR5Y) | [Gonzo](https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF), [Lê Hiếu](https://open.spotify.com/artist/4sOvsEM0ooH149joyEm7Wg) | [Dear \(feat\. Lê Hiếu\)](https://open.spotify.com/album/40lqWjkvl5fN6kMWAiuBkr) | 4:20 | 2023-02-22 |  |
+| [Dear \(feat\. Lê Hiếu\)](https://open.spotify.com/track/7sEIHN9lpk8ad8iIAYnR5Y) | [Gonzo](https://open.spotify.com/artist/3Ib80uqrBka6P4ncx6vJRF), [Lê Hiếu](https://open.spotify.com/artist/4sOvsEM0ooH149joyEm7Wg) | [Dear \(feat\. Lê Hiếu\)](https://open.spotify.com/album/40lqWjkvl5fN6kMWAiuBkr) | 4:20 | 2023-02-22 | 2023-03-22 |
 | [Diễn viên tồi](https://open.spotify.com/track/3pgwxYRPbYIC6C1J2FPge8) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Thành Bùi](https://open.spotify.com/artist/4indpWjPPQ0lLAtYihnI5j), [Cadillac](https://open.spotify.com/artist/4nYRl0uyEIGfhe5uR8aUVc) | [Diễn viên tồi](https://open.spotify.com/album/0VcUiF3nAK2UWeWpRzESob) | 5:49 | 2022-09-18 | 2022-10-04 |
 | [don't côi](https://open.spotify.com/track/2FjjM4a4ISKFqC3sMfIj9j) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [don't côi](https://open.spotify.com/album/3JeTYaj3xCIbtgrealOMJM) | 2:26 | 2023-01-11 | 2023-02-10 |
 | [Don't Côi](https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy) | [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Don't Côi](https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC) | 2:28 | 2023-02-09 |  |

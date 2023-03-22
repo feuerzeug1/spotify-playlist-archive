@@ -4,7 +4,7 @@
 
 > Background scores to help you sail through the day
 
-74 songs - 3 hr 36 min
+74 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [](https://open.spotify.com/track/4b6B8CxuXAtmgh7eXgo5tZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 0:00 | 2022-05-04 |  |
 | [](https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 0:00 | 2022-05-04 |  |
 | [](https://open.spotify.com/track/6km40zXhkLINWLJhkgh3sU) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 0:00 | 2022-05-04 |  |
+| [](https://open.spotify.com/track/7m1aeD9ZLJCTIUPDjk09KQ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2oZSF17FtHQ9sYBscQXoBe) | 0:00 | 2022-05-04 |  |
 | [Akash's Love Theme](https://open.spotify.com/track/1glyMug7gR6ahQ8evXYqcy) | [Mike Harvey](https://open.spotify.com/artist/4SeAXyEmckKjoQoweI9fiT) | [Dil Chahta Hai](https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI) | 2:10 | 2022-05-04 |  |
 | [Asoka Theme \- Instrumental](https://open.spotify.com/track/5YVL1NL2hGq8N2WH5HsY22) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 4:01 | 2022-05-04 |  |
 | [Bharat Humko Jaan Se Pyara Hai \- Instrumental](https://open.spotify.com/track/4DvqMMVGLTYfDCAPGCt7hf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Roja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lORIs7BAIYVH7xxcXsUn7) | 2:58 | 2022-05-04 | 2022-07-29 |
@@ -48,7 +49,6 @@
 | [Meeting Place](https://open.spotify.com/track/09NCo4MjEUXzQ12sRoZBWJ) | [Ranbir Kapoor](https://open.spotify.com/artist/37IHSwzDKNSluvUgmWhOKZ) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 1:09 | 2022-05-04 |  |
 | [Mirzya Theme \- Broken Arrows](https://open.spotify.com/track/7MKubSHmD8TQDyenJDT8n2) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Mirzya \- Dare To Love](https://open.spotify.com/album/2EBKZh6t8MAayUvmZEMB6l) | 2:37 | 2022-05-04 | 2022-07-29 |
 | [Munna’S Love](https://open.spotify.com/track/1XotHNg5Tnpcyq1R2nJ7Na) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Dhobi Ghat](https://open.spotify.com/album/2gIiVoEdG9Gy5dIqH5opQE) | 2:25 | 2022-05-04 |  |
-| [New India](https://open.spotify.com/track/7m1aeD9ZLJCTIUPDjk09KQ) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Uri \- The Surgical Strike \(Original Background Score\)](https://open.spotify.com/album/2oZSF17FtHQ9sYBscQXoBe) | 1:14 | 2022-05-04 |  |
 | [Non\-Veg Melody](https://open.spotify.com/track/40y0JSUWt2BWw78ohC57T0) | [Instrumental](https://open.spotify.com/artist/0wMmGaXRfdHPhqSEAVQIr6) | [Cheeni Kum](https://open.spotify.com/album/1GdS4AlrlBPtROdVwg3Fl6) | 2:46 | 2022-05-04 | 2022-08-26 |
 | [Om Shanti Om \(Instrumental\)](https://open.spotify.com/track/4kqUlN3craCx3ZIBIfhp2X) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Om Shanti Om](https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k) | 0:56 | 2022-05-04 |  |
 | [Pathaan’s Theme](https://open.spotify.com/track/7l00c4RIiRh9MngY4Mt6jG) | [Sanchit Balhara](https://open.spotify.com/artist/0LOdQDBSB8NYPykI3REezj), [Ankit Balhara](https://open.spotify.com/artist/2FtpR8FWlo2HsessGvWxRg), [Magdalena Supel](https://open.spotify.com/artist/5n0sgDuAJmQiacddjwwG5d), [Kit Bee](https://open.spotify.com/artist/0V3THFCdrDqATp2dnLAQF7) | [Pathaan](https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2) | 2:37 | 2023-01-06 |  |

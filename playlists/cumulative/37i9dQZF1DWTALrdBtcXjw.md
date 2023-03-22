@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-247 songs - 22 hr 8 min
+248 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Captain’s Song](https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Captain's Song](https://open.spotify.com/album/4lBMwEwdX3BnjM74nbyRme) | 5:22 | 2020-04-17 | 2022-07-29 |
 | [Captain’s Song](https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Iron Starlet](https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN) | 5:22 | 2022-07-28 |  |
 | [Cedar Waltzin' \~ Don't You Worry 'bout a Thing](https://open.spotify.com/track/1JJ3Wpkx2igFJEcBMq2gCS) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Everybody Gets the Blues](https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N) | 8:23 | 2020-03-31 | 2022-04-28 |
+| [Chandra](https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [At The Deer Head Inn](https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx) | 9:21 | 2023-03-16 |  |
 | [Cinquantuno](https://open.spotify.com/track/6Gx9ztDiJ3mcMEHO96w6Kb) | [Giovanni Mirabassi](https://open.spotify.com/artist/2mK36NvkRcFIKPyC9uL6C3), [Guillaume Perret](https://open.spotify.com/artist/7dUD0CbwQ1JQb1H0ovHjUZ), [Clément Daldosso](https://open.spotify.com/artist/7ChdS9uiipYzHA8c36AWS8), [Lukmil Perez](https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv) | [The Swan and the Storm](https://open.spotify.com/album/60nuEk5nHYmDoTh0Ed7gxg) | 8:27 | 2022-10-27 |  |
 | [Clifford Notes](https://open.spotify.com/track/58ZOSLqiasr2M0HIodxecW) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [New York Notes](https://open.spotify.com/album/4usyxUVMIPVNqP4Lv7OlCA) | 8:46 | 2022-05-25 |  |
 | [Coffee Table Afternoon](https://open.spotify.com/track/2BwZMNVNbAInWWbyQQ7QOT) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Coffee Table Afternoon](https://open.spotify.com/album/4ws4gC9VFhEL7kqMGShjNc) | 4:54 | 2022-03-04 | 2022-11-12 |
@@ -154,7 +155,7 @@
 | [My Foolish Heart](https://open.spotify.com/track/3emHYEpyups9kJzpoNE6lv) | [Tim Lin](https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt) | [My Foolish Heart](https://open.spotify.com/album/3LnVgX9ICx42nwAOlj0kP1) | 6:06 | 2022-04-28 | 2022-06-01 |
 | [My Funny Valentine](https://open.spotify.com/track/5OBeTA1kfNzIin9tBeV1s3) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 7:42 | 2022-07-28 |  |
 | [My Funny Valentine](https://open.spotify.com/track/6DiEsD2Az3aiHfPbw9YIlX) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My Funny Valentine](https://open.spotify.com/album/7G76oUsCSR0H1jKt4V17xt) | 7:42 | 2022-02-18 | 2022-07-29 |
-| [My Ideal](https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [John Webber](https://open.spotify.com/artist/03xXcbbFNqZUU3ENJcY8a0), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [The Inspiration Suite](https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D) | 6:33 | 2022-02-18 |  |
+| [My Ideal](https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [John Webber](https://open.spotify.com/artist/03xXcbbFNqZUU3ENJcY8a0), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [The Inspiration Suite](https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D) | 6:33 | 2022-02-18 | 2023-03-22 |
 | [My One and Only Love](https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO) | [My One and Only Love](https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa) | 4:50 | 2022-02-18 |  |
 | [Nature Boy](https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 6:12 | 2022-03-11 |  |
 | [New Orleans](https://open.spotify.com/track/2z6D5bIA9Wprdqi1B8nnVh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 5:40 | 2020-03-31 | 2022-04-28 |

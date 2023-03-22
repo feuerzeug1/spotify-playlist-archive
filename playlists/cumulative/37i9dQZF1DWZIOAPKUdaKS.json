@@ -1593,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Certain Days",
+        "url": "https://open.spotify.com/album/2u2aoV0YFFubHvzgkaN244"
+      },
+      "artists": [
+        {
+          "name": "Viljar Iversen",
+          "url": "https://open.spotify.com/artist/57zxco4Z1lUt03EMLy3GYl"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138743,
+      "name": "Certain Days",
+      "url": "https://open.spotify.com/track/3YKPxRJDUHhnFJUyjV57JQ"
+    },
+    {
+      "album": {
         "name": "Chalet",
         "url": "https://open.spotify.com/album/4uKDACa5QRlBZ5Qoagz42Y"
       },
@@ -10132,6 +10150,24 @@
       "duration_ms": 117000,
       "name": "There and Then",
       "url": "https://open.spotify.com/track/1sF09Ih9eA9R7sIsYRMlqg"
+    },
+    {
+      "album": {
+        "name": "They'll be out for us",
+        "url": "https://open.spotify.com/album/35CFT5d4Vus6953tBe0eYJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Di Umbra",
+          "url": "https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137013,
+      "name": "They'll be out for us",
+      "url": "https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC"
     },
     {
       "album": {

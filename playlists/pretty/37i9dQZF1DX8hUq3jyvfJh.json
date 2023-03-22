@@ -1,12 +1,12 @@
 {
   "description": "Mulheres inspiradoras para serem ouvidas no volume m\u00e1ximo. Co-curada por Pitty para o Dia Internacional da Mulher! ",
-  "num_followers": 136256,
+  "num_followers": 136906,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzNDQ2MSwwMDAwMDAwMDVkNzk4OGU3YWFhM2Q0YjM0ODAzYWU0ZjZmZGViOGVj",
+  "snapshot_id": "MTY3ODEzNDQ2MSwwMDAwMDAwMDI2ZjUzNTFjMDE4YjY5Y2M5MTliZGU4Yzk2ZGNhNTlh",
   "tracks": [
     {
       "added_at": "2023-03-06 20:27:41",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-06 20:27:41",
       "album": {
-        "name": "Desse Jeito",
-        "url": "https://open.spotify.com/album/5vTAwzNFPDnU2F1UmWQdXE"
-      },
-      "artists": [
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 205017,
-      "name": "De Bem Com a Vida",
-      "url": "https://open.spotify.com/track/5nde1CDQLLmlRA6gOQTJlv"
-    },
-    {
-      "added_at": "2023-03-06 20:27:41",
-      "album": {
         "name": "Viciado em Mentir",
         "url": "https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 145714,
       "name": "Viciado em Mentir",
       "url": "https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY"
+    },
+    {
+      "added_at": "2023-03-06 20:27:41",
+      "album": {
+        "name": "Desse Jeito",
+        "url": "https://open.spotify.com/album/5vTAwzNFPDnU2F1UmWQdXE"
+      },
+      "artists": [
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 205017,
+      "name": "De Bem Com a Vida",
+      "url": "https://open.spotify.com/track/5nde1CDQLLmlRA6gOQTJlv"
     },
     {
       "added_at": "2023-03-06 20:27:41",

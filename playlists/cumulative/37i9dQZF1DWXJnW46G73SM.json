@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": " \u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u064a\u0648\u0645\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0632\u0627\u0628 \u062b\u0631\u0648\u062a\u060c \u0633\u0627\u0631\u064a \u0647\u0627\u0646\u064a\u060c \u0647\u0627\u062f\u0632 \u0648 \u0627\u0645\u064a\u0631 \u0639\u064a\u062f",
+  "description": " \u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u064a\u0648\u0645\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0644\u0649 \u0644\u0648\u0643\u0627",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -778,6 +778,24 @@
       "duration_ms": 190965,
       "name": "Arosty",
       "url": "https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4"
+    },
+    {
+      "album": {
+        "name": "Asrar",
+        "url": "https://open.spotify.com/album/79LLrOm3su0LwbV2JGkMlt"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Asrar",
+      "url": "https://open.spotify.com/track/17kMbUwpSIdXdLUe70XHps"
     },
     {
       "album": {
@@ -3586,7 +3604,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 214615,
       "name": "Makhnou'",
       "url": "https://open.spotify.com/track/5v0c54YIy1sEGpAPAilaj3"

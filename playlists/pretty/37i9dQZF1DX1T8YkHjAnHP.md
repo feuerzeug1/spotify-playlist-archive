@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,682 likes - 71 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,750 likes - 71 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 13 | [Duma \- Radio Edit](https://open.spotify.com/track/2IEeAoSJiLCpgs05oTqqfn) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Mario da Ragnio](https://open.spotify.com/artist/2TEtisHKagl3CYm9DGEK99) | [Duma \(Radio Edit\)](https://open.spotify.com/album/1mipzZyPS3Z6bhO5VIgXBO) | 3:19 |
 | 14 | [One Love \- Nandu Remix](https://open.spotify.com/track/3jlbvbUItBBAWAjnnnc8sW) | [Margee](https://open.spotify.com/artist/3pCd0ReO3RKcf4zvrbT02S), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es), [ARKADYAN](https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [One Love \(Nandu Remix\)](https://open.spotify.com/album/2jWHwh8o0ekuZWXLmm3ZcG) | 4:41 |
 | 15 | [Wish You Were Here \- Bedouin Remix](https://open.spotify.com/track/2sWqYVNYIsyazFA0nDVtkn) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Wish You Were Here \(Bedouin Remix\)](https://open.spotify.com/album/2ahy9B5LOckFdgQlrVg5TZ) | 7:51 |
-| 16 | [Power](https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Mario Reyes](https://open.spotify.com/artist/0MNovidyopz59Kcu16ot3v) | [Power](https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO) | 7:49 |
+| 16 | [Power](https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Mario Reyes](https://open.spotify.com/artist/0Hf3UN7p1AVi3bQBish6YX) | [Power](https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO) | 7:49 |
 | 17 | [Still Life](https://open.spotify.com/track/4w3sX65B1jkXSsmsmwN9zB) | [Filippos](https://open.spotify.com/artist/1p93D1YEV3oqMBq2W9bIqT) | [After Why](https://open.spotify.com/album/3zKtkCESpCAhfX26MNg5CW) | 6:03 |
 | 18 | [Bella](https://open.spotify.com/track/0TvRK8oISrIs7MVum2QldX) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB) | 6:45 |
 | 19 | [Mentres Tant](https://open.spotify.com/track/0PFM3yjjDId6onZUrgJyjP) | [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [Llum EP](https://open.spotify.com/album/1cpuIMlvXH2x1aoHXHNMIj) | 7:03 |

@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 176502,
+  "num_followers": 176586,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMDJhODE0NTgxZGU0NzA5ZGM3OTUzOWU2ZjRmYTkyMTFj",
+  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMDRlNmRkNzgyMmM5OGRhMmJmMDI2ODQxY2UxYjhiM2Q5",
   "tracks": [
     {
       "added_at": "2023-02-16 23:01:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 193453,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "N\u00e6rmere",
-        "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 288678,
-      "name": "Stilla",
-      "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "The Ghost in Your Smile",
         "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
       },
@@ -623,18 +607,34 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Joni Was Right",
-        "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
+        "name": "N\u00e6rmere",
+        "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
       },
       "artists": [
         {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 197192,
-      "name": "Morgan, I Might",
-      "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
+      "duration_ms": 288678,
+      "name": "Stilla",
+      "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Hold On Dreamer",
+        "url": "https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f8kedal",
+          "url": "https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr"
+        }
+      ],
+      "duration_ms": 230840,
+      "name": "The Man Who Isn't Here",
+      "url": "https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Hold On Dreamer",
-        "url": "https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA"
+        "name": "Joni Was Right",
+        "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
       "artists": [
         {
-          "name": "Fr\u00f8kedal",
-          "url": "https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr"
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
         }
       ],
-      "duration_ms": 230840,
-      "name": "The Man Who Isn't Here",
-      "url": "https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO"
+      "duration_ms": 197192,
+      "name": "Morgan, I Might",
+      "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "The Last Great Country Swindle",
+        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
+      },
+      "artists": [
+        {
+          "name": "Bendik Br\u00e6nne",
+          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
+        },
+        {
+          "name": "Daniel Romano",
+          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Ain't Nobody Like Me",
+      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "Joni Was Right Pt. II",
         "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 232960,
       "name": "Grey",
       "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "The Last Great Country Swindle",
-        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
-      },
-      "artists": [
-        {
-          "name": "Bendik Br\u00e6nne",
-          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
-        },
-        {
-          "name": "Daniel Romano",
-          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Ain't Nobody Like Me",
-      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
     },
     {
       "added_at": "2023-02-16 23:01:00",

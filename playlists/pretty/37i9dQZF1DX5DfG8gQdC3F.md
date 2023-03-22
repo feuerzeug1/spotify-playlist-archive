@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Kx5, Shania Twain, Taylor Swift, and Sabrina Carpenter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,657 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,655 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Obstacles](https://open.spotify.com/track/0PAgY9mzcKL57culmZlMuL) | [Desiire](https://open.spotify.com/artist/3FKDrJjdEpzGNFgwVkzagd) | [Obstacles](https://open.spotify.com/album/5ATwBTNPtwDfUqBK6oYVLv) | 4:10 |
 | 100 | [2 Cups](https://open.spotify.com/track/6wm8PSkehuHYylR64rw1Gy) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [2 Cups](https://open.spotify.com/album/3ttazupNIeGDk28uLymPTC) | 3:03 |
 
-Snapshot ID: `MTY3OTAyNjE5NSwwMDAwMDAwMDMxYjI2M2EyNjQ4YTJiMGIyODg0ZGMxYmU3MWM3MzI3`
+Snapshot ID: `MTY3OTQzNDM1NiwwMDAwMDAwMDFkNGNjNjFiNzljZWE2ZmZhY2ZhNGYxY2M5MDQyNTQ2`

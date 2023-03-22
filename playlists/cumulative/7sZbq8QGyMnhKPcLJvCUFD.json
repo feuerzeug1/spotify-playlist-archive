@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/6Ij6LtpYwsQq797uaF64dv"
+      },
+      "artists": [
+        {
+          "name": "WYKO",
+          "url": "https://open.spotify.com/artist/5FMZdcgEgaYRjxIguLPPhl"
+        },
+        {
+          "name": "Siik",
+          "url": "https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf"
+        },
+        {
+          "name": "shi\u2019tz",
+          "url": "https://open.spotify.com/artist/13UVzKhKe6jg2XtWlNh6uU"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141221,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/62ch0zFhNQtPg1ssb790wy"
+    },
+    {
+      "album": {
         "name": "4 LOVE",
         "url": "https://open.spotify.com/album/2t6EAss7zjbFsn7F3xrNCe"
       },

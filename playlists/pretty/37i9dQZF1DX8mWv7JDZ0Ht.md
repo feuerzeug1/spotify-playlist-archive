@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Lagum
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,220 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,246 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 42 | [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 |
 | 43 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 |
 | 44 | [A Melhor Coisa do Mundo](https://open.spotify.com/track/7dg73Cj0F0MAioMwmoOmCN) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [A Melhor Coisa do Mundo](https://open.spotify.com/album/0yHKDBkFM4Er1dQ0yoGKUv) | 2:31 |
-| 45 | [tchau, baby!](https://open.spotify.com/track/526I73YCefYU1i3bVJZuns) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [tchau, baby!](https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4) | 3:15 |
+| 45 | [vida leve](https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [vida leve](https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev) | 2:36 |
 | 46 | [Sorria que Volta](https://open.spotify.com/track/1PtvbTuhHBw8Mfi9XIIIuC) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Sorria que Volta](https://open.spotify.com/album/2V4qg7sNcMllTmLOFpzf7o) | 2:21 |
 | 47 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
 | 48 | [Miudinho](https://open.spotify.com/track/2A59HbqCzekn6QbepGggfX) | [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Miudinho](https://open.spotify.com/album/0iFchnrlmmxgKASQzNz5Ba) | 2:35 |
 | 49 | [Por Você](https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Por Você](https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs) | 3:11 |
-| 50 | [giz de cera](https://open.spotify.com/track/0JnwmpK3A3FCJNMjy0y56r) | [Faria](https://open.spotify.com/artist/4zfzBqS0U8lWOTPOdYlUhC), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [giz de cera](https://open.spotify.com/album/2Yz4JPqKxo52SinbfGyHmr) | 2:48 |
-| 51 | [Girassol](https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Girassol](https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ) | 3:01 |
-| 52 | [vida leve](https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [vida leve](https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev) | 2:36 |
+| 50 | [Girassol](https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Girassol](https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ) | 3:01 |
+| 51 | [giz de cera](https://open.spotify.com/track/0JnwmpK3A3FCJNMjy0y56r) | [Faria](https://open.spotify.com/artist/4zfzBqS0U8lWOTPOdYlUhC), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [giz de cera](https://open.spotify.com/album/2Yz4JPqKxo52SinbfGyHmr) | 2:48 |
+| 52 | [tchau, baby!](https://open.spotify.com/track/526I73YCefYU1i3bVJZuns) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [tchau, baby!](https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4) | 3:15 |
 | 53 | [Passa](https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky) | [Martins](https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg) | [Passa](https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq) | 2:56 |
 | 54 | [Saudade](https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Orgânico Verão 2023](https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim) | 3:58 |
 | 55 | [Fica lá Com Ela](https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Unilateral](https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO) | 2:37 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 72 | [Prova De Amor](https://open.spotify.com/track/1bu9s8cHlqaezKvkmFJhNj) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Prova De Amor](https://open.spotify.com/album/4eYmX2aA4FDuWFegpIt1tE) | 3:05 |
 | 73 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 |
 | 74 | [Mais de Mim](https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Mais de Mim](https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG) | 2:34 |
-| 75 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 |
-| 76 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 |
-| 77 | [Logo Eu](https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh) | [Decolagem](https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK) | 2:32 |
-| 78 | [Brisa Boa](https://open.spotify.com/track/7N2Rw3NC0GhH4AlyZS7xJw) | [Biollo](https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF) | [Brisa Boa](https://open.spotify.com/album/53cd6HI4HCXmHxpcXQhtNq) | 2:42 |
-| 79 | [Se Bastasse Amor](https://open.spotify.com/track/3K4gyEycEmKCtFowP0QfAq) | [Torres](https://open.spotify.com/artist/454gFLEvbdE3DuF5O0TksU), [Ort1](https://open.spotify.com/artist/2D1TdbqDphUEgFMxV7BcM1) | [Se Bastasse Amor](https://open.spotify.com/album/1aUb1yTxUpdGWZSti1olv9) | 2:41 |
-| 80 | [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 |
+| 75 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 |
+| 76 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 |
+| 77 | [Brisa Boa](https://open.spotify.com/track/7N2Rw3NC0GhH4AlyZS7xJw) | [Biollo](https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF) | [Brisa Boa](https://open.spotify.com/album/53cd6HI4HCXmHxpcXQhtNq) | 2:42 |
+| 78 | [Logo Eu](https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh) | [Decolagem](https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK) | 2:32 |
+| 79 | [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 |
+| 80 | [Se Bastasse Amor](https://open.spotify.com/track/3K4gyEycEmKCtFowP0QfAq) | [Torres](https://open.spotify.com/artist/454gFLEvbdE3DuF5O0TksU), [Ort1](https://open.spotify.com/artist/2D1TdbqDphUEgFMxV7BcM1) | [Se Bastasse Amor](https://open.spotify.com/album/1aUb1yTxUpdGWZSti1olv9) | 2:41 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMGZhZjQyMjZkNzBlNTA0YjIyZDA3NGQxMGM5ZDkyYThm`
+Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMGZiNDU4YTY1NDVkNzBmNTRiZGFhM2E3NzIwNzUzNjQy`

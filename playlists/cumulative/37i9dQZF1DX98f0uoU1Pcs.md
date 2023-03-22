@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: The Nude Party
 
-412 songs - 22 hr 7 min
+413 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Superbloom](https://open.spotify.com/track/4bpNIkj2FfPmFCNjR3Kjk0) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [Superbloom](https://open.spotify.com/album/1awoY0qUuW0BAncUn96krA) | 2:54 | 2021-10-07 | 2022-01-08 |
 | [System](https://open.spotify.com/track/1zTHW5TprTtkSfyY39Wr4Q) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [System](https://open.spotify.com/album/1RDY4RAy078SdY2ywM61XN) | 2:09 | 2021-10-07 | 2022-08-06 |
 | [Takes the Piss](https://open.spotify.com/track/5Xv1xvngdGCkrt1MnaOyEX) | [gloo](https://open.spotify.com/artist/22nB1MCDHJehA6lhrgrev3) | [How Not to Be Happy](https://open.spotify.com/album/1jB1L2n0kCjePkgb8ThTBI) | 2:31 | 2021-10-07 | 2022-03-12 |
+| [Talk For Hours](https://open.spotify.com/track/03PjveqFmnkDdYNWXrujZb) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Blending](https://open.spotify.com/album/2O3NneZDbRKj2kTyMK9jrw) | 4:59 | 2023-03-21 |  |
 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 | 2022-04-29 | 2022-10-22 |
 | [Tears Are Falling](https://open.spotify.com/track/7rtPjGBFRB0g2wBXUbrWQ6) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/0rmLedEDkfGgrklLsk7aH9) | 2:44 | 2022-10-14 |  |
 | [Teen Beat](https://open.spotify.com/track/3HyhlfFMzfXjcDzI061LAM) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Excess](https://open.spotify.com/album/3D3S3TbKudDzd7sM0b778J) | 3:28 | 2022-07-08 | 2023-03-11 |

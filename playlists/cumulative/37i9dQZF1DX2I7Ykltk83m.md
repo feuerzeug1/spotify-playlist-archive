@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Tommy Lefroy
 
-330 songs - 20 hr 0 min
+331 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Greg's Discount Chemist](https://open.spotify.com/track/0SmYlnFrrvegREf1pcTFJt) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Greg's Discount Chemist](https://open.spotify.com/album/1HkhGmDDb3Ve2URTa9jyG2) | 3:29 | 2022-04-01 | 2022-07-25 |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-04 | 2022-07-28 |
 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 | 2022-05-20 |  |
+| [Guts](https://open.spotify.com/track/2Q9bMFbQTmdEtRwucuvoLq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Guts](https://open.spotify.com/album/0PQmgJOVE5gyJc4JimlSX6) | 5:04 | 2023-03-22 |  |
 | [Half Right](https://open.spotify.com/track/2RKAabaddUZDAL1gGRRvtN) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Half Right](https://open.spotify.com/album/7nTjnUaj7RNvXBxqsCluiL) | 4:40 | 2022-04-01 | 2022-04-19 |
 | [Hangover](https://open.spotify.com/track/57lBDEtlUhzU18Co0DToLg) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Hangover](https://open.spotify.com/album/304pJgIaQAkuG19OLfjfyi) | 3:35 | 2022-10-07 |  |
 | [Hasta La Vista](https://open.spotify.com/track/6YLzLfLo0Pn65NCcHUocvS) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [So When You Gonna...](https://open.spotify.com/album/0GhGbJ83FB1iR27bCFwmj5) | 3:42 | 2021-11-14 | 2022-07-29 |
@@ -270,7 +271,7 @@
 | [Speeding 72](https://open.spotify.com/track/2Yxa0oCeD9icx1JTTaJ7bp) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:58 | 2022-10-07 | 2022-12-01 |
 | [Speeding 72](https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn) | 3:58 | 2022-10-07 | 2022-11-27 |
 | [Spike The Punch](https://open.spotify.com/track/2gzhJCWgQ9MxKXiIWP1BfB) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Spike The Punch](https://open.spotify.com/album/3S2fNUJkRiyB3SrgkixKRG) | 3:01 | 2021-11-14 | 2022-07-20 |
-| [stabilise](https://open.spotify.com/track/3JlNvjlxIlaQ4iQsnxPGct) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:32 | 2022-04-01 |  |
+| [stabilise](https://open.spotify.com/track/3JlNvjlxIlaQ4iQsnxPGct) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:32 | 2022-04-01 | 2023-03-22 |
 | [Stop Speaking](https://open.spotify.com/track/6GVVo5kj1eCZHmwnSXoZYA) | [jennylee](https://open.spotify.com/artist/0YJbZA7Ci73cEk1Ylcukgt), [Dave Gahan](https://open.spotify.com/artist/7hKXTmrq3ZppBx881yBbOr) | [Stop Speaking / In Awe Of](https://open.spotify.com/album/0gxmomjwcF5Idl68FdikJk) | 3:42 | 2022-04-01 | 2022-04-16 |
 | [Suburbia](https://open.spotify.com/track/5my2GN5y6i1KhOYfOByJEn) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Suburbia](https://open.spotify.com/album/3EKorAn8NIq138RN9W6XaC) | 3:35 | 2021-11-14 | 2022-07-29 |
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2021-11-14 | 2022-07-29 |

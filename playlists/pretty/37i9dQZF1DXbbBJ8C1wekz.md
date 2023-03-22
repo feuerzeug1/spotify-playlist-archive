@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,698 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,789 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 45 | [Gatinha](https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Gatinha](https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW) | 3:15 |
 | 46 | [Avião](https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Avião](https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf) | 2:19 |
 | 47 | [Olha Pro Oclin](https://open.spotify.com/track/7BWjPllXbBJu4BMNAOJSSw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Doka Language](https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH) | 3:41 |
-| 48 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
-| 49 | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/album/2Dbj2cJCZs8E77JG5ED1C1) | 2:51 |
+| 48 | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/album/2Dbj2cJCZs8E77JG5ED1C1) | 2:51 |
+| 49 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
 | 50 | [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 |
 | 51 | [Trap de Cria](https://open.spotify.com/track/4UWCqKIWKAmdahy3X4xDkA) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Trap de Cria](https://open.spotify.com/album/2GzS8QreFNrXifx59Jh8Ww) | 1:57 |
 | 52 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
 | 60 | [Lui Lui](https://open.spotify.com/track/3CPror2JNhqGuS8AjaAoKu) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 4:41 |
 
-Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMDAzNmY2ZmU3OTcyY2I5NjI5NzllNDViMTAyY2IwNzhh`
+Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMGE5NjUyOWQxMzk5YWRjODFiYWM1MTI3ZDQwYmEzNWM5`

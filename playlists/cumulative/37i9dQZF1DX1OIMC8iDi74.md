@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-245 songs - 13 hr 30 min
+246 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Break of Dawn \- Duke & Jones Remix](https://open.spotify.com/track/0pbuqDgYF9EdakzDzbUwj1) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Stoltenhoff](https://open.spotify.com/artist/6HKR0MHpgba3ZRBXYfPiq0), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Danger Days \(The Remixes\)](https://open.spotify.com/album/7mPmXPYUBtYQ4wAGUUR57t) | 2:55 | 2021-11-19 | 2022-01-09 |
 | [Breath](https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83) | [Breath](https://open.spotify.com/album/55wW59sZIugEKDbbATNigk) | 3:21 | 2022-09-30 |  |
 | [Breath](https://open.spotify.com/track/0peDcDwrKV0LEeoQuSQVLG) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83) | [Breath](https://open.spotify.com/album/1bj4mGXjlOkfZZ5Lv3WcOB) | 3:21 | 2022-02-01 | 2022-10-15 |
-| [Buck](https://open.spotify.com/track/4eydbGI5QpRXs0Tua5m2c1) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Buck](https://open.spotify.com/album/2TtKVJdubkLQ7OrxU5GuHE) | 2:41 | 2022-05-13 |  |
+| [Buck](https://open.spotify.com/track/4eydbGI5QpRXs0Tua5m2c1) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Buck](https://open.spotify.com/album/2TtKVJdubkLQ7OrxU5GuHE) | 2:41 | 2022-05-13 | 2023-03-22 |
 | [Bust Out](https://open.spotify.com/track/7bXODu5FcCot1HiqVGZHQo) | [Bailo](https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC) | [Bust Out](https://open.spotify.com/album/5MTJNbFNMlNzFUMzwdULYL) | 2:43 | 2021-11-19 | 2022-02-02 |
 | [Came Up](https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Came Up](https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD) | 3:34 | 2022-02-01 |  |
 | [Carte Blanche](https://open.spotify.com/track/5dbMRjxGYAOEbVEwMGEDlG) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [tofû](https://open.spotify.com/artist/6Lw31HQJ9LI6AeGBe8bnen) | [Carte Blanche](https://open.spotify.com/album/2aOvovhHojpQ3XKd6Bed9Z) | 4:37 | 2021-11-19 | 2022-02-02 |
@@ -63,6 +63,7 @@
 | [Echelon](https://open.spotify.com/track/6PXGhhC502UkxHSKKXQjaK) | [Levianth](https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H) | [Echelon](https://open.spotify.com/album/77ZmYo3i76tieicsQ5VmbR) | 3:02 | 2022-01-21 | 2022-02-01 |
 | [Eden](https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden](https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ) | 2:56 | 2022-06-24 | 2023-02-15 |
 | [Eden \(feat\. fussy\)](https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden \(feat\. fussy\)](https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj) | 2:56 | 2022-12-02 |  |
+| [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-03-17 |  |
 | [enough](https://open.spotify.com/track/4uoVYbhitSNdQoqnJneYTg) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [enough](https://open.spotify.com/album/6NBSOdNlc2dhzHrHttMUhw) | 2:38 | 2021-11-19 | 2022-12-01 |
 | [Eternal](https://open.spotify.com/track/1Bhy4eBv3f3m7cXQxyQVZ6) | [Onur Ormen](https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL), [R3VXS](https://open.spotify.com/artist/2utEH3EfW0uJCHSDyXnJjB) | [Eternal](https://open.spotify.com/album/1GykPsowuX6anZe67MflnU) | 2:24 | 2021-11-19 | 2022-02-02 |
 | [Eternity](https://open.spotify.com/track/6OsdOBA7VE0ZYzV99CRutB) | [Bafu](https://open.spotify.com/artist/7noh40d76QRMnTPGW2VvO6), [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Eternity](https://open.spotify.com/album/02wSxU0vXahHp0r0qbIDsH) | 3:43 | 2021-11-19 | 2022-02-02 |

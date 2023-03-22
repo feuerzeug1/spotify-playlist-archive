@@ -4,7 +4,7 @@
 
 > Amsterdam Dance Event takes over Amsterdam with an incredible line\-up of dance & electronic artists this month!
 
-416 songs - 1 day 7 hr 47 min
+417 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,8 @@
 | [You Got The Love \- Chico Rose Remix](https://open.spotify.com/track/5E9UaMRvwknlBIxruZI3Sv) | [Never Sleeps](https://open.spotify.com/artist/7BUaQCq7sFUMJqkWPqApXE), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [You Got The Love \(Chico Rose Remix\)](https://open.spotify.com/album/2kq2zdloBTtqgO3uRJ3CAV) | 3:23 | 2022-07-15 | 2022-08-06 |
 | [You Got The Love \- D.O.D Remix](https://open.spotify.com/track/7ANqCaFsdapTtAPcn0ZoZ5) | [Never Sleeps](https://open.spotify.com/artist/7BUaQCq7sFUMJqkWPqApXE), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [You Got The Love \(D.O.D Remix\)](https://open.spotify.com/album/3HkT7P0xmJZmd1JVNPgZan) | 3:37 | 2022-07-15 | 2022-08-06 |
 | [You're Just A](https://open.spotify.com/track/6TUi9vKYBGgw5A5lvFKX23) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [I'm Back EP](https://open.spotify.com/album/4znRNjp5eHWxnjo6B2tZAb) | 5:33 | 2021-12-15 | 2022-05-17 |
-| [You, Me, Here, Now](https://open.spotify.com/track/5l2PMgMfAZpA9pQXL7GRJ1) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Boxed Out](https://open.spotify.com/album/6EULCikvblF2HZCE7lM3CK) | 4:53 | 2022-10-14 |  |
+| [You, Me, Here, Now](https://open.spotify.com/track/4AcyEIgiULIV9XrSc0NhTy) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Boxed Out](https://open.spotify.com/album/3Y8Ma8qqcLBMWoZg8b1DBA) | 4:53 | 2022-10-17 |  |
+| [You, Me, Here, Now](https://open.spotify.com/track/5l2PMgMfAZpA9pQXL7GRJ1) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Boxed Out](https://open.spotify.com/album/6EULCikvblF2HZCE7lM3CK) | 4:53 | 2022-10-14 | 2023-03-22 |
 | [Your Attention \- Radio Edit](https://open.spotify.com/track/57B1Z5iOZ1F4Zny8Iop9a5) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Your Attention](https://open.spotify.com/album/5kHiMgD8jgWVpFJOgHPr4H) | 3:37 | 2022-07-15 | 2022-08-06 |
 | [Your Love](https://open.spotify.com/track/5sALsXnrr4kIS5dDKuVraC) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [EDC Las Vegas 2022](https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau) | 4:09 | 2022-05-16 | 2022-06-10 |
 | [Your Love](https://open.spotify.com/track/4xULQ1OH1Rm5EpMhuEWULl) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Your Love](https://open.spotify.com/album/4G7AnMXZWjAHwPUjmRCWx6) | 2:45 | 2021-12-15 | 2022-05-17 |

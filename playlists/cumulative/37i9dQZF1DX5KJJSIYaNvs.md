@@ -4,10 +4,11 @@
 
 > Listen to Indian women, at full volume\. Cover: Bhoomi Trivedi
 
-186 songs - 10 hr 48 min
+186 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 0:00 | 2022-02-15 |  |
 | [](https://open.spotify.com/track/0zEc0X8eKTfoiIqW77ugyB) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7tuED48YasDaTCKYBc1KUy) | 0:00 | 2022-03-07 | 2022-09-09 |
 | [](https://open.spotify.com/track/1bx6spmieE655BQvWdTYKA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 0:00 | 2023-03-02 |  |
 | [](https://open.spotify.com/track/2rAJ3PA5JGMktxYiSg53Um) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 0:00 | 2023-03-02 |  |
@@ -105,7 +106,6 @@
 | [Main Teri Ho Gayi](https://open.spotify.com/track/7i0xFBPSmnANbOs3eRblS2) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Main Teri Ho Gayi](https://open.spotify.com/album/3y7J7oj3rT9SOtz9FGFQqQ) | 3:20 | 2022-02-01 | 2022-07-29 |
 | [Main Toh Main Hoon \(From "Mili"\)](https://open.spotify.com/track/7zCNScxHCuCfDXfvppdAqr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Main Toh Main Hoon \(From "Mili"\)](https://open.spotify.com/album/6RPut6pfJnZqhuQdFOf8OW) | 3:47 | 2022-11-09 | 2023-03-03 |
 | [Majnu](https://open.spotify.com/track/070tyz0zU3uDJjwbsivZtu) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Majnu](https://open.spotify.com/album/0Nh2YR5SASmzVn3nkBUobO) | 3:16 | 2021-12-10 | 2022-02-02 |
-| [Makhna](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 3:03 | 2022-02-15 |  |
 | [Manike \(From "Thank God"\)](https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo) | [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Surya Ragunaathan](https://open.spotify.com/artist/0GiAC4VvvYCypjRH6IiasK) | [Manike \(From "Thank God"\)](https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3) | 3:17 | 2022-11-09 |  |
 | [Marjaawaan](https://open.spotify.com/track/2uBlWwG0P6cUOUBiZhPmBM) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Marjaawaan \- BellBottom](https://open.spotify.com/album/0I4IivFBvs4rHWh4nsskpA) | 3:45 | 2022-04-05 | 2022-05-05 |
 | [Mashooka \(feat\. Rakul Preet Singh\)](https://open.spotify.com/track/6CVu3umk6baD6bwLVzmx3m) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Viruss](https://open.spotify.com/artist/6sfh0P8S3lNQ8saqj0bc7q), [Rakul Preet Singh](https://open.spotify.com/artist/1MKWS2FzyIsjlLV9v926gU) | [Mashooka \(feat\. Rakul Preet Singh\)](https://open.spotify.com/album/1AzWjPYpCyqP7uqt04yFxv) | 3:07 | 2022-08-03 | 2023-03-03 |

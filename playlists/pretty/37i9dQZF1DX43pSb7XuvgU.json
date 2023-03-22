@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 97572,
+  "num_followers": 97689,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMGYyYzVkMzBlZTkyYjQ0NmRlNDcwNzk2OWRmODkzZmMw",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDExYWViNWY0ZTBhZWZlZGFmNjc1Nzc3OGE3YTNlYjJi",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "El Pr\u00edncipe de la Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "No Me Digas Que Te Vas",
-      "url": "https://open.spotify.com/track/5mWkMREMASdLaUI55kLxiz"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "En el Palacio de Bellas Artes",
         "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 428466,
       "name": "Amor Eterno - En Vivo [En el Palacio de Bellas Artes]",
       "url": "https://open.spotify.com/track/0QI38in0PP6LVZSl6NnKaI"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "El Pr\u00edncipe de la Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "No Me Digas Que Te Vas",
+      "url": "https://open.spotify.com/track/5mWkMREMASdLaUI55kLxiz"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 241026,
       "name": "40 y 20 (with Mar\u00eda Jos\u00e9)",
       "url": "https://open.spotify.com/track/7IuRARlFBMeonrCgQ7lKym"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5"
     },
     {
       "added_at": "2021-12-29 23:33:57",

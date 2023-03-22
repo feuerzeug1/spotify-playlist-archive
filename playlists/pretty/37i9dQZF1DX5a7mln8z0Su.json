@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5472,
+  "num_followers": 5476,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUyMjY4NywwMDAwMDAwMDc4NDgzMTY1ZDY3NGIxZDA0YjAwNzBhYzlhOTI5OGFm",
+  "snapshot_id": "MTY3ODUyMjY4NywwMDAwMDAwMDBiNzllMGNkMzAxMTg3NDIwMDE1ZGI0MTk1NWMxMDRk",
   "tracks": [
     {
       "added_at": "2023-03-11 08:18:07",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "All I Have",
+      "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
         "name": "Bad words with KozyPop",
         "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 197687,
       "name": "Bad words",
       "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
-      },
-      "artists": [
-        {
-          "name": "soowoo",
-          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "All I Have",
-      "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
     },
     {
       "added_at": "2023-03-11 08:18:07",
@@ -623,42 +623,6 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Kelsey Kuan",
-          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "Die For You (feat. Kelsey Kuan)",
-      "url": "https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
         "name": "Yearbook 2022",
         "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
@@ -679,22 +643,38 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
-        "name": "kibun (feat. vntermude)",
-        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "vntermude",
-          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         }
       ],
-      "duration_ms": 168498,
-      "name": "kibun (feat. vntermude)",
-      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
+      "duration_ms": 191793,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "Die For You (feat. Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2"
     },
     {
       "added_at": "2023-03-11 08:18:07",
@@ -719,6 +699,26 @@
       "duration_ms": 240000,
       "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
       "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
+        "name": "kibun (feat. vntermude)",
+        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "vntermude",
+          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
+        }
+      ],
+      "duration_ms": 168498,
+      "name": "kibun (feat. vntermude)",
+      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
     },
     {
       "added_at": "2023-03-11 08:18:07",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
-        "name": "#mood",
-        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "#mood",
-      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
-    },
-    {
-      "added_at": "2023-03-11 08:18:07",
-      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -855,22 +839,18 @@
     {
       "added_at": "2023-03-11 08:18:07",
       "album": {
-        "name": "Last Night (feat. DD7)",
-        "url": "https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW"
+        "name": "#mood",
+        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
       },
       "artists": [
         {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
-        },
-        {
-          "name": "DD7",
-          "url": "https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         }
       ],
-      "duration_ms": 184736,
-      "name": "Last Night (feat. DD7)",
-      "url": "https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c"
+      "duration_ms": 181120,
+      "name": "#mood",
+      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
     },
     {
       "added_at": "2023-03-11 08:18:07",
@@ -887,6 +867,26 @@
       "duration_ms": 235693,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
+    },
+    {
+      "added_at": "2023-03-11 08:18:07",
+      "album": {
+        "name": "Last Night (feat. DD7)",
+        "url": "https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        },
+        {
+          "name": "DD7",
+          "url": "https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Last Night (feat. DD7)",
+      "url": "https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c"
     },
     {
       "added_at": "2023-03-11 08:18:07",

@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra, Ke Personajes & La K'onga.",
-  "num_followers": 586641,
+  "num_followers": 586964,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGM4ZGQwNDI1MDBjMzIyZDYwMzVhZTk4Mjk0MjQ3NzFj",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGU3YjFjMTliMTczY2M3NGFmZmNiODNhZjVlMWRiMmRl",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "A Pura Sangre",
-        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
-      },
-      "artists": [
-        {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "Adicto A Ti",
-      "url": "https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Dos Amantes",
         "url": "https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 174140,
       "name": "Respetemos el duelo",
       "url": "https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "A Pura Sangre",
+        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
+      },
+      "artists": [
+        {
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "A Pura Sangre",
-        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
       },
       "artists": [
         {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 262040,
-      "name": "Amor De Adolescentes",
-      "url": "https://open.spotify.com/track/3E28mvtogjuESSENFw1mLV"
+      "duration_ms": 162253,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Fina",
-      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Qui\u00e9reme (Cuarteto)",
         "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 336000,
       "name": "Qui\u00e9reme - Cuarteto",
       "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "A Pura Sangre",
+        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
+      },
+      "artists": [
+        {
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+        }
+      ],
+      "duration_ms": 262040,
+      "name": "Amor De Adolescentes",
+      "url": "https://open.spotify.com/track/3E28mvtogjuESSENFw1mLV"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Te Pido Que La Dejes",
+      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "La Vagancia Cuartetera",
         "url": "https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Inigualable",
-        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Te Pido Que La Dejes",
-      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Todo de T\u00ed",
         "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 179855,
       "name": "Todo de T\u00ed",
       "url": "https://open.spotify.com/track/1DeyreZEMTeGKKPgSvzppL"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Para Rato!",
+        "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 227306,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "El 22",
-        "url": "https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 480888,
-      "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
-      "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "A Pura Sangre",
         "url": "https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 218826,
       "name": "200 Copas - En Vivo",
       "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "El 22",
+        "url": "https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 480888,
+      "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
+      "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Para Rato!",
-        "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 227306,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "A Cu\u00e1nto Me Qued\u00e9",
         "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 196970,
       "name": "A Cu\u00e1nto Me Qued\u00e9",
       "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Tu Peor Enemigo",
+        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 201109,
+      "name": "Tu Peor Enemigo",
+      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1771,22 +1787,6 @@
       "duration_ms": 348876,
       "name": "Si Pudiera Tenerte - Camina y Ven",
       "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Un Nuevo Tiempo",
-        "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
-      },
-      "artists": [
-        {
-          "name": "Ale Ceberio",
-          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
-        }
-      ],
-      "duration_ms": 136318,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
     }
   ],
   "unique_name": "100% Cuarteto",

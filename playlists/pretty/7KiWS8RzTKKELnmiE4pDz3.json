@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "Njk1OCwzMDRjODA1OGQzMGY3OThlZTE4NTM2OTAwNjgxZTZiYWNjMDRmNmM4",
+  "snapshot_id": "Njk2MCwxZTVhYjhjZDI4ZDM4OWE1OTBlYTFjOTQ1ZDE0NTY1ZmEwODkzNTE1",
   "tracks": [
     {
       "added_at": "2022-10-24 17:24:21",
@@ -4861,22 +4861,6 @@
       "url": "https://open.spotify.com/track/2tOUQ0d8EePqpJltokyhWo"
     },
     {
-      "added_at": "2023-01-07 07:15:45",
-      "album": {
-        "name": "Spaz&B",
-        "url": "https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL"
-      },
-      "artists": [
-        {
-          "name": "Glokk40Spaz",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
-        }
-      ],
-      "duration_ms": 158010,
-      "name": "Filet Mignon",
-      "url": "https://open.spotify.com/track/5VwJFzUBZbJQnxcTtvKQJT"
-    },
-    {
       "added_at": "2023-01-07 07:18:00",
       "album": {
         "name": "Spaz&B",
@@ -6683,6 +6667,30 @@
       "duration_ms": 263720,
       "name": "Couch",
       "url": "https://open.spotify.com/track/0VLkwjIaeJM5KMjcVVybBp"
+    },
+    {
+      "added_at": "2023-03-21 20:29:20",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "hibachi (feat. Kodak Black & 21 Savage)",
+      "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
     }
   ],
   "unique_name": "main ",

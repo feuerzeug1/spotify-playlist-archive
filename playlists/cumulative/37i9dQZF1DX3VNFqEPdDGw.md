@@ -4,10 +4,11 @@
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-82 songs - 4 hr 25 min
+82 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2aL7GhTyObaRdWaEi4HVPC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/21rdsrcQ2jxiREmn3uZ7Tp) | 0:00 | 2022-06-28 |  |
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2021-12-18 |  |
 | [Ask About Me](https://open.spotify.com/track/1IRqRr6FnqMPPMPgjz7bef) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 4:19 | 2022-07-05 |  |
 | [Ask About Me](https://open.spotify.com/track/2xXZwpCUwaotGISP5rSmVE) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:19 | 2021-12-18 | 2022-07-29 |
@@ -38,7 +39,6 @@
 | [Gallan Kardi](https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Jawaani Jaaneman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR) | 3:14 | 2021-12-18 | 2022-01-11 |
 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 | 2022-07-05 |  |
 | [It Ain't Legal](https://open.spotify.com/track/3Fr1WmziIKmhU9s5fNKZrQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 3:34 | 2021-12-18 | 2022-07-29 |
-| [Jaan War Daa \(From "Ghund Kadh Le Ni Sohreyan Da Pind Aa Gaya"\)](https://open.spotify.com/track/2aL7GhTyObaRdWaEi4HVPC) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daoud Music](https://open.spotify.com/artist/25GIbgESjRMJaCTFjSK7e0) | [Jaan War Daa \(From "Ghund Kadh Le Ni Sohreyan Da Pind Aa Gaya"\)](https://open.spotify.com/album/21rdsrcQ2jxiREmn3uZ7Tp) | 2:47 | 2022-06-28 |  |
 | [Jagga](https://open.spotify.com/track/5XJGVtJcKHgWBo3fNwJWSl) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Frenzy](https://open.spotify.com/artist/50FBY7deOzEIM580Ui6SzA) | [Bhangra Essential](https://open.spotify.com/album/7jdDevCoN03GtfGl9jn46p) | 4:08 | 2022-01-14 |  |
 | [Jahangir Di Haveli](https://open.spotify.com/track/4n6e7UDeilgfsskh2S3MgN) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Munda Sidhua Da](https://open.spotify.com/album/4Q4oPqoWHnWuRPIqMb0ohS) | 3:10 | 2021-12-18 |  |
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1lIb7Ze8PHhWwdXDtPF00j) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/7pB3NV2NlTbRihxYuC1Ok0) | 2:58 | 2021-12-18 | 2022-07-29 |

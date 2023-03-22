@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring OBLVYN
 
-371 songs - 20 hr 50 min
+372 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-08-06 | 2023-02-04 |
 | [Ego](https://open.spotify.com/track/6R7CXX5xAQ5okxXRr2LWzB) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Origami Human](https://open.spotify.com/album/7j4meIEQzvfubq1EBNfg1r) | 3:43 | 2021-12-10 | 2022-04-20 |
 | [Electric Feel](https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Electric Feel](https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz) | 3:12 | 2021-08-06 |  |
+| [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-03-16 |  |
 | [Empty Room \- Cabu Remix](https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Empty Room](https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s) | 3:46 | 2021-08-06 |  |
 | [Empty Room \- Cabu Remix](https://open.spotify.com/track/7dEYUkZMdUs7rfOKRMr5lO) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Empty Room](https://open.spotify.com/album/4Fbe1OKsl6BdOYKix4j6Lu) | 3:46 | 2021-08-06 | 2022-07-29 |
 | [Escape Reality](https://open.spotify.com/track/4EcsGwSei1YStJRy3lbpzt) | [munro](https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH), [Serion](https://open.spotify.com/artist/1daCx1huhWZa5aLc1KK9hs), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [Escape Reality](https://open.spotify.com/album/5tHeGvKuuTHaMiddXUAqGL) | 3:31 | 2021-08-06 | 2023-02-11 |
@@ -218,7 +219,7 @@
 | [Minute](https://open.spotify.com/track/7oFUalDSW80cvDjsekma4Q) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Minute](https://open.spotify.com/album/1WbWZSXhnqc6gowVQsESqA) | 2:52 | 2021-08-06 | 2022-07-29 |
 | [MOON WALK](https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [MOON WALK](https://open.spotify.com/album/4dukGiPTP45kyt2HRrdp7a) | 2:36 | 2021-08-06 | 2023-02-11 |
 | [Myriad \(feat\. Bijou Violet\)](https://open.spotify.com/track/1VikfA9k0xSYV770D44jAF) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [Dawn](https://open.spotify.com/album/6Vw0bjmeyU6gG2k5Oa8wd1) | 3:23 | 2022-02-25 | 2022-07-29 |
-| [Narrow](https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Narrow](https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R) | 3:36 | 2022-01-26 |  |
+| [Narrow](https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Narrow](https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R) | 3:36 | 2022-01-26 | 2023-03-22 |
 | [Need U \(feat\. Madishu\)](https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [Need U \(feat\. Madishu\)](https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty) | 3:26 | 2023-03-03 |  |
 | [Never Be Mine](https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Never Be Mine](https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF) | 2:34 | 2022-04-08 |  |
 | [Never Be The One](https://open.spotify.com/track/7vJgFCSsvnzDLc5MWFkFnz) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [Makeshift Moon](https://open.spotify.com/album/5aUCZI0mX5SZaPfdjbjL1h) | 3:57 | 2021-08-06 | 2023-03-02 |

@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: kurffew
 
-127 songs - 5 hr 37 min
+128 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [harder than it looks softer than youd think](https://open.spotify.com/track/1FVnwCTrxcmukBmTk5XdkZ) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [harder than it looks softer than youd think](https://open.spotify.com/album/13sdluulDSOsUuL1DgXOR6) | 2:40 | 2023-01-06 | 2023-02-18 |
 | [Heavy Jacket](https://open.spotify.com/track/5NxwAYPr4gyc7gLmhZHwAl) | [Peech.](https://open.spotify.com/artist/0WQh63ofwTzWOy1ubiHMdk), [Xedrin](https://open.spotify.com/artist/0T8OlNkaNRP75U1kSlRyWG) | [Heavy Jacket](https://open.spotify.com/album/6hLHsUqzVj6Z4fpzynQckd) | 2:44 | 2023-01-27 |  |
 | [highscore!](https://open.spotify.com/track/2crXnfUgYV2a5yfMWOmQdT) | [cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc) | [highscore!](https://open.spotify.com/album/11mhTCGVCQjg2t13MXHRcX) | 3:47 | 2023-03-10 |  |
-| [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 | 2022-12-16 |  |
+| [HOLD](https://open.spotify.com/track/0YJBmQTqJyexrx5DNfog6n) | [Caleb Peters](https://open.spotify.com/artist/1AaJS5oq6oQMUjd1mpO1t3) | [HOLD](https://open.spotify.com/album/0WZvUnHEnnAzpxd60ZeJVp) | 2:47 | 2023-03-21 |  |
+| [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 | 2022-12-16 | 2023-03-22 |
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 |  |
 | [Hëłlœ Kįttÿ](https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Hëłlœ Kįttÿ](https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf) | 2:46 | 2023-01-27 | 2023-03-02 |
 | [I can't save myself](https://open.spotify.com/track/44o1dpWuXgNN56hKOJLnUX) | [yung van](https://open.spotify.com/artist/3gat7IO3Dlae8AFZZrQX5b), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [don't change the channel](https://open.spotify.com/album/0UO2ggBcfUbwZwjWR7JTWO) | 3:01 | 2023-03-10 |  |
@@ -103,7 +104,7 @@
 | [Shadows](https://open.spotify.com/track/7iI6aH46uqvW09y78sq23O) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT) | [Shadows](https://open.spotify.com/album/3X1ybNkRWynmnL3SikiTJL) | 3:07 | 2023-01-13 | 2023-02-18 |
 | [ShoulderBlades](https://open.spotify.com/track/3wpqJnWQWl4bY4BtMWTbtk) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [ShoulderBlades](https://open.spotify.com/album/3BTJdS4xG8Pah4MkBJEukW) | 2:29 | 2023-01-20 |  |
 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 | 2022-12-04 | 2023-02-18 |
-| [Sierra Echo X\-Ray](https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Sierra Echo X\-Ray](https://open.spotify.com/album/0qTRuR0gfRdiViqE7gk3QQ) | 2:12 | 2023-01-13 |  |
+| [Sierra Echo X\-Ray](https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Sierra Echo X\-Ray](https://open.spotify.com/album/0qTRuR0gfRdiViqE7gk3QQ) | 2:12 | 2023-01-13 | 2023-03-22 |
 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 | 2022-12-04 |  |
 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 | 2022-12-09 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-04 |  |

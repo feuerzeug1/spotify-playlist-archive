@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Unknown Mortal Orchestra
 
-4,988 songs - 12 day 4 hr 19 min
+4,989 songs - 12 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,8 @@
 | [Beautiful Superstar](https://open.spotify.com/track/7y31z2opHEoqxEiHK0RTRn) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful Superstar](https://open.spotify.com/album/77giFPNzAxcHfkmagyRC1E) | 4:42 | 2020-09-18 | 2020-10-24 |
 | [Becoming All Alone](https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Becoming All Alone](https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n) | 4:18 | 2022-02-25 | 2022-04-23 |
 | [Bedache](https://open.spotify.com/track/6XSlSieQ9sCCDfZNxnJ7Zv) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Bedache](https://open.spotify.com/album/7E4axvIVSOMQzexbtbEoa8) | 2:33 | 2020-11-20 | 2021-01-23 |
-| [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 | 2023-02-24 |  |
+| [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 | 2023-02-24 | 2023-03-22 |
+| [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 | 2023-02-24 |  |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-09-30 | 2022-11-12 |
 | [Before](https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Before](https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE) | 4:47 | 2020-10-16 | 2020-12-22 |
 | [Before The Morning Comes](https://open.spotify.com/track/77HoENqFfbJ9O2bostlK4O) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Before The Morning Comes](https://open.spotify.com/album/5SLquQm6I3AUuon4UiMqer) | 3:32 | 2021-09-25 | 2021-10-23 |

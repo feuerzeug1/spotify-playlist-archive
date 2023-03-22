@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 45743,
+  "num_followers": 46338,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA3NDUxMiwwMDAwMDAwMGQ5YzY2YzVjZDc3NzI0Nzc1OWVjZjM4ODE5MjliNDBm",
+  "snapshot_id": "MTY3OTA3NDUxMiwwMDAwMDAwMGU5NGE4Y2EyNWI5M2ZjMzA0ODM0ZDVlNjUxOTUzMGRj",
   "tracks": [
     {
       "added_at": "2023-01-12 03:08:14",
@@ -877,6 +877,22 @@
       "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "idk how to luv",
+        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "duration_ms": 150251,
+      "name": "idk how to luv",
+      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
+    },
+    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Urban Twilight (Remaster)",
@@ -925,20 +941,20 @@
       "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "idk how to luv",
-        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
       },
       "artists": [
         {
-          "name": "zzzahara",
-          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
         }
       ],
-      "duration_ms": 150251,
-      "name": "idk how to luv",
-      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
     },
     {
       "added_at": "2022-08-03 04:20:04",
@@ -955,22 +971,6 @@
       "duration_ms": 241548,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "It's Just A Bit Of Blood",
-        "url": "https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 286520,
-      "name": "It's Just A Bit Of Blood",
-      "url": "https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Lesser Matters",
@@ -1199,6 +1183,22 @@
       "duration_ms": 293160,
       "name": "Keen on Boys",
       "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
+    },
+    {
+      "added_at": "2023-02-27 23:19:06",
+      "album": {
+        "name": "It's Just A Bit Of Blood",
+        "url": "https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 286520,
+      "name": "It's Just A Bit Of Blood",
+      "url": "https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r"
     },
     {
       "added_at": "2021-10-19 01:47:29",

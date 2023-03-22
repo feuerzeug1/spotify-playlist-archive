@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Unknown Mortal Orchestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,186 likes - 180 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,270 likes - 180 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 124 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 |
 | 125 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
 | 126 | [Martina Soleil \(Living At The Same Time\)](https://open.spotify.com/track/1BEjhtSuXdCf2NVofV71DD) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Martina Soleil \(Living At The Same Time\)](https://open.spotify.com/album/2FIbisWv6Q7QZVvevvCE3G) | 3:07 |
-| 127 | [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 |
+| 127 | [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 |
 | 128 | [No Men's Drive](https://open.spotify.com/track/4fNp0E73dcIDJCUeodd2Ar) | [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [To Whom We Return](https://open.spotify.com/album/7lFXTVyHJRfoAscycletMe) | 3:31 |
 | 129 | [Adderall](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 |
 | 130 | [Sore Eyes](https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Sore Eyes](https://open.spotify.com/album/1pNb1AYhy42mSECLH04Vac) | 3:13 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 179 | [lazy \(haste\)](https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [lazy](https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4) | 2:05 |
 | 180 | [Always on My Mind](https://open.spotify.com/track/6JBOTY4U3xGtE2Wpzp2uA3) | [Roller Derby](https://open.spotify.com/artist/2MCyjG9viaC9IM39VO3yDe) | [Always on My Mind](https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4) | 3:29 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGViZDliODkwZDgzNWJmZmIyYTU5MGVjNWYyMjk0NDky`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGY5ZjllMjU1NTQzNTkzNzA2MmQyOGNiZTc3NzQ4N2Qy`

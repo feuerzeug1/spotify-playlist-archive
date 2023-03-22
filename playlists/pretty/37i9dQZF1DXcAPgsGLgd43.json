@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2755,
+  "num_followers": 2756,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDZjOGMyNzMxNjhiYTMwMzA1YTgyYThlYzhjNTNkNTUw",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDg2NGVlNTg2YmJmZWZmNTA4ZGQ3NDlkNzIwYzY3Y2Iw",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -831,18 +831,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
+        "name": "Ay Papi",
+        "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
       },
       "artists": [
         {
-          "name": "Joan Cases",
-          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
+      "duration_ms": 205161,
+      "name": "Ay Papi",
+      "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -887,18 +887,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Ay Papi",
-        "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
       },
       "artists": [
         {
-          "name": "Local Singles",
-          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+          "name": "Joan Cases",
+          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Ay Papi",
-      "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
+      "duration_ms": 168960,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
     },
     {
       "added_at": "2021-11-05 06:05:00",

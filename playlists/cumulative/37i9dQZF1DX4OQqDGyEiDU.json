@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 117391,
       "name": "OMAJINAI",
       "url": "https://open.spotify.com/track/15BRu3pGx0AHvID3pBZV6J"
@@ -3378,6 +3378,28 @@
       "duration_ms": 208004,
       "name": "\u30a2\u30d6\u30ce\u30fc\u30de\u30ea\u30c6\u30a3\u30fb\u30c0\u30f3\u30b7\u30f3\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/3sWcYSiFPCL5CNzU0H5Wau"
+    },
+    {
+      "album": {
+        "name": "\u7a7a\u60f3\u30e1\u30e2\u30e9\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm"
+      },
+      "artists": [
+        {
+          "name": "Marasy",
+          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234306,
+      "name": "\u30a2\u30de\u30c4\u30ad\u30c4\u30cd (feat.\u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM"
     },
     {
       "album": {
@@ -5923,6 +5945,24 @@
     },
     {
       "album": {
+        "name": "\u30de\u30cd\u30ad\u30f3",
+        "url": "https://open.spotify.com/album/2GpY4iShppsPlDxsTL2Apz"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165373,
+      "name": "\u30de\u30cd\u30ad\u30f3",
+      "url": "https://open.spotify.com/track/3BcWb0msot5CtVT8bSTSYJ"
+    },
+    {
+      "album": {
         "name": "\u30de\u30d5\u30a3\u30a2",
         "url": "https://open.spotify.com/album/7cDUnK6abvuyt1IMi7fMau"
       },
@@ -6724,7 +6764,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,254 likes - 105 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,327 likes - 105 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

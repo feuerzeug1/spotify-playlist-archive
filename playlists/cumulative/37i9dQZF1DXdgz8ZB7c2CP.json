@@ -1835,6 +1835,32 @@
     },
     {
       "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "rSUN",
+          "url": "https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo"
+        },
+        {
+          "name": "Deliriousninja",
+          "url": "https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177441,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B"
+    },
+    {
+      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
       },
@@ -4304,7 +4330,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 216200,
       "name": "Narrow",
       "url": "https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5"

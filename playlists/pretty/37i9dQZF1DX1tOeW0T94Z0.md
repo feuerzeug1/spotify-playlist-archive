@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Maestro Fresh Wes
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,367 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,372 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 55 | [Crazy World \(feat\. Notch\) \- Radio version](https://open.spotify.com/track/6LwIz1SY5pyyqdAMMK7YEF) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Sazon Diamante](https://open.spotify.com/artist/6JIDBImMjrqr0kBbDsHGOJ), [Notch](https://open.spotify.com/artist/4n5qtRyigEaOpL9MFrg20g) | [Reloaded](https://open.spotify.com/album/4RRmXoHUZKq1rMjYTOkjLM) | 3:59 |
 | 56 | [Now A Daze](https://open.spotify.com/track/1hnD7gk73EyIhECXX8TFo3) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [The Old Prince](https://open.spotify.com/album/4dPlglX9hWIUld9UcP7R3M) | 2:20 |
 | 57 | [Audio Coke](https://open.spotify.com/track/2bKmY1uObcvy8Akw2RHaPC) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [A Sample and a Drum Machine](https://open.spotify.com/album/1UqWZyvdTHKr4HO2Wbtvym) | 3:07 |
-| 58 | [Light It Up](https://open.spotify.com/track/4SDQdOCIMSbBr3s9R9RDY6) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Memoirs Of Blake Savage](https://open.spotify.com/album/5c1Ln2nyfegHmx2oUOIpuV) | 3:55 |
+| 58 | [Light It Up](https://open.spotify.com/track/1H0QMpLbKMdBgKZ2PMZqhO) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Memoirs Of Blake Savage](https://open.spotify.com/album/1zhRDiYgfCtz6GiJeahujh) | 3:55 |
 | 59 | [Pressure](https://open.spotify.com/track/5s98t8Fgnios2RhGMIC0hi) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Juno Awards 2008](https://open.spotify.com/album/31mShyZYlhE6zTzVGWznPu) | 4:34 |
 | 60 | [Pull up \(Remix\) \[feat\. Kardinal Offishall, Trinity Chris, Lindo P, Untitled, Shawn Desman, Shanti & Fito Blanko\]](https://open.spotify.com/track/2METyPRWcGhvQuXBzUCEzS) | [Rochester](https://open.spotify.com/artist/15eHvU7URb8COOYNM35fZK), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Trinity Chris](https://open.spotify.com/artist/0joS9i0Yela7n7rw9pnZ56), [Lindo P](https://open.spotify.com/artist/3OgBn5STML2ZJQFz9enE8X), [Untitled](https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE), [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV), [Shanti](https://open.spotify.com/artist/4Mqv4vPwfSL3EdB99OVFVX), [Fito Blanko](https://open.spotify.com/artist/5eYDJJfPXinVZq2mXleOSW) | [Pull Up](https://open.spotify.com/album/3NKZrJCxOrczBgoYwjt6jp) | 4:23 |
 | 61 | [U Can Have It All](https://open.spotify.com/track/53ZIzhozH4pkPvQTVeEbsm) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [IAMJRDN](https://open.spotify.com/album/179DxfuuPAq1CobzAL9ui3) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 74 | [Get Ready \- Radio Mix](https://open.spotify.com/track/4ZquVZdCLvB4Bw5N45HLnK) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV) | [Shawn Desman](https://open.spotify.com/album/7Axco23tgWGyvopgKbmMja) | 3:32 |
 | 75 | [Superstar](https://open.spotify.com/track/3vaML1rAVord8FBk0XxzhR) | [Ivana Santilli](https://open.spotify.com/artist/73yYSgzrqoynMAdhF2cEOr) | [Corduroy Boogie](https://open.spotify.com/album/326EQJeyBJOhrMvSX6uMAB) | 5:36 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGE1YTJjODg4NzJiMDc4OTZmZDRmMTg4NDA3NDY3ODZl`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGM0YzUxNmVmMTVkMjhiY2U3Y2M1NTM1OGUwOGNlMDdl`

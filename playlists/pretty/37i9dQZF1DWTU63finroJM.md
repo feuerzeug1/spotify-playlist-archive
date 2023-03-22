@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,138 likes - 185 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,190 likes - 185 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 97 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 |
 | 98 | [無所謂](https://open.spotify.com/track/1dPtFcK3m7dTtIBe3AwurO) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [無所謂](https://open.spotify.com/album/5WXptJIuAu3IJ5RuOHRtxQ) | 2:52 |
 | 99 | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/track/3FuZUeJbuejOfpbvuqp8QL) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/album/3fUtcIhaW5dA1hlpn4Wv2M) | 4:05 |
-| 100 | [Dream Ya Kutoka Kwa Block](https://open.spotify.com/track/0dk1HdfPDYPflddHXFKc8h) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 3:31 |
+| 100 | [Dream Ya Kutoka Kwa Block](https://open.spotify.com/track/0dk1HdfPDYPflddHXFKc8h) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 3:31 |
 | 101 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 |
 | 102 | [คนคนนึง](https://open.spotify.com/track/1uup0LxqqTU3uHrF7oqWux) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [คนคนนึง](https://open.spotify.com/album/4FnYMzU6ogFuuU5z9g5f5n) | 4:05 |
 | 103 | [ทน](https://open.spotify.com/track/4tM3ygBuSy0QzB0ihYZQcf) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ทน](https://open.spotify.com/album/7IuvqVBG4tlAJnE5I0araN) | 3:25 |

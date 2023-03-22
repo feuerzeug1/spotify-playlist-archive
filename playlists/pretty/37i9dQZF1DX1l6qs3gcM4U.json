@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Deejay Telio & Yasmine.  ",
-  "num_followers": 160026,
+  "num_followers": 160116,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMTIwMCwwMDAwMDAwMDFkNTUxYjMyMmM3YzY5Njk1MjA3M2M1NjllMTU5Y2U4",
+  "snapshot_id": "MTY3OTAxMTIwMCwwMDAwMDAwMGExYTYzNTU4YTgzMmE5NmY1NDI4M2ZjYWU2ZDZlNjc3",
   "tracks": [
     {
       "added_at": "2023-03-17 00:00:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Bela",
-        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
+        "name": "Magui",
+        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
       },
       "artists": [
         {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
         }
       ],
-      "duration_ms": 238790,
-      "name": "Bela",
-      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
+      "duration_ms": 217853,
+      "name": "Magui",
+      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -459,18 +459,34 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Magui",
-        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
       },
       "artists": [
         {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 217853,
-      "name": "Magui",
-      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
+      "duration_ms": 238790,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 219712,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -487,22 +503,6 @@
       "duration_ms": 184302,
       "name": "Ponto Fraco",
       "url": "https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Sem Limite",
-        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Magico",
-      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT"
+        "name": "Sem Limite",
+        "url": "https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
         }
       ],
-      "duration_ms": 219712,
-      "name": "365",
-      "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
+      "duration_ms": 237400,
+      "name": "Magico",
+      "url": "https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -931,42 +931,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
-      },
-      "artists": [
-        {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Puro",
-      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Cuiar Assim",
-        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        },
-        {
-          "name": "Arieth Feij\u00f3",
-          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
-        }
-      ],
-      "duration_ms": 230217,
-      "name": "Cuiar Assim",
-      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "Segunda Rodada",
         "url": "https://open.spotify.com/album/6Wetr2P1qCn3oCvDU5zIe9"
       },
@@ -999,6 +963,42 @@
       "duration_ms": 255555,
       "name": "Segunda Rodada",
       "url": "https://open.spotify.com/track/3MUx7bmAwesSvSDl31BXHN"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
+      },
+      "artists": [
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Puro",
+      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
+        "name": "Cuiar Assim",
+        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        },
+        {
+          "name": "Arieth Feij\u00f3",
+          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
+        }
+      ],
+      "duration_ms": 230217,
+      "name": "Cuiar Assim",
+      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
     },
     {
       "added_at": "2023-03-17 00:00:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
+        "name": "Djudan",
+        "url": "https://open.spotify.com/album/7zktGWmrZnko6XwevyeBTQ"
+      },
+      "artists": [
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 209999,
+      "name": "Djudan",
+      "url": "https://open.spotify.com/track/23dtqRYCyGGlS1IUNJiyt7"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
         "name": "Mais de Mim",
         "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
       },
@@ -1435,6 +1455,22 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
+        "name": "Felicidade",
+        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
+    },
+    {
+      "added_at": "2023-03-17 00:00:00",
+      "album": {
         "name": "Boda",
         "url": "https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR"
       },
@@ -1455,22 +1491,6 @@
     {
       "added_at": "2023-03-17 00:00:00",
       "album": {
-        "name": "Felicidade",
-        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
       },
@@ -1487,22 +1507,6 @@
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
-    },
-    {
-      "added_at": "2023-03-17 00:00:00",
-      "album": {
-        "name": "Saudades",
-        "url": "https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO"
-      },
-      "artists": [
-        {
-          "name": "\u00c9rica Boaventura",
-          "url": "https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg"
-        }
-      ],
-      "duration_ms": 249497,
-      "name": "Saudades",
-      "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
     },
     {
       "added_at": "2023-03-17 00:00:00",

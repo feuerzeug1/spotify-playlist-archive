@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "\u307c\u304f\u3089\u306e",
+        "url": "https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235797,
+      "name": "\u864e\u72fc\u6765",
+      "url": "https://open.spotify.com/track/4cULlSu8XPFcZiQ63WfHeZ"
+    },
+    {
+      "album": {
         "name": "\u95c7\u591c",
         "url": "https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp"
       },
@@ -1100,6 +1118,24 @@
       "duration_ms": 229394,
       "name": "\u95c7\u591c",
       "url": "https://open.spotify.com/track/6aW8fq5lGlhoZxhLyC7JuL"
+    },
+    {
+      "album": {
+        "name": "\u307c\u304f\u3089\u306e",
+        "url": "https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206036,
+      "name": "\u9ec4\u91d1\u306e\u65e5\u3005",
+      "url": "https://open.spotify.com/track/0lWo402BbKVikJ8A6fADdD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2EwG4p1ArpU"

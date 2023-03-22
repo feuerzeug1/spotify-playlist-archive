@@ -4,7 +4,7 @@
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: NMIXX\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-4,570 songs - 11 day 0 hr 56 min
+4,574 songs - 11 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Beast Mode + Seoul](https://open.spotify.com/track/16twLTfS7NvIqka3HD7WzW) | [Hanhoryong](https://open.spotify.com/artist/5wzdilfd7KzFJW2Up3RRbc), [mnrn](https://open.spotify.com/artist/6EnC1Vu3hk12Q7miJL0cDt) | [asitis](https://open.spotify.com/album/65VSpxr0nLsOje45x6nQhp) | 2:24 | 2022-05-02 | 2022-05-10 |
 | [Beat Me](https://open.spotify.com/track/70Dd29IjKu4aIJqoveoZXQ) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [Old EK](https://open.spotify.com/album/0daYZEpPA1JetVxplZEbwq) | 3:17 | 2023-01-02 | 2023-01-12 |
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-05-30 | 2022-06-14 |
+| [Beatbox \- English Version](https://open.spotify.com/track/6q7sF4ctWUSf76T6VJ6Bu9) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \(English Version\)](https://open.spotify.com/album/2tGDgitrzA7E4jaSlbD2p0) | 3:25 | 2023-03-21 |  |
 | [BEAUTIFUL](https://open.spotify.com/track/0RFViVdQqF4qlmbpFu3hU1) | [CHANGJO](https://open.spotify.com/artist/6PMDhC2Rb4NWhWsRNfJHlr) | [BEAUTIFUL](https://open.spotify.com/album/07MSnh7mToNXcTSNTUBiVZ) | 3:27 | 2022-07-16 | 2022-08-10 |
 | [Beautiful](https://open.spotify.com/track/38qwU9f9M94WnYAYA9MqXC) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [왜 오수재인가 \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7gYxZHCRcTKR2aRXdagNMC) | 3:49 | 2022-06-13 | 2022-06-19 |
 | [Beautiful](https://open.spotify.com/track/0zAvGJ8zSViSiFuRHpU668) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Beautiful](https://open.spotify.com/album/5ZFkRP6mCfrlKBHMB04b6B) | 3:57 | 2022-12-26 | 2023-01-12 |
@@ -2279,8 +2280,10 @@
 | [Love Love Love](https://open.spotify.com/track/1ou6W37YebCDWVKtGXFXgz) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [Love Love Love](https://open.spotify.com/album/0h2E61KjOEHWW8LZZP4oSM) | 3:33 | 2023-02-24 |  |
 | [Love me](https://open.spotify.com/track/32VayAJzZV1KsZ248nhZPm) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Reborn Rich \(Original Soundtrack\), Pt\. 7](https://open.spotify.com/album/6zIIYOO2PQm4EEs6Z3N99N) | 3:55 | 2022-12-23 | 2023-01-11 |
 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-19 | 2022-05-03 |
+| [Love Me](https://open.spotify.com/track/5bwNwWLAtdfuvkiVHaPKkk) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Diamond](https://open.spotify.com/album/2AVuNRwEuaFp2cMZbLN9Sm) | 3:35 | 2023-03-21 |  |
 | [love me \(Feat\. Darua\)](https://open.spotify.com/track/7cX7RxpwUbKmvqOmHfs9K0) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Darua](https://open.spotify.com/artist/31h60zDdEuTQBdcl38dfe3) | [love me](https://open.spotify.com/album/2i0OhgMDma2V5Vrg3tSUw4) | 3:08 | 2023-03-09 |  |
 | [Love Me Crazy](https://open.spotify.com/track/0Ecg38NuC10SNJzxi1sudZ) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Love Me Crazy \- SM STATION](https://open.spotify.com/album/0qRkKheCFfVQIQOYa0fP2D) | 3:00 | 2023-02-28 |  |
+| [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-21 |  |
 | [love me only](https://open.spotify.com/track/5pIB8r2aa5tHBXUYZFWT0p) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [love me only](https://open.spotify.com/album/02HlmAqrwEu8OmD1nYzL1q) | 3:01 | 2022-06-15 | 2022-06-22 |
 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 | 2022-07-12 | 2022-07-28 |
 | [love on loop \(LOL\)](https://open.spotify.com/track/1Zh46whCsxSpY75mDA9fiy) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10), [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [love on loop \(LOL\)](https://open.spotify.com/album/1XxsxdW69Uy81h9QEGYFBk) | 3:15 | 2022-12-02 | 2022-12-22 |
@@ -3420,6 +3423,7 @@
 | [Spring](https://open.spotify.com/track/5D3jVxi4Tg9yqSFLSBdE9O) | [Young Froze](https://open.spotify.com/artist/2zHJutAT3VRCuC2h5LaktX) | [Long Money Short Life LP](https://open.spotify.com/album/1pqP6XE6S40VkuR0sWqQui) | 2:44 | 2022-04-19 | 2022-05-03 |
 | [Spring](https://open.spotify.com/track/69aswsa5TTE82362qYuYIO) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Spring](https://open.spotify.com/album/0RXPlqY8YJRS4izoN5TXO4) | 4:45 | 2023-03-15 |  |
 | [Spring Again](https://open.spotify.com/track/7KubS5mbXorujpdFWlj0fm) | [LIHA](https://open.spotify.com/artist/3w6LWL8oChipB7n8sYbcqk) | [Spring Again](https://open.spotify.com/album/6PA4KpbNlNXwIKYGoDsl0T) | 2:41 | 2023-02-28 |  |
+| [Spring Breeze](https://open.spotify.com/track/7lIMOTf0IvlSC2UiFPIwko) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Spring Breeze](https://open.spotify.com/album/7JOZhcFJkY6H0CLTW5q1Hl) | 2:55 | 2023-03-21 |  |
 | [Spring Day](https://open.spotify.com/track/5AkCOaaVZ7GQoKnH3cRxg9) | [HAN HYE RI](https://open.spotify.com/artist/3Puh5THs0wd7lu8Ecr3x0P) | [Spring Day](https://open.spotify.com/album/10XrrbDSCPH6W8sJo1nTRK) | 3:22 | 2022-04-19 | 2022-04-23 |
 | [Spring days of my life](https://open.spotify.com/track/1tV2JM0BbFinuf2uma2oVX) | [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [Never give up, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3mQs0h8lBrS1KQ0xYUSxd3) | 4:04 | 2022-05-09 | 2022-05-14 |
 | [Spring fizz](https://open.spotify.com/track/1ixhVsuAnM8bdqxBGmpNlN) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Mood, Sunday](https://open.spotify.com/album/0UeMhJmR8gEBdFHVDHqLF8) | 3:44 | 2022-12-05 | 2022-12-22 |

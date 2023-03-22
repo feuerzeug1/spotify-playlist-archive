@@ -4,7 +4,7 @@
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-325 songs - 16 hr 53 min
+326 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 | 2022-09-26 | 2023-01-10 |
 | [Um Sonhador / Não Precisa / Não Aprendi A Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/42cdiwjkfYVjI8JtAQwsG5) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz \(Ao Vivo\)](https://open.spotify.com/album/6Ih58tG6tjs31HTfEUVwUL) | 4:36 | 2022-07-22 | 2022-08-05 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-09-26 |  |
+| [Vacilão](https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Vacilão](https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv) | 2:10 | 2023-03-21 |  |
 | [Vai Rebolando Gostosinho pra Mim](https://open.spotify.com/track/5kamLnjWftBXK03gUksuT4) | [Dj Marcilio](https://open.spotify.com/artist/2rwhWKMw8nWMRKACzEbNxi), [Mc Max](https://open.spotify.com/artist/3eCFjjDBb2VCcFADfzFKD3) | [Vai Rebolando Gostosinho pra Mim](https://open.spotify.com/album/08Y2U412mhSnpK95Jy0sVd) | 2:33 | 2023-01-04 |  |
 | [Vem Morena \(feat\. Alysson CDs Oficial\)](https://open.spotify.com/track/1Q9xOilXLlcZ8gW9wYgkm8) | [djmelk](https://open.spotify.com/artist/3hp4EfFlR1u6HSdJZ2A8kg), [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7), [Alysson CDs Oficial](https://open.spotify.com/artist/3NHgJNqmQWb39JL78pZSoI) | [Vem Morena](https://open.spotify.com/album/4HPfp7LJKsPZMxcAFUG8Ba) | 1:46 | 2022-10-06 | 2023-03-14 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-12-13 | 2022-12-28 |

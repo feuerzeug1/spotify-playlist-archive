@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec gec
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,102 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,401 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 174557,
+  "num_followers": 174713,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg2ODg2NywwMDAwMDAwMGRhN2NlMjk1ZWFkOTU3YjBiNmI3NGQyMjMwMzU4MWY3",
+  "snapshot_id": "MTY3ODg2ODg2NywwMDAwMDAwMGEwMjZkNmNkY2ZkZGRjM2Q1NzY1MjllYzEyMGE0Mzc5",
   "tracks": [
     {
       "added_at": "2023-03-15 08:27:47",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "All of You",
-        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "The Nearness of You",
-      "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
-    },
-    {
-      "added_at": "2023-03-15 08:27:47",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 232280,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
+    },
+    {
+      "added_at": "2023-03-15 08:27:47",
+      "album": {
+        "name": "All of You",
+        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "The Nearness of You",
+      "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
-        "name": "Can't Resist You - My Summer Love",
-        "url": "https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 125946,
-      "name": "Have You Met Miss Jones",
-      "url": "https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc"
-    },
-    {
-      "added_at": "2023-03-15 08:27:47",
-      "album": {
         "name": "Carmen McRae For Lovers",
         "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 229226,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
+    },
+    {
+      "added_at": "2023-03-15 08:27:47",
+      "album": {
+        "name": "Can't Resist You - My Summer Love",
+        "url": "https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc"
     },
     {
       "added_at": "2023-03-15 08:27:47",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-03-15 08:27:47",
       "album": {
+        "name": "A Day At The Movies",
+        "url": "https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "With A Song In My Heart - 78 rpm Version",
+      "url": "https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj"
+    },
+    {
+      "added_at": "2023-03-15 08:27:47",
+      "album": {
         "name": "The Man I Love",
         "url": "https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 201546,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb"
-    },
-    {
-      "added_at": "2023-03-15 08:27:47",
-      "album": {
-        "name": "A Day At The Movies",
-        "url": "https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "With A Song In My Heart - 78 rpm Version",
-      "url": "https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj"
     },
     {
       "added_at": "2023-03-15 08:27:47",

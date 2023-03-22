@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 465003,
+  "num_followers": 465150,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MDI0MCwwMDAwMDAwMDBiODUwZWEzZDRiMjk5MzQxZjZhOGQ2MDI5NjNmZTNi",
+  "snapshot_id": "MTY3OTA0MDI0MCwwMDAwMDAwMDYzZGRhOTVhNzg5YjlkMmM3MzRkYWJjODY5YTA4MjI5",
   "tracks": [
     {
       "added_at": "2023-03-17 08:04:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
-        "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
-      "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
+        "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
+        "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
+      "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 151750,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 210500,
       "name": "SALVAJE",
       "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 151750,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "ANTI JUDAS RELOADED",
+        "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 208537,
+      "name": "HOLY SHIT - REMIX",
+      "url": "https://open.spotify.com/track/6jgj0rDsHJ7LiMf8lzCTTl"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 349297,
       "name": "Todos en la Cuadra Bien Locos",
       "url": "https://open.spotify.com/track/7uFe6VpeiWbLvBGbTwKkXX"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "ANTI JUDAS RELOADED",
-        "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        },
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 208537,
-      "name": "HOLY SHIT - REMIX",
-      "url": "https://open.spotify.com/track/6jgj0rDsHJ7LiMf8lzCTTl"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "Conexiones",
-        "url": "https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz"
+        "name": "El Mundo Es Tuyo",
+        "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
         }
       ],
-      "duration_ms": 201741,
-      "name": "Conexiones",
-      "url": "https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh"
+      "duration_ms": 182435,
+      "name": "El Mundo Es Tuyo",
+      "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "El Mundo Es Tuyo",
-        "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
+        "name": "Conexiones",
+        "url": "https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz"
       },
       "artists": [
         {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         }
       ],
-      "duration_ms": 182435,
-      "name": "El Mundo Es Tuyo",
-      "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
+      "duration_ms": 201741,
+      "name": "Conexiones",
+      "url": "https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "Big Booty, Pretty Face",
-        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 227484,
-      "name": "Big Booty, Pretty Face",
-      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
         "name": "La Melod\u00eda",
         "url": "https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 117750,
       "name": "Mi Estilo",
       "url": "https://open.spotify.com/track/17mO121s5ssjoi3lVK7qs9"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
+        "name": "Big Booty, Pretty Face",
+        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 227484,
+      "name": "Big Booty, Pretty Face",
+      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1279,38 +1279,6 @@
       "duration_ms": 236500,
       "name": "Flor",
       "url": "https://open.spotify.com/track/1VL45GP8n9J7NiwYTyWCHf"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "El Anillo el Reloj",
-        "url": "https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 172524,
-      "name": "El Anillo el Reloj",
-      "url": "https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "SMILE BIX :)",
-        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 150140,
-      "name": "23 FEB MADRID FREESTYLE",
-      "url": "https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1339,6 +1307,22 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 150140,
+      "name": "23 FEB MADRID FREESTYLE",
+      "url": "https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "FASHION DILLER",
         "url": "https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 161638,
       "name": "FASHION DILLER",
       "url": "https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
+        "name": "El Anillo el Reloj",
+        "url": "https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 172524,
+      "name": "El Anillo el Reloj",
+      "url": "https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "Living Life",
-        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Ta To Saldo",
-      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
         "name": "Bape (Remix)",
         "url": "https://open.spotify.com/album/5bKfN6UHIlW3RMEmP10YZP"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 362571,
       "name": "Bape (Remix)",
       "url": "https://open.spotify.com/track/3bfb530Lxa1CSKK1VTksBA"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Ta To Saldo",
+      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "duration_ms": 109830,
+      "name": "Michael Jackson",
+      "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "En La M\u00eda",
         "url": "https://open.spotify.com/album/2jsEdTepkq0XraH6XmdjKN"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 212773,
       "name": "En La M\u00eda",
       "url": "https://open.spotify.com/track/6t4GOthDL0fPEUJCNrILo5"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        }
-      ],
-      "duration_ms": 109830,
-      "name": "Michael Jackson",
-      "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1807,6 +1807,30 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "No Boss",
+        "url": "https://open.spotify.com/album/15nxcV0yqMGcL56vfPDyQJ"
+      },
+      "artists": [
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Ael",
+          "url": "https://open.spotify.com/artist/3QMm6BBmdbYnKsKm07FU7o"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "No Boss",
+      "url": "https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "La Movie",
         "url": "https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss"
       },
@@ -1835,26 +1859,18 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "No Boss",
-        "url": "https://open.spotify.com/album/15nxcV0yqMGcL56vfPDyQJ"
+        "name": "No Creyeron",
+        "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
       },
       "artists": [
         {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Ael",
-          "url": "https://open.spotify.com/artist/3QMm6BBmdbYnKsKm07FU7o"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         }
       ],
-      "duration_ms": 133333,
-      "name": "No Boss",
-      "url": "https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x"
+      "duration_ms": 150422,
+      "name": "No Creyeron",
+      "url": "https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -1875,22 +1891,6 @@
       "duration_ms": 207800,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/5AxYNbBJFPUQyANSrSyL0I"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "No Creyeron",
-        "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "No Creyeron",
-      "url": "https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
+        "name": "Cuando Toca Toca",
+        "url": "https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Cuando Toca Toca",
+      "url": "https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28"
+    },
+    {
+      "added_at": "2023-03-17 08:04:00",
+      "album": {
         "name": "YEYO",
         "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 179576,
       "name": "CLOACA",
       "url": "https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU"
-    },
-    {
-      "added_at": "2023-03-17 08:04:00",
-      "album": {
-        "name": "Cuando Toca Toca",
-        "url": "https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 184720,
-      "name": "Cuando Toca Toca",
-      "url": "https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28"
     },
     {
       "added_at": "2023-03-17 08:04:00",
@@ -2407,38 +2407,18 @@
     {
       "added_at": "2023-03-17 08:04:00",
       "album": {
-        "name": "RTJ CU4TRO",
-        "url": "https://open.spotify.com/album/1ILVeBkzKVhwqn1ze1et9x"
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },
       "artists": [
         {
-          "name": "Run The Jewels",
-          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        },
-        {
-          "name": "Pawmps",
-          "url": "https://open.spotify.com/artist/0DNZEfs4xO3CUv6AYQL9Nb"
-        },
-        {
-          "name": "Nick Hook",
-          "url": "https://open.spotify.com/artist/4ICbI408d4uYagVEL3xf7S"
-        },
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 265066,
-      "name": "caminando en la nieve (feat. Akapellah, Apache & Pawmps) - Orestes Gomez & Nick Hook\u2019s Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3bErW9oonJmaElbaPfJPlg"
+      "duration_ms": 170501,
+      "name": "Buen Viaje",
+      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
     }
   ],
   "unique_name": "Mucho Rap",

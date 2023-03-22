@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 62322,
+  "num_followers": 62370,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMDViOTZjMjI2OGFhNWU5MjA2OWJmMjU2OTlmNDMzZjhm",
+  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMGM0ZTRlYzBhYWMzMzI4MmFmMjcyMTRjYWNkZGZlMTM5",
   "tracks": [
     {
       "added_at": "2023-03-07 15:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Up to the nines",
-        "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
-      },
-      "artists": [
-        {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "Up to the nines",
-      "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 258385,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "Up to the nines",
+        "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "Up to the nines",
+      "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "U COMPLETE ME",
-      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "Four Leaf Ring",
         "url": "https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 235013,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "U COMPLETE ME",
+      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
-        "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
-      },
-      "artists": [
-        {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
-        }
-      ],
-      "duration_ms": 263853,
-      "name": "Monologue Note",
-      "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "100%\u30cf\u30d4\u30cd\u30b9",
         "url": "https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 269160,
       "name": "100%\u30cf\u30d4\u30cd\u30b9",
       "url": "https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
+        "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
+      },
+      "artists": [
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        }
+      ],
+      "duration_ms": 263853,
+      "name": "Monologue Note",
+      "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Bang!Bang!Bang!",
-        "url": "https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Bang!Bang!Bang!",
-      "url": "https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "Re:al Axis",
         "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Re:al Axis",
-        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
+        "name": "Bang!Bang!Bang!",
+        "url": "https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg"
       },
       "artists": [
         {
-          "name": "Re:vale",
-          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
         }
       ],
-      "duration_ms": 239493,
-      "name": "Dis one.",
-      "url": "https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh"
+      "duration_ms": 261213,
+      "name": "Bang!Bang!Bang!",
+      "url": "https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 272506,
       "name": "Leopard Eyes",
       "url": "https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "Re:al Axis",
+        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "duration_ms": 239493,
+      "name": "Dis one.",
+      "url": "https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh"
     },
     {
       "added_at": "2023-03-07 15:00:00",

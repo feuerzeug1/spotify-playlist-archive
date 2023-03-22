@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Deejay Telio & Yasmine.
 
-298 songs - 18 hr 4 min
+299 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Desculpa](https://open.spotify.com/track/5cw7KhORjRNFEP5Yyfs98O) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Novelas](https://open.spotify.com/album/4SgROO0cwGappbjyiztgHZ) | 3:42 | 2021-12-10 | 2022-07-28 |
 | [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 | 2021-12-10 | 2022-12-13 |
 | [Diferente](https://open.spotify.com/track/3BlPiaT0qrlRubIzqJ5GWa) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Telma Lee](https://open.spotify.com/artist/7iQpFZXyUTiANqmxhb8c6P) | [Best of Kizomba 2017](https://open.spotify.com/album/22n3XPtnzeE2bQZKP0qt4O) | 4:24 | 2022-01-10 | 2022-05-28 |
+| [Djudan](https://open.spotify.com/track/23dtqRYCyGGlS1IUNJiyt7) | [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Djudan](https://open.spotify.com/album/7zktGWmrZnko6XwevyeBTQ) | 3:29 | 2023-03-17 |  |
 | [Do Teu Jeito](https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Do Teu Jeito](https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW) | 3:13 | 2021-12-10 | 2022-07-29 |
 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 | 2021-12-10 |  |
 | [Dor d'um Kriolu](https://open.spotify.com/track/3oMBUqIQYJMsLdPcyCgdNo) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Dor d’um Kriolu](https://open.spotify.com/album/4Sy8XgSSfdV6fKPUMQetMT) | 2:45 | 2021-12-10 | 2022-07-24 |
@@ -232,7 +233,7 @@
 | [Roçaré \- Extend](https://open.spotify.com/track/6HkqDpMmTV2IT2I01a9Zp5) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [Dabanda](https://open.spotify.com/artist/1k3SV9swAsIXA7vAbuNk6M) | [Roçaré](https://open.spotify.com/album/1UyaN4EOdNN3hdTi3eP5Fh) | 3:36 | 2022-03-25 | 2022-05-16 |
 | [S'apitou](https://open.spotify.com/track/6DBpfXVlshm41vlnUIc0RL) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [DJ Nilson](https://open.spotify.com/artist/71pH8gMX4QzfxUfY1MMmoN) | [S'apitou](https://open.spotify.com/album/2G20nv24mp39VjRtegQ0GT) | 3:04 | 2022-06-24 | 2022-07-05 |
 | [Santiago](https://open.spotify.com/track/6n2wC4XVCaSVpJMxBPrJMN) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Newborn](https://open.spotify.com/album/2e4NJhy245HEz7npStshbg) | 2:56 | 2021-12-10 | 2022-07-28 |
-| [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 | 2021-12-10 |  |
+| [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 | 2021-12-10 | 2023-03-22 |
 | [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 | 2022-11-04 | 2022-12-14 |
 | [Se Eu Pudesse](https://open.spotify.com/track/1Fpz7A3F56VQKfqz1KhGF5) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/1LvNFjKKFeCHlHkvB6Tdte) | 3:17 | 2021-12-10 | 2022-07-28 |
 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 | 2021-12-10 |  |

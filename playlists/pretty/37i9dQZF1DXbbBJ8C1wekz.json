@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 103698,
+  "num_followers": 103789,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDAzNmY2ZmU3OTcyY2I5NjI5NzllNDViMTAyY2IwNzhh",
+  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMGE5NjUyOWQxMzk5YWRjODFiYWM1MTI3ZDQwYmEzNWM5",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/1wtfZcywQbynryjXGBNfMQ"
     },
     {
-      "added_at": "2023-03-21 01:02:09",
+      "added_at": "2023-03-22 00:43:10",
       "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
@@ -1095,34 +1095,6 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "T\u00e1 com o Papato (feat. BIN)",
-        "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "T\u00e1 com o Papato (feat. BIN)",
-      "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
         "name": "Xeque-Mate (feat. Paiva Prod)",
         "url": "https://open.spotify.com/album/2Dbj2cJCZs8E77JG5ED1C1"
       },
@@ -1147,6 +1119,34 @@
       "duration_ms": 171789,
       "name": "Xeque-Mate (feat. Paiva Prod)",
       "url": "https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "T\u00e1 com o Papato (feat. BIN)",
+        "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "T\u00e1 com o Papato (feat. BIN)",
+      "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
     },
     {
       "added_at": "2023-02-07 20:52:54",

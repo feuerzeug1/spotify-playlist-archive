@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 246825,
+  "num_followers": 247071,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MjAyOCwwMDAwMDAwMGZjNzcxZTIwYmExNDY1ZWI4NGU4MmE0N2ZiZTJjOTVm",
+  "snapshot_id": "MTY2NzU0MjAyOCwwMDAwMDAwMGFlNGRhMWM2ZmEyMDUzZTgyNDA1ZjNhMWUxZmQ3NzJm",
   "tracks": [
     {
       "added_at": "2022-11-04 06:07:07",
@@ -783,38 +783,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "\u8d85\u8d8a\u611b",
-        "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
+        "name": "On the Promenade (George Clanton Remix)",
+        "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
       },
       "artists": [
         {
-          "name": "t e l e p a t h \u30c6\u30ec\u30d1\u30b7\u30fc\u80fd\u529b\u8005",
-          "url": "https://open.spotify.com/artist/7kXEDFLgEZs24hMRX4HGK3"
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
         },
         {
-          "name": "VAPERROR",
-          "url": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha"
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
         }
       ],
-      "duration_ms": 390787,
-      "name": "\u30d0\u30a6\u30f3\u30b9\u5bb6\u306e\u4e2d\u3067\u30bb\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "\u56da\u4eba",
-        "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
-      },
-      "artists": [
-        {
-          "name": "desert sand feels warm at night",
-          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
-        }
-      ],
-      "duration_ms": 320462,
-      "name": "\u5e7d\u970a",
-      "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
+      "duration_ms": 196956,
+      "name": "On the Promenade (George Clanton Remix)",
+      "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -835,22 +819,38 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "On the Promenade (George Clanton Remix)",
-        "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
+        "name": "\u56da\u4eba",
+        "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
       },
       "artists": [
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+          "name": "desert sand feels warm at night",
+          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
         }
       ],
-      "duration_ms": 196956,
-      "name": "On the Promenade (George Clanton Remix)",
-      "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
+      "duration_ms": 320462,
+      "name": "\u5e7d\u970a",
+      "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "\u8d85\u8d8a\u611b",
+        "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
+      },
+      "artists": [
+        {
+          "name": "t e l e p a t h \u30c6\u30ec\u30d1\u30b7\u30fc\u80fd\u529b\u8005",
+          "url": "https://open.spotify.com/artist/7kXEDFLgEZs24hMRX4HGK3"
+        },
+        {
+          "name": "VAPERROR",
+          "url": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha"
+        }
+      ],
+      "duration_ms": 390787,
+      "name": "\u30d0\u30a6\u30f3\u30b9\u5bb6\u306e\u4e2d\u3067\u30bb\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Ocean Breeze",
-        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
-      },
-      "artists": [
-        {
-          "name": "Trushinitas",
-          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
-        }
-      ],
-      "duration_ms": 135035,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "get a job \u6797\u6a8e",
         "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 130693,
       "name": "Fruit That Sounds Friendly",
       "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
+      },
+      "artists": [
+        {
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
+        }
+      ],
+      "duration_ms": 135035,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "TV Party",
-        "url": "https://open.spotify.com/album/6Pydwu1g04gbk19Pt5Ws6q"
-      },
-      "artists": [
-        {
-          "name": "luxury elite",
-          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
-        }
-      ],
-      "duration_ms": 155581,
-      "name": "You Can Sense It",
-      "url": "https://open.spotify.com/track/0SD6WSoGWZgwNwztf1p5DO"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "One Hundred Mornings (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "Mist",
-      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Screensaver",
         "url": "https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe"
       },
@@ -1447,22 +1415,34 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Downpour",
-        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
+        "name": "One Hundred Mornings (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
       },
       "artists": [
         {
-          "name": "Sleepless-Nights",
-          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
-        },
-        {
-          "name": "Cosmic Cycler",
-          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 484471,
-      "name": "Downpour",
-      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
+      "duration_ms": 155480,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "TV Party",
+        "url": "https://open.spotify.com/album/6Pydwu1g04gbk19Pt5Ws6q"
+      },
+      "artists": [
+        {
+          "name": "luxury elite",
+          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
+        }
+      ],
+      "duration_ms": 155581,
+      "name": "You Can Sense It",
+      "url": "https://open.spotify.com/track/0SD6WSoGWZgwNwztf1p5DO"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1491,6 +1471,26 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Downpour",
+        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
+      },
+      "artists": [
+        {
+          "name": "Sleepless-Nights",
+          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
+        },
+        {
+          "name": "Cosmic Cycler",
+          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
+        }
+      ],
+      "duration_ms": 484471,
+      "name": "Downpour",
+      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Dr. ROM",
         "url": "https://open.spotify.com/album/3GWrjC0VhYuLYQuLMU6Kr4"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 164000,
       "name": "Home Workout VHS",
       "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Psycho Geography",
+        "url": "https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh"
+      },
+      "artists": [
+        {
+          "name": "Memorex Memories",
+          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "Psycho Geography",
+      "url": "https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1523,18 +1539,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Psycho Geography",
-        "url": "https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh"
+        "name": "Glass Mind",
+        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
       "artists": [
         {
-          "name": "Memorex Memories",
-          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
         }
       ],
-      "duration_ms": 201081,
-      "name": "Psycho Geography",
-      "url": "https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68"
+      "duration_ms": 219428,
+      "name": "Glass Mind",
+      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1571,22 +1591,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Glass Mind",
-        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
+        "name": "Fever Dream (slowed + reverb)",
+        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
       },
       "artists": [
         {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+          "name": "Sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Glass Mind",
-      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
+      "duration_ms": 232000,
+      "name": "Fever Dream - slowed + reverb",
+      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
+        "name": "Instance",
+        "url": "https://open.spotify.com/album/43PH4FXWlHY9IKQb05hT8c"
       },
       "artists": [
         {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+          "name": "AURAGRAPH",
+          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
         }
       ],
-      "duration_ms": 170379,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
+      "duration_ms": 212910,
+      "name": "Instance",
+      "url": "https://open.spotify.com/track/3hQMvun87AnD0vROU4PGw2"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1647,50 +1663,50 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Instance",
-        "url": "https://open.spotify.com/album/43PH4FXWlHY9IKQb05hT8c"
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
       },
       "artists": [
         {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
         }
       ],
-      "duration_ms": 212910,
-      "name": "Instance",
-      "url": "https://open.spotify.com/track/3hQMvun87AnD0vROU4PGw2"
+      "duration_ms": 170379,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
     },
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Fever Dream (slowed + reverb)",
-        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
+        "name": "Swing Tournament",
+        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
       },
       "artists": [
         {
-          "name": "Sunnbrella",
-          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+          "name": "US Golf 95",
+          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Fever Dream - slowed + reverb",
-      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
+      "duration_ms": 172271,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
     },
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Tupperwave",
-        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
+        "name": "Bad Baby (Satin Sheets Remix)",
+        "url": "https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9"
       },
       "artists": [
         {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+          "name": "Neggy Gemmy",
+          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
         }
       ],
-      "duration_ms": 166961,
-      "name": "Alliance Of Elegance",
-      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
+      "duration_ms": 297142,
+      "name": "Bad Baby (Satin Sheets Remix)",
+      "url": "https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1711,22 +1727,6 @@
       "duration_ms": 231706,
       "name": "Weightless (Late Arcane Mix)",
       "url": "https://open.spotify.com/track/3lNVVmBxBh1wta2n2K2ij4"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Bad Baby (Satin Sheets Remix)",
-        "url": "https://open.spotify.com/album/73DnEmFsvRyBtCqNKCD3I9"
-      },
-      "artists": [
-        {
-          "name": "Neggy Gemmy",
-          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
-        }
-      ],
-      "duration_ms": 297142,
-      "name": "Bad Baby (Satin Sheets Remix)",
-      "url": "https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi"
     },
     {
       "added_at": "2022-11-04 06:07:07",

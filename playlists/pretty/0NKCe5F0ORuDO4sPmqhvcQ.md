@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,068 likes - 136 songs - 7 hr 50 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,067 likes - 138 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,5 +144,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 134 | [LEFT TO RIGHT \- JADED Remix](https://open.spotify.com/track/6SejpzU5kr4Jlw2iZyBRwq) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [LEFT TO RIGHT \(JADED Remix\)](https://open.spotify.com/album/0o1mk3UOSifeAFi46JdHL6) | 2:56 |
 | 135 | [YOU AND ME](https://open.spotify.com/track/1VyRpTEE3InYTwUGcjsHJm) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [YOU AND ME](https://open.spotify.com/album/1ltwxGR8bbmlFMprZmF9pH) | 3:40 |
 | 136 | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM) | 2:25 |
+| 137 | [Higher](https://open.spotify.com/track/53WYJw5FaSCUOzmQar0Jdy) | [ZUSO](https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee) | [Higher](https://open.spotify.com/album/12mtnd8EWS3IN6ORdX99yy) | 4:45 |
+| 138 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MTAyNDcsMGE4YWFkZDJhMTlhNjFhYjBiNDFkNTRiN2VkNGU0ODVhOTIxYTgyNg==`
+Snapshot ID: `MTAyNDksNjJiMmEwYWZlZmZmMjAwNzQwNDNlYWEwNjk2MjAyZTAwNmI3NjkyYQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,272 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,307 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 5 | [You're Sensational](https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [Blue Trane](https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x) | 6:52 |
 | 6 | [Ridin' High](https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:10 |
 | 7 | [Love For Sale](https://open.spotify.com/track/6fqHlcomOg6NBwa25EK58m) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Cole Porter Songbook](https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7) | 3:26 |
-| 8 | [We Open in Venice](https://open.spotify.com/track/1SOKPop4Zk9mIHUKpAv6qm) | [The Rat Pack](https://open.spotify.com/artist/75kHCUYCZGNvAfSyoEuJTz) | [The Sammy Davis Jr\. Show with Special Guests Stars Frank Sinatra and Dean Martin](https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB) | 2:14 |
-| 9 | [Everytime We Say Goodbye](https://open.spotify.com/track/7tZDxcJeLzyjBKYc7TWbsr) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things](https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP) | 5:45 |
+| 8 | [Everytime We Say Goodbye](https://open.spotify.com/track/7tZDxcJeLzyjBKYc7TWbsr) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things](https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP) | 5:45 |
+| 9 | [We Open in Venice](https://open.spotify.com/track/1SOKPop4Zk9mIHUKpAv6qm) | [The Rat Pack](https://open.spotify.com/artist/75kHCUYCZGNvAfSyoEuJTz) | [The Sammy Davis Jr\. Show with Special Guests Stars Frank Sinatra and Dean Martin](https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB) | 2:14 |
 | 10 | [Let's Fly Away](https://open.spotify.com/track/23OvK9AlKo3Se4xcAMDwUY) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:31 |
-| 11 | [C'est Magnifique](https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [French Style](https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm) | 2:36 |
-| 12 | [So In Love](https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Tears And Laughter](https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD) | 4:27 |
+| 11 | [So In Love](https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Tears And Laughter](https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD) | 4:27 |
+| 12 | [C'est Magnifique](https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [French Style](https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm) | 2:36 |
 | 13 | [Miss Otis Regrets \(She's Unable To Lunch Today\)](https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:02 |
 | 14 | [Night and Day \- Take 1](https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:57 |
 | 15 | [Begin The Beguine \- Alternate Take](https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 6:15 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 23 | [All Through The Night](https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:16 |
 | 24 | [It's Bad For Me](https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:13 |
 | 25 | [You Do Something to Me \- Remastered](https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 6:51 |
-| 26 | [You've Got That Thing](https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 3:23 |
-| 27 | [Do I Love You? \- Live In Miami, FL/1959 / Remastered 2002](https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Beauty And The Beat! \(Expanded Edition / Remastered\)](https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z) | 3:03 |
+| 26 | [Do I Love You? \- Live In Miami, FL/1959 / Remastered 2002](https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Beauty And The Beat! \(Expanded Edition / Remastered\)](https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z) | 3:03 |
+| 27 | [You've Got That Thing](https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 3:23 |
 | 28 | [At Long Last Love](https://open.spotify.com/track/4xavtlLxd9kswqwpOCjkAC) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Bud Shank Quintet](https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS) | [All Through The Night: Julie London Sings The Choicest Of Cole Porter \(Bonus Tracks\)](https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn) | 3:27 |
 | 29 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY) | [The Al Cohn \- Zoot Sims Quintet](https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM) | [You 'N Me](https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G) | 4:51 |
 | 30 | [My Heart Belongs To Daddy](https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Cool Heat](https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 74 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 | 75 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 
-Snapshot ID: `MTY3ODg5MTc2NywwMDAwMDAwMGNkYjQ4N2FmNDFjYjc3YTkwOWY2OWM1MDkyZmZjYWE3`
+Snapshot ID: `MTY3ODg5MTc2NywwMDAwMDAwMDJhMGZiZjAwYTExMzkxNTJmNGM2MjAwNzIzZDRlM2Jl`

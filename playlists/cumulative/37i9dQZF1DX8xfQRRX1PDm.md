@@ -4,10 +4,11 @@
 
 > Best of Bollywood dance from last 10 years\. Cover \- Roohi
 
-175 songs - 10 hr 14 min
+175 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 0:00 | 2021-01-29\* |  |
 | [](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 0:00 | 2021-01-29\* |  |
 | [](https://open.spotify.com/track/5CSEaABQkS1hoLza0IpK2r) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5ASFrellizlx98SmsItOEm) | 0:00 | 2021-04-08 |  |
 | [](https://open.spotify.com/track/5QyOjKJhR1iyF0DHQM2IvW) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/76g096RoXj4F5keLju1CHH) | 0:00 | 2023-01-23 |  |
@@ -109,7 +110,6 @@
 | [Loca](https://open.spotify.com/track/10Hks1iBOnKIIhouOI4rrk) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Loca](https://open.spotify.com/album/3YdxP4A4xMvbdqoVIRu5ee) | 3:30 | 2021-01-29\* | 2021-03-06 |
 | [Main Khiladi \- From "Selfiee"](https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Main Khiladi \(From "Selfiee"\)](https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki) | 3:07 | 2023-02-07 |  |
 | [Main Tera Boyfriend](https://open.spotify.com/track/3InIAYQyi22mfV4g1T9Jkc) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Raabta](https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5) | 4:36 | 2021-04-08 |  |
-| [Makhna](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 3:03 | 2021-01-29\* |  |
 | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx) | [Ved Sharma](https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z) | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy) | 4:47 | 2021-01-29\* | 2023-02-04 |
 | [Manali Trance](https://open.spotify.com/track/7h0ZANufYJyf2v8oPX5zdA) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [The Shaukeens](https://open.spotify.com/album/55Vt4fGUcerflarNO0lCyA) | 3:23 | 2021-01-29\* | 2021-03-16 |
 | [Manike](https://open.spotify.com/track/6yCjolEJwcC8zoZaKlXbMD) | [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Surya Ragunaathan](https://open.spotify.com/artist/0GiAC4VvvYCypjRH6IiasK) | [Thank God](https://open.spotify.com/album/2v17HQ60EqJSvZq5zhkSwu) | 3:17 | 2023-01-13 |  |

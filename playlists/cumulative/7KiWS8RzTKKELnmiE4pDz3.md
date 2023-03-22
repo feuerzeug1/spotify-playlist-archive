@@ -4,7 +4,7 @@
 
 > 
 
-404 songs - 17 hr 57 min
+405 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [F.F.](https://open.spotify.com/track/2th6kLQPb9HzsgTI5VxHNp) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/4aTdfh8F07U59ClqhljKHp) | 3:10 | 2022-09-10 |  |
 | [Fake\_0pps](https://open.spotify.com/track/68QWCdMKUq5JxN1R4Hj9BP) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 3:15 | 2022-09-30 |  |
 | [Fashion Habits](https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 3:21 | 2022-10-31 |  |
-| [Filet Mignon](https://open.spotify.com/track/5VwJFzUBZbJQnxcTtvKQJT) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:38 | 2023-01-07 |  |
+| [Filet Mignon](https://open.spotify.com/track/5VwJFzUBZbJQnxcTtvKQJT) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:38 | 2023-01-07 | 2023-03-22 |
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-11-28 |  |
 | [Fly as Hell](https://open.spotify.com/track/47qTVdjyUwVHRhc0qXKaPE) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Fly as Hell](https://open.spotify.com/album/5DvcMxy9ECEqMxcdO0zvFo) | 2:16 | 2022-11-23 |  |
 | [Free Me](https://open.spotify.com/track/5tLXeCSifkKGCieDgEgwxQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free Me](https://open.spotify.com/album/6V23UK6DifxHQMxE1NptsN) | 2:35 | 2022-12-30 |  |
@@ -154,6 +154,7 @@
 | [Hell Night](https://open.spotify.com/track/1BeZDWwsxqxOUvTJzH2M4T) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Hell Night](https://open.spotify.com/album/5EwJMf9I4CfMZEEV133gJG) | 3:13 | 2022-09-11 |  |
 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 | 2022-10-17 |  |
 | [HeMotions](https://open.spotify.com/track/39HsFsNfFYZdpnQfq8lbS3) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:07 | 2023-03-10 |  |
+| [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 | 2023-03-21 |  |
 | [HIDEOUT \(feat\. Fijimacintosh\)](https://open.spotify.com/track/3gauWyhhIKYnKdhROrTRcc) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Fijimacintosh](https://open.spotify.com/artist/5NaFXQQX19INaDDdIZ02sp) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:50 | 2023-01-20 |  |
 | [High Rode Out](https://open.spotify.com/track/2SQYJlliOXGs2hMGZzRQ5i) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 1:46 | 2023-01-03 |  |
 | [Higher & Flyer](https://open.spotify.com/track/1NsPLOtUGQpGCBLnO86bFy) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:07 | 2023-01-07 |  |

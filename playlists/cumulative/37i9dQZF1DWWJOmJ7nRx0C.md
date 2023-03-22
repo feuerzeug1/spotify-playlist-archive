@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Pop Evil
 
-694 songs - 1 day 17 hr 32 min
+695 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-07-29 |
 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 | 2022-01-21 | 2022-05-20 |
 | [New Era](https://open.spotify.com/track/4zNXCkMYWJSHN7t23Eek2r) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [New Era](https://open.spotify.com/album/3NnxQ5HSHpZGl0MCyVEwFA) | 3:07 | 2022-09-02 | 2023-03-04 |
+| [New Reality](https://open.spotify.com/track/6iO0oyy7PjgeOa3TMvcI8e) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [New Reality](https://open.spotify.com/album/3pnXp6i9be5TieRJC4oHsE) | 2:56 | 2023-03-21 |  |
 | [New Way To Hate](https://open.spotify.com/track/3NIBGk4JTkml34Mqxw54oc) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [New Way To Hate](https://open.spotify.com/album/4LGq2nkiMQkuxaPke3bC7Z) | 3:08 | 2022-11-04 | 2023-01-14 |
 | [Nightmare](https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Nightmare](https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc) | 3:07 | 2023-02-03 | 2023-03-18 |
 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-06-10 | 2023-01-14 |

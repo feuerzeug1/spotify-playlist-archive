@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 905238,
+  "num_followers": 905576,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMzMDU3MSwwMDAwMDAwMDNiYTIxOTBmODUyYTk2YjI1ZGIzOWEzNTAzNjVjYzVj",
+  "snapshot_id": "MTY3OTMzMDU3MSwwMDAwMDAwMGU3ZWI5ZjJkMGFhOGY3NGNjYjdiZDI3ZmIyMmUwMTAz",
   "tracks": [
     {
       "added_at": "2023-01-04 15:03:16",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
-      "added_at": "2023-03-21 01:18:07",
+      "added_at": "2023-03-22 01:06:24",
       "album": {
         "name": "Retrograde",
         "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
@@ -403,6 +403,26 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
-      },
-      "artists": [
-        {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "Care For You",
-        "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 156026,
-      "name": "Care For You",
-      "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
         "name": "Oh No / Liahr",
         "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 164946,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 156026,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z"
     },
     {
-      "added_at": "2023-02-17 08:32:00",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 284720,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
-    },
-    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Migration",
@@ -959,6 +943,22 @@
       "duration_ms": 243560,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/56hp2ikFv3vZJgZXtViF2N"
+    },
+    {
+      "added_at": "2023-02-17 08:32:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "added_at": "2023-01-04 15:06:05",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
     },
     {
-      "added_at": "2023-01-05 18:22:41",
-      "album": {
-        "name": "A Violent Dichotomy",
-        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
-      },
-      "artists": [
-        {
-          "name": "LUCIUS ARTHUR",
-          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
-        }
-      ],
-      "duration_ms": 255113,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
-    },
-    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "SBTRKT (Deluxe Version)",
@@ -1115,6 +1099,22 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
+    },
+    {
+      "added_at": "2023-01-05 18:22:41",
+      "album": {
+        "name": "A Violent Dichotomy",
+        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
+      },
+      "artists": [
+        {
+          "name": "LUCIUS ARTHUR",
+          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
+        }
+      ],
+      "duration_ms": 255113,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "cz",
-        "url": "https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 228946,
-      "name": "cz",
-      "url": "https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
         "name": "LEMONS",
         "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 262600,
       "name": "Lonely Shade of Blue",
       "url": "https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "cz",
+        "url": "https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 228946,
+      "name": "cz",
+      "url": "https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "Nostalchic",
-        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
-      },
-      "artists": [
-        {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        },
-        {
-          "name": "Kerry Leatham",
-          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
-        }
-      ],
-      "duration_ms": 326439,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
         "name": "Drunk",
         "url": "https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7"
       },
@@ -1499,18 +1479,22 @@
     {
       "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "L.O.L. (Lack Of Love)",
-        "url": "https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP"
+        "name": "Nostalchic",
+        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
       "artists": [
         {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        },
+        {
+          "name": "Kerry Leatham",
+          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
         }
       ],
-      "duration_ms": 84800,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx"
+      "duration_ms": 326439,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1543,6 +1527,22 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "L.O.L. (Lack Of Love)",
+        "url": "https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 84800,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -1641,22 +1641,6 @@
       "url": "https://open.spotify.com/track/17cwqWxSyZK4bo7Hg7z9ko"
     },
     {
-      "added_at": "2023-01-17 18:48:43",
-      "album": {
-        "name": "hurt me enough",
-        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
-      },
-      "artists": [
-        {
-          "name": "Nathan Archie",
-          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
-        }
-      ],
-      "duration_ms": 186032,
-      "name": "hurt me enough",
-      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
-    },
-    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Humans",
@@ -1671,6 +1655,22 @@
       "duration_ms": 251690,
       "name": "Humans",
       "url": "https://open.spotify.com/track/1e3i4aME99OBynUu74gRJs"
+    },
+    {
+      "added_at": "2023-01-17 18:48:43",
+      "album": {
+        "name": "hurt me enough",
+        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Archie",
+          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
+        }
+      ],
+      "duration_ms": 186032,
+      "name": "hurt me enough",
+      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
     }
   ],
   "unique_name": "late night vibes",

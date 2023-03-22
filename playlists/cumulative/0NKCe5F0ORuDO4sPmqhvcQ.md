@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-418 songs - 23 hr 26 min
+420 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Hemma \- Chet Porter Remix](https://open.spotify.com/track/7JGTYQ9JY06kSdejxJv6ke) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Hemma \(Chet Porter Remix\)](https://open.spotify.com/album/3xtLH7zt0i7EI4cIoQj3hn) | 4:55 | 2021-11-12 | 2022-01-08 |
 | [High](https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [High](https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ) | 3:12 | 2022-02-15 | 2022-03-10 |
 | [High On That New Love](https://open.spotify.com/track/1QH1Lhz1GFShACuoKgFcL9) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Tiina](https://open.spotify.com/artist/6GVBNOQURiHG9apNXi9fE8) | [High On That New Love](https://open.spotify.com/album/5DwUisYZRsiWTmRc8v2TEO) | 2:46 | 2022-09-16 | 2022-10-06 |
+| [Higher](https://open.spotify.com/track/53WYJw5FaSCUOzmQar0Jdy) | [ZUSO](https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee) | [Higher](https://open.spotify.com/album/12mtnd8EWS3IN6ORdX99yy) | 4:45 | 2023-03-21 |  |
 | [Hold You](https://open.spotify.com/track/6Ufvp94t2S8UkGUNZNhSVl) | [Serion](https://open.spotify.com/artist/1daCx1huhWZa5aLc1KK9hs) | [Hold You](https://open.spotify.com/album/3waQCZkpnLhT3XGeYludH4) | 3:19 | 2021-11-19 | 2022-01-08 |
 | [Holding Me Like Water](https://open.spotify.com/track/4syc4i3rzqFprXY951pnNl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Holding Me Like Water](https://open.spotify.com/album/0h1dy10B22tfqpTw4iKG2M) | 3:56 | 2023-01-19 |  |
 | [Holding On \- Rome In Silver Remix](https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Holding On \(Rome In Silver Remix\)](https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M) | 3:00 | 2022-01-28 | 2022-02-16 |
@@ -206,6 +207,7 @@
 | [intothedeep](https://open.spotify.com/track/0rEe4czu55DQ8sHtWRnaci) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [intothedeep](https://open.spotify.com/album/7c2heWYrt28gCmmJ8U9fwu) | 3:10 | 2022-07-01 | 2022-07-16 |
 | [It Girl \(warner case Remix\)](https://open.spotify.com/track/13ZNXJrqzFopSERmCNzUOw) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [It Girl \(warner case Remix\)](https://open.spotify.com/album/2SFcBFJyVbdzLHVZDRpSrg) | 3:39 | 2023-01-20 |  |
 | [It's All for You](https://open.spotify.com/track/0nmllQKv85yVIgPHHzKK4l) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Aria](https://open.spotify.com/album/0NlaAPR7ZFnfi1OTL0eOly) | 3:25 | 2021-09-29 | 2022-01-08 |
+| [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 | 2023-03-21 |  |
 | [Joan](https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Joan](https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3) | 5:18 | 2022-10-20 | 2023-01-20 |
 | [John Cena](https://open.spotify.com/track/4DKILQtMzmWQe5iWxKfqrE) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [Kevin Bedford](https://open.spotify.com/artist/4Db2sZjOrXmsy7upT254sM) | [John Cena](https://open.spotify.com/album/6wgIEc5ueZ7LdkvPiqlUsx) | 2:33 | 2021-09-24 | 2022-01-08 |
 | [JUPITER \- Slow Magic Juno Remix](https://open.spotify.com/track/2m35MFQGUaEJeYlI8C7HBl) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [JUPITER \(Slow Magic Juno Remix\)](https://open.spotify.com/album/0HgzxRbs60fJGk6ynToiOB) | 2:43 | 2021-11-12 | 2022-01-08 |

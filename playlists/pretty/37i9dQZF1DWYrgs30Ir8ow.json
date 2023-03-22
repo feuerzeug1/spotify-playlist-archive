@@ -1,12 +1,12 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Calvin Harris & Ellie Goulding",
-  "num_followers": 14279,
+  "num_followers": 14315,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMxNTg5NCwwMDAwMDAwMDMzZWI4ZTQ1ZWIzMjFlY2ZjZTIyMzg0ZTE4NzU2ZWI0",
+  "snapshot_id": "MTY3OTQwNzczOCwwMDAwMDAwMGI2NzVhZmMxODViMWRjODRhMDRiMzY5NjU5YzhmNDVh",
   "tracks": [
     {
       "added_at": "2023-03-20 12:38:14",
@@ -47,6 +47,22 @@
       "duration_ms": 179346,
       "name": "Broski\u2019s",
       "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
+    },
+    {
+      "added_at": "2023-03-20 12:38:14",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "added_at": "2023-03-20 12:38:14",
@@ -131,22 +147,6 @@
       "duration_ms": 183598,
       "name": "Zij Heeft Alles",
       "url": "https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa"
-    },
-    {
-      "added_at": "2023-03-20 12:38:14",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "added_at": "2023-03-20 12:38:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,731 likes - 245 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,007 likes - 245 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 36 | [Nothing but trouble](https://open.spotify.com/track/7JUoKddqlQCvbRNHKEDFcg) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nothing but trouble](https://open.spotify.com/album/4o6aQi9SruqMNfKDLG2xXx) | 2:29 |
 | 37 | [Love Is Blind](https://open.spotify.com/track/2RQAWyB9xieQQjJgTfr0h1) | [Mad Q](https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4) | [Love Is Blind](https://open.spotify.com/album/4juVHLFB6vng4oqDP0y24e) | 2:43 |
 | 38 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 |
-| 39 | [Backpacked](https://open.spotify.com/track/76Cduh6Txq8dnZ8o6bLRGU) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Backpacked](https://open.spotify.com/album/0KRPqPM8JroUiD9zom2kaj) | 2:09 |
+| 39 | [Backpacked](https://open.spotify.com/track/7JNbzQ3jz1v7EXgaUCIvkw) | [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Backpacked](https://open.spotify.com/album/7JRH6yFgbxRh6RzolQM8dw) | 2:09 |
 | 40 | [Feel Free](https://open.spotify.com/track/6L8gNflQsaNQv7uY8IVjE4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Feel Free](https://open.spotify.com/album/2rMoeNbx0m4q9dhVDfxgBF) | 2:19 |
 | 41 | [How The Story Goes](https://open.spotify.com/track/4C1kmQjG42md25gFTyqvik) | [The Escape Route](https://open.spotify.com/artist/0OtRCgwx2kuOZy7ylYPU7g) | [Ariadne](https://open.spotify.com/album/71YzYvRCooN8yB2itVAE3d) | 2:26 |
 | 42 | [Purity](https://open.spotify.com/track/4Tb8x8lYQsKzXHsC71Xm20) | [Xack](https://open.spotify.com/artist/3Tg2AlVypH64iuYosDtyHj) | [Purity](https://open.spotify.com/album/7MqAJ6JKmdhqgb5TZyNK5u) | 3:45 |
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 244 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 |
 | 245 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 |
 
-Snapshot ID: `MTY3OTAxMTI2MCwwMDAwMDAwMDJkYTEyNTk4ODhmZjlkMTZlMGY1ZWZjN2MxNWRiZDY1`
+Snapshot ID: `MTY3OTAxMTI2MCwwMDAwMDAwMDJkOTM4OGU4NTVkMDc4NzIyYzM5YzY0NjhjZmI1ZThl`

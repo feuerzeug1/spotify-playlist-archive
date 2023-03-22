@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=j11QL6MsRaSneLxTbjw4Eg\" > Zlatan </a> ",
-  "num_followers": 16719,
+  "num_followers": 16791,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzOTU1MSwwMDAwMDAwMDU4NjU1YjdlZTA5NjM2NWI3YjIwMzc2NzI5NGJhN2Yz",
+  "snapshot_id": "MTY3OTAzOTU1MSwwMDAwMDAwMGY4ZjljNDg1N2JkMWVjMTQxNmZhNjFkNGU3NDU2NTRj",
   "tracks": [
     {
       "added_at": "2023-03-10 11:41:01",
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
-      "added_at": "2023-03-21 00:59:17",
+      "added_at": "2023-03-22 00:01:27",
       "album": {
         "name": "Philo (Remix)",
         "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
@@ -611,26 +611,6 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
-        "name": "Owa",
-        "url": "https://open.spotify.com/album/00OQvNVhBS2IxUIOmPMEj0"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 173569,
-      "name": "Owa",
-      "url": "https://open.spotify.com/track/0QJGhiYMgf22RoRjYFmx3H"
-    },
-    {
-      "added_at": "2023-03-10 11:41:01",
-      "album": {
         "name": "Cruel Love/Vex",
         "url": "https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 166816,
       "name": "Vex",
       "url": "https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
+        "name": "Owa",
+        "url": "https://open.spotify.com/album/00OQvNVhBS2IxUIOmPMEj0"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 173569,
+      "name": "Owa",
+      "url": "https://open.spotify.com/track/0QJGhiYMgf22RoRjYFmx3H"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
+        "name": "Moving Mad",
+        "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 142894,
+      "name": "Moving Mad",
+      "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
         "name": "Omo X 100",
         "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
       },
@@ -1081,20 +1097,44 @@
       "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
     },
     {
-      "added_at": "2023-03-10 11:41:01",
+      "added_at": "2023-03-22 00:01:27",
       "album": {
-        "name": "Moving Mad",
-        "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
+        "name": "Bougie and Thick",
+        "url": "https://open.spotify.com/album/3ILEi9iWRNrCEiteWk0FeR"
       },
       "artists": [
         {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+          "name": "Sosa.ttw",
+          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
+        },
+        {
+          "name": "AT Martian",
+          "url": "https://open.spotify.com/artist/37aE8EiBoUxAP0VLex7Ow9"
         }
       ],
-      "duration_ms": 142894,
-      "name": "Moving Mad",
-      "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
+      "duration_ms": 111106,
+      "name": "Bougie and Thick",
+      "url": "https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3"
+    },
+    {
+      "added_at": "2023-03-22 00:01:27",
+      "album": {
+        "name": "Fun for Love",
+        "url": "https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ"
+      },
+      "artists": [
+        {
+          "name": "Davolee",
+          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
+        },
+        {
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
+        }
+      ],
+      "duration_ms": 158608,
+      "name": "Fun for Love",
+      "url": "https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1115,26 +1155,6 @@
       "duration_ms": 249286,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
-    },
-    {
-      "added_at": "2023-03-21 00:59:17",
-      "album": {
-        "name": "Bougie and Thick",
-        "url": "https://open.spotify.com/album/3ILEi9iWRNrCEiteWk0FeR"
-      },
-      "artists": [
-        {
-          "name": "Sosa.ttw",
-          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
-        },
-        {
-          "name": "AT Martian",
-          "url": "https://open.spotify.com/artist/37aE8EiBoUxAP0VLex7Ow9"
-        }
-      ],
-      "duration_ms": 111106,
-      "name": "Bougie and Thick",
-      "url": "https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1159,26 +1179,6 @@
       "duration_ms": 163507,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
-    },
-    {
-      "added_at": "2023-03-21 00:59:17",
-      "album": {
-        "name": "Fun for Love",
-        "url": "https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ"
-      },
-      "artists": [
-        {
-          "name": "Davolee",
-          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
-        },
-        {
-          "name": "Otega",
-          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
-        }
-      ],
-      "duration_ms": 158608,
-      "name": "Fun for Love",
-      "url": "https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1241,20 +1241,40 @@
       "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
     },
     {
-      "added_at": "2023-03-10 11:41:01",
+      "added_at": "2023-03-22 00:01:27",
       "album": {
-        "name": "Barawo",
-        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/1IP7a8gdy3PtSoRw1gLG5K"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "Freq Motif",
+          "url": "https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK"
+        },
+        {
+          "name": "EverythingOShauN",
+          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
         }
       ],
-      "duration_ms": 229250,
-      "name": "Barawo",
-      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
+      "duration_ms": 123806,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/6jplKm9eFCulH6CQZKeDhd"
+    },
+    {
+      "added_at": "2023-03-22 00:01:27",
+      "album": {
+        "name": "Blessed Sinner",
+        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
+      },
+      "artists": [
+        {
+          "name": "Rord Kelly",
+          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
+        }
+      ],
+      "duration_ms": 178599,
+      "name": "Blessed Sinner",
+      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
     },
     {
       "added_at": "2023-03-10 11:41:01",
@@ -1283,6 +1303,22 @@
     {
       "added_at": "2023-03-10 11:41:01",
       "album": {
+        "name": "Barawo",
+        "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 229250,
+      "name": "Barawo",
+      "url": "https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf"
+    },
+    {
+      "added_at": "2023-03-10 11:41:01",
+      "album": {
         "name": "All I Please",
         "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
       },
@@ -1301,43 +1337,7 @@
       "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
     },
     {
-      "added_at": "2023-03-21 00:59:17",
-      "album": {
-        "name": "Blessed Sinner",
-        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
-      },
-      "artists": [
-        {
-          "name": "Rord Kelly",
-          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
-        }
-      ],
-      "duration_ms": 178599,
-      "name": "Blessed Sinner",
-      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
-    },
-    {
-      "added_at": "2023-03-21 00:59:17",
-      "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/1IP7a8gdy3PtSoRw1gLG5K"
-      },
-      "artists": [
-        {
-          "name": "Freq Motif",
-          "url": "https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK"
-        },
-        {
-          "name": "EverythingOShauN",
-          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
-        }
-      ],
-      "duration_ms": 123806,
-      "name": "Wild Side",
-      "url": "https://open.spotify.com/track/6jplKm9eFCulH6CQZKeDhd"
-    },
-    {
-      "added_at": "2023-03-21 00:59:17",
+      "added_at": "2023-03-22 00:01:27",
       "album": {
         "name": "On My Grind",
         "url": "https://open.spotify.com/album/2agfSDraZLcjFYoaTmf7tB"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/6MTOvHuqJcw0HN6xDHiVNQ"
     },
     {
-      "added_at": "2023-03-21 00:59:17",
+      "added_at": "2023-03-22 00:01:27",
       "album": {
         "name": "Kilode (In Particular)",
         "url": "https://open.spotify.com/album/5BlU5AuobL4wUpdlQUANCZ"

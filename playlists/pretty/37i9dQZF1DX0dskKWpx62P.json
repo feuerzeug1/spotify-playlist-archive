@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 28512,
+  "num_followers": 28558,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDVjNmQ5NzU1NDA0OTZhYTEyNjZjZDI0M2ZmMGE2ZGY0",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDI4YzYzZjhhMWJmMmQyMzI0M2Y3ODhlM2NmMmExOWE4",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Pastorita Huaracina",
-        "url": "https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM"
-      },
-      "artists": [
-        {
-          "name": "Pastorita Huaracina",
-          "url": "https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "A los Filos de un Cuchillo",
-      "url": "https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Bodas de Plata: Concierto en Vivo",
         "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 237826,
       "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
       "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Pastorita Huaracina",
+        "url": "https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM"
+      },
+      "artists": [
+        {
+          "name": "Pastorita Huaracina",
+          "url": "https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF"
+        }
+      ],
+      "duration_ms": 188786,
+      "name": "A los Filos de un Cuchillo",
+      "url": "https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
+      },
+      "artists": [
+        {
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "Ay Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "El Jilguero de Huascar\u00e1n",
-        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Sanchez Fajardo",
-          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "Carrito del Regreso",
-      "url": "https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huayno, Vol. 1",
         "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
+        "name": "El Jilguero de Huascar\u00e1n",
+        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
       },
       "artists": [
         {
-          "name": "Pelo D'Ambrosio",
-          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+          "name": "Ernesto Sanchez Fajardo",
+          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
         }
       ],
-      "duration_ms": 281653,
-      "name": "Ay Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
+      "duration_ms": 161973,
+      "name": "Carrito del Regreso",
+      "url": "https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Ayacucho En El Corazon De Todos Vol.2",
         "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 197080,
       "name": "Donde Estar\u00e1s Palomita",
       "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+      },
+      "artists": [
+        {
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Wistu Vida",
-        "url": "https://open.spotify.com/album/5vm7rrxB7W8VUPUsiJyd9k"
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
       },
       "artists": [
         {
-          "name": "Duo Retama",
-          "url": "https://open.spotify.com/artist/3RW7F1HCOJ2j0rCgVOc3Kf"
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
         }
       ],
-      "duration_ms": 388813,
-      "name": "Flor de Retana",
-      "url": "https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE"
+      "duration_ms": 239853,
+      "name": "Sirwana",
+      "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

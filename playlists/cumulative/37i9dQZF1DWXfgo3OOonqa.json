@@ -6729,6 +6729,24 @@
     },
     {
       "album": {
+        "name": "HALLMATTAN",
+        "url": "https://open.spotify.com/album/1lsPTXRLEQUT7lSX7gENT2"
+      },
+      "artists": [
+        {
+          "name": "Jelassi",
+          "url": "https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "HALLMATTAN",
+      "url": "https://open.spotify.com/track/6qBwgf6ZTDyyG7GwQjoL27"
+    },
+    {
+      "album": {
         "name": "Hallucinerar",
         "url": "https://open.spotify.com/album/63Nl7ICthPoDB9DW6v8xsT"
       },

@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 51786,
+  "num_followers": 51844,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDAwZTFlMTI4ZWVmMWUwNTEyMGVmNmU3YTZjODM5NmVl",
+  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMGQwN2UwMzFiZTQxZjdhZmRmNjBkZTc3OWI5NTcwYzFi",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -879,6 +879,26 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Baby C\u00ea \u00e9 Gata",
+        "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 118976,
+      "name": "Baby C\u00ea \u00e9 Gata",
+      "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Baby C\u00ea \u00e9 Gata",
-        "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 118976,
-      "name": "Baby C\u00ea \u00e9 Gata",
-      "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Tudo No Priv\u00ea",
+        "url": "https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Tudo No Priv\u00ea",
+      "url": "https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Love (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/75CDVz8yhYyB920rQGszBf"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 334153,
       "name": "Moletom",
       "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Tudo No Priv\u00ea",
-        "url": "https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Tudo No Priv\u00ea",
-      "url": "https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR"
     },
     {
       "added_at": "2023-02-10 03:01:00",

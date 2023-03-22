@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Le Couleur",
-  "num_followers": 939,
+  "num_followers": 955,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDY1NThkYTAwMmQ0ZGU4OTA3YjhjYjliYzNiMzJkOWZm",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDU5NTFiODkzMTljODFlODg4ZTY3YzRjOWNkMTFiZjY0",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -319,6 +319,38 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Quand la nuit tombe",
+        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
+      },
+      "artists": [
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 279397,
+      "name": "La photo",
+      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "sadguitar_V777.wav",
+        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "duration_ms": 237022,
+      "name": "sadguitar_V777.wav",
+      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
@@ -347,38 +379,6 @@
       "duration_ms": 156233,
       "name": "C'est ma lady",
       "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "sadguitar_V777.wav",
-        "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
-      },
-      "artists": [
-        {
-          "name": "Emma Beko",
-          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
-        }
-      ],
-      "duration_ms": 237022,
-      "name": "sadguitar_V777.wav",
-      "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Quand la nuit tombe",
-        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
-      },
-      "artists": [
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 279397,
-      "name": "La photo",
-      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "All\u00f4 Fant\u00f4me",
         "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 202996,
-      "name": "Shoegaze",
-      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Phil\u00e9douche",
         "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 280513,
       "name": "Phile\u0301douche",
       "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 202996,
+      "name": "Shoegaze",
+      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "whatwasthatwine",
-        "url": "https://open.spotify.com/album/4r5raINIASmps1EZ090fio"
+        "name": "Rencontrer Looloo",
+        "url": "https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG"
       },
       "artists": [
         {
-          "name": "distraction4ever",
-          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+          "name": "Chocolat",
+          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
         }
       ],
-      "duration_ms": 241966,
-      "name": "whatwasthatwine",
-      "url": "https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H"
+      "duration_ms": 150320,
+      "name": "Ah Ouin",
+      "url": "https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -987,6 +987,22 @@
       "duration_ms": 131015,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "whatwasthatwine",
+        "url": "https://open.spotify.com/album/4r5raINIASmps1EZ090fio"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "duration_ms": 241966,
+      "name": "whatwasthatwine",
+      "url": "https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Musivision",
-        "url": "https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd"
-      },
-      "artists": [
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 187542,
-      "name": "Nyx",
-      "url": "https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "O\u00f9 nos corps s'en vont mourir",
         "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
       },
@@ -1067,6 +1067,38 @@
       "duration_ms": 177413,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Viendras-tu pleurer?",
+        "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Viendras-tu pleurer?",
+      "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Musivision",
+        "url": "https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 187542,
+      "name": "Nyx",
+      "url": "https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1135,38 +1167,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Viendras-tu pleurer?",
-        "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
-      },
-      "artists": [
-        {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Viendras-tu pleurer?",
-      "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Rencontrer Looloo",
-        "url": "https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG"
-      },
-      "artists": [
-        {
-          "name": "Chocolat",
-          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "Ah Ouin",
-      "url": "https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Je l\u00e8ve mon verre",
         "url": "https://open.spotify.com/album/7FBCvIOKM2KydwJzznpBI3"
       },
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Ta yeule, toute va ben",
+        "url": "https://open.spotify.com/album/7czM4O7ElmQ8WOCrav1Vxf"
+      },
+      "artists": [
+        {
+          "name": "FUUDGE",
+          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
+        }
+      ],
+      "duration_ms": 144906,
+      "name": "Ta yeule, toute va ben",
+      "url": "https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Totalement Sublime",
         "url": "https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 243950,
       "name": "OMG (oiseau)",
       "url": "https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Des feux pour voir",
-        "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
-      },
-      "artists": [
-        {
-          "name": "Marie-Pierre Arthur",
-          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
-        }
-      ],
-      "duration_ms": 243859,
-      "name": "Dans tes r\u00eaves",
-      "url": "https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo"
     }
   ],
   "unique_name": "ALT_QC",

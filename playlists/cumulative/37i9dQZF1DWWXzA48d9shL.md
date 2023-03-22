@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: do not resurrect
 
-410 songs - 16 hr 12 min
+411 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [HEARTSTOPPER](https://open.spotify.com/track/4YDATcqz2STt6QpMVWtj5Q) | [Kent Osborne](https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta) | [HEARTSTOPPER](https://open.spotify.com/album/4twfTWkuCk9FLlRE4JaXjd) | 2:13 | 2022-10-28 | 2022-12-07 |
 | [Heat Signature](https://open.spotify.com/track/1GssCptrx184Jcnki9ynvb) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Heat Signature](https://open.spotify.com/album/2RovCyMajVvGr1rhHOp1cz) | 2:00 | 2022-05-27 | 2022-07-27 |
 | [Helmut Lang](https://open.spotify.com/track/3fegtZrtpwZlcPRJOAm6yG) | [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV), [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [Helmut Lang](https://open.spotify.com/album/3ZKiAPqWoe5pLYpOceREqS) | 2:25 | 2023-02-16 |  |
+| [help\_urself 2](https://open.spotify.com/track/2ryoLJts8Kbzh22HCWlfKb) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [help\_urself 2](https://open.spotify.com/album/5uF1L0oqAUeBT3WdxAglJh) | 2:45 | 2023-03-21 |  |
 | [Hero](https://open.spotify.com/track/1z8Ryd5EjADc14IFJJvjNH) | [Yvncc](https://open.spotify.com/artist/06a2LUiG8LAtoEgzZWCkiM) | [Hero](https://open.spotify.com/album/3xobL10YHsmIXvfA0OgKsb) | 2:11 | 2021-09-17 | 2022-05-14 |
 | [hiraeth](https://open.spotify.com/track/7GnMNlwX96SewsEPGIEmHg) | [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [hiraeth](https://open.spotify.com/album/5eOXunCRVTlnCOv7pCCqY0) | 1:46 | 2022-09-16 | 2022-10-29 |
 | [HIT THE FLOOR](https://open.spotify.com/track/7MUW9VPYDM00UdwF1csfCq) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [HIT THE FLOOR](https://open.spotify.com/album/1ojeEGFV9ebdYi7VkvsVHU) | 1:57 | 2021-09-17 | 2022-06-04 |
@@ -381,7 +382,7 @@
 | [UBER EATS](https://open.spotify.com/track/5Uv2YYRGuqQ9sjIJq7WZZU) | [Northside Hollow](https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [UBER EATS](https://open.spotify.com/album/08WdgJ9VIl80uCj9LFmwaz) | 2:25 | 2022-07-01 | 2022-07-08 |
 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 | 2022-04-05 | 2022-05-17 |
 | [UNDER THE FLOOR](https://open.spotify.com/track/35GDPnipCe8z8worRp3rTS) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [UNDER THE FLOOR](https://open.spotify.com/album/7gCQgabNEjhNucylRYZgix) | 2:04 | 2021-10-20 | 2022-04-21 |
-| [UP LIKE AN INSOMNIAC \- Freestyle](https://open.spotify.com/track/5UJ3N25ukIruG4Do8RDHra) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/album/03TZqOGHlyNTdHxsdOXIZX) | 2:31 | 2023-01-25 |  |
+| [UP LIKE AN INSOMNIAC \- Freestyle](https://open.spotify.com/track/5UJ3N25ukIruG4Do8RDHra) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/album/03TZqOGHlyNTdHxsdOXIZX) | 2:31 | 2023-01-25 | 2023-03-22 |
 | [Vagabond](https://open.spotify.com/track/48TYKdjkiIN6brcIilEVWB) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 1:54 | 2021-09-17 | 2022-07-02 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-07-15 |  |
 | [VENOM](https://open.spotify.com/track/0oxgwFjJ0AP5BhRJPIdVjC) | [Broken Flow](https://open.spotify.com/artist/3QGiU4wavNaHjIxxRZVlW4), [Mobbs Radical](https://open.spotify.com/artist/5CMFdQq95rtIg41Vip9wLR), [ChaiN](https://open.spotify.com/artist/2IZOUfwpz4pPxiiwQWdgPX) | [VENOM](https://open.spotify.com/album/22fGL6GIk4K5kvQkkcQfik) | 2:16 | 2022-04-15 | 2022-11-26 |

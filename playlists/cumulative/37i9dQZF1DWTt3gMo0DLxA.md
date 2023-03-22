@@ -4,12 +4,13 @@
 
 > Step Up for this Top Hit Telugu songs
 
-66 songs - 4 hr 15 min
+66 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0AC0O74oBjVfCp0SHr3kQ6) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 0:00 | 2021-09-24 |  |
 | [](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 0:00 | 2021-09-24 |  |
+| [](https://open.spotify.com/track/3RasaEUueHNTzBM2JB3qxK) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2rB63Sy0Lbll94LSvqo0gE) | 0:00 | 2021-09-24 |  |
 | [](https://open.spotify.com/track/3Y7Dt0uszkNBMBTdxyckaV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6kooJUFnkhm3RBIfr9PgtS) | 0:00 | 2021-09-24 |  |
 | [Alludu Adhurs](https://open.spotify.com/track/5nP5Y7qkiiWi70QueS3qF8) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Vaishnavi](https://open.spotify.com/artist/6EvZzYQvYz8M9s2JOXpe9e) | [Alludu Adhurs](https://open.spotify.com/album/3kus7s3pIDVtyckV59gkKs) | 4:01 | 2021-09-24 |  |
 | [Alludu Adhurs](https://open.spotify.com/track/38UH5WZoMmsrT9azjJV3xq) | [Jaspreet Jasz, Vaishnavi](https://open.spotify.com/artist/1xZgYp7M5zGDFAODDSYlNR) | [Alludu Adhurs](https://open.spotify.com/album/00KXQi25qMP019l02UD59k) | 4:01 | 2021-09-24 | 2022-07-29 |
@@ -42,7 +43,6 @@
 | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/track/1HobaVS51OdBZqNmqt1TX7) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/album/182Ps1T0Kkl5thJcmCT0aC) | 4:06 | 2021-09-24 |  |
 | [Kanne Adhirindhi](https://open.spotify.com/track/7KXic27xUAWeENDHqtsCQ4) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Roberrt \(Telugu\)](https://open.spotify.com/album/0RD3M8MJ7RtZJefk7uDPxv) | 3:45 | 2021-09-24 |  |
 | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/track/1Ufd6lvT02tqohgJr8FEtM) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/album/6iMuAQSexPEINcUSTwCK3f) | 4:50 | 2021-09-24 |  |
-| [Kung Fu Kumaari](https://open.spotify.com/track/3RasaEUueHNTzBM2JB3qxK) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Bruce Lee](https://open.spotify.com/album/2rB63Sy0Lbll94LSvqo0gE) | 4:26 | 2021-09-24 |  |
 | [Love Dhebba](https://open.spotify.com/track/2OqfykMe4IK0IrZPTcCi9b) | [Deepak](https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Nannaku Prematho](https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo) | 3:56 | 2021-09-24 | 2022-07-29 |
 | [Love Dhebba](https://open.spotify.com/track/3voVT9SGPZCT6tYXVbwAao) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Nannaku Prematho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15sBWVMRroxX2xMq3rNQoI) | 3:56 | 2021-09-24 |  |
 | [Ma Ma Mahesha](https://open.spotify.com/track/4o0fdLdeKc0KHTs0ouiUpi) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Sarkaru Vaari Paata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4k1eyhV232FplXyv3nnv9q) | 4:06 | 2022-05-07 | 2022-11-13 |

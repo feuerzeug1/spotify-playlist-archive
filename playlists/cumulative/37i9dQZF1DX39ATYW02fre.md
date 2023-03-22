@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-203 songs - 15 hr 20 min
+204 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [On Hold](https://open.spotify.com/track/5CPqOpKSk0QcJ3dGdaWcRB) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/2PXy9USZAoTSdtrxfkPBnl) | 3:44 | 2021-03-17 | 2021-05-24 |
 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 | 2022-05-30 |  |
 | [One Grain of Sand](https://open.spotify.com/track/73F3XnDV60gX1tOnJw4ut9) | [Powel](https://open.spotify.com/artist/7lswylDlldiV65bPXGD46m) | [The Beauty of a Polaroid](https://open.spotify.com/album/7BWs0FjxHJmYSS8DqC9tG5) | 6:25 | 2021-01-05 | 2022-07-29 |
-| [Opening Credits](https://open.spotify.com/track/7zuMvkTqp8RQpJqSHCFofp) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Opening Credits](https://open.spotify.com/album/70ObWOtpXMsBBbYLNmRIgm) | 4:03 | 2022-11-25 |  |
+| [Opening Credits](https://open.spotify.com/track/1GCyyYAFCfFwbu1z5sbI6S) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Opening Credits](https://open.spotify.com/album/1nOiKTQoMr3t3DaaZPozus) | 4:03 | 2022-11-25 |  |
+| [Opening Credits](https://open.spotify.com/track/7zuMvkTqp8RQpJqSHCFofp) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Opening Credits](https://open.spotify.com/album/70ObWOtpXMsBBbYLNmRIgm) | 4:03 | 2022-11-25 | 2023-03-22 |
 | [Orange](https://open.spotify.com/track/0JIsc98iJvP4ySokSFFRY8) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz), [Sinead White](https://open.spotify.com/artist/0bow8GsVd622Y1NEGOeEL0) | [L.O.S.S.](https://open.spotify.com/album/1RoBBAroy6tMbqXkkT4yyK) | 3:08 | 2020-06-05\* | 2022-07-05 |
 | [Painting On Glass](https://open.spotify.com/track/52BaGmviMTO9z4cIerve0C) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Painting On Glass](https://open.spotify.com/album/4sx4UF9JugEaB2dTIbRzlV) | 2:32 | 2021-01-05 | 2022-07-29 |
 | [Parallel 7](https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:43 | 2021-01-05 | 2023-03-20 |

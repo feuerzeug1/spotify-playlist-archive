@@ -4,7 +4,7 @@
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-195 songs - 9 hr 53 min
+196 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2022-05-03 |  |
 | [MOVIE \(feat\. Central Cee\)](https://open.spotify.com/track/57fle7Lnf7lOXNf76r2x6C) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [MOVIE \(feat\. Central Cee\)](https://open.spotify.com/album/0fV9Q0CVKecmGnN6hA2OTC) | 3:15 | 2022-05-03 | 2022-07-28 |
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2022-06-09 |  |
-| [NEW YORK](https://open.spotify.com/track/3FSW3VzKEYf9nDGafU4KEL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [NEW YORK](https://open.spotify.com/album/2Cx1vPGOj3JBazwoKFYt1M) | 3:16 | 2023-03-20 |  |
+| [NEW YORK](https://open.spotify.com/track/3FSW3VzKEYf9nDGafU4KEL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [NEW YORK](https://open.spotify.com/album/2Cx1vPGOj3JBazwoKFYt1M) | 3:16 | 2023-03-20 | 2023-03-22 |
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-05-03 |  |
 | [No Cap \(feat\. Geolier\)](https://open.spotify.com/track/3uqFFmxrCv4nzkKFSNbXHv) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [17 \- Dark Edition](https://open.spotify.com/album/6nKQCH9bP1APHf83iDCjO2) | 3:13 | 2022-05-03 | 2022-07-29 |
 | [No wallet \(feat\. Marracash\)](https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:02 | 2022-05-03 | 2022-10-27 |
@@ -143,6 +143,7 @@
 | [Paraocchi](https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:36 | 2022-06-09 | 2023-02-24 |
 | [Pasticche \(feat\. Capo Plaza\)](https://open.spotify.com/track/7KnC2wSD0I5Fju3A7qCFX8) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [El Puto Mundo](https://open.spotify.com/album/4OBlPtQ0nZjyEpOOYmE47O) | 3:16 | 2022-05-03 | 2022-07-29 |
 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 | 2022-05-03 |  |
+| [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 | 2023-03-20 |  |
 | [PENSAVA](https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [PENSAVA](https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn) | 2:28 | 2023-03-20 |  |
 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-05-03 |  |
 | [polka 2 :\-/](https://open.spotify.com/track/3nSIfipKhCaeo2Iu2YRi3H) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [FOREVER AND EVER](https://open.spotify.com/album/4pLyfJ9Vtp0A7KWovdWsA1) | 3:27 | 2022-05-03 | 2022-07-29 |

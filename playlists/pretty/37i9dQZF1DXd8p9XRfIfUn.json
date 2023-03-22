@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Akrilla, SOULFIA",
-  "num_followers": 63127,
+  "num_followers": 63151,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2NTU1NywwMDAwMDAwMGMwNjAwZjc4NTc1YTQ3MzA4OWEzMmRmNjA0ZDdkNGEx",
+  "snapshot_id": "MTY3ODQ2NTU1NywwMDAwMDAwMGNmMWYyNDg0NzAzZmM5M2RjNTM2YmYxMGVhZTgxNmJm",
   "tracks": [
     {
       "added_at": "2023-03-10 16:25:57",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
-        "name": "Garabatos (with Jay Wheeler)",
-        "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "Garabatos (with Jay Wheeler)",
-      "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
-    },
-    {
-      "added_at": "2023-03-10 16:25:57",
-      "album": {
         "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
         "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 181894,
       "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
       "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
+    },
+    {
+      "added_at": "2023-03-10 16:25:57",
+      "album": {
+        "name": "Garabatos (with Jay Wheeler)",
+        "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Garabatos (with Jay Wheeler)",
+      "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
     },
     {
       "added_at": "2023-03-10 16:25:57",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
-    },
-    {
-      "added_at": "2023-03-10 16:25:57",
-      "album": {
         "name": "Full Pioli (feat. Best)",
         "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-03-10 16:25:57",
       "album": {
-        "name": "Que Pvter\u00eda",
-        "url": "https://open.spotify.com/album/2azP4Xmddy56fIbFoHrAAu"
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
       },
       "artists": [
         {
-          "name": "West Blanco",
-          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
         }
       ],
-      "duration_ms": 143266,
-      "name": "Que Pvter\u00eda",
-      "url": "https://open.spotify.com/track/1Cu2XVeJznrcbS2r6iOLNZ"
+      "duration_ms": 178626,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
     },
     {
       "added_at": "2023-03-10 16:25:57",
@@ -1251,6 +1235,22 @@
       "duration_ms": 125923,
       "name": "Que a Pasao",
       "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
+    },
+    {
+      "added_at": "2023-03-10 16:25:57",
+      "album": {
+        "name": "Que Pvter\u00eda",
+        "url": "https://open.spotify.com/album/2azP4Xmddy56fIbFoHrAAu"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Que Pvter\u00eda",
+      "url": "https://open.spotify.com/track/1Cu2XVeJznrcbS2r6iOLNZ"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

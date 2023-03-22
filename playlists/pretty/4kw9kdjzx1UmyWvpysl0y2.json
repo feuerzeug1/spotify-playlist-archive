@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127122,
+  "num_followers": 127134,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDA2NiwzMTI5MmRjZjkwOTNiYTc5MzliOTcyMjE1MDRhNmNjZjAxMzA0YWJh",
+  "snapshot_id": "NDA3MSw5NDZiYWI3NDM2ZWZiM2RlMWY4YjdjZmNiYmJkMWQyNjlkZWM1NDg2",
   "tracks": [
+    {
+      "added_at": "2023-03-21 17:31:29",
+      "album": {
+        "name": "Foggy Morning",
+        "url": "https://open.spotify.com/album/1YcTybk2o4IELX4vG55rZ0"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 256374,
+      "name": "Foggy Morning",
+      "url": "https://open.spotify.com/track/2K3CQS80oYdLDLEmQnEk8B"
+    },
     {
       "added_at": "2023-03-20 15:55:23",
       "album": {
@@ -1111,46 +1127,6 @@
       "duration_ms": 289333,
       "name": "It's Not Love",
       "url": "https://open.spotify.com/track/7mv9t5XQUSHa4akJAwdmiZ"
-    },
-    {
-      "added_at": "2023-01-06 17:50:31",
-      "album": {
-        "name": "Breathe Me Back To Life",
-        "url": "https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3"
-      },
-      "artists": [
-        {
-          "name": "Stonebank",
-          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
-        },
-        {
-          "name": "Lena Sue",
-          "url": "https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30"
-        }
-      ],
-      "duration_ms": 146829,
-      "name": "Breathe Me Back To Life",
-      "url": "https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9"
-    },
-    {
-      "added_at": "2023-01-06 17:50:20",
-      "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0RrkXtaPZqAAJnU4fGZ4Y8"
-      },
-      "artists": [
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
-        },
-        {
-          "name": "Cloudcage",
-          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/7JKzCzNua4DT4lBMPrchUI"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

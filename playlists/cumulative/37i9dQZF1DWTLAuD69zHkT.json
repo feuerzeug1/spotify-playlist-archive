@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Pretty Baby",
+        "url": "https://open.spotify.com/album/5kFJf4E5O16OBrw7tfoZiV"
+      },
+      "artists": [
+        {
+          "name": "Blues Fighters",
+          "url": "https://open.spotify.com/artist/4Z8HiAcleS4ztwQn8MRl6Q"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229103,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/5qRvaUSXnGrn3dgMfNZM1p"
+    },
+    {
+      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/5coZhDRNQ6Tntf3EVbmCDk"
       },

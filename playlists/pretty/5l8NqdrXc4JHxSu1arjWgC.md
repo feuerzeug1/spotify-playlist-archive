@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,001 likes - 671 songs - 1 day 21 hr 15 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,000 likes - 671 songs - 1 day 21 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -608,7 +608,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 598 | [Crystal Japan \- 2001 Remaster](https://open.spotify.com/track/5LjmeNDnfh9YI6Ojt6cMKD) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [All Saints](https://open.spotify.com/album/1TavCukHKgRsOx8nXcmY2c) | 3:10 |
 | 599 | [Dust Bunnies](https://open.spotify.com/track/5CHUWuyjalKhlhujuCmJ2Z) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv) | 4:38 |
 | 600 | [My Drug Buddy \- Remastered](https://open.spotify.com/track/6SI3qNCqO31xOdvxnbgGRd) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 2:51 |
-| 601 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
+| 601 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 602 | [Blood And Rockets: Movement I, Saga Of Jack Parsons \- Movement II, Too The Moon](https://open.spotify.com/track/3npj5lftwtXnEH45Mae1Fz) | [The Claypool Lennon Delirium](https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b) | [Blood And Rockets: Movement I, Saga Of Jack Parsons \- Movement II, Too The Moon](https://open.spotify.com/album/2EWURfw9h18ou3ALFEZV48) | 6:29 |
 | 603 | [Space Cadet](https://open.spotify.com/track/3LzZ8BZm3BdiSRiT3HqeXy) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Loopholes](https://open.spotify.com/album/0IdCuyJYqNNZ6gqSUaYUez) | 3:10 |
 | 604 | [Came Back Haunted](https://open.spotify.com/track/0jem8KSDqhiOoIWIqrJZbI) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Hesitation Marks \(Deluxe Version\)](https://open.spotify.com/album/7GwKmNXAFgODzJOwaEVyji) | 5:17 |

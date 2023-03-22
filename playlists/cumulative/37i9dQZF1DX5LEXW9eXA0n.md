@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: Y\(Golden Child\)\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover:Gaho\(가호\)\) \(당신의 감성에 발라드, 려요\)
 
-819 songs - 2 day 5 hr 18 min
+821 songs - 2 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [Love is over](https://open.spotify.com/track/2eJC2xIN25ZuitoeyUjvZq) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Love is over](https://open.spotify.com/album/33mp1igqC6BBqyPBmw0utT) | 3:43 | 2023-02-24 |  |
 | [Love Lost](https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Love Lost](https://open.spotify.com/album/73GcOMMjtWU30MrV9NblhT) | 3:50 | 2022-08-25 | 2022-12-27 |
 | [Love me](https://open.spotify.com/track/32VayAJzZV1KsZ248nhZPm) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Reborn Rich OST Part\. 7 \(Soundtrack\)](https://open.spotify.com/album/6zIIYOO2PQm4EEs6Z3N99N) | 3:55 | 2023-01-10 | 2023-02-25 |
+| [Love Me](https://open.spotify.com/track/5bwNwWLAtdfuvkiVHaPKkk) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Diamond](https://open.spotify.com/album/2AVuNRwEuaFp2cMZbLN9Sm) | 3:35 | 2023-03-21 |  |
 | [Love Me Like Before](https://open.spotify.com/track/1nsGjQ2IXxCjqDo4efzlgA) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g) | [Love Me Like Before](https://open.spotify.com/album/1JeLGbU1RBPvQWO3BjHP20) | 3:57 | 2023-03-08 | 2023-03-10 |
 | [Love Me Like Before](https://open.spotify.com/track/4mbrA8XuDtp0Hy1W9G6hkT) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g) | [Love Me Like Before](https://open.spotify.com/album/4nV4ku3xK6GxeLefccBL3y) | 3:57 | 2023-03-08 |  |
 | [Love Message](https://open.spotify.com/track/1Y6W3Q07asHeQtXCBDAOrT) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Love Message](https://open.spotify.com/album/5tJH4tWyWLtLEG1X6EVBtU) | 3:53 | 2022-02-10 | 2022-02-24 |
@@ -622,6 +623,7 @@
 | [Stay there](https://open.spotify.com/track/5IndKDof7V94eb33af1WlF) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Stay there](https://open.spotify.com/album/6wS7aYn81YsL0bdpscugBo) | 3:23 | 2023-01-20 | 2023-02-15 |
 | [Stay With Me](https://open.spotify.com/track/17qoIHNHmxUu4YjeAs0Prh) | [Jeon Eun Jin](https://open.spotify.com/artist/67lzkCTgtpkhb56aGYXJEY) | [Stay With Me](https://open.spotify.com/album/58GDtLSSF7VjO9xjjaADbP) | 3:21 | 2022-02-10 | 2022-02-17 |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-07 | 2023-01-11 |
+| [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 |  |
 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 | 2022-10-13 | 2023-01-21 |
 | [such a man](https://open.spotify.com/track/3W1gtxKzKQR4fufWXZ670j) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [such a man](https://open.spotify.com/album/1WbRJyCcnFkHAVCj2hOnUW) | 4:23 | 2022-07-07 | 2022-09-30 |
 | [Such a thing](https://open.spotify.com/track/1YR0ivxbjdQBzp3eYP3p3z) | [Park Min Hye](https://open.spotify.com/artist/0rFLNocK3XicCj7JZs63h4) | [Such a thing](https://open.spotify.com/album/4l29ZCHanvEhGA5xZdPZDK) | 4:26 | 2022-07-07 | 2022-08-13 |

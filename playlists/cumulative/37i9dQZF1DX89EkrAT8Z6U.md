@@ -2,7 +2,7 @@
 
 ### [shōnen](https://open.spotify.com/playlist/37i9dQZF1DX89EkrAT8Z6U)
 
-> A mixtape for the perfect anime fight scene\. Cover: Lucy from Cyberpunk: Edgerunners
+> A mixtape for the perfect anime fight scene.
 
 185 songs - 8 hr 12 min
 

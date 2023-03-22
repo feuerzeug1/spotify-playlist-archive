@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1950s\. Cover: Elvis.
 
-284 songs - 12 hr 20 min
+285 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/0Zkuewgtp8XbeJ5xInG4p8) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Complete Imperial Singles](https://open.spotify.com/album/6iaRjczTCIO23qM07qxMXs) | 2:22 | 2022-06-07 | 2023-03-12 |
 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/1slMt4LizkO9dVcMZItJ1O) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Best Of Fats Domino](https://open.spotify.com/album/0aJTqumjo0IA5saTW58Xzm) | 2:24 | 2021-04-23 | 2022-07-29 |
 | [Jambalaya \(On The Bayou\) \- Remastered 2002](https://open.spotify.com/track/69S4GgVyV3Fs7kIz5gl3rv) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them](https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b) | 2:23 | 2022-06-07 | 2022-11-13 |
+| [Jambalaya \- On the Bayou](https://open.spotify.com/track/5UzBH9eW6D8rP0TC69vL7p) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Collector](https://open.spotify.com/album/4PrsQQJpd1JzboMg7tFlf5) | 2:26 | 2022-06-07 |  |
 | [Johnny B\. Goode](https://open.spotify.com/track/5py1PCd305Y7lKf55KCnnz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Best of Blues Rock Songbook 20th Century Masters The Millennium Collection](https://open.spotify.com/album/5zAkTrHHX2YYKcEVyJgFZT) | 2:39 | 2022-06-07 | 2022-11-13 |
 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 | 2022-06-07 |  |
 | [Johnny B\. Goode](https://open.spotify.com/track/3BUQFs6aFWh7EFNmI8bfL7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2) | 2:41 | 2021-04-23 | 2022-07-29 |
@@ -173,7 +174,7 @@
 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/1nuxlcT2IQOzzz8hPB1MZw) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [NOW That's What I Call Motown](https://open.spotify.com/album/4oE29r8F2noxVV9VmzdIL4) | 2:36 | 2022-06-07 | 2022-11-13 |
 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Collection](https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi) | 2:38 | 2022-06-07 |  |
 | [Move It \- 2002 Remaster](https://open.spotify.com/track/4vDEkER6ToECKrxiPzE2Tp) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [75 at 75](https://open.spotify.com/album/4tlAPVPMmE4rhnkctUdCeG) | 2:21 | 2021-04-23 | 2022-07-29 |
-| [Move It \- Live; 1998 Remaster](https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Cliff: Cliff Sings](https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er) | 2:18 | 2022-06-07 |  |
+| [Move It \- Live; 1998 Remaster](https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Cliff: Cliff Sings](https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er) | 2:18 | 2022-06-07 | 2023-03-22 |
 | [Mr\. Sandman](https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Wonderful One](https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ) | 2:27 | 2022-06-07 |  |
 | [My Baby](https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:21 | 2021-04-23 | 2022-06-08 |
 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 | 2022-04-29 | 2022-11-13 |

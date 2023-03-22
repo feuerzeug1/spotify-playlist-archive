@@ -4,10 +4,11 @@
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-62 songs - 3 hr 38 min
+62 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 0:00 | 2023-03-08 |  |
 | [](https://open.spotify.com/track/1wnnVlan2KM0c8KmmOTcKO) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4wpr4fCJOalsPAV6voRoXN) | 0:00 | 2023-03-08 |  |
 | [](https://open.spotify.com/track/5CSEaABQkS1hoLza0IpK2r) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5ASFrellizlx98SmsItOEm) | 0:00 | 2023-03-08 |  |
 | [](https://open.spotify.com/track/5hRXhmEuQW3SJwX94BBV6u) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6jz8TnD4K4fOeGHAnd3fwM) | 0:00 | 2023-03-08 |  |
@@ -44,7 +45,6 @@
 | [Khele Holi](https://open.spotify.com/track/54DFoXATxSyPN6LqFwvEI5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Biswaa](https://open.spotify.com/artist/4j7KQ5AaoPXYXstt6fQo4G) | [Khele Holi](https://open.spotify.com/album/5t33NLIGIkRfICrfsRElMm) | 3:12 | 2023-03-08 | 2023-03-14 |
 | [Let's Nacho](https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:35 | 2023-03-08 |  |
 | [Main Khiladi \- From "Selfiee"](https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Main Khiladi \(From "Selfiee"\)](https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki) | 3:07 | 2023-03-08 |  |
-| [Makhna](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 3:03 | 2023-03-08 |  |
 | [Morni Banke](https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Badhaai Ho](https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA) | 3:18 | 2023-03-08 |  |
 | [Muqabla \(From "Street Dancer 3D"\)](https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\)](https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW) | 2:56 | 2023-03-08 |  |
 | [Naach Meri Rani](https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Naach Meri Rani](https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo) | 3:32 | 2023-03-08 |  |

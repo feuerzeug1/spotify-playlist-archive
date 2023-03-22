@@ -1,12 +1,12 @@
 {
   "description": "The hardest songs, loud. Very loud. Cover: Pop Evil",
-  "num_followers": 896090,
+  "num_followers": 896324,
   "original_name": "Rock Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGYwODJhODRmNWYxZjMyNjViZmQwOGM5MWFlZmQwMTE0",
+  "snapshot_id": "MTY3OTQzMzA3NywwMDAwMDAwMGE2YzdiYjkzNGE5NDc5OTNmZjcxYjQ4NTFlOTU0MzYw",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -951,6 +951,22 @@
       "duration_ms": 201402,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/1LtXoOrqBYS8kcheVUt5Pr"
+    },
+    {
+      "added_at": "2023-03-21 21:11:17",
+      "album": {
+        "name": "New Reality",
+        "url": "https://open.spotify.com/album/3pnXp6i9be5TieRJC4oHsE"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "New Reality",
+      "url": "https://open.spotify.com/track/6iO0oyy7PjgeOa3TMvcI8e"
     },
     {
       "added_at": "2023-03-17 04:00:00",

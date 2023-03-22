@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-474 songs - 1 day 3 hr 19 min
+476 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [NORO](https://open.spotify.com/track/7y6cPbIzDIXXdufVVWndB6) | [¿?shimon](https://open.spotify.com/artist/6fZw1VnSLcEhz3hWPL0GMH) | [NORO](https://open.spotify.com/album/6im8p27m4yOZnh2I4uHa5L) | 2:18 | 2022-06-09 | 2022-06-29 |
 | [ochatime](https://open.spotify.com/track/5ytcavGxyxKy8lWujz3d47) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [WALK](https://open.spotify.com/album/1foqkv0vDFjIxel0x8bYBM) | 3:53 | 2022-07-10 | 2022-07-12 |
 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 | 2022-06-09 | 2022-07-18 |
-| [OMAJINAI](https://open.spotify.com/track/15BRu3pGx0AHvID3pBZV6J) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [OMAJINAI](https://open.spotify.com/album/1nTMOMjRFsNKKXkvU53OJW) | 1:57 | 2023-02-16 |  |
+| [OMAJINAI](https://open.spotify.com/track/15BRu3pGx0AHvID3pBZV6J) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [OMAJINAI](https://open.spotify.com/album/1nTMOMjRFsNKKXkvU53OJW) | 1:57 | 2023-02-16 | 2023-03-22 |
 | [on the rocks](https://open.spotify.com/track/5oUBjW4Bc69fcYBak14CyO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [Attractive Museum](https://open.spotify.com/album/2P5aNv8rCe3ySUNqAP0cpm) | 4:25 | 2022-06-28 | 2022-07-28 |
 | [Online Game Addicts Sprechchor feat.Hatsune Miku](https://open.spotify.com/track/5UX2XYxGf9s10kmkSObPpA) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Jinchikumugai Satsuki ga Tenkomori feat.Hatsune Miku](https://open.spotify.com/album/4ChriIFZHY2BtIjzyTU1Jq) | 4:51 | 2022-06-09 | 2022-07-26 |
 | [Party×Party](https://open.spotify.com/track/0ZmoP8er16GcUglbOdSgoY) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Polkadodge](https://open.spotify.com/album/40XC0a7Qa96B9LqpwUVkSw) | 3:39 | 2022-07-10 | 2022-07-12 |
@@ -184,6 +184,7 @@
 | [アナフィラキシー](https://open.spotify.com/track/7yMLVDXbl1vyjrwtL8oQkG) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [Anaphylaxie Bee](https://open.spotify.com/album/5udBqTGXlGI3bMZ2ju3m0J) | 3:46 | 2022-06-23 | 2022-07-04 |
 | [アニマル](https://open.spotify.com/track/1b0zIQJV4TMwPXudWcHjQv) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アニマル](https://open.spotify.com/album/2dPOTYm0jQ6elPeoCKJFE9) | 2:32 | 2022-06-09 | 2022-07-25 |
 | [アブノーマリティ・ダンシンガール](https://open.spotify.com/track/3sWcYSiFPCL5CNzU0H5Wau) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [憂象夢象](https://open.spotify.com/album/5HdP7JlJXuOhqnraTBVeUP) | 3:28 | 2022-09-22 | 2023-01-13 |
+| [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 | 2023-03-21 |  |
 | [アユミ☆マジカルショータイム](https://open.spotify.com/track/2zuxjeU8HhNjhwAImmdLWn) | [kinoshita](https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5) | [アユミ☆マジカルショータイム](https://open.spotify.com/album/3DjcAS0tISWGmfmDsgohHS) | 3:53 | 2022-06-09 | 2022-07-25 |
 | [アルティメットセンパイ](https://open.spotify.com/track/5Lsdr0kU6beWlXns5yRzfT) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [アルティメットセンパイ](https://open.spotify.com/album/7jhZ6DlDkoave3d9EluECt) | 3:38 | 2022-06-09 | 2022-07-03 |
 | [アングレイデイズ](https://open.spotify.com/track/0D6nkihMwftoet1pTtxfV4) | [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [SAKKAC CRAFT](https://open.spotify.com/album/55Rv0QRBYFu3X1rlrxwExc) | 3:00 | 2022-06-14 | 2022-07-23 |
@@ -321,6 +322,7 @@
 | [マシンガンポエムドール](https://open.spotify.com/track/6XshXpv0LPjtTJbKkeilBQ) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [マシンガンポエムドール](https://open.spotify.com/album/2XdBm2tkrw0q2T5J1F0kF9) | 2:20 | 2022-06-09 | 2022-07-23 |
 | [マスカレイド](https://open.spotify.com/track/581bIvNeiUFUF7LrsNBl8w) | [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [マスカレイド](https://open.spotify.com/album/2z5k9OCA1HkGqerlzS4EgO) | 3:04 | 2022-06-14 | 2022-07-15 |
 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 | 2022-06-28 |  |
+| [マネキン](https://open.spotify.com/track/3BcWb0msot5CtVT8bSTSYJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [マネキン](https://open.spotify.com/album/2GpY4iShppsPlDxsTL2Apz) | 2:45 | 2023-03-21 |  |
 | [マフィア](https://open.spotify.com/track/1oFiR7h7tjI1hXIEDGsN8m) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [マフィア](https://open.spotify.com/album/7cDUnK6abvuyt1IMi7fMau) | 3:05 | 2022-06-09 | 2022-07-18 |
 | [マーシャル・マキシマイザー](https://open.spotify.com/track/00ydUpbxn87fyKSK5A6Du8) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv) | 2:43 | 2022-06-09 |  |
 | [マーメイド](https://open.spotify.com/track/4DfBPN7Zv23HGvZzBdSrMz) | [monaca:factory](https://open.spotify.com/artist/4kBIGrhwGKdxCORrjYlNqE) | [マーメイド](https://open.spotify.com/album/1Lb1Eha1PSH40d9h3Ji77Y) | 3:19 | 2022-06-30 | 2022-07-03 |
@@ -364,7 +366,7 @@
 | [不埒な喝采](https://open.spotify.com/track/1yALlDzyQ4MbzEtMosEJkk) | [音楽的同位体 可不\(KAFU\)](https://open.spotify.com/artist/4nZ9ZaF0eFDMDQKgrJgsqC) | [KAF+YOU KAFU COMPILATION ALBUM](https://open.spotify.com/album/6ljHb4t09MebY2WYuP8iQ1) | 2:24 | 2022-06-09 | 2022-07-23 |
 | [不完全愛情進行中](https://open.spotify.com/track/1kccUSvGvxEt7tccnrfV4y) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [不完全愛情進行中](https://open.spotify.com/album/1FIf5JBEDDWxaqwvtCiRAM) | 2:41 | 2022-10-27 | 2023-01-06 |
 | [不純なベンガラ](https://open.spotify.com/track/3xN6bAYDya63j0tuaTIXXJ) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [不純なベンガラ](https://open.spotify.com/album/43eiB8sDKy4v5spvmTTZdr) | 2:39 | 2022-06-30 | 2022-07-05 |
-| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 |  |
+| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 | 2023-03-22 |
 | [人が歌う曲じゃない](https://open.spotify.com/track/4dOWyhJA2QK2JHsTuEzPgz) | [SajEst](https://open.spotify.com/artist/4w5OjwRCUqwdyNT1wFGp03) | [人が歌う曲じゃない](https://open.spotify.com/album/1WCpiyvA0OxQQM9awKLLhS) | 3:37 | 2022-06-30 | 2022-07-13 |
 | [仮定した夏](https://open.spotify.com/track/3sZaa7Ia4pGRtDncfD3deL) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [幻影EP\-Envy Phantom\-](https://open.spotify.com/album/5fzbipqPBcovgsJTdZHs9K) | 3:06 | 2022-06-23 | 2022-07-19 |
 | [僕にはなにができるかな](https://open.spotify.com/track/0ndD4pjPPzvehbz91ZALYU) | [jijil](https://open.spotify.com/artist/6XPjgI4sxBVWt01zOZDQWg) | [僕にはなにができるかな](https://open.spotify.com/album/4dnj0B9INT5Zq1KHO2MAtB) | 3:36 | 2022-06-14 | 2022-06-18 |

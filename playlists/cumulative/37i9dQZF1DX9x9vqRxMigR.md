@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: The Milk Carton Kids
 
-486 songs - 1 day 7 hr 43 min
+487 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-02-23 | 2022-04-26 |
 | [Just Pick One](https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Just Pick One](https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU) | 3:01 | 2022-04-25 | 2023-01-25 |
 | [Keep On](https://open.spotify.com/track/5ITo0Il1GL376VHywWD7xr) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Joy](https://open.spotify.com/album/4BT5txfrTsxlXpoRVTx8QX) | 3:59 | 2021-02-23 | 2022-04-26 |
-| [Keep Your Lamps Trimmed and Burning](https://open.spotify.com/track/1P48SL7KyyVQbcLPoW0AvV) | [Danny Glover](https://open.spotify.com/artist/5OTCpfGPEqrf6FPu6WPdA3), [Rev\. Robert B\. Jones Sr.](https://open.spotify.com/artist/0jbRikvi4pqzMDmsg8Hkys) | [Get On Board! Underground Railroad & Civil Rights Freedom Songs, Vol\. 2](https://open.spotify.com/album/5c3wVZMmV0nE4us13kgzDi) | 3:31 | 2023-01-24 |  |
+| [Keep Your Lamps Trimmed and Burning](https://open.spotify.com/track/1P48SL7KyyVQbcLPoW0AvV) | [Danny Glover](https://open.spotify.com/artist/5OTCpfGPEqrf6FPu6WPdA3), [Rev\. Robert B\. Jones Sr.](https://open.spotify.com/artist/0jbRikvi4pqzMDmsg8Hkys) | [Get On Board! Underground Railroad & Civil Rights Freedom Songs, Vol\. 2](https://open.spotify.com/album/5c3wVZMmV0nE4us13kgzDi) | 3:31 | 2023-01-24 | 2023-03-22 |
 | [Keeper](https://open.spotify.com/track/3iFgpSs3JOc1r4Z3cIeMaZ) | [Little Misty](https://open.spotify.com/artist/695A3b4A5eEZx3aKpGZYay) | [Little Misty](https://open.spotify.com/album/7Kcur3ttx8Cj4HpdcBFClK) | 4:07 | 2021-02-23 | 2022-04-26 |
 | [Kites](https://open.spotify.com/track/7xwNdMaP5A8fxaTAwARJ3X) | [House of Waters](https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x) | [Rising](https://open.spotify.com/album/2tfVDWZlGOrAEz4M7tpZfn) | 8:07 | 2022-04-25 | 2023-01-25 |
 | [Knees Up](https://open.spotify.com/track/0w9DLBvg5p0sl16z0Qn8Ry) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Frenzy of the Meeting](https://open.spotify.com/album/1dKru5DafMfAT372Ps1V8R) | 3:27 | 2021-02-23 | 2022-04-26 |
@@ -250,6 +250,7 @@
 | [Let Your Trouble Go](https://open.spotify.com/track/5x15ECFTfUtN2p3XDNNhbs) | [Amelie Patterson](https://open.spotify.com/artist/70HwLe3SnQDZSP3uLtdYoZ) | [Let Your Trouble Go](https://open.spotify.com/album/5glx3j9vPTTfE7SHtaNXLL) | 3:18 | 2021-02-23 | 2022-04-26 |
 | [Lighthouse on Fire](https://open.spotify.com/track/6NgaGp611rQfI5Mzxq3zWA) | [The Black Feathers](https://open.spotify.com/artist/01vSfFIYwtjUe5XqNw6iU7) | [Angel Dust & Cyanide](https://open.spotify.com/album/1Ro95SsejLQoJeX4pOKHIW) | 3:40 | 2023-01-24 |  |
 | [Lights Along Broadway \- Live](https://open.spotify.com/track/4uNDbwHoI6CcoFoy1wcmu8) | [Haymakers](https://open.spotify.com/artist/1V18WbbjyUTYplP65HG6Fh) | [Live at Art Church](https://open.spotify.com/album/6Si9f5MUlGUqhfWqK2TInz) | 3:26 | 2022-04-25 | 2023-01-25 |
+| [Live, Love, Dream](https://open.spotify.com/track/6sabmNl9BO38FVoQb9Ow5Z) | [Kamica King](https://open.spotify.com/artist/001wa87Uc6MZszYtk2LuAk) | [Live, Love, Dream](https://open.spotify.com/album/1nWH3N5fP2i2ciarDtObrB) | 3:11 | 2023-01-24 |  |
 | [Llego el Loco](https://open.spotify.com/track/0EzAJUrbYjquOryNLJRPzB) | [REBOLU](https://open.spotify.com/artist/1yChkcMFYfFt3wttd3R4yi) | [Next Stop](https://open.spotify.com/album/7lo6TZJYT7RShXvLtQ9k0Z) | 3:14 | 2022-04-25 | 2023-01-25 |
 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 | 2023-01-24 |  |
 | [Long Haul](https://open.spotify.com/track/17ZHQjP80Vo1oSkT1dWoBV) | [John Wort Hannam](https://open.spotify.com/artist/4CznJKEwFaOplRHc9tRRBb) | [Long Haul](https://open.spotify.com/album/6lCt6q2RWhd0hr8mcq8dys) | 3:32 | 2022-04-25 | 2023-01-25 |

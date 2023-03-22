@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 105046,
+  "num_followers": 105081,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDlhNWU2NDk5OGY5N2UwYzNhYzlkZTA2ZjA3YTM3MjJj",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDg0MmE1YjE1NjVjMjZlYzFkOTY3MzY1NWZmYWQ3NWQ0",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "Para Ti No",
+        "url": "https://open.spotify.com/album/2V0pmwbM5QL3sbb0tVVDMB"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "duration_ms": 199046,
+      "name": "Para Ti No",
+      "url": "https://open.spotify.com/track/4S6uEOfuwiz7qLBOTd58Nt"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 218823,
       "name": "VAIV\u00c9N",
       "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "Para Ti No",
-        "url": "https://open.spotify.com/album/2V0pmwbM5QL3sbb0tVVDMB"
-      },
-      "artists": [
-        {
-          "name": "ANGEL22",
-          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
-        }
-      ],
-      "duration_ms": 199046,
-      "name": "Para Ti No",
-      "url": "https://open.spotify.com/track/4S6uEOfuwiz7qLBOTd58Nt"
     },
     {
       "added_at": "2023-03-10 21:49:16",

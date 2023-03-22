@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 
 > Best of Bollywood \- All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood Top tracks only on this playlist!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 222,727 likes - 84 songs - 5 hr 15 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 222,787 likes - 84 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 | 83 | [Yaaron](https://open.spotify.com/track/0zFG3RWjka7dNRIRTWnXMN) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 4:28 |
 | 84 | [Cutiepie \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1YOW5pnfikVa6BcCBIOQUU) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Pardeep Singh Sran](https://open.spotify.com/artist/2dnnS3sjCk9OHns6kAYI19), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Cutiepie \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/5ihBJJNvnTaDzEj1i2ACwM) | 3:51 |
 
-Snapshot ID: `NDg4NCw5NDE1ZDliZjk1Y2YwZTk0NWMzNmQ0Njg0ZTcxZTU4YjJlZDE5Yjgx`
+Snapshot ID: `NDg4NSxhMjEzNjkyNjkxZGIwZjEwNjM2NTUwYWNlNTBiNWE2ZDlmNWYzNjQ2`

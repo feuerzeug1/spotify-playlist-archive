@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Bulin 47
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,613 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,841 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 43 | [Calle](https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Calle](https://open.spotify.com/album/69UK8GlVtjwme70scA812r) | 2:32 |
 | 44 | [Mango Piña](https://open.spotify.com/track/3FJoGnTXNXkw5uXIsBfa3a) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Mango Piña](https://open.spotify.com/album/4NJB2jW7tHkuK48W048NrZ) | 2:43 |
 | 45 | [Mio De Que](https://open.spotify.com/track/4ZznoNbEbgNXN8wPHq7nvq) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU) | [Mio De Que](https://open.spotify.com/album/0lNA0Ss0gFKy36ppeuDHYe) | 2:10 |
-| 46 | [Ex Bitch](https://open.spotify.com/track/5w623Ysnx6fYMjy9kvwQCa) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Ex Bitch](https://open.spotify.com/album/3Rum9ECu5BnWte2zshoBWN) | 3:00 |
+| 46 | [Ex Bitch](https://open.spotify.com/track/0L55jSV7viXOP07HNLam1g) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Ex Bitch](https://open.spotify.com/album/6wCOeneaie0CCoCpw53Nvl) | 3:00 |
 | 47 | [Toco Toco To \- Remix](https://open.spotify.com/track/6t5WDx1H74Qqr5kl8kAkj9) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Toco Toco To \(Remix\)](https://open.spotify.com/album/2iXgX55gK4LZF0o0E8odmI) | 3:22 |
 | 48 | [El Toro](https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk) | 2:40 |
 | 49 | [Vamo Pal Bronx](https://open.spotify.com/track/4XionJLw5y7LnHub4cFfyn) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Vamo Pal Bronx](https://open.spotify.com/album/6hyDzX7Q9foXxlxki0M2lL) | 3:11 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 64 | [Bobote \(Remix\)](https://open.spotify.com/track/25l01IhzLGr3nKFOW3z99f) | [El Experimento \(Macgyver\)](https://open.spotify.com/artist/2061nJAmY52Z8zAVjGFkTv), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Sabiduria](https://open.spotify.com/artist/0yHhVZZRkJNbKmWGq8nciC), [Gatillero 23](https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [El Bloonel](https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV), [Yofrangel](https://open.spotify.com/artist/6VLldomvrVfwjvfLdFDq0o) | [Bobote \(Remix\)](https://open.spotify.com/album/4tb3tezrL2j6KHFSoMLjmD) | 6:00 |
 | 65 | [Chivirika](https://open.spotify.com/track/0cGy3K7zTivPgk3iUC91nz) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika](https://open.spotify.com/album/2i858xsBfzp0M9AFJUhXts) | 3:32 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGZmY2Q3ZTQ1Y2ZjNDAxYWM5ZDMwMmJhOTBhZjdiY2Nh`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDEyMjI5NTAwYjg5NzkyZmYyMTQyZWZlZjQ5OTRmYmNl`

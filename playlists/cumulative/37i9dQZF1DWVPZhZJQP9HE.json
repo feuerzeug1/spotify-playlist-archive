@@ -558,7 +558,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 209777,
       "name": "Ananda Yazhinee",
       "url": "https://open.spotify.com/track/6wMmIm1W5V8dGE2JA8cIxY"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 193333,
       "name": "Azhagai Oru Matram",
       "url": "https://open.spotify.com/track/2mHq2tCYbtQ9grc6sMwdGd"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 290117,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv"
@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 178090,
       "name": "Idhan da Life-u",
       "url": "https://open.spotify.com/track/24G2oiRwA28lHKPte7z9qp"
@@ -3347,6 +3347,32 @@
     },
     {
       "album": {
+        "name": "Kettu Paaru",
+        "url": "https://open.spotify.com/album/0LJuolh9yhdltn1kuccEjy"
+      },
+      "artists": [
+        {
+          "name": "Jay Nesh Isuran",
+          "url": "https://open.spotify.com/artist/3q3CPxTgWd1Kb9F4Kdlvb3"
+        },
+        {
+          "name": "DEYO",
+          "url": "https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B"
+        },
+        {
+          "name": "Pavithra Nair",
+          "url": "https://open.spotify.com/artist/1cebDDeYCqk8637xxrqtD2"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Kettu Paaru",
+      "url": "https://open.spotify.com/track/2CwcuF6fNhmTZFFh9dmugx"
+    },
+    {
+      "album": {
         "name": "King Brown (Tamil)",
         "url": "https://open.spotify.com/album/0uy5ieDAs3AnJzx1ZDSub7"
       },
@@ -4050,10 +4076,32 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 195769,
       "name": "Marankothi",
       "url": "https://open.spotify.com/track/4YYQXrV71mmNs1cpznpGZ9"
+    },
+    {
+      "album": {
+        "name": "MASK",
+        "url": "https://open.spotify.com/album/7iFsJLDUjbWvTV4X8pTBEG"
+      },
+      "artists": [
+        {
+          "name": "Srikanth Deva",
+          "url": "https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh"
+        },
+        {
+          "name": "Jainraj Ejoumale",
+          "url": "https://open.spotify.com/artist/6ZeBAWpvO38ifGoym9gy3C"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210289,
+      "name": "MASK",
+      "url": "https://open.spotify.com/track/1zaTR4uLURikYS5TbZpNhH"
     },
     {
       "album": {
@@ -4072,7 +4120,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 235471,
       "name": "Maya Mohini",
       "url": "https://open.spotify.com/track/28vyPvdBUySEwrPZ4wZRHa"
@@ -4492,7 +4540,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 251666,
       "name": "Naangam Kadal Noaku Saalai",
       "url": "https://open.spotify.com/track/2fzax8wSUQhVn9ZkuaaN1x"
@@ -4782,7 +4830,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 210666,
       "name": "Nee Yaara Molae",
       "url": "https://open.spotify.com/track/1luxy3SaDVnirLgkKg11V5"
@@ -7272,7 +7320,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 299997,
       "name": "Travel kadhali",
       "url": "https://open.spotify.com/track/3bDW794lOHUAHO2tcMSiq6"
@@ -7732,7 +7780,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 62677,
       "name": "Vaanam",
       "url": "https://open.spotify.com/track/66ngKz4R3ObPG2O9PuIpo0"
@@ -8112,7 +8160,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 61320,
       "name": "VUTTALE",
       "url": "https://open.spotify.com/track/1Eg03DYnqqtIKfhTGmKnE8"

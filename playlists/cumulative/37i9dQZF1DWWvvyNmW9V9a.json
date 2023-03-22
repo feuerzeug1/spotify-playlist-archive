@@ -9857,6 +9857,24 @@
     },
     {
       "album": {
+        "name": "Rumours (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288786,
+      "name": "Silver Springs - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2Y8BloifAHEn6GproQgPs7"
+    },
+    {
+      "album": {
         "name": "Silver Tongues",
         "url": "https://open.spotify.com/album/1uGtR2fbkl45slG5OyUtPt"
       },

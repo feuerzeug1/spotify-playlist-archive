@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 562219,
+  "num_followers": 562422,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMDhiMjM0NGJmNWI1NGU1ZGQwNjhiOTEzMDFlOWYyNzg4",
+  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMDJlN2JjNzljZTAyMWExYWFlMWU2NWU2NDRkNmJiMTI4",
   "tracks": [
     {
       "added_at": "2023-02-17 14:30:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Altered Destiny",
-        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 185578,
-      "name": "Altered Destiny - Chill Mix",
-      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Kaleidoscope Colours",
         "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 255466,
       "name": "Kaleidoscope Colours",
       "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Altered Destiny",
+        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 185578,
+      "name": "Altered Destiny - Chill Mix",
+      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "duration_ms": 464026,
+      "name": "Between Two Worlds",
+      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
         "name": "Le Funk",
         "url": "https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
-      },
-      "artists": [
-        {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
-        }
-      ],
-      "duration_ms": 464026,
-      "name": "Between Two Worlds",
-      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Roda",
         "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 193064,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "I WON'T STAY",
         "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 193064,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 221966,
       "name": "Silence",
       "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Come Back Around",
-        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 231349,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Lost Generation",
         "url": "https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 163902,
       "name": "Lost Generation - Edit",
       "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Come Back Around",
+        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 231349,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Future Memories",
-        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
-      },
-      "artists": [
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Soundexile",
-          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
-        }
-      ],
-      "duration_ms": 383250,
-      "name": "Teleport - Future Mix",
-      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "What U Doing",
         "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
+        "name": "Future Memories",
+        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Soundexile",
+          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
+        }
+      ],
+      "duration_ms": 383250,
+      "name": "Teleport - Future Mix",
+      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
         "name": "St Claire",
         "url": "https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q"
       },
@@ -1211,6 +1211,26 @@
       "duration_ms": 214337,
       "name": "St Claire",
       "url": "https://open.spotify.com/track/7qrch7xVClA6bB299puPoz"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Love Language (Imad Remix)",
+        "url": "https://open.spotify.com/album/598hbZikyOUZzrVMtZzS1W"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        },
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        }
+      ],
+      "duration_ms": 362928,
+      "name": "Love Language - Imad Remix",
+      "url": "https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1243,26 +1263,6 @@
       "duration_ms": 446079,
       "name": "ut i rommet",
       "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
-        "name": "Love Language (Imad Remix)",
-        "url": "https://open.spotify.com/album/598hbZikyOUZzrVMtZzS1W"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        },
-        {
-          "name": "Imad",
-          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
-        }
-      ],
-      "duration_ms": 362928,
-      "name": "Love Language - Imad Remix",
-      "url": "https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Heavy Tangled",
-        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
-      },
-      "artists": [
-        {
-          "name": "Etur Usheo",
-          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
-        }
-      ],
-      "duration_ms": 460800,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Restless & Wild",
         "url": "https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 403286,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Heavy Tangled",
+        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "duration_ms": 460800,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
     },
     {
       "added_at": "2023-02-17 14:30:00",

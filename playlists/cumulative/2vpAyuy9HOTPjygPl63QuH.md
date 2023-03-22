@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-856 songs - 2 day 1 hr 19 min
+857 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Crowd Go](https://open.spotify.com/track/1qUEgs5vGGo6Ak9yesBSci) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [Crowd Go](https://open.spotify.com/album/7EKASa7zCI7lyVVBnzuwBc) | 3:31 | 2022-05-13 | 2022-05-30 |
 | [Crunk](https://open.spotify.com/track/4wiMZbsTLDkvaNZC3UL2GT) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Crunk](https://open.spotify.com/album/5KWVMGP2OROAfjWgu07uAe) | 3:33 | 2022-07-29 | 2022-08-06 |
 | [Cubano](https://open.spotify.com/track/2CTTeq0JkubszMPpUvQV2W) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Cubano](https://open.spotify.com/album/15Rcfh0CsGiI4tZzYewK65) | 3:06 | 2022-10-14 | 2022-10-29 |
+| [Cyclone](https://open.spotify.com/track/6e2ijg9E7AwR4JWuHI3AhY) | [Needs No Sleep](https://open.spotify.com/artist/5PBIAEdx1voGTUb8apBiEs), [R3WIRE](https://open.spotify.com/artist/7fWHxqQznKDOJeJofEjDcn), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Cyclone](https://open.spotify.com/album/5SdrDyvZPbBLkM7ocSh3pQ) | 2:36 | 2023-03-21 |  |
 | [Cyclone](https://open.spotify.com/track/18FKPZrrJXD5XazGUbQk3T) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Cyclone](https://open.spotify.com/album/0079RGOSVA5NRXfbGF2x4b) | 3:29 | 2023-02-24 | 2023-03-04 |
 | [Cyclonic](https://open.spotify.com/track/1T96RBI4ffJjggfec1KazC) | [Dashi](https://open.spotify.com/artist/6cW18waxZ7bAWuNHbvGfQr) | [Cyclonic](https://open.spotify.com/album/5GqVxJWhnZmmewm9MFEOQe) | 3:31 | 2022-11-05 | 2022-11-12 |
 | [Cúrame](https://open.spotify.com/track/4SCiQ0g7EogKafxuGdcWnd) | [Bryan Softwell](https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf) | [Cúrame](https://open.spotify.com/album/39wcaJFDIF0Fli4hjbetn3) | 4:02 | 2022-11-18 | 2022-11-29 |

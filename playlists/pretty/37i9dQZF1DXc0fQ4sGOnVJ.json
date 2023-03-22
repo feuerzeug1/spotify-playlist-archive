@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 147068,
+  "num_followers": 147079,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDVmZTg5YzBjYmRhY2E2NTQ2NTIzYjczZjJhN2YwZjhh",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGMzOTUxMGVmOTlhZGE2ZjliYzQ1NWQzMDExMDMxNTUw",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -519,8 +519,8 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "The Grind",
-        "url": "https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE"
+        "name": "Still The King",
+        "url": "https://open.spotify.com/album/58yc5Wx0ShmeAsJjParire"
       },
       "artists": [
         {
@@ -530,11 +530,15 @@
         {
           "name": "Young Gunner",
           "url": "https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1"
+        },
+        {
+          "name": "J Rosevelt",
+          "url": "https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj"
         }
       ],
-      "duration_ms": 186261,
-      "name": "Duramax (feat. Young Gunner)",
-      "url": "https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe"
+      "duration_ms": 209058,
+      "name": "Country Made",
+      "url": "https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -591,6 +595,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Dirt Road",
+        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 165041,
+      "name": "Dirt Road",
+      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Calicountry",
         "url": "https://open.spotify.com/album/5LeysSgG4R2gezyQYFWKsv"
       },
@@ -619,22 +639,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Dirt Road",
-        "url": "https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 165041,
-      "name": "Dirt Road",
-      "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/57UcRsgqFNbrjUa1iDmAbv"
       },
@@ -651,8 +655,8 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Still The King",
-        "url": "https://open.spotify.com/album/58yc5Wx0ShmeAsJjParire"
+        "name": "The Grind",
+        "url": "https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE"
       },
       "artists": [
         {
@@ -662,15 +666,11 @@
         {
           "name": "Young Gunner",
           "url": "https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1"
-        },
-        {
-          "name": "J Rosevelt",
-          "url": "https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj"
         }
       ],
-      "duration_ms": 209058,
-      "name": "Country Made",
-      "url": "https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE"
+      "duration_ms": 186261,
+      "name": "Duramax (feat. Young Gunner)",
+      "url": "https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Slow Cookin' & Soul Food: The 2 Piece Combo",
-        "url": "https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC"
+        "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
+        "url": "https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd"
       },
       "artists": [
         {
-          "name": "Willie Jones",
-          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+          "name": "DJ Paul",
+          "url": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
         }
       ],
-      "duration_ms": 208189,
-      "name": "Slow Cookin'",
-      "url": "https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX"
+      "duration_ms": 210305,
+      "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
+      "url": "https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
-        "url": "https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd"
+        "name": "Slow Cookin' & Soul Food: The 2 Piece Combo",
+        "url": "https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC"
       },
       "artists": [
         {
-          "name": "DJ Paul",
-          "url": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc"
-        },
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
         }
       ],
-      "duration_ms": 210305,
-      "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
-      "url": "https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru"
+      "duration_ms": 208189,
+      "name": "Slow Cookin'",
+      "url": "https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Redneck Rich",
+        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
+      },
+      "artists": [
+        {
+          "name": "Cody Parks and The Dirty South",
+          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
+        }
+      ],
+      "duration_ms": 282462,
+      "name": "Redneck Rich",
+      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Lethal",
         "url": "https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci"
       },
@@ -1351,38 +1367,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Redneck Rich",
-        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
+        "name": "Urban Cowboy (Where the City Meets the Country)",
+        "url": "https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf"
       },
       "artists": [
         {
-          "name": "Cody Parks and The Dirty South",
-          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
+          "name": "The Maverick Mikel Knight",
+          "url": "https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg"
         }
       ],
-      "duration_ms": 282462,
-      "name": "Redneck Rich",
-      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Country or Not",
-        "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
-      },
-      "artists": [
-        {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        },
-        {
-          "name": "DJ Cliffy D",
-          "url": "https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "Country or Not",
-      "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
+      "duration_ms": 278388,
+      "name": "Cowboy Way",
+      "url": "https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1403,18 +1399,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Urban Cowboy (Where the City Meets the Country)",
-        "url": "https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf"
+        "name": "Country or Not",
+        "url": "https://open.spotify.com/album/5LMGybLSOAs73pIvUTebbc"
       },
       "artists": [
         {
-          "name": "The Maverick Mikel Knight",
-          "url": "https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg"
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "DJ Cliffy D",
+          "url": "https://open.spotify.com/artist/7oClwfAmFyiRWSCkdOU71P"
         }
       ],
-      "duration_ms": 278388,
-      "name": "Cowboy Way",
-      "url": "https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC"
+      "duration_ms": 174600,
+      "name": "Country or Not",
+      "url": "https://open.spotify.com/track/3e0p5d45BgBSUXbxQx643y"
     },
     {
       "added_at": "2023-03-10 05:00:00",

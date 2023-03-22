@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-188 songs - 12 hr 10 min
+190 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,8 @@
 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 | 2022-07-05 | 2022-10-31 |
 | [Morning Matters](https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk) | 4:06 | 2022-07-05 | 2022-07-29 |
 | [Most Frail](https://open.spotify.com/track/7BFQCo02VhtA6XsGlBt4xF) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Most Frail](https://open.spotify.com/album/0Ie3jkL5fph5PNjnhl1UR4) | 3:31 | 2022-09-30 |  |
+| [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 | 2023-03-21 |  |
+| [My Home](https://open.spotify.com/track/5IBOIoEsmORmCHhHUJa5qr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [coin collection](https://open.spotify.com/album/0x5PxA5MaxH53b2eK8wGVp) | 3:50 | 2023-03-21 |  |
 | [My Love \- Instrumental](https://open.spotify.com/track/474Of6PUt0haIv7EcMiY49) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape \(Instrumentals\)](https://open.spotify.com/album/4DnBy4kgFErWfGn8mDUBr0) | 3:48 | 2022-10-30 |  |
 | [Neon Noir](https://open.spotify.com/track/36YNheAQ0FKZ4I9qaYIY6P) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [Neon Noir](https://open.spotify.com/album/5dQ3Erj2BjGL1XjCL9PS5i) | 4:40 | 2021-12-13 | 2022-04-29 |
 | [New Day \(Otis Parham\)](https://open.spotify.com/track/4Za8yDzEhc8uZMBQRkiaGr) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [New Day \(Otis Parham\)](https://open.spotify.com/album/03ytEPT6foahNKKrJMoGgm) | 3:15 | 2021-12-13 | 2022-10-01 |

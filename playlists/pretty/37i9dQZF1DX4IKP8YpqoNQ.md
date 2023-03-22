@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,255 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,270 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 66 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Life on Planet Groove](https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7) | 3:45 |
 | 67 | [The Ghetto \- Live](https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Weekend in London \(Live\)](https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD) | 6:14 |
 | 68 | [People Get Ready \- Live at The Bitter End, NYC](https://open.spotify.com/track/5fN60U114jgzi8TfhIDcpK) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis Live! \(US Release\)](https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp) | 3:47 |
-| 69 | [Grow \- Live](https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow \(Live\)](https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL) | 3:02 |
-| 70 | [The World \(Is Going Up in Flames\) \- Live From Spotify House SXSW '16](https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk) | 3:11 |
-| 71 | [Family \- Live at Metropolis Studios](https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Metropolis Studios](https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC) | 3:30 |
+| 69 | [Family \- Live at Metropolis Studios](https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Metropolis Studios](https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC) | 3:30 |
+| 70 | [Grow \- Live](https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow \(Live\)](https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL) | 3:02 |
+| 71 | [The World \(Is Going Up in Flames\) \- Live From Spotify House SXSW '16](https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk) | 3:11 |
 | 72 | [Let's Get It On \- Live At The London Palladium/1976](https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live At The London Palladium](https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU) | 6:21 |
 | 73 | [Black Man In A White World \- Live From Spotify London](https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Spotify Sessions](https://open.spotify.com/album/1izqfeako1qgYLviORVoDT) | 7:49 |
 | 74 | [I Keep Forgettin' \- Live](https://open.spotify.com/track/3lLdweMPFav5srRwselDyG) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Live on Soundstage](https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE) | 4:33 |
 | 75 | [Lady \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 8:59 |
 | 76 | [You Can't See for Lookin' \- Live](https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [Betty Wright Live](https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu) | 5:48 |
 | 77 | [I Wish I Knew How It Would Feel to Be Free \- Live – Montreux Jazz Festival 1976](https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Wish I Knew How It Would Feel to Be Free \(Live – Montreux Jazz Festival 1976\)](https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm) | 6:07 |
-| 78 | [I Plan to Stay a Believer \- Live at The Bitter End, NYC](https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis Live! \(US Release\)](https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp) | 3:16 |
-| 79 | [I'd Rather Go Blind](https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Live From San Francisco](https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn) | 4:55 |
+| 78 | [I'd Rather Go Blind](https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Live From San Francisco](https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn) | 4:55 |
+| 79 | [I Plan to Stay a Believer \- Live at The Bitter End, NYC](https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis Live! \(US Release\)](https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp) | 3:16 |
 | 80 | [\(Sitting On\) The Dock Of The Bay \- Live](https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Live At Montreux 2006 \(Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006\)](https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45) | 2:15 |
 | 81 | [Cruisin' \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 6:38 |
 | 82 | [I Love You More Than You'll Ever Know \- Live at the Bitter End, New York City, 1971](https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [These Songs for You, Live!](https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY) | 5:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [You're Gonna Miss Your Candy Man \- Live](https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [Alive \(Live At the Jazz Cafe, London\)](https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie) | 6:53 |
 | 100 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 |
 
-Snapshot ID: `MTY3MzI2OTc4NCwwMDAwMDAwMGFhYTQwYmMzNWYzNzEwNzc2MGEzNDI4M2FkYjJkMzBk`
+Snapshot ID: `MTY3MzI2OTc4NCwwMDAwMDAwMDY4NzdhNDViZjRmMzQ2OWFlOGJiODhlNmFkOTllY2Y4`

@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Edwin Rosen Vertigo (Academic Remix)",
+        "url": "https://open.spotify.com/album/5G18wJMs69jln4Aw8ZpAFb"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/5P7LNVuQRN9Ath8svUaUnV"
+        },
+        {
+          "name": "Academic",
+          "url": "https://open.spotify.com/artist/2sUryncO3HHMUDslIciLZk"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Edwin Rosen Vertigo - Academic Remix",
+      "url": "https://open.spotify.com/track/7960s9wdbpgSwGFg2SxHtj"
+    },
+    {
+      "album": {
         "name": "Enter The Dragon (Are You Up?)",
         "url": "https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A"
       },
@@ -416,6 +438,28 @@
       "duration_ms": 182409,
       "name": "Jet Plane",
       "url": "https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j"
+    },
+    {
+      "album": {
+        "name": "Keine Liebe, Kein Rave",
+        "url": "https://open.spotify.com/album/2iL5gzdjVQsTsUI7i8KxDq"
+      },
+      "artists": [
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Kiki Solvej",
+          "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260250,
+      "name": "Keine Liebe, Kein Rave",
+      "url": "https://open.spotify.com/track/0UkGdrKm6PaVCxTwPzP2xX"
     },
     {
       "album": {
@@ -686,7 +730,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 344166,
       "name": "Power 2 Tha People",
       "url": "https://open.spotify.com/track/7aftORj0cBJ8cDgEL6VmLs"
@@ -798,7 +842,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 135732,
       "name": "SUV",
       "url": "https://open.spotify.com/track/0MuCieDCcqRjiIdwPtHsYM"

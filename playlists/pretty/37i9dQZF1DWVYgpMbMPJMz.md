@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Shane & Shane
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,695 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,803 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 23 | [Holy \- Live](https://open.spotify.com/track/3gzb78asf6noEszQfOonE0) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Holy \(Live\)](https://open.spotify.com/album/50ZKp6KCrsdai2GqeDGFVq) | 5:31 |
 | 24 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/6NXh3bYzUABYU2HEneRbMC) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 4:56 |
 | 25 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 |
-| 26 | [I Believe \- Live At Shepard Church](https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [I Believe \(Live At Shepherd Church\)](https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q) | 4:46 |
+| 26 | [I Believe \- Live At Shepherd Church](https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [I Believe \(Live At Shepherd Church\)](https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q) | 4:46 |
 | 27 | [Greater Than It All \- Live](https://open.spotify.com/track/4Vqvuy5Z4Lhn5wdqFDpTjx) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Greater Than It All \(Live\)](https://open.spotify.com/album/0beZjVg2wi1FiDYA7abeFe) | 4:52 |
 | 28 | [This Is How I Thank The Lord \(feat\. Cody Carnes, Amanda Cook, Joe L Barnes\)](https://open.spotify.com/track/2t8f07knCNSY19avq19l1R) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Thanks](https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML) | 3:41 |
 | 29 | [Nothing Is Impossible \- Live In Manila](https://open.spotify.com/track/5sdeswrsYUIMTyYoOwc7jS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Nothing Is Impossible \(Live In Manila\)](https://open.spotify.com/album/7mKROIDACa2Tf6IB123KKd) | 4:23 |

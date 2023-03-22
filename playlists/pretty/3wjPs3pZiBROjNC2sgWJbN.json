@@ -1,13 +1,49 @@
 {
   "description": "A collection of R&amp;B jams and viral trends feat Rihanna, Mary J. Blige &amp; Diddy ! Cover: Coco Jones",
-  "num_followers": 8103,
+  "num_followers": 8102,
   "original_name": "Top Trending: R&B / Soul",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MTk2NSw4ZjBmOWIwMDZkNzhlYmM3MTNmM2QwYzRlZWUzZjVmZjgwNmQ0NDQ5",
+  "snapshot_id": "MTk4MywwMmNhZmM0MTZiZTQ4MWVmYTJiOWZkYWE1M2QyNjlhNjNkMDY4MzFl",
   "tracks": [
+    {
+      "added_at": "2023-03-21 05:11:16",
+      "album": {
+        "name": "The Hurtbook (Homegirl Pack)",
+        "url": "https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193781,
+      "name": "So Be It (with Summer Walker) - Remix",
+      "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
+    },
+    {
+      "added_at": "2023-02-27 17:51:59",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
     {
       "added_at": "2023-02-27 17:51:59",
       "album": {
@@ -49,23 +85,7 @@
       "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
     },
     {
-      "added_at": "2023-02-27 17:51:59",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
-    },
-    {
-      "added_at": "2023-02-27 17:51:59",
+      "added_at": "2023-03-21 05:12:27",
       "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
         "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
@@ -76,9 +96,25 @@
           "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 195816,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/2IaaHpZqoU7WTug6UXlR0f"
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
+      "added_at": "2023-03-21 05:13:54",
+      "album": {
+        "name": "Songs for Women, Free Game for Niggas - EP",
+        "url": "https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
       "added_at": "2023-02-27 17:51:59",
@@ -273,6 +309,22 @@
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
+      "added_at": "2023-03-21 05:13:09",
+      "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
+    },
+    {
       "added_at": "2023-02-27 17:51:59",
       "album": {
         "name": "Tell Me It's Over",
@@ -327,6 +379,22 @@
       "duration_ms": 229674,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/227BnZAC6IhqmGh53dOaVd"
+    },
+    {
+      "added_at": "2023-03-21 05:08:38",
+      "album": {
+        "name": "Kick It",
+        "url": "https://open.spotify.com/album/5xSb2h66HSFaUIbxy1ZHQP"
+      },
+      "artists": [
+        {
+          "name": "XLOVCLO",
+          "url": "https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si"
+        }
+      ],
+      "duration_ms": 137697,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/1R7X4yKb68fyK54K2J7RJI"
     },
     {
       "added_at": "2023-02-27 17:51:59",
@@ -435,22 +503,6 @@
     {
       "added_at": "2023-02-27 17:51:59",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG"
-    },
-    {
-      "added_at": "2023-02-27 17:51:59",
-      "album": {
         "name": "Caliber",
         "url": "https://open.spotify.com/album/0zwvnPJUZqs4nlSieXuM8X"
       },
@@ -479,30 +531,6 @@
       "duration_ms": 254319,
       "name": "PLASTIC OFF THE SOFA",
       "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
-    },
-    {
-      "added_at": "2023-02-27 17:51:59",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 234498,
-      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
     },
     {
       "added_at": "2023-02-27 17:51:59",
@@ -551,46 +579,6 @@
       "duration_ms": 219786,
       "name": "Roster",
       "url": "https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH"
-    },
-    {
-      "added_at": "2023-02-27 17:51:59",
-      "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "I Was Never There",
-      "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
-    },
-    {
-      "added_at": "2023-02-27 17:51:59",
-      "album": {
-        "name": "Hello Poison",
-        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
-      },
-      "artists": [
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 145141,
-      "name": "What It Is (feat. Ari Lennox)",
-      "url": "https://open.spotify.com/track/4tUEHNvFibqNk0No4s7q6v"
     },
     {
       "added_at": "2023-02-27 17:51:59",
@@ -675,22 +663,6 @@
       "duration_ms": 229884,
       "name": "Rent Money (feat. Dave East)",
       "url": "https://open.spotify.com/track/31GVq6oNgcw67sXJtlvfRp"
-    },
-    {
-      "added_at": "2023-02-27 17:51:59",
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "DFMU",
-      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
     },
     {
       "added_at": "2023-02-27 17:51:59",
@@ -883,22 +855,6 @@
       "duration_ms": 317890,
       "name": "At Your Best (You Are Love) - Spotify Singles",
       "url": "https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8"
-    },
-    {
-      "added_at": "2023-02-27 17:51:59",
-      "album": {
-        "name": "Parked Car Convos",
-        "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
-      },
-      "artists": [
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 148640,
-      "name": "Love Songs - Bonus",
-      "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
     },
     {
       "added_at": "2023-02-27 17:51:59",

@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية اليوم🤩 الغلاف: زاب ثروت، ساري هاني، هادز و امير عيد
+> أحدث الأغاني المصرية اليوم🤩 الغلاف: على لوكا
 
-375 songs - 21 hr 55 min
+376 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Ana Roht Minnak](https://open.spotify.com/track/1rPbqAS7xqPrP66daAl0F6) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ana Roht Minnak](https://open.spotify.com/album/4xiu6m1dJJJkMA8swxn8Ig) | 4:03 | 2021-12-23 | 2021-12-30 |
 | [Ana Zaaley](https://open.spotify.com/track/6xEKHNsrF6WS7brxCrG8Qg) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW), [Fakharany](https://open.spotify.com/artist/73817y8suKDLnuLrUTRrp2) | [Ana Zaaley](https://open.spotify.com/album/3ZQagMTgeXBzQ9gySyr0Tg) | 4:01 | 2021-12-23 | 2022-03-04 |
 | [Arosty](https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Arosty](https://open.spotify.com/album/2pXOewtgNtWSCuoZz98TCG) | 3:10 | 2021-12-23 | 2021-12-30 |
+| [Asrar](https://open.spotify.com/track/17kMbUwpSIdXdLUe70XHps) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Asrar](https://open.spotify.com/album/79LLrOm3su0LwbV2JGkMlt) | 3:19 | 2023-03-21 |  |
 | [Awel Gawla](https://open.spotify.com/track/1l4MnoTcwYZN2yUpd7Wwuy) | [Sedawy](https://open.spotify.com/artist/317hp6Z5h0o05KwsqXk9tR) | [Awel Gawla](https://open.spotify.com/album/6jBiGjq1Ojvao2sh1orMRB) | 3:18 | 2023-03-07 |  |
 | [B3edt](https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [B3edt](https://open.spotify.com/album/4HATYluFrW4xQFt6pLMlbR) | 2:04 | 2022-04-28 | 2022-08-09 |
 | [Ba2eit Ghareeb](https://open.spotify.com/track/4h6PHa9gi5gH35AP4Pll1u) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Ba2eit Ghareeb](https://open.spotify.com/album/1mlnwGPLhtTHhYGI1mpmkG) | 3:18 | 2022-11-24 | 2023-02-03 |
@@ -199,7 +200,7 @@
 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 | 2022-03-14 | 2022-07-08 |
 | [Mabhtmesh](https://open.spotify.com/track/442OhScPDEPFjZ2Hou2j7S) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabhtmesh](https://open.spotify.com/album/6UVU26B9pUXpcrwD7i4GbD) | 3:32 | 2022-05-03 | 2022-08-13 |
 | [Magash Mennek](https://open.spotify.com/track/7jTV5xzP8f252w6xS6isRv) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Magash Mennek](https://open.spotify.com/album/5ut1qAv97kxgJcnR1XbnMN) | 3:26 | 2022-11-24 | 2023-02-03 |
-| [Makhnou'](https://open.spotify.com/track/5v0c54YIy1sEGpAPAilaj3) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Makhnou'](https://open.spotify.com/album/2H50AlmXBg5c0dSRYl3aJH) | 3:34 | 2023-02-09 |  |
+| [Makhnou'](https://open.spotify.com/track/5v0c54YIy1sEGpAPAilaj3) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Makhnou'](https://open.spotify.com/album/2H50AlmXBg5c0dSRYl3aJH) | 3:34 | 2023-02-09 | 2023-03-22 |
 | [Malak](https://open.spotify.com/track/6Ghgn3JIGwJq3H9SuTCikZ) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:00 | 2022-01-20 | 2022-04-08 |
 | [Malamhe](https://open.spotify.com/track/4xb4C74lJKFSr0UaD3z4K7) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [Malamhe](https://open.spotify.com/album/2HABaYD6SD8pe3E8KAqTX0) | 3:46 | 2023-02-16 |  |
 | [Maleket El Helwen](https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Maleket El Helwen](https://open.spotify.com/album/34e97XGQaJKS80MfqFS1y7) | 3:38 | 2021-12-23 | 2022-01-21 |

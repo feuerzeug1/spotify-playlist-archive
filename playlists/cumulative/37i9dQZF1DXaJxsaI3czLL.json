@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 243846,
       "name": "Apartment",
       "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "\u5929\u4f7f\u3082\u60aa\u9b54\u3082 / The Only",
+        "url": "https://open.spotify.com/album/6zoeqwoyAmNN0TV9cIZrzJ"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Inoue",
+          "url": "https://open.spotify.com/artist/0WgVF1Mknyhy5PjTOKmolM"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375866,
+      "name": "The Only",
+      "url": "https://open.spotify.com/track/73MYkkIHGjN2tNmSH7xe0z"
+    },
+    {
+      "album": {
         "name": "Through The Deep - EP",
         "url": "https://open.spotify.com/album/3mBVZsyITr12QIAg9n0jlV"
       },
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 280786,
       "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
       "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
@@ -2518,6 +2536,24 @@
       "duration_ms": 327191,
       "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e3\u30b9\u30df\u30f3 (acoustic)",
+        "url": "https://open.spotify.com/album/6vmGYKrUNOS7QikeMZWcYR"
+      },
+      "artists": [
+        {
+          "name": "molly",
+          "url": "https://open.spotify.com/artist/7gWcKdcutmkQ3igGkCuvh0"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207898,
+      "name": "\u30b8\u30e3\u30b9\u30df\u30f3 - acoustic",
+      "url": "https://open.spotify.com/track/0oCl0h4n5kk5gBesSec2XD"
     },
     {
       "album": {
@@ -3380,7 +3416,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 466758,
       "name": "\u808c\u8272",
       "url": "https://open.spotify.com/track/2YfbnRGevaN759T1DSGvxB"

@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-212 songs - 15 hr 28 min
+213 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Next 2 U \-eUC\-](https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Nanami](https://open.spotify.com/artist/1B0hK1UH1rFBFhjjdCXjYB) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:04 | 2022-10-01 |  |
 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1auy1PkfwF6yCplcdhd8NK) | [SawanoHiroyuki\[nZk\]:naNami](https://open.spotify.com/artist/2EAfowJhmEii7OUOa44fAk) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 4:04 | 2022-07-27 | 2022-07-29 |
 | [NO LIMITS ∞](https://open.spotify.com/track/35iykIkD4aX3MpYPpZ0MAm) | [Taja](https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE) | [NO LIMITS ∞](https://open.spotify.com/album/0fxlluOSZtzjNUo7EcUtyF) | 4:33 | 2022-07-27 |  |
+| [Overture](https://open.spotify.com/track/6lO0AqVVEssuoRioBi4dYt) | [Ryota Nozaki](https://open.spotify.com/artist/4dFNO8mIQosWKc3W8Ntme6) | [Mobile Suit Gundam U.C\. Engage Original Motion Picture Soundtrack 2](https://open.spotify.com/album/00pVzhIlsu7gs6ZvtVhyFv) | 3:14 | 2023-03-21 |  |
 | [Planet Zone](https://open.spotify.com/track/1AzDqUGSBTzexgNzzZjg0t) | [結城梨沙](https://open.spotify.com/artist/4dE7mnDgdYAsXY4X9jfoPA) | [Planet Zone](https://open.spotify.com/album/3Km6CvcGjkq6BybVypKQGB) | 4:04 | 2022-07-27 |  |
 | [Prototype](https://open.spotify.com/track/6cyvDIi8JNadYK9RDeHK6O) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [Prototype](https://open.spotify.com/album/4ddgTus7mYgqCchdjmgNPo) | 5:44 | 2022-07-27 |  |
 | [RAGE OF DUST](https://open.spotify.com/track/32THUNL57330TYg9eBkLAX) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/5UM3PN38AoAxvvoB3hui0b) | 3:22 | 2022-07-27 | 2022-07-29 |

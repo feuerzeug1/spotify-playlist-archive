@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-216 songs - 13 hr 5 min
+217 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,13 +58,14 @@
 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 | 2022-07-06 |  |
 | [Daydreaming](https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:19 | 2022-07-06 |  |
 | [Diamond \(feat\. Jacob Hemphill of SOJA\)](https://open.spotify.com/track/6avDdJ8d5pgDg53f40kTHy) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Diamond \(feat\. Jacob Hemphill of SOJA\)](https://open.spotify.com/album/4uYwzEszNBV2a5pdaquiCP) | 4:13 | 2022-02-04 | 2022-02-07 |
+| [Digital Heaven](https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw) | [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV) | [Effection](https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU) | 3:29 | 2023-02-24 |  |
 | [DJs](https://open.spotify.com/track/53jbCI3T7Enf0ts76ySNYn) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [DJs](https://open.spotify.com/album/7xMJkHig1DBtwA6um5ltM1) | 3:24 | 2021-12-10 | 2022-07-29 |
 | [Down With You](https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT) | 3:30 | 2022-08-05 | 2022-11-12 |
 | [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 | 2022-09-30 |  |
 | [Drifting In Out of Time](https://open.spotify.com/track/1P69oceVUgEEKO5TBKM7kn) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:15 | 2021-12-10 |  |
 | [Earthquake Weather](https://open.spotify.com/track/5E4fq3FNmrqj9pQlD4zbrt) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Earthquake Weather](https://open.spotify.com/album/4nzGzHJW8frtilga4igCH4) | 3:25 | 2021-12-10 | 2022-07-29 |
 | [Edge of the Ocean](https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Edge of the Ocean](https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1) | 4:55 | 2022-08-15 |  |
-| [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 | 2021-12-10 |  |
+| [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 | 2021-12-10 | 2023-03-22 |
 | [Everyday People \(Remix with B\-Real & G.Love\)](https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Everyday People \(Remix with B\-Real & G\. Love\)](https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz) | 3:45 | 2021-12-10 |  |
 | [Fade Away](https://open.spotify.com/track/6dawVZplfCunQlfVHYCgKa) | [Arise Roots](https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH) | [Fade Away](https://open.spotify.com/album/7jYy1Ueym5wdvKx6BLAjEx) | 4:59 | 2021-12-10 | 2022-07-29 |
 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 | 2022-02-04 |  |

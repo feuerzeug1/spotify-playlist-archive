@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 277845,
+  "num_followers": 277921,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDI0MDc4MywwMDAwMDAwMDAzZTY5NmYxYmRkYzcwZWJhZGM5NTA5MzM1NmRkYWY1",
+  "snapshot_id": "MTY3NDI0MDc4MywwMDAwMDAwMGQ5MDQyMjUyODEyMzZjZDllNTdkZWZhYzU5Y2Q5ZTZk",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Space Between Us",
         "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 239360,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Twin Heavy",
+        "url": "https://open.spotify.com/album/7scLEhIuAJaCp6qUhQqLAy"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 227681,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0mNRaUObyWNDQmCkeKhivy"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Twin Heavy",
-        "url": "https://open.spotify.com/album/7scLEhIuAJaCp6qUhQqLAy"
+        "name": "What Are You so Afraid Of",
+        "url": "https://open.spotify.com/album/3MZSEI7ImutXhDjC7kS7T4"
       },
       "artists": [
         {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
         }
       ],
-      "duration_ms": 227681,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0mNRaUObyWNDQmCkeKhivy"
+      "duration_ms": 147573,
+      "name": "What Are You so Afraid Of",
+      "url": "https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -827,22 +843,6 @@
       "duration_ms": 242943,
       "name": "Is This Where It Ends",
       "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "What Are You so Afraid Of",
-        "url": "https://open.spotify.com/album/3MZSEI7ImutXhDjC7kS7T4"
-      },
-      "artists": [
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 147573,
-      "name": "What Are You so Afraid Of",
-      "url": "https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "What We Left Behind",
         "url": "https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 235462,
       "name": "What We Left Behind",
       "url": "https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 195225,
-      "name": "Picnic In The Rain",
-      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Mahjong Room",
         "url": "https://open.spotify.com/album/1NDsNOHUuoVEHUdPIYf46e"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 174874,
       "name": "Two Step",
       "url": "https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 195225,
+      "name": "Picnic In The Rain",
+      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Leviosa",
-        "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
-      },
-      "artists": [
-        {
-          "name": "Reymour",
-          "url": "https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi"
-        }
-      ],
-      "duration_ms": 196985,
-      "name": "De ma Tour",
-      "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "monochrome blue",
         "url": "https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 256403,
       "name": "come over x",
       "url": "https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Leviosa",
+        "url": "https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3"
+      },
+      "artists": [
+        {
+          "name": "Reymour",
+          "url": "https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi"
+        }
+      ],
+      "duration_ms": 196985,
+      "name": "De ma Tour",
+      "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE"
-      },
-      "artists": [
-        {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
-        }
-      ],
-      "duration_ms": 239260,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Irrational",
         "url": "https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE"
       },
       "artists": [
         {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
         }
       ],
-      "duration_ms": 235653,
-      "name": "The Dark",
-      "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
+      "duration_ms": 239260,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "The Dark",
+      "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Sentimiento Mundial",
         "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
+        "name": "The Heart",
+        "url": "https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD"
       },
       "artists": [
         {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
         }
       ],
-      "duration_ms": 100500,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
+      "duration_ms": 277492,
+      "name": "The Heart",
+      "url": "https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd"
     }
   ],
   "unique_name": "Dreampop",

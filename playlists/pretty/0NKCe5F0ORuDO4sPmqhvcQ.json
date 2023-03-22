@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21068,
+  "num_followers": 21067,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAyNDcsMGE4YWFkZDJhMTlhNjFhYjBiNDFkNTRiN2VkNGU0ODVhOTIxYTgyNg==",
+  "snapshot_id": "MTAyNDksNjJiMmEwYWZlZmZmMjAwNzQwNDNlYWEwNjk2MjAyZTAwNmI3NjkyYQ==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -2583,6 +2583,38 @@
       "duration_ms": 145872,
       "name": "In My Room (feat. SHELLS)",
       "url": "https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy"
+    },
+    {
+      "added_at": "2023-03-21 17:23:36",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/12mtnd8EWS3IN6ORdX99yy"
+      },
+      "artists": [
+        {
+          "name": "ZUSO",
+          "url": "https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee"
+        }
+      ],
+      "duration_ms": 285714,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/53WYJw5FaSCUOzmQar0Jdy"
+    },
+    {
+      "added_at": "2023-03-21 17:23:47",
+      "album": {
+        "name": "It's Very Loud",
+        "url": "https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 380173,
+      "name": "It's Very Loud",
+      "url": "https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl"
     }
   ],
   "unique_name": "Moving Castle Monthly",

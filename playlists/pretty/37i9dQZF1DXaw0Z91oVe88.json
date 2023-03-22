@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2370,
+  "num_followers": 2374,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNTA4MywwMDAwMDAwMDBiMjUwN2FkOTNlYmY2ODc5ZDIyNTZkOTczMGYzYzhi",
+  "snapshot_id": "MTY3NzIzNTA4MywwMDAwMDAwMGNiOWM2OTJiN2I5NTQ2MjIwMzk3NzRkOTdiNjlmZmMz",
   "tracks": [
     {
       "added_at": "2023-02-16 06:45:07",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
+        "name": "ETERNITY",
+        "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
+      },
+      "artists": [
+        {
+          "name": "msftz",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "2080",
+      "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
+    },
+    {
+      "added_at": "2023-02-16 06:45:07",
+      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 218886,
       "name": "Whatever You Do",
       "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
-    },
-    {
-      "added_at": "2023-02-16 06:45:07",
-      "album": {
-        "name": "ETERNITY",
-        "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
-      },
-      "artists": [
-        {
-          "name": "msftz",
-          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "2080",
-      "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
     },
     {
       "added_at": "2023-02-16 06:45:07",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
-        "name": "How many nights should far away more",
-        "url": "https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc"
+        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
       },
       "artists": [
         {
-          "name": "Shin Sae Byeok",
-          "url": "https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0"
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
         }
       ],
-      "duration_ms": 226240,
-      "name": "How many nights should far away more",
-      "url": "https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX"
+      "duration_ms": 254186,
+      "name": "I Will Remember You",
+      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
     },
     {
       "added_at": "2023-02-16 06:45:07",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
-        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
+        "name": "How many nights should far away more",
+        "url": "https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc"
       },
       "artists": [
         {
-          "name": "Hwang Inhyeock",
-          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
+          "name": "Shin Sae Byeok",
+          "url": "https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0"
         }
       ],
-      "duration_ms": 254186,
-      "name": "I Will Remember You",
-      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
+      "duration_ms": 226240,
+      "name": "How many nights should far away more",
+      "url": "https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX"
     },
     {
       "added_at": "2023-02-16 06:45:07",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 218902,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71"
+    },
+    {
+      "added_at": "2023-02-16 06:45:07",
+      "album": {
         "name": "New Edition 42",
         "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 164288,
       "name": "Eunha Store (feat. KIM YUNA)",
       "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
-    },
-    {
-      "added_at": "2023-02-16 06:45:07",
-      "album": {
-        "name": "#TUSM",
-        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
-      },
-      "artists": [
-        {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
-        }
-      ],
-      "duration_ms": 218902,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71"
     },
     {
       "added_at": "2023-02-16 06:45:07",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
-      },
-      "artists": [
-        {
-          "name": "Highlight",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5"
-    },
-    {
-      "added_at": "2023-02-16 06:45:07",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 116000,
       "name": "Go Your Way",
       "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
+    },
+    {
+      "added_at": "2023-02-16 06:45:07",
+      "album": {
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+      },
+      "artists": [
+        {
+          "name": "Highlight",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5"
     }
   ],
   "unique_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",

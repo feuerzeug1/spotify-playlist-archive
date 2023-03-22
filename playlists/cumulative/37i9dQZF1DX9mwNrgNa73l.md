@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-124 songs - 14 hr 12 min
+125 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Noor E Khuda](https://open.spotify.com/track/0tY8ZIArzjkH6dbXp42ohg) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa) | 6:37 | 2022-06-21 | 2022-07-29 |
 | [Noor E Khuda](https://open.spotify.com/track/1hYGGAiBaKuBgkoMZC5Kpu) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Shah Rukh Khan \- Raja of Bollywood](https://open.spotify.com/album/24QRpt2JtTr76etVIutFMV) | 6:37 | 2022-11-02 | 2022-11-13 |
 | [O Rangrez](https://open.spotify.com/track/5JCDVLwteSXuwVqjCa7SwH) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Yusuf Mohammed](https://open.spotify.com/artist/5XWfOrZhMMjoBTKcAgtFxe), [Vajid Ali](https://open.spotify.com/artist/3cXNzZYIOUpv22w4iJm42t) | [Bhaag Milkha Bhaag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4) | 6:25 | 2022-08-02 |  |
-| [O Rangreza \- From "O Rangreza"](https://open.spotify.com/track/63Tdaqeaw7WeVkugjAkMux) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [O Rangreza \(From "O Rangreza"\)](https://open.spotify.com/album/5n5z6itVAu9lUsiYUmVa0C) | 5:47 | 2022-08-02 |  |
+| [O Rangreza \- From "O Rangreza"](https://open.spotify.com/track/3OHfSWHE954xKXEVULHml1) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [O Rangreza \(From "O Rangreza"\)](https://open.spotify.com/album/3AKfx3LjRXSRlS4r9OwA88) | 5:47 | 2023-03-16 |  |
+| [O Rangreza \- From "O Rangreza"](https://open.spotify.com/track/63Tdaqeaw7WeVkugjAkMux) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [O Rangreza \(From "O Rangreza"\)](https://open.spotify.com/album/5n5z6itVAu9lUsiYUmVa0C) | 5:47 | 2022-08-02 | 2023-03-22 |
 | [O Re](https://open.spotify.com/track/4AHvMLWvuGZn62sCpFEtj7) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 5:21 | 2022-08-02 |  |
 | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv) | 11:06 | 2022-08-02 |  |
 | [Pardadari](https://open.spotify.com/track/0avkBFSFOWyZVfccT2u3Ag) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Pardadari](https://open.spotify.com/album/2bfwHKbSwfUFeMVGY1Fb4n) | 6:01 | 2022-06-21 |  |

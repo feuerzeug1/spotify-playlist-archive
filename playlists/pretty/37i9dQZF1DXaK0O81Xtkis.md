@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Walk Off The Earth
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,711 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,731 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 21 | [Fine Lines](https://open.spotify.com/track/6adCqDwVKcdXK8f4JHkOfo) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Fine Lines](https://open.spotify.com/album/7oHo3runeV3nHPtjOy4uK3) | 2:27 |
 | 22 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 |
 | 23 | [Free Love](https://open.spotify.com/track/3hX0cncUUZ3A6cx9w1dW4w) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Free Love](https://open.spotify.com/album/6XJGZ5RmmHVvOJEDFPL8f3) | 2:53 |
-| 24 | [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 |
+| 24 | [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 |
 | 25 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 |
 | 26 | [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 |
 | 27 | [Glad We Didn't Meet](https://open.spotify.com/track/0WFNSbhvCFNPuAdHfMEQV2) | [Mykyl](https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r) | [Glad We Didn't Meet](https://open.spotify.com/album/26SFXMuuftdkZmt4E3gEOH) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 74 | [Fake It](https://open.spotify.com/track/3pKCMnO0A36oKIEIbknixC) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Fake It](https://open.spotify.com/album/2nk5HLphr2POdEPUwpwSVy) | 3:09 |
 | 75 | [moshpit](https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:38 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGRjMDY1ZmZiOTc1YTYwYTI2ZTRiMTMxMjU1ZjhiOWZl`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGUwMTZlNDNjOGJhYjMzZjY5NTkwNWJkNjc3ZTcwMmM1`

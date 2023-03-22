@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,186 likes - 125 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,193 likes - 125 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

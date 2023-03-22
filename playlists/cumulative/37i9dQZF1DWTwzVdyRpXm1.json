@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "",
-        "url": "https://open.spotify.com/album/5UXmAl22CAOQCxk19q1xjG"
+        "url": "https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO"
       },
       "artists": [
         {
@@ -19,7 +19,61 @@
       "date_removed": null,
       "duration_ms": 0,
       "name": "",
+      "url": "https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1I3s1v090iECnF0ZhCL1ui"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4PwTeFfKqmR3XIeXXUBDOf"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5UXmAl22CAOQCxk19q1xjG"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/5nsET7aVWXu017lsQjRFCV"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2lwEU6tLPGhkk1J5DfIyp6"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6N6mJlsjYRV0yoMSPS5JiQ"
     },
     {
       "album": {
@@ -34,7 +88,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7lGhrfren1Zpwh0ds0zuUg"
@@ -52,7 +106,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7ltu5scschhmNWp5rp8rVF"
@@ -1929,54 +1983,6 @@
     },
     {
       "album": {
-        "name": "Maiyya Mainu (From \"Jersey\")",
-        "url": "https://open.spotify.com/album/1I3s1v090iECnF0ZhCL1ui"
-      },
-      "artists": [
-        {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-        },
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        }
-      ],
-      "date_added": "2022-04-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231575,
-      "name": "Maiyya Mainu (From \"Jersey\")",
-      "url": "https://open.spotify.com/track/4PwTeFfKqmR3XIeXXUBDOf"
-    },
-    {
-      "album": {
-        "name": "Makhna (From \"Drive\")",
-        "url": "https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Yasser Desai",
-          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        }
-      ],
-      "date_added": "2021-12-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183000,
-      "name": "Makhna",
-      "url": "https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga"
-    },
-    {
-      "album": {
         "name": "Manike Mage Hithe",
         "url": "https://open.spotify.com/album/0CuAXOxHwlGy4l8cyUD3bs"
       },
@@ -3290,32 +3296,6 @@
       "duration_ms": 199029,
       "name": "The Punjaabban Song (From \"Jugjugg Jeeyo\")",
       "url": "https://open.spotify.com/track/1XSSm7oKOzNE8oUapjIRWV"
-    },
-    {
-      "album": {
-        "name": "The Wakhra Song (From \"Judgementall Hai Kya\")",
-        "url": "https://open.spotify.com/album/2lwEU6tLPGhkk1J5DfIyp6"
-      },
-      "artists": [
-        {
-          "name": "Navv Inder",
-          "url": "https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv"
-        },
-        {
-          "name": "Lisa Mishra",
-          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
-        },
-        {
-          "name": "Raja Kumari",
-          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
-        }
-      ],
-      "date_added": "2021-12-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196000,
-      "name": "The Wakhra Song",
-      "url": "https://open.spotify.com/track/6N6mJlsjYRV0yoMSPS5JiQ"
     },
     {
       "album": {

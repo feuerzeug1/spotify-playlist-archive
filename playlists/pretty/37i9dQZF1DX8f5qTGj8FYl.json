@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 329001,
+  "num_followers": 329131,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDZhNTdmZGExZWEzODYzZjVhZjlmMTM3MTE4NDg4ZDk2",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDkzYWE2YTUzYzhiOTBhZjQzYTJlZjFiYTJjMjAwN2Q5",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Shakedown",
-        "url": "https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr"
-      },
-      "artists": [
-        {
-          "name": "Speedometer",
-          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Rubberneck",
-      "url": "https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "I Told You So",
         "url": "https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 239080,
       "name": "Call Your Mom",
       "url": "https://open.spotify.com/track/2PiYyDEaXrT5PtJxJE3l7E"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Shakedown",
+        "url": "https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr"
+      },
+      "artists": [
+        {
+          "name": "Speedometer",
+          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Rubberneck",
+      "url": "https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -163,6 +163,30 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Hill Climber",
+        "url": "https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "It Gets Funkier IV",
+      "url": "https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Dallas",
         "url": "https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg"
       },
@@ -191,30 +215,6 @@
       "duration_ms": 164173,
       "name": "Head for Backstage Pass",
       "url": "https://open.spotify.com/track/6ZHbdm3MUHqDkYV8ZkY0lZ"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Hill Climber",
-        "url": "https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        },
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "It Gets Funkier IV",
-      "url": "https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
     },
     {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Don't Worry 'Bout What I Do",
-      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Got Ya Movin'",
@@ -833,6 +817,22 @@
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
     },
     {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Don't Worry 'Bout What I Do",
+      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Good Luck With That",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "VXNTX VXNTX",
-        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
-      },
-      "artists": [
-        {
-          "name": "Black Mantra",
-          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
-        }
-      ],
-      "duration_ms": 191761,
-      "name": "Sandra",
-      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Chemical Plant Zone",
@@ -879,6 +863,22 @@
       "duration_ms": 261426,
       "name": "Chemical Plant Zone",
       "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "VXNTX VXNTX",
+        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
+      },
+      "artists": [
+        {
+          "name": "Black Mantra",
+          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
+        }
+      ],
+      "duration_ms": 191761,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
       "added_at": "2021-04-16 04:00:00",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Scratch My Itch",
-        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
-      },
-      "artists": [
-        {
-          "name": "The Soul Snatchers",
-          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Do You Wanna Get Down",
-      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
-    },
-    {
       "added_at": "2021-04-16 04:00:00",
       "album": {
         "name": "Deep: The Baritone Sessions, Vol. 2",
@@ -989,6 +973,22 @@
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Scratch My Itch",
+        "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
+      },
+      "artists": [
+        {
+          "name": "The Soul Snatchers",
+          "url": "https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Do You Wanna Get Down",
+      "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
+    },
+    {
       "added_at": "2021-12-24 05:01:00",
       "album": {
         "name": "1am Funk Dance Party",
@@ -1007,6 +1007,22 @@
       "duration_ms": 1344000,
       "name": "1am Funk Dance Party",
       "url": "https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE"
+    },
+    {
+      "added_at": "2021-11-26 05:01:00",
+      "album": {
+        "name": "Sir Somebody",
+        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Sir Somebody",
+      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
     },
     {
       "added_at": "2021-01-15 21:11:37",
@@ -1055,22 +1071,6 @@
       "duration_ms": 281805,
       "name": "Indoor S'mores",
       "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
-    },
-    {
-      "added_at": "2021-11-26 05:01:00",
-      "album": {
-        "name": "Sir Somebody",
-        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
-      },
-      "artists": [
-        {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Sir Somebody",
-      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Greasin The Wheels",
-        "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
-      },
-      "artists": [
-        {
-          "name": "The Sound Stylistics",
-          "url": "https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO"
-        }
-      ],
-      "duration_ms": 293880,
-      "name": "THE CRISIS GENERATOR",
-      "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 324078,
       "name": "Royal Highness",
       "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Greasin The Wheels",
+        "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
+      },
+      "artists": [
+        {
+          "name": "The Sound Stylistics",
+          "url": "https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO"
+        }
+      ],
+      "duration_ms": 293880,
+      "name": "THE CRISIS GENERATOR",
+      "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1373,20 +1373,24 @@
       "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Soul Jazz Express",
-        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
+        "name": "Watchu Want",
+        "url": "https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh"
       },
       "artists": [
         {
-          "name": "Soul Jazz Express",
-          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Couple A Brownies",
-      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
+      "duration_ms": 160866,
+      "name": "Watchu Want",
+      "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
     }
   ],
   "unique_name": "Instrumental Funk",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-866 songs - 1 day 23 hr 43 min
+867 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,7 @@
 | [Like You Do](https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Like You Do](https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx) | 2:32 | 2022-10-28 |  |
 | [Lil Mama](https://open.spotify.com/track/44GPmiM2FZjxzFXbeQ4Ovl) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Lil Mama](https://open.spotify.com/album/3Wt9S4EJVv68Bpx1xguvcU) | 4:15 | 2021-10-09 | 2022-04-16 |
 | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Robbie Rise](https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A) | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7) | 3:46 | 2023-01-06 | 2023-03-07 |
-| [Liquor Store](https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Liquor Store](https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF) | 3:21 | 2022-02-04 |  |
+| [Liquor Store](https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Liquor Store](https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF) | 3:21 | 2022-02-04 | 2023-03-22 |
 | [LO\*E DR\*G](https://open.spotify.com/track/1JfryJlUV7RuCdTOSSVbwN) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [LO\*E DR\*G](https://open.spotify.com/album/6WJVvCCjwcavVVMM9oOfdY) | 3:01 | 2021-04-28 | 2021-10-14 |
 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 | 2020-08-04 | 2020-10-13 |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-07-14 | 2022-07-30 |
@@ -686,6 +686,7 @@
 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-04-01 | 2022-04-17 |
 | [SEXUAL](https://open.spotify.com/track/4PZunWMdRDz63eZHAzoeD2) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [SEXUAL](https://open.spotify.com/album/3h1FyQdZSsIeel16epLcn1) | 3:19 | 2022-04-01 | 2022-07-29 |
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-03 |  |
+| [Shadow \(feat\. MORGAN\)](https://open.spotify.com/track/4P4653vortdXtcHf4iXWW7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/album/1Ypjjp8ACgey0utUoUBBM1) | 3:00 | 2023-03-17 |  |
 | [Shingaling](https://open.spotify.com/track/3ANKZ1tJoxuEE0d8Irncl3) | [Tom Swoon](https://open.spotify.com/artist/2OFEXARoSZyZLR6S0oV2R7) | [Shingaling](https://open.spotify.com/album/3aGEPxNWMCyHfKkbu4dZAL) | 2:33 | 2020-06-12 | 2021-12-21 |
 | [Show Me A Sign \(with MKLA\)](https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Show Me A Sign](https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL) | 3:43 | 2022-04-01 | 2022-07-29 |
 | [Show Me Love](https://open.spotify.com/track/3qwDbGKZzA7CMobf35EwsW) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Show Me Love](https://open.spotify.com/album/42YEYqqZOm112YGOdr3HEs) | 2:36 | 2020-11-03 | 2021-12-11 |

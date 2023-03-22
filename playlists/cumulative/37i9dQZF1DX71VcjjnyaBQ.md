@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-167 songs - 14 hr 39 min
+168 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Flotten](https://open.spotify.com/track/0Cni65EmkblPcDDM6f1Nwd) | [Tingvall Trio](https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M) | [Flotten](https://open.spotify.com/album/3OxWm6cNSa63awGmVV9WwU) | 4:48 | 2021-12-21 |  |
 | [Follow the Light](https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Follow the Light](https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt) | 5:03 | 2022-09-13 |  |
 | [Footprints \(Remastered\)](https://open.spotify.com/track/4oO0i2eMDIWJfDduh3fv9O) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Portrait](https://open.spotify.com/album/2VySoVcjtJ81MBjylAXmHL) | 7:29 | 2021-12-21 | 2022-04-21 |
+| [For my lady](https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl) | [For my lady](https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy) | 3:23 | 2023-03-16 |  |
 | [Ginge](https://open.spotify.com/track/1zNREutkA7aZBqWGqMgl29) | [Martin Brandqvist Quartet](https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7) | [Relations](https://open.spotify.com/album/5VFcM7qzylqcPhnTbDHQEm) | 4:58 | 2021-12-21 | 2022-07-29 |
 | [Ginge](https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h) | [Martin Brandqvist Quartet](https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7) | [Relations](https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd) | 4:58 | 2022-06-30 |  |
 | [Glade](https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Forest Floor](https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi) | 5:42 | 2022-04-07 |  |
@@ -106,7 +107,7 @@
 | [Prelude to a Kiss](https://open.spotify.com/track/5Z9BMdHdZVOX5GXUtzaxr3) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 7:14 | 2022-02-10 | 2023-02-08 |
 | [Pure Imagination](https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Pure Imagination](https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK) | 5:58 | 2021-12-21 |  |
 | [På nye eventyr](https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [På nye eventyr](https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6) | 5:22 | 2022-02-24 |  |
-| [Queen Of The South](https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Queen Of The South](https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY) | 4:20 | 2021-12-21 |  |
+| [Queen Of The South](https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Queen Of The South](https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY) | 4:20 | 2021-12-21 | 2023-03-22 |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2022-06-30 | 2022-09-28 |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/50k9ezYU7sRIO26eZ5ceMr) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/3wGqwnfwZJFTxST28zPARF) | 2:51 | 2021-12-21 | 2022-07-29 |
 | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/album/7BisVv834vN4y1h8CcWhjC) | 4:43 | 2022-02-10 |  |

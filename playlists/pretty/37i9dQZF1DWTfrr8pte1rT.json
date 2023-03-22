@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop Cover: Sullivan King \\m/",
-  "num_followers": 298788,
+  "num_followers": 298937,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1ODc5MywwMDAwMDAwMDc2YmMwMGU5MDE3NjI2YjhjYWQxMThiOGIwNzAwOTJl",
+  "snapshot_id": "MTY3OTA1ODc5MywwMDAwMDAwMDc5Njc5YmE0NTQwYzkwNTJiYjFlOGE2NGMyZWVkNjEx",
   "tracks": [
     {
       "added_at": "2023-03-17 13:13:13",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 222400,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
-      },
-      "artists": [
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
-        "name": "Thrones of Blood",
-        "url": "https://open.spotify.com/album/57QdPzSq8NhduKeYBJ7jw1"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Thrones of Blood",
-      "url": "https://open.spotify.com/track/0h3lOUAXzJr80KrGVjPpWE"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
         "name": "Miss Anthropocene (Rave Edition)",
         "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
       },
@@ -999,6 +983,26 @@
       "duration_ms": 195300,
       "name": "Violence - REZZ Remix",
       "url": "https://open.spotify.com/track/2khrbeiEg5R6jZwbJzR5OL"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
+        "name": "Pursuit of Violence",
+        "url": "https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Pursuit of Violence",
+      "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -1087,6 +1091,22 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/57QdPzSq8NhduKeYBJ7jw1"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Thrones of Blood",
+      "url": "https://open.spotify.com/track/0h3lOUAXzJr80KrGVjPpWE"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 217394,
       "name": "Hearteater",
       "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
-        "name": "Pursuit of Violence",
-        "url": "https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Pursuit of Violence",
-      "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
+        "name": "The Dead March",
+        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 162356,
+      "name": "The Dead March",
+      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 251511,
       "name": "Enemy Brain",
       "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
-        "name": "The Dead March",
-        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 162356,
-      "name": "The Dead March",
-      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
+        "name": "Money Makes The World Go Round",
+        "url": "https://open.spotify.com/album/46EIJuzWWUL56issUXlSaw"
+      },
+      "artists": [
+        {
+          "name": "JAXSON GAMBLE",
+          "url": "https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI"
+        },
+        {
+          "name": "New Politics",
+          "url": "https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Money Makes The World Go Round",
+      "url": "https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
         "name": "Cash Machine (Remix) [feat. Dillon Francis & grandson]",
         "url": "https://open.spotify.com/album/69pshuUSWZvUCylSdkYrFh"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 170769,
       "name": "Cash Machine (Remix) [feat. Dillon Francis & grandson]",
       "url": "https://open.spotify.com/track/6FqS20S6qXlbL3o2htqszT"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
-        "name": "Money Makes The World Go Round",
-        "url": "https://open.spotify.com/album/46EIJuzWWUL56issUXlSaw"
-      },
-      "artists": [
-        {
-          "name": "JAXSON GAMBLE",
-          "url": "https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI"
-        },
-        {
-          "name": "New Politics",
-          "url": "https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Money Makes The World Go Round",
-      "url": "https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
-        "name": "Cute Without The E (Ziri)",
-        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Cute Without The E (Ziri)",
-      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
         "name": "Better Than Before",
         "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 221937,
       "name": "Searching For Nothing",
       "url": "https://open.spotify.com/track/5u1gJv6uwKGf9N4gF6iGKV"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
+        "name": "Cute Without The E (Ziri)",
+        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Cute Without The E (Ziri)",
+      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -1871,30 +1871,6 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
-        "name": "Kill The Machine (feat. Bad/Love)",
-        "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
-      },
-      "artists": [
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        },
-        {
-          "name": "Bad/Love",
-          "url": "https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ"
-        },
-        {
-          "name": "TMRRW",
-          "url": "https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Kill The Machine (feat. Bad/Love)",
-      "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
         "name": "Walk On Water (with Danni Carra)",
         "url": "https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1"
       },
@@ -1931,6 +1907,30 @@
       "duration_ms": 185250,
       "name": "Favour",
       "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
+        "name": "Kill The Machine (feat. Bad/Love)",
+        "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        },
+        {
+          "name": "Bad/Love",
+          "url": "https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ"
+        },
+        {
+          "name": "TMRRW",
+          "url": "https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Kill The Machine (feat. Bad/Love)",
+      "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
-        "name": "UMBRA",
-        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
-      },
-      "artists": [
-        {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
-        },
-        {
-          "name": "Voicians",
-          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "UMBRA",
-      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
@@ -2051,6 +2031,26 @@
       "duration_ms": 174800,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
+        "name": "UMBRA",
+        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        },
+        {
+          "name": "Voicians",
+          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "UMBRA",
+      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -2191,26 +2191,6 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
-        "name": "Tear You Apart (feat. Aaron Gillespie)",
-        "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        },
-        {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
-        }
-      ],
-      "duration_ms": 143180,
-      "name": "Tear You Apart (feat. Aaron Gillespie)",
-      "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
         "name": "self:antiself",
         "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
       },
@@ -2231,6 +2211,26 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
+        "name": "Tear You Apart (feat. Aaron Gillespie)",
+        "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "duration_ms": 143180,
+      "name": "Tear You Apart (feat. Aaron Gillespie)",
+      "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
         "name": "FIMBULVETR",
         "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
       },
@@ -2243,26 +2243,6 @@
       "duration_ms": 233203,
       "name": "FIMBULVETR",
       "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 129408,
-      "name": "Hurting on Purpose (feat. K.Flay)",
-      "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -2287,6 +2267,26 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 129408,
+      "name": "Hurting on Purpose (feat. K.Flay)",
+      "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
         "name": "Get To U",
         "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
       },
@@ -2299,6 +2299,22 @@
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
+        "name": "Fade With Me",
+        "url": "https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 214758,
+      "name": "Fade With Me",
+      "url": "https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -2323,22 +2339,6 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
-        "name": "Fade With Me",
-        "url": "https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 214758,
-      "name": "Fade With Me",
-      "url": "https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
         "name": "Never Let You Down (with TELLE)",
         "url": "https://open.spotify.com/album/1Fld0ymwHFvzS7ES7YdKsd"
       },
@@ -2355,22 +2355,6 @@
       "duration_ms": 166800,
       "name": "Never Let You Down (with TELLE)",
       "url": "https://open.spotify.com/track/7l7UeB9sG7lMtikz0DUkpS"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
-        "name": "Be Careful What You Say",
-        "url": "https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "Be Careful What You Say",
-      "url": "https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -2395,6 +2379,42 @@
       "duration_ms": 229090,
       "name": "Sick",
       "url": "https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
+        "name": "Be Careful What You Say",
+        "url": "https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 210573,
+      "name": "Be Careful What You Say",
+      "url": "https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q"
+    },
+    {
+      "added_at": "2023-03-17 13:13:13",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
+      },
+      "artists": [
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
     },
     {
       "added_at": "2023-03-17 13:13:13",
@@ -2435,26 +2455,6 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
-      },
-      "artists": [
-        {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
-        },
-        {
-          "name": "Becko",
-          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
-    },
-    {
-      "added_at": "2023-03-17 13:13:13",
-      "album": {
         "name": "Bitter",
         "url": "https://open.spotify.com/album/4DouZKdjc4nddOIHZxOK2n"
       },
@@ -2475,22 +2475,26 @@
     {
       "added_at": "2023-03-17 13:13:13",
       "album": {
-        "name": "ANALOG",
-        "url": "https://open.spotify.com/album/4Z1gPMu3kxL1P8rMGHc5ZX"
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
       },
       "artists": [
         {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+          "name": "DVRKCLOUD",
+          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "PatFromLastYear",
+          "url": "https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
         }
       ],
-      "duration_ms": 186035,
-      "name": "Electric Life",
-      "url": "https://open.spotify.com/track/6a71f53jA3MQY1TomocVYD"
+      "duration_ms": 169285,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
     }
   ],
   "unique_name": "Rocktronic",

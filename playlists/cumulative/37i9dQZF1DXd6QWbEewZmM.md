@@ -4,7 +4,7 @@
 
 > IYKYK 💔🥀
 
-326 songs - 18 hr 37 min
+327 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Mi Corazón](https://open.spotify.com/track/7nFCfXEl2JiaxzPF8233hz) | [Porto Fino](https://open.spotify.com/artist/1KBAMss5TbuIZUDf9STspe) | [Mi Corazón](https://open.spotify.com/album/6WjLL6O3dxamFqfKF0AJ21) | 3:37 | 2023-01-27 | 2023-02-11 |
 | [Mi Corazón Lloro](https://open.spotify.com/track/3n4jtmfkK13dHLfVPyfjZg) | [Jonatan Fuentes](https://open.spotify.com/artist/36qA1UP5SWF0hAI313hprG) | [Mi Corazón Lloro](https://open.spotify.com/album/10AOfjxBfLkbJ9XTQBFHuy) | 2:52 | 2022-10-14 | 2023-01-06 |
 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 | 2022-02-04 |  |
-| [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 | 2022-07-22 |  |
+| [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 | 2022-07-22 | 2023-03-22 |
 | [Mi Flor](https://open.spotify.com/track/1YYYBHAZKUcQDb4HaxNzxD) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Temporadas Emocionales](https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ) | 3:43 | 2022-07-22 | 2022-09-24 |
 | [Mi Guerita](https://open.spotify.com/track/2LrH7pQnZTQvxXWgf52wBx) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [Mi Guerita](https://open.spotify.com/album/7lVTRAL3B5pJjQyR9igdSp) | 3:48 | 2022-01-01 | 2022-07-22 |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 6:38 | 2022-01-01 | 2022-07-29 |
@@ -280,6 +280,7 @@
 | [Te Olvidare](https://open.spotify.com/track/07SC5bsFfYOqEdalewQZnk) | [Amigos De La Cuadra](https://open.spotify.com/artist/5GArqt3wMxHacJWynHFpMY) | [Te Olvidare](https://open.spotify.com/album/3WVCgJ7jwlagJRmIXibOPj) | 3:19 | 2022-02-25 | 2022-06-21 |
 | [Te Presumo](https://open.spotify.com/track/5qKxoH9I2u5lfc7pbepXLa) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [Recuerdos De Ayer, Vol\. 1](https://open.spotify.com/album/443wD12AGUHs6ZPGeKkptl) | 3:35 | 2022-02-04 | 2022-07-08 |
 | [Te Quiero](https://open.spotify.com/track/1INcD1XmWRBuZ7kOKBIgdY) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Siéntelo a Tu Modo](https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD) | 2:24 | 2022-01-01 | 2022-07-22 |
+| [Te Quiero](https://open.spotify.com/track/0mAf9lYGmf5qEusEhrc7pC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:51 | 2023-02-24 |  |
 | [Te Quiero A Ti](https://open.spotify.com/track/2ZRXoUppi4TXo1hN7FQCyx) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Te Quiero A Ti](https://open.spotify.com/album/4onTaYrjOw2aXWGx8GxDxh) | 3:04 | 2022-01-01 | 2022-07-23 |
 | [Te Quiero Aqui](https://open.spotify.com/track/1kvkVKiwnZmnIZ7LNODN2l) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Te Quiero Aqui](https://open.spotify.com/album/3bMTM0dAx7STE0ZEuqM20C) | 3:45 | 2022-02-25 | 2022-07-29 |
 | [Te Quiero Aqui \(Live Session\)](https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Te Quiero Aqui \(Live Session\)](https://open.spotify.com/album/45371KQq8N3dbYubEAHnk7) | 3:10 | 2022-02-04 | 2022-07-25 |

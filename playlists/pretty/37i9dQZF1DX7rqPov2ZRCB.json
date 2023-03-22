@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 60172,
+  "num_followers": 60181,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDQ1NWEyYzRkNzQ0Y2JjMzE3ZTZhYWFkNmY0MjcwYWUz",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDYwYzQxOTM0YWY1N2Q4ODA5NDViNmZlM2Y4ZGJkZGMx",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -571,18 +571,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "A Otro Nivel",
-        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
+        "name": "Maria Diaz y Luis Vargas",
+        "url": "https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj"
       },
       "artists": [
         {
-          "name": "Rikar2nes",
-          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
+          "name": "Maria Diaz",
+          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
+        },
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 279474,
-      "name": "Ya No Creo en Ti",
-      "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"
+      "duration_ms": 267493,
+      "name": "La Torera",
+      "url": "https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -603,22 +607,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Maria Diaz y Luis Vargas",
-        "url": "https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj"
+        "name": "A Otro Nivel",
+        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
       },
       "artists": [
         {
-          "name": "Maria Diaz",
-          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
-        },
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+          "name": "Rikar2nes",
+          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
         }
       ],
-      "duration_ms": 267493,
-      "name": "La Torera",
-      "url": "https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq"
+      "duration_ms": 279474,
+      "name": "Ya No Creo en Ti",
+      "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"
     },
     {
       "added_at": "2019-09-09 17:49:24",

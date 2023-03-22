@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 | 2022-07-06 |  |
+| [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 | 2022-07-06 | 2023-03-22 |
 | [3am](https://open.spotify.com/track/3e8lI9dQ9q0PHIgTtQPhcH) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [3am](https://open.spotify.com/album/1sMVWxsUWC5UKxKFQYMAKM) | 2:56 | 2021-10-11 | 2022-04-20 |
 | [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 | 2020-12-22 |  |
 | [A Second With You](https://open.spotify.com/track/2KeTrh78SDZCwwtmGlgncd) | [Llovers](https://open.spotify.com/artist/0MGqjWWotQzv4HkaNAiWn5) | [A Second With You](https://open.spotify.com/album/3sBelM5IlJE4Cx4ru5TrDl) | 4:08 | 2019-11-19\* | 2020-08-09 |
@@ -295,7 +295,7 @@
 | [That Weekend](https://open.spotify.com/track/19cprjSakswn0VsENCg6uu) | [Boys](https://open.spotify.com/artist/71Z8KAk18NOfpU8vpEdv1E) | [That Weekend](https://open.spotify.com/album/7xL8a9qJPMAbvwdLTDrKyB) | 2:30 | 2019-11-19\* | 2020-08-09 |
 | [The Clouds Cleared the Way](https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [The Clouds Cleared the Way](https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8) | 4:04 | 2019-11-19\* |  |
 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 | 2022-04-01 |  |
-| [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 | 2020-02-11 | 2022-11-13 |
+| [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 | 2020-02-11 |  |
 | [The Mind's Eye](https://open.spotify.com/track/1igVdCr2mrzwu2lHxUbJWn) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [This Ascension is Ours](https://open.spotify.com/album/57B07YMvOwOCrze4qRzhNA) | 5:31 | 2020-08-09 | 2022-04-21 |
 | [The Photograph](https://open.spotify.com/track/225WgsvbK6RoIH6Y7OhKP2) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Photograph](https://open.spotify.com/album/2euiMSz9ZRKYiM4PeACicB) | 3:40 | 2019-11-19\* | 2020-08-09 |
 | [Therapy](https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Therapy](https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw) | 3:25 | 2021-10-12 | 2023-03-02 |

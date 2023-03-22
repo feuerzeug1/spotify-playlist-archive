@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Metallica
 
-703 songs - 2 day 4 hr 21 min
+704 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Master of Puppets](https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 8:34 | 2022-11-11 | 2022-11-13 |
 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-01 | 2022-07-29 |
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-08 |  |
-| [Masters of War](https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Masters of War](https://open.spotify.com/album/0w8qn4MsyCw0d8i98QiZTh) | 4:34 | 2021-12-17 |  |
+| [Masters of War](https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Masters of War](https://open.spotify.com/album/0w8qn4MsyCw0d8i98QiZTh) | 4:34 | 2021-12-17 | 2023-03-22 |
 | [Maximus](https://open.spotify.com/track/1K39nmA9tBudF6jNiV1iO6) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Maximus](https://open.spotify.com/album/4FGuBSsKGaTw0MV7qBeq16) | 4:12 | 2021-12-17 | 2022-07-21 |
 | [Mean, Green, Killing Machine](https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Grinding Wheel](https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz) | 7:29 | 2022-03-22 | 2022-11-13 |
 | [Meet Your Maker](https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:57 | 2023-02-24 |  |
@@ -405,6 +405,7 @@
 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 | 2022-07-29 |  |
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2022-08-19 |  |
 | [No Prayer At Midnight](https://open.spotify.com/track/0VEYwIJluTQyPwq5y86EeZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [No Prayer At Midnight](https://open.spotify.com/album/32KYjm5c695xOIy3yL33AT) | 3:41 | 2023-03-10 |  |
+| [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-22 |  |
 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 | 2022-08-19 |  |
 | [Nornirs´s Call](https://open.spotify.com/track/6Yf0iXlvMpkyMqzqN3e90b) | [HAVAMAL](https://open.spotify.com/artist/6ldp4tSRbPDs5VA2w9KXmD) | [The Shadow Chapter](https://open.spotify.com/album/1I4MAMVeh0dqfe0tz1f5Gh) | 6:14 | 2022-01-14 | 2022-07-11 |
 | [Northwards](https://open.spotify.com/track/5NS3gor1NtqKcp55Y6M2oD) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Halo](https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A) | 5:30 | 2022-02-11 | 2022-11-13 |
@@ -481,7 +482,7 @@
 | [Revolution Is My Name \- 2020 Terry Date Mix](https://open.spotify.com/track/2ZDpLMQHTZPEN05gQMPbDs) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing The Steel \- 20th Anniversary Deluxe Edition \(Terry Date Mix\)](https://open.spotify.com/album/5t6KIM8JLS1NQ46PWPrPtR) | 5:16 | 2021-12-17 | 2022-07-21 |
 | [Ride into the Light](https://open.spotify.com/track/46wMCxSguASbKzxmcgPZB7) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Enlightened In Eternity](https://open.spotify.com/album/2PRYdPB2jz4mC7rmIU4E1M) | 4:42 | 2021-12-17 | 2022-07-29 |
 | [Ride on the Wild Side](https://open.spotify.com/track/2W4x14ONqFL4C2OhQlX15c) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Ride on the Wild Side](https://open.spotify.com/album/4WcHMesMqQUZGiTI2IKltc) | 4:06 | 2021-12-17 | 2022-06-30 |
-| [RISE](https://open.spotify.com/track/1Q99lciGepKxOoUO0JxDAh) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [RISE](https://open.spotify.com/album/6SA6Ml0cEluSLl5NdqU0Bp) | 4:35 | 2023-03-21 |  |
+| [RISE](https://open.spotify.com/track/1Q99lciGepKxOoUO0JxDAh) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [RISE](https://open.spotify.com/album/6SA6Ml0cEluSLl5NdqU0Bp) | 4:35 | 2023-03-20 |  |
 | [Rise Of The Dragon Empire](https://open.spotify.com/track/1CfIgWmS5LuZMinBMjxuWc) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Rise Of The Dragon Empire](https://open.spotify.com/album/2EfhdHrbnVo4zt4RnoHOdr) | 4:36 | 2021-12-17 | 2022-07-28 |
 | [Rise of the Dragon Empire](https://open.spotify.com/track/3JqeGhxwgyVDdO9T8kUeda) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Rise of the Dragon Empire](https://open.spotify.com/album/6vdr1V3sTwEmhfho5oMURC) | 4:36 | 2022-07-08 | 2023-02-11 |
 | [Rising Fire](https://open.spotify.com/track/5uEOhWDWr4gN9YMgZNVGRB) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Rising Fire](https://open.spotify.com/album/4gGtBcTbf80l1PNvhgJXnx) | 3:26 | 2021-12-17 | 2022-07-29 |

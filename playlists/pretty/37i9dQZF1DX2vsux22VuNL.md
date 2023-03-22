@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Papatinho, Xamã
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,589 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,917 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 34 | [Toda Malévola](https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Toda Malévola](https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD) | 3:16 |
 | 35 | [Proposta](https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 3:46 |
 | 36 | [Domingo](https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Domingo](https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli) | 2:38 |
-| 37 | [Fui Eu](https://open.spotify.com/track/0WNvVEICbJHAqNzGFCDbGy) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [ESTEVEZ](https://open.spotify.com/artist/5yH9W1LzE41x3JLYZg3Bkb) | [Maloqueiro Romântico](https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K) | 2:32 |
-| 38 | [Teu Sorriso](https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Teu Sorriso](https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE) | 3:03 |
+| 37 | [Teu Sorriso](https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Teu Sorriso](https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE) | 3:03 |
+| 38 | [Fui Eu](https://open.spotify.com/track/0WNvVEICbJHAqNzGFCDbGy) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [ESTEVEZ](https://open.spotify.com/artist/5yH9W1LzE41x3JLYZg3Bkb) | [Maloqueiro Romântico](https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K) | 2:32 |
 | 39 | [Me Diz Se Vem](https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Me Diz Se Vem](https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx) | 2:57 |
 | 40 | [Luz da Lua](https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Luz da Lua](https://open.spotify.com/album/3P2Zg9ZZ2njZgWziGm614U) | 3:23 |
 | 41 | [Posturada](https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [Posturada](https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG) | 2:56 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 75 | [Marrenta](https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Marrenta](https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g) | 2:47 |
 | 76 | [não te amo mais](https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko) | [Isa Guerra](https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [não te amo mais](https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj) | 2:13 |
 | 77 | [Não Faz Marra](https://open.spotify.com/track/349VMk1uZmX0wL1CoA3izr) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Não Faz Marra](https://open.spotify.com/album/0TWc3pDitFPl02iYysyPp8) | 2:50 |
-| 78 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 |
-| 79 | [Outra Vez](https://open.spotify.com/track/6yNQaFKrTVb1vYHjFTyoRt) | [Ley](https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP) | [Outra Vez](https://open.spotify.com/album/7AENuMg8D1Xgkga8bRkrjt) | 3:39 |
-| 80 | [Livro Aberto](https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp) | [Gibi8](https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO), [FREELION](https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Livro Aberto](https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr) | 3:16 |
+| 78 | [Outra Vez](https://open.spotify.com/track/6yNQaFKrTVb1vYHjFTyoRt) | [Ley](https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP) | [Outra Vez](https://open.spotify.com/album/7AENuMg8D1Xgkga8bRkrjt) | 3:39 |
+| 79 | [Livro Aberto](https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp) | [Gibi8](https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO), [FREELION](https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Livro Aberto](https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr) | 3:16 |
+| 80 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDc3YWNkZjYwZDFjNDM3YjViYWM1NzEzZDVhMjdiNWMx`
+Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMGM0MWYyYTI5NGExYTk5ZDEwZTZlMDhiZmQ3OWNkYzcw`

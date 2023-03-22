@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 
 > Listen to A\-List tracks from RCA Records featuring music from SZA, Latto, Fousheé, Elle King, and more\. Cover: SZA
 
-[RCA Records](https://open.spotify.com/user/rcarecords) - 14,224 likes - 20 songs - 1 hr 2 min
+[RCA Records](https://open.spotify.com/user/rcarecords) - 14,225 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

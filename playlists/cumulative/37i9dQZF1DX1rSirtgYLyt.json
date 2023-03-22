@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "The River That Flows EP",
+        "url": "https://open.spotify.com/album/3aG99sCsrYQm78ssb2OlX2"
+      },
+      "artists": [
+        {
+          "name": "Kitty Liv",
+          "url": "https://open.spotify.com/artist/4qSMvuRAOyZAeI5j6KZWai"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163645,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7aBSU2mnAJFQ5apG2IVnOY"
+    },
+    {
+      "album": {
         "name": "Sings Ballads & Blues",
         "url": "https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK"
       },

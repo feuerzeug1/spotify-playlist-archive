@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,717 likes - 78 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,883 likes - 78 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 50 | [As Long As You Love Me](https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Baby One More Time](https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv) | 3:54 |
 | 51 | [Blank Space](https://open.spotify.com/track/2mMarfkPpZPPKV5AUGdz58) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions](https://open.spotify.com/album/7hBwTnRSuuOisqubNG4lwv) | 2:35 |
 | 52 | [Rainbow \- Instrumental](https://open.spotify.com/track/77fsaToe6geS16GLiwBzlm) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Rainbow \(Instrumental\)](https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB) | 3:23 |
-| 53 | [Sour Times \(arr\. Metcalfe, Assad\)](https://open.spotify.com/track/3vlkm65Y82NdBYBsuLVfcg) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sound Of Silence](https://open.spotify.com/album/4Q7bymRWchAbS8vUKMlqt3) | 3:17 |
+| 53 | [Sour Times \(arr\. Metcalfe, Assad\)](https://open.spotify.com/track/3vlkm65Y82NdBYBsuLVfcg) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh), [Adrian Utley](https://open.spotify.com/artist/6jDiXQFNb5UYscCSghzEEA), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y), [Henry Brooks](https://open.spotify.com/artist/3q50vW52yq3opwiJDfKTX2), [Otis Turner](https://open.spotify.com/artist/505Nunlq6dmC7zriqcGfdd), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sound Of Silence](https://open.spotify.com/album/4Q7bymRWchAbS8vUKMlqt3) | 3:17 |
 | 54 | [Life on Mars?](https://open.spotify.com/track/63Pm0kIqaIVINrO96TNUzv) | [Mike Garson](https://open.spotify.com/artist/1BKXfC7Sr2gN3PlWcPBzX8) | [The Bowie Variations](https://open.spotify.com/album/2UsgTX8YO2eagUwhdDnHlR) | 5:28 |
 | 55 | [Imagine / What a Wonderful World](https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV) | [Christine Brown](https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith) | [Imagine What a Wonderful World](https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC) | 4:54 |
 | 56 | [Clocks \- Coldplay](https://open.spotify.com/track/2Pv2aeT9K8EH0b0HgCJxDv) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [A Night In Strings](https://open.spotify.com/album/3duk4PVA7r012ysSojmnXv) | 5:14 |

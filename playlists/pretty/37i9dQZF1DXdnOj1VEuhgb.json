@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ezhel",
-  "num_followers": 1198889,
+  "num_followers": 1199340,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTI5NzI2MywwMDAwMDAwMGUzNDU1ZjgxYjlkNTM1YTRlZGRkYWNjZDdkZGQ0YWIy",
+  "snapshot_id": "MTY3OTQxMzM5NiwwMDAwMDAwMGZmOWI3NGEzOWE4ZGIxYTVhZGJjMGExZGQ4ZDFlZTgw",
   "tracks": [
     {
       "added_at": "2023-03-16 21:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-03-16 21:00:00",
       "album": {
-        "name": "RANDEVU",
-        "url": "https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b"
-      },
-      "artists": [
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        }
-      ],
-      "duration_ms": 152187,
-      "name": "RANDEVU",
-      "url": "https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m"
-    },
-    {
-      "added_at": "2023-03-16 21:00:00",
-      "album": {
         "name": "MERVE (Masada Chivas)",
         "url": "https://open.spotify.com/album/6Q21JmmA4ohsWT4GcZfq2z"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 159112,
       "name": "MERVE - Masada Chivas",
       "url": "https://open.spotify.com/track/1QR6XjncDYLxeYCmxPb2Ab"
+    },
+    {
+      "added_at": "2023-03-16 21:00:00",
+      "album": {
+        "name": "RANDEVU",
+        "url": "https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "duration_ms": 152187,
+      "name": "RANDEVU",
+      "url": "https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m"
     },
     {
       "added_at": "2023-03-16 21:00:00",
@@ -207,6 +207,26 @@
     {
       "added_at": "2023-03-16 21:00:00",
       "album": {
+        "name": "NKB\u0130 X YAPAMAM (Remix)",
+        "url": "https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "NKB\u0130 X YAPAMAM - Remix",
+      "url": "https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd"
+    },
+    {
+      "added_at": "2023-03-16 21:00:00",
+      "album": {
         "name": "Diyardan Diyara",
         "url": "https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP"
       },
@@ -231,22 +251,22 @@
     {
       "added_at": "2023-03-16 21:00:00",
       "album": {
-        "name": "NKB\u0130 X YAPAMAM (Remix)",
-        "url": "https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ"
+        "name": "O Yeterdi Asl\u0131nda",
+        "url": "https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF"
       },
       "artists": [
         {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
         },
         {
-          "name": "G\u00fcne\u015f",
-          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
         }
       ],
-      "duration_ms": 182400,
-      "name": "NKB\u0130 X YAPAMAM - Remix",
-      "url": "https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd"
+      "duration_ms": 187500,
+      "name": "O Yeterdi Asl\u0131nda",
+      "url": "https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7"
     },
     {
       "added_at": "2023-03-16 21:00:00",
@@ -319,26 +339,6 @@
       "duration_ms": 190270,
       "name": "VUR",
       "url": "https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF"
-    },
-    {
-      "added_at": "2023-03-16 21:00:00",
-      "album": {
-        "name": "O Yeterdi Asl\u0131nda",
-        "url": "https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF"
-      },
-      "artists": [
-        {
-          "name": "Reckol",
-          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
-        },
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "O Yeterdi Asl\u0131nda",
-      "url": "https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7"
     },
     {
       "added_at": "2023-03-16 21:00:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2023-03-16 21:00:00",
       "album": {
+        "name": "GHETTOMAN",
+        "url": "https://open.spotify.com/album/0LZhkLhHJIPopDt0NjEF2M"
+      },
+      "artists": [
+        {
+          "name": "Critical",
+          "url": "https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO"
+        },
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "GHETTOMAN",
+      "url": "https://open.spotify.com/track/3hbWiGDEItdBZLtTCueewe"
+    },
+    {
+      "added_at": "2023-03-16 21:00:00",
+      "album": {
         "name": "10.000 Par\u00e7a",
         "url": "https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 178605,
       "name": "G\u00fcnleri Sayd\u0131m",
       "url": "https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx"
-    },
-    {
-      "added_at": "2023-03-16 21:00:00",
-      "album": {
-        "name": "GHETTOMAN",
-        "url": "https://open.spotify.com/album/0LZhkLhHJIPopDt0NjEF2M"
-      },
-      "artists": [
-        {
-          "name": "Critical",
-          "url": "https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO"
-        },
-        {
-          "name": "Heijan",
-          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "GHETTOMAN",
-      "url": "https://open.spotify.com/track/3hbWiGDEItdBZLtTCueewe"
     },
     {
       "added_at": "2023-03-16 21:00:00",

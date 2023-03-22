@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv?si=48t97hKpSgytRvF0wHAg5Q">YoungstaCPT</a> and <a href="https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq?si=ktReMoU6SOaAg6oUfSdIXg">M1llionz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,029 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,130 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

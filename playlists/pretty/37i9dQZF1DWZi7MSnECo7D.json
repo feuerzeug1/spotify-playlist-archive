@@ -1,12 +1,12 @@
 {
   "description": "Novidades e destaques do indie nacional. Foto: Jambu",
-  "num_followers": 408964,
+  "num_followers": 408969,
   "original_name": "Indie Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjE4MCwwMDAwMDAwMDhmNjA4YTlkOTRmY2Q1NmVjYjRlOTk5YzY1NTE2N2Q3",
+  "snapshot_id": "MTY3OTAyMjE4MCwwMDAwMDAwMDViMGE2MDkzMDA5NWQ4ZmZhODFiZGIyYjMyMDhkMzBm",
   "tracks": [
     {
       "added_at": "2023-03-17 03:03:00",
@@ -212,9 +212,13 @@
       "added_at": "2023-03-17 03:03:00",
       "album": {
         "name": "verdeoliva",
-        "url": "https://open.spotify.com/album/2H7hKVSdxiA2KkGWbgqL7y"
+        "url": "https://open.spotify.com/album/4t1Cqj60EStRJvRJmHyGSf"
       },
       "artists": [
+        {
+          "name": "babyblue",
+          "url": "https://open.spotify.com/artist/3JJNQ8PqeYwVWCi7JdioCC"
+        },
         {
           "name": "Scanferla",
           "url": "https://open.spotify.com/artist/4M771czToCbPJDHSOn2cE9"
@@ -224,13 +228,13 @@
           "url": "https://open.spotify.com/artist/2e8VsVcu9BMZ9mWQ2sj0Cu"
         },
         {
-          "name": "babyblue",
-          "url": "https://open.spotify.com/artist/3JJNQ8PqeYwVWCi7JdioCC"
+          "name": "SadBoysDanceClub",
+          "url": "https://open.spotify.com/artist/6XolrAhzmJAEfxJiuT5PBc"
         }
       ],
       "duration_ms": 211428,
       "name": "verdeoliva",
-      "url": "https://open.spotify.com/track/2nVjHdovspH20wqq7zR8LG"
+      "url": "https://open.spotify.com/track/5GM0ivW0to4aD2ODLgnHu7"
     },
     {
       "added_at": "2023-03-17 03:03:00",

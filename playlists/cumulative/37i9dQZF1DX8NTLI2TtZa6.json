@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 192409,
       "name": "Amaprinces Bend",
       "url": "https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 173277,
       "name": "Eclectism",
       "url": "https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 97334,
       "name": "Evening",
       "url": "https://open.spotify.com/track/1O20Wf66xnmyiFITgfq0no"
@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 118928,
       "name": "Lacrimosa",
       "url": "https://open.spotify.com/track/5NI4ztzijs8sqoxlhqNleo"
@@ -3255,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Maybe One Day",
+        "url": "https://open.spotify.com/album/7r5CWxx4KhtJGL5x6PrZeB"
+      },
+      "artists": [
+        {
+          "name": "How It All Ends",
+          "url": "https://open.spotify.com/artist/78nAIN5HSq9vvW2NTsnv7j"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107585,
+      "name": "Maybe One Day",
+      "url": "https://open.spotify.com/track/07Er4NE1N681p2e6uHvEVI"
+    },
+    {
+      "album": {
         "name": "Me And My Piano",
         "url": "https://open.spotify.com/album/1PjKM6ChtggdF8rlBhe3I1"
       },
@@ -3504,6 +3522,24 @@
       "duration_ms": 144846,
       "name": "Mondegreen",
       "url": "https://open.spotify.com/track/6BKGokQ3PKLFqBlCBjCy8J"
+    },
+    {
+      "album": {
+        "name": "Mondes S\u00e9par\u00e9s",
+        "url": "https://open.spotify.com/album/3REt6vSBBZLsqVIMFh6lXB"
+      },
+      "artists": [
+        {
+          "name": "Pontus De Bjorn",
+          "url": "https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173203,
+      "name": "Mondes S\u00e9par\u00e9s",
+      "url": "https://open.spotify.com/track/5ahumDIhhAggyOmPzPMscT"
     },
     {
       "album": {
@@ -5626,7 +5662,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 214862,
       "name": "The Open",
       "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
@@ -6400,7 +6436,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 146000,
       "name": "Your Heart Will Mend",
       "url": "https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK"

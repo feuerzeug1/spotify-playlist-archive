@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Mayberg
 
-181 songs - 9 hr 50 min
+182 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-01-27 |  |
 | [August](https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [August](https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo) | 2:48 | 2023-03-02 |  |
 | [Backyard Body](https://open.spotify.com/track/1LdlloAKsamceZO7qDSfQS) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [RISE OF THE ROMANIAC](https://open.spotify.com/album/4fXKTHlYNHgc6RLGe4cSrg) | 2:12 | 2022-05-26 | 2022-10-28 |
-| [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 | 2023-02-23 |  |
+| [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 | 2023-02-23 | 2023-03-22 |
+| [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 | 2023-03-16 |  |
 | [besoffen in den spiegel schauen](https://open.spotify.com/track/4xEfMKxaESmdTTAuu2GHK1) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [2022 war film gewesen](https://open.spotify.com/album/7lOlLrkcD0F2SXIqyVxL43) | 2:38 | 2022-12-01 | 2023-02-10 |
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-01-13 | 2022-07-15 |
 | [Blood In The Water](https://open.spotify.com/track/7aIAOHBLDuh2IKJPM97VBb) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Blood In The Water](https://open.spotify.com/album/1IbRlTLil2YwX2M0eCo9BU) | 3:27 | 2022-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,361 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,189 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 38 | [Faster \(Slowed & Reverb\)](https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Slowed & Reverb\)](https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16) | 3:19 |
 | 39 | [Dead and Cold \- slowed + reverb](https://open.spotify.com/track/2JwwQ2I8X3BY16FI5gU73N) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [ikigai](https://open.spotify.com/album/2mQAZGydiDuyjgq1Oc2Cay) | 1:45 |
 | 40 | [Losing It \- Slowed and Reverb](https://open.spotify.com/track/3fUr3a6WI1j2zpvBm6YoD1) | [ZRobb](https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Please Don’t Kill My Vibes](https://open.spotify.com/album/7wZAMRDwtGZqiUDy1fxIbz) | 3:28 |
-| 41 | [girls like me don't cry \(slowed + reverbed\)](https://open.spotify.com/track/1hKIo5tLpcGiEU4UYXcBUW) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(slowed + reverbed\)](https://open.spotify.com/album/5iBm3sjljUuRPNp9711SSV) | 4:07 |
-| 42 | [dirty laundry \- slowed](https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dirty laundry \(slowed\)](https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA) | 2:47 |
+| 41 | [dirty laundry \- slowed](https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dirty laundry \(slowed\)](https://open.spotify.com/album/6kOe0KBPYTEkJZNJaVj3BA) | 2:47 |
+| 42 | [girls like me don't cry \(slowed + reverbed\)](https://open.spotify.com/track/1hKIo5tLpcGiEU4UYXcBUW) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(slowed + reverbed\)](https://open.spotify.com/album/5iBm3sjljUuRPNp9711SSV) | 4:07 |
 | 43 | [Wrap Me In Plastic \- Slowed Down Version](https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz) | [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Wrap Me In Plastic](https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6) | 2:27 |
 | 44 | [Ease Off \- Slowed & Reverbed](https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Ease Off \(Slowed & Reverbed\)](https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9) | 2:41 |
 | 45 | [Use Me \(Slowed + Reverb\)](https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Use Me \(Slowed + Reverb\)](https://open.spotify.com/album/1dz4vYS8chpVh6qutTn0WT) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Us and Them](https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx) | [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu), [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Us and Them](https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ) | 2:46 |
 | 50 | [This December \- slow](https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Slowed Down Songs + Reverb](https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:33 |
 
-Snapshot ID: `MTY3NzU5Njc5MSwwMDAwMDAwMDA0MGFkMWJlNjAwZDM1YTc3YTNhYzkwMDc2MzFhZTRh`
+Snapshot ID: `MTY3NzU5Njc5MSwwMDAwMDAwMDMwOTE1OWY2M2FlMTlmODZiNzc4ODhjNDliMWU0YzUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Kweller, Enzo Cello
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,894 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,943 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 19 | [Astro do Jogo](https://open.spotify.com/track/5rEiujx7y6DmL0DZOrEn5G) | [Luucc](https://open.spotify.com/artist/0wIuJnSUmeWsw2VJGrlJNZ), [OG Bahia](https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1) | [Astro do Jogo](https://open.spotify.com/album/10xpciuCnHt2Xa5BCoeUlc) | 3:03 |
 | 20 | [Hobby](https://open.spotify.com/track/0invUkjzxO7qrYA49WVVqf) | [GUZ'](https://open.spotify.com/artist/6qfyniwgtYmjHxNTtJ0hKH), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Hobby](https://open.spotify.com/album/28RDt9nIo3n2JUMMxjwScs) | 2:06 |
 | 21 | [Até de Manhã](https://open.spotify.com/track/7MNhqcUCz2cO9e0rQKNmAN) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L) | [Até de Manhã](https://open.spotify.com/album/3FYfkAQyRHctDMYBARczaO) | 2:27 |
-| 22 | [Shawty](https://open.spotify.com/track/6ymQHqkdFdbXm8B8a0Zq0s) | [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq), [Jovem Lucy](https://open.spotify.com/artist/0hBRC3XcpaS7YnZyQCLw7Y), [FJOTA](https://open.spotify.com/artist/2EaN7Ag32d6Cfh2qldaKwW) | [Shawty](https://open.spotify.com/album/2IIIkZeIddAl4kzecD8Up0) | 2:09 |
+| 22 | [Shawty](https://open.spotify.com/track/6ymQHqkdFdbXm8B8a0Zq0s) | [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq), [Lucy](https://open.spotify.com/artist/63hfE92vmhBqSVXZIMUCRV), [FJOTA](https://open.spotify.com/artist/2EaN7Ag32d6Cfh2qldaKwW) | [Shawty](https://open.spotify.com/album/2IIIkZeIddAl4kzecD8Up0) | 2:09 |
 | 23 | [A Caminhada](https://open.spotify.com/track/2acxJEN7H8Am25aNrjvALV) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [Vetê](https://open.spotify.com/artist/4rK9jpfYyPonz6pu8f07Xo), [Digo](https://open.spotify.com/artist/2dcYwUve7HEtsLfNRWUrJG), [Piranda](https://open.spotify.com/artist/0vZqgvkB45xNKj5Kt7Q9JY) | [A Caminhada](https://open.spotify.com/album/04GmIRIYs0MI5yrXQPZ3wm) | 3:13 |
 | 24 | [Nunca chore por vadias](https://open.spotify.com/track/0OcDfESwU0Whb7lpCeVOKW) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB) | [Nunca chore por vadias](https://open.spotify.com/album/2YS0s5coc75DzzFeWgtRMH) | 2:07 |
 | 25 | [Teresina Freestyle](https://open.spotify.com/track/1utfhB5GPYBy3Z67waSsSv) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Gabriel Dourado](https://open.spotify.com/artist/4M5eskqFFQH6WyoVvI5UU2), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Teresina Freestyle](https://open.spotify.com/album/25NOjBfC8zNXCQ21Xf1oQ0) | 2:18 |

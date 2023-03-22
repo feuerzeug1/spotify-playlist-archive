@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 5724,
+  "num_followers": 5728,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "Njc1MixlODQwNmRkNTExMGE3NWQxMDhlZGFlZWE4ZTAyNTU5MjIzYjVjZDc1",
+  "snapshot_id": "Njc1NSxjZTBkNzdjNzVjNWZkZTc0NTc1ZjgwZjM0NWVjMTVjMmU1ZDVhZWEy",
   "tracks": [
     {
       "added_at": "2023-03-17 17:04:22",
@@ -131,6 +131,30 @@
       "duration_ms": 266880,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1A2wzcrv8FE2BNa6FqHONI"
+    },
+    {
+      "added_at": "2023-03-21 10:43:23",
+      "album": {
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/5SdrDyvZPbBLkM7ocSh3pQ"
+      },
+      "artists": [
+        {
+          "name": "Needs No Sleep",
+          "url": "https://open.spotify.com/artist/5PBIAEdx1voGTUb8apBiEs"
+        },
+        {
+          "name": "R3WIRE",
+          "url": "https://open.spotify.com/artist/7fWHxqQznKDOJeJofEjDcn"
+        },
+        {
+          "name": "Kxne",
+          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
+        }
+      ],
+      "duration_ms": 156968,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/6e2ijg9E7AwR4JWuHI3AhY"
     },
     {
       "added_at": "2023-03-17 17:04:28",

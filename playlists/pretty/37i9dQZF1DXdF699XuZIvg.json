@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 596599,
+  "num_followers": 596993,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODcyOTE5NSwwMDAwMDAwMDg2ZGRlOGZhZTMwMjhiYTRkYjQ5NjJlNzRhNGU2ODVh",
+  "snapshot_id": "MTY3ODcyOTE5NSwwMDAwMDAwMDM4Yzg1MjIyYzRhNmQ4YTM2NWQ2ZjI4NTI1MjVkYTY1",
   "tracks": [
     {
       "added_at": "2023-03-13 17:39:55",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
-    },
-    {
-      "added_at": "2023-03-13 17:39:55",
-      "album": {
         "name": "Master of Reality (2014 Remaster)",
         "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 317206,
       "name": "Children of the Grave - 2014 Remaster",
       "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
+    },
+    {
+      "added_at": "2023-03-13 17:39:55",
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
     },
     {
       "added_at": "2023-03-13 17:39:55",

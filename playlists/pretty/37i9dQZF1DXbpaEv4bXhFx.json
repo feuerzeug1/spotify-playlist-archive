@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8333,
+  "num_followers": 8338,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUyMjgwNiwwMDAwMDAwMGVjOWY1NDA2NzI2NGU3NzJkMWU5ZDFlOTI4MzkyZTAz",
+  "snapshot_id": "MTY3ODUyMjgwNiwwMDAwMDAwMGE0OTM2M2E5OGE2MGUxNGJhZjZlY2I0YzZlZWExMWM5",
   "tracks": [
     {
       "added_at": "2023-03-11 08:20:06",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
+        "name": "You Are My Spring OST Part 3",
+        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyunsang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 161738,
+      "name": "Still Wonder",
+      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
+    },
+    {
+      "added_at": "2023-03-11 08:20:06",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
-        "name": "You Are My Spring OST Part 3",
-        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
+        "name": "6equence",
+        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
       "artists": [
         {
-          "name": "Ha Hyunsang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
         }
       ],
-      "duration_ms": 161738,
-      "name": "Still Wonder",
-      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
+      "duration_ms": 212280,
+      "name": "ddu ddu ddu",
+      "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
     },
     {
       "added_at": "2023-03-11 08:20:06",
@@ -587,22 +603,6 @@
       "duration_ms": 236097,
       "name": "A Kind Of Confession (Male Ver.)",
       "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
-    },
-    {
-      "added_at": "2023-03-11 08:20:06",
-      "album": {
-        "name": "6equence",
-        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "ddu ddu ddu",
-      "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
     },
     {
       "added_at": "2023-03-11 08:20:06",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
-        "name": "Night Poem",
-        "url": "https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "Night Poem",
-      "url": "https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc"
-    },
-    {
-      "added_at": "2023-03-11 08:20:06",
-      "album": {
         "name": "Can We Talk Again",
         "url": "https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 184386,
       "name": "Can We Talk Again",
       "url": "https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo"
+    },
+    {
+      "added_at": "2023-03-11 08:20:06",
+      "album": {
+        "name": "Night Poem",
+        "url": "https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "Night Poem",
+      "url": "https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc"
     },
     {
       "added_at": "2023-03-11 08:20:06",

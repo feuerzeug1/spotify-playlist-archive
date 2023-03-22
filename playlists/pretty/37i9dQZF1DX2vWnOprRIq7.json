@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Alfonsina.",
-  "num_followers": 15157,
+  "num_followers": 15164,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDkxOWU0YWI1MjEwNzBlYWU0ZWQ1NWU5MDFhNGFiMjRh",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMGVmMDY4YTkyYTRlMjU4OWFhYWNjZjI3NzVlZmNiOTIz",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Amor Perfecto (Reprise)",
+        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Amor Perfecto - Reprise",
+      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "TODO HA CAMBIAO'",
         "url": "https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 229369,
       "name": "TODO HA CAMBIAO'",
       "url": "https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Amor Perfecto (Reprise)",
-        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Amor Perfecto - Reprise",
-      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Valientes",
-        "url": "https://open.spotify.com/album/1K2HuoKRr6EcSECJ6pX66Z"
-      },
-      "artists": [
-        {
-          "name": "Nicole",
-          "url": "https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS"
-        }
-      ],
-      "duration_ms": 241790,
-      "name": "Valientes",
-      "url": "https://open.spotify.com/track/25PChx1yPUT0BNmNyuxMsh"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Dime Algo (bonito)",
         "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180000,
       "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
       "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Valientes",
+        "url": "https://open.spotify.com/album/1K2HuoKRr6EcSECJ6pX66Z"
+      },
+      "artists": [
+        {
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS"
+        }
+      ],
+      "duration_ms": 241790,
+      "name": "Valientes",
+      "url": "https://open.spotify.com/track/25PChx1yPUT0BNmNyuxMsh"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Galactic Feelings",
-        "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 250775,
-      "name": "Galactic Feelings",
-      "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "mondomamba",
         "url": "https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Recuerdo Infinito",
-        "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
+        "name": "Galactic Feelings",
+        "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
       },
       "artists": [
         {
-          "name": "Christian Jean",
-          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
         }
       ],
-      "duration_ms": 293386,
-      "name": "Recuerdo Infinito",
-      "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
+      "duration_ms": 250775,
+      "name": "Galactic Feelings",
+      "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1047,6 +1031,22 @@
       "duration_ms": 213000,
       "name": "FRONTERAS",
       "url": "https://open.spotify.com/track/190JPM6ySJgA6BAilTqdXH"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Recuerdo Infinito",
+        "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
+      },
+      "artists": [
+        {
+          "name": "Christian Jean",
+          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
+        }
+      ],
+      "duration_ms": 293386,
+      "name": "Recuerdo Infinito",
+      "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Quisiera Que Est\u00e9s Ac\u00e1",
-        "url": "https://open.spotify.com/album/7h8hyIl17lK83coCU4SlsL"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 290500,
-      "name": "Quisiera Que Est\u00e9s Ac\u00e1",
-      "url": "https://open.spotify.com/track/6ykcUdGzVRqXRri3JqgLm8"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 235000,
       "name": "Mala",
       "url": "https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Quisiera Que Est\u00e9s Ac\u00e1",
+        "url": "https://open.spotify.com/album/7h8hyIl17lK83coCU4SlsL"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 290500,
+      "name": "Quisiera Que Est\u00e9s Ac\u00e1",
+      "url": "https://open.spotify.com/track/6ykcUdGzVRqXRri3JqgLm8"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "soy gris",
-        "url": "https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC"
+        "name": "Burbuja",
+        "url": "https://open.spotify.com/album/2seHFJih4CwtUjk2dtDrhB"
       },
       "artists": [
         {
-          "name": "Catalina Bay\u00e1",
-          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+          "name": "Lalalas",
+          "url": "https://open.spotify.com/artist/4I3IevY23wtsnyApeZP3Xi"
         }
       ],
-      "duration_ms": 180000,
-      "name": "soy gris",
-      "url": "https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12"
+      "duration_ms": 215585,
+      "name": "Pantano",
+      "url": "https://open.spotify.com/track/5AagTl4xb8fDDX0Tnp8dXA"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Burbuja",
-        "url": "https://open.spotify.com/album/2seHFJih4CwtUjk2dtDrhB"
+        "name": "soy gris",
+        "url": "https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC"
       },
       "artists": [
         {
-          "name": "Lalalas",
-          "url": "https://open.spotify.com/artist/4I3IevY23wtsnyApeZP3Xi"
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
         }
       ],
-      "duration_ms": 215585,
-      "name": "Pantano",
-      "url": "https://open.spotify.com/track/5AagTl4xb8fDDX0Tnp8dXA"
+      "duration_ms": 180000,
+      "name": "soy gris",
+      "url": "https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Quem\u00e1ndome al Sol",
-        "url": "https://open.spotify.com/album/5IstXnlnWjKScmuMQVnzmh"
-      },
-      "artists": [
-        {
-          "name": "Axel Krygier",
-          "url": "https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF"
-        }
-      ],
-      "duration_ms": 201656,
-      "name": "Quem\u00e1ndome al Sol",
-      "url": "https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Extra\u00f1o ser",
-        "url": "https://open.spotify.com/album/4Wk4LntMYRIOVEquWr2HrU"
-      },
-      "artists": [
-        {
-          "name": "Audia Valdez",
-          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
-        }
-      ],
-      "duration_ms": 247798,
-      "name": "Extra\u00f1o ser",
-      "url": "https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Futuro Perfecto Futuro",
         "url": "https://open.spotify.com/album/6uFyFgjOu7Bn4dfK05M1Fo"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Extra\u00f1o ser",
+        "url": "https://open.spotify.com/album/4Wk4LntMYRIOVEquWr2HrU"
+      },
+      "artists": [
+        {
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
+        }
+      ],
+      "duration_ms": 247798,
+      "name": "Extra\u00f1o ser",
+      "url": "https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Tiempo Sin Piel",
         "url": "https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 248700,
       "name": "Tiempo Sin Piel",
       "url": "https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Quem\u00e1ndome al Sol",
+        "url": "https://open.spotify.com/album/5IstXnlnWjKScmuMQVnzmh"
+      },
+      "artists": [
+        {
+          "name": "Axel Krygier",
+          "url": "https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF"
+        }
+      ],
+      "duration_ms": 201656,
+      "name": "Quem\u00e1ndome al Sol",
+      "url": "https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y"
     },
     {
       "added_at": "2023-03-17 03:00:00",

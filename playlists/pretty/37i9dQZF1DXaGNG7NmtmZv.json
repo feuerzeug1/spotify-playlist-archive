@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 180920,
+  "num_followers": 181010,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGM2OGY0NDM5ZTM2M2VjY2IyYTJjMWI5NzQyZTA0ODg4",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDA3YWQ2MDI0OGEyMzFjODg3ZjhlZWY2OTNiYWI4MmYw",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -395,6 +395,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "State Of The World Address",
+        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Vision of Disorder",
         "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 97266,
       "name": "Mailer, Meet Jim",
       "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "State Of The World Address",
-        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
-      },
-      "artists": [
-        {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -503,22 +503,6 @@
       "duration_ms": 96053,
       "name": "Can't Take It Away",
       "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Hail Destroyer",
-        "url": "https://open.spotify.com/album/21rFHsmF8bEOVq7fYvCr67"
-      },
-      "artists": [
-        {
-          "name": "Cancer Bats",
-          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Hail Destroyer",
-      "url": "https://open.spotify.com/track/1G6dOWV5WuDkg78BCT77uX"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -699,22 +683,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
-      },
-      "artists": [
-        {
-          "name": "Life Of Agony",
-          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Let's Pretend",
-      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Dedication",
         "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
       },
@@ -731,6 +699,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Let's Pretend",
+      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Unorthodox",
         "url": "https://open.spotify.com/album/43x6i9LnpamFuzgOguORon"
       },
@@ -743,22 +727,6 @@
       "duration_ms": 108279,
       "name": "Blindfold",
       "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "The Wounds That Never Heal",
-        "url": "https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf"
-      },
-      "artists": [
-        {
-          "name": "Stigmata",
-          "url": "https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz"
-        }
-      ],
-      "duration_ms": 263013,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/2GCFX4cNARwJkNEG6NqnoM"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -807,6 +775,38 @@
       "duration_ms": 209160,
       "name": "Gomorrah's Season Ends",
       "url": "https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "The Wounds That Never Heal",
+        "url": "https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf"
+      },
+      "artists": [
+        {
+          "name": "Stigmata",
+          "url": "https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz"
+        }
+      ],
+      "duration_ms": 263013,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/2GCFX4cNARwJkNEG6NqnoM"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Set Your Goals",
+        "url": "https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda"
+      },
+      "artists": [
+        {
+          "name": "CIV",
+          "url": "https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "Choices Made",
+      "url": "https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL"
     }
   ],
   "unique_name": "Classic Hardcore",

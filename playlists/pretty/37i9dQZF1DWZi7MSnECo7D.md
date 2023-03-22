@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Jambu
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,964 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,969 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 10 | [VOU TE CONVIDAR](https://open.spotify.com/track/0nGfP61h8yHToSYiXnngXi) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [VOU TE CONVIDAR](https://open.spotify.com/album/6CbebK3fUPIWu0SJ1KaXMm) | 3:31 |
 | 11 | [Forbidden Fruit](https://open.spotify.com/track/070LHp7zkcBY0e3yaGBWjH) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Forbidden Fruit](https://open.spotify.com/album/5JC849KO0dGCfneo4SlTma) | 2:51 |
 | 12 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
-| 13 | [verdeoliva](https://open.spotify.com/track/2nVjHdovspH20wqq7zR8LG) | [Scanferla](https://open.spotify.com/artist/4M771czToCbPJDHSOn2cE9), [Gabriel Fernandes](https://open.spotify.com/artist/2e8VsVcu9BMZ9mWQ2sj0Cu), [babyblue](https://open.spotify.com/artist/3JJNQ8PqeYwVWCi7JdioCC) | [verdeoliva](https://open.spotify.com/album/2H7hKVSdxiA2KkGWbgqL7y) | 3:31 |
+| 13 | [verdeoliva](https://open.spotify.com/track/5GM0ivW0to4aD2ODLgnHu7) | [babyblue](https://open.spotify.com/artist/3JJNQ8PqeYwVWCi7JdioCC), [Scanferla](https://open.spotify.com/artist/4M771czToCbPJDHSOn2cE9), [Gabriel Fernandes](https://open.spotify.com/artist/2e8VsVcu9BMZ9mWQ2sj0Cu), [SadBoysDanceClub](https://open.spotify.com/artist/6XolrAhzmJAEfxJiuT5PBc) | [verdeoliva](https://open.spotify.com/album/4t1Cqj60EStRJvRJmHyGSf) | 3:31 |
 | 14 | [Sensível](https://open.spotify.com/track/186od6oy358cSNu00HrQp9) | [j4mpa](https://open.spotify.com/artist/6x1PjwopHU4qaamzJrAhAt) | [Sensível](https://open.spotify.com/album/6yf7vHJPUJe9R8HSvuZaQb) | 2:38 |
 | 15 | [Espaço](https://open.spotify.com/track/67KhBNkSVEYTK9cPCq3QT8) | [Truno](https://open.spotify.com/artist/7L3mzGXS63zp79NOHXwUqV), [Chediak](https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK) | [Espaço](https://open.spotify.com/album/6Eqw1khsQ5TUcekYMqbuaR) | 1:57 |
 | 16 | [Coocoocrazy](https://open.spotify.com/track/4BliVo1uZWjMDu6iP1S4Gy) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Coocoocrazy](https://open.spotify.com/album/3rRVEwcZU3BTbu2X7AmEPp) | 2:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [festa estranha](https://open.spotify.com/track/5Gj78z3zpdXoZzlpEIibOb) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [festa estranha](https://open.spotify.com/album/3ngy9z7zLwytb1QVECUTnz) | 2:51 |
 | 75 | [Suco de Umbu](https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw) | [Florais Da Terra Quente](https://open.spotify.com/artist/4o2BxKIeP7nFrkIQZCNl1R), [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Suco de Umbu](https://open.spotify.com/album/5XzQwlFEVncfk4BvGaFeIt) | 3:54 |
 
-Snapshot ID: `MTY3OTAyMjE4MCwwMDAwMDAwMDhmNjA4YTlkOTRmY2Q1NmVjYjRlOTk5YzY1NTE2N2Q3`
+Snapshot ID: `MTY3OTAyMjE4MCwwMDAwMDAwMDViMGE2MDkzMDA5NWQ4ZmZhODFiZGIyYjMyMDhkMzBm`

@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 236910,
       "name": "Ay Lala (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/7IFuCdfzWR9bKgIoOqJE4j"
@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 146465,
       "name": "BMW",
       "url": "https://open.spotify.com/track/0e9dWwZD9EemG1w92C3JLp"
@@ -3532,7 +3532,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
@@ -4024,7 +4024,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 306063,
       "name": "CH\u0141OPAK NATSU",
       "url": "https://open.spotify.com/track/0AMEJVKGfCyhLxb0sPjSD9"
@@ -7693,6 +7693,24 @@
     },
     {
       "album": {
+        "name": "Guten Tag",
+        "url": "https://open.spotify.com/album/5ckBaMTmGanhuftsnLMV2R"
+      },
+      "artists": [
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179548,
+      "name": "Guten Tag",
+      "url": "https://open.spotify.com/track/6ins5at6n9LlWkOKvTGLBl"
+    },
+    {
+      "album": {
         "name": "Lata Dwudzieste",
         "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
       },
@@ -7962,7 +7980,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 136618,
       "name": "Herbata Z Imbirem",
       "url": "https://open.spotify.com/track/3FZPXHN1fgFeZEiXlMtosR"
@@ -8068,7 +8086,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 157714,
       "name": "Hop",
       "url": "https://open.spotify.com/track/6KdJ4FS5l7OOi73CGgtEM3"
@@ -8202,7 +8220,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -8322,7 +8340,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -10384,7 +10402,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 177306,
       "name": "Kiss cam (podryw roku)",
       "url": "https://open.spotify.com/track/6eIVuPSZ7D8Q1uaZc8cQnz"
@@ -14358,7 +14376,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "nigdy wi\u0119cej 2022",
       "url": "https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq"
@@ -23298,6 +23316,24 @@
       "duration_ms": 204033,
       "name": "Zapomnij O Mnie",
       "url": "https://open.spotify.com/track/3My2uITQy5Fbfe0mgoB7sO"
+    },
+    {
+      "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "ZAZA",
+      "url": "https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj"
     },
     {
       "album": {

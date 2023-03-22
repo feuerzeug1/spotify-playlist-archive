@@ -1,15 +1,15 @@
 {
   "description": "Lo mas pegao en Dembow. \nCover: Prince Royce & El Alfa",
-  "num_followers": 331688,
+  "num_followers": 331811,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MDE0NywwMDAwMDAwMDVmODY2NDNlZWU5Y2UzNWVhMjYxY2JjYjkyMWRhYTk1",
+  "snapshot_id": "MTY3OTA0MDE0NywwMDAwMDAwMDQyYWRlZTM0NTVhNDg2ZDYyMTJjZjgyYTE1YzI1N2E4",
   "tracks": [
     {
-      "added_at": "2023-03-21 00:11:57",
+      "added_at": "2023-03-22 00:40:45",
       "album": {
         "name": "Helicoptero",
         "url": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Maliante",
-        "url": "https://open.spotify.com/album/4JYslbzoOPChDxxyYTvkn0"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 151423,
-      "name": "Maliante",
-      "url": "https://open.spotify.com/track/2bktmhGaISzLn0XCdeGzK4"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Jugando con la Nieve",
         "url": "https://open.spotify.com/album/2MzO7ZX3uRtJS4zuf6Koor"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 160714,
       "name": "Jugando con la Nieve",
       "url": "https://open.spotify.com/track/6HnlIqJUzp4kv4QvPzolem"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Maliante",
+        "url": "https://open.spotify.com/album/4JYslbzoOPChDxxyYTvkn0"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 151423,
+      "name": "Maliante",
+      "url": "https://open.spotify.com/track/2bktmhGaISzLn0XCdeGzK4"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1247,6 +1247,46 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT"
+      },
+      "artists": [
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "duration_ms": 180048,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Gass Pure",
+        "url": "https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "duration_ms": 137586,
+      "name": "Gass Pure",
+      "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Los Chingones",
         "url": "https://open.spotify.com/album/1pjdpYJl4xIOlBkM3hRV1e"
       },
@@ -1271,46 +1311,6 @@
       "duration_ms": 207150,
       "name": "Los Chingones",
       "url": "https://open.spotify.com/track/1vJ1Uh9A7v1OKGi96R0E8b"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Gass Pure",
-        "url": "https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW"
-      },
-      "artists": [
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        }
-      ],
-      "duration_ms": 137586,
-      "name": "Gass Pure",
-      "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT"
-      },
-      "artists": [
-        {
-          "name": "Harryson",
-          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        }
-      ],
-      "duration_ms": 180048,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Totola",
-        "url": "https://open.spotify.com/album/3yQoqF708rUa8sY5fzLcJ7"
-      },
-      "artists": [
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Totola",
-      "url": "https://open.spotify.com/track/01obeUENTIoIHFo3bbzUQ7"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "No Smoking",
         "url": "https://open.spotify.com/album/3j77cWmV5HsKzHuCXaSkoW"
       },
@@ -1591,26 +1575,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Bagre",
-        "url": "https://open.spotify.com/album/6xONvAcQS1GBqrMH3O85lU"
-      },
-      "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        },
-        {
-          "name": "Imperio Record",
-          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
-        }
-      ],
-      "duration_ms": 160307,
-      "name": "Bagre",
-      "url": "https://open.spotify.com/track/12wW9cNLX11umS3lh10xsE"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Toy Recho",
         "url": "https://open.spotify.com/album/4ZsZyqUQhrjglhowlpQLje"
       },
@@ -1651,6 +1615,26 @@
       "duration_ms": 247344,
       "name": "Toy Recho",
       "url": "https://open.spotify.com/track/7EaqF8I2orDLusjuPgMvXO"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Bagre",
+        "url": "https://open.spotify.com/album/6xONvAcQS1GBqrMH3O85lU"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Imperio Record",
+          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+        }
+      ],
+      "duration_ms": 160307,
+      "name": "Bagre",
+      "url": "https://open.spotify.com/track/12wW9cNLX11umS3lh10xsE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1807,22 +1791,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "La Cojio",
-        "url": "https://open.spotify.com/album/63gtMBrpqj5KIsHGCJ2dWE"
-      },
-      "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "La Cojio",
-      "url": "https://open.spotify.com/track/7ofdxnOjU0OcvpGqPgH3jw"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Kaly Pool Party",
         "url": "https://open.spotify.com/album/0CLEvCpG5nuJZN7Xi0MMEf"
       },
@@ -1843,6 +1811,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "La Cojio",
+        "url": "https://open.spotify.com/album/63gtMBrpqj5KIsHGCJ2dWE"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "La Cojio",
+      "url": "https://open.spotify.com/track/7ofdxnOjU0OcvpGqPgH3jw"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Toco Toco To (Remix)",
         "url": "https://open.spotify.com/album/2iXgX55gK4LZF0o0E8odmI"
       },
@@ -1859,22 +1843,6 @@
       "duration_ms": 202219,
       "name": "Toco Toco To - Remix",
       "url": "https://open.spotify.com/track/6t5WDx1H74Qqr5kl8kAkj9"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Moriremos",
-        "url": "https://open.spotify.com/album/1dUvWr9F2VVNxiQ0JsiMTR"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 151744,
-      "name": "Moriremos",
-      "url": "https://open.spotify.com/track/2xgSrqcEUnsNtTThaClnv4"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1939,6 +1907,38 @@
       "duration_ms": 147543,
       "name": "Yo Lo Da\u00f1o",
       "url": "https://open.spotify.com/track/0KzcNyuqxT7DoKBOMplUzc"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Moriremos",
+        "url": "https://open.spotify.com/album/1dUvWr9F2VVNxiQ0JsiMTR"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "duration_ms": 151744,
+      "name": "Moriremos",
+      "url": "https://open.spotify.com/track/2xgSrqcEUnsNtTThaClnv4"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Piri Bambam",
+        "url": "https://open.spotify.com/album/5Km2nse90GAiZWWrv8zzAh"
+      },
+      "artists": [
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Piri Bambam",
+      "url": "https://open.spotify.com/track/2ig60OGpxzFz9qHpXCAsNY"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2027,38 +2027,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Piri Bambam",
-        "url": "https://open.spotify.com/album/5Km2nse90GAiZWWrv8zzAh"
-      },
-      "artists": [
-        {
-          "name": "Kaly Ocho",
-          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Piri Bambam",
-      "url": "https://open.spotify.com/track/2ig60OGpxzFz9qHpXCAsNY"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Scooby Doo Pa Pa (DJ Kass Official 2018 Mix)",
-        "url": "https://open.spotify.com/album/6XIU9ZthhlHNdXenVojDHe"
-      },
-      "artists": [
-        {
-          "name": "Dj Kass",
-          "url": "https://open.spotify.com/artist/431Pb5EV8KsCBGTw96ZTQ4"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Scooby Doo Pa Pa (DJ Kass Official 2018 Mix)",
-      "url": "https://open.spotify.com/track/6Tu4TjWIIRQ38lhUyotVEd"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Caserio",
         "url": "https://open.spotify.com/album/0p2iIgdJYbMYhVsrJQwK5p"
       },
@@ -2079,6 +2047,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Scooby Doo Pa Pa (DJ Kass Official 2018 Mix)",
+        "url": "https://open.spotify.com/album/6XIU9ZthhlHNdXenVojDHe"
+      },
+      "artists": [
+        {
+          "name": "Dj Kass",
+          "url": "https://open.spotify.com/artist/431Pb5EV8KsCBGTw96ZTQ4"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Scooby Doo Pa Pa (DJ Kass Official 2018 Mix)",
+      "url": "https://open.spotify.com/track/6Tu4TjWIIRQ38lhUyotVEd"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Dejen Su Loquera",
         "url": "https://open.spotify.com/album/5v6B5vwTTfkjWR3mCjfWiD"
       },
@@ -2095,6 +2079,26 @@
       "duration_ms": 177972,
       "name": "Dejen Su Loquera",
       "url": "https://open.spotify.com/track/0cRdPQhJwgKl2NEvtjUaz7"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Que Sera?",
+        "url": "https://open.spotify.com/album/0b5Y1nuev4ssM5k0WedKWY"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 181079,
+      "name": "Que Sera?",
+      "url": "https://open.spotify.com/track/1o7pdhP5Z4u9hWtIFFaqu4"
     }
   ],
   "unique_name": "Dembow Pegao",

@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 40450,
+  "num_followers": 40518,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk2NjczMSwwMDAwMDAwMGM1YmI5MjBkNGU0N2JlZWQ3MjU5OWYxYTMwZmU3NTE0",
+  "snapshot_id": "MTY3ODk2NjczMSwwMDAwMDAwMDAxNzA1MGVhYTA4MTBiOTYzY2ZkNTA5MGVmODdlZjYx",
   "tracks": [
     {
       "added_at": "2023-03-09 17:03:40",
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
-      "added_at": "2023-03-21 01:00:45",
+      "added_at": "2023-03-22 00:46:36",
       "album": {
         "name": "HALLYWUD",
         "url": "https://open.spotify.com/album/3lAS3tiXJyjOkyDYXCd5YS"
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-03-09 17:03:40",
       "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Teu Eternamente",
+      "url": "https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK"
+    },
+    {
+      "added_at": "2023-03-09 17:03:40",
+      "album": {
         "name": "Man Down",
         "url": "https://open.spotify.com/album/1S5w4wJZoMPoacHqBWWTwF"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 194339,
       "name": "Amaz\u00f3nia",
       "url": "https://open.spotify.com/track/2ySZ2kVCZRQ0gJ5Lu0EoxJ"
-    },
-    {
-      "added_at": "2023-03-09 17:03:40",
-      "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Teu Eternamente",
-      "url": "https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK"
     },
     {
       "added_at": "2023-03-09 17:03:40",

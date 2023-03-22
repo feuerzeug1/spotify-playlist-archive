@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  KB
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,712 likes - 99 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,872 likes - 99 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 31 | [Sunday Is Coming](https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/4dkpEziADCqKpBvszDfPua) | 4:52 |
 | 32 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 |
 | 33 | [Who Is This Man \- Live](https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Who Is This Man \(Live\)](https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK) | 9:59 |
-| 34 | [I Believe \- Live At Shepard Church](https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [I Believe \(Live At Shepherd Church\)](https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q) | 4:46 |
+| 34 | [I Believe \- Live At Shepherd Church](https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [I Believe \(Live At Shepherd Church\)](https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q) | 4:46 |
 | 35 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 |
 | 36 | [All Creatures \(Sing the Harmony\) \- Live](https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Psalms, Hymns, and Spiritual Songs \(Live\)](https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv) | 3:59 |
 | 37 | [All Hail King Jesus](https://open.spotify.com/track/4wi7Xn4ueFhItAuYb4jkIa) | [Lifeway Worship](https://open.spotify.com/artist/3JKSiFPFpKSntu64OwWnIw) | [All Hail King Jesus](https://open.spotify.com/album/3XL9QjhqzT3lLN16dgC8ah) | 5:36 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 59 | [Untitled.](https://open.spotify.com/track/49tLWn3EUsMxr8dMmzd6Rs) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Scars Hidden Within](https://open.spotify.com/album/4WkEelkBnuPefKjSY3TEAo) | 0:51 |
 | 60 | [Procrastinating](https://open.spotify.com/track/4sIOvktWsUIKEIUALX0ItC) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [Procrastinating](https://open.spotify.com/album/7f1SovVhz80yTmo4aXSiFt) | 3:18 |
 | 61 | [BEST SHE’S EVER SEEN](https://open.spotify.com/track/5oFo81NLGYOg7tbc3zE4tO) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2), [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [BEST SHE’S EVER SEEN](https://open.spotify.com/album/3IdVVD7RpLxKx9dTn5i6hP) | 3:15 |
-| 62 | [i don't have answer](https://open.spotify.com/track/4jDk3MVj4hg7Ze8J8mhAH0) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Jachin McDonald](https://open.spotify.com/artist/1hiQrnbjtvG52NsnkTvWhS) | [i don't have an answer](https://open.spotify.com/album/727RMRdJBwvahqpJoWe3fc) | 2:11 |
+| 62 | [i don't have an answer](https://open.spotify.com/track/4jDk3MVj4hg7Ze8J8mhAH0) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Jachin McDonald](https://open.spotify.com/artist/1hiQrnbjtvG52NsnkTvWhS) | [i don't have an answer](https://open.spotify.com/album/727RMRdJBwvahqpJoWe3fc) | 2:11 |
 | 63 | [Headfirst](https://open.spotify.com/track/5N34tSRu38sC4YKlywEIIQ) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [Headfirst](https://open.spotify.com/album/15Z76iMILaxea4yJkCkdLS) | 3:18 |
 | 64 | [Into The Night](https://open.spotify.com/track/7kwruevCxMUUuqrSg52Yt8) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Into The Night](https://open.spotify.com/album/3RTft34mZ0whGHI1bQyMst) | 2:07 |
 | 65 | [Don't Let Me Go \- Kevin Aleksander Remix](https://open.spotify.com/track/11EdUx3JhWH3SjLTM8L7Aq) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [Don't Let Me Go \(Remixes\)](https://open.spotify.com/album/2xycn7hji1JcfMLhaEMq4u) | 2:49 |

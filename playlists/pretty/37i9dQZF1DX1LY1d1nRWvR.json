@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 25440,
+  "num_followers": 25456,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDc4ZTJjNTQwYmZhM2NhMzk3N2VlMThlZWY3NWMzNmJl",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDliYTNhMGIzZDQ5NjU0MGViNmI5MDJjZDMzODc3YmIw",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 419426,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Alfa",
         "url": "https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 285772,
       "name": "Alfa",
       "url": "https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 419426,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -407,6 +407,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Fate",
+        "url": "https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G"
+      },
+      "artists": [
+        {
+          "name": "Mark Hawkins",
+          "url": "https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq"
+        }
+      ],
+      "duration_ms": 331409,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "To the Disco '77 (Live Rework)",
         "url": "https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 594714,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Fate",
-        "url": "https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G"
-      },
-      "artists": [
-        {
-          "name": "Mark Hawkins",
-          "url": "https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq"
-        }
-      ],
-      "duration_ms": 331409,
-      "name": "Fate",
-      "url": "https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -503,18 +503,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+        "name": "Make This Right",
+        "url": "https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7"
       },
       "artists": [
         {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "Ruf Dug",
+          "url": "https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T"
+        },
+        {
+          "name": "Lovescene",
+          "url": "https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk"
         }
       ],
-      "duration_ms": 327231,
-      "name": "Rainbow Road",
-      "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
+      "duration_ms": 197000,
+      "name": "Make This Right - Radio Edit",
+      "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -535,22 +539,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Make This Right",
-        "url": "https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7"
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
       "artists": [
         {
-          "name": "Ruf Dug",
-          "url": "https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T"
-        },
-        {
-          "name": "Lovescene",
-          "url": "https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk"
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Make This Right - Radio Edit",
-      "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
+      "duration_ms": 327231,
+      "name": "Rainbow Road",
+      "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Information",
-        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 246855,
-      "name": "Another Story",
-      "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Highlife World Series: Cuba",
         "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 356313,
       "name": "Mother Theresa - Original Mix",
       "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Information",
+        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 246855,
+      "name": "Another Story",
+      "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -659,6 +659,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "The Jerusalem EP's",
+        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 407893,
+      "name": "Servants Jaz House",
+      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Tanto Tiempo",
         "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "The Jerusalem EP's",
-        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 407893,
-      "name": "Servants Jaz House",
-      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Theme from Selva",
-        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 205816,
-      "name": "Theme from Selva",
-      "url": "https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 342591,
       "name": "Eye Mo K",
       "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Theme from Selva",
+        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 205816,
+      "name": "Theme from Selva",
+      "url": "https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3"
     },
     {
       "added_at": "2021-10-08 17:36:35",

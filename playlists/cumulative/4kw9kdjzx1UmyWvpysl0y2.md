@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-435 songs - 1 day 1 hr 27 min
+436 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Blood Rush \- Spotify Singles](https://open.spotify.com/track/487irnHaIRbh6VOWFf9qGs) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 3:17 | 2022-11-09 | 2023-02-04 |
 | [Blossom](https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g) | [Blossom](https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE) | 4:09 | 2022-03-18 | 2022-05-31 |
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 | 2022-08-11 |
-| [Breathe Me Back To Life](https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Breathe Me Back To Life](https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3) | 2:26 | 2023-01-06 |  |
+| [Breathe Me Back To Life](https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Breathe Me Back To Life](https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3) | 2:26 | 2023-01-06 | 2023-03-22 |
 | [Bring Me Back](https://open.spotify.com/track/6Bw3VVF2X0YmZWYPl8wE44) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Bring Me Back](https://open.spotify.com/album/2O9vrpCCTCKdgd6eMGjm8h) | 3:33 | 2022-11-28 | 2023-02-23 |
 | [Brushes](https://open.spotify.com/track/7sYIVXdHSk466cayCTwAgt) | [Woven](https://open.spotify.com/artist/4NSmulp0hBy5rJyK0doyUO) | [Brushes](https://open.spotify.com/album/1VbJtajKClF79HRsb7O5Lv) | 3:53 | 2023-02-03 |  |
 | [Cage](https://open.spotify.com/track/0KQ80se6Ppe4BRygTmhRcZ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:45 | 2022-04-11 | 2022-06-22 |
@@ -157,6 +157,7 @@
 | [Fly](https://open.spotify.com/track/2UUQvhfb7Gt0izk5DYfuAe) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Dream Theory](https://open.spotify.com/album/2AXJp4mHs0986xB690fVHg) | 3:35 | 2021-11-19 | 2022-02-12 |
 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 | 2022-05-23 | 2022-08-03 |
 | [Focus](https://open.spotify.com/track/07k7gIv8XStlvnEg0RCTPl) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Focus](https://open.spotify.com/album/7Bg9AsWPf5woCRpDs8UFks) | 3:58 | 2022-04-20 | 2022-06-30 |
+| [Foggy Morning](https://open.spotify.com/track/2K3CQS80oYdLDLEmQnEk8B) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Foggy Morning](https://open.spotify.com/album/1YcTybk2o4IELX4vG55rZ0) | 4:16 | 2023-03-21 |  |
 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 | 2023-03-08 |  |
 | [For Me \- VIP](https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are \(Deluxe\)](https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3) | 3:00 | 2022-05-10 | 2022-07-21 |
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 | 2022-06-10 |
@@ -255,7 +256,7 @@
 | [Moment \- Worlds Version](https://open.spotify.com/track/7wfquD5DrEBAqqZEXJoJa2) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V), [Isaac App](https://open.spotify.com/artist/2OSFdgs18suoiLJWRcqiEy) | [Moment \(Worlds Version\)](https://open.spotify.com/album/7jLueD1XaPlGgP6NSogvXx) | 3:07 | 2022-08-01 | 2022-10-19 |
 | [Monster](https://open.spotify.com/track/1qhfJLtwPoXN34TbQJegeA) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Monster](https://open.spotify.com/album/4wfYav7zgRz4hZMqP1t2O0) | 3:04 | 2022-09-15 | 2022-11-12 |
 | [Moonstone](https://open.spotify.com/track/2QWxkFKhi9YUtrQmf9JHxU) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Moonstone](https://open.spotify.com/album/4kcRF7VJVx69pJXecrPDyi) | 3:20 | 2023-03-14 |  |
-| [More Than This](https://open.spotify.com/track/7JKzCzNua4DT4lBMPrchUI) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [More Than This](https://open.spotify.com/album/0RrkXtaPZqAAJnU4fGZ4Y8) | 3:37 | 2023-01-06 |  |
+| [More Than This](https://open.spotify.com/track/7JKzCzNua4DT4lBMPrchUI) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [More Than This](https://open.spotify.com/album/0RrkXtaPZqAAJnU4fGZ4Y8) | 3:37 | 2023-01-06 | 2023-03-22 |
 | [More To Give \- VIP](https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Rise & Fall \(VIPs\)](https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx) | 3:03 | 2022-01-25 | 2022-04-05 |
 | [Move Back](https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Move Back](https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI) | 3:28 | 2023-02-16 |  |
 | [Multiverse](https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Multiverse](https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb) | 3:20 | 2022-02-25 | 2022-05-10 |

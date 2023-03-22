@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 167041,
+  "num_followers": 167092,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1NzY1NCwwMDAwMDAwMDI2NjA0MTNjOTAwMjAzNzMzYTIyMzU4M2Y4OTdmMWRm",
+  "snapshot_id": "MTY3MTE1NzY1NCwwMDAwMDAwMGJiNDJkOThkYjMxYjRhODBjMzIyMzEyOGU4YjExZTY0",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Fijate Bien",
+        "url": "https://open.spotify.com/album/7IOugW3LC5qxTyceggg00d"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Fijate Bien",
+      "url": "https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Fijate Bien",
-        "url": "https://open.spotify.com/album/7IOugW3LC5qxTyceggg00d"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Fijate Bien",
-      "url": "https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Historia Del Folklore (2da Parte)",
-        "url": "https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5"
+        "name": "Aerolineas Makiza",
+        "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
       },
       "artists": [
         {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+          "name": "Makiza",
+          "url": "https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5"
         }
       ],
-      "duration_ms": 346506,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP"
+      "duration_ms": 272800,
+      "name": "En Paro",
+      "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Aerolineas Makiza",
-        "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
+        "name": "La Historia Del Folklore (2da Parte)",
+        "url": "https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5"
       },
       "artists": [
         {
-          "name": "Makiza",
-          "url": "https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5"
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
         }
       ],
-      "duration_ms": 272800,
-      "name": "En Paro",
-      "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
+      "duration_ms": 346506,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Buscando Chilenos Vol. 1",
-        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
-      },
-      "artists": [
-        {
-          "name": "Sexual Democracia",
-          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Cancion Pacifico-Violenta",
-      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Yo Vivo en Esta Ciudad",
         "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 227093,
       "name": "La Marcha De La Bronca",
       "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Buscando Chilenos Vol. 1",
+        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
+      },
+      "artists": [
+        {
+          "name": "Sexual Democracia",
+          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Cancion Pacifico-Violenta",
+      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Homonimo",
-        "url": "https://open.spotify.com/album/45SyOhvUtpGhEkYvdN1YWr"
-      },
-      "artists": [
-        {
-          "name": "La Lira Libertaria",
-          "url": "https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW"
-        }
-      ],
-      "duration_ms": 226355,
-      "name": "Ni\u00f1x",
-      "url": "https://open.spotify.com/track/2sKurE9yCmgFfdP4vW0rgy"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Pateando Craneos",
         "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 161666,
       "name": "La Fuerza Policial",
       "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Homonimo",
+        "url": "https://open.spotify.com/album/45SyOhvUtpGhEkYvdN1YWr"
+      },
+      "artists": [
+        {
+          "name": "La Lira Libertaria",
+          "url": "https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW"
+        }
+      ],
+      "duration_ms": 226355,
+      "name": "Ni\u00f1x",
+      "url": "https://open.spotify.com/track/2sKurE9yCmgFfdP4vW0rgy"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Mortal",
+        "url": "https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG"
+        }
+      ],
+      "duration_ms": 305893,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Ellas",
         "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Mortal",
-        "url": "https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX"
-      },
-      "artists": [
-        {
-          "name": "Sa\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG"
-        }
-      ],
-      "duration_ms": 305893,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
     },
     {
       "added_at": "2021-09-24 14:38:22",

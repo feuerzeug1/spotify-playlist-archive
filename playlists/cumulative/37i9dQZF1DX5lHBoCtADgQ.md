@@ -4,11 +4,13 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-72 songs - 4 hr 37 min
+72 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0gPW9v2NYGnWzhz5I06ajD) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6FfNmnl6x2AURdIRKJj925) | 0:00 | 2021-11-03 |  |
+| [](https://open.spotify.com/track/2MvLEcJ6nvnhoMhTYwdHJd) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4KukOvvjn97SVqHVMEZIDn) | 0:00 | 2022-02-17 |  |
+| [](https://open.spotify.com/track/4IgCmYl6e9msF6NwqLF8KV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/71FkXqsYbZSX71T3FeoM6i) | 0:00 | 2021-11-03 |  |
 | [](https://open.spotify.com/track/7rNFiL6NGvaXkFkemj91Tg) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0QAZxuGZxtJ4hcCJaMGBkB) | 0:00 | 2021-11-03 |  |
 | [\(Boliyan\) Geetan Da Guldasta](https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [The King \(Greatest Hits\)](https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH) | 4:58 | 2021-11-03 |  |
 | [Akhiyan](https://open.spotify.com/track/6nWQzsV1tlApW5oVkqkXUu) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Akhiyan](https://open.spotify.com/album/6dK7TsanTfxj28TaFiQyPC) | 2:36 | 2022-05-09 |  |
@@ -21,7 +23,6 @@
 | [Buhe Bariyan](https://open.spotify.com/track/0pPbSDDoVS0a8yuMcpjEtd) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan \- Single](https://open.spotify.com/album/1BmqFSOvkER4M467ozA1sU) | 4:41 | 2022-07-16 |  |
 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 | 2022-04-28 | 2022-07-29 |
 | [Buhe Bariyan](https://open.spotify.com/track/2S7jQnlsEVgMpNyZzPPwgK) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Buhe Bariyan](https://open.spotify.com/album/5vpSmKJ6pSPcGqLfHGfmpU) | 3:21 | 2021-11-03 |  |
-| [Chad Fareeda Kothey Utte](https://open.spotify.com/track/4IgCmYl6e9msF6NwqLF8KV) | [Samarjeet Randhava](https://open.spotify.com/artist/0CQ4IAP1aTbl4CsanNOZ57) | [Samarjeet Randhava's Sufi Rockland](https://open.spotify.com/album/71FkXqsYbZSX71T3FeoM6i) | 3:34 | 2021-11-03 |  |
 | [Challa](https://open.spotify.com/track/2rfnZnHrgIpciZb78nWwKX) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4qlU0pl3svPl0jArs2Upo7) | 6:46 | 2022-07-16 |  |
 | [Challa](https://open.spotify.com/track/4Au2BuSo70ozHs8TFE2dwh) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara](https://open.spotify.com/album/55LNP0Gwa2VONSPlxbycVW) | 6:46 | 2021-11-03 | 2022-07-29 |
 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 |  |
@@ -33,7 +34,6 @@
 | [Charkha Chanan Da](https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH) | [Charkha Chanan Da \- Single](https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db) | 2:41 | 2021-11-03 |  |
 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 | 2021-11-03 |  |
 | [Chitta](https://open.spotify.com/track/6JUQViD0hLXlvWXCV4uUF8) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Shiddat](https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9) | 3:48 | 2021-11-03 |  |
-| [Chitta Kukkar Banere Te](https://open.spotify.com/track/2MvLEcJ6nvnhoMhTYwdHJd) | [Samarjeet Randhava](https://open.spotify.com/artist/0CQ4IAP1aTbl4CsanNOZ57) | [Chitta Kukkar Banere Te](https://open.spotify.com/album/4KukOvvjn97SVqHVMEZIDn) | 3:43 | 2022-02-17 |  |
 | [Daana Paani \(From "Daana Paani" Soundtrack\)](https://open.spotify.com/track/7xT9DUDXxmjb1hsIcnzGrq) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi) | [Daana Paani \(From "Daana Paani" Soundtrack\)](https://open.spotify.com/album/73oPRBDmqdR1SWaFWd8WzO) | 2:36 | 2021-11-03 |  |
 | [Das Main Ki Pyar Wichon Khatyal](https://open.spotify.com/track/0je2FP3jnEOzma2eHaUPA7) | [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [Lak Hile Majajan Jandi Da](https://open.spotify.com/album/4lXQtIeUiDuEQ0H8rM0FDp) | 3:15 | 2021-11-03 | 2022-07-29 |
 | [Das Main Ki Pyar Wichon Khatyal](https://open.spotify.com/track/2sHtt2EVbN0vFZTFYuYdlQ) | [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [Lak Hile Majajan Jandi Da](https://open.spotify.com/album/4v2E9Up8kfr2W0gkUrlL4P) | 3:15 | 2022-07-16 |  |

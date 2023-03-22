@@ -1164,10 +1164,28 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
+    },
+    {
+      "album": {
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
     },
     {
       "album": {
@@ -1237,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Paint Like a Child",
+        "url": "https://open.spotify.com/album/1mOLA2DZpudlI6jwQWwUP5"
+      },
+      "artists": [
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247120,
+      "name": "Life is Art !",
+      "url": "https://open.spotify.com/track/0oaCwrovpVWoijVhqV3FQ9"
+    },
+    {
+      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -1266,7 +1302,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 220403,
       "name": "Like A Saviour",
       "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 193039,
       "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
       "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
@@ -2774,7 +2810,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 251200,
       "name": "\u304b\u307e\u3078\u3093",
       "url": "https://open.spotify.com/track/4NfeLplLIUwLuIOONnnm9c"
@@ -2853,6 +2889,28 @@
     },
     {
       "album": {
+        "name": "\u30c0\u30e0\u5e95\u306e\u6625 feat.Sobs",
+        "url": "https://open.spotify.com/album/4msztnHCY2Dq7OjfaWg16f"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198616,
+      "name": "\u30c0\u30e0\u5e95\u306e\u6625 feat.Sobs",
+      "url": "https://open.spotify.com/track/5cySUmhrrQfcxIodcHKLNt"
+    },
+    {
+      "album": {
         "name": "\u30d4\u30ea\u30aa\u30c9",
         "url": "https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP"
       },
@@ -2922,6 +2980,24 @@
       "duration_ms": 198461,
       "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
       "url": "https://open.spotify.com/track/7CdJxQfuNWmEOE9o5uOBeN"
+    },
+    {
+      "album": {
+        "name": "\u5922\u306e\u7d9a\u304d\u3092",
+        "url": "https://open.spotify.com/album/14Dv5zMhRfjN4gwHVU3NFh"
+      },
+      "artists": [
+        {
+          "name": "meiyo",
+          "url": "https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249687,
+      "name": "\u5922\u306e\u7d9a\u304d\u3092",
+      "url": "https://open.spotify.com/track/0fHXumWliyCu45JzeHM5nc"
     },
     {
       "album": {

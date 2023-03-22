@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,860 likes - 59 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,882 likes - 59 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 16 | [Charkha Chanan Da](https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH) | [Charkha Chanan Da \- Single](https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db) | 2:41 |
 | 17 | [Akhiyan](https://open.spotify.com/track/6nWQzsV1tlApW5oVkqkXUu) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Akhiyan](https://open.spotify.com/album/6dK7TsanTfxj28TaFiQyPC) | 2:36 |
 | 18 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 |
-| 19 | [Chitta Kukkar Banere Te](https://open.spotify.com/track/2MvLEcJ6nvnhoMhTYwdHJd) | [Samarjeet Randhava](https://open.spotify.com/artist/0CQ4IAP1aTbl4CsanNOZ57) | [Chitta Kukkar Banere Te](https://open.spotify.com/album/4KukOvvjn97SVqHVMEZIDn) | 3:43 |
+| 19 | [](https://open.spotify.com/track/2MvLEcJ6nvnhoMhTYwdHJd) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4KukOvvjn97SVqHVMEZIDn) | 0:00 |
 | 20 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 |
 | 21 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
 | 22 | [Kala Sha Kala](https://open.spotify.com/track/401L9cuL8my61jXIMZDV0t) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/0T7GZkw5POnYikelmZTA1g) | 3:15 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 30 | [Sehreyan Wala](https://open.spotify.com/track/1aAxE9RbR70oMFXa1JDi8P) | [Pallavi Ishpuniyani](https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf), [Avijeet Satapathy](https://open.spotify.com/artist/37tUXAQcpsnXEDP3ONC39m) | [Sehreyan Wala](https://open.spotify.com/album/7BH5M3s2ziaUQBm5R9PCrJ) | 4:27 |
 | 31 | [](https://open.spotify.com/track/7rNFiL6NGvaXkFkemj91Tg) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0QAZxuGZxtJ4hcCJaMGBkB) | 0:00 |
 | 32 | [Sunn Jind Ni](https://open.spotify.com/track/5hNpXC3jyS4ftFLwhrW8zZ) | [Radhika Sood Nayak](https://open.spotify.com/artist/2SqsUzRgET3O9YHPQCOsDD) | [Sunn Jind Ni](https://open.spotify.com/album/0OcMOuOM1dF7aOh4FbP9En) | 5:06 |
-| 33 | [Chad Fareeda Kothey Utte](https://open.spotify.com/track/4IgCmYl6e9msF6NwqLF8KV) | [Samarjeet Randhava](https://open.spotify.com/artist/0CQ4IAP1aTbl4CsanNOZ57) | [Samarjeet Randhava's Sufi Rockland](https://open.spotify.com/album/71FkXqsYbZSX71T3FeoM6i) | 3:34 |
+| 33 | [](https://open.spotify.com/track/4IgCmYl6e9msF6NwqLF8KV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/71FkXqsYbZSX71T3FeoM6i) | 0:00 |
 | 34 | [Buhe Bariyan](https://open.spotify.com/track/2S7jQnlsEVgMpNyZzPPwgK) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Buhe Bariyan](https://open.spotify.com/album/5vpSmKJ6pSPcGqLfHGfmpU) | 3:21 |
 | 35 | [Sajna Ve Sajna](https://open.spotify.com/track/6xs5hAwj3Quf8TdRov5OaV) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/4pB975QwnkBHQ1yptO10T2) | 6:22 |
 | 36 | [Jutti Kasuri](https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jutti Kasuri](https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD) | 3:16 |

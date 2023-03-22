@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 20917,
+  "num_followers": 20950,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGUzYTA4N2UyZTgxNGQ5NTZkMTc1ZDRlMTJkZmYxZjVl",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDI1NDBhMjM2ZmExZmUwMGEwODY2M2JkZGQzMjA4ZTE0",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -87,22 +87,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Travelin' Man",
-      "url": "https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Texas Cannonball",
         "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 240533,
       "name": "Big Legged Woman",
       "url": "https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Travelin' Man",
+      "url": "https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/1kqd9zoyn4sBPzmI9f8BP8"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Live From The Archive",
-        "url": "https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD"
-      },
-      "artists": [
-        {
-          "name": "Matt Schofield",
-          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
-        }
-      ],
-      "duration_ms": 590720,
-      "name": "Black Cat Bone",
-      "url": "https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g"
-    },
-    {
       "added_at": "2021-12-10 05:01:00",
       "album": {
         "name": "Always",
@@ -471,6 +455,22 @@
       "duration_ms": 278634,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Live From The Archive",
+        "url": "https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD"
+      },
+      "artists": [
+        {
+          "name": "Matt Schofield",
+          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
+        }
+      ],
+      "duration_ms": 590720,
+      "name": "Black Cat Bone",
+      "url": "https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "Come To Mama",
-      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Satisfaction Guaranteed",
         "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 243666,
       "name": "A Man's Got To Do What A Man's Got To Do",
       "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "Come To Mama",
+      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let's Talk It Over",
-        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
-        }
-      ],
-      "duration_ms": 356773,
-      "name": "Greasy Man",
-      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 225666,
       "name": "Meet Me in Chicago",
       "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let's Talk It Over",
+        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "duration_ms": 356773,
+      "name": "Greasy Man",
+      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
     },
     {
       "added_at": "2020-12-01 05:01:00",

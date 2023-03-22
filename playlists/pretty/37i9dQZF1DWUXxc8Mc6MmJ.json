@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 591752,
+  "num_followers": 592452,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY4NzQzNiwwMDAwMDAwMDJiMDE5ZDVmNjZhNDE3YTU3Y2M3NTdkMjUwZTg0ZGMw",
+  "snapshot_id": "MTY3ODY4NzQzNiwwMDAwMDAwMGQ1OWMxODU4MDQ1OTE2NTA2YzFiNWU5MjQ4NDA4OTk4",
   "tracks": [
     {
       "added_at": "2023-03-13 05:57:41",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 1 Original Television Soundtrack",
-        "url": "https://open.spotify.com/album/14cZOtcNhNEQDQUwtg6gcm"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kim",
-          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
-        }
-      ],
-      "duration_ms": 226991,
-      "name": "\uae34 \ubc24\uc774 \uc624\uba74",
-      "url": "https://open.spotify.com/track/5LiWJsSSjZh7Y3hqml18Ki"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
         "name": "Doom at Your Service (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 252253,
       "name": "Love Sight",
       "url": "https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
+        "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 1 Original Television Soundtrack",
+        "url": "https://open.spotify.com/album/14cZOtcNhNEQDQUwtg6gcm"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+        }
+      ],
+      "duration_ms": 226991,
+      "name": "\uae34 \ubc24\uc774 \uc624\uba74",
+      "url": "https://open.spotify.com/track/5LiWJsSSjZh7Y3hqml18Ki"
     },
     {
       "added_at": "2023-03-13 05:57:41",

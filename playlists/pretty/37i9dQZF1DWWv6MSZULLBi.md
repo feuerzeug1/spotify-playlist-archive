@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Safia Nolin
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,881 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,876 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 19 | [Helium](https://open.spotify.com/track/29Ps05CZfLWtphvEknN0bO) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/7tJSsud0MYEnWmD7fSd3BE) | 3:49 |
 | 20 | [The Mess](https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Rivals EP](https://open.spotify.com/album/6swJmmREo7UyeIMuELVzr0) | 1:08 |
 | 21 | [Critics \(Fifty Bucks\)](https://open.spotify.com/track/3Rj0bNJuUI2X1XD3XxEhpf) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Thank You for Trying: ACT I & II](https://open.spotify.com/album/41RfKM7fvvt57gQcZKe60q) | 4:12 |
-| 22 | [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/52xOiplF4RbYstcdHhWL1l) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 4:38 |
+| 22 | [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/2HngnvK7LVC7y6FkTMQc8n) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/0C8UWuB4XApZCbRYseo7zw) | 4:38 |
 | 23 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 |
 | 24 | [Another Love](https://open.spotify.com/track/6kUbsWrqQ17sL0Fc00FUvA) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Another Love](https://open.spotify.com/album/5TQ7eGVZjZw9Bh4i6Prhv7) | 3:46 |
 | 25 | [All I Need](https://open.spotify.com/track/5jBZSh7u8Af31hRzNbyY3z) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [All I Need](https://open.spotify.com/album/56SM0Astc88nwn9KA6KM7n) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 |
 | 100 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGQ1MDRmMjM2NWFiNzJjNzA2NDhlZmFhNThmNjY1ZjM3`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGQwYTEzZDgzMjIyZmRjODFhMDNkMGZkNTIyNWUzMzhi`

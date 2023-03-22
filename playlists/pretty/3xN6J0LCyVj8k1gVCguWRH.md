@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,347 likes - 131 songs - 8 hr 1 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,337 likes - 131 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 104 | [Tight Dress](https://open.spotify.com/track/0JoeGZ7DTdEIqc0HXDIIE9) | [Calimar](https://open.spotify.com/artist/41y0PB4FjGdsHB7y7izHZh) | [Tight Dress](https://open.spotify.com/album/7uoaULjzVQxccf0krQAnwT) | 3:52 |
 | 105 | [Till Death Do Us Part](https://open.spotify.com/track/2CNvda3yzlwNuYnUtru0Lt) | [Anthony Bond](https://open.spotify.com/artist/2Bed1ilbSEnR29J7BXw2l3) | [Till Death Do Us Part](https://open.spotify.com/album/7nro3uUerblHDxzpFhUHvU) | 2:56 |
 | 106 | [More Than Lovers](https://open.spotify.com/track/2m99x6RSOJjIaO3h6odEyW) | [Hykay](https://open.spotify.com/artist/0ui2p3tryZSVhl4zelHIAi) | [More Than Lovers](https://open.spotify.com/album/1ncO9OdU9B0dFpqzjfg5Oj) | 2:53 |
-| 107 | [All About You](https://open.spotify.com/track/5gbhslzsaWjeociHQXuom4) | [Mimis Kitchen Music](https://open.spotify.com/artist/1vXjLNtbOHr87lnd9CdoY1) | [Lollipop](https://open.spotify.com/album/3P7S6tZqGym23T3otsGCrh) | 3:02 |
+| 107 | [All About You](https://open.spotify.com/track/5gbhslzsaWjeociHQXuom4) | [Mimis Kitchen](https://open.spotify.com/artist/7mJcAuOns8lI6MkVYAVEtE) | [Cooking Great Music](https://open.spotify.com/album/3P7S6tZqGym23T3otsGCrh) | 3:02 |
 | 108 | [Shadows and Illusions](https://open.spotify.com/track/2PS8qQwAfL7xt3LWsQ13cy) | [Farah Camille](https://open.spotify.com/artist/2oGN4zBzijzBIYvcTNTMZ2) | [Shadows and Illusions](https://open.spotify.com/album/2Uq1c6OE441UdGGafFBUKD) | 3:50 |
 | 109 | [Palm Trees & Pools](https://open.spotify.com/track/2X59hamIvMHahqdAuXAbky) | [Redondo Red](https://open.spotify.com/artist/7lbEzkNxEp17LsaEGO0sHu) | [Palm Trees & Pools](https://open.spotify.com/album/2QcUa2lBaiVFKDdp2bqekQ) | 2:32 |
 | 110 | [Newman Beauty](https://open.spotify.com/track/7tQAC4CnE1j3MfcfvtBpdg) | [Nai'a](https://open.spotify.com/artist/5irDXaVVx519HjzQQLPhKp) | [Newman Beauty](https://open.spotify.com/album/0jFyBXQMBfLz5CtQbEAczj) | 3:54 |

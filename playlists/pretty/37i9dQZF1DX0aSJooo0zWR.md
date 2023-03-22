@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,138 likes - 80 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,202 likes - 80 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 56 | [All Roads Lead To Los Angeles](https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Pursuit of Ends](https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2) | 4:42 |
 | 57 | [School Days](https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 7:49 |
 | 58 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 |
-| 59 | [Catch Me If U Can](https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6) | [Vital Techtones](https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2) | [Vtt2](https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T) | 4:24 |
-| 60 | [Mondo Garaj](https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h) | [Garaj Mahal](https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM) | [Mondo Garaj](https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs) | 5:33 |
+| 59 | [Mondo Garaj](https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h) | [Garaj Mahal](https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM) | [Mondo Garaj](https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs) | 5:33 |
+| 60 | [Catch Me If U Can](https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6) | [Vital Techtones](https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2) | [Vtt2](https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T) | 4:24 |
 | 61 | [You Gotta Get It While You Can](https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Sleepwalk](https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP) | 4:57 |
 | 62 | [Spacy Country](https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff) | [Uzeb](https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU) | [Between The Lines](https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR) | 5:09 |
 | 63 | [Truth](https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp) | [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Space\-Time](https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W) | 4:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [As the Spirit Sings](https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9) | 5:21 |
 | 80 | [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMGQxYmRmYzYwYWJhMzBmNjQyZTNmMTJhZWE4ZmQzMmQx`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDhkOTQ1ZGRmNWZhMmE5ODA5Y2UyYjVmMWVkNGU4ZjAz`

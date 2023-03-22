@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Manuel Turizo, Marshmello",
+  "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Marmi, Enol",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 190087,
       "name": "AAAAAA",
       "url": "https://open.spotify.com/track/2eFWliYRleozZ8w8JRm5FP"
@@ -78,10 +78,32 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 147821,
       "name": "Abajito",
       "url": "https://open.spotify.com/track/5bXTL6PtdA9g1TFE0VZC7O"
+    },
+    {
+      "album": {
+        "name": "alto ah\u00ed",
+        "url": "https://open.spotify.com/album/4aWWKkZEUd2zqGYHX6lYYE"
+      },
+      "artists": [
+        {
+          "name": "Alex Wall",
+          "url": "https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp"
+        },
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166388,
+      "name": "alto ah\u00ed",
+      "url": "https://open.spotify.com/track/1kAwAe6ubWffQwjucRnqy0"
     },
     {
       "album": {
@@ -231,6 +253,24 @@
     },
     {
       "album": {
+        "name": "CABI",
+        "url": "https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121968,
+      "name": "CABI",
+      "url": "https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK"
+    },
+    {
+      "album": {
         "name": "Esta Vida Es Un Jaleo",
         "url": "https://open.spotify.com/album/4W1o9T3ghMa61HFLUAIOHj"
       },
@@ -260,7 +300,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 207645,
       "name": "Con los Pies en el Techo",
       "url": "https://open.spotify.com/track/6nMllahSeGPicYXH61ray7"
@@ -340,7 +380,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 156800,
       "name": "C\u00e1psula Espacial",
       "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
@@ -592,7 +632,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 172200,
       "name": "GALGO",
       "url": "https://open.spotify.com/track/5zfUKIkOzlbzPNOsQD9VGC"
@@ -712,7 +752,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 154708,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/6S8iQ25fncoSMGmW5yIVRs"
@@ -756,6 +796,24 @@
       "duration_ms": 141890,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
+    },
+    {
+      "album": {
+        "name": "LA SANTA",
+        "url": "https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165285,
+      "name": "LA SANTA",
+      "url": "https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs"
     },
     {
       "album": {
@@ -901,6 +959,28 @@
     },
     {
       "album": {
+        "name": "NO ME PASA NADA",
+        "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Nada ha cambiado",
+      "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
+    },
+    {
+      "album": {
         "name": "NADA QUE DECIR",
         "url": "https://open.spotify.com/album/4CIjghQcVgXkYJscGKEQKF"
       },
@@ -934,7 +1014,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 184234,
       "name": "Necesito silencio",
       "url": "https://open.spotify.com/track/1731Kg4nGnLl1Rtwo5q5GF"
@@ -974,7 +1054,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 174193,
       "name": "No me ves",
       "url": "https://open.spotify.com/track/3KeZmRdDk7QtxDz3ldUuaD"
@@ -1035,6 +1115,28 @@
     },
     {
       "album": {
+        "name": "PAS",
+        "url": "https://open.spotify.com/album/5uQp7mNaf5hiVAfphFjjoc"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        },
+        {
+          "name": "Pimp Flaco",
+          "url": "https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "PAS",
+      "url": "https://open.spotify.com/track/4NiPgL5Vicj6rVks2Ismc5"
+    },
+    {
+      "album": {
         "name": "Plan fatal (feat. Juancho Sidecars, Sidecars)",
         "url": "https://open.spotify.com/album/4SADYirwzSPh8Z0vtot42I"
       },
@@ -1054,7 +1156,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 223263,
       "name": "Plan fatal (feat. Juancho Sidecars, Sidecars)",
       "url": "https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh"
@@ -1120,7 +1222,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
@@ -1287,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Sueltas",
+        "url": "https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163259,
+      "name": "Sueltas",
+      "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
+    },
+    {
+      "album": {
         "name": "Suena en las Bodas",
         "url": "https://open.spotify.com/album/1GCMmZzwzTjGegPwK3tXmK"
       },
@@ -1298,7 +1418,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 192406,
       "name": "Suena en las Bodas",
       "url": "https://open.spotify.com/track/5saZEfLmY8Ii6BZq7gGLe7"
@@ -1385,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165527,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -1404,6 +1542,24 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
+    {
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221776,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/6JpUHnddHwv9cJ6sFD0nzM"
     },
     {
       "album": {
@@ -1473,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Un Beso a Mi Crush",
+        "url": "https://open.spotify.com/album/2qSa8URXgIcrt3AeDnB7eO"
+      },
+      "artists": [
+        {
+          "name": "Ori\u00f3n",
+          "url": "https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211534,
+      "name": "Un Beso a Mi Crush",
+      "url": "https://open.spotify.com/track/2VdPyembKc89MgImIVcQyl"
+    },
+    {
+      "album": {
         "name": "Un Cl\u00e1sico",
         "url": "https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0"
       },
@@ -1488,6 +1662,32 @@
       "duration_ms": 172891,
       "name": "Un Cl\u00e1sico",
       "url": "https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp"
+    },
+    {
+      "album": {
+        "name": "Un mill\u00f3n de locuras",
+        "url": "https://open.spotify.com/album/71XshjyIez0R36caojRrIL"
+      },
+      "artists": [
+        {
+          "name": "Dellacruz",
+          "url": "https://open.spotify.com/artist/1SQBmAQTSx9Zj9uyM3c3qW"
+        },
+        {
+          "name": "Pepe Bernab\u00e9",
+          "url": "https://open.spotify.com/artist/1CatgsvZ6RfKSHiwyqPZ32"
+        },
+        {
+          "name": "Tatiana Delalvz",
+          "url": "https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195606,
+      "name": "Un mill\u00f3n de locuras",
+      "url": "https://open.spotify.com/track/4lLbBQWUqnWsxAiT1FcY6Z"
     },
     {
       "album": {
@@ -1528,6 +1728,28 @@
       "duration_ms": 199968,
       "name": "Una y Mil Veces - Rumba",
       "url": "https://open.spotify.com/track/2QFxZNTECGz7uGd7me4dzH"
+    },
+    {
+      "album": {
+        "name": "Whiskey y Coco",
+        "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186477,
+      "name": "Whiskey y Coco",
+      "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd"

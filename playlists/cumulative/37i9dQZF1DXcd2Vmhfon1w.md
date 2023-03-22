@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-189 songs - 10 hr 31 min
+190 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A la tumba](https://open.spotify.com/track/0lstDvubsePLSuUiGWsNL8) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5ElCfa24Wz9evOfT5k6uEB) | 3:50 | 2022-01-21 | 2022-08-11 |
 | [A la tumba](https://open.spotify.com/track/5NwMiXLw1SnW4O7SgsaHeo) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 3:50 | 2022-08-04 |  |
 | [Afloja](https://open.spotify.com/track/0mzC1Okc1yxXH42JuFBhMH) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW) | [Cachitos de Mi Cora](https://open.spotify.com/album/1DAUQCHm1bN01Jzr2ndxmT) | 3:24 | 2022-04-21 | 2022-07-29 |
-| [Afloja](https://open.spotify.com/track/1TrYfvW9k9IQZlcS6c0C5a) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW) | [Cachitos de Mi Cora](https://open.spotify.com/album/13U39sti555PIUZA7VGUJu) | 3:24 | 2022-07-19 |  |
+| [Afloja](https://open.spotify.com/track/1TrYfvW9k9IQZlcS6c0C5a) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW) | [Cachitos de Mi Cora](https://open.spotify.com/album/13U39sti555PIUZA7VGUJu) | 3:24 | 2022-07-19 | 2023-03-22 |
 | [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-04 | 2022-07-15 |
 | [Al Final del Día](https://open.spotify.com/track/41ir6O2SvjUrs642RMkouF) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Al Final del Día](https://open.spotify.com/album/7aqENkjmIlnjLhlxCw1zrJ) | 2:43 | 2022-10-03 | 2023-03-01 |
 | [Andrómeda](https://open.spotify.com/track/5JgIHWAuYOBFR3dnEgnQ8F) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Andrómeda](https://open.spotify.com/album/1KWtgnQEmfgKax6XOgtnWO) | 3:27 | 2023-02-28 |  |
@@ -142,6 +142,7 @@
 | [Pan Duro](https://open.spotify.com/track/1RgJNCAsftlbzZMkQdIXoG) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Pan Duro](https://open.spotify.com/album/7zxrUFncd8TEjtqkkD9r5I) | 2:37 | 2022-06-21 | 2022-08-05 |
 | [Platos rotos](https://open.spotify.com/track/6XX87ga7zsm14jRTzspgnM) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Luna llena](https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu) | 3:42 | 2022-09-16 |  |
 | [Quiero volar](https://open.spotify.com/track/0TlVTrOwRNH8YGvBDHqPCo) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Luna llena](https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu) | 3:36 | 2022-09-16 |  |
+| [RAPIÑA \| Barracudas \#3](https://open.spotify.com/track/4kvp38IVCQgMSuixcPz00L) | [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [RAPIÑA \| Barracudas \#3](https://open.spotify.com/album/7JPzSlCP0ao4ppF00jVQKG) | 3:23 | 2023-03-21 |  |
 | [Reproches](https://open.spotify.com/track/3L6RhaS4ISh8GSagrFMFZn) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Reproches](https://open.spotify.com/album/1rGEWKEdDvDx5Ij1oxpRfs) | 4:33 | 2022-01-21 | 2022-07-29 |
 | [Reproches](https://open.spotify.com/track/7aKXQCV7TaA56bnhXTxJFn) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Reproches](https://open.spotify.com/album/2z4I2HXUaqMlxprZfXJ0qe) | 4:33 | 2022-07-19 |  |
 | [Russia](https://open.spotify.com/track/0SbIXLGtSyvOTzyF8DSPxE) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [VELA INFAMOUS](https://open.spotify.com/artist/6krSTvZ7LDOpSgT0lR7BPL), [Zamoranobeatz](https://open.spotify.com/artist/2mlNwgkCqA36IEpjtFiClM) | [Russia](https://open.spotify.com/album/1hc3dk3zIXpbdoMzFpi9Ne) | 2:46 | 2022-07-14 | 2022-08-05 |

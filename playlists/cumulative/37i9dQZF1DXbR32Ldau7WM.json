@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: \u30a8\u30ec\u30d5\u30a1\u30f3\u30c8\u30ab\u30b7\u30de\u30b7",
+  "description": "The Street Sliders\u30ea\u30de\u30b9\u30bf\u30fc\u76e4 & \u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u76e4\u3092\u5927\u7279\u96c6\uff01Cover: The Street Sliders",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 163466,
       "name": "Baby's Alright",
       "url": "https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 214500,
       "name": "BANTAM",
       "url": "https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 219360,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
@@ -594,6 +594,42 @@
       "duration_ms": 285452,
       "name": "BOY 2022",
       "url": "https://open.spotify.com/track/0xK0rCpjfmmmdPdbpyfMqg"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "The Cro-magnons",
+          "url": "https://open.spotify.com/artist/2zznlBwNMFL1nlABMoqq0b"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235720,
+      "name": "Boys Jump The Midnight",
+      "url": "https://open.spotify.com/track/3N6gdBZfDk9KDJAbPCU4g9"
+    },
+    {
+      "album": {
+        "name": "\u5929\u4f7f\u305f\u3061",
+        "url": "https://open.spotify.com/album/6fgVI73rX1mCalLT6OqxXb"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272600,
+      "name": "Boys Jump The Midnight",
+      "url": "https://open.spotify.com/track/3yLXnO1XfG5XwgOLBLhgDa"
     },
     {
       "album": {
@@ -932,7 +968,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 227000,
       "name": "Dramatic",
       "url": "https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB"
@@ -993,6 +1029,42 @@
     },
     {
       "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242626,
+      "name": "EASY ACTION",
+      "url": "https://open.spotify.com/track/4CzwrQKa05ePQQqxEDOhPn"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Origin)",
+        "url": "https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252133,
+      "name": "EASY ACTION",
+      "url": "https://open.spotify.com/track/3LKRZlG384A97rpHjrj9nT"
+    },
+    {
+      "album": {
         "name": "In The Beginning - The Best Of 2017-2021",
         "url": "https://open.spotify.com/album/4UrV9uJWU2HaLZVpomztEP"
       },
@@ -1026,7 +1098,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 212786,
       "name": "EL MARIACHI",
       "url": "https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN"
@@ -1300,7 +1372,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 221700,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3"
@@ -1376,7 +1448,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 250219,
       "name": "Focus on me",
       "url": "https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU"
@@ -1456,7 +1528,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 209519,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/2XHQ84PSGAqDDkFgCjCUPS"
@@ -1814,7 +1886,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
@@ -2106,7 +2178,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 217920,
       "name": "It\u2019s only lonely crazy days",
       "url": "https://open.spotify.com/track/7AYbM2IImncnflOBbGIih9"
@@ -2329,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "LADY",
+        "url": "https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207166,
+      "name": "LADY",
+      "url": "https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv"
+    },
+    {
+      "album": {
         "name": "LET JERRY ROLL",
         "url": "https://open.spotify.com/album/2p65OHZz45jCO2lTAhMlUE"
       },
@@ -2402,6 +2492,42 @@
       "duration_ms": 180211,
       "name": "Let Me Let You Go - Japanese Version",
       "url": "https://open.spotify.com/track/4kvYYgoKbVblOo7lPfJWf2"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "The Birthday",
+          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244680,
+      "name": "Let's go down the street",
+      "url": "https://open.spotify.com/track/7CrEu0XfkPrhvi9fHRLM70"
+    },
+    {
+      "album": {
+        "name": "The LEGEND",
+        "url": "https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258799,
+      "name": "Let's go down the street",
+      "url": "https://open.spotify.com/track/4PwtVSYLSDfGLE2kLMOKgq"
     },
     {
       "album": {
@@ -2762,7 +2888,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 193965,
       "name": "Memorable",
       "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
@@ -2888,7 +3014,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 230542,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
@@ -2906,7 +3032,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
@@ -3346,7 +3472,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 207203,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ"
@@ -3443,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "more-AA-janaica",
+        "url": "https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5"
+      },
+      "artists": [
+        {
+          "name": "Dohatsuten",
+          "url": "https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327653,
+      "name": "OUT\u8001GUYS",
+      "url": "https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM"
+    },
+    {
+      "album": {
         "name": "PANDORA",
         "url": "https://open.spotify.com/album/5TGGYuJI3ajYoww04In6m6"
       },
@@ -3490,7 +3634,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 223118,
       "name": "PARADISE (Kill The Silence)",
       "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
@@ -4158,7 +4302,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 218866,
       "name": "SLEEPLESS",
       "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
@@ -4274,6 +4418,42 @@
       "duration_ms": 264126,
       "name": "SOUVENIR",
       "url": "https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "Misato Watanabe",
+          "url": "https://open.spotify.com/artist/3ySOHOGVeGm9qQuEmWDa1k"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282573,
+      "name": "Special Women",
+      "url": "https://open.spotify.com/track/4tQEFw0b1SffWMrYHfVGFo"
+    },
+    {
+      "album": {
+        "name": "The LEGEND",
+        "url": "https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272493,
+      "name": "Special Women",
+      "url": "https://open.spotify.com/track/5HQZUOUQiv5Gwlu9kyYPy9"
     },
     {
       "album": {
@@ -4534,7 +4714,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 252026,
       "name": "Sun of Love",
       "url": "https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS"
@@ -4570,7 +4750,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 270666,
       "name": "Taiyo to Ikaros",
       "url": "https://open.spotify.com/track/3xLIAnOBUvz3tcMIn6zh7L"
@@ -4714,7 +4894,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 213766,
       "name": "THE KEBABS\u3092\u62b1\u304d\u3057\u3081\u3066",
       "url": "https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a"
@@ -4956,6 +5136,42 @@
       "duration_ms": 221574,
       "name": "tokoshie no karuma",
       "url": "https://open.spotify.com/track/47tjvNVA09DT1ohm6TV0Rg"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "GEZAN",
+          "url": "https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "TOKYO JUNK",
+      "url": "https://open.spotify.com/track/4TkxPdrF8grkUitAxLRXCs"
+    },
+    {
+      "album": {
+        "name": "JAG OUT",
+        "url": "https://open.spotify.com/album/2B9hrXqBLLXVRuFdyRpRRb"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229106,
+      "name": "TOKYO JUNK",
+      "url": "https://open.spotify.com/track/3mHHuZgmeKXLxBZFjCgAxq"
     },
     {
       "album": {
@@ -5356,7 +5572,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
@@ -5540,7 +5756,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 288414,
       "name": "yes. I. do",
       "url": "https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA"
@@ -5767,6 +5983,42 @@
     },
     {
       "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "Kazuyoshi Saito",
+          "url": "https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273973,
+      "name": "\u3042\u308a\u3063\u305f\u3051\u306e\u30b3\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/6vWj1QPNLiZiGCQzcGxkzb"
+    },
+    {
+      "album": {
+        "name": "SCREW DRIVER",
+        "url": "https://open.spotify.com/album/5EXOY7AoMUd33lfMjUlrxg"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "\u3042\u308a\u3063\u305f\u3051\u306e\u30b3\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/40XGk9XURRWk5jV89iwmXE"
+    },
+    {
+      "album": {
         "name": "CORE 4",
         "url": "https://open.spotify.com/album/3TXOMUTuFQGhPOpNEYdUCq"
       },
@@ -5893,6 +6145,42 @@
     },
     {
       "album": {
+        "name": "SCREW DRIVER",
+        "url": "https://open.spotify.com/album/5EXOY7AoMUd33lfMjUlrxg"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269346,
+      "name": "\u304b\u3048\u308a\u307f\u3061\u306eBlue",
+      "url": "https://open.spotify.com/track/2OkqOcTcUI4NCWiQzfpco8"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "T\u5b57\u8defs",
+          "url": "https://open.spotify.com/artist/238nzReAbgGdev4POJB20t"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244266,
+      "name": "\u304b\u3048\u308a\u307f\u3061\u306eBlue",
+      "url": "https://open.spotify.com/track/21sdmiflxMgBgo5vAHib0j"
+    },
+    {
+      "album": {
         "name": "early summer 2022",
         "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
       },
@@ -5998,7 +6286,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 219453,
       "name": "\u3055\u3088\u306a\u3089\u30bb\u30cb\u30e7\u30ea\u30fc\u30bf",
       "url": "https://open.spotify.com/track/7u4jJOelFD7OT3KTN1oGfo"
@@ -6135,6 +6423,42 @@
     },
     {
       "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kashimashi",
+          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271986,
+      "name": "\u306e\u3089\u72ac\u306b\u3055\u3048\u306a\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/1JZNMZxSm21X5e7kaYs6Qi"
+    },
+    {
+      "album": {
+        "name": "The LEGEND",
+        "url": "https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268373,
+      "name": "\u306e\u3089\u72ac\u306b\u3055\u3048\u306a\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/5wu7gUH6KSIqR6pycHGwPA"
+    },
+    {
+      "album": {
         "name": "\u306f\u3058\u307e\u308a",
         "url": "https://open.spotify.com/album/7vKWHKRi3PiVC7bE0FapJI"
       },
@@ -6193,6 +6517,28 @@
     },
     {
       "album": {
+        "name": "\u5927\u6edd\u8a60\u4e00 NOVELTY SONG BOOK",
+        "url": "https://open.spotify.com/album/1gIUCFC81qiFPpisdcOCLU"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6edd\u8a60\u4e00",
+          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
+        },
+        {
+          "name": "Keiichi Suzuki",
+          "url": "https://open.spotify.com/artist/6qz1QFUOn2Pfc3P5nm9x1G"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240986,
+      "name": "\u3086\u3046\u304c\u305f\u30d5\u30ec\u30f3\u30c9 (USEFUL SONG)",
+      "url": "https://open.spotify.com/track/44vZrqSjWSDwjiUmoDY2RV"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a4\u30e0\u30ea\u30a2\u30eb",
         "url": "https://open.spotify.com/album/0BcbumwHjdJ1fEa7m9vH56"
       },
@@ -6240,7 +6586,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 191760,
       "name": "\u30a6\u30a7\u30b6\u30fc\u30ea\u30dd\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1OpBTBQHigKrOrTJ1SJwOf"
@@ -6958,7 +7304,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 150595,
       "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
       "url": "https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE"
@@ -7236,6 +7582,42 @@
       "duration_ms": 276031,
       "name": "\u30de\u30a4\u8349\u5c65 feat. \u306b\u3083\u3093\u5317\u671d\u6642\u4ee3",
       "url": "https://open.spotify.com/track/4WhjnX6kLVNQb7MwnZcdfJ"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "Mika Nakashima",
+          "url": "https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "\u30de\u30b9\u30bf\u30fc\u30d9\u30a4\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4opu9YaEtGCyicQwoJrTP1"
+    },
+    {
+      "album": {
+        "name": "The LEGEND",
+        "url": "https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243293,
+      "name": "\u30de\u30b9\u30bf\u30fc\u30d9\u30a4\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5dMhRQ9kDKU7ITjQHtEvuI"
     },
     {
       "album": {
@@ -7560,7 +7942,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 271666,
       "name": "\u51ac\u30ce\u9053\u30ce\u30bb\u30a4",
       "url": "https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN"
@@ -8130,6 +8512,42 @@
       "duration_ms": 252026,
       "name": "\u611b\u306e\u592a\u967d",
       "url": "https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT"
+    },
+    {
+      "album": {
+        "name": "NO BIG DEAL",
+        "url": "https://open.spotify.com/album/2G6ct9fLabIfrlsJo5ehwm"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258972,
+      "name": "\u611b\u306e\u75db\u624b\u304c\u4e00\u6669\u4e2d",
+      "url": "https://open.spotify.com/track/6VYr9fK29LhJdnHyaLcbfz"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "YONCE (Suchmos)",
+          "url": "https://open.spotify.com/artist/6tvhvpr5WUc7Q13ulPr2Zi"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463026,
+      "name": "\u611b\u306e\u75db\u624b\u304c\u4e00\u6669\u4e2d",
+      "url": "https://open.spotify.com/track/7xZiOPJ8AJAruSzvkesK0E"
     },
     {
       "album": {
@@ -8721,6 +9139,24 @@
     },
     {
       "album": {
+        "name": "\u7121\u9650 LOOP",
+        "url": "https://open.spotify.com/album/6zu6PJ0tNLAXN5So6vJuLS"
+      },
+      "artists": [
+        {
+          "name": "BUCK-TICK",
+          "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257333,
+      "name": "\u7121\u9650 LOOP",
+      "url": "https://open.spotify.com/track/0ydnroBWtgH9gswTVmqGxt"
+    },
+    {
+      "album": {
         "name": "\u71c8",
         "url": "https://open.spotify.com/album/61xd3iE3CxUoBoswb7xrZ5"
       },
@@ -9092,7 +9528,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 189786,
       "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
       "url": "https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH"
@@ -9132,6 +9568,42 @@
       "duration_ms": 217280,
       "name": "\u904b\u547d\u3001\u3068\u3044\u3046\u304bUFO\u306b(\u30c9\u30a5\u30a4\u3001\u30c9\u30a5\u30a4)",
       "url": "https://open.spotify.com/track/7Ixpgdw4u532wm8DV3iv6B"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299440,
+      "name": "\u9053\u5316\u8005\u306e\u3086\u3046\u3046\u3064",
+      "url": "https://open.spotify.com/track/1HA30W5N5vMKKURq70t7k4"
+    },
+    {
+      "album": {
+        "name": "The LEGEND",
+        "url": "https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380600,
+      "name": "\u9053\u5316\u8005\u306e\u3086\u3046\u3046\u3064",
+      "url": "https://open.spotify.com/track/5iIAIWi4WDae6teSWTe1sS"
     },
     {
       "album": {
@@ -9218,7 +9690,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 210626,
       "name": "\u9650\u754c\u7a81\u7834",
       "url": "https://open.spotify.com/track/0PvlpMPznviBbMHOlMe0Lj"
@@ -9240,6 +9712,42 @@
       "duration_ms": 255026,
       "name": "\u975e\u516c\u8a8d",
       "url": "https://open.spotify.com/track/0yJ5rcOr4IgaoXIkQJwha6"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Tribute)",
+        "url": "https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN"
+      },
+      "artists": [
+        {
+          "name": "Reichi Nakaido",
+          "url": "https://open.spotify.com/artist/5ts2idEDEtxG397BPcmgJ1"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223093,
+      "name": "\u98a8\u304c\u5f37\u3044\u65e5",
+      "url": "https://open.spotify.com/track/6mWTQkYvDAKEDs4zzU4bWs"
+    },
+    {
+      "album": {
+        "name": "On The Street Again -The Street Sliders Tribute & Origin- (Origin)",
+        "url": "https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM"
+      },
+      "artists": [
+        {
+          "name": "The Street Sliders",
+          "url": "https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "\u98a8\u304c\u5f37\u3044\u65e5",
+      "url": "https://open.spotify.com/track/4PiuLIjqyiy3iCGnEriARf"
     },
     {
       "album": {
@@ -9344,7 +9852,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 233266,
       "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
       "url": "https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU"

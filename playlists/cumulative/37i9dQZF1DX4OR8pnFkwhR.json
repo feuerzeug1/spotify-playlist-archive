@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc / \nEarly Noise Music+Talk(\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc)\u306f<a href=\"spotify:show:5ILS4cRYK00Zs2ISBiAWCF\">\u3053\u3061\u3089</a>\u3002",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Skaai / \nEarly Noise Music+Talk(\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc)\u306f<a href=\"spotify:show:5ILS4cRYK00Zs2ISBiAWCF\">\u3053\u3061\u3089</a>\u3002",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 177262,
       "name": "All night",
       "url": "https://open.spotify.com/track/5JlJuloP4IgM88EZ3IjCxe"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 198233,
       "name": "Awesome Day",
       "url": "https://open.spotify.com/track/0qqmOwDSPhH1PNHv72al3N"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 199167,
       "name": "Days",
       "url": "https://open.spotify.com/track/0s4yqLuXcjig9VJH6XNMG7"
@@ -1866,6 +1866,28 @@
       "duration_ms": 251793,
       "name": "DOORS",
       "url": "https://open.spotify.com/track/3dAJ5JPLdIt8YQ8bsPCs14"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/7sNLkCLjRzBFvRMa8qj1eD"
+      },
+      "artists": [
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW"
+        },
+        {
+          "name": "Wez Atlas",
+          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144570,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6IR2NAuk2mkpGS1MeOkKJw"
     },
     {
       "album": {
@@ -2298,6 +2320,24 @@
       "duration_ms": 172000,
       "name": "Florida",
       "url": "https://open.spotify.com/track/6F3neIaphDdTjV4cGivHOg"
+    },
+    {
+      "album": {
+        "name": "Flying Son",
+        "url": "https://open.spotify.com/album/0pCgjJk5SFy6HiptKInlil"
+      },
+      "artists": [
+        {
+          "name": "\u9244\u98a8\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262066,
+      "name": "Flying Son",
+      "url": "https://open.spotify.com/track/72BAt7jfsMZrSu99Jns0Ax"
     },
     {
       "album": {
@@ -3247,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "BEANIE",
+        "url": "https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190043,
+      "name": "I TASTE YOU",
+      "url": "https://open.spotify.com/track/4prrM0vuNMER7rQeZEiAHq"
+    },
+    {
+      "album": {
         "name": "\u3054\u81ea\u611b",
         "url": "https://open.spotify.com/album/1S20yx09e37gcIn4xPzskF"
       },
@@ -3972,7 +4030,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 203490,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC"
@@ -4392,7 +4450,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 174219,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb"
@@ -4562,6 +4620,24 @@
       "duration_ms": 185999,
       "name": "Morning",
       "url": "https://open.spotify.com/track/1AFRB52O6jDHRVLWTr5c1y"
+    },
+    {
+      "album": {
+        "name": "muse",
+        "url": "https://open.spotify.com/album/2TyNsyTZjsX4Zv0VurnFvk"
+      },
+      "artists": [
+        {
+          "name": "YOLK",
+          "url": "https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "muse",
+      "url": "https://open.spotify.com/track/6XWpWjw67Zi5edXcbUnqQV"
     },
     {
       "album": {
@@ -4742,7 +4818,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 272021,
       "name": "Neighbor",
       "url": "https://open.spotify.com/track/5Gfd9OVeGAntRYosUS0ZCy"
@@ -5080,6 +5156,24 @@
       "duration_ms": 207973,
       "name": "Over Now",
       "url": "https://open.spotify.com/track/19VskVnejF7oVZPDXgWjeK"
+    },
+    {
+      "album": {
+        "name": "Over ray",
+        "url": "https://open.spotify.com/album/6Q2iWWJqbeFpBsJDoH2fEz"
+      },
+      "artists": [
+        {
+          "name": "Apes",
+          "url": "https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247833,
+      "name": "Over ray",
+      "url": "https://open.spotify.com/track/5ANdXaACXF2DabMGSxrEeh"
     },
     {
       "album": {
@@ -5786,7 +5880,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 206017,
       "name": "resist",
       "url": "https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK"
@@ -10413,6 +10507,24 @@
     },
     {
       "album": {
+        "name": "JUNCTION POP",
+        "url": "https://open.spotify.com/album/1NuQdox8SHt5RwgsojvXGF"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u96c4\u58eb",
+          "url": "https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "\u30e9\u30d6\u30ec\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/7c7rjEaoqcCsDSVJ6KfBd3"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30bb\u30c3\u30c8\u75c7\u5019\u7fa4",
         "url": "https://open.spotify.com/album/1q4SKYBWbXBBFZRdZC3nW6"
       },
@@ -10500,7 +10612,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 212302,
       "name": "\u30eb\u30fc\u30b7\u30fc",
       "url": "https://open.spotify.com/track/4u2ssD8qpxwayjjghIMX4Z"
@@ -10706,6 +10818,24 @@
       "duration_ms": 218615,
       "name": "\u4f4e\u3044\u98db\u884c\u6a5f",
       "url": "https://open.spotify.com/track/2niGgKLYTEimwlApTnkMbG"
+    },
+    {
+      "album": {
+        "name": "\u4f55\u5e74\u5148\u3082\u61b6\u3048\u3066\u3066\u307b\u3057\u3044",
+        "url": "https://open.spotify.com/album/6si9mH4mbMYsLa8RBRLHCJ"
+      },
+      "artists": [
+        {
+          "name": "\u30b1\u30d7\u30e9",
+          "url": "https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242488,
+      "name": "\u4f55\u5e74\u5148\u3082\u61b6\u3048\u3066\u3066\u307b\u3057\u3044",
+      "url": "https://open.spotify.com/track/79OJr7RyMwOCupcDtZSX9Y"
     },
     {
       "album": {
@@ -11326,6 +11456,24 @@
       "duration_ms": 174833,
       "name": "\u597d\u304d\u306a\u3082\u306e\u306f\u624b\u306e\u3072\u3089\u306e\u4e2d",
       "url": "https://open.spotify.com/track/3FrwPF0EFJFLE9yVprrbd5"
+    },
+    {
+      "album": {
+        "name": "\u597d\u304d\u306a\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/6vvPUBVIrAEPXB9nkrhmsX"
+      },
+      "artists": [
+        {
+          "name": "\u307f\u3089\u3093",
+          "url": "https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195340,
+      "name": "\u597d\u304d\u306a\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/3tLyaiz0o1oKcibp8NaZK3"
     },
     {
       "album": {

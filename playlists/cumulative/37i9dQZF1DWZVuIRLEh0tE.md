@@ -4,7 +4,7 @@
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Bulin 47
 
-137 songs - 6 hr 48 min
+138 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [En Detone](https://open.spotify.com/track/6ayhb2zGzFKv4cC1kH6XAx) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Olle Jey](https://open.spotify.com/artist/3cTW4GbKjWqX3Sj4uZEpeH), [Drumz LT](https://open.spotify.com/artist/7LQVujKoQp86vom82YHV14), [Berto Lokera](https://open.spotify.com/artist/4huvJpp8DdgopunvvUy2Xs) | [En Detone](https://open.spotify.com/album/6bDglsSOalMjpNNDrOv3EP) | 2:02 | 2022-06-03 | 2023-02-18 |
 | [En Que Tu Ta Tu No Ta En Nah \- En Vivo](https://open.spotify.com/track/7G2nyEQlxrZ7pLEw4WXZPB) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [En Que Tu Ta Tu No Ta En Nah \(En Vivo\)](https://open.spotify.com/album/34UMsVZ5txNzdOKwGS9EKd) | 3:02 | 2022-06-03 | 2022-11-12 |
 | [En Que Tu Ta Tu No Ta En Nah \- En Vivo](https://open.spotify.com/track/72blRbRNl6ZEem3twjMj6m) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [En Que Tu Ta Tu No Ta En Nah \(En Vivo\)](https://open.spotify.com/album/20DNSwcITz5EaBPWZGzkC4) | 3:12 | 2022-03-15 | 2022-07-29 |
-| [Ex Bitch](https://open.spotify.com/track/5w623Ysnx6fYMjy9kvwQCa) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Ex Bitch](https://open.spotify.com/album/3Rum9ECu5BnWte2zshoBWN) | 3:00 | 2022-03-15 |  |
+| [Ex Bitch](https://open.spotify.com/track/0L55jSV7viXOP07HNLam1g) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Ex Bitch](https://open.spotify.com/album/6wCOeneaie0CCoCpw53Nvl) | 3:00 | 2023-03-17 |  |
+| [Ex Bitch](https://open.spotify.com/track/5w623Ysnx6fYMjy9kvwQCa) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Ex Bitch](https://open.spotify.com/album/3Rum9ECu5BnWte2zshoBWN) | 3:00 | 2022-03-15 | 2023-03-22 |
 | [Fan de Tus Fotos](https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fan de Tus Fotos](https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T) | 3:17 | 2022-03-15 | 2022-04-15 |
 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 | 2022-05-27 |  |
 | [Gass Pure](https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Gass Pure](https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW) | 2:17 | 2023-01-06 |  |

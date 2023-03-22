@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-881 songs - 1 day 14 hr 55 min
+882 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [HABIBA](https://open.spotify.com/track/7rxCn7yNXfS4ypyZiYvCrK) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [INGEN ROSER UDEN TORNE](https://open.spotify.com/album/5LgXmRK2qQq5NNnQA5tLUN) | 2:30 | 2022-06-02 | 2022-06-10 |
 | [Habibi \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/1VueoLGCvRRArsn8DgmH4X) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Habibi \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/1ifHM0bvcZoLyH0IRum8pR) | 2:42 | 2022-08-25 | 2022-10-07 |
 | [Hala Hala \(Hot Girl Summer\)](https://open.spotify.com/track/0Urqno9j5gMI9aTKefkJqq) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Hala Hala \(Hot Girl Summer\)](https://open.spotify.com/album/7DvPbkRiePbdTQ8IzEf17Q) | 2:22 | 2022-06-09 | 2022-09-02 |
+| [HALLMATTAN](https://open.spotify.com/track/6qBwgf6ZTDyyG7GwQjoL27) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [HALLMATTAN](https://open.spotify.com/album/1lsPTXRLEQUT7lSX7gENT2) | 3:07 | 2023-03-21 |  |
 | [Hallucinerar](https://open.spotify.com/track/0AknlTHIIVozGhJf1cspHh) | [N Kayani](https://open.spotify.com/artist/61hIpqLKwM0zcjNRLinT8d), [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [Hallucinerar](https://open.spotify.com/album/63Nl7ICthPoDB9DW6v8xsT) | 2:43 | 2022-05-05 | 2022-05-27 |
 | [Hammarkullen \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN) | [Aden x Asme](https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Studio 100](https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej) | 2:49 | 2021-12-16 | 2022-11-25 |
 | [HAN SOLO](https://open.spotify.com/track/7M2rOpRflBu9TD5d4TfZqs) | [Dogbite](https://open.spotify.com/artist/0ZZPrdKQzbnAQhPcJCy2nH), [Chad Bogus](https://open.spotify.com/artist/2zgy03hn0IeW6pxKJYMLq1), [Broder John](https://open.spotify.com/artist/66iUd3sGrtkATTS7FHWPe4) | [<FORM](https://open.spotify.com/album/4eV7xu8aoqaPvxjRd7fbSN) | 3:29 | 2023-01-20 | 2023-02-10 |

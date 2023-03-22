@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 415882,
+  "num_followers": 416064,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMDI2OGQyOTE3MDE3NDBlMTk1ZDVhNTcyZmY1MTVlZTZk",
+  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMGRlODA4YjNhODkzYmUyNjU2YWIzZDY2MGIwM2Y4OWNl",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "You Say I'm in Love",
-        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
-      },
-      "artists": [
-        {
-          "name": "Banes World",
-          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "You Say I'm in Love",
-      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Pink Songs",
         "url": "https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 171243,
       "name": "Dance In Room Song",
       "url": "https://open.spotify.com/track/32pdmizVCumVDYAXTqHFRh"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "You Say I'm in Love",
+        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
+      },
+      "artists": [
+        {
+          "name": "Banes World",
+          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "You Say I'm in Love",
+      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG"
     },
     {
-      "added_at": "2022-12-13 12:51:47",
-      "album": {
-        "name": "Pastlife (Deluxe)",
-        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 182203,
-      "name": "Cold Like Me",
-      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
-    },
-    {
       "added_at": "2022-09-13 23:04:24",
       "album": {
         "name": "The Way He Looks",
@@ -963,6 +947,22 @@
       "duration_ms": 199500,
       "name": "Beautiful Mind",
       "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
+    },
+    {
+      "added_at": "2022-12-13 12:51:47",
+      "album": {
+        "name": "Pastlife (Deluxe)",
+        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 182203,
+      "name": "Cold Like Me",
+      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
     },
     {
       "added_at": "2022-12-13 12:51:47",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "heat waves - lofi version",
-        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
-      },
-      "artists": [
-        {
-          "name": "omgkirby",
-          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
-        }
-      ],
-      "duration_ms": 96363,
-      "name": "heat waves - lofi version",
-      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1195,22 +1179,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "\u20ac \u20ac \u20ac \u20ac^^%%!!!!!heaven!!!!!!",
-        "url": "https://open.spotify.com/album/7H9foucw2Pl96e1bwW8L3Q"
+        "name": "heat waves - lofi version",
+        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
       },
       "artists": [
         {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        },
-        {
-          "name": "Baths",
-          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
         }
       ],
-      "duration_ms": 263727,
-      "name": "\u20ac \u20ac \u20ac \u20ac^^%%!!!!!heaven!!!!!!",
-      "url": "https://open.spotify.com/track/15pUb5F93loQQWGN5yqB0y"
+      "duration_ms": 96363,
+      "name": "heat waves - lofi version",
+      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1231,6 +1211,26 @@
       "duration_ms": 137400,
       "name": "Mystery Key - Eyedress Remix",
       "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "\u20ac \u20ac \u20ac \u20ac^^%%!!!!!heaven!!!!!!",
+        "url": "https://open.spotify.com/album/7H9foucw2Pl96e1bwW8L3Q"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        },
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        }
+      ],
+      "duration_ms": 263727,
+      "name": "\u20ac \u20ac \u20ac \u20ac^^%%!!!!!heaven!!!!!!",
+      "url": "https://open.spotify.com/track/15pUb5F93loQQWGN5yqB0y"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 180295,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Afternoon Bike Ride",
         "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 180295,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 297567,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "What We Left Behind",
         "url": "https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 235462,
       "name": "What We Left Behind",
       "url": "https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 297567,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8"
     },
     {
       "added_at": "2022-09-13 23:04:24",

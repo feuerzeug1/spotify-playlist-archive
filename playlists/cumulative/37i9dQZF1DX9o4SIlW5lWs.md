@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-298 songs - 17 hr 8 min
+299 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Hasta el Amanecer](https://open.spotify.com/track/6sOxNeps1ULMAiIJRE1EJu) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Hasta el Amanecer](https://open.spotify.com/album/6PmzZJxtyxQrlPIwzyPeyv) | 3:48 | 2022-01-21 | 2022-06-22 |
 | [Hawai](https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Hawai](https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw) | 3:12 | 2022-01-14 | 2022-12-24 |
 | [Hoy Quiero Verte](https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Hoy Quiero Verte](https://open.spotify.com/album/19AtwODbc5YtbcUYQcRsRX) | 3:19 | 2022-04-01 |  |
-| [Indiferente](https://open.spotify.com/track/7G00AWh0XZS09lrMdpEcE2) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Y Amigos](https://open.spotify.com/album/7aY118zqoTPNmZsLc66twq) | 3:01 | 2022-01-14 |  |
+| [Indiferente](https://open.spotify.com/track/7G00AWh0XZS09lrMdpEcE2) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Y Amigos](https://open.spotify.com/album/7aY118zqoTPNmZsLc66twq) | 3:01 | 2022-01-14 | 2023-03-22 |
 | [Insaciable](https://open.spotify.com/track/1nvoQ3ZBMJZ38wsdDDHzGE) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Insaciable](https://open.spotify.com/album/24JQjRIlTGax38PWGJYhAA) | 3:26 | 2022-02-18 | 2022-07-17 |
 | [Juntos a la Par](https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Juntos a la Par](https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs) | 2:26 | 2022-01-21 | 2022-07-29 |
 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 | 2022-01-14 |  |
@@ -162,6 +162,7 @@
 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 | 2022-01-14 |  |
 | [Mientele](https://open.spotify.com/track/21ygs5dGjRIpOnXMjDiXZd) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Mientele](https://open.spotify.com/album/7bR6mVOH2sWX9qNGgYA7g5) | 3:43 | 2022-04-01 | 2022-05-28 |
 | [Mientes / Te Fuiste de Aqui / Me Duele Amarte](https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Mientes / Te Fuiste de Aqui / Me Duele Amarte](https://open.spotify.com/album/6sdJVuMEJlJOWP7rrLISiQ) | 5:41 | 2022-01-14 | 2022-07-07 |
+| [Mil Lágrimas](https://open.spotify.com/track/3bEjthWPk4EjDuV8vcrP9p) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Corazón Pecador](https://open.spotify.com/album/6YUSZgWOHLPfsEe92kTCu9) | 3:23 | 2023-03-10 |  |
 | [Mil Lágrimas](https://open.spotify.com/track/04P15cgMY5f0fPhr9O8TjZ) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Baile Y Más Baile](https://open.spotify.com/album/2Qv2HKKuUC2j6b1fWDu7p5) | 3:25 | 2022-01-14 | 2022-07-29 |
 | [Mirame a la Cara](https://open.spotify.com/track/0YpbQWWC1GGG2jLyf9jBi5) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH) | [El Regreso \(Volumen 1\)](https://open.spotify.com/album/0PfumInTIxFDG11X4uT6B5) | 1:59 | 2022-03-18 | 2022-05-11 |
 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 | 2023-02-03 |  |

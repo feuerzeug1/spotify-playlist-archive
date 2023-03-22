@@ -2,9 +2,9 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> alguem tem indicação de profissional com disponibilidade p pagar meus boletos??? obg!!
+> hje eu to só a anitta de corsa
 
-234 songs - 10 hr 44 min
+235 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Um Sonhador / Não Precisa / Não Aprendi A Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/42cdiwjkfYVjI8JtAQwsG5) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz \(Ao Vivo\)](https://open.spotify.com/album/6Ih58tG6tjs31HTfEUVwUL) | 4:36 | 2022-07-22 | 2022-08-12 |
 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-07-28 | 2022-08-09 |
 | [Unstoppable](https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:37 | 2022-05-26 | 2022-07-29 |
+| [Vacilão](https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Vacilão](https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv) | 2:10 | 2023-03-21 |  |
 | [Vai pegar Nunca só em 2500](https://open.spotify.com/track/3VBTqi0DLEYx2iPZVzyrrF) | [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Vai pegar Nunca só em 2500](https://open.spotify.com/album/16yLUCBXOzR32tqmPKYTzK) | 2:16 | 2022-05-26 | 2023-02-18 |
 | [Vai Soltando Pancadão \- Beat do Pica Pau Maluco](https://open.spotify.com/track/2pEnQImOCJiCTvDv3Lu3aE) | [DJ Santos MEC](https://open.spotify.com/artist/3gFraZSNZQpoQ704aHC0Ev), [MC Tilbita](https://open.spotify.com/artist/6H2IOr8ZJ3LMbxrVPRMiQL), [MC Alequinho](https://open.spotify.com/artist/3dMVoraROonQpHTN4S7l2e) | [Vai Soltando Pancadão \- Beat do Pica Pau Maluco](https://open.spotify.com/album/7AVAzg0DN8Shw2yKofxBQM) | 2:46 | 2023-02-17 |  |
 | [VEM COMIGO FAZENDO HEY HOW](https://open.spotify.com/track/3cp9OkYFbnMUSo39R9TSrZ) | [DJ Guina](https://open.spotify.com/artist/5fCHotgAd9p3j9evxovskc), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [VEM COMIGO FAZENDO HEY HOW](https://open.spotify.com/album/4UMUQgGcD7bAsKl9rPU0nL) | 2:40 | 2022-05-26 | 2022-09-23 |

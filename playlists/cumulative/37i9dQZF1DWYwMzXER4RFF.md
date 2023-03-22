@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-317 songs - 19 hr 51 min
+318 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/0QAEc5JBdaZMdxqU3xL64H) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/5uTI2HcpAywDP8Vo1DpJta) | 3:14 | 2021-12-06 | 2022-07-23 |
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 3:14 | 2022-06-16 |  |
 | [American Dreaming](https://open.spotify.com/track/6qFP8XKvS3zHq8KwjfEPNT) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [American Dreaming](https://open.spotify.com/album/5VnCDYP1xurFM8OyJ1KPJp) | 3:20 | 2022-03-11 | 2022-04-19 |
+| [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 | 2023-03-22 |  |
 | [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 | 2022-08-25 | 2022-10-07 |
 | [Another Night](https://open.spotify.com/track/3x2kMMjAMfZvgV9PacT3Mw) | [The Men](https://open.spotify.com/artist/30XB6UJMhn7v7ZDX2GlIsM) | [Tomorrow's Hits](https://open.spotify.com/album/2TY5pohPtUqu1c5fy7pW0F) | 5:28 | 2021-12-06 | 2022-07-26 |
 | [Avoidarama](https://open.spotify.com/track/1bFz0eOflEU0WOksVBDPA2) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Avoidarama](https://open.spotify.com/album/27NMHPWp3yDUSsrrHQoVRM) | 2:58 | 2021-12-06 | 2022-07-24 |
@@ -137,7 +138,7 @@
 | [Horses](https://open.spotify.com/track/3FGdZPyBYvPVMen9m28Ula) | [Gag Salon](https://open.spotify.com/artist/2C3DYfvpYvOATMSMWL6lat) | [Horses](https://open.spotify.com/album/2WjI0m3MbKcBZciRqpiUZy) | 4:31 | 2022-03-11 | 2022-04-14 |
 | [Houseplants](https://open.spotify.com/track/3Q1Q4dftyBYbcCa0YFIhUD) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/2KYm30pFBJI0fwpCGcth3t) | 4:18 | 2021-12-06 | 2022-10-16 |
 | [Houseplants](https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Houseplants](https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx) | 4:18 | 2022-08-25 |  |
-| [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 | 2021-12-06 |  |
+| [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 | 2021-12-06 | 2023-03-22 |
 | [Hypnotiser Keeps the Ball Rolling](https://open.spotify.com/track/1gwv8PNoS7XjH6pTm9jgX4) | [Menace Beach](https://open.spotify.com/artist/4hJq1LJCscaxZrVgwA0LY1) | [Black Rainbow Sound](https://open.spotify.com/album/63zDPEicQHstOg7cUH17S5) | 3:26 | 2021-12-06 | 2022-04-17 |
 | [I Am Kate Moss](https://open.spotify.com/track/0FfZqUBiv9YAzlUko2XzDY) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [I Am Kate Moss](https://open.spotify.com/album/7E5SNH3yuDZlJezLvqMCwH) | 3:14 | 2022-03-03 | 2022-07-25 |
 | [I Am Who I Think You Think I Am](https://open.spotify.com/track/6iVx4fErgszaoelTjTU4G0) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:37 | 2021-12-06 | 2022-07-22 |

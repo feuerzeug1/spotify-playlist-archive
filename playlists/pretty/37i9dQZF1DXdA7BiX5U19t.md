@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7BiX5U19t.md) - [plain]
 
 > 2023年3月24日\(金\), 25日\(土\)に来日公演<a href="https://harrystylesjapantour.com/">"Love On Tour"</a>を開催するHarry Stylesを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 35 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 304 likes - 35 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

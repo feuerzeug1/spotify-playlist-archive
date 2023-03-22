@@ -602,7 +602,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 207017,
       "name": "Be With You (feat. Ai Furihata)",
       "url": "https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 273662,
       "name": "Drive",
       "url": "https://open.spotify.com/track/0UyjuTpVs3puSMGJQYY1W4"
@@ -3168,7 +3168,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 226933,
       "name": "Moonset",
       "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
@@ -3190,6 +3190,24 @@
       "duration_ms": 192115,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+    },
+    {
+      "album": {
+        "name": "muse",
+        "url": "https://open.spotify.com/album/2TyNsyTZjsX4Zv0VurnFvk"
+      },
+      "artists": [
+        {
+          "name": "YOLK",
+          "url": "https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "muse",
+      "url": "https://open.spotify.com/track/6XWpWjw67Zi5edXcbUnqQV"
     },
     {
       "album": {
@@ -3316,6 +3334,24 @@
       "duration_ms": 170366,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0o313xtpNX0r3gx5TZSwK0"
+    },
+    {
+      "album": {
+        "name": "New Place, New Life",
+        "url": "https://open.spotify.com/album/15QZRuqfRxjJ5lkvuXx1wS"
+      },
+      "artists": [
+        {
+          "name": "RAq",
+          "url": "https://open.spotify.com/artist/0I6KWC4h8huHA3Mgj2NaqZ"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147222,
+      "name": "New Place, New Life",
+      "url": "https://open.spotify.com/track/1zOhrl9g5ABIjwwCJ9OI5Q"
     },
     {
       "album": {
@@ -3946,7 +3982,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 219033,
       "name": "Ravel",
       "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
@@ -4188,7 +4224,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 287569,
       "name": "SANDIE",
       "url": "https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt"
@@ -4802,7 +4838,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "STEP IT",
       "url": "https://open.spotify.com/track/1orgfiHTB2opQkbwf9Gpnl"
@@ -5150,7 +5186,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 215666,
       "name": "Take That ! feat. TENDRE",
       "url": "https://open.spotify.com/track/64ygTL7d8g37JIp4rcRZ26"
@@ -5186,7 +5222,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 278290,
       "name": "Talk",
       "url": "https://open.spotify.com/track/30v1ffMJ8gcCYv5YfrLE99"
@@ -5858,7 +5894,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 215400,
       "name": "your room",
       "url": "https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N"
@@ -6419,6 +6455,28 @@
     },
     {
       "album": {
+        "name": "\u5927\u6edd\u8a60\u4e00 NOVELTY SONG BOOK",
+        "url": "https://open.spotify.com/album/1gIUCFC81qiFPpisdcOCLU"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6edd\u8a60\u4e00",
+          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
+        },
+        {
+          "name": "Keiichi Suzuki",
+          "url": "https://open.spotify.com/artist/6qz1QFUOn2Pfc3P5nm9x1G"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240986,
+      "name": "\u3086\u3046\u304c\u305f\u30d5\u30ec\u30f3\u30c9 (USEFUL SONG)",
+      "url": "https://open.spotify.com/track/44vZrqSjWSDwjiUmoDY2RV"
+    },
+    {
+      "album": {
         "name": "\u3086\u3048\u306b\u5e0c\u671b\u306a\u3069",
         "url": "https://open.spotify.com/album/7yqxtVnxifEe1D4r926rTG"
       },
@@ -6510,6 +6568,28 @@
       "duration_ms": 267074,
       "name": "\u30a4\u30f3\u30b9\u30d4\u30ec\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/6f7a7DrnzcIxIpLQobEhgw"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30a3\u30fc\u30af\u30a8\u30f3\u30c9\u30fb\u30e9\u30f3\u30c7\u30f4\u30fc",
+        "url": "https://open.spotify.com/album/4dzxDvGZE4ai8MLjZtalaN"
+      },
+      "artists": [
+        {
+          "name": "Qnel",
+          "url": "https://open.spotify.com/artist/3BPOGmjOCeLb5xwdz17OuF"
+        },
+        {
+          "name": "HIROSHI",
+          "url": "https://open.spotify.com/artist/3mEcZGsQqfFgH7MJ3GMeYn"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229642,
+      "name": "\u30a6\u30a3\u30fc\u30af\u30a8\u30f3\u30c9\u30fb\u30e9\u30f3\u30c7\u30f4\u30fc",
+      "url": "https://open.spotify.com/track/0AttQzcswT34M4WSYKm70i"
     },
     {
       "album": {
@@ -7237,6 +7317,24 @@
     },
     {
       "album": {
+        "name": "\u30e4\u30c3\u30c1\u30de\u30a4\u30ca!",
+        "url": "https://open.spotify.com/album/7LrZpZh8gj3P5cHEon11UI"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30ec\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188709,
+      "name": "\u30e4\u30c3\u30c1\u30de\u30a4\u30ca!",
+      "url": "https://open.spotify.com/track/7zdHVg51ysEcEgOUT3ewpb"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30c3\u30ad\u30fc\u30fb\u30c9\u30e9\u30a4\u30d6",
         "url": "https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh"
       },
@@ -7256,6 +7354,24 @@
       "duration_ms": 208853,
       "name": "\u30e9\u30c3\u30ad\u30fc\u30fb\u30c9\u30e9\u30a4\u30d6",
       "url": "https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho"
+    },
+    {
+      "album": {
+        "name": "JUNCTION POP",
+        "url": "https://open.spotify.com/album/1NuQdox8SHt5RwgsojvXGF"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u96c4\u58eb",
+          "url": "https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "\u30e9\u30d6\u30ec\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/7c7rjEaoqcCsDSVJ6KfBd3"
     },
     {
       "album": {
@@ -7434,6 +7550,24 @@
       "duration_ms": 252666,
       "name": "\u512a\u3057\u3044\u624b ~ Gentle Hands",
       "url": "https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S"
+    },
+    {
+      "album": {
+        "name": "Sunset Rain",
+        "url": "https://open.spotify.com/album/22BSXUMxOXc7ld5DxexT6J"
+      },
+      "artists": [
+        {
+          "name": "Gota Nishidera",
+          "url": "https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248715,
+      "name": "\u5165\u6c5f\u306b\u3066",
+      "url": "https://open.spotify.com/track/5xHubhwMi8QcbEz6ZpinEa"
     },
     {
       "album": {

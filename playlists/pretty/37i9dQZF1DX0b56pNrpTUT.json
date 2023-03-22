@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 4018,
+  "num_followers": 4025,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDJiMTBmNDc4MDRkZDY4M2JlODM0NzI1NzE3Y2M5YWJh",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDM0OTUzMTkxOWEyODE2MjczYjY2ZDE5ZDQ4MDA3ZThh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s"
-      },
-      "artists": [
-        {
-          "name": "RAY BLK",
-          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "MIA (feat. Kaash Paige)",
-      "url": "https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Under Twenty Five",
         "url": "https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 210184,
       "name": "Peng Black Girls",
       "url": "https://open.spotify.com/track/3Xhj7ZZAfQwPUxKZHQdw3y"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s"
+      },
+      "artists": [
+        {
+          "name": "RAY BLK",
+          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "MIA (feat. Kaash Paige)",
+      "url": "https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk"
     },
     {
       "added_at": "2022-10-01 16:00:00",

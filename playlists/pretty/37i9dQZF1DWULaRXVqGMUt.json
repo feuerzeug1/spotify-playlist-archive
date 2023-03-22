@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 34449,
+  "num_followers": 34502,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzI2OSwwMDAwMDAwMDc1NDY4ZDEyM2FkYzRiZWI1ZWQ3YmJhZDNiNmU5MmVj",
+  "snapshot_id": "MTY3MzU1NzI2OSwwMDAwMDAwMDc2YzJiMTc2NGM5ZDA4NjRhMTY3YjMwNTY3MjZmNmQ1",
   "tracks": [
     {
       "added_at": "2023-01-10 17:34:17",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Albert Ammons & Pete Johnson",
-          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Boogie Woogie Man",
-      "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Ragtime Guitar's Foremost Fingerpicker",
         "url": "https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 193466,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Albert Ammons & Pete Johnson",
+          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Boogie Woogie Man",
+      "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Battin' The Boogie",
-        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
-      },
-      "artists": [
-        {
-          "name": "Frank Muschalle",
-          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Killer Miller",
-      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Boogie Woogie Kid",
         "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 194240,
       "name": "Five Stacked High",
       "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Battin' The Boogie",
+        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
+      },
+      "artists": [
+        {
+          "name": "Frank Muschalle",
+          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Killer Miller",
+      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Albert Ammons & Pete Johnson",
-          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Barrelhouse Boogie",
-      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Hightower Boogie Woogie",
         "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 159666,
       "name": "Count Basie's Red Bank Cafe",
       "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Albert Ammons & Pete Johnson",
+          "url": "https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Barrelhouse Boogie",
+      "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Cow Cow Davenport Vol. 1 (1925-1929)",
-        "url": "https://open.spotify.com/album/5akjiDx2OnmsHOdBn1Wlbs"
-      },
-      "artists": [
-        {
-          "name": "Charles \"Cow Cow\" Davenport",
-          "url": "https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd"
-        }
-      ],
-      "duration_ms": 199262,
-      "name": "Chimes Blues",
-      "url": "https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "St. Louis Blues Piano Man",
         "url": "https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 248226,
       "name": "Piggly Wiggly Blues",
       "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Cow Cow Davenport Vol. 1 (1925-1929)",
+        "url": "https://open.spotify.com/album/5akjiDx2OnmsHOdBn1Wlbs"
+      },
+      "artists": [
+        {
+          "name": "Charles \"Cow Cow\" Davenport",
+          "url": "https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd"
+        }
+      ],
+      "duration_ms": 199262,
+      "name": "Chimes Blues",
+      "url": "https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Chicago Breakdown",
-      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
         "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 181893,
       "name": "State Street Jive",
       "url": "https://open.spotify.com/track/2SDm7Yn0uWuiimKzFpnoEW"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Chicago Breakdown",
+      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
     },
     {
       "added_at": "2023-01-10 17:34:17",

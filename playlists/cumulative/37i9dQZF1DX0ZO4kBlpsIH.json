@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 213693,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/4iAKfuXxtvBuBilApPvf06"
@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Les feuilles mortes",
+        "url": "https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9 Bleu",
+          "url": "https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157350,
+      "name": "Djangology",
+      "url": "https://open.spotify.com/track/3dIl8SxXJTggnKIMozYRqi"
+    },
+    {
+      "album": {
         "name": "A La Noce",
         "url": "https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP"
       },
@@ -762,7 +780,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 205706,
       "name": "Germaine",
       "url": "https://open.spotify.com/track/75Oxiew9UEAJNgBfemFLPR"
@@ -1013,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "La Vie En Rose",
+        "url": "https://open.spotify.com/album/3OG7njGt1Efjfyy1T1wwEs"
+      },
+      "artists": [
+        {
+          "name": "Les Sales Gosses",
+          "url": "https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150836,
+      "name": "L'indiff\u00e9rence",
+      "url": "https://open.spotify.com/track/0pkL7GfHF6iyAdyQujyRnK"
+    },
+    {
+      "album": {
         "name": "Accordion World",
         "url": "https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG"
       },
@@ -1158,10 +1194,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 134333,
       "name": "La vie en rose",
       "url": "https://open.spotify.com/track/5nMtd6QVWMv8tiYkPlPuD7"
+    },
+    {
+      "album": {
+        "name": "La Vie En Rose",
+        "url": "https://open.spotify.com/album/3OG7njGt1Efjfyy1T1wwEs"
+      },
+      "artists": [
+        {
+          "name": "Les Sales Gosses",
+          "url": "https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182474,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/2U0WWWzYhnFieMhO9ONB1F"
     },
     {
       "album": {
@@ -1255,6 +1309,42 @@
     },
     {
       "album": {
+        "name": "Valse de la Rose",
+        "url": "https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w"
+      },
+      "artists": [
+        {
+          "name": "Les Petits Parisians",
+          "url": "https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110236,
+      "name": "Le Vin Est La Cl\u00e9 de Mon Coeur",
+      "url": "https://open.spotify.com/track/7BnNWk7YTw1DgVN2E9owRX"
+    },
+    {
+      "album": {
+        "name": "Les feuilles mortes",
+        "url": "https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9 Bleu",
+          "url": "https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148305,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/3XqH3vtrR5gTkj1XxMcKIM"
+    },
+    {
+      "album": {
         "name": "Love Routes (Romantic Accordion Ballads in Rome)",
         "url": "https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB"
       },
@@ -1292,7 +1382,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 211266,
       "name": "Les yeux noirs",
       "url": "https://open.spotify.com/track/7lO7qbUIy6E1FNJxkh1ft2"
@@ -1350,6 +1440,24 @@
       "duration_ms": 287893,
       "name": "Magnitsky Mazurka",
       "url": "https://open.spotify.com/track/5ZXjV4dL6GAc4yRUtf48IP"
+    },
+    {
+      "album": {
+        "name": "Les feuilles mortes",
+        "url": "https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9 Bleu",
+          "url": "https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115403,
+      "name": "Matin Calme",
+      "url": "https://open.spotify.com/track/08fs9mOg7lKMvHumsUFVCQ"
     },
     {
       "album": {
@@ -1422,6 +1530,24 @@
       "duration_ms": 138424,
       "name": "Mon amant de Saint-Jean",
       "url": "https://open.spotify.com/track/6wsyd1VUuZjHZkXiHNHWhT"
+    },
+    {
+      "album": {
+        "name": "Valse de la Rose",
+        "url": "https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w"
+      },
+      "artists": [
+        {
+          "name": "Les Petits Parisians",
+          "url": "https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135439,
+      "name": "Mon Tournesol",
+      "url": "https://open.spotify.com/track/3xWy7j5HeruNwzEACKLEav"
     },
     {
       "album": {
@@ -2174,7 +2300,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 226400,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/5cuYrVcC5krKnbLEdhTfMe"
@@ -2200,7 +2326,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 183106,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/5gzv7hDtrahHurHcYQF41l"
@@ -2314,6 +2440,24 @@
       "duration_ms": 144233,
       "name": "Sur la Seine",
       "url": "https://open.spotify.com/track/3rvFCB6mfxK3rmG7rcTA79"
+    },
+    {
+      "album": {
+        "name": "Les feuilles mortes",
+        "url": "https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c"
+      },
+      "artists": [
+        {
+          "name": "Carr\u00e9 Bleu",
+          "url": "https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192423,
+      "name": "Suzette",
+      "url": "https://open.spotify.com/track/15G8JWzGHoxH7vryK5v2g4"
     },
     {
       "album": {
@@ -2484,6 +2628,24 @@
       "duration_ms": 157028,
       "name": "Valse aux Champs-Elysees",
       "url": "https://open.spotify.com/track/5lxtAvtpVeVjBxhtrtF8EA"
+    },
+    {
+      "album": {
+        "name": "Valse de la Rose",
+        "url": "https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w"
+      },
+      "artists": [
+        {
+          "name": "Les Petits Parisians",
+          "url": "https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158778,
+      "name": "Valse de la Rose",
+      "url": "https://open.spotify.com/track/0mVS2trjaMEQvdtkIFCCHK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,732 likes - 350 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,824 likes - 350 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,7 +279,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 269 | [Pon De Replay](https://open.spotify.com/track/3fpVJN66bb5vzVVDqqJm35) | [THYPONYX](https://open.spotify.com/artist/20GpdVRMnnsWZTd7PferiN), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Pon De Replay](https://open.spotify.com/album/60NDSgceznP7ptpKgECTNY) | 3:20 |
 | 270 | [Walking in Memphis](https://open.spotify.com/track/32KAS5EcnkZPAi45Pp7An2) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Tale & Dutch](https://open.spotify.com/artist/5rYZzBRu7Tgu80K7bVM6u5), [Warren Attwell](https://open.spotify.com/artist/6oeHSjbfSBJKsULJPu4FgF) | [Walking in Memphis](https://open.spotify.com/album/3GBCX9gvZ9Oj2Yq5OfV6DM) | 3:47 |
 | 271 | [Havana](https://open.spotify.com/track/47HYkDFa1AUsUss7VPF9Ir) | [Kilian K](https://open.spotify.com/artist/04sHHRws8Q7apGxRnUnjQs), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Havana](https://open.spotify.com/album/7dQ2bqiQ6vQNu4Ns9fUR9Z) | 2:10 |
-| 272 | [Let Me Love You](https://open.spotify.com/track/0w2kcWIP3rE5PRQs9acmQg) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Jacob Frohde](https://open.spotify.com/artist/2RP1zUSMIGi2YfuW9CHwGz) | [Let Me Love You](https://open.spotify.com/album/47lhmNsuKx6PiPFNWAZhou) | 3:05 |
+| 272 | [Let Me Love You](https://open.spotify.com/track/55X9Zj4yJGpdPLXuytGdim) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Jacob Frohde](https://open.spotify.com/artist/2RP1zUSMIGi2YfuW9CHwGz) | [Let Me Love You](https://open.spotify.com/album/61zMx6gvkoTyBwPc6wxU4A) | 3:05 |
 | 273 | [Go Ahead Now](https://open.spotify.com/track/3ZJEF7VgIehAPkJpwZHMP0) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Go Ahead Now](https://open.spotify.com/album/2Gibwrf2uTThA8jRrBNvKh) | 2:32 |
 | 274 | [Black Beatles](https://open.spotify.com/track/4osUZoTShs0y7gfSBvE92o) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Black Beatles](https://open.spotify.com/album/2SsJlOKZjLxFygFlJFolcF) | 2:37 |
 | 275 | [Memories](https://open.spotify.com/track/0o7p0yZL6fJ4EbciC8yP0X) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Memories](https://open.spotify.com/album/3bBpuCxM7ZXuEcyJqoNxbe) | 2:18 |
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 349 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 350 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MTY3Mjc2NDIwMCwwMDAwMDAwMDA4NWNhODM3ODllZWQ2MDYyZWQzMTBmZGYxYzgyMzIw`
+Snapshot ID: `MTY3Mjc2NDIwMCwwMDAwMDAwMDAxODFmMzRhMGYyMTI2NzQ5MTUwODQ2NWUzZWRkNTIw`

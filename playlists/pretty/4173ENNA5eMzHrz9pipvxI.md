@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Nitti x Valentino Khan
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,191 likes - 35 songs - 1 hr 40 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,189 likes - 35 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 8 | [8 Bit Lovers \(feat\. Noah Avery\)](https://open.spotify.com/track/3XseUSFG5hK3x70ZxQsKGZ) | [Thomas Nan](https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v), [Noah Avery](https://open.spotify.com/artist/6yOuSQzdiWHJQg64xtW28j) | [8 Bit Lovers \(feat\. Noah Avery\)](https://open.spotify.com/album/47X7fWHrgRGOPKSrLudCR4) | 2:13 |
 | 9 | [Come Together](https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Come Together](https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep) | 3:39 |
 | 10 | [Nirvana](https://open.spotify.com/track/18MCxsPkUPmVczH6MwcmMt) | [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [Nirvana](https://open.spotify.com/album/4NYL4SD5w2GP3f5Q8EoYZp) | 2:44 |
-| 11 | [Pieces \(Mind Electric Remix\)](https://open.spotify.com/track/1xNk84L6jyZ1SvQu4Mi4WG) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Mind Electric](https://open.spotify.com/artist/69980mQFGok7v7sniw1zgL) | [Pieces \(EP\)](https://open.spotify.com/album/25r4xCO22Xg4WmRmqJX98c) | 3:21 |
+| 11 | [Pieces \(Mind Electric Remix\)](https://open.spotify.com/track/1xNk84L6jyZ1SvQu4Mi4WG) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Mind Electric](https://open.spotify.com/artist/69980mQFGok7v7sniw1zgL) | [Pieces \(The Remixes\)](https://open.spotify.com/album/25r4xCO22Xg4WmRmqJX98c) | 3:21 |
 | 12 | [Off Switch \(with Elle Vee\)](https://open.spotify.com/track/3bB7B7mvhRjmREvfO3MokW) | [2Awake](https://open.spotify.com/artist/0eUzuZ1U6Ofl82Gwotjka3), [SixCap](https://open.spotify.com/artist/1Q4td6MS7PJuJeNyjzmh8s), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Off Switch \(with Elle Vee\)](https://open.spotify.com/album/5tRVC4QA55ITMtBtD8bP0f) | 2:42 |
 | 13 | [Sweet Chili Hot \(feat\. Tania Foster\)](https://open.spotify.com/track/6K90MKpkKkdihnzCsybotA) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Sweet Chili Hot \(feat\. Tania Foster\)](https://open.spotify.com/album/1400giqo5YcZuBHSaTzU9u) | 3:07 |
 | 14 | [KIDS](https://open.spotify.com/track/4Io7cOXbdkbFBXlPD79IjX) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [KIDS](https://open.spotify.com/album/7D98JwctKq2YRCuYXyEjql) | 2:48 |

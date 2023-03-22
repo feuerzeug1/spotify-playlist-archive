@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-95 songs - 6 hr 4 min
+96 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2022-12-01 | 2022-12-13 |
 | [Tulum](https://open.spotify.com/track/3pT9l5WdtJhCpEyxVgH2LT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/4IxpGZORrGm6XfQW1TyMiG) | 3:45 | 2022-12-15 |  |
 | [Wake Up Call](https://open.spotify.com/track/2k85lEep46LiLCK95PFOts) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Wake Up Call](https://open.spotify.com/album/7xpPwin0MrpjMm1N2PeJKV) | 3:44 | 2022-12-01 | 2023-03-13 |
-| [Walking on a Dream](https://open.spotify.com/track/1ifqHSKJZm62EUq00myuAM) | [Du0](https://open.spotify.com/artist/1nsfed7KDKnuVUMq0ug6NN) | [Walking on a Dream](https://open.spotify.com/album/5MBtjKrxEIhh2WROiZ6yru) | 3:24 | 2022-12-01 |  |
+| [Walking on a Dream](https://open.spotify.com/track/1XYc5rKRlOk94IUJZr27Yu) | [Du0](https://open.spotify.com/artist/1nsfed7KDKnuVUMq0ug6NN) | [Walking on a Dream](https://open.spotify.com/album/1fhSLxltvhQQK1mvaEZy4j) | 3:24 | 2023-03-09 |  |
+| [Walking on a Dream](https://open.spotify.com/track/1ifqHSKJZm62EUq00myuAM) | [Du0](https://open.spotify.com/artist/1nsfed7KDKnuVUMq0ug6NN) | [Walking on a Dream](https://open.spotify.com/album/5MBtjKrxEIhh2WROiZ6yru) | 3:24 | 2022-12-01 | 2023-03-22 |
 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 | 2022-12-01 |  |
 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-12-01 | 2023-02-26 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2022-12-01 |  |

@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-93 songs - 6 hr 53 min
+94 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Shine on, Moon!](https://open.spotify.com/track/0tWyaHqwejz2haPAvAtnao) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 4:23 | 2022-07-13 |  |
 | [Slow Walk](https://open.spotify.com/track/2NGcaUYRGMjq1g07vShB0y) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Easy Listening Blues](https://open.spotify.com/album/083njrfyh2zU4X0W4zLu1f) | 3:15 | 2022-07-13 |  |
 | [Stack'o Lee Blues](https://open.spotify.com/track/2Zq0eKS6p2SfpbIX35SKd8) | [Steinar Albrigtsen](https://open.spotify.com/artist/2qRjrCuBQJqlU8Nwb92kao) | [Stripped](https://open.spotify.com/album/5kLdtZs98YIz2KPULtheEg) | 2:29 | 2022-07-13 |  |
+| [Stay with Me](https://open.spotify.com/track/5qRvaUSXnGrn3dgMfNZM1p) | [Blues Fighters](https://open.spotify.com/artist/4Z8HiAcleS4ztwQn8MRl6Q) | [Pretty Baby](https://open.spotify.com/album/5kFJf4E5O16OBrw7tfoZiV) | 3:49 | 2023-03-21 |  |
 | [Still Blue](https://open.spotify.com/track/2ZoFDmNwXTSK3zgOayk63v) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/5coZhDRNQ6Tntf3EVbmCDk) | 7:02 | 2022-07-13 |  |
 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 | 2022-07-13 |  |
 | [The Man Wants Me Dead](https://open.spotify.com/track/7xANX2a9g4UJihLHe6YfTm) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Byther Smith in Europe Vol\. 2](https://open.spotify.com/album/4kRwRVPeQcELa0zHTczVPx) | 5:01 | 2023-03-03 |  |

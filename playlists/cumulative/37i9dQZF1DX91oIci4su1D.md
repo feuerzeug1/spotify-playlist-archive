@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-572 songs - 1 day 11 hr 11 min
+573 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Labyrinth](https://open.spotify.com/track/5jf1DWtNBC63dkalEIfv9c) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk) | [Labyrinth / Synthetic Sky](https://open.spotify.com/album/6wi2ckWHa9VgD9YmRtoWu4) | 3:45 | 2022-04-01 |  |
 | [Land of Mysteries](https://open.spotify.com/track/14ErKs35DymuSr3N7YX7Sj) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Land of Mysteries](https://open.spotify.com/album/4lIGBUc2nz6fC9D2YG0IzI) | 2:55 | 2022-12-13 | 2023-01-14 |
 | [Leave a Little Love \- Club Mix](https://open.spotify.com/track/7vW1njtiA0lFgHRrurMIKc) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave a Little Love \(Club Mix\)](https://open.spotify.com/album/0Nqfemx6roJ0N0x2GUhFNZ) | 2:53 | 2021-12-17 | 2022-02-26 |
+| [Let Go](https://open.spotify.com/track/4cRysbsSV8hwNcbD44r0rE) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Let Go](https://open.spotify.com/album/0UTLMtGykn3zILn2iZayjx) | 3:29 | 2023-03-17 |  |
 | [Let Me Out](https://open.spotify.com/track/0UaUxHmxqaVTKMNFQc8roy) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [Let Me Out](https://open.spotify.com/album/6E7KPmVTFVshga6VEuVySy) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Let You Down](https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 3:30 | 2022-06-10 | 2022-11-12 |
 | [Let You Down \- Chris Schweizer Remix](https://open.spotify.com/track/5uHEofIJPJaU01HuZ9R1Yw) | [Eco](https://open.spotify.com/artist/53B8p4TVFXCtarwosey71M), [Chris Schweizer](https://open.spotify.com/artist/2OEfOu8gvperJc2LcqGsjc) | [Let You Down](https://open.spotify.com/album/1ofE9M2CxwoQdff327H2J5) | 3:06 | 2021-12-17 | 2022-09-26 |
@@ -525,7 +526,7 @@
 | [Time After Time](https://open.spotify.com/track/7HnozJfCXo4H21kZNRYv5V) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Time After Time](https://open.spotify.com/album/1Wk9LOhvSz6RQ0Cq8pcnyW) | 2:49 | 2023-01-13 |  |
 | [To The Moon](https://open.spotify.com/track/1v51csio3TbXknsqqvn6LL) | [Dominant Space](https://open.spotify.com/artist/1q2tLeClILAf7olhIJEeHV), [Discordia](https://open.spotify.com/artist/1lndaI4imQpxWI99hs6xLS) | [To The moon](https://open.spotify.com/album/1K8WzT2VQhHBeZXf7Y3X0f) | 3:25 | 2022-04-29 | 2022-05-03 |
 | [Today](https://open.spotify.com/track/79UxTfv0TRgly553eiphBt) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Today](https://open.spotify.com/album/3iCgYS2lyCQI71zlvQrgOJ) | 3:35 | 2023-03-10 |  |
-| [Together We Rise](https://open.spotify.com/track/2Rqh32KeH2fB7RaKmXcVWL) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi) | [Together We Rise](https://open.spotify.com/album/78ib4pW80u75tuZBLCiQ17) | 3:22 | 2023-01-20 |  |
+| [Together We Rise](https://open.spotify.com/track/2Rqh32KeH2fB7RaKmXcVWL) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi) | [Together We Rise](https://open.spotify.com/album/78ib4pW80u75tuZBLCiQ17) | 3:22 | 2023-01-20 | 2023-03-22 |
 | [Torture](https://open.spotify.com/track/0nozR3GQJtFFjbEXQ1hGvy) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Mira Feder](https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL) | [Torture](https://open.spotify.com/album/5QY3N522X0F33GXdGnMAoo) | 3:11 | 2022-04-08 |  |
 | [Touch The Sky](https://open.spotify.com/track/2XbWo6a2g3MhkXsJyesWjG) | [Inrayzex](https://open.spotify.com/artist/2OQGGn8Wi28QOTks6NroWf), [MALENE](https://open.spotify.com/artist/4C65Z3y8cZMzGj3XHRi3E1) | [Suanda Music Radio Top 20 \(April 2022\)](https://open.spotify.com/album/1L5cntE7pAd1TscuYqBuwk) | 2:55 | 2022-04-22 | 2023-03-05 |
 | [Transience](https://open.spotify.com/track/23fz2RgoUzHL3DdnaKccwO) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Transience](https://open.spotify.com/album/2JMJaKZdIZN3SIbQP26L2C) | 3:00 | 2022-05-27 |  |

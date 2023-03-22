@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: MAJAN, Schmyt
 
-751 songs - 1 day 12 hr 7 min
+752 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-07-29 | 2022-10-07 |
 | [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 | 2022-06-13 | 2022-07-01 |
 | [Bisschen High](https://open.spotify.com/track/2KgJBT7k4vrjEqxUJrcNGR) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Bisschen High](https://open.spotify.com/album/6RsPP6o85gZQm6zRSulAY9) | 2:52 | 2022-06-09 | 2022-07-05 |
+| [Bist du da](https://open.spotify.com/track/53mZOfHh9NjHOTaq1D511I) | [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How), [wavvyboi](https://open.spotify.com/artist/2ke2MNKxAZ9y4wUCZEGV4D) | [Bist du da](https://open.spotify.com/album/7HOr3mmC4U5lS7DCv9zBYM) | 2:27 | 2023-03-21 |  |
 | [Bist du noch hier?](https://open.spotify.com/track/4wmDcVX8875ieUtLN8469N) | [Joshua47](https://open.spotify.com/artist/4Qc6lgBWj6kK0hqa0csMTY) | [Bist du noch hier?](https://open.spotify.com/album/6hJfz2ZnFaWSMSsyVkmg0O) | 2:19 | 2022-12-22 | 2023-02-07 |
 | [BITTE BLEIB!](https://open.spotify.com/track/5jM9lCoRsFDPGvzNxzjXmk) | [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [BITTE BLEIB!](https://open.spotify.com/album/2Nuh1W85nqXAhKPjj1zpe1) | 3:05 | 2022-09-22 | 2022-11-04 |
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2022-12-08 | 2022-12-24 |
@@ -530,7 +531,7 @@
 | [Priceless](https://open.spotify.com/track/4kgu00hgAdZUcfOmJDvufg) | [Rosc](https://open.spotify.com/artist/4vEIMa1vuh2eKBryiepN8c) | [Priceless](https://open.spotify.com/album/3UNtbnpooesHeO9lSJAP9R) | 2:00 | 2022-08-15 | 2022-09-30 |
 | [PRINCE OF DARKNESS](https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [PRINCE OF DARKNESS](https://open.spotify.com/album/34iHUfBPU6yTJKPBoQC5HY) | 2:03 | 2022-06-09 | 2022-06-14 |
 | [Pueblo](https://open.spotify.com/track/16yu2nYzdXaFxVOQdUwLgS) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Pueblo](https://open.spotify.com/album/1qBCVCsaRPOgqFvvpkvEGL) | 3:04 | 2023-02-16 |  |
-| [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-01-09 |  |
+| [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-01-09 | 2023-03-22 |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-10 | 2022-11-16 |
 | [Raindrops](https://open.spotify.com/track/6MS06wwXPKH316MkRA6nCA) | [Beyazz](https://open.spotify.com/artist/1U0pXcl8GZlZ48jTgnpGHl) | [get numb with me](https://open.spotify.com/album/7kfXBbjC4CdFez8O793xGx) | 2:26 | 2022-09-01 | 2022-12-09 |
 | [Rarri Dreamin](https://open.spotify.com/track/0m7YMWqQU8hfUhx4uqAPqm) | [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Rarri Dreamin](https://open.spotify.com/album/2f7kdW1FGZptnGTjbOr3D0) | 2:10 | 2022-06-09 | 2022-07-05 |

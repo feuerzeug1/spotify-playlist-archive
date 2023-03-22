@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Prospa
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,639 likes - 85 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,713 likes - 85 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

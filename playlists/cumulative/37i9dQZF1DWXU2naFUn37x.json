@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Aggiornata ogni venerd\u00ec. Rondodasosa in cover.",
+  "description": "La casa dello street rap italiano. Aggiornata ogni venerd\u00ec. Niky Savage in cover.",
   "name": "Street Culto",
   "tracks": [
     {
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 196190,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/3FSW3VzKEYf9nDGafU4KEL"
@@ -4144,10 +4144,32 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 168275,
       "name": "READY 4 WAR (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/0pwRSrIxfrAdTLbPaEtZli"
+    },
+    {
+      "album": {
+        "name": "TRENCHES BABY",
+        "url": "https://open.spotify.com/album/79WpLPCSS0jwoYJHQjFcL7"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "READY 4 WAR (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/11bmZlbL7pICvsYXQxYiNp"
     },
     {
       "album": {

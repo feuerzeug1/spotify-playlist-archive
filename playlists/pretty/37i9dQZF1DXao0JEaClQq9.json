@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Feist ",
-  "num_followers": 1601867,
+  "num_followers": 1601950,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODkwMTkwMSwwMDAwMDAwMGEyZTE4M2VmMGFmZTJhNWRjNDBhMDUzOWRlODFiYjA2",
+  "snapshot_id": "MTY3ODkwMTkwMSwwMDAwMDAwMGQ1MDQ0YzQ4OTcyYzlhNWE4YWJmMDVhZTE3OTQxYmI3",
   "tracks": [
     {
       "added_at": "2023-03-14 21:10:23",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
         "name": "sex money feelings die (slowed version)",
         "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 168810,
       "name": "sex money feelings die - slowed version",
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 156370,
-      "name": "ilomilo",
-      "url": "https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+      "duration_ms": 156370,
+      "name": "ilomilo",
+      "url": "https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -527,22 +527,22 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "Black Panther: Wakanda Forever (Original Score)",
-        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+        "name": "The Virgin Suicides (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         },
         {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+          "name": "Gordon Tracks",
+          "url": "https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Con La Brisa - Film Version",
-      "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
+      "duration_ms": 211500,
+      "name": "Playground Love",
+      "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -579,22 +579,22 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "The Virgin Suicides (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
       },
       "artists": [
         {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
         },
         {
-          "name": "Gordon Tracks",
-          "url": "https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6"
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Playground Love",
-      "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
+      "duration_ms": 160226,
+      "name": "Con La Brisa - Film Version",
+      "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Serenade of Water",
-      "url": "https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
         "name": "TO FEEL ALIVE EP",
         "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 159400,
       "name": "i want war (BUT I NEED PEACE)",
       "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Serenade of Water",
+      "url": "https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -1075,38 +1075,6 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
-        "name": "Janky Star",
-        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
         "name": "Nothing's Free",
         "url": "https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ"
       },
@@ -1123,6 +1091,22 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
         "name": "Heaven To A Tortured Mind",
         "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 305506,
       "name": "Kerosene!",
       "url": "https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
+        "name": "Janky Star",
+        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
     },
     {
       "added_at": "2023-03-14 21:10:23",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-14 21:10:23",
       "album": {
-        "name": "Really Hot",
-        "url": "https://open.spotify.com/album/6pAwmI6U6Lmt6RqXjelRYx"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 106994,
-      "name": "Babyyy",
-      "url": "https://open.spotify.com/track/6lMxGGVsO1JAdzk0z6Q3Rh"
-    },
-    {
-      "added_at": "2023-03-14 21:10:23",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 259466,
       "name": "meta angel",
       "url": "https://open.spotify.com/track/6EeuY84I1Q3UJvpPN6iSzw"
+    },
+    {
+      "added_at": "2023-03-14 21:10:23",
+      "album": {
+        "name": "Dreaming of David",
+        "url": "https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 224347,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN"
     }
   ],
   "unique_name": "Ethereal",

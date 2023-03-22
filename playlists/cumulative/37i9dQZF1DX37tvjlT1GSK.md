@@ -4,12 +4,12 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Virlán García en portada.
 
-225 songs - 12 hr 2 min
+226 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40 Silenciada](https://open.spotify.com/track/2Z2W2b1EyGda9VfG7G6qC6) | [Los De Guamuchil](https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE) | [40 Silenciada](https://open.spotify.com/album/6uCx8AU7vP02l12wDhszHG) | 1:57 | 2022-07-01 | 2022-07-26 |
-| [A 180](https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [A 180](https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4) | 3:01 | 2022-07-01 |  |
+| [A 180](https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [A 180](https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4) | 3:01 | 2022-07-01 | 2023-03-22 |
 | [A Cada Rato \(En Vivo\)](https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [A Cada Rato \(En Vivo\)](https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT) | 3:05 | 2022-07-01 | 2022-12-02 |
 | [A Medio Paso De Olvidarte](https://open.spotify.com/track/0t9fn8iK9n5FDqnQFXHTqB) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [A Medio Paso De Olvidarte](https://open.spotify.com/album/3jtuDMqZqeoJllyulCXinf) | 2:49 | 2022-11-03 | 2022-12-03 |
 | [A Mi Paso](https://open.spotify.com/track/38o0NHH625eFYa2OonBiZp) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [A Mi Paso](https://open.spotify.com/album/2xDPTB3EcjPsoiD38MZT4P) | 3:29 | 2022-12-02 | 2023-01-23 |
@@ -40,6 +40,7 @@
 | [Comandante Tanque](https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Comandante Tanque](https://open.spotify.com/album/5Wpsb0hX19nyz3ygUd6YHX) | 3:26 | 2022-06-24 | 2023-02-14 |
 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 | 2022-07-01 |  |
 | [Confiar En Mi](https://open.spotify.com/track/3wVm1plAjtErQGzWeAsNT4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Confiar En Mi](https://open.spotify.com/album/07pKI6CF1hD9kTgLGQrNhp) | 4:44 | 2022-07-01 | 2022-08-06 |
+| [Correteando Los Billetes](https://open.spotify.com/track/03k7Ho93Tcbkqfl9Yn3N9z) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Correteando Los Billetes](https://open.spotify.com/album/0P52nbVEjZAZ1W6gO9sTUg) | 3:27 | 2023-03-17 |  |
 | [Costumbres](https://open.spotify.com/track/0BdFxosvp9aKbDshbC95vM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Costumbres](https://open.spotify.com/album/0HCNenSs0hDje4ohmjKMeT) | 3:29 | 2023-02-17 | 2023-03-18 |
 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 | 2022-02-01 |  |
 | [Cruza La Merca](https://open.spotify.com/track/5mdar6yL0XvE6t5BllYVlR) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Cruza La Merca](https://open.spotify.com/album/0OQ21vOtxcBoB18FgyEDXA) | 2:19 | 2022-12-02 | 2023-01-10 |

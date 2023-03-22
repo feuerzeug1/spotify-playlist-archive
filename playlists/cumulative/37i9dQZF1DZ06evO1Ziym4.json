@@ -430,10 +430,28 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 222893,
       "name": "Move To The City",
       "url": "https://open.spotify.com/track/0ZnbnrLQdSJiD5TfumVcnc"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Move To The City - Live",
+      "url": "https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK"
     },
     {
       "album": {
@@ -564,6 +582,24 @@
     {
       "album": {
         "name": "G N' R Lies",
+        "url": "https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368600,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/693Vu2TytCbonbTu9qQ8M3"
+    },
+    {
+      "album": {
+        "name": "G N' R Lies",
         "url": "https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi"
       },
       "artists": [
@@ -574,7 +610,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 371133,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/1dKUedvGLfp8byiThM1TO0"
@@ -664,10 +700,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 202693,
       "name": "Reckless Life",
       "url": "https://open.spotify.com/track/5k1j3UnyXvmgIyNWIfycFb"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201613,
+      "name": "Reckless Life - Live",
+      "url": "https://open.spotify.com/track/0iLV9SuiXvAf7QI1LIHybg"
     },
     {
       "album": {

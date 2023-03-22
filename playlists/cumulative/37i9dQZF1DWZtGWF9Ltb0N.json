@@ -1273,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "Cool & Relax",
+        "url": "https://open.spotify.com/album/70SLEvGGpicx4iyfOzohvz"
+      },
+      "artists": [
+        {
+          "name": "Dubamine",
+          "url": "https://open.spotify.com/artist/1cTFPzuPsiYtINcLic2qCV"
+        },
+        {
+          "name": "Nazamba",
+          "url": "https://open.spotify.com/artist/4VqHq2AKycABRwXxTGVHSG"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Cool & Relax",
+      "url": "https://open.spotify.com/track/3jntNZjyiC3Hszr5u1ZGnn"
+    },
+    {
+      "album": {
         "name": "Creatures",
         "url": "https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n"
       },
@@ -5128,7 +5150,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 221142,
       "name": "Old & New",
       "url": "https://open.spotify.com/track/0TvSuQHGGyVODHyJ2GzYSF"

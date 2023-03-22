@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 52932,
+  "num_followers": 53025,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGZlYmYxY2Q5ZWE1Y2YxNGFlMmZjM2RjNWNjMWYwNzc3",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGE2MzYxMzRjNWVhNzI3ZGNhYWNjNzgwNWMxZDMzNGM1",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "See You When You Get There",
-        "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 364795,
-      "name": "Never Forget",
-      "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "The Ring EP",
         "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 391680,
       "name": "Take Your Place",
       "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "See You When You Get There",
+        "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 364795,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "When the Rain",
-        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
-      },
-      "artists": [
-        {
-          "name": "Trudge",
-          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
-        }
-      ],
-      "duration_ms": 400327,
-      "name": "Deep Eyes Blue Skies",
-      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Miracle Of The Rose EP",
         "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "A Minor Thought",
-        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
+        "name": "When the Rain",
+        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
       "artists": [
         {
-          "name": "Moomin",
-          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
+          "name": "Trudge",
+          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
         }
       ],
-      "duration_ms": 372041,
-      "name": "Loop No 1",
-      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
+      "duration_ms": 400327,
+      "name": "Deep Eyes Blue Skies",
+      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -927,6 +911,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "A Minor Thought",
+        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
+      },
+      "artists": [
+        {
+          "name": "Moomin",
+          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
+        }
+      ],
+      "duration_ms": 372041,
+      "name": "Loop No 1",
+      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Vanilla",
         "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "After & Before EP",
-        "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
-      },
-      "artists": [
-        {
-          "name": "Trickski",
-          "url": "https://open.spotify.com/artist/62ODIfRSB2K4w7GdBEFhKm"
-        }
-      ],
-      "duration_ms": 455528,
-      "name": "Pill Collins",
-      "url": "https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Moons",
         "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 217411,
       "name": "Moons",
       "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "After & Before EP",
+        "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
+      },
+      "artists": [
+        {
+          "name": "Trickski",
+          "url": "https://open.spotify.com/artist/62ODIfRSB2K4w7GdBEFhKm"
+        }
+      ],
+      "duration_ms": 455528,
+      "name": "Pill Collins",
+      "url": "https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Find Myself EP",
-        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
-      },
-      "artists": [
-        {
-          "name": "Danny B",
-          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
-        }
-      ],
-      "duration_ms": 364579,
-      "name": "Raw Charmer",
-      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Aerial",
         "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 369714,
       "name": "As Long as There's Sunset",
       "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Find Myself EP",
+        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
+      },
+      "artists": [
+        {
+          "name": "Danny B",
+          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
+        }
+      ],
+      "duration_ms": 364579,
+      "name": "Raw Charmer",
+      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1167,22 +1167,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Passengers",
-        "url": "https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP"
+        "name": "Dance Machine",
+        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
       },
       "artists": [
         {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
         },
         {
-          "name": "Erly Tepshi",
-          "url": "https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj"
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
         }
       ],
-      "duration_ms": 366898,
-      "name": "Orbital Hypnosis - Erly Tepshi Remix",
-      "url": "https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C"
+      "duration_ms": 340100,
+      "name": "Dance Machine - Original Mix",
+      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dance Machine",
-        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
+        "name": "Passengers",
+        "url": "https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP"
       },
       "artists": [
         {
-          "name": "Stereoclip",
-          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
         },
         {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+          "name": "Erly Tepshi",
+          "url": "https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj"
         }
       ],
-      "duration_ms": 340100,
-      "name": "Dance Machine - Original Mix",
-      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+      "duration_ms": 366898,
+      "name": "Orbital Hypnosis - Erly Tepshi Remix",
+      "url": "https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1251,6 +1251,22 @@
       "duration_ms": 474009,
       "name": "Deepart 8.0",
       "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Ars Vivendi",
+        "url": "https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F"
+      },
+      "artists": [
+        {
+          "name": "Eisket",
+          "url": "https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK"
+        }
+      ],
+      "duration_ms": 381406,
+      "name": "Ars Vivendi",
+      "url": "https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1315,22 +1331,6 @@
       "duration_ms": 447340,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Ars Vivendi",
-        "url": "https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F"
-      },
-      "artists": [
-        {
-          "name": "Eisket",
-          "url": "https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK"
-        }
-      ],
-      "duration_ms": 381406,
-      "name": "Ars Vivendi",
-      "url": "https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm"
     },
     {
       "added_at": "2022-07-15 17:34:15",

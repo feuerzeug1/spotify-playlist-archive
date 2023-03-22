@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 61789,
+  "num_followers": 61799,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDZlNzBkOTg1NWRjN2M0ZjU0MTVmNmFhMWQwMGJhYjAz",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDA0ZTk3ZjA4ZDY2NGViMjk5OGM2OGU1MzgyZTdhNDFk",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -227,18 +227,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -259,18 +259,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 149880,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
-        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
-      "url": "https://open.spotify.com/track/52V2BPdhlhFrUZF7AOrQP9"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Uns",
         "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 292306,
       "name": "Voce E Linda - Remixed Original Album",
       "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
+        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
+      "url": "https://open.spotify.com/track/52V2BPdhlhFrUZF7AOrQP9"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 105253,
-      "name": "Gostoso Demais - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 105253,
+      "name": "Gostoso Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Yellow Submarine Songtrack",
-        "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/5zqJlEJcn0EfnvAScH8swK"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
         "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 203973,
       "name": "This Time Tomorrow - 2020 Stereo Remaster",
       "url": "https://open.spotify.com/track/4KvaAwAeXLKyRjroj2QyjE"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Yellow Submarine Songtrack",
+        "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5zqJlEJcn0EfnvAScH8swK"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "S\u00e1 Marina",
-      "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Elis Regina",
         "url": "https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 162400,
       "name": "Tiro Ao \u00c1lvaro",
       "url": "https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "S\u00e1 Marina",
+      "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
     },
     {
       "added_at": "2022-06-07 14:45:28",

@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 125058,
+  "num_followers": 125082,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDVmMjZiYzQzOWZhNmFiMDg2MzliNzJlZjg5ODZmMTA3",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMGFiZWQ2NjhkZmY3MDlkNWJiYTJhNzMzMmUzMTY0OGFj",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+        "name": "Echo to Echo",
+        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
       },
       "artists": [
         {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+          "name": "Magnus International",
+          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
         }
       ],
-      "duration_ms": 234213,
-      "name": "Staying In",
-      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
+      "duration_ms": 255909,
+      "name": "A Man Called Anthony",
+      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -387,34 +387,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Echo to Echo",
-        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
       },
       "artists": [
         {
-          "name": "Magnus International",
-          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
         }
       ],
-      "duration_ms": 255909,
-      "name": "A Man Called Anthony",
-      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Transit",
-        "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
-      },
-      "artists": [
-        {
-          "name": "Third Attempt",
-          "url": "https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR"
-        }
-      ],
-      "duration_ms": 150870,
-      "name": "Transit - Radio Edit",
-      "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
+      "duration_ms": 234213,
+      "name": "Staying In",
+      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -431,6 +415,22 @@
       "duration_ms": 384055,
       "name": "Be A Man You Ant - Original Mix",
       "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Transit",
+        "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
+      },
+      "artists": [
+        {
+          "name": "Third Attempt",
+          "url": "https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR"
+        }
+      ],
+      "duration_ms": 150870,
+      "name": "Transit - Radio Edit",
+      "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
-      },
-      "artists": [
-        {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
-        }
-      ],
-      "duration_ms": 401066,
-      "name": "Flott Flyt",
-      "url": "https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Desire Lines",
         "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 493705,
       "name": "Love in the Night",
       "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+      },
+      "artists": [
+        {
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+        }
+      ],
+      "duration_ms": 401066,
+      "name": "Flott Flyt",
+      "url": "https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY"
     },
     {
       "added_at": "2023-01-19 23:00:00",

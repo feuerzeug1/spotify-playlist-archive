@@ -4,10 +4,11 @@
 
 > Enjoy the romantic side of Ani
 
-55 songs - 3 hr 46 min
+55 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/54lWhyO1mesDCvdQXiafu0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4dOzOEIHi3QhtjnafMLrPo) | 0:00 | 2021-08-02 |  |
 | [Aathi \(From "Kaththi"\)](https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 5:04 | 2021-08-02 |  |
 | [Ailasa Ailasa](https://open.spotify.com/track/6n8gWl0tiqrjsrytd24prO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 4:06 | 2021-08-02 |  |
 | [Alladhe Siragiye](https://open.spotify.com/track/4bBvORgFl84qcZ1Q4LtMoN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Rum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7wOBAKgO7PkU1tsOMPI8LN) | 3:42 | 2021-08-02 | 2023-02-17 |
@@ -36,7 +37,6 @@
 | [Kannamma](https://open.spotify.com/track/45THyhjDbYhNU7bDrTTUK6) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ispade Rajavum Idhaya Raniyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F4OLoTCtVTsS3hB2zqFbI) | 4:16 | 2021-08-02 |  |
 | [Kannazhaga \- The Kiss of Love](https://open.spotify.com/track/2MwCoo4GeXpi8soWn9EiPo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 3:25 | 2021-08-02 |  |
 | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/track/6i5QcWVTuzM67pXgD9Q7Vw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Ayogya"\)](https://open.spotify.com/album/27NXMaoKgNJR3iCHWKnpA3) | 3:45 | 2021-08-02 |  |
-| [Marakkavillayae](https://open.spotify.com/track/54lWhyO1mesDCvdQXiafu0) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Marakkavillayae\(Jersey\)](https://open.spotify.com/album/4dOzOEIHi3QhtjnafMLrPo) | 3:57 | 2021-08-02 |  |
 | [Marandhadhae](https://open.spotify.com/track/6djRqSJNZnkuWYXQWaeCL8) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Simba \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUTVOWLmclAk3pfhHUwbY) | 3:09 | 2021-08-02 |  |
 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 | 2022-07-16 |  |
 | [Mersalaayitten](https://open.spotify.com/track/78R4fDeRrcoBIxL6uX4TnJ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [I \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fYpftlxL5gVVKIz8kZ8lr) | 5:04 | 2021-08-02 |  |

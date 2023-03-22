@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 10 | [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 |
 | 11 | [The Real A \(WHTA\) \[feat\. Skooly\]](https://open.spotify.com/track/4Yp8G0ryuun0v1dRHtMNcH) | [Yung Booke](https://open.spotify.com/artist/5WN6nHqU0WhBKCcbJXkSej), [T.I.](https://open.spotify.com/artist/5Krj7bywZuCiajTa1zHP1C), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Real A \(WHTA\) \[feat\. Skooly\]](https://open.spotify.com/album/53Dw3Stif7Z9kGdDDBBJut) | 3:24 |
 | 12 | [From the Subway Train \- Extended Version](https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Silver Lake Listening Companion](https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0) | 2:21 |
-| 13 | [Broken](https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Broken](https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT) | 2:57 |
-| 14 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
-| 15 | [Soothing Lofi Piano](https://open.spotify.com/track/1RORrwRYKmUgrnJRI4mGz7) | [Heavenly Realms](https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj), [LoFi Bear](https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE) | [Soothing Lofi Piano](https://open.spotify.com/album/05WGmwOyVAkLAobtP2CFzZ) | 1:09 |
+| 13 | [Dream Drops](https://open.spotify.com/track/5ySdE6NWLnL5SsaDHzHt8B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [At Capolinea \(Remastered\)](https://open.spotify.com/album/0KoYmJEWsOq1kJ6Z6eSQ1r) | 4:26 |
+| 14 | [Broken](https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Broken](https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT) | 2:57 |
+| 15 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
 | 16 | [Insane \(feat\. Ant Clemons\)](https://open.spotify.com/track/0RGYP9RGSXfAGFjSrDyhIQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Insane \(feat\. Ant Clemons\)](https://open.spotify.com/album/5dBWQQ0cqVGcYZZWRYlaY2) | 2:53 |
 | 17 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
 | 18 | [Pontius Pilate's Home Movies](https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Pontius Pilate's Home Movies](https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1) | 3:54 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 29 | [Aged Eyes](https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Aged Eyes](https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG) | 4:06 |
 | 30 | [Wide](https://open.spotify.com/track/0JHutbPjcr6qDDqPTCVO2F) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Blood Money Part Zer0](https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt) | 2:56 |
 
-Snapshot ID: `Mjc5ODM3NjAsMDAwMDAwMDAyYjAxODk5MThhM2QwNTM0MDcxMDM2ZGE1ZDVlYjA3YQ==`
+Snapshot ID: `Mjc5ODM3NjAsMDAwMDAwMDAzMTU4NjMwNTU5ZWJjYWQwZDMxMzhkNmYzYWU0Y2QyOA==`

@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-116 songs - 8 hr 38 min
+117 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Mean Mistreatin' Mama](https://open.spotify.com/track/2kGpMbIIaK82aYl1N4xoHC) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Strange Angels: In Flight with Elmore James](https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN) | 5:58 | 2023-01-12 |  |
 | [Messing With The Blues](https://open.spotify.com/track/09tD5JvaiCrdlmKdmjDATX) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:12 | 2022-06-24 |  |
 | [Million Miles](https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 6:32 | 2022-06-24 |  |
+| [Money](https://open.spotify.com/track/7aBSU2mnAJFQ5apG2IVnOY) | [Kitty Liv](https://open.spotify.com/artist/4qSMvuRAOyZAeI5j6KZWai) | [The River That Flows EP](https://open.spotify.com/album/3aG99sCsrYQm78ssb2OlX2) | 2:43 | 2023-03-21 |  |
 | [Muleskinner Blues](https://open.spotify.com/track/27Be6a8BHTjUS736RAnGgP) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 2:51 | 2023-01-12 |  |
 | [Mustang Sally \(feat\. Jeff Beck\)](https://open.spotify.com/track/22W96oGvTk4kvL9oHnIxok) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Can't Quit The Blues](https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst) | 4:39 | 2022-06-24 |  |
 | [Need Your Love So Bad](https://open.spotify.com/track/7hTT6Wfwni319nUkp5fmO7) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 3:27 | 2022-06-24 |  |

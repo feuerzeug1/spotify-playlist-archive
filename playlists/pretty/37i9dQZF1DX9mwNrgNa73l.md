@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,294 likes - 100 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,397 likes - 100 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 30 | [Ishq Hularey](https://open.spotify.com/track/2yv0Fs3wFE5Kc00U52hFKb) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ishq Hularey](https://open.spotify.com/album/59ZLRAD3LcTIc68sDgU3b7) | 5:18 |
 | 31 | [O Rangrez](https://open.spotify.com/track/5JCDVLwteSXuwVqjCa7SwH) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Yusuf Mohammed](https://open.spotify.com/artist/5XWfOrZhMMjoBTKcAgtFxe), [Vajid Ali](https://open.spotify.com/artist/3cXNzZYIOUpv22w4iJm42t) | [Bhaag Milkha Bhaag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4) | 6:25 |
 | 32 | [Haji Peer](https://open.spotify.com/track/2gzhifaV7Dz7BsTFstmZOA) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908) | [Haji Peer](https://open.spotify.com/album/52tfxa4ThDUFALfmS7HcZR) | 4:11 |
-| 33 | [O Rangreza \- From "O Rangreza"](https://open.spotify.com/track/63Tdaqeaw7WeVkugjAkMux) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [O Rangreza \(From "O Rangreza"\)](https://open.spotify.com/album/5n5z6itVAu9lUsiYUmVa0C) | 5:47 |
+| 33 | [O Rangreza \- From "O Rangreza"](https://open.spotify.com/track/3OHfSWHE954xKXEVULHml1) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [O Rangreza \(From "O Rangreza"\)](https://open.spotify.com/album/3AKfx3LjRXSRlS4r9OwA88) | 5:47 |
 | 34 | [Tera Woh Pyar \(Nawazishein Karam\)](https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:05 |
 | 35 | [Mann Ki Lagan](https://open.spotify.com/track/7fxi1nuAVENApf7H3VivFH) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Paap \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4dS6K0dQ8O1FLN0KCvcAmf) | 4:51 |
 | 36 | [Ajab Shaan](https://open.spotify.com/track/4CZISmbEjlxmS2AZU5PicM) | [Junaid Ahmad](https://open.spotify.com/artist/2bj8wu4yydN6N6ocVCRmJz), [Ayashi Music](https://open.spotify.com/artist/6q92ahsRTNAvLM9Joys95s) | [Ajab Shaan](https://open.spotify.com/album/027Hm6R2LDBLuQ7UoH54qY) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 99 | [Allah Hi Reham](https://open.spotify.com/track/5s9a6n2FQaufFDUTTcsaXj) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 4:01 |
 | 100 | [Husn E Haqiqi](https://open.spotify.com/track/1Yi1XZNXOGk49Eh8WI5FGG) | [Darvesh](https://open.spotify.com/artist/1mPsFzgP5Zg6gdnfyKWMyJ) | [Husn E Haqiqi](https://open.spotify.com/album/402uZx2nCUK3MWpvqrVNxW) | 6:39 |
 
-Snapshot ID: `MTY3ODk1OTc1MywwMDAwMDAwMGExZmYyYjhkZjQ1YmNhMmY1NjM3N2Y3Zjk1ZjcyZGUy`
+Snapshot ID: `MTY3ODk1OTc1MywwMDAwMDAwMGYwMmY1NjMxMjZlMGRkZDQwZTg2YWZjNDg4MmUwM2E1`

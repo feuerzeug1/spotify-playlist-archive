@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mulheres inspiradoras para serem ouvidas no volume máximo\. Co\-curada por Pitty para o Dia Internacional da Mulher!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,256 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,906 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 30 | [Coocoocrazy](https://open.spotify.com/track/4BliVo1uZWjMDu6iP1S4Gy) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Coocoocrazy](https://open.spotify.com/album/3rRVEwcZU3BTbu2X7AmEPp) | 2:06 |
 | 31 | [Agora Só Falta Você \- Acústico MTV](https://open.spotify.com/track/60pTIQ2Jxoa7KQjFYaND6r) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [Acústico MTV Manu Gavassi Canta Fruto Proibido](https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt) | 3:46 |
 | 32 | [Rasta](https://open.spotify.com/track/3xOxeGRwF4p5fg56wE28al) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sal](https://open.spotify.com/album/5ANLgj5VLYICZwGRE7AXZ7) | 3:26 |
-| 33 | [De Bem Com a Vida](https://open.spotify.com/track/5nde1CDQLLmlRA6gOQTJlv) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Desse Jeito](https://open.spotify.com/album/5vTAwzNFPDnU2F1UmWQdXE) | 3:25 |
-| 34 | [Viciado em Mentir](https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [Viciado em Mentir](https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh) | 2:25 |
+| 33 | [Viciado em Mentir](https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [Viciado em Mentir](https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh) | 2:25 |
+| 34 | [De Bem Com a Vida](https://open.spotify.com/track/5nde1CDQLLmlRA6gOQTJlv) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Desse Jeito](https://open.spotify.com/album/5vTAwzNFPDnU2F1UmWQdXE) | 3:25 |
 | 35 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 36 | [Liberdade](https://open.spotify.com/track/0ZCCw1W5xKaOVzNGYk1SLP) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [R.A.E](https://open.spotify.com/artist/1z3xC9ml81L5vugg78Eegq) | [Drik Barbosa](https://open.spotify.com/album/6DBDl7pcfb8o5gGE1ug4s3) | 3:33 |
 | 37 | [Sorte ou Azar](https://open.spotify.com/track/38eUhDp3Q5BxmEczil8VAJ) | [ALVA](https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Sorte ou Azar](https://open.spotify.com/album/6Nq7EtHA1PBTpRsGpvELWf) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Sobre Você](https://open.spotify.com/track/0cmZ24itg3Hh50jJblbz4m) | [Laura Schadeck](https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS) | [A Insanidade](https://open.spotify.com/album/3wzswapC3piBrbqmlMgL6t) | 2:54 |
 | 50 | [Nunca foi descaso \(feat\. Gab Ferreira\)](https://open.spotify.com/track/4lHDZCW0Ve2DItNdEDxKGw) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Papel de carta](https://open.spotify.com/album/3cT88RfZ2nA2hDrbTm3M9W) | 3:40 |
 
-Snapshot ID: `MTY3ODEzNDQ2MSwwMDAwMDAwMDVkNzk4OGU3YWFhM2Q0YjM0ODAzYWU0ZjZmZGViOGVj`
+Snapshot ID: `MTY3ODEzNDQ2MSwwMDAwMDAwMDI2ZjUzNTFjMDE4YjY5Y2M5MTliZGU4Yzk2ZGNhNTlh`

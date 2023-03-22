@@ -4,7 +4,7 @@
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-56 songs - 5 hr 24 min
+57 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [How He Loves \- Live](https://open.spotify.com/track/5z24Hr3TKxeyeLRKFRHuzB) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Passion: Even So Come \(Deluxe Edition/Live\)](https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg) | 4:43 | 2023-03-10 |  |
 | [I Speak Jesus \- Live From Camp](https://open.spotify.com/track/5ShHzqdFyGi7e8Kxp9WXHU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 7:03 | 2023-03-10 |  |
 | [I Stand Amazed \(How Marvelous\)](https://open.spotify.com/track/5I49PGcxUCZFoMpZ6s9lj5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Everything Glorious](https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF) | 6:36 | 2023-03-10 |  |
-| [I've Witnessed It \- Live From Passion 2023](https://open.spotify.com/track/2aNBJK6XBDSiCjBxluLb1L) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [I've Witnessed It \(Live From Passion 2023\)](https://open.spotify.com/album/6cZsocVNtYfoi59Ipy6mke) | 7:50 | 2023-03-10 |  |
+| [I've Witnessed It \- Live From Passion 2023](https://open.spotify.com/track/2aNBJK6XBDSiCjBxluLb1L) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [I've Witnessed It \(Live From Passion 2023\)](https://open.spotify.com/album/6cZsocVNtYfoi59Ipy6mke) | 7:50 | 2023-03-10 | 2023-03-22 |
+| [I've Witnessed It \- Single Version](https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 4:29 | 2023-03-21 |  |
 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 | 2023-03-10 |  |
 | [It Is Finished \- Live](https://open.spotify.com/track/6CAEUmlr6iQeJRqgJXkouf) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:27 | 2023-03-10 |  |
 | [Jesus Paid It All](https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Everything Glorious](https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF) | 5:27 | 2023-03-10 |  |

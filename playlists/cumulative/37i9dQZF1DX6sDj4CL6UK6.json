@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Best of Indian English tracks. Cover- Prateek Kuhad",
+  "description": "Best of Indian English tracks. Cover- When Chai Met Toast",
   "name": "IndiEnglish",
   "tracks": [
     {
@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 198000,
       "name": "Sad in December",
       "url": "https://open.spotify.com/track/3RBEmnwchGJYy9Ugg50CJt"
@@ -2790,6 +2790,24 @@
       "duration_ms": 205046,
       "name": "Sucks to Be Human",
       "url": "https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y"
+    },
+    {
+      "album": {
+        "name": "Sushi Song",
+        "url": "https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154894,
+      "name": "Sushi Song",
+      "url": "https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X"
     },
     {
       "album": {

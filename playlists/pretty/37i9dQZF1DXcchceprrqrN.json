@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 28237,
+  "num_followers": 28343,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA3ODM1MCwwMDAwMDAwMDNkZWZiYzM3ZDYxM2U3NjhkYmRhNzM5YjVlNWMyOGM0",
+  "snapshot_id": "MTY3OTA3ODM1MCwwMDAwMDAwMDAyZjcwYjVhNGJmZmE5MjNiYzgxNzQ0MjkwOTdiYzZi",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "The News",
-        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 187696,
-      "name": "The News",
-      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 141908,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/141alNiSd9vG4Lb22BLHWM"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "The News",
+        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
     },
     {
       "added_at": "2023-03-17 18:39:10",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)",
+        "url": "https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "God Is a Circle",
+      "url": "https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 129119,
       "name": "SICK OF IT*",
       "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Fast in My Car",
-      "url": "https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)",
-        "url": "https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "God Is a Circle",
-      "url": "https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg"
-    },
-    {
       "added_at": "2023-03-17 18:39:10",
       "album": {
         "name": "When The Pawn...",
@@ -399,6 +383,22 @@
       "duration_ms": 296400,
       "name": "A Mistake",
       "url": "https://open.spotify.com/track/0w7XPnFp1jA7w7C8t89zJi"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Fast in My Car",
+      "url": "https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK"
     },
     {
       "added_at": "2023-03-17 18:39:10",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Cheer",
+        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 282121,
+      "name": "Weed Pin",
+      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 230560,
       "name": "Pedestrian at Best",
       "url": "https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Cheer",
-        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 282121,
-      "name": "Weed Pin",
-      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
     },
     {
       "added_at": "2023-03-17 18:39:10",

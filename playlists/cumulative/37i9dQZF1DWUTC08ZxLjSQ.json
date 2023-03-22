@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Malak, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Good Company, Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "complicated_5",
+        "url": "https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml"
+      },
+      "artists": [
+        {
+          "name": "artistbasm",
+          "url": "https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192916,
+      "name": "complicated_5",
+      "url": "https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw"
+    },
+    {
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/1m4dJoy1edgAZ1mxxUrDXi"
       },
@@ -694,6 +712,24 @@
       "duration_ms": 240000,
       "name": "Flight of Time",
       "url": "https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2"
+    },
+    {
+      "album": {
+        "name": "Freecutter",
+        "url": "https://open.spotify.com/album/373pGsj37jfjrtozC8AT89"
+      },
+      "artists": [
+        {
+          "name": "Taymour Khajah",
+          "url": "https://open.spotify.com/artist/1MnMA1XfPZlCBx6i7VC3OP"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220593,
+      "name": "Freecutter",
+      "url": "https://open.spotify.com/track/25dZ0pb2Jut2LuDu5t1x8f"
     },
     {
       "album": {
@@ -966,6 +1002,24 @@
       "duration_ms": 272432,
       "name": "How stupid is this?",
       "url": "https://open.spotify.com/track/3dcRnj7wvnhpSdEE3fyTzL"
+    },
+    {
+      "album": {
+        "name": "HYSTERIA",
+        "url": "https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48"
+      },
+      "artists": [
+        {
+          "name": "Papii",
+          "url": "https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "HYSTERIA",
+      "url": "https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul"
     },
     {
       "album": {
@@ -1612,7 +1666,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 301519,
       "name": "Nar w Rosas",
       "url": "https://open.spotify.com/track/7L3TurwY1wZQuBAGlGP43V"
@@ -1710,7 +1764,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 192687,
       "name": "Not Sure",
       "url": "https://open.spotify.com/track/1nEu8odxpQOSoGhI3xOlbs"
@@ -2126,7 +2180,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 115287,
       "name": "Shta2tella",
       "url": "https://open.spotify.com/track/66Vk9wfboLceIahHzBJuV0"
@@ -2374,7 +2428,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-22",
       "duration_ms": 183000,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT"
@@ -2458,6 +2512,24 @@
       "duration_ms": 150400,
       "name": "tiiiies",
       "url": "https://open.spotify.com/track/4trmxD9YPtU3GxMQLqLwwf"
+    },
+    {
+      "album": {
+        "name": "Tmsa7",
+        "url": "https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8"
+      },
+      "artists": [
+        {
+          "name": "Fodi",
+          "url": "https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128565,
+      "name": "Tmsa7",
+      "url": "https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2"
     },
     {
       "album": {
@@ -2780,6 +2852,28 @@
       "duration_ms": 169090,
       "name": "\u0639\u0645\u0644 \u0641\u0646\u064a",
       "url": "https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j"
+    },
+    {
+      "album": {
+        "name": "\u0639\u064a\u062f\u0644\u064a",
+        "url": "https://open.spotify.com/album/5b5S0FbQ748DB4XiV9AhYl"
+      },
+      "artists": [
+        {
+          "name": "Good Company",
+          "url": "https://open.spotify.com/artist/3ulWaH4088h2Yeop0R1lh5"
+        },
+        {
+          "name": "Tararu",
+          "url": "https://open.spotify.com/artist/52TAwlnhIQrzlSW4Tsc6dK"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169263,
+      "name": "\u0639\u064a\u062f\u0644\u064a",
+      "url": "https://open.spotify.com/track/3BdZArn7DZxrnaczmAne39"
     },
     {
       "album": {

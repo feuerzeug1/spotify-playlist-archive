@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-446 songs - 1 day 9 hr 29 min
+447 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Connected Illusions](https://open.spotify.com/track/6hsklmT7gmue5XjeALOCYD) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Connected Illusions](https://open.spotify.com/album/78UEzphMC0BLrGDUyLUTsv) | 4:21 | 2022-10-14 |  |
 | [Contact](https://open.spotify.com/track/1JYsB74OPOHzVcyPPnBZbb) | [Soap Dodgers](https://open.spotify.com/artist/6mbdzxwYn2azIvdjQ9uINq) | [Ill Minded / Contact](https://open.spotify.com/album/3I4FrmegOLTrEQXDBxr43q) | 5:58 | 2022-02-17 | 2022-04-08 |
 | [Contra Theory](https://open.spotify.com/track/1WsLvlvA4Zlrwr0C3FrOGE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Allusions LP](https://open.spotify.com/album/6QxS88nXazeU2qITa5aKOX) | 5:21 | 2022-02-17 |  |
+| [Cool & Relax](https://open.spotify.com/track/3jntNZjyiC3Hszr5u1ZGnn) | [Dubamine](https://open.spotify.com/artist/1cTFPzuPsiYtINcLic2qCV), [Nazamba](https://open.spotify.com/artist/4VqHq2AKycABRwXxTGVHSG) | [Cool & Relax](https://open.spotify.com/album/70SLEvGGpicx4iyfOzohvz) | 4:26 | 2023-03-17 |  |
 | [Creatures](https://open.spotify.com/track/52dwA5bSm2jf06kYlgOP3y) | [TheSK](https://open.spotify.com/artist/2AgXuVMVlgdtJtHzBKzwVT) | [Creatures](https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n) | 4:08 | 2022-02-17 | 2023-03-16 |
 | [Crime Scene](https://open.spotify.com/track/3GSsl9WfC2Lt3UDkvTcdWJ) | [Bisweed](https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw) | [Cyclops EP](https://open.spotify.com/album/1Xevyp5MXk67ZfnjFKc1WT) | 5:01 | 2022-02-17 | 2023-03-16 |
 | [Cross Polarity](https://open.spotify.com/track/2XRCWJ4ETKWRaWTTb9C3XH) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Cross Polarity](https://open.spotify.com/album/7bOMUf3vohmdiwxC6NkKwJ) | 5:35 | 2022-07-08 |  |
@@ -272,7 +273,7 @@
 | [Obelisk \- Mystic State Remix](https://open.spotify.com/track/2L0WyZxjtS0geQdWg2JMrm) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Obelisk \(Mystic State Remix\)](https://open.spotify.com/album/6PnAg7cPFSh97eLm6K52GU) | 5:08 | 2023-01-06 |  |
 | [Objectivity](https://open.spotify.com/track/6ktq5DOVX9h2dqvg9Ok582) | [Cubicle](https://open.spotify.com/artist/2nTs9cTorG1oHERKfYmbdS) | [Certified Organic 2: Part 2](https://open.spotify.com/album/2YWQ8Zl0r01grHetDr3KZq) | 4:17 | 2022-02-17 | 2022-07-29 |
 | [Obstacles](https://open.spotify.com/track/0qxcrxQYorvcuFeefFtuq6) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD) | [Obstacles](https://open.spotify.com/album/3k4NrjqrsxhTqueiAbS21F) | 5:03 | 2022-02-17 | 2023-01-23 |
-| [Old & New](https://open.spotify.com/track/0TvSuQHGGyVODHyJ2GzYSF) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Old & New EP](https://open.spotify.com/album/2OHPsDdQ0pIWfly7ZWg3XJ) | 3:41 | 2022-02-17 |  |
+| [Old & New](https://open.spotify.com/track/0TvSuQHGGyVODHyJ2GzYSF) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Old & New EP](https://open.spotify.com/album/2OHPsDdQ0pIWfly7ZWg3XJ) | 3:41 | 2022-02-17 | 2023-03-22 |
 | [Olifant](https://open.spotify.com/track/1Mukld06lxTZSXDsiGqyT3) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE) | [Zoned Out](https://open.spotify.com/album/7kztBY8GxGe5EdvSLT2nkg) | 5:15 | 2022-02-17 | 2023-02-18 |
 | [Oneness](https://open.spotify.com/track/77PQJG1op6vWwJldyXIi0E) | [Distance](https://open.spotify.com/artist/1FvQZpPhaVvSoQnpslxnvb) | [Oneness](https://open.spotify.com/album/6g69zaN5wm9YhmTX9PUoNC) | 4:10 | 2022-08-12 |  |
 | [Operation High Jump](https://open.spotify.com/track/4j1kCLxPTg0Eoe9ORTCPVJ) | [Dark Tantrums](https://open.spotify.com/artist/3IS3VcgbwqLG5Oncu79fmE) | [Operation High Jump EP](https://open.spotify.com/album/6G1sToHWxMmSn8ul4tSvD4) | 5:43 | 2022-02-17 | 2022-07-29 |

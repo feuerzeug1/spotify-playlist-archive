@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 834835,
+  "num_followers": 834896,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDdkOGU3NzUwYzU5OTY4ZTI2N2JmMDAxN2E1ZTM4NjJl",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDVkOTcxMzU3YjljNmEzYTk1Mzc1ZTRkZmQ5NThhYWVm",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "White Water",
-        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "White Water",
-      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Suspiria (Music for the Luca Guadagnino Film)",
         "url": "https://open.spotify.com/album/2UehMLybYgLuuNHRNJpbCB"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 201768,
       "name": "Suspirium",
       "url": "https://open.spotify.com/track/4Y1igB1GDncJvt7ezbV3cW"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "White Water",
+        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "White Water",
+      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Sense of Home",
-        "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Sense of Home",
-      "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "notre dame",
         "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 258430,
       "name": "notre dame",
       "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Sense of Home",
+        "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Sense of Home",
+      "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 385653,
-      "name": "God Turn Me Into a Flower",
-      "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "A Mineral Love",
         "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
       },
@@ -415,6 +399,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 385653,
+      "name": "God Turn Me Into a Flower",
+      "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 135013,
       "name": "Wading In Waist-High Water",
       "url": "https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Elk Grove",
+        "url": "https://open.spotify.com/album/6bSWCDheGUZVfCSKZw4F8I"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 215712,
+      "name": "Elk Grove",
+      "url": "https://open.spotify.com/track/0AhiwX5iV3gd8IvUUQ4TYQ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -475,22 +491,6 @@
       "duration_ms": 322040,
       "name": "The Wolves (Act I and II)",
       "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Elk Grove",
-        "url": "https://open.spotify.com/album/6bSWCDheGUZVfCSKZw4F8I"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 215712,
-      "name": "Elk Grove",
-      "url": "https://open.spotify.com/track/0AhiwX5iV3gd8IvUUQ4TYQ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Forest Park",
-        "url": "https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR"
-      },
-      "artists": [
-        {
-          "name": "Davis John Patton",
-          "url": "https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl"
-        }
-      ],
-      "duration_ms": 243478,
-      "name": "Motives",
-      "url": "https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Forest Park",
+        "url": "https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR"
+      },
+      "artists": [
+        {
+          "name": "Davis John Patton",
+          "url": "https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl"
+        }
+      ],
+      "duration_ms": 243478,
+      "name": "Motives",
+      "url": "https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "apathy",
+      "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 180440,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "apathy",
-      "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Kingfisher",
-        "url": "https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf"
-      },
-      "artists": [
-        {
-          "name": "Rosemary & Garlic",
-          "url": "https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17"
-        }
-      ],
-      "duration_ms": 289970,
-      "name": "Old Now",
-      "url": "https://open.spotify.com/track/3IVALWwWuGL5p3W6cPtjDH"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Alabama Haint",
         "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 182601,
       "name": "Alabama Haint",
       "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Kingfisher",
+        "url": "https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf"
+      },
+      "artists": [
+        {
+          "name": "Rosemary & Garlic",
+          "url": "https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17"
+        }
+      ],
+      "duration_ms": 289970,
+      "name": "Old Now",
+      "url": "https://open.spotify.com/track/3IVALWwWuGL5p3W6cPtjDH"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+        "name": "I Was Not There",
+        "url": "https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
         }
       ],
-      "duration_ms": 212826,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
+      "duration_ms": 347963,
+      "name": "I Was Not There",
+      "url": "https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "I Was Not There",
-        "url": "https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O"
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
       },
       "artists": [
         {
-          "name": "The Antlers",
-          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 347963,
-      "name": "I Was Not There",
-      "url": "https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk"
+      "duration_ms": 212826,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Spirits",
-        "url": "https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4"
-      },
-      "artists": [
-        {
-          "name": "French For Rabbits",
-          "url": "https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Goat",
-      "url": "https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Melatonin (Unplugged)",
         "url": "https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 325280,
       "name": "Melatonin (Unplugged)",
       "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4"
+      },
+      "artists": [
+        {
+          "name": "French For Rabbits",
+          "url": "https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Carrie",
+        "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 242193,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Haven Lea",
         "url": "https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 187370,
       "name": "Haven Lea",
       "url": "https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "The Wolf",
-        "url": "https://open.spotify.com/album/2rMdFF4V0BhFxGExXFddY3"
-      },
-      "artists": [
-        {
-          "name": "LE\u00d8",
-          "url": "https://open.spotify.com/artist/1dIdB87SOCg58ixm8rEtnm"
-        }
-      ],
-      "duration_ms": 234216,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/3HMd3dLDhHC9JfS9I6X4LJ"
     }
   ],
   "unique_name": "Chill + Atmospheric",

@@ -4,7 +4,7 @@
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-269 songs - 16 hr 45 min
+270 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Fade into You](https://open.spotify.com/track/5xkEkPxG9GkoxxcacT2cXW) | [Sara Rachele](https://open.spotify.com/artist/2OkyMqAoaxpBa9QUrJdlOL) | [Listen, Judas / Fade into You](https://open.spotify.com/album/59X6lUes7LbwYH4HbbD9jq) | 5:48 | 2022-03-22 | 2022-04-20 |
 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 | 2021-10-21 | 2022-07-29 |
 | [Feel Good Inc.](https://open.spotify.com/track/5qeL0fWg4IDLZNUjVu53f2) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/0UC9mGhLRmVHIvhWgOPLlH) | 3:56 | 2022-03-22 | 2022-04-13 |
-| [Feel Good Inc.](https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje) | 3:56 | 2022-03-22 |  |
+| [Feel Good Inc.](https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje) | 3:56 | 2022-03-22 | 2023-03-22 |
 | [Final Song](https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a), [Jesse Justin](https://open.spotify.com/artist/05DZnoWzNBtiUH1Lttznjm) | [Final Song](https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk) | 2:21 | 2021-10-21 | 2022-07-29 |
 | [Flume](https://open.spotify.com/track/4cJt0STYaj8iH6sVeCFUqw) | [Jesse Daniel Smith](https://open.spotify.com/artist/2ciKXsw2J3JHto2f38qc0W) | [Jesse Daniel Smith Is Playing Other People's Music](https://open.spotify.com/album/3IF4D1sqHjDbQJ4RDRfhb2) | 3:07 | 2022-03-22 | 2022-04-19 |
 | [Friday I'm in Love](https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX) | [Oselie](https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ) | [Friday I'm in Love](https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA) | 2:53 | 2021-10-21 |  |
@@ -166,6 +166,7 @@
 | [Love Is a Battlefield \(feat\. White Sea\)](https://open.spotify.com/track/3lkJrQ5iq3lP8HXVC6HFZC) | [Wrongchilde](https://open.spotify.com/artist/6I98msL0hv5umKGyRHovON), [White Sea](https://open.spotify.com/artist/5WzsdqnI9jOwLrW9YuXI4t) | [Gold Blooded](https://open.spotify.com/album/5Dp0rR2AIYIYt7WEHZem2A) | 4:13 | 2022-03-22 | 2022-04-19 |
 | [Love Is A Stranger](https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Love Is A Stranger](https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy) | 3:38 | 2021-10-21 | 2022-07-25 |
 | [Love on Top](https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq) | [Sophie Rose](https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp) | [Love on Top](https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP) | 3:48 | 2022-03-22 | 2023-02-14 |
+| [Love on Top](https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh) | [Sophie Rose](https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp) | [Love on Top](https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv) | 3:48 | 2022-03-22 |  |
 | [Love on Top](https://open.spotify.com/track/61RtRHxYsVQlHgNAFdFVea) | [Sophie Rose](https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp) | [Love on Top](https://open.spotify.com/album/50CdVgWmGv2kofaevHIKyR) | 3:48 | 2021-10-21 | 2022-07-29 |
 | [Love You Like a Love Song](https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR) | [Cats On Trees](https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B) | [Cats On Trees \(Deluxe Edition\)](https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y) | 3:01 | 2022-03-22 |  |
 | [Love You Like a Love Song](https://open.spotify.com/track/3emblXVpDw2KpmZfRzCvWk) | [Cats On Trees](https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B) | [Cats On Trees](https://open.spotify.com/album/6vv0dSzETpAPOnWaGpnyKo) | 3:01 | 2022-03-22 | 2022-04-21 |

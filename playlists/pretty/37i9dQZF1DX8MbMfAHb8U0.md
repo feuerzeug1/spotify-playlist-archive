@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,709 likes - 99 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,023 likes - 99 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 22 | [Floetic](https://open.spotify.com/track/21z6OpNQIS9qD7xyty7OeR) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:06 |
 | 23 | [Mama Knew Love](https://open.spotify.com/track/01M4Wng6jF5uoNEHLl2OIn) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 3:28 |
 | 24 | [Think Twice](https://open.spotify.com/track/3yBO33Nyb6APYbeLESad7u) | [Jay Dee](https://open.spotify.com/artist/16L1SS4OancaZUTu3qWqHb), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Welcome 2 Detroit](https://open.spotify.com/album/2KvJwjA8SxHUn1JPG09W4g) | 3:52 |
-| 25 | [Keep Your Worries](https://open.spotify.com/track/2iYM4CGkoTfsLw9MI5K1AC) | [Guru's Jazzmatazz](https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:58 |
+| 25 | [Keep Your Worries](https://open.spotify.com/track/2iYM4CGkoTfsLw9MI5K1AC) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:58 |
 | 26 | [Dance Tonight](https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:41 |
 | 27 | [I Think I Love You](https://open.spotify.com/track/1TlEEopIktdAi8oWRf9Qx6) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Some Kinda...](https://open.spotify.com/album/09idklQr5JtTTVoBtfn1XN) | 3:41 |
 | 28 | [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 82 | [Do I Qualify?](https://open.spotify.com/track/5IS7qrmK3KCeUJaueAsPdu) | [Lynden David Hall](https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ) | [Medicine 4 My Pain](https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK) | 4:47 |
 | 83 | [Distant Lady](https://open.spotify.com/track/61mkzcrrV7CfpggUuCNMib) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [Lost and Found](https://open.spotify.com/album/7Je3fpcl3IE4Labowc1y8S) | 4:58 |
 | 84 | [Truth](https://open.spotify.com/track/1i8XHUZkVdoOCfFumL0Zqt) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 3:56 |
-| 85 | [Certified feat\. Bilal](https://open.spotify.com/track/1eFuyVf8I77imXbGAtJfvF) | [Guru's Jazzmatazz](https://open.spotify.com/artist/4BhiV5JTPRMplzEuBPK6Ie), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:40 |
+| 85 | [Certified feat\. Bilal](https://open.spotify.com/track/1eFuyVf8I77imXbGAtJfvF) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:40 |
 | 86 | [Until You Came](https://open.spotify.com/track/4amYzeZ0SLsIs0Z0MpCdE1) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [The First Lady](https://open.spotify.com/album/2WiOKRbyIKKeA8L7IossNX) | 4:45 |
 | 87 | [Down Here In Hell \(With You\)](https://open.spotify.com/track/7sfsgAWTNeQjzBnRkz0LET) | [Van Hunt](https://open.spotify.com/artist/4KZ6qvHEY7prblYD2VrOd3) | [Van Hunt](https://open.spotify.com/album/1Zs4CHZm9Cy2KQv0NEx17i) | 4:49 |
 | 88 | [Dreamin'](https://open.spotify.com/track/1andeoiLaoRAOeL9qFJZOL) | [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [Waltz of a Ghetto Fly](https://open.spotify.com/album/6eX29ysLt9GUE4srUvbJaK) | 4:04 |

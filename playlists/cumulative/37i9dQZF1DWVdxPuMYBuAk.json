@@ -1830,7 +1830,7 @@
     {
       "album": {
         "name": "Far From Here",
-        "url": "https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ"
+        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
       },
       "artists": [
         {
@@ -1841,6 +1841,24 @@
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180706,
+      "name": "Until We Leave the Ground",
+      "url": "https://open.spotify.com/track/1ZCDC8uwT8p6FCRC2UI6xe"
+    },
+    {
+      "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
       "duration_ms": 180706,
       "name": "Until We Leave the Ground",
       "url": "https://open.spotify.com/track/1oRUR4mnq1aRwAKD6ONelx"
