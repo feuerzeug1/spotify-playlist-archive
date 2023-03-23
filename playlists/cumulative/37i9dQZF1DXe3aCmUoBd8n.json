@@ -1387,6 +1387,28 @@
     },
     {
       "album": {
+        "name": "Shou Badi 3ed Bzalat",
+        "url": "https://open.spotify.com/album/3Pb8hvCdDQo1NoRPJQDOG5"
+      },
+      "artists": [
+        {
+          "name": "Mohanad Zaiter",
+          "url": "https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq"
+        },
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Shou Badi 3ed Bzalat",
+      "url": "https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr"
+    },
+    {
+      "album": {
         "name": "Tan Tan (feat. Wessam Qutob)",
         "url": "https://open.spotify.com/album/4Q6iHkdb5JEhOIELDNKGBu"
       },

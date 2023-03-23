@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover:
 
-121 songs - 8 hr 40 min
+122 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [My Galaxies](https://open.spotify.com/track/7qaFl9TwwpcPufnczWkVLN) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Sondang Silalahi](https://open.spotify.com/artist/1L6fNXi1tYovfQYvyyi9sz) | [My Galaxies](https://open.spotify.com/album/4txkolAYBuc2ZvQS6wZz81) | 2:31 | 2022-09-02 |  |
 | [Mystical Glow](https://open.spotify.com/track/3CDDzWzcyY84fh0UE3NeKH) | [Indra Lesmana](https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7) | [Surya Sewana](https://open.spotify.com/album/72cSOyJTh3pImtWv6DRqc3) | 8:16 | 2023-03-03 |  |
 | [Never Asked For](https://open.spotify.com/track/09VyrDoKfZPyihWVobpqIh) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Never Asked For](https://open.spotify.com/album/1lGZZyKRXVTqQN6P4oEhnH) | 4:42 | 2023-03-03 |  |
-| [Nurlela](https://open.spotify.com/track/2yP9OkF1w53ZyiuFIQavxo) | [Trio Lestari](https://open.spotify.com/artist/6S2gfM9z90Wo5LtHIrEhJD) | [Wangi](https://open.spotify.com/album/3ttimZXZQMkxufn0YWUeet) | 3:26 | 2022-09-02 |  |
+| [Nurlela](https://open.spotify.com/track/2yP9OkF1w53ZyiuFIQavxo) | [Trio Lestari](https://open.spotify.com/artist/6S2gfM9z90Wo5LtHIrEhJD) | [Wangi](https://open.spotify.com/album/3ttimZXZQMkxufn0YWUeet) | 3:26 | 2022-09-02 | 2023-03-23 |
+| [Nurlela](https://open.spotify.com/track/5NUl9eAqHOSDQwFI69G0Mc) | [Trio Lestari](https://open.spotify.com/artist/6S2gfM9z90Wo5LtHIrEhJD) | [Wangi](https://open.spotify.com/album/1B7mIEZo7keMFiGFsZKBDu) | 3:26 | 2023-03-09 |  |
 | [Nusaniwe](https://open.spotify.com/track/45P7aCwWn9Oj4KtkgoIUo5) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY), [Renewal](https://open.spotify.com/artist/6eAzagjqgwHqNMVpBxmH10) | [Nusaniwe](https://open.spotify.com/album/0bQ4VDcPK9ltfSss5L2QFN) | 4:19 | 2022-09-02 |  |
 | [Ode To Benny Liku](https://open.spotify.com/track/0InqZFiygFkZpMlLBHZV76) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [Dear Pops \(My Tribute\)](https://open.spotify.com/album/6hgX3x5ONatp8wWMVWVEUn) | 6:20 | 2022-09-02 |  |
 | [Out For Myself](https://open.spotify.com/track/1vod4ABB5ohyWCR9q43kdO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Out For Myself](https://open.spotify.com/album/1FR6iORwa5Pjjpch7cNUQo) | 2:49 | 2022-09-02 |  |

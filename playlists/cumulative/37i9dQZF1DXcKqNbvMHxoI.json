@@ -1342,7 +1342,7 @@
     {
       "album": {
         "name": "Rooms on the Ark",
-        "url": "https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5"
+        "url": "https://open.spotify.com/album/7xE3fSS22cJBxMCuQmtA9E"
       },
       "artists": [
         {
@@ -1353,6 +1353,24 @@
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228577,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/4O9wdZGwvJKTeeJGUEa00K"
+    },
+    {
+      "album": {
+        "name": "Rooms on the Ark",
+        "url": "https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
       "duration_ms": 228577,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k"

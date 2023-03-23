@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-159 songs - 9 hr 54 min
+160 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Someday Baby Blues](https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L) | [Jo Ann Kelly](https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG) | [Blues & Gospel \(Rare & Unreleased Recordings\)](https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi) | 3:36 | 2023-02-24 |  |
 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 | 2022-05-25 |  |
 | [Stagolee](https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Vanguard Visionaries](https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8) | 5:35 | 2022-05-25 |  |
-| [Steady Rollin' On](https://open.spotify.com/track/4xIifILl8eoYdAItBvgjZ7) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU) | [Steady Rollin' On](https://open.spotify.com/album/1zTA6G1K1uWR4Bny4VDkjL) | 2:46 | 2022-05-25 |  |
+| [Steady Rollin' On](https://open.spotify.com/track/4xIifILl8eoYdAItBvgjZ7) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU) | [Steady Rollin' On](https://open.spotify.com/album/1zTA6G1K1uWR4Bny4VDkjL) | 2:46 | 2022-05-25 | 2023-03-23 |
 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 | 2022-05-25 | 2023-01-13 |
 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 | 2022-05-25 |  |
 | [T.B\. Blues](https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6) | [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Mystery Man](https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt) | 4:51 | 2022-05-25 |  |
@@ -155,6 +155,7 @@
 | [Tough Times](https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 | 2022-10-14 |  |
 | [Travelling Back Home](https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd) | [Johnny Shines](https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko) | [Too Wet to Plow](https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp) | 3:58 | 2022-05-25 |  |
 | [Unknown Road](https://open.spotify.com/track/1yk9xba6I7cvfDBpkARZkN) | [Sara Syms](https://open.spotify.com/artist/59zNVUIdLrT7Wl0Zyc8CZj) | [Unknown Road](https://open.spotify.com/album/0esv0rfP9vJSi0rduSczyK) | 3:32 | 2022-06-24 | 2022-06-29 |
+| [Walkin' Blues](https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Midnight Call](https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99) | 4:48 | 2023-03-03 |  |
 | [Walking Blues](https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Stefan Grossman](https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5) | [Country Blues Guitar](https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO) | 3:45 | 2022-05-25 |  |
 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 | 2022-05-25 |  |
 | [Who You Gonna Hoodoo Now?](https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Hoodoo \(Commentary Version\)](https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN) | 4:28 | 2022-07-08 |  |

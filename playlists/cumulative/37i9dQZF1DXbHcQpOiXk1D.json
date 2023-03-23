@@ -720,7 +720,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 185625,
       "name": "Berlin 1 - Rework",
       "url": "https://open.spotify.com/track/4m3dbiaVg1DIUAHlx4X2A1"
@@ -6452,6 +6452,24 @@
       "duration_ms": 309452,
       "name": "Spooki",
       "url": "https://open.spotify.com/track/1OmRDsBv7CQaIjuPBLySHJ"
+    },
+    {
+      "album": {
+        "name": "Statue",
+        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
+      },
+      "artists": [
+        {
+          "name": "Tilly Valentine",
+          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204254,
+      "name": "Statue",
+      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
     },
     {
       "album": {

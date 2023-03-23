@@ -2,9 +2,9 @@
 
 ### [Dance Classics](https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM)
 
-> <a href="spotify:genre:edm\_dance">Dance radio</a> hits from the 90s and 00s!
+> <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-254 songs - 18 hr 3 min
+255 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 | 2020-03-31 |  |
 | [Crush \(Radio Edit\)](https://open.spotify.com/track/7mafch6fDbXB2on5mxijln) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/6K69QEGsJ0M9KdDaewjDiA) | 3:25 | 2022-02-28 |  |
 | [Crush \- Radio Dance Edit](https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/5bHsXOMd0ZOo2GrQa7ZPkM) | 3:23 | 2020-03-31 | 2022-07-28 |
-| [Cry For You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry For You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 | 2020-03-31 |  |
+| [Cry for You](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Dancing Shoes](https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz) | 3:29 | 2023-03-22 |  |
+| [Cry For You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry For You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 | 2020-03-31 | 2023-03-23 |
 | [Dance4Life \(feat\. Maxi Jazz\) \- Radio Edit](https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Maxi Jazz](https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq) | [Dance4Life \(feat\. Maxi Jazz\)](https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5) | 3:33 | 2020-03-31 | 2022-07-29 |
 | [Day 'N' Night \- Club Mix](https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Pacha Ibiza \- The House Collection \(2000\-2009\)](https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo) | 4:41 | 2020-03-31 | 2022-07-29 |
 | [Day 'N' Nite \- Crookers Remix](https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Day 'N' Nite \(Crookers Remix\)](https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F) | 4:41 | 2022-02-28 |  |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 緑黄色社会
 
-1,201 songs - 3 day 6 hr 24 min
+1,204 songs - 3 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Roll](https://open.spotify.com/track/0HJLF7MON8XtyVMxZTySfP) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/0TDwqGmj6AX3qYmxA2oK95) | 3:35 | 2022-12-20 | 2022-12-22 |
 | [Roll](https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F) | 3:35 | 2022-12-20 | 2023-01-25 |
 | [Rolling Rolling Rolling](https://open.spotify.com/track/0gnuNDjpozXz9KpmjiGH6w) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Fanfare](https://open.spotify.com/album/20mOrUntsENAfUnjSL7f4U) | 3:29 | 2023-03-21 |  |
+| [Romance, the Other Day feat\. suis from Yorushika](https://open.spotify.com/track/5jH4zowzlz3GIyR9fm9Pof) | [平畑徹也](https://open.spotify.com/artist/3M9CxsgC2rk1Ax4jglCwl6), [suis](https://open.spotify.com/artist/135GrsHMkY8sERSMvxpE9A) | [AMNJK](https://open.spotify.com/album/2A9AypWC3L5IRI6GzEEzCs) | 4:04 | 2023-03-21 |  |
 | [Rooftop Rhapsody](https://open.spotify.com/track/7fkcgIVRFJHYJeir9e8e7p) | [TWEEDEES](https://open.spotify.com/artist/1LlXc0olPO5z5GbX61yK3C) | [Rooftop Rhapsody](https://open.spotify.com/album/0SEeaTLdugL0UPr46I7RXl) | 3:27 | 2022-09-13 | 2022-09-21 |
 | [Room Tour](https://open.spotify.com/track/6LHIN6rig6gAsikFBwpWfe) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Room Tour](https://open.spotify.com/album/2FHpkkHWUQAPMl9Vqwpmi0) | 4:25 | 2022-06-21 | 2022-07-20 |
 | [rubble pile](https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh) | 3:58 | 2022-12-27 | 2023-02-26 |
@@ -537,6 +538,7 @@
 | [Spark](https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Spark](https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj) | 2:45 | 2023-02-16 | 2023-02-22 |
 | [Sparkle](https://open.spotify.com/track/1sbMOKGzOfH82AHgCQPNib) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Sparkle](https://open.spotify.com/album/7D5HZy7UAEmYBj1gXCuAS6) | 2:55 | 2022-05-31 | 2022-07-29 |
 | [Spinning World](https://open.spotify.com/track/396RicrQNol7GhMCIfC6Cv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Spinning World](https://open.spotify.com/album/3nxqM96vJyyjF8DMfYJBaQ) | 4:00 | 2022-07-14 | 2022-10-21 |
+| [Spring at the Bottom of the Dam feat.Sobs](https://open.spotify.com/track/3YxxvRxUolgQP4HDZPAxI7) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK), [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Spring at the Bottom of the Dam feat.Sobs](https://open.spotify.com/album/52QtwQu8LAtmVOdrLmEC6P) | 3:18 | 2023-03-21 |  |
 | [squall](https://open.spotify.com/track/0RtN8xsqHQokF21hzCMT4H) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [fountain blue ni somatte](https://open.spotify.com/album/1ApuYreYSimEs5IBDrse22) | 3:25 | 2022-07-28 | 2022-08-03 |
 | [Square One](https://open.spotify.com/track/2oVTlsZ7v779HoRGe83ENx) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Square One](https://open.spotify.com/album/2q4xhsQq7Hv7NSteC6NPiz) | 2:52 | 2022-05-31 | 2022-07-05 |
 | [STARLIGHT](https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd) | 3:07 | 2022-06-28 | 2022-07-29 |
@@ -834,7 +836,7 @@
 | [ソレイユ \- feat\. yonkey](https://open.spotify.com/track/7chAs7ehujVWT4KGZlUSfq) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC), [yonkey](https://open.spotify.com/artist/6xepaVh7in8xPJgHZfBPQZ) | [ソレイユ \(feat\. yonkey\)](https://open.spotify.com/album/5bBUw9fGaq19XtuGfzGomy) | 3:02 | 2022-06-02 | 2022-06-30 |
 | [タイトロープ](https://open.spotify.com/track/6x5XhibGV4en88kZlZGMWi) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [タイトロープ](https://open.spotify.com/album/6HvuxgTKo30cvE7pAqVQHw) | 4:55 | 2022-07-19 | 2022-07-27 |
 | [ダイナマイト](https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [ダイナマイト](https://open.spotify.com/album/6FnpfHUAb6eca7168HPMw6) | 3:13 | 2022-05-29 | 2022-11-30 |
-| [ダム底の春 feat.Sobs](https://open.spotify.com/track/5cySUmhrrQfcxIodcHKLNt) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK), [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [ダム底の春 feat.Sobs](https://open.spotify.com/album/4msztnHCY2Dq7OjfaWg16f) | 3:18 | 2023-03-21 |  |
+| [ダム底の春 feat.Sobs](https://open.spotify.com/track/5cySUmhrrQfcxIodcHKLNt) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK), [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [ダム底の春 feat.Sobs](https://open.spotify.com/album/4msztnHCY2Dq7OjfaWg16f) | 3:18 | 2023-03-21 | 2023-03-23 |
 | [ダージリン \- Bousi Studio Remix](https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx), [野村帽子](https://open.spotify.com/artist/2QkxK6rPvCNIEM7OxvHJPx) | [ダージリン \(Bousi Studio Remix\)](https://open.spotify.com/album/3xSg3qQZepIoFbBLSRZpug) | 3:26 | 2022-05-31 | 2022-07-23 |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-09-06 |  |
 | [チューリップ](https://open.spotify.com/track/13xYQlVr11XuhBwHRbYFmk) | [Kiwokuza](https://open.spotify.com/artist/5RuJsNzn0UhHOu1jvMD3Ii) | [チューリップ](https://open.spotify.com/album/61BECZBJEOOZVas8iFdY30) | 4:27 | 2022-06-07 | 2022-07-14 |
@@ -923,7 +925,7 @@
 | [催眠](https://open.spotify.com/track/1190JawXRFRo3rBpwtbw0d) | [YAYYAY](https://open.spotify.com/artist/7zjcPyxB51lqnmowM6xsKX) | [NO EVIL](https://open.spotify.com/album/2Im66puWUtEb6JUALvCTpT) | 4:11 | 2023-01-17 | 2023-01-25 |
 | [僕は椅子](https://open.spotify.com/track/7eWWFAlEIm1PphClDPplcm) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [僕は椅子](https://open.spotify.com/album/6CUvHs0m3HyiM8TOds0Iye) | 4:26 | 2022-06-28 | 2022-07-06 |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-19 |
-| [先日はロマンス feat\. suis from ヨルシカ](https://open.spotify.com/track/5G2OuprmwSuTi4TWSw2e7k) | [平畑徹也](https://open.spotify.com/artist/3M9CxsgC2rk1Ax4jglCwl6), [suis](https://open.spotify.com/artist/135GrsHMkY8sERSMvxpE9A) | [AMNJK](https://open.spotify.com/album/3vo9fVrQEvqXRxVJVb6aFE) | 4:04 | 2023-03-21 |  |
+| [先日はロマンス feat\. suis from ヨルシカ](https://open.spotify.com/track/5G2OuprmwSuTi4TWSw2e7k) | [平畑徹也](https://open.spotify.com/artist/3M9CxsgC2rk1Ax4jglCwl6), [suis](https://open.spotify.com/artist/135GrsHMkY8sERSMvxpE9A) | [AMNJK](https://open.spotify.com/album/3vo9fVrQEvqXRxVJVb6aFE) | 4:04 | 2023-03-21 | 2023-03-23 |
 | [先駆者](https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [先駆者](https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I) | 4:34 | 2023-02-02 |  |
 | [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |
 | [光溢れ](https://open.spotify.com/track/1xNVfOwmTPJqCHxrVElyOj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [光溢れ](https://open.spotify.com/album/4iPHMxjt6o5MnZe32bAHJv) | 3:00 | 2022-05-29 | 2022-07-13 |
@@ -966,7 +968,8 @@
 | [嘘の味](https://open.spotify.com/track/7qB3KyOkrJvzDrraaHboAm) | [Ratrium](https://open.spotify.com/artist/59UKvPsBHApOzcsmKVk0PK) | [嘘の味](https://open.spotify.com/album/3H92kIsVbI9UCTBPcSeqBt) | 3:18 | 2022-06-14 | 2022-06-22 |
 | [四季ノ唄](https://open.spotify.com/track/4Ro7Z98TnW4ST3LyG2OKfJ) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [四季ノ唄](https://open.spotify.com/album/5Y9q3yLcxi9AbrJfvBuKW7) | 3:51 | 2022-06-30 | 2022-07-03 |
 | [四色の声で話そう \- feat\. 他愛もない](https://open.spotify.com/track/1fVU8NMSnPsND39fZEq9rk) | [Fumihiro Kaneko](https://open.spotify.com/artist/7fBmQcPIpoEzf3oNcuhexz), [他愛もない](https://open.spotify.com/artist/2ltGr4iAy2veIBYCUmehLi) | [四色の声で話そう \(feat\. 他愛もない\)](https://open.spotify.com/album/2a3thgxQc0iFVsgt6YScC1) | 2:40 | 2022-08-09 | 2022-08-17 |
-| [回春](https://open.spotify.com/track/2pLINOdB1UVzBrgKMLpE4D) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 5:00 | 2023-03-21 |  |
+| [回春](https://open.spotify.com/track/2pLINOdB1UVzBrgKMLpE4D) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 5:00 | 2023-03-21 | 2023-03-23 |
+| [回春](https://open.spotify.com/track/6iZygJfbfzt7eWeFtDUt3Z) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [回春](https://open.spotify.com/album/5Zr6Oy64wFgC0QbaGe2OPh) | 5:00 | 2023-03-21 |  |
 | [土星とユニコーン](https://open.spotify.com/track/7mwC1MjoqPFPiFwUBoy4Nr) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [土星とユニコーン](https://open.spotify.com/album/22jKKpIgO83SVo2sF8kCMb) | 4:25 | 2023-02-23 | 2023-03-01 |
 | [埋葬](https://open.spotify.com/track/0OOb0m0zdCZRl0suTEmMgV) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ガイダンス](https://open.spotify.com/album/6r7w1z2VJ8iVjFFqdMPPLE) | 3:31 | 2022-08-09 | 2022-08-17 |
 | [声よ](https://open.spotify.com/track/5AFWDMRc4mviyw9aqNm8fu) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [声よ](https://open.spotify.com/album/4t7FG8EKAxprkrn8q5zcXX) | 4:22 | 2022-05-31 | 2022-07-29 |

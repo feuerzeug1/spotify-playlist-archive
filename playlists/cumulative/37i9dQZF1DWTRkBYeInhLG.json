@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-15",
-  "description": "Lagu-lagu adem untuk segala suasana.",
-  "name": "Santai Sejenak",
+  "description": "Songs to unwind",
+  "name": "Chill for awhile",
   "tracks": [
     {
       "album": {
@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Bertahan Lewati Senja",
+        "url": "https://open.spotify.com/album/1AfdtGjrK9Bh54dPes3IGq"
+      },
+      "artists": [
+        {
+          "name": "Vidi Aldiano",
+          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239566,
+      "name": "Bertahan Lewati Senja",
+      "url": "https://open.spotify.com/track/71uchUbewz7Y1HjDEch7Gg"
+    },
+    {
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -208,7 +226,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 223462,
       "name": "Dari Mata",
       "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
@@ -356,7 +374,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 173809,
       "name": "Harus Bahagia",
       "url": "https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY"
@@ -374,7 +392,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 234640,
       "name": "Hebat",
       "url": "https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG"
@@ -396,7 +414,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 240505,
       "name": "Indah Pada Waktunya",
       "url": "https://open.spotify.com/track/1S5aHAr1hpf3icpzq3ullG"
@@ -728,6 +746,24 @@
       "duration_ms": 182656,
       "name": "Labirin",
       "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
+    },
+    {
+      "album": {
+        "name": "Reinkarnasi",
+        "url": "https://open.spotify.com/album/0gzvtWAfmVkUTvdjUSlt0N"
+      },
+      "artists": [
+        {
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194057,
+      "name": "Lalu; usai",
+      "url": "https://open.spotify.com/track/5OxE6yv5Oa64rUCC5CsY9y"
     },
     {
       "album": {
@@ -1095,6 +1131,42 @@
     },
     {
       "album": {
+        "name": "Reinkarnasi",
+        "url": "https://open.spotify.com/album/0gzvtWAfmVkUTvdjUSlt0N"
+      },
+      "artists": [
+        {
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226916,
+      "name": "Pulih",
+      "url": "https://open.spotify.com/track/2rEQU20wQBlmcCi4oB4lTg"
+    },
+    {
+      "album": {
+        "name": "+62",
+        "url": "https://open.spotify.com/album/42LLrtJK1RfPRiZqDyswlk"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192055,
+      "name": "pulih.",
+      "url": "https://open.spotify.com/track/7CMU3rH32WuQ2mvlzslXnb"
+    },
+    {
+      "album": {
         "name": "Cerita Hanin Dhiya",
         "url": "https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH"
       },
@@ -1106,7 +1178,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 234914,
       "name": "Pupus",
       "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
@@ -1190,6 +1262,24 @@
       "duration_ms": 223973,
       "name": "Runtuh",
       "url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO"
+    },
+    {
+      "album": {
+        "name": "Satu Tuju",
+        "url": "https://open.spotify.com/album/1OyDDO3hE5d5tNsoSqxgaf"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246800,
+      "name": "Satu Tuju",
+      "url": "https://open.spotify.com/track/4rVXkYPwY8oHJhQwcBL0On"
     },
     {
       "album": {
@@ -1291,6 +1381,28 @@
     },
     {
       "album": {
+        "name": "Selaras",
+        "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
+      },
+      "artists": [
+        {
+          "name": "Kunto Aji",
+          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
+        },
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273491,
+      "name": "Selaras",
+      "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
+    },
+    {
+      "album": {
         "name": "Semesta Menari",
         "url": "https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh"
       },
@@ -1302,7 +1414,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 227878,
       "name": "Semesta Menari",
       "url": "https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt"
@@ -1468,6 +1580,24 @@
       "duration_ms": 241763,
       "name": "Takkan Terganti",
       "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
+    },
+    {
+      "album": {
+        "name": "Senandika",
+        "url": "https://open.spotify.com/album/7ub6oAQi8e6dzxk5NAyZdA"
+      },
+      "artists": [
+        {
+          "name": "Vidi Aldiano",
+          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255624,
+      "name": "Tanpa Diminta",
+      "url": "https://open.spotify.com/track/5K6HxdlgStsikWTy9jPaiN"
     },
     {
       "album": {
@@ -1670,7 +1800,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 271653,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/2XWsariqeTCH61B53r8yA3"

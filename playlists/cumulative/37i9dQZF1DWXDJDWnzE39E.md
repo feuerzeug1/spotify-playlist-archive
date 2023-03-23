@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-262 songs - 17 hr 7 min
+263 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A New Disaster](https://open.spotify.com/track/2Dacl6eI6cIwTcLtqpQcA0) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [A New Disaster](https://open.spotify.com/album/2bmZJfV07YUUnRJyLhqk6u) | 3:39 | 2020-12-07\* | 2021-05-15 |
 | [A Pain all Mine](https://open.spotify.com/track/3il4rTwrxEZjqkyakwsKga) | [Jaded Star](https://open.spotify.com/artist/1QPqC0I7ggY7Etb5JTV6LG) | [Realign](https://open.spotify.com/album/6wv7SNQ3j3Xe7zWjS7ruYT) | 3:42 | 2020-12-07\* | 2022-06-19 |
 | [A Return to the Earth Below](https://open.spotify.com/track/7wjFG8WltMzLjo8lVC6Rfe) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [A Return to the Earth Below](https://open.spotify.com/album/2vH9KhmMLvlH4DlPtdbB7z) | 5:39 | 2020-12-07\* | 2022-07-29 |
-| [A Villain's Monologue](https://open.spotify.com/track/2Cn2uobw2l8SlCL7t3KZGM) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb) | 3:27 | 2022-11-18 |  |
+| [A Villain's Monologue](https://open.spotify.com/track/2Cn2uobw2l8SlCL7t3KZGM) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb) | 3:27 | 2022-11-18 | 2023-03-23 |
 | [A Villain's Monologue](https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [A Villain's Monologue](https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU) | 3:30 | 2021-06-05 | 2022-11-13 |
 | [Abyss](https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD) | 6:44 | 2022-03-11 |  |
 | [Abyss](https://open.spotify.com/track/6dGSXCf230k3YsEGOvXNAy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/7FgdN0xNj5EfXUo0falBTN) | 6:44 | 2020-12-07\* | 2022-07-29 |
@@ -123,6 +123,7 @@
 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 | 2023-02-03 |  |
 | [Illuminate](https://open.spotify.com/track/5JPgkThibvLJiFTBdfS7Bn) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Illuminate](https://open.spotify.com/album/2H7PzKyqWvWLR1eSETDQ2J) | 4:09 | 2020-12-07\* | 2022-07-28 |
 | [Illusionist](https://open.spotify.com/track/0ntFhFYgGoRTvQsa6qEaUC) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Illusionist](https://open.spotify.com/album/2Uubui4aJ9UG6x5V7R8W1b) | 3:10 | 2020-12-07\* | 2022-07-29 |
+| [Imposter](https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Imposter](https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8) | 3:03 | 2023-03-17 |  |
 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 | 2021-10-11 | 2021-10-16 |
 | [In Black and White \- New Version 2021](https://open.spotify.com/track/0pT7kpkT3rBpZkXfwP6YYB) | [Kalidia](https://open.spotify.com/artist/0CNwIzfosLnGPKiVrLtLxA) | [Lies' Device \(New Version 2021\)](https://open.spotify.com/album/3tVQsBnb2stVCvWzM7aXgB) | 4:09 | 2021-02-06 | 2022-07-28 |
 | [Into the Night](https://open.spotify.com/track/6sisHSMosobdW9KV9j8v0Q) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Into the Night](https://open.spotify.com/album/57Yu9p3pEtrm9NHRvXZ2Rv) | 4:40 | 2020-12-07\* | 2020-12-11 |

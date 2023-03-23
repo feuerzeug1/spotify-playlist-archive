@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Olivia Khoury Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Robin Fassie Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 411227,
       "name": "Atole",
       "url": "https://open.spotify.com/track/4RIfipw55NqhJNjktf4gbB"
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 362559,
       "name": "Bird Of Beauty",
       "url": "https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95"
@@ -4549,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "Did I Lose My Mind?",
+        "url": "https://open.spotify.com/album/6d5vRmtZ5XC3SXV5XmTOcd"
+      },
+      "artists": [
+        {
+          "name": "Olive Yaah",
+          "url": "https://open.spotify.com/artist/2Z9U9OEYfEAJVkTkNReA0G"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Did I Lose My Mind?",
+      "url": "https://open.spotify.com/track/0hVz9uXxU09ag3su9F1drg"
+    },
+    {
+      "album": {
         "name": "Different Morning (feat. DijahSB)",
         "url": "https://open.spotify.com/album/2xWuxKRWdUpaZWFMdelg4b"
       },
@@ -4604,7 +4622,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 133714,
       "name": "Dimitive",
       "url": "https://open.spotify.com/track/7rGhZMJO80BnSgeCsYdP9B"
@@ -4938,7 +4956,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 344626,
       "name": "Dream Cycles",
       "url": "https://open.spotify.com/track/6R2ZkMV4s9kZLfqWDnjLae"
@@ -7775,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Oddisea, Pt. 3",
+        "url": "https://open.spotify.com/album/4bVKhWV6O0wgm2pot5ZTHe"
+      },
+      "artists": [
+        {
+          "name": "Oddity",
+          "url": "https://open.spotify.com/artist/5hravQJP0eUEmr7rDmAdhu"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270106,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/6tJbLsGmLbLqJswFQFolUs"
+    },
+    {
+      "album": {
         "name": "Ice Cold",
         "url": "https://open.spotify.com/album/4LjpxeteRcOmNmGuNMIGPv"
       },
@@ -8320,6 +8356,24 @@
       "duration_ms": 444843,
       "name": "Interstellar Lowways",
       "url": "https://open.spotify.com/track/1A88CCfUoTx1nxWFCEBNUH"
+    },
+    {
+      "album": {
+        "name": "Intwasa: The Becoming",
+        "url": "https://open.spotify.com/album/3BfYSNT6iqBE5UyiZFSRwj"
+      },
+      "artists": [
+        {
+          "name": "Robin Fassie",
+          "url": "https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "Intlungu Nentlupheko",
+      "url": "https://open.spotify.com/track/46IEMoR4xnawTn2mIGBPxz"
     },
     {
       "album": {
@@ -12176,7 +12230,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 252923,
       "name": "No Visa Needed",
       "url": "https://open.spotify.com/track/6EndOjXiUfkJhavl6Plf5I"
@@ -12506,6 +12560,24 @@
       "duration_ms": 184824,
       "name": "Ode to Zawi (Dedicated to Joe Zawinul)",
       "url": "https://open.spotify.com/track/1ozKTUdhxmqhRqRF0UU5oP"
+    },
+    {
+      "album": {
+        "name": "Kurena",
+        "url": "https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5ddd\u7d05\u5948",
+          "url": "https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251786,
+      "name": "Off The Wall",
+      "url": "https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV"
     },
     {
       "album": {
@@ -14575,6 +14647,42 @@
     },
     {
       "album": {
+        "name": "Rosetta Stone",
+        "url": "https://open.spotify.com/album/2rzDLti6WFjIOQiaPYv6y6"
+      },
+      "artists": [
+        {
+          "name": "Graeme Gengras",
+          "url": "https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239115,
+      "name": "Rosetta Stone",
+      "url": "https://open.spotify.com/track/1ZteReonW6rQ4NpVNw0e60"
+    },
+    {
+      "album": {
+        "name": "Rouages",
+        "url": "https://open.spotify.com/album/6KvviqHqCq6CmRYU6Mw0HU"
+      },
+      "artists": [
+        {
+          "name": "Vincent Cucheval",
+          "url": "https://open.spotify.com/artist/6eEYSmaLwEc84xCw5LxQG0"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394776,
+      "name": "Rouages",
+      "url": "https://open.spotify.com/track/4PZ3DhUsKZpxv3W3bLXbBq"
+    },
+    {
+      "album": {
         "name": "Roulette",
         "url": "https://open.spotify.com/album/3ssAEFAdESGSBX7ufKO9ZF"
       },
@@ -15412,6 +15520,24 @@
       "duration_ms": 195292,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2UgnC0W64XIBJCZzwn2JYk"
+    },
+    {
+      "album": {
+        "name": "Slow Love, Fast Feelings",
+        "url": "https://open.spotify.com/album/3UGxfaWLWQZDGZl2QUdGuh"
+      },
+      "artists": [
+        {
+          "name": "Anthony Bruno",
+          "url": "https://open.spotify.com/artist/1xHTfW0mULQmn6CM9f2wvN"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336293,
+      "name": "Slow Love, Fast Feelings",
+      "url": "https://open.spotify.com/track/2ejvvT66jeDRGEfnyChiKv"
     },
     {
       "album": {
@@ -16420,6 +16546,14 @@
         {
           "name": "Sultan Stevenson",
           "url": "https://open.spotify.com/artist/1mJaterTR7ie3BaXXloKuO"
+        },
+        {
+          "name": "Josh Short",
+          "url": "https://open.spotify.com/artist/4a2hA36UETzIWXoiUvyO58"
+        },
+        {
+          "name": "Denys Baptiste",
+          "url": "https://open.spotify.com/artist/678wBD44dXIQF7mVxnCRVk"
         }
       ],
       "date_added": "2023-03-09",
@@ -16616,6 +16750,24 @@
       "duration_ms": 160526,
       "name": "Swappin\u2019 Lies",
       "url": "https://open.spotify.com/track/7e9A8tZgDYrTVz5KElcd77"
+    },
+    {
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/4jgslG0QlEJ49OxaepciB5"
+      },
+      "artists": [
+        {
+          "name": "Michael Wilbur",
+          "url": "https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137027,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/51J6zODpdYccdf3wVi6FTM"
     },
     {
       "album": {
@@ -16914,7 +17066,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 182316,
       "name": "Teatro Kabuki",
       "url": "https://open.spotify.com/track/4ni65Jg9quhyNp0PXLU0hR"
@@ -17946,7 +18098,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 270000,
       "name": "THE WOMAN",
       "url": "https://open.spotify.com/track/09f0TVaQiQCaeVq3mRtO0N"
@@ -18384,7 +18536,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 460336,
       "name": "Tmuna Blues",
       "url": "https://open.spotify.com/track/5Bw2Zy8WFBMVZ2kcDefmik"
@@ -19036,7 +19188,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 544120,
       "name": "Union St.",
       "url": "https://open.spotify.com/track/3GGatyLE5sHQXudpwebc58"
@@ -19786,6 +19938,24 @@
       "duration_ms": 229626,
       "name": "What If",
       "url": "https://open.spotify.com/track/5Zmiqr7aXEghkWp3wa7iok"
+    },
+    {
+      "album": {
+        "name": "What Might Have Been",
+        "url": "https://open.spotify.com/album/3gJW74COQ7u8iCbwxYGTf2"
+      },
+      "artists": [
+        {
+          "name": "Lilly Legit",
+          "url": "https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393500,
+      "name": "What Might Have Been",
+      "url": "https://open.spotify.com/track/25nlCzvN1rRGnv4MxGDqMH"
     },
     {
       "album": {

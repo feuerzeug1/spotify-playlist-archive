@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25453,
+  "num_followers": 25458,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMDg3OWFhYTAyNzdhOTJmZThhZjBmMjRiMWMwNTc3N2Iw",
+  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMDE1YjBkYWYwYzNiZDFjNWE4YjY0MzIwZjI3YjRiYWRk",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "L\u00e4ngtan",
-        "url": "https://open.spotify.com/album/1DLz2kBUFZ7MVkxrMy3t3t"
-      },
-      "artists": [
-        {
-          "name": "Timoteij",
-          "url": "https://open.spotify.com/artist/2KToq66TzR2OM0PZJSh5bR"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "Kom",
-      "url": "https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/5dm3yVuHd6BrGhU0VChLgW"
       },
@@ -299,6 +283,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "As I Lay Me Down",
         "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 173124,
       "name": "Bail\u00e1 Bail\u00e1",
       "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -507,22 +491,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "X My Heart",
-        "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
+        "name": "En helt vanlig Svensson",
+        "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
       },
       "artists": [
         {
-          "name": "Jan Johansen",
-          "url": "https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf"
-        },
-        {
-          "name": "Pernilla Wahlgren",
-          "url": "https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf"
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
         }
       ],
-      "duration_ms": 174733,
-      "name": "Let Your Spirit Fly",
-      "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
+      "duration_ms": 194933,
+      "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
+      "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -543,18 +523,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "En helt vanlig Svensson",
-        "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
+        "name": "X My Heart",
+        "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
       },
       "artists": [
         {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
+          "name": "Jan Johansen",
+          "url": "https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf"
+        },
+        {
+          "name": "Pernilla Wahlgren",
+          "url": "https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf"
         }
       ],
-      "duration_ms": 194933,
-      "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
-      "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
+      "duration_ms": 174733,
+      "name": "Let Your Spirit Fly",
+      "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -607,22 +591,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "En Samling 1981 - 2001",
-        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "En dag",
-      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "90-talet",
         "url": "https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn"
       },
@@ -639,6 +607,22 @@
       "duration_ms": 176578,
       "name": "90-talet",
       "url": "https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "En Samling 1981 - 2001",
+        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "En dag",
+      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -707,22 +691,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "H\u00f6gt \u00f6ver havet",
-        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "H\u00f6gt \u00f6ver havet",
-      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Om om och om igen",
         "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
       },
@@ -735,6 +703,22 @@
       "duration_ms": 167346,
       "name": "Om om och om igen",
       "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "H\u00f6gt \u00f6ver havet",
+        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
+      },
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "H\u00f6gt \u00f6ver havet",
+      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -847,6 +831,22 @@
       "duration_ms": 173346,
       "name": "Busy Doin' Nothin'",
       "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Lyssna till ditt hj\u00e4rta",
+        "url": "https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA"
+      },
+      "artists": [
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Lyssna till ditt hj\u00e4rta",
+      "url": "https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV"
     }
   ],
   "unique_name": "Schlagerfest",

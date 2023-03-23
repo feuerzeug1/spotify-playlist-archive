@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 12669,
+  "num_followers": 12717,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGRjM2NjODY2YmI3ODk5YjhjYWNjYTE0NzNkNjMxNjBj",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDdjNzgyNDYwMTQyNGY0MTcyYTllMjFhZTE1ZTg1ZTMx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "It's a Vibe",
-        "url": "https://open.spotify.com/album/00N7d8ASGThdtQWGu8V7Zl"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 143976,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3YfrGk7UWFqxWeWfFp1sQE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "January 10th",
         "url": "https://open.spotify.com/album/3pD5nHq65PfGJtd5aMNPUj"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 219107,
       "name": "Got Dem Racks",
       "url": "https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "It's a Vibe",
+        "url": "https://open.spotify.com/album/00N7d8ASGThdtQWGu8V7Zl"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 143976,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3YfrGk7UWFqxWeWfFp1sQE"
     },
     {
       "added_at": "2022-10-01 16:00:00",

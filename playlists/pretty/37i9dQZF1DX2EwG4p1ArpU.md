@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,596 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,691 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 |
-| 2 | [虎狼来](https://open.spotify.com/track/4cULlSu8XPFcZiQ63WfHeZ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY) | 3:55 |
-| 3 | [黄金の日々](https://open.spotify.com/track/0lWo402BbKVikJ8A6fADdD) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY) | 3:26 |
+| 2 | [Kororon](https://open.spotify.com/track/7fKFmrw1RSwU5a9vCwk155) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr) | 3:55 |
+| 3 | [Ougon No Hibi](https://open.spotify.com/track/4AjvNnE1FWK8kz0p85qrWS) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr) | 3:26 |
 | 4 | [Shirayuki](https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Shirayuki](https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ) | 3:41 |
 | 5 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 6 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 | 59 | [Mellow](https://open.spotify.com/track/3w5kFSmtOVC5XAifIwR9Xz) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:46 |
 | 60 | [インスタントヘヴン](https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [フライングベスト〜知らないの?巷で噂のダメ天使〜](https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC) | 3:50 |
 
-Snapshot ID: `MTY3OTQ0NzY4MiwwMDAwMDAwMGEyNTI2NmY4NjAxOWY3N2YzODdlM2FkM2YzZTI2NTY2`
+Snapshot ID: `MTY3OTQ0NzY4MiwwMDAwMDAwMGI2ODlmN2FjYjAzODEyOTAyYTM5NzE3MWZjMTYwZmU2`

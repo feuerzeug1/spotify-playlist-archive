@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,095 songs - 5 day 0 hr 31 min
+2,097 songs - 5 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1132,6 +1132,7 @@
 | [LOVE YOU FOR TODAY](https://open.spotify.com/track/4e8dJaACPmWE4X5UoyxqjG) | [Ben Provencial](https://open.spotify.com/artist/5weUjhew3mKsYMtwxB2a0h) | [LOVE YOU FOR TODAY](https://open.spotify.com/album/3710DEej3yXBkhH2EuVInw) | 2:28 | 2022-01-14 | 2022-01-30 |
 | [Love You Like I Should](https://open.spotify.com/track/6FdKvkZQMWLSz1l7rdpvBt) | [Monday Morning](https://open.spotify.com/artist/5tcO5UDnbwkxIuyJBQVv0l) | [Love You Like I Should](https://open.spotify.com/album/6TceQz9I4iukwAigxHAOKB) | 2:55 | 2021-07-02 | 2021-07-18 |
 | [Love Yourself](https://open.spotify.com/track/575i3AsDrLGOEEWCiqiV8s) | [Marvin Shadex](https://open.spotify.com/artist/1vzUnGYSfbkAz4HAsbAnph) | [Love Yourself](https://open.spotify.com/album/4g6NaEmfh690Uj1VHSET65) | 3:32 | 2022-11-04 | 2022-11-27 |
+| [Lovely News](https://open.spotify.com/track/7oHRnnH8wdnwb5jkSgcb0O) | [I Hear Jimmy](https://open.spotify.com/artist/5J1J4Fgcs49xIWDtBjD1xZ), [UGENE NGHT](https://open.spotify.com/artist/7uYudqa6w4ALOkoMBAClqo) | [Lovely News](https://open.spotify.com/album/6uOZQjuqWO9aUN8dhwnBXj) | 3:16 | 2023-03-22 |  |
 | [Lovesick](https://open.spotify.com/track/0xNVyPIljoayAOyaCevI2x) | [Jost Music](https://open.spotify.com/artist/4JLjGlT5l6gtKKvP8qRb2g), [LeftLukas](https://open.spotify.com/artist/0xDrFDK7IK6kgDAdyYhNeH) | [Lovesick](https://open.spotify.com/album/0F9KuJCpVBVtTuzMvG2IlM) | 2:31 | 2020-12-04 | 2020-12-19 |
 | [Lovu \- Whim Therapy Remix](https://open.spotify.com/track/2MUYD8IWgXd1I1CDpY8zGk) | [Romane Santarelli](https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN), [Whim Therapy](https://open.spotify.com/artist/5AKY45d5N3kOFln1vXsQ5h) | [Lovu \(Whim Therapy Remix\)](https://open.spotify.com/album/4m290meGLCj5e0WErWGK68) | 3:51 | 2020-12-18 | 2021-01-03 |
 | [LTWYLM](https://open.spotify.com/track/4TWJvu5iSNYhUgVBnqWvBY) | [Abi Ocia](https://open.spotify.com/artist/4xiByOtOqXPUQU9wV4sMUb) | [LTWYLM](https://open.spotify.com/album/1FyweOrZCXoEc8xQMHjW1h) | 4:30 | 2021-11-13 | 2021-11-28 |
@@ -1175,6 +1176,7 @@
 | [Mean to Me](https://open.spotify.com/track/77KqgXrrVDCwMCtJE51EYM) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z), [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [Mean to Me](https://open.spotify.com/album/5AB9rphEZ32L2GY3UWjxz1) | 2:34 | 2021-01-29 | 2021-02-13 |
 | [Mean't For Something More](https://open.spotify.com/track/5mq6GzYKpbZ1z16EQXmYGC) | [Hannah Whitmore Foxx](https://open.spotify.com/artist/3zC0qowBvz5QXwnrbndaEQ) | [Mean't For Something More](https://open.spotify.com/album/4ZMfDFMyi9WAfXQu7z5vhL) | 3:53 | 2023-01-21 | 2023-02-24 |
 | [Meaningless](https://open.spotify.com/track/4XdDQHEbOJxHAejxcakgnb) | [Eleanor Kingston](https://open.spotify.com/artist/4NflbC6MLEv2KnPSdLEi7T) | [Meaningless](https://open.spotify.com/album/3dmzCusx3P5VNSSkurop94) | 2:58 | 2020-11-06 | 2020-12-19 |
+| [Meant](https://open.spotify.com/track/0MRsTLHZv9zDEbYhAnWuvq) | [Aaries](https://open.spotify.com/artist/2hfPo38uVGaKcxfOpqJwf8) | [Meant](https://open.spotify.com/album/4Ve0b9jAMM3Rj5SJAlw9NF) | 4:38 | 2023-03-22 |  |
 | [Mecca \(with JID & EARTHGANG\)](https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:50 | 2021-07-12 | 2021-11-19 |
 | [Medusa](https://open.spotify.com/track/40334O22mvniSDekH599Sr) | [The Bergamot](https://open.spotify.com/artist/4wmpJsWHVtigpGrGya1TQt) | [Medusa](https://open.spotify.com/album/4CeQ61y2vtka97tJAlJs0g) | 3:00 | 2022-05-13 | 2022-06-03 |
 | [Meet the Sea](https://open.spotify.com/track/4rVz2HkTChLR8SUlISYZLO) | [Liat and the Sirens](https://open.spotify.com/artist/301CtMztmbpvayBGmvQxfG) | [Meet the Sea](https://open.spotify.com/album/0mIiWFadODBITKdASlykkD) | 3:30 | 2021-01-08 | 2021-01-26 |

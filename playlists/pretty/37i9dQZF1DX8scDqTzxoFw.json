@@ -1,12 +1,12 @@
 {
   "description": "Watch the kids go wild for these party tunes!",
-  "num_followers": 104516,
+  "num_followers": 104519,
   "original_name": "It's Party Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1MDgyMCwwMDAwMDAwMDQyZTk5ZDMzYWIzYmFjNzI4Yjk4ZThjNGZmN2VkMDRm",
+  "snapshot_id": "MTY2NTc1MDgyMCwwMDAwMDAwMDE1ODUwODk1NDRmOTlmM2VjZTViMWRiZTY0YmFkZmM3",
   "tracks": [
     {
       "added_at": "2022-10-14 12:33:40",
@@ -830,11 +830,19 @@
         {
           "name": "Maroon 5",
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
       "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+      "name": "Memories Remix (feat. Nipsey Hussle & YG)",
+      "url": "https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC"
     },
     {
       "added_at": "2022-10-14 12:33:40",

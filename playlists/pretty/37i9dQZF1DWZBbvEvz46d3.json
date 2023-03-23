@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 55282,
+  "num_followers": 55315,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMDlhNWJlNDA1ZGUxMDFlYTc2MTI0N2ZiNDRlOWY2OTk4",
+  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMDg5NDkyMTk1ZDdmZmU1YTcyYzdlNzk5MmQxMzg1NDg0",
   "tracks": [
     {
       "added_at": "2023-02-03 16:31:51",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Zacznij od Bacha (The Best)",
-        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
+        "name": "Momenty",
+        "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
       },
       "artists": [
         {
-          "name": "Zbigniew Wodecki",
-          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
+          "name": "Grzegorz Hy\u017cy",
+          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
         }
       ],
-      "duration_ms": 262293,
-      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
-      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
+      "duration_ms": 178893,
+      "name": "O Pani!",
+      "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Momenty",
-        "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
+        "name": "Zacznij od Bacha (The Best)",
+        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
       },
       "artists": [
         {
-          "name": "Grzegorz Hy\u017cy",
-          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
+          "name": "Zbigniew Wodecki",
+          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
         }
       ],
-      "duration_ms": 178893,
-      "name": "O Pani!",
-      "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
+      "duration_ms": 262293,
+      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
+      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Obrazki",
-        "url": "https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC"
-      },
-      "artists": [
-        {
-          "name": "Wilki",
-          "url": "https://open.spotify.com/artist/1hxJUOxvX3SXaVYz4qaFyM"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Na zawsze i na wieczno\u015b\u0107",
-      "url": "https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Ania Karwan",
         "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 197764,
       "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
       "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Obrazki",
+        "url": "https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC"
+      },
+      "artists": [
+        {
+          "name": "Wilki",
+          "url": "https://open.spotify.com/artist/1hxJUOxvX3SXaVYz4qaFyM"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Na zawsze i na wieczno\u015b\u0107",
+      "url": "https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "The Best Of Kora & Maanam Volume II",
-        "url": "https://open.spotify.com/album/2FcPs0C8LOzivVD5ISGe0w"
-      },
-      "artists": [
-        {
-          "name": "Maanam",
-          "url": "https://open.spotify.com/artist/4MiKufcWLuX6KDLzqhUgQD"
-        }
-      ],
-      "duration_ms": 294026,
-      "name": "Kocham Ci\u0119, Kochanie Moje",
-      "url": "https://open.spotify.com/track/6CwbrtZnJNqef5CqSLqPdX"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 239373,
       "name": "A Wszystko To...(Bo Ciebie Kocham)",
       "url": "https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "The Best Of Kora & Maanam Volume II",
+        "url": "https://open.spotify.com/album/2FcPs0C8LOzivVD5ISGe0w"
+      },
+      "artists": [
+        {
+          "name": "Maanam",
+          "url": "https://open.spotify.com/artist/4MiKufcWLuX6KDLzqhUgQD"
+        }
+      ],
+      "duration_ms": 294026,
+      "name": "Kocham Ci\u0119, Kochanie Moje",
+      "url": "https://open.spotify.com/track/6CwbrtZnJNqef5CqSLqPdX"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1201,7 +1201,7 @@
       "url": "https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5"
     },
     {
-      "added_at": "2023-03-22 00:44:03",
+      "added_at": "2023-03-23 00:13:38",
       "album": {
         "name": "Osobista kolekcja 2",
         "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
     },
     {
-      "added_at": "2023-03-22 00:44:03",
+      "added_at": "2023-03-23 00:13:38",
       "album": {
         "name": "Nie zrozumie nas - z filmu \u201eJohnny\u201d",
         "url": "https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30"

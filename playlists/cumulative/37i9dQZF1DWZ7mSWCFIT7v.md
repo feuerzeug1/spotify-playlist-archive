@@ -4,7 +4,7 @@
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-307 songs - 1 day 0 hr 53 min
+308 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [BLUE](https://open.spotify.com/track/6kAtLKUnOMn3zcVkPkc0V8) | [ALL OF THE WORLD](https://open.spotify.com/artist/7fLaa02J09xp33ucEoQQUE) | [BLUE](https://open.spotify.com/album/7cdbK0qiDoS6pf4Dx9343l) | 4:30 | 2022-08-31 | 2022-11-17 |
 | [Blush](https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:57 | 2021-10-06 |  |
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-06 |  |
-| [Brainwave Technology](https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Brainwave Technology](https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf) | 6:47 | 2021-10-06 |  |
+| [Brainwave Technology](https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Brainwave Technology](https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf) | 6:47 | 2021-10-06 | 2023-03-23 |
 | [Breathe Cre8](https://open.spotify.com/track/4L75OEom1UKUALCLguUpig) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Breathe Cre8](https://open.spotify.com/album/41zMYJ5DfjjcseXWbqeBlR) | 3:16 | 2022-02-25 | 2022-07-15 |
 | [Bundeena](https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:22 | 2021-10-06 |  |
 | [Bundeena](https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:22 | 2021-10-06 | 2022-09-16 |
@@ -153,6 +153,7 @@
 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 | 2021-10-06 | 2022-07-29 |
 | [Lone Swordsman](https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/4JqBczxo4FAt696cbtjO0D) | 3:53 | 2021-10-06 |  |
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2021-10-06 |  |
+| [Los muertos no lloran](https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS) | [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Los muertos no lloran](https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG) | 5:40 | 2023-03-23 |  |
 | [Lost You in the Fog](https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 8:53 | 2021-10-06 | 2022-11-13 |
 | [Mainstream Belief](https://open.spotify.com/track/2VtvAOGHHsJ57UO46v9ybK) | [Grant](https://open.spotify.com/artist/5xUqD3EXrIaAq1IZeOC4lM) | [Cranks](https://open.spotify.com/album/1tBm85iGcYs2mlr7BIUvmv) | 4:59 | 2021-10-06 | 2022-07-17 |
 | [Marking Time](https://open.spotify.com/track/34ywBstvC6knYlFm5VbaaO) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Marking Time](https://open.spotify.com/album/4WzQyr5KR9JkD2ilK0hw1W) | 4:30 | 2021-10-06 | 2022-07-29 |

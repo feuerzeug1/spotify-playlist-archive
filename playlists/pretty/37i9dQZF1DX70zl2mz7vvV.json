@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 37474,
+  "num_followers": 37515,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDNlNDQ5NTk5MjljZWMzMzBmMmQxODczNTk1NDUyY2Ux",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMGY0NGE5Y2YwOGQzNWUzMmZlN2I0ZTY3NjY0YzUwN2Mz",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -71,22 +71,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Police In Helicopter",
-        "url": "https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq"
-      },
-      "artists": [
-        {
-          "name": "John Holt",
-          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Police In Helicopter",
-      "url": "https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Reggae Anthology: Sweet Reggae Music (1979-84)",
         "url": "https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 217200,
       "name": "Here I Come",
       "url": "https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Police In Helicopter",
+        "url": "https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq"
+      },
+      "artists": [
+        {
+          "name": "John Holt",
+          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Police In Helicopter",
+      "url": "https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Sweep Over My Soul",
-        "url": "https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Sweep Over My Soul",
-      "url": "https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Big Big",
         "url": "https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 182828,
       "name": "Big Big",
       "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Sweep Over My Soul",
+        "url": "https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Sweep Over My Soul",
+      "url": "https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk"
     },
     {
       "added_at": "2020-10-19 09:02:25",

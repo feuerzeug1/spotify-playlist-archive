@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Cover: Clara Rockmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,145 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 45 | [Vocalise, Op\. 34 No\. 14 \(Arr\. for Theremin and Cello Quartet\)](https://open.spotify.com/track/3PYVkbZutCbh8OKS2dWlR7) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Rebekka Markowski](https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 5:20 |
 | 46 | [Luna Hiena](https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 2:44 |
 | 47 | [Voice of Theremin](https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49) | [Vladimir Komarov](https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 8:47 |
-| 48 | [Melody](https://open.spotify.com/track/1B00mbs5juqngHKXGRTEaQ) | [Joseph Moiseyevich Schillinger](https://open.spotify.com/artist/2i4gqrJkFCowtXS72V2CEO), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv), [Joshua Pierce](https://open.spotify.com/artist/6VJexFMwB5GxEZH1We82Kp) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 1:51 |
-| 49 | [Theremin Concerto, Acht Jahreszeiten: VIII\. Mitternachtssonne \(Midnight Sun\)](https://open.spotify.com/track/7JYmeyuFHxrjyhqEvcj7jr) | [Kalevi Aho](https://open.spotify.com/artist/2H8D4ju7R16n4IZD8TwUv9), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Lapin Kamariorkesteri](https://open.spotify.com/artist/58KjEYGktAvgFTcXJg4Rfm), [John Storgårds](https://open.spotify.com/artist/2TizFx4bl9T8efWXNuxWor) | [Aho: Theremin Concerto & Horn Concerto](https://open.spotify.com/album/7h7n0YHNk9vbzw8II0SaE3) | 7:10 |
+| 48 | [荒城の月](https://open.spotify.com/track/62iNNRWB0tpmE8O6RuMGqV) | [Masami Takeuchi](https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq) | [Theremin Vox Collection Vol.1](https://open.spotify.com/album/7c94OMv4ypIwKaSL4DbLHu) | 3:02 |
+| 49 | [Melody](https://open.spotify.com/track/1B00mbs5juqngHKXGRTEaQ) | [Joseph Moiseyevich Schillinger](https://open.spotify.com/artist/2i4gqrJkFCowtXS72V2CEO), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv), [Joshua Pierce](https://open.spotify.com/artist/6VJexFMwB5GxEZH1We82Kp) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 1:51 |
 | 50 | [Somewhere over the Rainbow](https://open.spotify.com/track/5TFRWQT4v6LVQluDYoIcpe) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Ameriqué: The American Songbook](https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY) | 2:43 |
 
-Snapshot ID: `MTY0MTg3MDg5OCwwMDAwMDAwMGRlZGI5NzVhZjBkNDI0MmFlZWYwZDAyYmMyZDVlY2Jk`
+Snapshot ID: `MTY0MTg3MDg5OCwwMDAwMDAwMDlkNzg4OTU4OTA5N2VjMTIzOWVjMDE1NDM3MTUxN2Jl`

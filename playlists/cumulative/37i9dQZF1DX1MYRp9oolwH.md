@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-106 songs - 6 hr 59 min
+107 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Darshana](https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb) | 3:38 | 2023-01-30 |  |
 | [Dhada Dhada](https://open.spotify.com/track/2AvlqNNJdRrfRhS9GoaL48) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [The Warriorr](https://open.spotify.com/album/5YHLMRNyLqmIMF6z0FUdsQ) | 4:06 | 2022-06-04 | 2023-02-21 |
 | [Dheemthanana](https://open.spotify.com/track/3dPHu4WuOSn3zw4udpBBNv) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1CYUy4WQ2yXvt7OV0ANIbs) | 3:39 | 2022-10-10 |  |
+| [Edho Edho Kalavaram \(From "Anveshi"\)](https://open.spotify.com/track/4edykmkRtQIpO1fS9Ltlsf) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Deepthi Parthasarathy](https://open.spotify.com/artist/02p0Emo53CEFEVufEQtAUy), [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5) | [Edho Edho Kalavaram \(From "Anveshi"\)](https://open.spotify.com/album/0xqWP4R2wrLps92i98SbGT) | 3:16 | 2023-03-22 |  |
 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 | 2022-12-20 |  |
 | [Emundi Ra \(From "Krishna Vrinda Vihari"\)](https://open.spotify.com/track/1EqsZQwACUqnn9GvtzLjHl) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Emundi Ra \(From "Krishna Vrinda Vihari"\) \- Single](https://open.spotify.com/album/1ZP4uiCbZYgrxmoEmRVzrB) | 3:52 | 2022-05-04 | 2023-02-21 |
 | [Enno Ratrulosthayi Remix Song](https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Amigos](https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc) | 4:41 | 2023-02-01 |  |

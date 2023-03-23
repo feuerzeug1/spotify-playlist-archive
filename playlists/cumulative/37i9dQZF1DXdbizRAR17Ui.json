@@ -166,6 +166,24 @@
     {
       "album": {
         "name": "Alas",
+        "url": "https://open.spotify.com/album/2mGAeQetqelRSPnaed9KTF"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264201,
+      "name": "Alas",
+      "url": "https://open.spotify.com/track/3EaXrzDBGOFXVm7uL3B1JP"
+    },
+    {
+      "album": {
+        "name": "Alas",
         "url": "https://open.spotify.com/album/6Ui90ahhdeuHF0w54Stqbn"
       },
       "artists": [
@@ -176,7 +194,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 264201,
       "name": "Alas",
       "url": "https://open.spotify.com/track/5CNvkZHDeclbdJfh3o7KHN"

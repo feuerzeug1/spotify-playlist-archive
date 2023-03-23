@@ -1027,6 +1027,28 @@
     },
     {
       "album": {
+        "name": "Bangarang EP",
+        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Sirah",
+          "url": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215253,
+      "name": "Bangarang (feat. Sirah)",
+      "url": "https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ"
+    },
+    {
+      "album": {
         "name": "Banking On Me",
         "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
       },
@@ -3734,7 +3756,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 218413,
       "name": "Finger Food",
       "url": "https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ"
@@ -4086,7 +4108,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 146028,
       "name": "Fuego - Remix",
       "url": "https://open.spotify.com/track/5PSn6lZpITagw70YBnLpSZ"
@@ -4234,6 +4256,24 @@
       "duration_ms": 153999,
       "name": "Ginseng Strip 2002",
       "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
+    },
+    {
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153999,
+      "name": "Ginseng Strip 2002",
+      "url": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3"
     },
     {
       "album": {
@@ -4858,7 +4898,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 131057,
       "name": "Humans Being Humans",
       "url": "https://open.spotify.com/track/4UEKSWhyeuqaeDM1BXeypE"
@@ -4898,6 +4938,24 @@
       "duration_ms": 137769,
       "name": "Hurt U",
       "url": "https://open.spotify.com/track/6W9Xu1OZTrEjE2YtxTFxMR"
+    },
+    {
+      "album": {
+        "name": "The Gummy Bear Song International Singles",
+        "url": "https://open.spotify.com/album/1sgWR5fZEmnBxPlbjmCQVg"
+      },
+      "artists": [
+        {
+          "name": "Gummib\u00e4r",
+          "url": "https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "I Am A Gummy Bear (English)",
+      "url": "https://open.spotify.com/track/5YJfmBODXO0lL2zTDf8xlD"
     },
     {
       "album": {
@@ -6504,6 +6562,24 @@
       "duration_ms": 149861,
       "name": "lying awake at night",
       "url": "https://open.spotify.com/track/2WrzzEli411E3VBQGBTOIj"
+    },
+    {
+      "album": {
+        "name": "We Don't Matter (Remastered)",
+        "url": "https://open.spotify.com/album/30izpgLnNATYy0YzHD196V"
+      },
+      "artists": [
+        {
+          "name": "Yung Frown",
+          "url": "https://open.spotify.com/artist/6oeFYeDMdvczwH78h8il8P"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287545,
+      "name": "Macintosh Plus 2k17",
+      "url": "https://open.spotify.com/track/3bMO8vLuKlFFH9uvVO036u"
     },
     {
       "album": {
@@ -10606,7 +10682,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 155016,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7"

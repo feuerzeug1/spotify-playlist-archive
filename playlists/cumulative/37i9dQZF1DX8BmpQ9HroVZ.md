@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/7Els4IIFYa4P4RxBkZkxdd) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7fL3C5d4cFW7XLZHq4jPwX) | 0:00 | 2022-12-12 |  |
+| [](https://open.spotify.com/track/7Els4IIFYa4P4RxBkZkxdd) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7fL3C5d4cFW7XLZHq4jPwX) | 0:00 | 2022-12-12 | 2023-03-23 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2022-06-20 | 2023-02-07 |
 | [4AM in Karachi](https://open.spotify.com/track/1hprJ4nFW7lyQbyi7RQnNj) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Worth The Wait](https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5) | 3:28 | 2022-11-21 |  |
 | [6 Maheenay](https://open.spotify.com/track/6y6pBKHe151pglLIiJw6iD) | [Talha Dar](https://open.spotify.com/artist/2qPhpzXetOadbEAO31n4NP) | [6 Maheenay](https://open.spotify.com/album/5eRdEYyiB5zyE16BiYGgjs) | 3:14 | 2022-09-12 | 2022-10-11 |

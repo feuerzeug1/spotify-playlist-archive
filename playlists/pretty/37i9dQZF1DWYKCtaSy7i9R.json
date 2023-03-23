@@ -1,12 +1,12 @@
 {
   "description": "Quiet spring mornings, wake up early with the birds. \nTake a moment with nature for a positive start of your day.",
-  "num_followers": 2025,
+  "num_followers": 2059,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0Nzc0MCwwMDAwMDAwMDIzNWM5ZGNhMmJhYmVhMWEyMzliNjlkZjIwYWFhMjRi",
+  "snapshot_id": "MTY3Nzg0Nzc0MCwwMDAwMDAwMGRmYWU0ZTY2NmRlMTEzNWE1MzNlNzRiNWVkY2MyODM2",
   "tracks": [
     {
       "added_at": "2023-03-01 15:55:04",
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK"
     },
     {
-      "added_at": "2023-03-22 00:49:25",
+      "added_at": "2023-03-23 00:54:47",
       "album": {
         "name": "Highway Birds",
         "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt"
     },
     {
-      "added_at": "2023-03-22 00:49:25",
+      "added_at": "2023-03-23 00:54:47",
       "album": {
         "name": "Warmer Seasons",
         "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
@@ -391,6 +391,22 @@
       "duration_ms": 104389,
       "name": "Spring Approaches",
       "url": "https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY"
+    },
+    {
+      "added_at": "2023-03-23 00:54:47",
+      "album": {
+        "name": "In the Midst of Nature",
+        "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
+      },
+      "artists": [
+        {
+          "name": "Neoaves",
+          "url": "https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK"
+        }
+      ],
+      "duration_ms": 121345,
+      "name": "In the Midst of Nature",
+      "url": "https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -407,22 +423,6 @@
       "duration_ms": 230233,
       "name": "Park Bird Fountain",
       "url": "https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa"
-    },
-    {
-      "added_at": "2023-03-22 00:49:25",
-      "album": {
-        "name": "In the Midst of Nature",
-        "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
-      },
-      "artists": [
-        {
-          "name": "Neoaves",
-          "url": "https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK"
-        }
-      ],
-      "duration_ms": 121345,
-      "name": "In the Midst of Nature",
-      "url": "https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-01 15:55:04",
       "album": {
-        "name": "Timber Slumber",
-        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
-      },
-      "artists": [
-        {
-          "name": "The Sleepy Forest",
-          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Raindrops In The Forest - Seamless",
-      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
-    },
-    {
-      "added_at": "2023-03-01 15:55:04",
-      "album": {
         "name": "Orchid Stories",
         "url": "https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 226000,
       "name": "Orchid Stories",
       "url": "https://open.spotify.com/track/6RXBc2H5MRu2dPMFfGUB87"
+    },
+    {
+      "added_at": "2023-03-01 15:55:04",
+      "album": {
+        "name": "Timber Slumber",
+        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
+      },
+      "artists": [
+        {
+          "name": "The Sleepy Forest",
+          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Raindrops In The Forest - Seamless",
+      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
     },
     {
       "added_at": "2023-03-01 15:55:04",

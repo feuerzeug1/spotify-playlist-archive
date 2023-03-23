@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/29AxH9bh65FCT0qodirEFm"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 135000,
       "name": "Albela",
       "url": "https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 421395,
       "name": "Badi Dheere Jali",
       "url": "https://open.spotify.com/track/2VgmwOgWxNkfT4vvA7eJ5E"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 298369,
       "name": "Baras",
       "url": "https://open.spotify.com/track/2eJeQraCbVdmkFsLqPkBHP"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 247155,
       "name": "Ghir Ghir Ke",
       "url": "https://open.spotify.com/track/510UTDROfJ1pQQLrFZgo9Y"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 376957,
       "name": "Hamsadhwani",
       "url": "https://open.spotify.com/track/2kp7AnVKbDVZyrcRHjWvLB"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 260256,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/6z0iNZXZ7xEwjQf6SXDH8P"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 282730,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/4dXcDVX3HVQrHFyGE11wue"
@@ -1632,6 +1632,24 @@
       "duration_ms": 258064,
       "name": "More Piya",
       "url": "https://open.spotify.com/track/4ezMFxUzwg5BDTBWZdZvMu"
+    },
+    {
+      "album": {
+        "name": "More Piya",
+        "url": "https://open.spotify.com/album/6Ii2FMwdKqzhrFEONfC8w1"
+      },
+      "artists": [
+        {
+          "name": "Yugm",
+          "url": "https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334744,
+      "name": "More Piya",
+      "url": "https://open.spotify.com/track/26BbW2LGSJpGcI2uwUWf8j"
     },
     {
       "album": {
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 354880,
       "name": "Shyam",
       "url": "https://open.spotify.com/track/6fH5dUQ9KuVDNxkpYPJZ9v"
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 258178,
       "name": "Sitar Symphony - Original",
       "url": "https://open.spotify.com/track/5qRS33ZGCIIrbf8tRzpy3a"
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 399360,
       "name": "Spinning",
       "url": "https://open.spotify.com/track/5ljHA0RktQzKcuIEw6CH6l"

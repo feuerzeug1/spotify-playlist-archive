@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 25456,
+  "num_followers": 25472,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDliYTNhMGIzZDQ5NjU0MGViNmI5MDJjZDMzODc3YmIw",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGNkMTBjNWQ0NGIyMGJiY2U1YzM5ZDU2YzA0MTlmMDk1",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -443,6 +443,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Rye Lane Vol. 1",
+        "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
+      },
+      "artists": [
+        {
+          "name": "Al Dobson Jr.",
+          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
+        },
+        {
+          "name": "Reginald Omas Mamode",
+          "url": "https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy"
+        }
+      ],
+      "duration_ms": 132864,
+      "name": "Nankoo on Keys",
+      "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Buya",
         "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
       },
@@ -467,42 +487,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Rye Lane Vol. 1",
-        "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
-      },
-      "artists": [
-        {
-          "name": "Al Dobson Jr.",
-          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
-        },
-        {
-          "name": "Reginald Omas Mamode",
-          "url": "https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy"
-        }
-      ],
-      "duration_ms": 132864,
-      "name": "Nankoo on Keys",
-      "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
-      },
-      "artists": [
-        {
-          "name": "Jane Maximova",
-          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
-        }
-      ],
-      "duration_ms": 298208,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Make This Right",
         "url": "https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 197000,
       "name": "Make This Right - Radio Edit",
       "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
+      },
+      "artists": [
+        {
+          "name": "Jane Maximova",
+          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
+        }
+      ],
+      "duration_ms": 298208,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
-      },
-      "artists": [
-        {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Highlife World Series: Cuba",
         "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 356313,
       "name": "Mother Theresa - Original Mix",
       "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+      },
+      "artists": [
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Information",
-        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 272893,
-      "name": "Been A Long Night",
-      "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 342591,
       "name": "Eye Mo K",
       "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Information",
+        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 272893,
+      "name": "Been A Long Night",
+      "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Black Dragon Loop",
-        "url": "https://open.spotify.com/album/45Kc4Hj3SqBO5yXPnioU71"
-      },
-      "artists": [
-        {
-          "name": "FYI Chris",
-          "url": "https://open.spotify.com/artist/0wZeO8kuM4dYiraesOH282"
-        }
-      ],
-      "duration_ms": 307360,
-      "name": "Youth Jazz",
-      "url": "https://open.spotify.com/track/7AhZqOQ976CkrBYXCDdsyU"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "The Return",
         "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 513226,
       "name": "Salaam",
       "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Black Dragon Loop",
+        "url": "https://open.spotify.com/album/45Kc4Hj3SqBO5yXPnioU71"
+      },
+      "artists": [
+        {
+          "name": "FYI Chris",
+          "url": "https://open.spotify.com/artist/0wZeO8kuM4dYiraesOH282"
+        }
+      ],
+      "duration_ms": 307360,
+      "name": "Youth Jazz",
+      "url": "https://open.spotify.com/track/7AhZqOQ976CkrBYXCDdsyU"
     },
     {
       "added_at": "2021-10-08 17:36:35",

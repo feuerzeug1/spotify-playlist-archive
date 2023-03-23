@@ -2837,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "En Die Dingen Daar",
+        "url": "https://open.spotify.com/album/3Xh4eGqrVaSGTVtdvhgkv2"
+      },
+      "artists": [
+        {
+          "name": "Naro",
+          "url": "https://open.spotify.com/artist/5Kv6rQa5K5N440P21T9a0Y"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133146,
+      "name": "En Die Dingen Daar",
+      "url": "https://open.spotify.com/track/5347LKOoRWFJxvxQY2SEAa"
+    },
+    {
+      "album": {
         "name": "Enjoyment",
         "url": "https://open.spotify.com/album/3u7RahkGaDMBWG6W0JIVTn"
       },

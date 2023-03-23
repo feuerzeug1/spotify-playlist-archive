@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'm so thankful for all of the girls you've loved before 💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,584 likes - 649 songs - 1 day 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,573 likes - 649 songs - 1 day 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

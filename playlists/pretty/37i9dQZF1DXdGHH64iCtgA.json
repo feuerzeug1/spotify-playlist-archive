@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 59958,
+  "num_followers": 59987,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGExZDc5ZmJlZWJiOGI5MGM3OTA0NGYxMjJlMGUyZWQ0",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDQwNTk4NDE2ODVlNzhmMjI0MjAzODBkZjFhNGE2OTI3",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -71,8 +71,8 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "The Last Dance, Pt. 2",
-        "url": "https://open.spotify.com/album/5fxVy50kYGajDUpAksWhRz"
+        "name": "The Last Dance, Pt 2",
+        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
       },
       "artists": [
         {
@@ -82,7 +82,7 @@
       ],
       "duration_ms": 183934,
       "name": "Catwalk",
-      "url": "https://open.spotify.com/track/1v2VVRjWAZRHso5etkftcI"
+      "url": "https://open.spotify.com/track/4st45RmUuo86IbefttwrHa"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "One More",
-        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 202537,
-      "name": "One More",
-      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Set Me Free (Extended Mix)",
         "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 210000,
       "name": "Set Me Free - Extended Mix",
       "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 202537,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "U Wanna?",
         "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 250009,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "F*ck",
         "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Burner",
-        "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
       },
       "artists": [
         {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
         }
       ],
-      "duration_ms": 308858,
-      "name": "Burner",
-      "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 246182,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Burner",
+        "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 308858,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Sol De Mi Vida",
+        "url": "https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        }
+      ],
+      "duration_ms": 187593,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "We All Move Together (Kevin Saunderson x Latroit Remix)",
         "url": "https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Sol De Mi Vida",
-        "url": "https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve"
+        "name": "Club Eat",
+        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
       },
       "artists": [
         {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+          "name": "Club Eat",
+          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
         }
       ],
-      "duration_ms": 187593,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD"
+      "duration_ms": 234146,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1679,22 +1695,6 @@
       "duration_ms": 358582,
       "name": "Jardins Aquatics",
       "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Club Eat",
-        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
-      },
-      "artists": [
-        {
-          "name": "Club Eat",
-          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
     },
     {
       "added_at": "2023-02-10 05:00:00",

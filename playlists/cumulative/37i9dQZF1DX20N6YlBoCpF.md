@@ -2,7 +2,7 @@
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1E4z2rLRcG85b0?si=ab4c5f6080824c3a">Anzélle</a>
+> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs?si=pHdjdiUDSe2aNk7r\-YVuzQ">Anzélle</a>
 
 265 songs - 14 hr 59 min
 

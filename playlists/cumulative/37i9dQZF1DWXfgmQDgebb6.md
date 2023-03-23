@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: CIFIKA\)
 
-289 songs - 16 hr 8 min
+290 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 | 2022-05-27 |  |
 | [I Sing My Blues Away](https://open.spotify.com/track/0Dsx7tOWOORkxJE8pf5oCF) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf) | [I Sing My Blues Away](https://open.spotify.com/album/0ex0GkY8TCwTUWLQwnHD0A) | 3:27 | 2022-10-03 | 2022-11-04 |
 | [I would](https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/5yvin43lPsMOW6tQiHF3oq) | 3:25 | 2022-07-08 | 2023-02-21 |
+| [I would](https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv) | 3:25 | 2023-03-16 |  |
 | [I'm not your son](https://open.spotify.com/track/5g9pOHaYg7JgCrzfxwPble) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [The Sandwich Artist](https://open.spotify.com/album/4qCXJvhE5llqnGPQAVIsxO) | 2:43 | 2022-05-27 | 2022-07-21 |
 | [IDEAL TYPE](https://open.spotify.com/track/20Z3LYKoYwLAZcrlyp35QY) | [besisi](https://open.spotify.com/artist/1ceX86LLepT24qw3CaXUJg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [IDEAL TYPE](https://open.spotify.com/album/69q6kLGOS6lZALtT0JPlet) | 2:27 | 2022-05-27 | 2022-07-27 |
 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 | 2022-05-27 |  |
@@ -174,7 +175,7 @@
 | [Muse](https://open.spotify.com/track/4mt7tW8sKu4Ns0yMIVsrIn) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 2:55 | 2022-11-03 | 2023-02-15 |
 | [MWAH](https://open.spotify.com/track/1mY0EZbeh4LB9XAoSgUklw) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [MWAH](https://open.spotify.com/album/51l27CHkRmZXBhIel6iCBz) | 3:06 | 2022-05-27 | 2022-07-29 |
 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2022-05-27 |  |
-| [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 | 2022-07-08 |  |
+| [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 | 2022-07-08 | 2023-03-23 |
 | [New](https://open.spotify.com/track/6CAiK6H9o8ajsdFQQlqPUy) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3peFM5HIPXT6TdDNJLaGvH) | 3:02 | 2022-05-27 | 2022-07-29 |
 | [No Thanks](https://open.spotify.com/track/6M3CzJb0KOyZZN7y8CueW9) | [오아이](https://open.spotify.com/artist/03UBi5emKr675HLuAaA0dK) | [No Thanks](https://open.spotify.com/album/3UPs9p5N6uusIuttsneK3L) | 3:01 | 2022-05-27 | 2022-07-28 |
 | [Noneed](https://open.spotify.com/track/028SvRrgzbJEvQYkGiInNA) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [SILKMOTH](https://open.spotify.com/album/7KS6XUpuXB9aWKU2EMpPxw) | 2:57 | 2022-05-27 | 2022-06-14 |

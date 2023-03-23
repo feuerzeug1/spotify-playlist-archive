@@ -4,7 +4,7 @@
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-61 songs - 5 hr 8 min
+63 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Kara No Kioku](https://open.spotify.com/track/3kHIqWVLgUi9eqiqrD4Q91) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 3:49 | 2022-11-30 |  |
 | [Kiminisekai](https://open.spotify.com/track/3urEGiZYgpZlFxSkffWPOo) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 3:55 | 2022-11-30 |  |
 | [Kokoroyohou](https://open.spotify.com/track/1pjXUZFaDSgf9wV1X76aXw) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 3:19 | 2022-11-30 |  |
+| [Kororon](https://open.spotify.com/track/7fKFmrw1RSwU5a9vCwk155) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr) | 3:55 | 2023-03-22 |  |
 | [Kotonoha](https://open.spotify.com/track/1ZSznxT0bJLPGbWTzzLGLz) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 4:42 | 2022-11-30 |  |
 | [Last Dance](https://open.spotify.com/track/4gM814NneKElxn37F5Ht7G) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 4:00 | 2022-11-30 |  |
 | [Leo](https://open.spotify.com/track/1GsAU0aPUjNcYDbZErzVmI) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:07 | 2022-11-30 |  |
@@ -50,6 +51,7 @@
 | [Nonsence philosophy](https://open.spotify.com/track/2KqTXUP2FyUQ8MXDYKtjZ9) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Blue](https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt) | 3:25 | 2022-11-30 |  |
 | [Nonsense Bungaku](https://open.spotify.com/track/4PaZP3ZPHCl6IpFUSuY1Rn) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:23 | 2022-11-30 |  |
 | [Okinimesumama](https://open.spotify.com/track/4ly9rdCe3PvcYZdAN72T3b) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 4:06 | 2022-11-30 |  |
+| [Ougon No Hibi](https://open.spotify.com/track/4AjvNnE1FWK8kz0p85qrWS) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr) | 3:26 | 2023-03-22 |  |
 | [Outsider](https://open.spotify.com/track/316BhPQ7kG9yPqZeLPTanl) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 3:27 | 2022-11-30 |  |
 | [Rabbit gray](https://open.spotify.com/track/5FS79PQGFG4MGqsi0UIA5J) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [OFFICIAL NUMBER](https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B) | 3:41 | 2022-11-30 |  |
 | [Shinkai](https://open.spotify.com/track/44VYdLnwvhn1H1cfieb84a) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 4:26 | 2022-11-30 |  |
@@ -66,8 +68,8 @@
 | [Yuseiboushi](https://open.spotify.com/track/5QkNlpfeEmsZYbtCqHdPDl) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 3:16 | 2022-11-30 |  |
 | [インスタントヘヴン](https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [フライングベスト〜知らないの?巷で噂のダメ天使〜](https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC) | 3:50 | 2022-11-30 |  |
 | [レーゾンデートル](https://open.spotify.com/track/0Nn9gfz60CyzqnFXiAphMs) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [レーゾンデートル](https://open.spotify.com/album/7sRl7u98siioOxgMhgV8Ne) | 3:42 | 2022-11-30 |  |
-| [虎狼来](https://open.spotify.com/track/4cULlSu8XPFcZiQ63WfHeZ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY) | 3:55 | 2023-03-22 |  |
+| [虎狼来](https://open.spotify.com/track/4cULlSu8XPFcZiQ63WfHeZ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY) | 3:55 | 2023-03-22 | 2023-03-23 |
 | [闇夜](https://open.spotify.com/track/6aW8fq5lGlhoZxhLyC7JuL) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [闇夜](https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp) | 3:49 | 2022-11-30 |  |
-| [黄金の日々](https://open.spotify.com/track/0lWo402BbKVikJ8A6fADdD) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY) | 3:26 | 2023-03-22 |  |
+| [黄金の日々](https://open.spotify.com/track/0lWo402BbKVikJ8A6fADdD) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY) | 3:26 | 2023-03-22 | 2023-03-23 |
 
 \*This playlist was first scraped on 2022-12-24. Prior content cannot be recovered.

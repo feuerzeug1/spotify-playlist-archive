@@ -25624,7 +25624,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 133793,
       "name": "Hydration",
       "url": "https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z"
@@ -54124,7 +54124,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 151004,
       "name": "Spiegelei",
       "url": "https://open.spotify.com/track/2UgF2ERVFHWhFWcytlNO7G"
@@ -56328,6 +56328,24 @@
       "duration_ms": 185497,
       "name": "Sun Dance",
       "url": "https://open.spotify.com/track/4LeczIuZZz0JNLiCKc8pyj"
+    },
+    {
+      "album": {
+        "name": "Sun Forrest, Sun",
+        "url": "https://open.spotify.com/album/6kflJ83azDlLXFhvSyOoCr"
+      },
+      "artists": [
+        {
+          "name": "Howie Doowin",
+          "url": "https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Sun Forrest, Sun",
+      "url": "https://open.spotify.com/track/3XtKqHYn0bKPifnFTukNLX"
     },
     {
       "album": {
@@ -66318,6 +66336,28 @@
       "duration_ms": 194921,
       "name": "Whitetail",
       "url": "https://open.spotify.com/track/4g3YELIeXUqE0Riq1xhCjS"
+    },
+    {
+      "album": {
+        "name": "Who Are We",
+        "url": "https://open.spotify.com/album/0GsrMWjwpZOn14T7My0r0i"
+      },
+      "artists": [
+        {
+          "name": "Burrito Eats",
+          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116052,
+      "name": "Who Are We",
+      "url": "https://open.spotify.com/track/20pxIVsAEvIxbKwh3rjIju"
     },
     {
       "album": {

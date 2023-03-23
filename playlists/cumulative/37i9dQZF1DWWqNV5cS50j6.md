@@ -4,7 +4,7 @@
 
 > Curtis Waters makes anti pop
 
-1,314 songs - 2 day 15 hr 22 min
+1,315 songs - 2 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Bloom](https://open.spotify.com/track/253Sq7utuR9vchbNWyjyE4) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Mango](https://open.spotify.com/album/3N9piIqnt2BHomjXpg4BEe) | 5:02 | 2022-05-06 | 2022-05-28 |
 | [Blossom](https://open.spotify.com/track/57u4qXUFPo9MtMPTjQXv8Y) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Blossom](https://open.spotify.com/album/6Iv9EOdA8QZEugV2V5X0yd) | 1:54 | 2021-05-15 | 2021-10-14 |
 | [Blue](https://open.spotify.com/track/193bPH6VVqnEde43kRbn1W) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Blue](https://open.spotify.com/album/6GrrIAJtxjw5ZObE7ycNSY) | 3:20 | 2022-02-04 | 2022-03-01 |
-| [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-11-11 |  |
+| [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-11-11 | 2023-03-23 |
 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 | 2023-01-13 |  |
 | [Blue Sky](https://open.spotify.com/track/1z4dZhAeYPzlz0w0w4hvx6) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Blue Sky](https://open.spotify.com/album/0MO8idJcD9IGSaqT3u20g1) | 3:00 | 2020-10-13\* | 2021-02-27 |
 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 | 2021-05-03 | 2023-01-28 |
@@ -556,6 +556,7 @@
 | [I Do These Things For Me](https://open.spotify.com/track/1poPgBmgLdtk8WAv2l72UF) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [I Do These Things For Me](https://open.spotify.com/album/3g39CCs0ZYEFklrfe36e5N) | 2:56 | 2020-10-13\* | 2021-05-03 |
 | [I Don't Wanna Feel No More](https://open.spotify.com/track/4ZYsA9WtsL3sY7tqIXsfun) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [I Don't Wanna Feel No More](https://open.spotify.com/album/1RUZZKK3hKDRxbR94AFBnf) | 3:21 | 2020-12-04 | 2021-03-26 |
 | [i dont want that many friends in the first place](https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe) | [p4rkr](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv) | 1:49 | 2020-10-13\* | 2020-11-03 |
+| [i go we go](https://open.spotify.com/track/05CCHHEicXhqrtk3VO5SyG) | [2oo7](https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu), [Shai Nowell](https://open.spotify.com/artist/6uClb6xksR6JJJPRvAvES5), [DivineDevine](https://open.spotify.com/artist/2FmbdQRR6CJb0ZY5LW8bKJ) | [Bottles, Coughs, and Red Pandas](https://open.spotify.com/album/5kyLNDRZEiMCuMv7tTuHTj) | 3:27 | 2023-03-22 |  |
 | [i got it](https://open.spotify.com/track/09MQjbV6eiOAMmL3Uwus6P) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE) | [i got it](https://open.spotify.com/album/0DPNAxqZmxsG5cIIRu1mUq) | 3:33 | 2022-03-22 | 2022-07-01 |
 | [I Have a List of Names](https://open.spotify.com/track/4DeXZXlvnz7lUzsAaeIUCa) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [I Have a List of Names](https://open.spotify.com/album/5MxEXcfCMhQpXQPCA1WQmL) | 2:56 | 2021-01-30 | 2021-10-16 |
 | [I Heard You Bought a Gun](https://open.spotify.com/track/4mjzA3I0QhNNA3WRMqHK5t) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [you'll be dead before you know it](https://open.spotify.com/album/6KLiLpuoG3C6f6FuA7AICj) | 2:26 | 2022-03-29 | 2022-05-12 |
@@ -1238,7 +1239,7 @@
 | [VERY POLITE](https://open.spotify.com/track/0kPPe7BI7DNPs7sq8r8h5g) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [WARHOL](https://open.spotify.com/album/6PzT3pUgfTCOHWFwM6awDM) | 2:38 | 2021-05-29 | 2021-10-16 |
 | [Vest & Boxers](https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC) | 2:57 | 2022-11-30 |  |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-01-28 | 2022-12-26 |
-| [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [Dexter in the Newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 | 2023-03-20 |  |
+| [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter in the newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 | 2023-03-20 |  |
 | [VI\. Over](https://open.spotify.com/track/7u9tKpw8ja6POjwhUjxv7b) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [Tickle Pink Hotel](https://open.spotify.com/album/2qqPBcgbH4ydIAkMr1Pn5W) | 3:06 | 2022-07-22 | 2022-08-06 |
 | [Vibe Session 2](https://open.spotify.com/track/1mww40cWQK873rdKklWP7r) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM), [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js), [ria of mars](https://open.spotify.com/artist/0gtJJVbTPtOIhz5oKVVNhC) | [Vibe Session 2](https://open.spotify.com/album/4qIpFTCICoWrVcHwTsT6jA) | 3:33 | 2021-02-20 | 2022-02-12 |
 | [VII\. Bourbon](https://open.spotify.com/track/6bBdXtekjdoxo0gmgG3lvh) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [VII\. Bourbon](https://open.spotify.com/album/1qjiEbsRurvmj3kb4ZMFyJ) | 2:57 | 2022-02-11 | 2022-03-17 |

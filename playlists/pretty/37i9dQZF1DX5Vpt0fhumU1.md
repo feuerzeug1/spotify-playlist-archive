@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,107 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,210 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 15 | [Solea por Buleria](https://open.spotify.com/track/2dF6NArfoU0loSNs3VtRpa) | [Jaleo](https://open.spotify.com/artist/5Q48J2yjDOKzNIdmY0oExU) | [Jaleo: Flamenco Live](https://open.spotify.com/album/1UwLILJa8ApmLI5EAhy28w) | 9:29 |
 | 16 | [Herencia Latina](https://open.spotify.com/track/6JHbrhPppO84ab8K7cHPA1) | [Grupo Elias Duran](https://open.spotify.com/artist/34MmLK8qhpf5Q0BfxXs7UR) | [Spanish Tapas Bar, Vol\. 2](https://open.spotify.com/album/67rNWYVgI01pHZ80vFfVFs) | 4:50 |
 | 17 | [Siguiriya](https://open.spotify.com/track/4uN1QNG2bs8PlSW1nYP2B6) | [Jaleo](https://open.spotify.com/artist/5Q48J2yjDOKzNIdmY0oExU) | [Jaleo: Flamenco Live](https://open.spotify.com/album/1UwLILJa8ApmLI5EAhy28w) | 6:39 |
-| 18 | [Almas de Carmin](https://open.spotify.com/track/2C5dxcLw9FbI60cL3VcaRz) | [Chachi Ensemle, El](https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE) | [Manuel El Chachi Lopez\-Ruiz: Gypsy Rumba Flamenco](https://open.spotify.com/album/24dVmdybMczU8CmAmCDJ8E) | 3:30 |
+| 18 | [Almas de Carmin](https://open.spotify.com/track/6fvEciWFOgKZ7Ez2hGnxlf) | [Manuel Lopez\-Ruiz](https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo), [Chachi Ensemle, El](https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE) | [Gypsy Rumba Flamenco](https://open.spotify.com/album/5XbIzljPb6mwQcQpLnuIMQ) | 3:30 |
 | 19 | [A la repompa](https://open.spotify.com/track/1qTlInfzSjgaGbFo1q6jhT) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco Rumba](https://open.spotify.com/album/6Pth02lvYNd5mEAISGGb9r) | 4:31 |
 | 20 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 |
 | 21 | [Un Jardín De Amor](https://open.spotify.com/track/0tB9K5yKFC9vJPsZsZB17l) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Un Jardín De Amor](https://open.spotify.com/album/3nJ6jn0yfUEl1ic8qnGqiK) | 2:11 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 50 | [Bumblebeat](https://open.spotify.com/track/0aiqrNJkcz1xDGUD8HLrRz) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Mosaico](https://open.spotify.com/album/6PAB5rJADQ7HFjp0fzKjba) | 4:34 |
 | 51 | [En la Mancha](https://open.spotify.com/track/6qixM3ocxbC7JzrDg2YwrD) | [Mari Nieto](https://open.spotify.com/artist/1kpBaXhyD5w2NMYoklvChj), [Juan Antonio Torres](https://open.spotify.com/artist/1JXR84Lo1dOJcc8re1H5lw), [Viguela](https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF) | [Temperamento: Traditional Music from Spain](https://open.spotify.com/album/7hlw3I2DL1JV4uw99h5BtC) | 5:50 |
 
-Snapshot ID: `MTY2MTg2NjczNiwwMDAwMDAwMDRmYzc3NTQzY2E3NDhhYmZiY2Q3ZTJjZjU5NTJkM2Jj`
+Snapshot ID: `MTY2MTg2NjczNiwwMDAwMDAwMGRjMzRkMTViYjlkOWVkMGIwOGM5MjM4YmVlNDU2Y2Jm`

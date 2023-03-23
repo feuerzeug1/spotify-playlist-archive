@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-466 songs - 1 day 6 hr 48 min
+467 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [LOUDER](https://open.spotify.com/track/6el3HQiV8Mr0PtKULqjFcl) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [LOUDER](https://open.spotify.com/album/0LMs2Sa0fiAVmNYoQkBgCJ) | 3:55 | 2022-06-07 | 2023-01-13 |
 | [Love All Day](https://open.spotify.com/track/6n2knovRHmA6fAMdNrLp51) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Hylen](https://open.spotify.com/artist/1glUbGdkshgCb1d4ossJBi), [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Love All Day](https://open.spotify.com/album/0gev2jIsYX6xWMs2bP4JwM) | 3:35 | 2023-01-17 |  |
 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 | 2022-07-05 | 2022-07-13 |
+| [Love Letter](https://open.spotify.com/track/0p771me5mgbzHgZekj3iXD) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Junction Pop](https://open.spotify.com/album/6Fm1I5GiQwoxjYTXPZS4f9) | 3:44 | 2023-03-21 |  |
 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 | 2022-10-04 | 2023-02-08 |
 | [Love Me in the Night](https://open.spotify.com/track/0gOUA24O0POw1toZbcffgg) | [Girls Back Teen](https://open.spotify.com/artist/3oS9FQzXuX1OviySdt4Vrz) | [Love Me in the Night](https://open.spotify.com/album/2aeNemF87eMQS0Ow7gFQkK) | 2:48 | 2023-01-31 | 2023-02-08 |
 | [Love U true](https://open.spotify.com/track/6Ee2cUtg1YctkZgUHHGUUi) | [TeN](https://open.spotify.com/artist/13SGM3N74r68XG6d1OsECc), [TSUKKY](https://open.spotify.com/artist/2R2HBDzAhagkTfV4bNnP7p) | [Love U true](https://open.spotify.com/album/7aZJJn9XVacC1j0jVyU9GY) | 3:05 | 2022-09-29 | 2022-10-05 |
@@ -313,7 +314,7 @@
 | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw) | 3:58 | 2022-05-24 | 2022-07-28 |
 | [You Are Right](https://open.spotify.com/track/4SQZHCACaK0ND5eboX1Xgu) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [You Are Right](https://open.spotify.com/album/2CIh4fPlP3ReUCz4X3HA5y) | 3:47 | 2022-05-24 | 2022-07-27 |
 | [YOU+ME=](https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [TICKETS](https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z) | 2:51 | 2022-05-24 |  |
-| [your room](https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6) | 3:35 | 2022-10-25 | 2023-03-22 |
+| [your room](https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6) | 3:35 | 2022-10-25 |  |
 | [your room](https://open.spotify.com/track/1SQyaGfArVFSknUxwXzn80) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/7khBUxZhpj2K9019INmwGe) | 3:35 | 2022-10-25 | 2022-10-27 |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-07-07 |  |
 | [Zurukunai?](https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Zurukunai?](https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA) | 3:28 | 2022-08-02 |  |
@@ -373,7 +374,7 @@
 | [テレフォン・ナンバー](https://open.spotify.com/track/5aTbBqfHaRj4aEoz0GVkws) | [Rinapon](https://open.spotify.com/artist/5rTWFvJ8dggdYp0Kr4Ohcf) | [テレフォン・ナンバー](https://open.spotify.com/album/4iONxdOQkJzUX3uZt66ZsF) | 3:26 | 2022-06-30 | 2022-07-02 |
 | [ナイトダイバー](https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ナイトダイバー](https://open.spotify.com/album/2LC3a3j1xtw6bqFkRLBqWt) | 3:48 | 2022-05-24 | 2022-07-26 |
 | [ネオン](https://open.spotify.com/track/2vsTYBymdaF7WqQdlgKBu0) | [NORISTRY](https://open.spotify.com/artist/3sXpaXq06MLtZIMPjeIBDU) | [ネオン](https://open.spotify.com/album/72ghjGswM1Zyw4jQwAVBqd) | 3:23 | 2022-08-02 | 2022-08-10 |
-| [バッド・ラヴ](https://open.spotify.com/track/3snRYYwhtCnB73oyAB9PDM) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [バッド・ラヴ](https://open.spotify.com/album/0DjAPzvefBWotibQ5nWABf) | 3:41 | 2023-02-28 |  |
+| [バッド・ラヴ](https://open.spotify.com/track/3snRYYwhtCnB73oyAB9PDM) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [バッド・ラヴ](https://open.spotify.com/album/0DjAPzvefBWotibQ5nWABf) | 3:41 | 2023-02-28 | 2023-03-23 |
 | [パラドックス](https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/53VEqiQkkbIbRXr6JfLGW9) | 3:24 | 2022-05-31 | 2022-07-29 |
 | [ファジーサマー](https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ファジーサマー](https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd) | 2:56 | 2022-07-12 |  |
 | [ファミリイ・コンテンツ](https://open.spotify.com/track/67V5axrqkSQF6azx2GNAIj) | [ayU tokiO](https://open.spotify.com/artist/3hu4NDbJsdOALVe4K61lHE) | [ファミリイ・コンテンツ](https://open.spotify.com/album/7DWzRqtaOkiryJLcfVBo2m) | 3:17 | 2022-12-27 | 2023-01-27 |
@@ -390,7 +391,7 @@
 | [モナリザの涙](https://open.spotify.com/track/3M4oUMwKZTewN85bBzZoOM) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [モナリザの涙](https://open.spotify.com/album/42gLMIxChPhg6mriBI9Qtf) | 4:55 | 2022-07-12 | 2022-07-16 |
 | [ヤッチマイナ!](https://open.spotify.com/track/7zdHVg51ysEcEgOUT3ewpb) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [ヤッチマイナ!](https://open.spotify.com/album/7LrZpZh8gj3P5cHEon11UI) | 3:08 | 2023-03-21 |  |
 | [ラッキー・ドライブ](https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ラッキー・ドライブ](https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh) | 3:28 | 2022-07-26 | 2022-12-01 |
-| [ラブレター](https://open.spotify.com/track/7c7rjEaoqcCsDSVJ6KfBd3) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [JUNCTION POP](https://open.spotify.com/album/1NuQdox8SHt5RwgsojvXGF) | 3:44 | 2023-03-21 |  |
+| [ラブレター](https://open.spotify.com/track/7c7rjEaoqcCsDSVJ6KfBd3) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [JUNCTION POP](https://open.spotify.com/album/1NuQdox8SHt5RwgsojvXGF) | 3:44 | 2023-03-21 | 2023-03-23 |
 | [ランチタイム・ラブ](https://open.spotify.com/track/4IpYnXf5V3A6h0DS8UyFJL) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY), [オカモトコウキ](https://open.spotify.com/artist/7jiN2HCXOBi9W0ZJFwfGHi) | [ランチタイム・ラブ](https://open.spotify.com/album/2rVr0WAgddWIw5y4tO1rR8) | 5:08 | 2022-06-30 | 2022-07-06 |
 | [レイドバック・ミュージック](https://open.spotify.com/track/2zwqa4yBrwoTybWwm6Whs3) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [レイドバック・ミュージック](https://open.spotify.com/album/6EBNFErF2A9KQb2Jcjbfqq) | 4:07 | 2022-05-24 | 2022-07-27 |
 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 | 2022-10-18 |  |

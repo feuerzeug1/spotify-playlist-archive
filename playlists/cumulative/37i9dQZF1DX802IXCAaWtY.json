@@ -572,10 +572,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 210200,
       "name": "Hyper Hyper",
       "url": "https://open.spotify.com/track/417MeJ40upxxf3aNlr5Xbi"
+    },
+    {
+      "album": {
+        "name": "We See The Same Sun",
+        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
+      },
+      "artists": [
+        {
+          "name": "Mr. President",
+          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215066,
+      "name": "I Give You My Heart",
+      "url": "https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k"
     },
     {
       "album": {

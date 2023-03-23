@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-147 songs - 11 hr 51 min
+148 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Jabetli Ljah](https://open.spotify.com/track/7sIr0SWz4zeZRt8NuV112j) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Jabetli Ljah](https://open.spotify.com/album/5rHwMQTSEBYs2s2HRE7rcH) | 8:00 | 2021-10-19 |  |
 | [Jarima Electronia 2](https://open.spotify.com/track/270PYzhVwT8pdPyAZEGNRa) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Jarima Electronia 2](https://open.spotify.com/album/4bRkfEXwYPwzwPUDhQJW7W) | 4:10 | 2022-08-25 | 2022-09-07 |
 | [Jarima Iliktrouniya](https://open.spotify.com/track/20tf9xOw4V0y0wHgoLfTE7) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Jarima Iliktrouniya](https://open.spotify.com/album/5SnCFCzvjA7TxYg8KHI7FO) | 4:41 | 2021-10-19 |  |
-| [Je T'aime Je T'aime](https://open.spotify.com/track/2HZ7AzDhgUpwBS2VSeC3k8) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Je T'aime Je T'aime](https://open.spotify.com/album/0SnMz2VhIOZmpqM5urAJi3) | 4:13 | 2022-09-20 |  |
+| [Je T'aime Je T'aime](https://open.spotify.com/track/2HZ7AzDhgUpwBS2VSeC3k8) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Je T'aime Je T'aime](https://open.spotify.com/album/0SnMz2VhIOZmpqM5urAJi3) | 4:13 | 2022-09-20 | 2023-03-23 |
 | [Je t'aime Nabghik](https://open.spotify.com/track/0zfjT2rhnfNNU6fxU5VXZI) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Je t'aime Nabghik](https://open.spotify.com/album/5REaPr2bCKjE4spQvIJDdX) | 5:01 | 2021-10-19 | 2022-09-21 |
 | [Khada3a Spécialiste](https://open.spotify.com/track/2jD3erMPrQVxnVXRRGLutg) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Khada3a Spécialiste](https://open.spotify.com/album/51DtZ6PI6AjWTx6N8L6EYH) | 5:08 | 2021-10-19 |  |
 | [Khalinahalkom](https://open.spotify.com/track/4aKGsTXCnWaQbizUAzm79Z) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Akil Sghir](https://open.spotify.com/artist/0yY561ap6MKDzXlCf07O4p) | [Khalinahalkom](https://open.spotify.com/album/76nZsAEWzZRo3riJWGigqz) | 4:15 | 2021-10-19 | 2023-01-07 |
@@ -85,6 +85,7 @@
 | [La Vérité 3jabtini](https://open.spotify.com/track/64PcYzsiQA5O9AKzpILgmQ) | [Hbib Himoun](https://open.spotify.com/artist/4GzBsqkkdGxCTUeMehLzvQ), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [La Vérité 3jabtini](https://open.spotify.com/album/0YoNua511P9kqo0REoNDJN) | 4:37 | 2022-10-25 | 2022-11-05 |
 | [La Vérité 3jabtini](https://open.spotify.com/track/4cfGUQDE88NEMx3Md2cA72) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [La Vérité 3jabtini](https://open.spotify.com/album/0qAxk1LyqUAKV1jFdG3BE0) | 4:37 | 2022-10-30 | 2022-11-08 |
 | [Labset Katifa](https://open.spotify.com/track/57V60lq7u17cQVU2IFj0zT) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina & Fares Chaoui](https://open.spotify.com/artist/1wK0uONYm86jWiHVFDIxuF) | [Labset Katifa](https://open.spotify.com/album/7coxul1zOPL2xIM0tBnShD) | 5:22 | 2022-09-20 | 2022-09-28 |
+| [Lgalb Lgalb](https://open.spotify.com/track/1oBFL6Oi6gfVqpe6ma1SoD) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Lgalb Lgalb](https://open.spotify.com/album/4WfhNfj7kIHN0Y34eMA5nt) | 5:53 | 2023-03-22 |  |
 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 | 2022-09-20 |  |
 | [M3aya Makmltiche](https://open.spotify.com/track/6vWVRhoVbENz35zv318MYC) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [M3aya Makmltiche](https://open.spotify.com/album/6bLoK8mk3yCBsjGgIR3AKI) | 5:09 | 2022-11-14 | 2022-11-21 |
 | [Ma 3yat Ma Twasi](https://open.spotify.com/track/70Zj9LvRzFwmovJUsWusdg) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Ma 3yat Ma Twasi](https://open.spotify.com/album/3S84fRH5SD40IKJzkMZChH) | 4:44 | 2022-09-20 |  |

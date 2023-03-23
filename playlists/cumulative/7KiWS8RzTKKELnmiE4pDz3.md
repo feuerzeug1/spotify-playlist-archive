@@ -4,7 +4,7 @@
 
 > 
 
-405 songs - 18 hr 0 min
+408 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Fashion Habits](https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 3:21 | 2022-10-31 |  |
 | [Filet Mignon](https://open.spotify.com/track/5VwJFzUBZbJQnxcTtvKQJT) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:38 | 2023-01-07 | 2023-03-22 |
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-11-28 |  |
+| [Fish & Chips](https://open.spotify.com/track/0L06mPuSfUUGoOzK3fa9zD) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 2:53 | 2023-03-22 |  |
 | [Fly as Hell](https://open.spotify.com/track/47qTVdjyUwVHRhc0qXKaPE) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Fly as Hell](https://open.spotify.com/album/5DvcMxy9ECEqMxcdO0zvFo) | 2:16 | 2022-11-23 |  |
 | [Free Me](https://open.spotify.com/track/5tLXeCSifkKGCieDgEgwxQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free Me](https://open.spotify.com/album/6V23UK6DifxHQMxE1NptsN) | 2:35 | 2022-12-30 |  |
 | [Free Young Thug](https://open.spotify.com/track/7LFvmOPOmBMMIb57swvhQm) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:29 | 2023-01-07 |  |
@@ -242,6 +243,7 @@
 | [My Collection!](https://open.spotify.com/track/4Hn7NbJ6thvvclZxz74yj8) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC2 \#\#B4GC2](https://open.spotify.com/album/5c2It0s5mFF54999njBo3L) | 2:36 | 2022-08-05 |  |
 | [My Way Out](https://open.spotify.com/track/0qiWnrmi9yBjfqyPbYXPMi) | [Fulcrum](https://open.spotify.com/artist/6nbidWb6qovzknhOdeExt7) | [My Way Out](https://open.spotify.com/album/3Pq3unl3zli2vWiK1UeiFy) | 2:07 | 2023-01-09 |  |
 | [Myself!](https://open.spotify.com/track/1OIsxL4PVsEE9rSrdu93Co) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:03 | 2022-11-02 |  |
+| [Mysëlf](https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:30 | 2023-03-22 |  |
 | [Nah Mean](https://open.spotify.com/track/3W2FgXliJL6SCGIrJ7vKNv) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [3AM Vibes](https://open.spotify.com/album/3orPhMBlpm0MQDS9ZuZxsI) | 2:04 | 2022-12-23 |  |
 | [Never](https://open.spotify.com/track/0xX2DrW4nMot1KgwvW5ahh) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [ZaySkillz](https://open.spotify.com/artist/5JUrIP5DHSQXe9TF11fjzS), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 2:55 | 2022-07-17 |  |
 | [Never Forget](https://open.spotify.com/track/3haDFkQVqexHwwxVNU5BHh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:19 | 2022-12-19 |  |
@@ -291,6 +293,7 @@
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-27 | 2023-03-01 |
 | [Pole Up](https://open.spotify.com/track/5EIXidjeXvKcPvCIMbmdu1) | [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [Pole Up](https://open.spotify.com/album/1Byq2kGSGvZgBbJpakcX8L) | 2:06 | 2023-01-07 |  |
 | [Poppin](https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:47 | 2023-01-06 |  |
+| [Poppin \(feat\. Lil Tecca\)](https://open.spotify.com/track/0tQN4n9UEqIOCffahbeOHL) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Evolution](https://open.spotify.com/album/3nxk4XwXGAiV625DPvgjAA) | 2:53 | 2023-03-22 |  |
 | [Porridge](https://open.spotify.com/track/1nkF0p4LX4h39DxwXXjus5) | [Maitchhh, Ion999](https://open.spotify.com/artist/2jJ3dHmsUVS70WcJidjy0P) | [Porridge](https://open.spotify.com/album/57dEzkP0hlWxeE7HbSm5R9) | 3:36 | 2022-06-30 |  |
 | [Portrayal!](https://open.spotify.com/track/22DtsLext8dWgV3PBYrmxi) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Portrayal!](https://open.spotify.com/album/44Ieuq8XEqoNxkvcN02jBd) | 2:30 | 2023-01-23 |  |
 | [Pot Roast \(feat\. Key Glock\)](https://open.spotify.com/track/4lGVw2ckNgm2rvVySj7qTP) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:18 | 2023-02-28 |  |

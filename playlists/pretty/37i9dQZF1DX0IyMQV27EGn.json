@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 608938,
+  "num_followers": 608977,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDc4NDI5YjNmMDhiYjk1NTg2ZjNlYzZmNDM4N2JmNDhi",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGRlZjdjZGRjZDJhYzIzOTA2Yjc5OTVlZGM0YjI2Mjg5",
   "tracks": [
     {
       "added_at": "2022-07-22 02:11:14",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/0tSfnn1iUiahyqp1m8y3TI"
-      },
-      "artists": [
-        {
-          "name": "Greta Isaac",
-          "url": "https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN"
-        }
-      ],
-      "duration_ms": 195993,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4RAtSYcB1avIFHPhulXVxA"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
         "name": "In Loving Memory of When I Gave a Shit",
         "url": "https://open.spotify.com/album/5o32Ftd7SS0EKIQlFwubH4"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 164586,
       "name": "Not Gonna Let You Walk Away",
       "url": "https://open.spotify.com/track/0UyCF0hctdZJomjdzDibPB"
+    },
+    {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0tSfnn1iUiahyqp1m8y3TI"
+      },
+      "artists": [
+        {
+          "name": "Greta Isaac",
+          "url": "https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN"
+        }
+      ],
+      "duration_ms": 195993,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4RAtSYcB1avIFHPhulXVxA"
     },
     {
       "added_at": "2022-07-22 02:11:14",

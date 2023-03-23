@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-396 songs - 21 hr 4 min
+397 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [La miss](https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 4:01 | 2022-04-14 | 2022-05-16 |
 | [Lag'é Penetrá](https://open.spotify.com/track/1lDo1X8v3ua8gnC35tMECP) | [Da Ridlaz](https://open.spotify.com/artist/6pFfQlFLTkmSMes6mZysCj), [Hnly](https://open.spotify.com/artist/4CwqaspIyu13WLrhYbHLNJ) | [Lag'é Penetrá](https://open.spotify.com/album/4Mhd9TxfbM4uuCCIhpAxE5) | 3:54 | 2022-03-10 | 2022-04-15 |
 | [Lagrimas](https://open.spotify.com/track/6myPV2uNaOOvnMXJhHJqlI) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Lagrimas](https://open.spotify.com/album/5RxpXMJneQXaCAWXZwrxRa) | 2:10 | 2021-12-16 |  |
-| [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-13 |  |
+| [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-13 | 2023-03-23 |
+| [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2023-03-16 |  |
 | [Le temps](https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \(Donum Novae\)](https://open.spotify.com/album/1wfBteislDojq5pAYJufME) | 3:17 | 2021-12-16 |  |
 | [Leader](https://open.spotify.com/track/7sxlE9aBtkKW5jQeu6gM84) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [Leader \- Single](https://open.spotify.com/album/1ukTj05773QcCG0pGuCzKl) | 3:16 | 2021-12-16 | 2022-04-15 |
 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2023-03-02 |  |

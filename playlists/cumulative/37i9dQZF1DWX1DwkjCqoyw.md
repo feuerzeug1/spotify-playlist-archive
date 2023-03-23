@@ -4,7 +4,7 @@
 
 > Shenseea bringing you massive island vibes for her Island Pop takeover.
 
-117 songs - 5 hr 54 min
+118 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Jolene](https://open.spotify.com/track/6B1si3DuUOmVaWQ53GijZh) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [Jolene](https://open.spotify.com/album/3S8m8x31vQLl4I4R4gqA88) | 3:15 | 2022-02-24 | 2022-08-19 |
 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 | 2021-12-20 | 2022-08-19 |
 | [Just Like That](https://open.spotify.com/track/20tHO9IvBzrUCAVrWKvDxI) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Sun Roof Riddim](https://open.spotify.com/album/5e17Hox0IiEaQ2A2CldE9A) | 2:23 | 2021-12-20 | 2022-08-19 |
-| [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-08-18 |  |
+| [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-08-18 | 2023-03-23 |
+| [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-08-18 |  |
 | [Life of The Party \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/0pr4GCCxBMalnhXlkh7i54) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Life of The Party \(feat\. Young T & Bugsey\)](https://open.spotify.com/album/3x036OmiMdcjYSjQ3Tjc8Q) | 2:46 | 2021-12-20 | 2022-02-25 |
 | [Lighter](https://open.spotify.com/track/7CUN0vUHWCCC6k0q7VetJe) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Healing](https://open.spotify.com/album/7ney1rLIvPE3TkvYPS0fDz) | 2:04 | 2021-12-20 | 2022-07-29 |
 | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Lighter \(with Tarrus Riley & Rvssian\)](https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq) | 2:04 | 2022-03-18 | 2022-08-19 |

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 10720,
+  "num_followers": 10747,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUyMjU1MywwMDAwMDAwMGRlMTEyYmVjODczMTk2YzhmNzRiZGNmMzIxMjVkMjE0",
+  "snapshot_id": "MTY3ODUyMjU1MywwMDAwMDAwMGJkNzdjOWRlNDAyZWFmNDRjOWI2MTQwMmZiNWY2ZDJl",
   "tracks": [
     {
       "added_at": "2023-03-11 08:15:53",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-03-11 08:15:53",
       "album": {
-        "name": "Marry Me",
-        "url": "https://open.spotify.com/album/0qkWVEZ616XWGaxME5RyHP"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/7BNV7EACj2jSl0fdiG6726"
-    },
-    {
-      "added_at": "2023-03-11 08:15:53",
-      "album": {
         "name": "Dearest (feat. Sllo)",
         "url": "https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-03-11 08:15:53",
       "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/0qkWVEZ616XWGaxME5RyHP"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/7BNV7EACj2jSl0fdiG6726"
+    },
+    {
+      "added_at": "2023-03-11 08:15:53",
+      "album": {
         "name": "INTERVIEW",
         "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 195293,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
+    },
+    {
+      "added_at": "2023-03-11 08:15:53",
+      "album": {
+        "name": "A-TEEN2 Part.1",
+        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
     },
     {
       "added_at": "2023-03-11 08:15:53",
@@ -1015,22 +1031,6 @@
       "duration_ms": 220186,
       "name": "You Move Me (feat. SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
-    },
-    {
-      "added_at": "2023-03-11 08:15:53",
-      "album": {
-        "name": "A-TEEN2 Part.1",
-        "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

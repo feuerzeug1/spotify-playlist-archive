@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Townix
 
-796 songs - 2 day 9 hr 7 min
+797 songs - 2 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,8 @@
 | [Nombre Sin Igual](https://open.spotify.com/track/3ZqoLbKwihizc1j3wJErNK) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Nombre Sin Igual](https://open.spotify.com/album/2gWvx9CJ0IWXtBoBA7VZem) | 4:18 | 2022-10-07 | 2022-12-10 |
 | [Nubes](https://open.spotify.com/track/3lKlApf4R2kgiD9Lim9dMZ) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Nubes](https://open.spotify.com/album/3MSk7DD57l7CqyCIZl6hVQ) | 4:03 | 2022-10-14 | 2023-01-06 |
 | [Nuestra Voz](https://open.spotify.com/track/5v7uA7ZaaCrpEfxGOimB4u) | [Melvin Cabrera](https://open.spotify.com/artist/1AXkZowXTv4nvr5ICkarK7), [A\-Live](https://open.spotify.com/artist/7cly0HuCrIAxZLN7Dq8dk0), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Nuestra Voz](https://open.spotify.com/album/0HR8bigfrW19fdl8Ua6LXm) | 5:32 | 2023-02-25 |  |
-| [Nuevo Soy \(La La La\) \- Remix](https://open.spotify.com/track/4wu17I8CIjOpE15SIt7XRn) | [MSHO](https://open.spotify.com/artist/5yGIs2BAPBGVyHpT20EPUS), [Karen Campos](https://open.spotify.com/artist/4Ok5c9Eq7Z4FxHqScr6hOw), [Different Music](https://open.spotify.com/artist/6vu278gsDGzgVOYNvI6SzR) | [Nuevo Soy \(La La La\) \[Remix\]](https://open.spotify.com/album/06xtluVKkVsvFqSCYJGkDK) | 3:24 | 2023-03-10 |  |
+| [Nuevo Soy \(La La La\) \- Remix](https://open.spotify.com/track/4wu17I8CIjOpE15SIt7XRn) | [MSHO](https://open.spotify.com/artist/5yGIs2BAPBGVyHpT20EPUS), [Karen Campos](https://open.spotify.com/artist/4Ok5c9Eq7Z4FxHqScr6hOw), [Different Music](https://open.spotify.com/artist/6vu278gsDGzgVOYNvI6SzR) | [Nuevo Soy \(La La La\) \[Remix\]](https://open.spotify.com/album/06xtluVKkVsvFqSCYJGkDK) | 3:24 | 2023-03-10 | 2023-03-23 |
+| [Nuevo Soy \(Remix\)](https://open.spotify.com/track/6zNM9MEcNy3pB5SFs8urlp) | [MSHO](https://open.spotify.com/artist/5yGIs2BAPBGVyHpT20EPUS), [Different Music](https://open.spotify.com/artist/6vu278gsDGzgVOYNvI6SzR), [Karen Campos](https://open.spotify.com/artist/4Ok5c9Eq7Z4FxHqScr6hOw) | [Nuevo Soy \(Remix\)](https://open.spotify.com/album/216WijuWAq10hVXW6jmwHP) | 3:24 | 2023-03-17 |  |
 | [Nunca Fallas](https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu) | [MIMY](https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Nunca Fallas](https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2) | 5:39 | 2023-03-17 |  |
 | [Nunca Me Dejas](https://open.spotify.com/track/17JM9K2flrvggQ1eMoZH2v) | [Joivan Jimenez](https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu), [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5) | [Nunca Me Dejas](https://open.spotify.com/album/2qSeri8SLFoMaGDYdMCFmC) | 3:56 | 2022-09-02 | 2022-11-05 |
 | [Oh, Tu Fidelidad / Santo, Santo](https://open.spotify.com/track/3xN7kIEbHBVnVywFDACZ5A) | [Primera Fe](https://open.spotify.com/artist/0nKPBGMIpJlCtmIdnh6Wpw) | [Acústico](https://open.spotify.com/album/4OEfWeaFqBoJjKLERuch4p) | 6:05 | 2023-02-03 | 2023-03-18 |

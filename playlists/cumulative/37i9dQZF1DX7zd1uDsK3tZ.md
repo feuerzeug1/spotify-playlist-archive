@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7zd1uDsK3tZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7zd1uDsK3tZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7zd1uDsK3tZ)
 
-### [Sunny Side Up](https://open.spotify.com/playlist/37i9dQZF1DX7zd1uDsK3tZ)
+### [Sunday Brunch](https://open.spotify.com/playlist/37i9dQZF1DX7zd1uDsK3tZ)
 
 > Classic tunes served over easy for the perfect brunch soundtrack.
 

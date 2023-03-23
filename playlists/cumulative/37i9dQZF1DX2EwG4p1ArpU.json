@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Bokurano",
+        "url": "https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235797,
+      "name": "Kororon",
+      "url": "https://open.spotify.com/track/7fKFmrw1RSwU5a9vCwk155"
+    },
+    {
+      "album": {
         "name": "Kaizin",
         "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
       },
@@ -790,6 +808,24 @@
       "duration_ms": 246713,
       "name": "Okinimesumama",
       "url": "https://open.spotify.com/track/4ly9rdCe3PvcYZdAN72T3b"
+    },
+    {
+      "album": {
+        "name": "Bokurano",
+        "url": "https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206036,
+      "name": "Ougon No Hibi",
+      "url": "https://open.spotify.com/track/4AjvNnE1FWK8kz0p85qrWS"
     },
     {
       "album": {
@@ -1096,7 +1132,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 235797,
       "name": "\u864e\u72fc\u6765",
       "url": "https://open.spotify.com/track/4cULlSu8XPFcZiQ63WfHeZ"
@@ -1132,7 +1168,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 206036,
       "name": "\u9ec4\u91d1\u306e\u65e5\u3005",
       "url": "https://open.spotify.com/track/0lWo402BbKVikJ8A6fADdD"

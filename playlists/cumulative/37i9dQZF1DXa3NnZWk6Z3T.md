@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-315 songs - 18 hr 9 min
+316 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Déjame Vivir](https://open.spotify.com/track/4AvEpgFqPMZxGvB5PAMwSm) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 3:34 | 2022-05-14 | 2022-10-28 |
 | [Déjame Vivir](https://open.spotify.com/track/644yCL4wlubltqF7hBPQtp) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 3:34 | 2021-12-09 | 2022-07-08 |
 | [El Solitario Amor](https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [The French Kiss](https://open.spotify.com/artist/6qFbQxxc80ar3IYpWTXKzg) | [El Solitario Amor](https://open.spotify.com/album/2AieUifG2ARpFMgKgO9LUO) | 2:55 | 2021-12-09 | 2023-01-15 |
-| [Ella](https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:50 | 2022-05-14 |  |
+| [Ella](https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:50 | 2022-05-14 | 2023-03-23 |
 | [Elo](https://open.spotify.com/track/5myvcDXAJk9igYbcVIYlFq) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [LADAMA](https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6) | 4:25 | 2022-04-07 | 2022-05-25 |
 | [Emotion](https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion](https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx) | 3:53 | 2022-09-21 |  |
 | [Emotion \(Acoustic\)](https://open.spotify.com/track/5autpDsh1H9Ltf5bNztuA2) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion \(Acoustic\)](https://open.spotify.com/album/6L1MryypRIVPUz3GFtXTRK) | 3:53 | 2021-12-09 | 2022-07-29 |
@@ -162,6 +162,7 @@
 | [La Peninsula](https://open.spotify.com/track/5OtvhDI7MTXUNJD4bd4RhZ) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz](https://open.spotify.com/album/6UJu3BPFmTGvzclsV8k4bI) | 3:00 | 2022-12-30 |  |
 | [La Sanadora](https://open.spotify.com/track/0GxzmQ5sE5Uq50LkQB3DO4) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [La Sanadora](https://open.spotify.com/album/4OvtUIqRsuqKFKRWABUTCy) | 4:27 | 2022-04-07 | 2022-04-19 |
 | [Las Mujeres](https://open.spotify.com/track/4ptFkLzF301C97kaA3xizH) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 3:30 | 2021-12-09 | 2022-07-29 |
+| [Libre](https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Libre](https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd) | 4:39 | 2023-03-15 |  |
 | [Libro Abierto](https://open.spotify.com/track/4NCxiDoRQGgBW5Ja0FHIiC) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Libro Abierto](https://open.spotify.com/album/3uA0bh0VM1Qu2dcwt2ZmsV) | 3:03 | 2021-12-09 |  |
 | [Life Is Everything](https://open.spotify.com/track/13YGtUizphOZtVnpeZskTk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [All I Know](https://open.spotify.com/album/4mmotbe2IhNrsRt7dHLt9e) | 3:53 | 2021-12-09 | 2022-10-21 |
 | [Llegué hasta ti \(feat\. Juanito Makandé\)](https://open.spotify.com/track/1JnrSFltARbpAUX4kuJ36k) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Juanito Makandé](https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z) | [Llegué hasta ti \(feat\. Juanito Makandé\)](https://open.spotify.com/album/3GGoeVNdy9IpN0f2nGRQqW) | 3:14 | 2021-12-09 |  |

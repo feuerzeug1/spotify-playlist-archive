@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 225817,
+  "num_followers": 226045,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMGE0ZTIwOWE4MzFhZmJkMjRmNmY4OTFjY2MwN2U1NmUz",
+  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDcxN2U1ZGFjMjlmYmRiYmFiYzk2MDk1ZjBiYWVjZDFm",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Fear Network II",
-        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 87774,
-      "name": "Crash 'n Learn",
-      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Intoxicated",
@@ -323,6 +307,22 @@
       "duration_ms": 183900,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Fear Network II",
+        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 87774,
+      "name": "Crash 'n Learn",
+      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "From Voodoo to Zen",
-        "url": "https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8"
-      },
-      "artists": [
-        {
-          "name": "Tides From Nebula",
-          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
-        }
-      ],
-      "duration_ms": 289289,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Moot",
         "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 245664,
       "name": "Moot",
       "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "From Voodoo to Zen",
+        "url": "https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8"
+      },
+      "artists": [
+        {
+          "name": "Tides From Nebula",
+          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
+        }
+      ],
+      "duration_ms": 289289,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Into The Void",
         "url": "https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL"
       },
@@ -1035,18 +1019,34 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
       "artists": [
         {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
         }
       ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "WHATS UP?",
+        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
+      },
+      "artists": [
+        {
+          "name": "BVDLVD",
+          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "WHATS UP?",
+      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "WHATS UP?",
-        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
       },
       "artists": [
         {
-          "name": "BVDLVD",
-          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
         }
       ],
-      "duration_ms": 168160,
-      "name": "WHATS UP?",
-      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Providencia",
+        "url": "https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL"
+      },
+      "artists": [
+        {
+          "name": "Huszar",
+          "url": "https://open.spotify.com/artist/1l1A8JuXGHt8QY7W37dU9C"
+        }
+      ],
+      "duration_ms": 444306,
+      "name": "Providencia III - La Flora Que Crece Alrededor de Nuestras Catedrales",
+      "url": "https://open.spotify.com/track/40ka2TBKZf7bPubTAE4xHT"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "May Our Chambers Be Full",
         "url": "https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc"
       },
@@ -1273,38 +1289,6 @@
       "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Providencia",
-        "url": "https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL"
-      },
-      "artists": [
-        {
-          "name": "Huszar",
-          "url": "https://open.spotify.com/artist/1l1A8JuXGHt8QY7W37dU9C"
-        }
-      ],
-      "duration_ms": 444306,
-      "name": "Providencia III - La Flora Que Crece Alrededor de Nuestras Catedrales",
-      "url": "https://open.spotify.com/track/40ka2TBKZf7bPubTAE4xHT"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "\u00c1mr",
-        "url": "https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y"
-      },
-      "artists": [
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Arcana Imperii",
-      "url": "https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Going Under",
@@ -1325,6 +1309,38 @@
       "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "\u00c1mr",
+        "url": "https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "duration_ms": 293173,
+      "name": "Arcana Imperii",
+      "url": "https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Pyroclasts",
+        "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
+      },
+      "artists": [
+        {
+          "name": "sunn O)))",
+          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
+        }
+      ],
+      "duration_ms": 656933,
+      "name": "Frost (C)",
+      "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "REB00T MYSELF (feat. Tired Violence)",
@@ -1343,22 +1359,6 @@
       "duration_ms": 184840,
       "name": "REB00T MYSELF (feat. Tired Violence)",
       "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Pyroclasts",
-        "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
-      },
-      "artists": [
-        {
-          "name": "sunn O)))",
-          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
-        }
-      ],
-      "duration_ms": 656933,
-      "name": "Frost (C)",
-      "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
     },
     {
       "added_at": "2022-11-18 01:42:16",

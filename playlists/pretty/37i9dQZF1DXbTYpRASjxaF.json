@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Yung Nobre, Kyan",
-  "num_followers": 98594,
+  "num_followers": 98692,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMyODExMywwMDAwMDAwMGVkNDZlZGYwNGJlODI1ZDEwZTMxYzY4ZmNiYjEzODBj",
+  "snapshot_id": "MTY3OTMyODExMywwMDAwMDAwMDc0Y2ZkYjhlZDgxZDRlNGUwMDFlNWMxNWRhZGMyMzI4",
   "tracks": [
     {
       "added_at": "2023-03-20 16:01:53",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2023-03-20 16:01:53",
       "album": {
+        "name": "Qatar Freestyle (Papatracks #9)",
+        "url": "https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Qatar Freestyle (Papatracks #9)",
+      "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
+    },
+    {
+      "added_at": "2023-03-20 16:01:53",
+      "album": {
         "name": "Mente De Malandra",
         "url": "https://open.spotify.com/album/1sLCamkWClqfoHWNKNVmjo"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 202816,
       "name": "Mente De Malandra",
       "url": "https://open.spotify.com/track/60wLSEv4bIBe3zfyTKFcpO"
-    },
-    {
-      "added_at": "2023-03-20 16:01:53",
-      "album": {
-        "name": "Qatar Freestyle (Papatracks #9)",
-        "url": "https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Qatar Freestyle (Papatracks #9)",
-      "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
     },
     {
       "added_at": "2023-03-20 16:01:53",

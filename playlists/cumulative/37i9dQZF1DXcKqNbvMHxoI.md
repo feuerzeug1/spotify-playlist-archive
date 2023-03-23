@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-152 songs - 10 hr 22 min
+153 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Leave It](https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [What If? / Leave It](https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8) | 3:52 | 2022-07-19 | 2022-07-27 |
 | [Light Up](https://open.spotify.com/track/3E4yJkELxoD49M4cd113EQ) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/7p3Oql1lQymTJCpW9N7KoQ) | 3:48 | 2022-02-04 | 2022-10-14 |
 | [Light Up](https://open.spotify.com/track/3UttVkIDEczHL8wb2JUas0) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Light Up](https://open.spotify.com/album/28YxcvOmLBAade532hXQaA) | 3:48 | 2022-07-26 | 2022-11-13 |
-| [Light Up](https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5) | 3:48 | 2022-07-26 |  |
+| [Light Up](https://open.spotify.com/track/4O9wdZGwvJKTeeJGUEa00K) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/7xE3fSS22cJBxMCuQmtA9E) | 3:48 | 2022-07-26 |  |
+| [Light Up](https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5) | 3:48 | 2022-07-26 | 2023-03-23 |
 | [Like a Ship](https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV) | [Pastor T.L\. Barrett and the Youth for Christ Choir](https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA) | [Like a Ship \(Without a Sail\)](https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz) | 4:38 | 2022-07-19 | 2022-07-27 |
 | [Little Girl](https://open.spotify.com/track/6MWW1R6QcvgZOJ27ANqb9j) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/3vwyoOkfnsK1cr4kIknmnz) | 4:12 | 2022-07-26 |  |
 | [Little Girl](https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/65Omxu0Zx1jcdJhLJ4OuRw) | 4:12 | 2022-02-04 | 2022-11-20 |

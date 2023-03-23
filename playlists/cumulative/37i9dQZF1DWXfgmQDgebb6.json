@@ -2447,6 +2447,32 @@
     },
     {
       "album": {
+        "name": "I would",
+        "url": "https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        },
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205564,
+      "name": "I would",
+      "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
+    },
+    {
+      "album": {
         "name": "The Sandwich Artist",
         "url": "https://open.spotify.com/album/4qCXJvhE5llqnGPQAVIsxO"
       },
@@ -3416,7 +3442,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 182394,
       "name": "New",
       "url": "https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W"

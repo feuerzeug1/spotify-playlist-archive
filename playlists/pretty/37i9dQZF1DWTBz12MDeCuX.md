@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: MAJAN, Schmyt
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,423 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,676 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 15 | [MR\. MEYER](https://open.spotify.com/track/414rOgwyJUcY49sGW5CsZy) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [MR\. MEYER](https://open.spotify.com/album/40UKsm4Xvm08BNf68th3PV) | 3:51 |
 | 16 | [One Call away <3](https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 2:18 |
 | 17 | [Gekreuzte Finger](https://open.spotify.com/track/3qLNG3UvIe2G3DQ0XGMeEY) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Insomnia](https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6) | 2:50 |
-| 18 | [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 |
+| 18 | [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2XaiURwGQms1VdnIyhFdOK) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 |
 | 19 | [Hallow Kitty](https://open.spotify.com/track/3YONiGJ9VB9KvpXEHgLMjF) | [Kwam.E](https://open.spotify.com/artist/4H9W4cb3X0qRpv87yKV7fV), [OVE](https://open.spotify.com/artist/42RwQlOWDVzGRQVa61O8VV) | [Hallow Kitty](https://open.spotify.com/album/7DPL8ClopefjZeWVAIggXg) | 3:27 |
 | 20 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
 | 21 | [HOODIE](https://open.spotify.com/track/6sk1aE3qhb9y13TjOJgzuS) | [AMIR THE KID](https://open.spotify.com/artist/0uA9p2gKEXB9LHE0JGxHV2) | [HOODIE](https://open.spotify.com/album/0Ot6YEKUMWgPAuUFfXbal5) | 2:12 |

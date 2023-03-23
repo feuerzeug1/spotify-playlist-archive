@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 13135,
+  "num_followers": 13166,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk5NjYzOSwwMDAwMDAwMDQ4NDMyMDE3YWM3MWFjNDU1Njc1MDUwMjQ1YjcyNGI3",
+  "snapshot_id": "MTY3ODk5NjYzOSwwMDAwMDAwMDEzYWQ3ODk0MzgwM2M0MzgzYzVlZDNlMjYwNzU0YjZj",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -289,6 +289,54 @@
       "url": "https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W"
     },
     {
+      "added_at": "2022-09-15 13:03:39",
+      "album": {
+        "name": "Diaspora Urkontinent",
+        "url": "https://open.spotify.com/album/4u3piRvbk4dns3RbMla1a2"
+      },
+      "artists": [
+        {
+          "name": "Barry Walker Jr.",
+          "url": "https://open.spotify.com/artist/1dCLEg0dKASY0PSsOOrA3Z"
+        }
+      ],
+      "duration_ms": 148250,
+      "name": "Ediacaran Moonrise",
+      "url": "https://open.spotify.com/track/4zcSOD3J1JJjCW1HnGhGSf"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Introspection (Edit)",
+        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 155411,
+      "name": "Introspection - Edit",
+      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
+    },
+    {
+      "added_at": "2023-03-16 19:57:19",
+      "album": {
+        "name": "2 Years / 2 Years in Silence",
+        "url": "https://open.spotify.com/album/7998r3QuCkCHSE6QwCQGW1"
+      },
+      "artists": [
+        {
+          "name": "Kazufumi Kodama & Undefined",
+          "url": "https://open.spotify.com/artist/0r4i5FbO3FinPDsWKpWKHA"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Pale Purple Flower",
+      "url": "https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7"
+    },
+    {
       "added_at": "2022-01-14 00:06:38",
       "album": {
         "name": "Cabara\u00fa",
@@ -325,38 +373,6 @@
       "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
     },
     {
-      "added_at": "2023-03-16 19:57:19",
-      "album": {
-        "name": "2 Years / 2 Years in Silence",
-        "url": "https://open.spotify.com/album/7998r3QuCkCHSE6QwCQGW1"
-      },
-      "artists": [
-        {
-          "name": "Kazufumi Kodama & Undefined",
-          "url": "https://open.spotify.com/artist/0r4i5FbO3FinPDsWKpWKHA"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Pale Purple Flower",
-      "url": "https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Introspection (Edit)",
-        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
-      },
-      "artists": [
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
-        }
-      ],
-      "duration_ms": 155411,
-      "name": "Introspection - Edit",
-      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
-    },
-    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "II",
@@ -371,22 +387,6 @@
       "duration_ms": 130986,
       "name": "My Gull",
       "url": "https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j"
-    },
-    {
-      "added_at": "2022-09-15 13:03:39",
-      "album": {
-        "name": "Diaspora Urkontinent",
-        "url": "https://open.spotify.com/album/4u3piRvbk4dns3RbMla1a2"
-      },
-      "artists": [
-        {
-          "name": "Barry Walker Jr.",
-          "url": "https://open.spotify.com/artist/1dCLEg0dKASY0PSsOOrA3Z"
-        }
-      ],
-      "duration_ms": 148250,
-      "name": "Ediacaran Moonrise",
-      "url": "https://open.spotify.com/track/4zcSOD3J1JJjCW1HnGhGSf"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -617,6 +617,22 @@
       "url": "https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy"
     },
     {
+      "added_at": "2022-03-16 01:06:51",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
+      },
+      "artists": [
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        }
+      ],
+      "duration_ms": 316285,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
+    },
+    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "SUNDAYS",
@@ -655,22 +671,6 @@
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
-    },
-    {
-      "added_at": "2022-03-16 01:06:51",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 316285,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -951,6 +951,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Children of the Sun",
+        "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
+      },
+      "artists": [
+        {
+          "name": "S A D",
+          "url": "https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU"
+        }
+      ],
+      "duration_ms": 285338,
+      "name": "Desert Wax",
+      "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -991,34 +1007,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Children of the Sun",
-        "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
+        "name": "Beyond Contact",
+        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
       },
       "artists": [
         {
-          "name": "S A D",
-          "url": "https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU"
+          "name": "Vivian Koch",
+          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
         }
       ],
-      "duration_ms": 285338,
-      "name": "Desert Wax",
-      "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Omprovo",
-      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
+      "duration_ms": 232867,
+      "name": "Closed - Yosemite Version",
+      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Beyond Contact",
-        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
       "artists": [
         {
-          "name": "Vivian Koch",
-          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 232867,
-      "name": "Closed - Yosemite Version",
-      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
+      "duration_ms": 160000,
+      "name": "Omprovo",
+      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
     },
     {
       "added_at": "2021-10-20 18:30:26",

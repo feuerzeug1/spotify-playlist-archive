@@ -8060,7 +8060,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 261120,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG"
@@ -11423,6 +11423,24 @@
     },
     {
       "album": {
+        "name": "HOLD YOU",
+        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "HOLD YOU",
+      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi"
       },
@@ -11478,7 +11496,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 266000,
       "name": "Hologram",
       "url": "https://open.spotify.com/track/210bt3QeLgxfbcSKikEeNT"
@@ -14798,7 +14816,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 228577,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k"
@@ -17048,7 +17066,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 187990,
       "name": "Motion",
       "url": "https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll"
@@ -19006,7 +19024,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 167804,
       "name": "One Day",
       "url": "https://open.spotify.com/track/2wwlAcqUIcvHNi3w2YWkZv"
@@ -26278,7 +26296,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 209364,
       "name": "To Feel Alive",
       "url": "https://open.spotify.com/track/52Ef7FHOaP7KRzlhTrw8LC"
@@ -27028,7 +27046,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 197419,
       "name": "Until We Leave the Ground - Steve James Remix",
       "url": "https://open.spotify.com/track/3PslwX8mesV86hl9fDi3fK"

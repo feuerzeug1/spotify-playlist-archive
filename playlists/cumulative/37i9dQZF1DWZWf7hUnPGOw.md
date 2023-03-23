@@ -4,7 +4,7 @@
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-210 songs - 12 hr 50 min
+213 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Already Down](https://open.spotify.com/track/242AUqYphBSGrXXWUVsOMJ) | [Allie Moss](https://open.spotify.com/artist/2IfLIO3nsSn1CqNUeJ8sWE) | [Already Down](https://open.spotify.com/album/0xdh7pb5ycIR39gwfbe7mP) | 3:26 | 2022-07-22 |  |
 | [Already There](https://open.spotify.com/track/4CskNnumSq5GwKMP410i1D) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Anna Laube](https://open.spotify.com/album/5Qw7W3cJ9COG6W8HIgsdPS) | 3:01 | 2022-07-22 |  |
 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 | 2022-07-22 |  |
-| [Another Road](https://open.spotify.com/track/3yK1Vggrx00tldhe19K6AN) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:45 | 2022-07-22 |  |
+| [Another Road](https://open.spotify.com/track/3LvheDzR1jqsrsKJQIFQra) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy) | 3:45 | 2022-07-22 |  |
+| [Another Road](https://open.spotify.com/track/3yK1Vggrx00tldhe19K6AN) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:45 | 2022-07-22 | 2023-03-23 |
 | [As You Fly](https://open.spotify.com/track/3i0KgvRayczTveHLqQlsMs) | [Regina Price](https://open.spotify.com/artist/5Y9TDm2y5jVFkUUjhbQfdC) | [As You Fly](https://open.spotify.com/album/4zh5GKOYRano5iLLVlpfch) | 3:27 | 2022-07-22 |  |
 | [Battle](https://open.spotify.com/track/562unnYUADErsgCUy76JiP) | [hunnybunny](https://open.spotify.com/artist/1mR4Ye4Id0Vk14SQS7M54m) | [Battle](https://open.spotify.com/album/4q5AcEjTYSih2NJ7Pzg4G7) | 3:37 | 2022-07-22 |  |
 | [Benediction](https://open.spotify.com/track/2332ZgdidtDsMX9XzOp0bg) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Home](https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1) | 4:09 | 2022-07-22 |  |
@@ -41,7 +42,8 @@
 | [Crazy](https://open.spotify.com/track/63gUblwliT1NS7Eik504E2) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/1cnUa1Zm4lPm6QiCDRasBo) | 3:48 | 2022-07-22 | 2022-10-14 |
 | [Crazy](https://open.spotify.com/track/70TiTaUTePAwoLNsQk3ujm) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/113Oluzu3xOP9imtFHntWy) | 3:48 | 2022-07-22 |  |
 | [Crow](https://open.spotify.com/track/2OZLAmifZRHUrkRzU9lnkx) | [Desert Noises](https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe) | [Crow / Whisper](https://open.spotify.com/album/1DpSdwabLNkT6fD5oYOLeb) | 2:36 | 2022-07-22 |  |
-| [Crusher](https://open.spotify.com/track/3L6eIcMTcu4faDSQbocHS0) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:08 | 2022-07-22 |  |
+| [Crusher](https://open.spotify.com/track/22wmfoCSqhCrUU586zfaQu) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy) | 3:08 | 2022-07-22 |  |
+| [Crusher](https://open.spotify.com/track/3L6eIcMTcu4faDSQbocHS0) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:08 | 2022-07-22 | 2023-03-23 |
 | [Dance Like Ya Wanna](https://open.spotify.com/track/67uLKdHyQjEwkWEb0nwDbO) | [Josh Eagle and The Harvest City](https://open.spotify.com/artist/6dN2IgjlE0uwYPVK078qLX) | [Josh Eagle and the Harvest City](https://open.spotify.com/album/1P4F9VzGCaeWBf4Fkrjrbx) | 3:41 | 2022-07-22 |  |
 | [DIM](https://open.spotify.com/track/45uf7Rx6MoRhJBkncNysZN) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [DIM](https://open.spotify.com/album/1kPkhN0iKwcktJ2kUExVO8) | 4:31 | 2022-07-22 |  |
 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/6cLEpgDcEldV1n9gusHQUX) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 3:16 | 2022-07-22 |  |
@@ -135,7 +137,8 @@
 | [Ode to LBC](https://open.spotify.com/track/0QgPqgtkywb0VNkaQFHAle) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [dear april, ily \(deluxe\)](https://open.spotify.com/album/32qamHYrNoKgBjrzzjK68u) | 3:03 | 2022-07-22 | 2022-12-01 |
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2022-07-22 |  |
 | [Oh My Stars](https://open.spotify.com/track/65D1Gw34nZZpjfcZPmOBwY) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [The Ladder](https://open.spotify.com/album/0oiW40jJHbCnTHIfG1yTaL) | 5:02 | 2022-07-22 |  |
-| [On My Way Home](https://open.spotify.com/track/44y71LA72zHm2SgMjfMN5v) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:50 | 2022-07-22 |  |
+| [On My Way Home](https://open.spotify.com/track/44y71LA72zHm2SgMjfMN5v) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:50 | 2022-07-22 | 2023-03-23 |
+| [On My Way Home](https://open.spotify.com/track/4Pz4O7gnkdGh60uxa8QzNj) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy) | 3:50 | 2022-07-22 |  |
 | [On the Line](https://open.spotify.com/track/2k4eRsTQ9z37UxdKZrlmHP) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [On the Line](https://open.spotify.com/album/701O1B1bDdIHwsHpdZaX44) | 4:29 | 2022-07-22 |  |
 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 | 2022-07-22 |  |
 | [Pieces](https://open.spotify.com/track/3Pi88eCkbjFKn5bSXFUI1i) | [Josh Rennie\-Hynes](https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp) | [Pieces](https://open.spotify.com/album/4qHcEgmbLSuKv1zlw75qAV) | 3:18 | 2022-07-22 |  |

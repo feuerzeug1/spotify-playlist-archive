@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,912 likes - 325 songs - 13 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,992 likes - 325 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 31 | [They'll be out for us](https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [They'll be out for us](https://open.spotify.com/album/35CFT5d4Vus6953tBe0eYJ) | 2:17 |
 | 32 | [Letters](https://open.spotify.com/track/6znLeGhFx7y3dzLgLWy2WW) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Letters](https://open.spotify.com/album/46QdisjOJDgyTMxBVwbKAj) | 3:13 |
 | 33 | [Moonlight Waltz](https://open.spotify.com/track/2w4w29W62gzZ6OWWmilEB6) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Moonlight Waltz](https://open.spotify.com/album/4c7rMqF3xpqZIbjR1ISsbp) | 2:24 |
-| 34 | [Sans fleurir](https://open.spotify.com/track/63myAMR7Vy54SvqpjwxG7V) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Sans fleurir](https://open.spotify.com/album/0c759BM7rHz7aHDOOBFC5u) | 2:24 |
+| 34 | [Sans fleurir](https://open.spotify.com/track/6CZct4mwXflH95xf38xDMG) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Une rose dans les ténèbres](https://open.spotify.com/album/0tLNp9dCdU3DJYYYfIjyxR) | 2:24 |
 | 35 | [Suddenly](https://open.spotify.com/track/7hy60O24UQtAaocRRt15aC) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Suddenly](https://open.spotify.com/album/7e4VNF26d7HRimD0jTdU4D) | 1:45 |
 | 36 | [dans le Bleu](https://open.spotify.com/track/0f8fnzecrwlGZYOWOHTMz0) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [dans le Bleu](https://open.spotify.com/album/4pI7r8JcKxLLWAB7iM5bdu) | 1:49 |
 | 37 | [In Silence](https://open.spotify.com/track/2FgDZyz1kz7fEsKQCvkDJY) | [Richard Noé](https://open.spotify.com/artist/6vqqdZR8jcxqX0wDi0xeji) | [In Silence](https://open.spotify.com/album/00TfjKtrt72Z7iyMFjUMwW) | 1:40 |
@@ -334,4 +334,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 324 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 |
 | 325 | [Dorceto](https://open.spotify.com/track/2EEkvvplJVKLql7FrdUv2T) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Dorceto](https://open.spotify.com/album/5QcHQNocj4pf5FmM3DzwYH) | 3:01 |
 
-Snapshot ID: `MTY3OTM5NTI5NSwwMDAwMDAwMDg4YzM1ODc0MmFkMGE1MjEzN2Y3NjlmMWIxMWI0YmUy`
+Snapshot ID: `MTY3OTM5NTI5NSwwMDAwMDAwMDU0YjQxMTI1ZTliYjJjYmI5NTFhMjNlMTExNzc3ZmEy`

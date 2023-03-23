@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > 今週話題になった楽曲をまとめてチェック！Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,454 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,455 likes - 59 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 53 | [サクラノウタ](https://open.spotify.com/track/4aecodVhhW19bmWjveVgJR) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [サクラノウタ](https://open.spotify.com/album/7vlOaFIqHnABear9d51MNf) | 4:29 |
 | 54 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
 | 55 | [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 |
-| 56 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 |
-| 57 | [春愁](https://open.spotify.com/track/5SHguvOUbyPTINNjCvRo8K) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Love me, Love you](https://open.spotify.com/album/21awaIwNyYDin6Zzbtos4g) | 3:03 |
-| 58 | [IIII\-43\(暴れん坊将軍\)](https://open.spotify.com/track/7Azt4PjFJlhInbPSwetOTJ) | [東映傑作シリーズ](https://open.spotify.com/artist/1ysWgIR2c18sTQIsAKQwcA) | [東映傑作シリーズ 松平健主演作品Vol.1「暴れん坊将軍」](https://open.spotify.com/album/2ABV9eXvQ9Rwx6AQojpG2G) | 1:45 |
-| 59 | [Like Wind](https://open.spotify.com/track/2LWoPE4pouJ1KtXaaohPva) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Like Wind](https://open.spotify.com/album/6B8wWqYwakdpOyFulODdJ3) | 3:20 |
-| 60 | [2022](https://open.spotify.com/track/41drX9SojtdHcL3k5y7FSE) | [Mafeepuolyz](https://open.spotify.com/artist/2YKPXuptB4hLiDqf8KnQFD) | [2022](https://open.spotify.com/album/76lVQ2mX8gCGt4A9NRiEDv) | 4:08 |
+| 56 | [春愁](https://open.spotify.com/track/5SHguvOUbyPTINNjCvRo8K) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Love me, Love you](https://open.spotify.com/album/21awaIwNyYDin6Zzbtos4g) | 3:03 |
+| 57 | [IIII\-43\(暴れん坊将軍\)](https://open.spotify.com/track/7Azt4PjFJlhInbPSwetOTJ) | [東映傑作シリーズ](https://open.spotify.com/artist/1ysWgIR2c18sTQIsAKQwcA) | [東映傑作シリーズ 松平健主演作品Vol.1「暴れん坊将軍」](https://open.spotify.com/album/2ABV9eXvQ9Rwx6AQojpG2G) | 1:45 |
+| 58 | [Like Wind](https://open.spotify.com/track/2LWoPE4pouJ1KtXaaohPva) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [Like Wind](https://open.spotify.com/album/6B8wWqYwakdpOyFulODdJ3) | 3:20 |
+| 59 | [2022](https://open.spotify.com/track/41drX9SojtdHcL3k5y7FSE) | [Mafeepuolyz](https://open.spotify.com/artist/2YKPXuptB4hLiDqf8KnQFD) | [2022](https://open.spotify.com/album/76lVQ2mX8gCGt4A9NRiEDv) | 4:08 |
 
-Snapshot ID: `MTY3OTA2NTIwMCwwMDAwMDAwMDA0N2ZhNGE0ODllZjFhMDNhMmEyOTIwMzJhMzIzNjY3`
+Snapshot ID: `MTY3OTQ4NzAwOCwwMDAwMDAwMDAzZDZlMDNhNzdhODA3YzQzMTM0ZmU5YTU1NDU3NWUw`

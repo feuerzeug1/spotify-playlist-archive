@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 150209,
+  "num_followers": 150770,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMGEzOWRlNmQwNzNhZmMxZTMzNGU4MzczNjU0MjZhMjc3",
+  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMDUxNjdmNzg4YTA3MTlmNDQzNGExNjk5YmZmMzIxN2Fk",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "Cigarettes In the Theatre",
-      "url": "https://open.spotify.com/track/1pdbW0f7avXN6Uwj9JroFY"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Infinite Arms",
         "url": "https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 192240,
       "name": "Laredo",
       "url": "https://open.spotify.com/track/61beXNR1qPPxjyM8x3pdRk"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "Cigarettes In the Theatre",
+      "url": "https://open.spotify.com/track/1pdbW0f7avXN6Uwj9JroFY"
     },
     {
       "added_at": "2021-10-05 08:40:49",

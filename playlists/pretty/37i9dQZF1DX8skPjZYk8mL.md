@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,495 likes - 397 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,695 likes - 397 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 60 | [On The Field Of Dreams](https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV) | [Izabella Kirk](https://open.spotify.com/artist/0PrTw0kgFwYZz0lje9LFED) | [On The Field Of Dreams](https://open.spotify.com/album/3AyzUXZw4EJaFwMOxss7ZY) | 1:11 |
 | 61 | [Når du sovnet](https://open.spotify.com/track/3E1HUM219guDCovVxKINMX) | [Trude Egeland](https://open.spotify.com/artist/70nfwQmdbDzaXCx5aQxmry) | [Når du sovnet](https://open.spotify.com/album/4jPsPb4iVviFleHwk9ULPM) | 1:59 |
 | 62 | [Tomorrow We Play](https://open.spotify.com/track/23a03IeSzqF9crvsD63tZv) | [Serene Cradle](https://open.spotify.com/artist/3opfC05U4CiX0cycjWAw7Z) | [Tomorrow We Play](https://open.spotify.com/album/1k21k0B1tAxg9jOgGhYDL7) | 1:18 |
-| 63 | [Cherished Dreams](https://open.spotify.com/track/0fH8hYXMXdHHTfAtDb5E41) | [Skye Holland](https://open.spotify.com/artist/0A1vSROc85f7LwTdncMf67) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 2:07 |
+| 63 | [Cherished Dreams](https://open.spotify.com/track/0fH8hYXMXdHHTfAtDb5E41) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 2:07 |
 | 64 | [Sweet Dreams](https://open.spotify.com/track/7m8gA1WxEKPlIKsChhuTtk) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Sweet Dreams](https://open.spotify.com/album/1Y0IFRV4HoInefi8yVRYS8) | 2:15 |
 | 65 | [My Dream](https://open.spotify.com/track/4vZgef3PS0jcTTYYBfcRj5) | [Soothing Sandman](https://open.spotify.com/artist/2hXy2uPUnu9UEnYUwGTNZy) | [My Dream](https://open.spotify.com/album/6TEVwQyFgEcllIXemrNZbx) | 1:06 |
 | 66 | [Snoozie](https://open.spotify.com/track/7ugyZzpdaba3UIvfwKK3qT) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Tiny Toddler](https://open.spotify.com/album/0eULh7p9fHZOiRy9vJZFwj) | 1:59 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 68 | [Dreams of Us](https://open.spotify.com/track/20Fpq9gEh0oOPNapG27Ihv) | [Blossom Fischer](https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz) | [Dreams of Us](https://open.spotify.com/album/7vtj7hTrxhTMYOB9KV3u6w) | 1:52 |
 | 69 | [Finger Painting My House](https://open.spotify.com/track/3qg3B0g4y5eNdlo8TTYaU6) | [Janell Stallings](https://open.spotify.com/artist/5pAwiiwEYIYJtDLJwi4TbV) | [Finger Painting My House](https://open.spotify.com/album/4q6rwQHnIgg1JQEMYi5U0r) | 1:47 |
 | 70 | [Baby Dreams](https://open.spotify.com/track/1hXVKf8iXLbvpM546ptPFZ) | [Sandy Blau](https://open.spotify.com/artist/6p8V4tzveoaAM4qoQepvDl) | [Baby Dreams](https://open.spotify.com/album/3zLvpEtT95hr5pxdDTPWTy) | 1:30 |
-| 71 | [Whispers of Peace](https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p) | [Skye Holland](https://open.spotify.com/artist/0A1vSROc85f7LwTdncMf67) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 1:43 |
+| 71 | [Whispers of Peace](https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 1:43 |
 | 72 | [This Willow Lullaby](https://open.spotify.com/track/3xM1HE5Uba8Mzo13G7O0Bn) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [This Willow Lullaby](https://open.spotify.com/album/5CcyMoMFcA0LBWePqqMPsf) | 2:14 |
 | 73 | [Skidamarink](https://open.spotify.com/track/4WKj1FwMz5Y5dNSHnzgiQO) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Skidamarink](https://open.spotify.com/album/5879evWEXNX6qW2PEVdif0) | 2:01 |
 | 74 | [The Wheels on the Bus](https://open.spotify.com/track/2a1AnFv6uuXPWjqeqDSRO6) | [Dahlia Greene](https://open.spotify.com/artist/5ktRI2Uh0Kzq21ZfNC7ZAm) | [Siesta](https://open.spotify.com/album/6wxh5PhxtXFWbgtBorWMkD) | 1:21 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 107 | [Här kommer Pippi Långstrump](https://open.spotify.com/track/6pPKsXco1LF5kG9BGaXocm) | [Jessica Primrose](https://open.spotify.com/artist/6ANAnwnt0JgsbXKwXCe4rk) | [Pilutta\-visan](https://open.spotify.com/album/015ygZpYacjZXLczKCrOla) | 1:23 |
 | 108 | [Head To Toe](https://open.spotify.com/track/6oRcnWZJtM5uVgXdFErurv) | [William Gossard](https://open.spotify.com/artist/2lp225d2g9UWyBXtEFclwl) | [Head To Toe](https://open.spotify.com/album/53RMeg3xz4mNiDYGINA5hR) | 2:04 |
 | 109 | [Byssan Lull](https://open.spotify.com/track/6WmVu5QBY4uO0wvUTGfYjw) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Byssan Lull](https://open.spotify.com/album/2Q9FYlKgK2eNIPqfbuq9pI) | 2:34 |
-| 110 | [Zacht](https://open.spotify.com/track/7u42YpWdUuymB2hEct0m20) | [Skye Holland](https://open.spotify.com/artist/0A1vSROc85f7LwTdncMf67) | [Zacht](https://open.spotify.com/album/0rr9DPnmeEtawOPdfAioKQ) | 2:10 |
+| 110 | [Zacht](https://open.spotify.com/track/7u42YpWdUuymB2hEct0m20) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Zacht](https://open.spotify.com/album/0rr9DPnmeEtawOPdfAioKQ) | 2:10 |
 | 111 | [Heartfelt](https://open.spotify.com/track/7blup0be7G9rsRZZEwsCs8) | [Andrea Piazzo](https://open.spotify.com/artist/2Hh5OmjynnsLv3s4HUTAP3) | [Heartfelt](https://open.spotify.com/album/7vR1GVH6SWSt7o4kpcppCA) | 4:08 |
 | 112 | [The Ghost That Couldn't Scare](https://open.spotify.com/track/2nqc38C56IGXpkzc0yqbpv) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [The Ghost That Couldn't Scare](https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8) | 1:33 |
 | 113 | [The Squirrel in the Tree](https://open.spotify.com/track/281nk7IRScZJrj3veskbDW) | [Lily Hush](https://open.spotify.com/artist/0wNGyQjD4nIlMI7TJSNOhf) | [The Squirrel in the Tree](https://open.spotify.com/album/7J8tgOUusp9ps3W2vfc7bO) | 1:45 |

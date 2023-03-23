@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 196152,
+  "num_followers": 196200,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGQ5Yzk2NjhmMTYzZGJiNjZmMGIxMDc4MDU1NmRhMzAw",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDExZTY0OTU2MjRjOTU4NzYzYTQ3YWQ0ZTdlODk0ZDYw",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -207,22 +207,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 315306,
-      "name": "The End Of The Innocence",
-      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 336666,
       "name": "Father Figure - Remastered",
       "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "The End Of The Innocence",
+      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -303,6 +303,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Through the Barricades (Remastered)",
         "url": "https://open.spotify.com/album/5O1G1WHUO1IVRbl5VUUIdH"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Eye In The Sky (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
@@ -383,22 +383,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 257365,
-      "name": "Running To Stand Still",
-      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 258866,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 257365,
+      "name": "Running To Stand Still",
+      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -607,6 +607,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "This Woman's Work - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "October (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 209093,
       "name": "Kangaroo - Remastered",
       "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "The Sensual World (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "This Woman's Work - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -751,22 +751,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 253200,
-      "name": "I Never Thought I'd See the Day",
-      "url": "https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 279413,
       "name": "Has Anyone Ever Written Anything for You",
       "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "I Never Thought I'd See the Day",
+      "url": "https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -927,22 +927,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Merry Christmas, Mr. Lawrence",
-        "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
+        "name": "Let It Loose",
+        "url": "https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x"
       },
       "artists": [
         {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         },
         {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
         }
       ],
-      "duration_ms": 282973,
-      "name": "Forbidden Colors",
-      "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
+      "duration_ms": 235760,
+      "name": "Can't Stay Away from You",
+      "url": "https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -963,22 +963,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Let It Loose",
-        "url": "https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x"
+        "name": "Merry Christmas, Mr. Lawrence",
+        "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         },
         {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
         }
       ],
-      "duration_ms": 235760,
-      "name": "Can't Stay Away from You",
-      "url": "https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U"
+      "duration_ms": 282973,
+      "name": "Forbidden Colors",
+      "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "And Dream Of Sheep",
+      "url": "https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Vini Reilly",
         "url": "https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+        "name": "The Friends Of Mister Cairo (Remastered)",
+        "url": "https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Jon & Vangelis",
+          "url": "https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae"
         }
       ],
-      "duration_ms": 165773,
-      "name": "And Dream Of Sheep",
-      "url": "https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk"
+      "duration_ms": 270666,
+      "name": "I'll Find My Way Home - Remastered",
+      "url": "https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1203,22 +1219,6 @@
       "duration_ms": 232093,
       "name": "Apostle - Single Version;2005 Remastered Version",
       "url": "https://open.spotify.com/track/45hID6chbEjbNkXalKSx0B"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "The Friends Of Mister Cairo (Remastered)",
-        "url": "https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB"
-      },
-      "artists": [
-        {
-          "name": "Jon & Vangelis",
-          "url": "https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "I'll Find My Way Home - Remastered",
-      "url": "https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6"
     },
     {
       "added_at": "2018-12-12 11:36:39",

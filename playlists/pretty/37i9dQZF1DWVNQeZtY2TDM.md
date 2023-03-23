@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: Barry Chen \(陳柏銓\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,352 likes - 67 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,372 likes - 67 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 66 | [Red Line](https://open.spotify.com/track/4R7pZNBDI3IMs5vyoWEaGv) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [Red Line](https://open.spotify.com/album/0QYJALkekmTQcJ2BQPpr4o) | 2:37 |
 | 67 | [Tears In Rain](https://open.spotify.com/track/6yxhF0P3IgRr1UavZoXzbD) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [DenNiz](https://open.spotify.com/artist/7noLHWUu2JfwuyO66SyaKS), [葉米楽](https://open.spotify.com/artist/002rrVeRQfpXzggsMzYuOm) | [Tears In Rain](https://open.spotify.com/album/0yd80jdGEeTlMCzaIhAqOH) | 3:01 |
 
-Snapshot ID: `MTY3OTI3ODgxNSwwMDAwMDAwMDVmMGFiNGE4MzUyOTQ2NTFjMjMwZjgwNjMwYzk0ZjM0`
+Snapshot ID: `MTY3OTQ2Nzk0NCwwMDAwMDAwMGFiMmM3MzkyOTE1NTk5NzE4MjliZDRjZTdmNDkwMmJl`

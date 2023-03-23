@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,996 likes - 80 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,094 likes - 80 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 4 | [Nakala](https://open.spotify.com/track/3y5fUcF94aDFxA2HjrERDt) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Nakala](https://open.spotify.com/album/000n59cSc8psOiz5faS7sZ) | 2:33 |
 | 5 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 |
 | 6 | [HALLMATTAN](https://open.spotify.com/track/6qBwgf6ZTDyyG7GwQjoL27) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [HALLMATTAN](https://open.spotify.com/album/1lsPTXRLEQUT7lSX7gENT2) | 3:07 |
-| 7 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 |
-| 8 | [KURIRER](https://open.spotify.com/track/7dLIb2FTMx0EKSAipHov7P) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [KURIRER](https://open.spotify.com/album/0q4FcnWY4RnXpgsPRNS8Cy) | 2:02 |
-| 9 | [Mendez](https://open.spotify.com/track/4W7yzpXpmBJhe5Guao0piy) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mendez](https://open.spotify.com/album/1F1XXjNW4uNzNvOcCdJe13) | 2:09 |
-| 10 | [Låta mig va](https://open.spotify.com/track/3QIyTPHILvEB0IjQrxU2f8) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:24 |
-| 11 | [Bye](https://open.spotify.com/track/1rTUM3BdqYSTsZiUVL6YRY) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Bye](https://open.spotify.com/album/7ncknlyzo63JmvKfkpKdf2) | 3:26 |
-| 12 | [AXAR](https://open.spotify.com/track/69Zgo9cfCANqGHgKCBXzTJ) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [AXAR](https://open.spotify.com/album/6HsFZ60ry08QkWkuZ9tGAw) | 2:11 |
-| 13 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 |
-| 14 | [BOTTEGA](https://open.spotify.com/track/3RRwRGSCAsokzDr5CL3ISC) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [BOTTEGA](https://open.spotify.com/album/3d8p48lwwRTX1ZcNpHxIX2) | 2:33 |
-| 15 | [Online](https://open.spotify.com/track/3wIUf2ssPffFAUoIR4F1Tm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 2:35 |
-| 16 | [Ma Belle](https://open.spotify.com/track/1FPGuD3usIOivj1V2j4OMc) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Ma Belle](https://open.spotify.com/album/4ayd4KItCscPToowrTR3yY) | 3:34 |
-| 17 | [Ingen Annan](https://open.spotify.com/track/29f6emBNZc0WueYCU0Me2O) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ingen Annan](https://open.spotify.com/album/4BdMKdoEQPuCDEz14asIc6) | 2:08 |
+| 7 | [KURIRER](https://open.spotify.com/track/7dLIb2FTMx0EKSAipHov7P) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [KURIRER](https://open.spotify.com/album/0q4FcnWY4RnXpgsPRNS8Cy) | 2:02 |
+| 8 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 |
+| 9 | [Ingen Annan](https://open.spotify.com/track/29f6emBNZc0WueYCU0Me2O) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ingen Annan](https://open.spotify.com/album/4BdMKdoEQPuCDEz14asIc6) | 2:08 |
+| 10 | [Mendez](https://open.spotify.com/track/4W7yzpXpmBJhe5Guao0piy) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mendez](https://open.spotify.com/album/1F1XXjNW4uNzNvOcCdJe13) | 2:09 |
+| 11 | [Låta mig va](https://open.spotify.com/track/3QIyTPHILvEB0IjQrxU2f8) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:24 |
+| 12 | [Bye](https://open.spotify.com/track/1rTUM3BdqYSTsZiUVL6YRY) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Bye](https://open.spotify.com/album/7ncknlyzo63JmvKfkpKdf2) | 3:26 |
+| 13 | [Ma Belle](https://open.spotify.com/track/1FPGuD3usIOivj1V2j4OMc) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Ma Belle](https://open.spotify.com/album/4ayd4KItCscPToowrTR3yY) | 3:34 |
+| 14 | [AXAR](https://open.spotify.com/track/69Zgo9cfCANqGHgKCBXzTJ) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [AXAR](https://open.spotify.com/album/6HsFZ60ry08QkWkuZ9tGAw) | 2:11 |
+| 15 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 |
+| 16 | [BOTTEGA](https://open.spotify.com/track/3RRwRGSCAsokzDr5CL3ISC) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [BOTTEGA](https://open.spotify.com/album/3d8p48lwwRTX1ZcNpHxIX2) | 2:33 |
+| 17 | [Online](https://open.spotify.com/track/3wIUf2ssPffFAUoIR4F1Tm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 2:35 |
 | 18 | [Balans \(Vad händer Fatima!!?\)](https://open.spotify.com/track/6TLjoYLWtjziKPsLxSOkZv) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [Balans \(Vad händer Fatima!!?\)](https://open.spotify.com/album/6ErQass5rD25XSozTbKqq9) | 2:16 |
 | 19 | [Wine](https://open.spotify.com/track/3HHXFvN5BjYrASwmeaEYVI) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Wine](https://open.spotify.com/album/4sg5BPyaOWGmhxBdWsdy3n) | 2:43 |
 | 20 | [PICK ME UP](https://open.spotify.com/track/3wx0fGGBY8Csos0ZDsKXFE) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [PICK ME UP](https://open.spotify.com/album/47nAM4UWvRCjvXMWYsx8W9) | 2:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [Dum](https://open.spotify.com/track/0OterqJ9QPa44frf5djZ6P) | [FAH1DO](https://open.spotify.com/artist/01bjIiVhFb4SIlhhEa1gLn) | [Dum](https://open.spotify.com/album/51g2W4wG2FfybcO9No4j69) | 2:43 |
 | 80 | [Nigdy wiecej](https://open.spotify.com/track/6tnyrWNiCNek8xsOReS0QU) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Pappaisjappa](https://open.spotify.com/artist/3lyO0ckTcHudVm1wkTDb9h) | [Adwokat Diabla](https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf) | 3:32 |
 
-Snapshot ID: `MTY3OTQwOTkyMywwMDAwMDAwMGUyOTNjOTAwNTNhYTgxZmY2OGRiNzgzNGIyNTRjMzYz`
+Snapshot ID: `MTY3OTQ5NjQ1OCwwMDAwMDAwMDIyZGFiMjMyMjU0NzRkOGEwMjhmY2U5Zjk2ZTlkOTFh`

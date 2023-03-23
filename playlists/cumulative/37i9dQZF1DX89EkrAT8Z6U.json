@@ -692,7 +692,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 163200,
       "name": "DANCE!",
       "url": "https://open.spotify.com/track/7sYfWTa2GD1KCaLgGFmFM5"
@@ -3108,6 +3108,28 @@
       "duration_ms": 138239,
       "name": "TITAN TALK!",
       "url": "https://open.spotify.com/track/7sSdcK2yahRPVsIn2oUoLs"
+    },
+    {
+      "album": {
+        "name": "Trap Anthem",
+        "url": "https://open.spotify.com/album/0RYvZMaunWeYkHDYMLPwhe"
+      },
+      "artists": [
+        {
+          "name": "MC Virgins",
+          "url": "https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7"
+        },
+        {
+          "name": "Yun Head",
+          "url": "https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132790,
+      "name": "Trap Anthem",
+      "url": "https://open.spotify.com/track/427vwwlrlHy0JZPVt8rzYS"
     },
     {
       "album": {

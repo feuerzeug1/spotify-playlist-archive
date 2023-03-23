@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,327 likes - 326 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,601 likes - 326 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 145 | [Jacks Adventure](https://open.spotify.com/track/4bihDr47XVSRSK5sUPIMud) | [Roosevelt Blakely](https://open.spotify.com/artist/1gL9bk6tHQa7tiCb3DxTeI) | [Jacks Adventure](https://open.spotify.com/album/7FpgFq4cA3w8QEWSa2v8ZR) | 1:12 |
 | 146 | [Sleep Cure](https://open.spotify.com/track/6a8R1nvniVX4PHGLFxGIbH) | [Irvin Tatton](https://open.spotify.com/artist/2HawA0EZAHFCNaWVJ3hoX4) | [Sleep Cure](https://open.spotify.com/album/2yHEWgTkftVFLPNJYtvvi0) | 1:02 |
 | 147 | [Jabberwocky](https://open.spotify.com/track/3gtSkSSSZj6hgdWkS8dFkg) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Jabberwocky](https://open.spotify.com/album/7zchITsKU6EayGSZOSD5Qf) | 1:42 |
-| 148 | [Little Wishes](https://open.spotify.com/track/7laOWFGSkSfseUDroRD9vH) | [Skye Holland](https://open.spotify.com/artist/0A1vSROc85f7LwTdncMf67) | [Little Wishes](https://open.spotify.com/album/5jEQqMq51Zos1CaVvWGM7Q) | 2:09 |
+| 148 | [Little Wishes](https://open.spotify.com/track/7laOWFGSkSfseUDroRD9vH) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Little Wishes](https://open.spotify.com/album/5jEQqMq51Zos1CaVvWGM7Q) | 2:09 |
 | 149 | [Are You Sleeping](https://open.spotify.com/track/2HNkXighYriN6oyzn0jpPM) | [Ellie Cox](https://open.spotify.com/artist/7wOOvJ7BwpFWIoVGa0nhh6) | [Are You Sleeping](https://open.spotify.com/album/0cp6uLiJibKpbwnJePB1oY) | 1:24 |
 | 150 | [Litet bo jag sätta vill](https://open.spotify.com/track/7H5hjRByXu7qV8zQsQtPP4) | [Sigrid Gunnarsson](https://open.spotify.com/artist/0oZgMxgV5OpAfs4MQkrMfX) | [Litet bo jag sätta vill](https://open.spotify.com/album/1A9A7P82S7VwGrNKVPo1Ug) | 1:42 |
 | 151 | [Blåsippor \(Blue Anemone\)](https://open.spotify.com/track/7MD68crke6EwhfqDvw26ys) | [Ebbe & Lilly](https://open.spotify.com/artist/26zaS9jwYG7PxrixBvYXGA) | [Blåsippor \(Blue Anemone\)](https://open.spotify.com/album/2XnavMDEzXXPhUufeiEPH9) | 2:16 |

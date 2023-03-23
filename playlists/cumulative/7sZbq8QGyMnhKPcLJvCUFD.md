@@ -4,11 +4,11 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-223 songs - 11 hr 22 min
+224 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2AM](https://open.spotify.com/track/62ch0zFhNQtPg1ssb790wy) | [WYKO](https://open.spotify.com/artist/5FMZdcgEgaYRjxIguLPPhl), [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [shi’tz](https://open.spotify.com/artist/13UVzKhKe6jg2XtWlNh6uU) | [2AM](https://open.spotify.com/album/6Ij6LtpYwsQq797uaF64dv) | 2:21 | 2023-03-21 |  |
+| [2AM](https://open.spotify.com/track/62ch0zFhNQtPg1ssb790wy) | [Wyko](https://open.spotify.com/artist/01lJ7aW7Z1NAZxIPc50x7N), [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [shi’tz](https://open.spotify.com/artist/13UVzKhKe6jg2XtWlNh6uU) | [2AM](https://open.spotify.com/album/6Ij6LtpYwsQq797uaF64dv) | 2:21 | 2023-03-21 |  |
 | [4 Love](https://open.spotify.com/track/77ZQty250PUGzm4NZYiO2Q) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [4 LOVE](https://open.spotify.com/album/2t6EAss7zjbFsn7F3xrNCe) | 3:03 | 2023-02-14 |  |
 | [A Day at Sea](https://open.spotify.com/track/4cP4euPcXx5SMxp07GLWzn) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [A Day at Sea](https://open.spotify.com/album/3Kpk3f9SpXQ3xKETaRNZR6) | 3:07 | 2022-06-03 |  |
 | [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-06 |  |
@@ -227,6 +227,7 @@
 | [Wish You The Best](https://open.spotify.com/track/4aRIkmQcFWLDYT2J4SdXdr) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [GNDHI](https://open.spotify.com/artist/3JCQBfcQu5347GddKkbKlo), [J Fitz](https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ) | [Wish You The Best](https://open.spotify.com/album/36VVorl4pqN1wGFxI1qIki) | 3:18 | 2022-12-22 |  |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-03-10 |  |
 | [Wizkid](https://open.spotify.com/track/2rC9Mwkntrhv1RH4FzZ1MM) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [AVA NOVA](https://open.spotify.com/artist/3F7A0HJo5EKQKQ01Fv1TxW) | [Wizkid](https://open.spotify.com/album/0DfHdC5Ahks277KoV2ycp7) | 2:43 | 2022-11-10 |  |
+| [World on Fire](https://open.spotify.com/track/6RUrwniB9s0Xm3iqXa5Jc2) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [World on Fire](https://open.spotify.com/album/6xYYOfJjOi1Xrs7M46NPoX) | 3:45 | 2023-03-22 |  |
 | [Would You Be Waiting](https://open.spotify.com/track/3PHOx8osoFglbGHz8dWY5E) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Would You Be Waiting](https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA) | 2:57 | 2022-08-26 |  |
 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 | 2022-03-29 |  |
 | [Yesterday](https://open.spotify.com/track/0Cxyt1tuzX8dRdPR2mXPZz) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Young Viridii](https://open.spotify.com/artist/4Rm1nfclUTXCYusaJk7TA9) | [Yesterday](https://open.spotify.com/album/4gbR6lbzBVdoU9RNijlKpW) | 3:26 | 2022-08-18 |  |

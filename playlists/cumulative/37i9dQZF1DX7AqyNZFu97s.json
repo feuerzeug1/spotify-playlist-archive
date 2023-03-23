@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: CHERISE",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Pat Lagoon",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 182640,
       "name": "2 2's Ain't Always 4",
       "url": "https://open.spotify.com/track/3wVjo9jofYa7BVVLntnh1y"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 175491,
       "name": "AMERICA'S NEXT TOP MODEL",
       "url": "https://open.spotify.com/track/2bZeCw3SEcY0uMq2bdhFGc"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 179293,
       "name": "Autumn Song",
       "url": "https://open.spotify.com/track/0ZfA5mDADY5z0jlrozOeAa"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 166542,
       "name": "Bed",
       "url": "https://open.spotify.com/track/1Jsiq8yxT6EXJk3AfoA5YI"
@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "Big Dog Barking",
+        "url": "https://open.spotify.com/album/5z57cpq7qtolGiw2PIuGdJ"
+      },
+      "artists": [
+        {
+          "name": "Chubby Cat",
+          "url": "https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139228,
+      "name": "Big Dog Barking",
+      "url": "https://open.spotify.com/track/4kEarTa6pcGd3TCN6CYGSm"
+    },
+    {
+      "album": {
         "name": "BIG TALK, little girl",
         "url": "https://open.spotify.com/album/2D6DEklBlhJutocdztbZ4h"
       },
@@ -1758,7 +1776,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 351600,
       "name": "Bill Murray",
       "url": "https://open.spotify.com/track/0Umhmtk4SDzt8wO2nDmOrR"
@@ -2723,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Clich\u00e9",
+        "url": "https://open.spotify.com/album/3OBpcICugDbe4JrTvvQUHJ"
+      },
+      "artists": [
+        {
+          "name": "Laura Davidson",
+          "url": "https://open.spotify.com/artist/09HoJ8gs0b933TzQs0qvKf"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157542,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/3m1bdD8K7YvyNP8zACQ6Fw"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/26qunkY8SZxLPCdffJy7kI"
       },
@@ -2846,7 +2882,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 166685,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4lVBd8J6mLr1hIv94wRcQh"
@@ -5617,6 +5653,24 @@
     },
     {
       "album": {
+        "name": "God Knows",
+        "url": "https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e"
+      },
+      "artists": [
+        {
+          "name": "ARXX",
+          "url": "https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156706,
+      "name": "God Knows",
+      "url": "https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7FOa50ihrigexQczrauLb1"
       },
@@ -5722,7 +5776,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 158532,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/2a9LvqDQdgKDDTCmvTIzjU"
@@ -6176,6 +6230,24 @@
       "duration_ms": 165659,
       "name": "Headtop Buss From Luss",
       "url": "https://open.spotify.com/track/53UjIJ47Uf6B7pFs7Mwf1L"
+    },
+    {
+      "album": {
+        "name": "Heart In The Water",
+        "url": "https://open.spotify.com/album/5Uie78uNFG2u2VTVBA8ckG"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203178,
+      "name": "Heart In The Water",
+      "url": "https://open.spotify.com/track/7dDCYIuw6YUvcO1nzl8hP5"
     },
     {
       "album": {
@@ -6907,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "i think i'm scum",
+        "url": "https://open.spotify.com/album/2oRvewNgMmEJW5FijyNNM1"
+      },
+      "artists": [
+        {
+          "name": "YourCuzMarcus",
+          "url": "https://open.spotify.com/artist/2uzoLrIZDZiMtSWTh32x5N"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185861,
+      "name": "i think i'm scum",
+      "url": "https://open.spotify.com/track/4u3ICfPBa83niklr7idyVc"
+    },
+    {
+      "album": {
         "name": "I thought this would be a love song",
         "url": "https://open.spotify.com/album/0yIofW9DnqPQ55iFsZkqCC"
       },
@@ -7362,6 +7452,24 @@
       "duration_ms": 140487,
       "name": "Inmymind",
       "url": "https://open.spotify.com/track/3OPGQFWEj8psJRQjWwocsX"
+    },
+    {
+      "album": {
+        "name": "Insincere",
+        "url": "https://open.spotify.com/album/5u6xJl50ug1ofv4lQRymlP"
+      },
+      "artists": [
+        {
+          "name": "Kaya T",
+          "url": "https://open.spotify.com/artist/5QqzYRO8Pxtgc0yfs4LXQ8"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189616,
+      "name": "Insincere",
+      "url": "https://open.spotify.com/track/7figjkt19nYRAuPNF9WFQd"
     },
     {
       "album": {
@@ -8602,7 +8710,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 127507,
       "name": "Love In The Air",
       "url": "https://open.spotify.com/track/5D4EVV9mqzr8sEoGARlPw5"
@@ -10009,6 +10117,24 @@
     },
     {
       "album": {
+        "name": "No Need To Be Shy",
+        "url": "https://open.spotify.com/album/1VuHpYETdoOWSbTMnGRWCA"
+      },
+      "artists": [
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249266,
+      "name": "No Need To Be Shy",
+      "url": "https://open.spotify.com/track/3VxIjocaCYMksTd4TzkdVd"
+    },
+    {
+      "album": {
         "name": "No one Buys me Flowers",
         "url": "https://open.spotify.com/album/7HIdJewKsdWAVWywvBlPEQ"
       },
@@ -10776,7 +10902,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 207530,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/0RSFY15txSm6NUjTaTyyV8"
@@ -11447,6 +11573,24 @@
     },
     {
       "album": {
+        "name": "Quick Intimacy",
+        "url": "https://open.spotify.com/album/5cq1wjcKBpzhYCHYWHQz8o"
+      },
+      "artists": [
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151120,
+      "name": "Quick Intimacy",
+      "url": "https://open.spotify.com/track/2q4aX1wz9lZCjgEeZKkX2a"
+    },
+    {
+      "album": {
         "name": "R U Down?",
         "url": "https://open.spotify.com/album/5mahIx5TmhyOLOIUaqISzi"
       },
@@ -11632,6 +11776,24 @@
       "duration_ms": 231050,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/0SCmpcUDoj5LfhH0vuEJnx"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/20hzLLksWusd2QxePy6Dhe"
+      },
+      "artists": [
+        {
+          "name": "Shadeemus",
+          "url": "https://open.spotify.com/artist/4YMVFIUN0CZGaZ3lvkHzLr"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232635,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/51SkiXxURPgPkN1YJPjDtj"
     },
     {
       "album": {
@@ -13217,6 +13379,24 @@
     },
     {
       "album": {
+        "name": "Sugar Plum",
+        "url": "https://open.spotify.com/album/553jPDmJwsROwZBb7AWGan"
+      },
+      "artists": [
+        {
+          "name": "Nwanneka",
+          "url": "https://open.spotify.com/artist/3QxZ4kihiVSG6k22zVDvqW"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Sugar Plum",
+      "url": "https://open.spotify.com/track/7CwJkHavYZejN2vPlD0H9M"
+    },
+    {
+      "album": {
         "name": "Sugartown Parade",
         "url": "https://open.spotify.com/album/3FEPYIo78swiWDygjURkxT"
       },
@@ -13676,6 +13856,24 @@
       "duration_ms": 276317,
       "name": "Teach Me To Dance",
       "url": "https://open.spotify.com/track/1g0wKQRTXdBKphVM1MIden"
+    },
+    {
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/1cfCP9505PAGSh4eVmYQhS"
+      },
+      "artists": [
+        {
+          "name": "Local Boy",
+          "url": "https://open.spotify.com/artist/34Ze0nb54KG3gietZGFZIj"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/0WVCLhaqfBVm8RutijCiMB"
     },
     {
       "album": {
@@ -14246,10 +14444,28 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 134000,
       "name": "too high.",
       "url": "https://open.spotify.com/track/0NVqZSRrkbXjwJ28y51oeK"
+    },
+    {
+      "album": {
+        "name": "Top One",
+        "url": "https://open.spotify.com/album/4tjuqAjgS0nwm1kfR63Q8z"
+      },
+      "artists": [
+        {
+          "name": "Jayahadadream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202857,
+      "name": "Top One",
+      "url": "https://open.spotify.com/track/4t2HqhJdYy86TKq00KDY13"
     },
     {
       "album": {
@@ -14520,7 +14736,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 223844,
       "name": "Ugly Smile",
       "url": "https://open.spotify.com/track/6wPTg4WrgxLflTuNwFhnTA"
@@ -15408,7 +15624,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 170454,
       "name": "Yellow Glow",
       "url": "https://open.spotify.com/track/7I2uMAt3D8qnX1u9NJmSCS"

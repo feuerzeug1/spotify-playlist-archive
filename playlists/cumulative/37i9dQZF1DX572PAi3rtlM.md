@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-149 songs - 13 hr 35 min
+150 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Done My Best](https://open.spotify.com/track/3KKK9GmxkqURfxSrxxYIJh) | [Nebraska](https://open.spotify.com/artist/1r7iu4v645R7o3bARTQGtn) | [Look What You've Done To Me EP](https://open.spotify.com/album/11GTVP0F2xq6gpjZXTCst4) | 5:33 | 2021-09-01 | 2022-07-24 |
 | [Dreaming Of Better Days](https://open.spotify.com/track/4goILMtibwRJrkzmNbt4Ns) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz), [Loosefingers](https://open.spotify.com/artist/1vbs5ghUw3aJTLwlVdIqKb) | [Soundtrack From The Duality Double\-Play](https://open.spotify.com/album/6QdZrtyLed3YMUNmOWUlCS) | 5:06 | 2021-09-01 | 2022-07-25 |
 | [Drink Milk](https://open.spotify.com/track/2M9mDj6eNVmpxQ381qP2bV) | [The Draytons Two](https://open.spotify.com/artist/7FPbIQAvYaHUT3HEq1sfTS) | [Raw Spouge](https://open.spotify.com/album/2AbK4DTRJmqmTc9SHYs7ii) | 2:21 | 2021-09-01 | 2022-05-20 |
+| [Easy](https://open.spotify.com/track/4uMEqidP5ndYrsaS1HxuBk) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Ally McMahon](https://open.spotify.com/artist/5w7j2molEa1LERPdgAGxE8) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 4:12 | 2023-02-10 |  |
 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 | 2021-09-01 |  |
 | [Ero Disco Theme](https://open.spotify.com/track/1oXOetlFiNvl68xVFRbreY) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo), [DJ Rocca](https://open.spotify.com/artist/1A1khioV2n9YPMFsD1Cpla) | [Works](https://open.spotify.com/album/4iu4nf44P3KSCmrMTHlvQm) | 3:48 | 2021-09-01 | 2022-07-06 |
 | [Everybody Clap](https://open.spotify.com/track/5wzyVW90nwZIYGMArXOjQQ) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [Panic In Fort Greene Park EP](https://open.spotify.com/album/7Cc8L7f2PRniBRCkeLT2MZ) | 6:11 | 2021-09-01 | 2022-07-29 |
@@ -62,7 +63,7 @@
 | [I Heard the Voice of Music Say](https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf) | [Sunbear](https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9) | [Sunbear](https://open.spotify.com/album/3qXzp3FxW9nHlvEoJKij8R) | 5:03 | 2021-09-01 | 2022-07-25 |
 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 | 2021-09-01 |  |
 | [Industry \(Green Light/Fun Night Breaks Mix\) \- Edit](https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry \(Green Light/Fun Night Breaks Mix\)](https://open.spotify.com/album/4b74MpyaUcYTGkFCZ0vNGd) | 3:43 | 2021-09-01 | 2022-07-28 |
-| [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2021-09-01 |  |
+| [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2021-09-01 | 2023-03-23 |
 | [It Feels Good](https://open.spotify.com/track/47IC40BjFN6EkbwMx1KHUm) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j) | [It Feels Good](https://open.spotify.com/album/6DhfBvhuoEmrsIXPErjt1h) | 4:26 | 2021-09-01 | 2022-07-29 |
 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 | 2021-09-01 |  |
 | [Jerky Rhythm](https://open.spotify.com/track/0quQLx03FmhJhQXHLA4osL) | [Erotic Drum Band](https://open.spotify.com/artist/3cziflTbMxH9cQY4RvhtVg) | [Action 78](https://open.spotify.com/album/3O0VpTEdahLcXgx6KJsQlI) | 9:10 | 2021-09-01 | 2022-07-28 |

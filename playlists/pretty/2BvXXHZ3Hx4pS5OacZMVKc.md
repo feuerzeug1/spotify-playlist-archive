@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 135,245 likes - 144 songs - 7 hr 26 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 135,254 likes - 144 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [2AM](https://open.spotify.com/track/62ch0zFhNQtPg1ssb790wy) | [WYKO](https://open.spotify.com/artist/5FMZdcgEgaYRjxIguLPPhl), [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [shi’tz](https://open.spotify.com/artist/13UVzKhKe6jg2XtWlNh6uU) | [2AM](https://open.spotify.com/album/6Ij6LtpYwsQq797uaF64dv) | 2:21 |
+| 1 | [2AM](https://open.spotify.com/track/62ch0zFhNQtPg1ssb790wy) | [Wyko](https://open.spotify.com/artist/01lJ7aW7Z1NAZxIPc50x7N), [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [shi’tz](https://open.spotify.com/artist/13UVzKhKe6jg2XtWlNh6uU) | [2AM](https://open.spotify.com/album/6Ij6LtpYwsQq797uaF64dv) | 2:21 |
 | 2 | [Give It To Me](https://open.spotify.com/track/5J5lXkB6oycwehvBJBmaUc) | [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Give It To Me](https://open.spotify.com/album/4ZF80hXHTGvFwFDa9wyOIL) | 2:46 |
 | 3 | [PSYCHOPATHIC](https://open.spotify.com/track/4AnxczKtQaEjTO4fQpOdXd) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PSYCHOPATHIC](https://open.spotify.com/album/4vnHN3hA7BbQ7KUAafUG03) | 2:28 |
 | 4 | [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 |

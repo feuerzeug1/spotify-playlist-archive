@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 256058,
+  "num_followers": 256232,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NTEyNywwMDAwMDAwMDE5OGYxYWQyNDkwMDQ0NGU2MTQzZGYwMzQ4MjVmZjA4",
+  "snapshot_id": "MTY3MjY5NTEyNywwMDAwMDAwMGE2ZGU4MzJiNWNjNTRiOTY0M2VjMjNjZjU5N2I4ZjEw",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -995,30 +995,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T"
-      },
-      "artists": [
-        {
-          "name": "Ernest Tubb",
-          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
-        },
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "Sunshine Trio",
-          "url": "https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn"
-        }
-      ],
-      "duration_ms": 181653,
-      "name": "Goodnight, Irene",
-      "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Frankie Laine's Greatest Hits",
         "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 152906,
       "name": "Crazy Arms",
       "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T"
+      },
+      "artists": [
+        {
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+        },
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "Sunshine Trio",
+          "url": "https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn"
+        }
+      ],
+      "duration_ms": 181653,
+      "name": "Goodnight, Irene",
+      "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
     },
     {
       "added_at": "2023-01-02 21:32:07",

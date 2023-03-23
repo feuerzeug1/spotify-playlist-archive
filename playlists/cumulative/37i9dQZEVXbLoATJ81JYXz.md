@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,277 songs - 2 day 18 hr 9 min
+1,278 songs - 2 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Caravaggio](https://open.spotify.com/track/5Bv6jNkvB82p6NCeaFsVuA) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Caravaggio](https://open.spotify.com/album/06bvnTPXXc3ozKuXnimVZj) | 2:12 | 2021-09-24 | 2021-10-17 |
 | [Catfish](https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:30 | 2022-09-08 | 2022-10-18 |
 | [CCTV](https://open.spotify.com/track/3zx5ne2XxVwFcPg4t6OxRC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CCTV](https://open.spotify.com/album/2g8aREJdHnVxe5cedBfLbQ) | 2:24 | 2021-09-08 | 2021-10-17 |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-22 |  |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-01 | 2022-10-06 |
 | [Celestial](https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:29 | 2022-10-05 | 2022-10-16 |
 | [Certified](https://open.spotify.com/track/5II2AztMErwFd98efHZ09T) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:06 | 2021-10-03 | 2021-10-10 |
@@ -1197,7 +1198,7 @@
 | [Vart jag mig i världen vänder](https://open.spotify.com/track/7nLMZKhfkFZLr9rz4VyOpF) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Ett fel närmare rätt](https://open.spotify.com/album/5GkyGLEWLO3RNzZAmOZgLt) | 3:32 | 2022-06-25 | 2022-06-28 |
 | [Vaskar mina tårar](https://open.spotify.com/track/1qUYbmIfoIDVRaRuDUlVZ3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Vaskar mina tårar](https://open.spotify.com/album/2UR8C8nPqhQ1W7t1ti5TAn) | 2:56 | 2021-05-23 | 2021-06-13 |
 | [Vatten & eld](https://open.spotify.com/track/5zpHef3TfeFtFYJ8s95WRj) | [Markoolio](https://open.spotify.com/artist/0cAOG10Gh3ORpBRZ9c7Zam) | [Vatten & eld](https://open.spotify.com/album/1XikxFGugv0v5pWYEbdnDS) | 2:48 | 2023-02-18 | 2023-03-08 |
-| [VCB B23](https://open.spotify.com/track/7yGIE3MGVqnWOrghqWWuW6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:21 | 2023-03-18 |  |
+| [VCB B23](https://open.spotify.com/track/7yGIE3MGVqnWOrghqWWuW6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:21 | 2023-03-18 | 2023-03-23 |
 | [VCFlow](https://open.spotify.com/track/00rbTsnO3TzW6nOa1Ka9Od) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [VCFlow](https://open.spotify.com/album/1NZqbv9DLeea5t7gQCXP2q) | 3:02 | 2022-01-26 | 2022-02-27 |
 | [Vem](https://open.spotify.com/track/37I1hXdQVga3MAR9dOn0c3) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Vem](https://open.spotify.com/album/6Kb2vhdaj624ZEC18vJCIG) | 2:18 | 2022-10-09 | 2022-10-23 |
 | [VEM E BIANCA \(feat\. Cherrie\)](https://open.spotify.com/track/73zv4De4MX9XLLqSkNfbFZ) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 3:05 | 2022-05-07 | 2022-05-08 |

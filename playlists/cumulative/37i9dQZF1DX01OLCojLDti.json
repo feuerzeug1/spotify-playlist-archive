@@ -914,7 +914,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 222189,
       "name": "\u30b9\u30bf\u30fc\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/2NXZ1iOG0zV0petFHEc3iG"
@@ -1314,6 +1314,24 @@
       "duration_ms": 237941,
       "name": "\u79c1\u306eSymphony",
       "url": "https://open.spotify.com/track/0Cnz62LYVwh5T7hT6gtuIH"
+    },
+    {
+      "album": {
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237437,
+      "name": "\u79c1\u306eSymphony - 2022 Version",
+      "url": "https://open.spotify.com/track/0uSJF9rlX5ZxyCfzeuSugO"
     },
     {
       "album": {

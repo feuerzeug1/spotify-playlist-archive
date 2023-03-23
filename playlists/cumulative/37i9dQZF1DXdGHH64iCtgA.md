@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-180 songs - 14 hr 23 min
+181 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Boylife in EU](https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A) | 3:36 | 2022-09-27 |  |
 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 | 2022-05-06 |  |
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2022-05-06 |  |
-| [Catwalk](https://open.spotify.com/track/1v2VVRjWAZRHso5etkftcI) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt\. 2](https://open.spotify.com/album/5fxVy50kYGajDUpAksWhRz) | 3:03 | 2022-09-27 |  |
+| [Catwalk](https://open.spotify.com/track/1v2VVRjWAZRHso5etkftcI) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt\. 2](https://open.spotify.com/album/5fxVy50kYGajDUpAksWhRz) | 3:03 | 2022-09-27 | 2023-03-23 |
 | [Catwalk](https://open.spotify.com/track/42gTFtlBHudRQOrG0fJFvJ) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Catwalk](https://open.spotify.com/album/3YAGxd70rxDdvKh39k50nx) | 3:03 | 2022-09-27 | 2022-11-13 |
+| [Catwalk](https://open.spotify.com/track/4st45RmUuo86IbefttwrHa) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt 2](https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov) | 3:03 | 2023-02-10 |  |
 | [Catwalk](https://open.spotify.com/track/6mhD9IOxgWMb1E1Q0MBwrn) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Catwalk](https://open.spotify.com/album/2XVJ6DdHlyxnwylsPHPOdb) | 3:03 | 2022-05-06 | 2022-10-14 |
 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 | 2022-05-06 |  |
 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 | 2022-05-06 | 2022-07-29 |

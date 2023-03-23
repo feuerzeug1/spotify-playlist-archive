@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-264 songs - 16 hr 2 min
+265 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [La musica illegale](https://open.spotify.com/track/1NWBuL5RKNJpsdN56inHKr) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [La terza estate dell'amore](https://open.spotify.com/album/7ePIYYUhWiw1bPKPj31DCa) | 3:44 | 2021-11-19 |  |
 | [LA POLICE](https://open.spotify.com/track/1cTi2HkrcMPbyVoqzNUqwr) | [SPLENDORE](https://open.spotify.com/artist/0WeNBS6jjzTYWe3eywkuuq), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX), [Pan Dan](https://open.spotify.com/artist/4vfG2njRnPeOTEq3OpW3T6) | [LA POLICE](https://open.spotify.com/album/1wwK4u12VfUgXNsXUjE2km) | 3:23 | 2021-11-19 | 2022-07-17 |
 | [La Suora](https://open.spotify.com/track/0IGvfJenQDntbHqBl7UtuU) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [La Suora](https://open.spotify.com/album/6ARW2IzeRLXYElCNrLBL39) | 3:03 | 2022-05-19 | 2023-02-25 |
+| [La Suora](https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [La Suora](https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk) | 3:03 | 2023-03-17 |  |
 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 | 2021-11-19 |  |
 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 | 2022-06-26 |  |
 | [lasciami andare!](https://open.spotify.com/track/3271XiQoOnVW3TzJhTvO8N) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/39lr2aBjqcX5zdjWOWiSlO) | 3:15 | 2021-11-19 | 2023-02-25 |
@@ -198,7 +199,7 @@
 | [Ray of Light](https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:20 | 2022-06-26 | 2023-01-25 |
 | [Rebel \(Sem&Stènn Remix\)](https://open.spotify.com/track/3K0NohCbTsh53i6cnj2x07) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa), [Sem&Stènn](https://open.spotify.com/artist/4urS4ezvKDRW6o0XQeRve5) | [Rebel \(Sem&Stènn Remix\)](https://open.spotify.com/album/70dxR8oMAQPMMmy4BCSUWm) | 2:39 | 2021-11-19 | 2022-07-24 |
 | [REGNO DEI CUORI](https://open.spotify.com/track/6ccU7LnsRFPt1Y6fUCcHHl) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [REGNO DEI CUORI](https://open.spotify.com/album/5B0ZeZfp2B8DnX4AcqHIf9) | 3:22 | 2023-02-27 |  |
-| [Repito \- Populous Remix](https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Morsi](https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa) | 2:58 | 2022-04-01 |  |
+| [Repito \- Populous Remix](https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Morsi](https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa) | 2:58 | 2022-04-01 | 2023-03-23 |
 | [Respiro](https://open.spotify.com/track/0AwjnkfYhpjZOO6eDSFFxx) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Dormi](https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo) | 3:33 | 2023-02-23 |  |
 | [Rhythm Is My Bitch \- Original Mix](https://open.spotify.com/track/0qCA1BoUgGckvfnyX04jgL) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Rhythm Is My Bitch \- EP](https://open.spotify.com/album/1efme0Jwk5ZxdGA3pOXtcK) | 6:30 | 2022-06-26 | 2022-07-26 |
 | [Rin Tin Tin](https://open.spotify.com/track/6I48dHZ08YxQfFfOjDuWMS) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo) | [Rin Tin Tin](https://open.spotify.com/album/5Z3NO6kR7tiV5IFtmIS4EE) | 2:16 | 2022-06-12 | 2022-06-27 |

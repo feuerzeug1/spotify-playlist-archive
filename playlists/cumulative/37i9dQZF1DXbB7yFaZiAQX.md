@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-429 songs - 1 day 6 hr 22 min
+430 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 | 2021-01-06 |  |
 | [Ask \- 2008 Remaster](https://open.spotify.com/track/0VAuJcy7fZulaEwXzTFiVP) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Sound of the Smiths \(2008 Remaster\)](https://open.spotify.com/album/65IUZfizoxnc0WHnhEZjf3) | 3:16 | 2019-08-01 | 2022-07-29 |
 | [At Home He's a Tourist](https://open.spotify.com/track/1fpSdqEoXJBEr4HGQhWcxP) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:30 | 2018-12-12 | 2022-04-21 |
+| [Babooshka \- 2018 Remaster](https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 3:19 | 2022-07-05 |  |
 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 | 2022-07-05 | 2023-03-18 |
 | [Ball of Confusion \- \(Single Edit\)](https://open.spotify.com/track/6DdDDCjXFlesBDDnwzA0Mi) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg) | 3:32 | 2020-01-07 | 2022-04-16 |
 | [Ball of Confusion \- Single Edit](https://open.spotify.com/track/5a1xOAkydEy3Ar4R5Z9oDr) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/3AcsDSTDj7AR2JBhnwxDHS) | 3:32 | 2020-01-07 | 2022-11-13 |
@@ -342,7 +343,7 @@
 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/0kA5scXMiaO5Ms2GQ4pRWa) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2011 Remaster\)](https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF) | 3:55 | 2018-12-12 | 2022-07-29 |
 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:55 | 2018-12-12 |  |
 | [Surrender](https://open.spotify.com/track/4QRO73C82pI3OCHo0njVlS) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [A Way of Life](https://open.spotify.com/album/26PJUy6j7JJYwNMQ2M5XQh) | 3:48 | 2018-12-12 | 2022-04-21 |
-| [Surrender \- 2022 \- Remaster](https://open.spotify.com/track/21DRFiBq9G12EAq9RoW6iw) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Surrender](https://open.spotify.com/album/7l5I3C9sBNZfNG0BiECU2X) | 3:46 | 2018-12-12 |  |
+| [Surrender \- 2022 \- Remaster](https://open.spotify.com/track/21DRFiBq9G12EAq9RoW6iw) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Surrender](https://open.spotify.com/album/7l5I3C9sBNZfNG0BiECU2X) | 3:46 | 2018-12-12 | 2023-03-23 |
 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2018-12-12 |  |
 | [Tainted Love / Where Did Our Love Go \- Extended Version / Medley](https://open.spotify.com/track/5fkfdFPtgeYGvpGYblD7l1) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non Stop Erotic Cabaret \(Deluxe Edition\)](https://open.spotify.com/album/1xza4j8vMQdGqqQdHa30lI) | 9:02 | 2019-08-01 | 2022-11-13 |
 | [Talk Talk Talk](https://open.spotify.com/track/2YhXd0kSez8zBR1xssRK2Q) | [Blue Murder](https://open.spotify.com/artist/14O4ikLGE6ytLKNUFtdde9) | [La la Love](https://open.spotify.com/album/07JbMCRb6znM52iFIofwEB) | 3:00 | 2019-08-02 | 2022-04-21 |

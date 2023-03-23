@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 391 songs - 17 hr 24 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 394 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -399,5 +399,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 389 | [A Goat Speaking](https://open.spotify.com/track/2e2T1HIpVG8XIu3tcLaKJf) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [City On My Back](https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB) | 2:23 |
 | 390 | [Couch](https://open.spotify.com/track/0VLkwjIaeJM5KMjcVVybBp) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [The Life Of Pi'erre 5](https://open.spotify.com/album/2i5NyX1puwpGt7tmaP5sEg) | 4:23 |
 | 391 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 |
+| 392 | [Poppin \(feat\. Lil Tecca\)](https://open.spotify.com/track/0tQN4n9UEqIOCffahbeOHL) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Evolution](https://open.spotify.com/album/3nxk4XwXGAiV625DPvgjAA) | 2:53 |
+| 393 | [Mysëlf](https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:30 |
+| 394 | [Fish & Chips](https://open.spotify.com/track/0L06mPuSfUUGoOzK3fa9zD) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 2:53 |
 
-Snapshot ID: `Njk2MCwxZTVhYjhjZDI4ZDM4OWE1OTBlYTFjOTQ1ZDE0NTY1ZmEwODkzNTE1`
+Snapshot ID: `Njk2Myw2MzdmYzYyNzE5ZjIzZTc3Nzk2OWE5NzJmMTk1MTgwNDIyMDk5NzNj`

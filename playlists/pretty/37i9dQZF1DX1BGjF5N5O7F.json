@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 540252,
+  "num_followers": 540427,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI2NDM3NCwwMDAwMDAwMGVlMTFiMzNmYTE1ZmNkZWY4Y2M3N2VjMWViZjE0NGRj",
+  "snapshot_id": "MTY3NTI2NDM3NCwwMDAwMDAwMDRkNGMyNjg2ZDhmYjI1ZDdiOWQ2YTZhOTc1YzViMGIz",
   "tracks": [
     {
       "added_at": "2023-02-01 15:12:54",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-01 15:12:54",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 266999,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
-    },
-    {
-      "added_at": "2023-02-01 15:12:54",
-      "album": {
         "name": "Power Over Me EP",
         "url": "https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 200435,
       "name": "Power Over Me - Acoustic",
       "url": "https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL"
+    },
+    {
+      "added_at": "2023-02-01 15:12:54",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 266999,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
     },
     {
       "added_at": "2023-02-01 15:12:54",

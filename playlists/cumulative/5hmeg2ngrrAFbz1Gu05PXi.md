@@ -2,9 +2,9 @@
 
 ### [Pure Flow Coding](https://open.spotify.com/playlist/5hmeg2ngrrAFbz1Gu05PXi)
 
-> Get into the flow and stay focused while writing code, with music curated by the JetBrains team.
+> Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-111 songs - 10 hr 18 min
+112 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cissy Strut](https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Funkify Your Life: The Meters Anthology](https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz) | 3:05 | 2022-10-18 |  |
 | [Come Closer](https://open.spotify.com/track/1lpbjt1C56RxsqRdVXlNSf) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Immortal Changes](https://open.spotify.com/album/7yuJEojQ2uk4iUUtSFdkrd) | 6:47 | 2022-10-18 |  |
 | [Contabele](https://open.spotify.com/track/54rN3P4FDQUa1Xq5a9fCpW) | [Newtone](https://open.spotify.com/artist/2ou8uYWmrmdDswx8F5BDiK) | [No Copyrights](https://open.spotify.com/album/00eeRxkfPhcHZ2JdMPT88p) | 3:40 | 2022-10-18 |  |
+| [Coral Reef](https://open.spotify.com/track/68UOubR6MwuhCFCabUzFaA) | [Mindseye](https://open.spotify.com/artist/0KnSPZGucOmyk3AnKaUGel) | [Coral Reef](https://open.spotify.com/album/41G14bbn83RzdgkkefN41u) | 4:19 | 2023-03-22 |  |
 | [Crockett's Theme \- Original Mix](https://open.spotify.com/track/445YwSgIoXj8yJlK7i9oKo) | [Michael Cassette](https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd) | [Temporarity](https://open.spotify.com/album/5sh4WQrvz44dqgdoWaTk7j) | 7:06 | 2022-10-18 |  |
 | [Crystalline](https://open.spotify.com/track/5fKDVeXJkygEWlL3kWDAc3) | [KLIMENT](https://open.spotify.com/artist/2BRjVvEof1DxRMn9HlCdT5), [Milena Sergueeva](https://open.spotify.com/artist/20ayQBuXhcnntiSUF737lB), [Nevena Nikolova](https://open.spotify.com/artist/50C90pOPjCPWrtSgJmG08H) | [The Perpetual Ritual](https://open.spotify.com/album/5G5hFnkosbXaEzmx4MVHBz) | 9:47 | 2022-10-18 |  |
 | [Curiosity](https://open.spotify.com/track/1nZBDSwhT22lduk4x3K76E) | [Random Rab](https://open.spotify.com/artist/4w8MWlPCLi8uZRkCMyrtCO) | [Formless Edge](https://open.spotify.com/album/4W1iY4Uhnhx5apgB8qRfxg) | 7:18 | 2022-10-18 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-646 songs - 1 day 12 hr 24 min
+647 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [זוגות כאלה](https://open.spotify.com/track/2e33MYvTvmpUPTgOZJbRHf) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [זוגות כאלה](https://open.spotify.com/album/244Rb7ISEMuJ4yWbOd2ZCs) | 3:20 | 2021-07-22 | 2022-01-08 |
 | [חג פורים](https://open.spotify.com/track/5rAq5A04MbvQYDWKJsKsTy) | [Dorit Reuveni](https://open.spotify.com/artist/1C0v00zfutIDcsVm4ZOJPO) | [שירי פורים](https://open.spotify.com/album/1w9xbILauVplO0HuE1Qg3y) | 1:29 | 2022-03-16 | 2023-03-10 |
 | [חדוז'ה](https://open.spotify.com/track/3eq8LeiHeLe1nTtQobQpTo) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [חגיגה מרוקאית](https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD) | 3:51 | 2022-04-24 | 2022-04-26 |
+| [חוזר על עצמו](https://open.spotify.com/track/4XbuWu7i4SwGi04lLzMcKE) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [חוזר על עצמו](https://open.spotify.com/album/2ZIVk42nxXcN6f79rDWkgx) | 3:16 | 2023-03-22 |  |
 | [חוץ ממך](https://open.spotify.com/track/3ZT2YK7nfPXq3xCrlWkgt7) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [חוץ ממך](https://open.spotify.com/album/74SFMWyTlkp0Oxd4AQJ0xP) | 3:11 | 2022-01-25 | 2022-06-01 |
 | [חורף באוטו](https://open.spotify.com/track/5STI4AAzr3uMvdpx4wUSGr) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חורף באוטו](https://open.spotify.com/album/0U8YMNhvvpbDi5G5i8oYz6) | 4:11 | 2021-11-02 | 2022-04-10 |
 | [חורף בחלון](https://open.spotify.com/track/4b5dVRUzTCy0ngxobUX2DG) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [פרק א' נגמר](https://open.spotify.com/album/5yQFGP3SYKAHZp3XlROttw) | 3:32 | 2023-02-06 |  |
@@ -559,7 +560,7 @@
 | [סביבון סוב סוב סוב](https://open.spotify.com/track/58NBSNdG8s0jSikjPRmdjS) | [Hana Laszlo](https://open.spotify.com/artist/6cp8bVNeuwo43R1Z0eyn7y) | [100 שירים ראשונים \(חלק ב\)](https://open.spotify.com/album/7r5rhny3Cns5TiiHYpOPBl) | 0:43 | 2021-11-30 | 2022-12-21 |
 | [סגול בהיר](https://open.spotify.com/track/7yamSClFVolBatiO4PvCjr) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [סגול בהיר](https://open.spotify.com/album/3Qq9reXVhaAMmsP40r31mq) | 3:36 | 2021-07-10 | 2021-07-11 |
 | [סדר העבודה](https://open.spotify.com/track/4A5lRH29TyKxllsl94BWex) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 5:50 | 2021-09-17 | 2022-10-07 |
-| [סהרה](https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:04 | 2021-12-18 |  |
+| [סהרה](https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:04 | 2021-12-18 | 2023-03-23 |
 | [סהרה + לבדי](https://open.spotify.com/track/6Tfl8NsXQSMRsTBjgdWtHs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סהרה + לבדי](https://open.spotify.com/album/57d2RFiCo2VlaqonKO51g7) | 3:58 | 2023-03-01 | 2023-03-03 |
 | [סהרה \- Live](https://open.spotify.com/track/7BcRDWY4VTCvRRHoobFWWo) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [סהרה \(Live\)](https://open.spotify.com/album/78GQ3pNd1Uy3oQJsX3MmGk) | 4:32 | 2022-07-29 |  |
 | [סוף של כל סיפור](https://open.spotify.com/track/52IzyboDKO3vFCWebuDd7e) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [סוף של כל סיפור](https://open.spotify.com/album/2Id1zXgJuXAXSe2xzBGJST) | 3:17 | 2022-01-20 | 2022-02-13 |

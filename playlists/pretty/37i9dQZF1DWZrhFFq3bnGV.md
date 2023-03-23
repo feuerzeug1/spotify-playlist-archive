@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover:
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,912 likes - 102 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,936 likes - 102 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 92 | [Di Pusat Jakarta](https://open.spotify.com/track/1nXD12slBGEda2af9gl84v) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [Di Pusat Jakarta](https://open.spotify.com/album/59bPqJysP1SflaDMCOOFhK) | 3:19 |
 | 93 | [Happy Guy](https://open.spotify.com/track/4mkrBtAdIWJ6xTwZJod13f) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Love & Imagination](https://open.spotify.com/album/2i7qwVx6d5KWNPu0MLbGsx) | 5:18 |
 | 94 | [Out For Myself](https://open.spotify.com/track/1vod4ABB5ohyWCR9q43kdO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Out For Myself](https://open.spotify.com/album/1FR6iORwa5Pjjpch7cNUQo) | 2:49 |
-| 95 | [Nurlela](https://open.spotify.com/track/2yP9OkF1w53ZyiuFIQavxo) | [Trio Lestari](https://open.spotify.com/artist/6S2gfM9z90Wo5LtHIrEhJD) | [Wangi](https://open.spotify.com/album/3ttimZXZQMkxufn0YWUeet) | 3:26 |
+| 95 | [Nurlela](https://open.spotify.com/track/5NUl9eAqHOSDQwFI69G0Mc) | [Trio Lestari](https://open.spotify.com/artist/6S2gfM9z90Wo5LtHIrEhJD) | [Wangi](https://open.spotify.com/album/1B7mIEZo7keMFiGFsZKBDu) | 3:26 |
 | 96 | [fake optics](https://open.spotify.com/track/6claTdKnG2FOnikFadYeno) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [fake optics](https://open.spotify.com/album/4PNP4xTW095tbZZinDRbXw) | 3:25 |
 | 97 | [Talking to Myself](https://open.spotify.com/track/72hbDZ7MMYjweTu3ItXysl) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Talking to Myself](https://open.spotify.com/album/181Fo4Z0LGLGVTjy2VPm2n) | 3:23 |
 | 98 | [bitterlove](https://open.spotify.com/track/74OLXYsvpfmSgPCMMi898K) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [bitterlove](https://open.spotify.com/album/5pSxeG2bdlj3MYdBVRBexK) | 3:36 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 101 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 |
 | 102 | [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt) | [Pengungkapan Hatimu](https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf) | 3:56 |
 
-Snapshot ID: `MTY3ODYyNjA1NiwwMDAwMDAwMGJjNmJmMjRkZjEyYjc2NzJmYzZhZDAxZmIwMjdhZWRh`
+Snapshot ID: `MTY3ODYyNjA1NiwwMDAwMDAwMGI1NWE2MWIxNjliMjYyMTYzOGJhNGY0NWEwNjM5NjEw`

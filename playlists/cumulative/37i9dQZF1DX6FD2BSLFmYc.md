@@ -4,7 +4,7 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-105 songs - 6 hr 42 min
+107 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Prayer to Dispel Sickness and Harm](https://open.spotify.com/track/3Umg3h2GYJ3vv4LH253wVp) | [Kelsang Chukie Tethong](https://open.spotify.com/artist/4Cmf9jS7jDovDDUDXul2LS) | [Putumayo Presents World Yoga](https://open.spotify.com/album/7tytEAPRW0BZo4cAWMnbLB) | 4:52 | 2022-07-18 |  |
 | [A State of Serenity](https://open.spotify.com/track/176IOSw9ni8nujE5dohokG) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [A State of Serenity](https://open.spotify.com/album/57igbGHTL6IlAtYAbN15PV) | 2:18 | 2022-07-18 |  |
 | [A State of Serenity](https://open.spotify.com/track/2X5ft2Wr7rKNWOIq95r4jN) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [A State of Serenity](https://open.spotify.com/album/4cRhOKD4JYSYT3m6rCoadt) | 2:18 | 2022-07-18 | 2022-07-29 |
+| [Aamani](https://open.spotify.com/track/4XnDI3ILPViOW41CExGjtt) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Aamani](https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT) | 2:42 | 2023-03-22 |  |
 | [Afternoon Çay](https://open.spotify.com/track/1VkMQiSZhw7KDYEQlPxl2I) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Aludu Sessions](https://open.spotify.com/album/2opmjRlnm3K6NhueTKKYeh) | 2:52 | 2023-01-13 |  |
 | [Aran In Repose](https://open.spotify.com/track/1Smn0BKvXLPvI0gsS679Xd) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [A Cat b/w Aran in Repose](https://open.spotify.com/album/5L4hjpNZ0IAMWCylo3YqS5) | 7:35 | 2022-07-18 | 2023-03-09 |
 | [Asian Meditation and Relax](https://open.spotify.com/track/003BP2iJyy419QbGY0i7Ux) | [Oriental Music Zone](https://open.spotify.com/artist/7IgLHADCmO8pOUAqR9kTo3) | [Asian Meditation and Relax \(Oriental Soothing Music, Yoga, Massage & Zen Spa\)](https://open.spotify.com/album/1j3G1QVFmF1twCSAA0zgL9) | 3:27 | 2022-07-18 |  |
@@ -27,6 +28,7 @@
 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 | 2023-02-10 |  |
 | [Crystal Bowl & Shamanic Shells](https://open.spotify.com/track/3htZk2uZHjlkRhlaqaM3d8) | [Crystal Relaxations](https://open.spotify.com/artist/2fOp9yWKqkoEaLevqSKkHi) | [Crystal Bowl & Shamanic Shells](https://open.spotify.com/album/448uGKK2wcs9EXl8NX8KMO) | 4:28 | 2022-07-18 |  |
 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 | 2022-07-18 |  |
+| [Echoes](https://open.spotify.com/track/59v6WQmmNU6XZYgg3ZV8DE) | [Nepenthesis](https://open.spotify.com/artist/5eCkBm1UK2IpA92JiNoMV6) | [Echoes](https://open.spotify.com/album/3YRyKqirEex6D85nhoNgLU) | 3:38 | 2023-03-22 |  |
 | [En Paz 432Hz](https://open.spotify.com/track/4pSt8Vci86ylpq2l2auNWJ) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [En Paz 432Hz](https://open.spotify.com/album/5iEHD2vXDdCPUG14clmldm) | 2:53 | 2023-01-13 |  |
 | [Everything is Yours](https://open.spotify.com/track/2CqJKQV1e1ii2ImqbXIljE) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Everything is Yours](https://open.spotify.com/album/701v34jqtD6Pt3o78pJ71c) | 3:18 | 2023-01-13 |  |
 | [fable](https://open.spotify.com/track/2x4JUfTNw6Ht4lUxtAS0OP) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [fable](https://open.spotify.com/album/0PgDvzkzNQ54WDXqmaGgmv) | 2:29 | 2023-03-08 |  |

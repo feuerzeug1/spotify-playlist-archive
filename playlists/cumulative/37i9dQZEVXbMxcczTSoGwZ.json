@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 201031,
       "name": "Arvaa (feat. Sexmane)",
       "url": "https://open.spotify.com/track/7l4WBLjtYydkJkzMRHrzld"
@@ -3230,6 +3230,24 @@
       "duration_ms": 130101,
       "name": "Crocodile Teeth",
       "url": "https://open.spotify.com/track/0Blcsfh3cqrWBAibAEBh1p"
+    },
+    {
+      "album": {
+        "name": "Crocodile Teeth",
+        "url": "https://open.spotify.com/album/1Mc9i5XpiT6mwj0qOkmkbl"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130101,
+      "name": "Crocodile Teeth",
+      "url": "https://open.spotify.com/track/6P1YFoPjA23KrYyc4RRI1f"
     },
     {
       "album": {

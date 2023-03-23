@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Adriel Favela, Zion & Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,625 likes - 79 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,635 likes - 79 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

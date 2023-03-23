@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Camille Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,544 likes - 88 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,692 likes - 88 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

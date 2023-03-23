@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 11738,
+  "num_followers": 11765,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMGJlY2Y0OWQyYThmMDAwZjBkMzFhY2FmNzI5M2E4Njlm",
+  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMDk4MzVjMTg5OTM3MzA0YTk5MzI2YzY1MzU2NTRhYjdi",
   "tracks": [
     {
       "added_at": "2023-02-14 07:48:55",
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
     },
     {
-      "added_at": "2023-03-22 01:41:05",
+      "added_at": "2023-03-23 01:38:27",
       "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn"
     },
     {
-      "added_at": "2023-03-22 01:41:05",
+      "added_at": "2023-03-23 01:38:27",
       "album": {
         "name": "a tempo",
         "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
+        "name": "lazygirl",
+        "url": "https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ"
+      },
+      "artists": [
+        {
+          "name": "Chuther",
+          "url": "https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ"
+        }
+      ],
+      "duration_ms": 166750,
+      "name": "lazygirl",
+      "url": "https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
         "name": "SOULBYSEL Compilation 04",
         "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 124572,
       "name": "Donut",
       "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
-    },
-    {
-      "added_at": "2023-02-14 07:48:55",
-      "album": {
-        "name": "lazygirl",
-        "url": "https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ"
-      },
-      "artists": [
-        {
-          "name": "Chuther",
-          "url": "https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ"
-        }
-      ],
-      "duration_ms": 166750,
-      "name": "lazygirl",
-      "url": "https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK"
     },
     {
       "added_at": "2023-02-14 07:48:55",

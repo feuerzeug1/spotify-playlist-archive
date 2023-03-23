@@ -1,13 +1,37 @@
 {
   "description": "Curtis Waters makes anti pop",
-  "num_followers": 695561,
+  "num_followers": 695567,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQyMjQ1MiwwMDAwMDAwMDE4M2IwYzZkNDk4OGQzM2EzNDIyNWEzZDliNTY4NWI4",
+  "snapshot_id": "MTY3OTQ5MjYxOCwwMDAwMDAwMGZlZWQ3NWZmYzc1MDZmNjA4MWFiMDFlYjI3OGEwYjhi",
   "tracks": [
+    {
+      "added_at": "2023-03-22 13:43:38",
+      "album": {
+        "name": "Bottles, Coughs, and Red Pandas",
+        "url": "https://open.spotify.com/album/5kyLNDRZEiMCuMv7tTuHTj"
+      },
+      "artists": [
+        {
+          "name": "2oo7",
+          "url": "https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu"
+        },
+        {
+          "name": "Shai Nowell",
+          "url": "https://open.spotify.com/artist/6uClb6xksR6JJJPRvAvES5"
+        },
+        {
+          "name": "DivineDevine",
+          "url": "https://open.spotify.com/artist/2FmbdQRR6CJb0ZY5LW8bKJ"
+        }
+      ],
+      "duration_ms": 207058,
+      "name": "i go we go",
+      "url": "https://open.spotify.com/track/05CCHHEicXhqrtk3VO5SyG"
+    },
     {
       "added_at": "2023-03-21 15:37:14",
       "album": {
@@ -36,7 +60,7 @@
       },
       "artists": [
         {
-          "name": "Dexter in the Newsagent",
+          "name": "dexter in the newsagent",
           "url": "https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp"
         }
       ],
@@ -1699,22 +1723,6 @@
       "duration_ms": 204608,
       "name": "until my heart stops beating",
       "url": "https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU"
-      },
-      "artists": [
-        {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
-        }
-      ],
-      "duration_ms": 226833,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU"
     }
   ],
   "unique_name": "anti pop",

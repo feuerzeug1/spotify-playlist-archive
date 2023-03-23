@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 50,
+  "num_followers": 54,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ0MzU0NiwwMDAwMDAwMDdmNDQwYTZkMDdiNzk4MTRmZmU2MWE3M2ZjYTBjOTQx",
+  "snapshot_id": "MTY3ODQ0MzU0NiwwMDAwMDAwMDE2NjMyNGQwMjg2NjZkODQwMTAwZGNmMTQxNTk5ZTU2",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -679,6 +679,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Never Go Back",
+        "url": "https://open.spotify.com/album/5EqITahBSjWcU71mbhFPEf"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 175424,
+      "name": "Never Go Back",
+      "url": "https://open.spotify.com/track/2QrXzOqLCVDRZHkToA0tSR"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Slow Dance (feat. Ava Max)",
         "url": "https://open.spotify.com/album/3tnCAhqSU4V0EEgYnrTRuD"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 178799,
       "name": "Slow Dance (feat. Ava Max)",
       "url": "https://open.spotify.com/track/5FNS5Vj69AhRGJWjhrAd01"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Never Go Back",
-        "url": "https://open.spotify.com/album/5EqITahBSjWcU71mbhFPEf"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 175424,
-      "name": "Never Go Back",
-      "url": "https://open.spotify.com/track/2QrXzOqLCVDRZHkToA0tSR"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "All I Wanna Do",
+        "url": "https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Be Someone",
         "url": "https://open.spotify.com/album/7x3X4EQy3RgIS4AGopCyEH"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 204567,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/4esEsg9IxiTAGMBQLe9XOu"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "All I Wanna Do",
-        "url": "https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Sun Is Shining",
-        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Vince Freeman",
-          "url": "https://open.spotify.com/artist/74fA5V74G5FAxND01a42is"
-        }
-      ],
-      "duration_ms": 189243,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Complicated (Faustix Remix)",
         "url": "https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 147840,
       "name": "Complicated - Faustix Remix",
       "url": "https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Vince Freeman",
+          "url": "https://open.spotify.com/artist/74fA5V74G5FAxND01a42is"
+        }
+      ],
+      "duration_ms": 189243,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
     },
     {
       "added_at": "2020-02-18 13:31:30",

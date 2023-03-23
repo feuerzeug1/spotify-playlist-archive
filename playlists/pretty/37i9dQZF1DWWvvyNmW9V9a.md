@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Cruel Summer on the setlist? We did it, Joe! 💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,026,076 likes - 109 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,027,960 likes - 109 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

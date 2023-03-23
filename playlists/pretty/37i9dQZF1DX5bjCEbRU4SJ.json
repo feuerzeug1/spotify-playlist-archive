@@ -1,12 +1,12 @@
 {
   "description": "Calm Down with this chilled out playlist. For when it's time to just sit and bask in the afterglow.",
-  "num_followers": 563819,
+  "num_followers": 563828,
   "original_name": "Calm Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NDU2NDk1MSwwMDAwMDAwMDRiZDMwODE1NzZiOWIyYTY2NmNiMzE1MWVkYjA4MDcy",
+  "snapshot_id": "MTU0NDU2NDk1MSwwMDAwMDAwMDc0NWZkZjk0Nzg3NDUzNDdkYzA0NmJmYzNiZTg4MmQ3",
   "tracks": [
     {
       "added_at": "2018-12-11 21:48:39",
@@ -999,22 +999,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Arms",
-        "url": "https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs"
-      },
-      "artists": [
-        {
-          "name": "Bell X1",
-          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
-        }
-      ],
-      "duration_ms": 299853,
-      "name": "The Upswing",
-      "url": "https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Ape in Pink Marble",
         "url": "https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 208773,
       "name": "Middle Names",
       "url": "https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs"
+      },
+      "artists": [
+        {
+          "name": "Bell X1",
+          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
+        }
+      ],
+      "duration_ms": 299853,
+      "name": "The Upswing",
+      "url": "https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Blood from a Stone",
-        "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 266804,
-      "name": "When the Day Comes",
-      "url": "https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Incorruptible Heart",
         "url": "https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 180906,
       "name": "I Don't Recall",
       "url": "https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Blood from a Stone",
+        "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "duration_ms": 266804,
+      "name": "When the Day Comes",
+      "url": "https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu"
     },
     {
       "added_at": "2018-12-11 21:48:39",

@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists, co-curated by  <a href=\u201chttps://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs?si=ynZhn3bXQ5S1M1yxXVpkmg\u201d>Janelle Mon\u00e1e</a>  for International Women\u2019s Day.",
-  "num_followers": 37613,
+  "num_followers": 37657,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDg0OGU0MmM5NjFlODNlMzNmMjlmZjU3OTFjMDU2OTEw",
+  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDQ5MjM4OTE3NTVlZjIyYjM2ZTg4ZTllOTYwZDdkZDk4",
   "tracks": [
     {
       "added_at": "2023-03-01 05:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "God, I Hate This Place",
+        "url": "https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T"
+      },
+      "artists": [
+        {
+          "name": "Annie DiRusso",
+          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
+        }
+      ],
+      "duration_ms": 210087,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/09tc8sP1yi1AGC8JmtS8pd"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 228186,
       "name": "Mujer (Ft. iLe)",
       "url": "https://open.spotify.com/track/0EFxVewPdGJG4LzBONflSE"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "God, I Hate This Place",
-        "url": "https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T"
-      },
-      "artists": [
-        {
-          "name": "Annie DiRusso",
-          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
-        }
-      ],
-      "duration_ms": 210087,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/09tc8sP1yi1AGC8JmtS8pd"
     },
     {
       "added_at": "2023-03-01 05:00:00",

@@ -1,13 +1,269 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Tiny Habits | Visual Artist: Bailey Elder",
-  "num_followers": 33887,
+  "num_followers": 34040,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg5NjY0NywwMDAwMDAwMGRkODgzNDQyZTM2N2FkNzFiZDdhNjU5OTYzYzBlMjUx",
+  "snapshot_id": "MTY3OTUwNDU3OCwwMDAwMDAwMGExNmY1NzU1ZTE5YzAxY2FlZTdiN2RhMjNhNTdhMzQ2",
   "tracks": [
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "Tell Me That You Love Me",
+        "url": "https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "EC",
+        "url": "https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "duration_ms": 113692,
+      "name": "EC",
+      "url": "https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR"
+    },
+    {
+      "added_at": "2023-03-22 17:02:58",
+      "album": {
+        "name": "my dove (demo)",
+        "url": "https://open.spotify.com/album/5kQPmMqFJ3Nnoj1pIxevAr"
+      },
+      "artists": [
+        {
+          "name": "Y.D.",
+          "url": "https://open.spotify.com/artist/7cwVAgQNnlaaYmZxeVltgB"
+        }
+      ],
+      "duration_ms": 244655,
+      "name": "my dove (demo)",
+      "url": "https://open.spotify.com/track/65WMXVLyYQp2B8ugWktIFC"
+    },
+    {
+      "added_at": "2023-03-15 16:10:47",
+      "album": {
+        "name": "Give Me The Moon",
+        "url": "https://open.spotify.com/album/4NZX2Dq1VdgIduJ4jXVgFN"
+      },
+      "artists": [
+        {
+          "name": "Siena Bella",
+          "url": "https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C"
+        }
+      ],
+      "duration_ms": 188709,
+      "name": "Give Me The Moon",
+      "url": "https://open.spotify.com/track/7a8Rfevy7Fdkhg3bvZpIYJ"
+    },
+    {
+      "added_at": "2023-03-22 16:53:59",
+      "album": {
+        "name": "Old Bones",
+        "url": "https://open.spotify.com/album/793zgIr0IK4C7VMsXTQcPy"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Old Bones",
+      "url": "https://open.spotify.com/track/5dYVnt66SZuvHzhO0k6Q8Q"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/370N5kvwlAJ00bFXROxi50"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "duration_ms": 186451,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/0du9zbRI7wC1qLjvYDMfIE"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "Little Life",
+        "url": "https://open.spotify.com/album/20EydxvdB13ippveWbHUUo"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Little Life",
+      "url": "https://open.spotify.com/track/7neB4qd6tZxWoSOwaelq9s"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "Let It Lie",
+        "url": "https://open.spotify.com/album/0mcmBaLmhhNA0SgF5NM8AN"
+      },
+      "artists": [
+        {
+          "name": "Mountain Boy",
+          "url": "https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Let It Lie",
+      "url": "https://open.spotify.com/track/7sEnkcuwa1FNMjGxqeL7Pj"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/2vA7BmNYaoDFrDAqqh6InW"
+      },
+      "artists": [
+        {
+          "name": "Ny Oh",
+          "url": "https://open.spotify.com/artist/6IiR2T9WMQnYHK2HQUiPTx"
+        }
+      ],
+      "duration_ms": 278619,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/5ykk5qOMCLtgQabMEySJN3"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "Longing for You",
+        "url": "https://open.spotify.com/album/70LrUo8hYNKC79HGOrUmE5"
+      },
+      "artists": [
+        {
+          "name": "Will Fox",
+          "url": "https://open.spotify.com/artist/7c7k5fRzBsUmyyGuU5pj67"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Longing for You",
+      "url": "https://open.spotify.com/track/0Q60Q2afr5zP1FsNpILEe4"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "Waste It",
+        "url": "https://open.spotify.com/album/0z1pPvFn1YrtJ5viQYIwnE"
+      },
+      "artists": [
+        {
+          "name": "Kylie Dailey",
+          "url": "https://open.spotify.com/artist/0lC97iGj9XViueKd9WERw4"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Waste It",
+      "url": "https://open.spotify.com/track/5y0BRKPLY4WXJaczI96QmM"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "Blissful Lands",
+        "url": "https://open.spotify.com/album/6ukumm320OMDbQmN8SHnJS"
+      },
+      "artists": [
+        {
+          "name": "Martin Kerr",
+          "url": "https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t"
+        }
+      ],
+      "duration_ms": 179686,
+      "name": "Blissful Lands",
+      "url": "https://open.spotify.com/track/2RjmK199jrWZFYn6Z8tLbP"
+    },
+    {
+      "added_at": "2023-03-15 16:10:47",
+      "album": {
+        "name": "one more",
+        "url": "https://open.spotify.com/album/4PmUFaFkjEDpnxJBFca7ua"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 223095,
+      "name": "one more",
+      "url": "https://open.spotify.com/track/6ls5CB8bM1iXIwsOVjwYwN"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "You Don't Wanna Leave it Alone",
+        "url": "https://open.spotify.com/album/0QIIAR2Ko4vEfb0kNjaQIg"
+      },
+      "artists": [
+        {
+          "name": "J.E. Sunde",
+          "url": "https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW"
+        }
+      ],
+      "duration_ms": 182622,
+      "name": "You Don't Wanna Leave it Alone",
+      "url": "https://open.spotify.com/track/5CeBqKJKkZtllzY5FaMPdd"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "Say What You Like",
+        "url": "https://open.spotify.com/album/3xBBmE8fVQLEzau1mRfn2J"
+      },
+      "artists": [
+        {
+          "name": "Doug Paisley",
+          "url": "https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9"
+        }
+      ],
+      "duration_ms": 173894,
+      "name": "If I Wanted To",
+      "url": "https://open.spotify.com/track/0ebpnu4g14P1jiZxTIhCa3"
+    },
+    {
+      "added_at": "2023-03-22 16:46:34",
+      "album": {
+        "name": "Love On Your Side",
+        "url": "https://open.spotify.com/album/6PcAbv5JxZpQVgmX2sc0KX"
+      },
+      "artists": [
+        {
+          "name": "Dandelion Head",
+          "url": "https://open.spotify.com/artist/5a9RweUjrerIZxBbes92Bg"
+        }
+      ],
+      "duration_ms": 188885,
+      "name": "Love On Your Side",
+      "url": "https://open.spotify.com/track/0sieqttemsa73UvwWoWZdW"
+    },
     {
       "added_at": "2023-03-15 16:10:47",
       "album": {
@@ -39,22 +295,6 @@
       "duration_ms": 167086,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/2vFFhmfdiIRAgp1ZHWsBT2"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "one more",
-        "url": "https://open.spotify.com/album/4PmUFaFkjEDpnxJBFca7ua"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 223095,
-      "name": "one more",
-      "url": "https://open.spotify.com/track/6ls5CB8bM1iXIwsOVjwYwN"
     },
     {
       "added_at": "2023-03-15 16:10:47",
@@ -139,22 +379,6 @@
       "duration_ms": 242193,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "Give Me The Moon",
-        "url": "https://open.spotify.com/album/4NZX2Dq1VdgIduJ4jXVgFN"
-      },
-      "artists": [
-        {
-          "name": "Siena Bella",
-          "url": "https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C"
-        }
-      ],
-      "duration_ms": 188709,
-      "name": "Give Me The Moon",
-      "url": "https://open.spotify.com/track/7a8Rfevy7Fdkhg3bvZpIYJ"
     },
     {
       "added_at": "2023-03-15 16:10:47",
@@ -1403,234 +1627,6 @@
       "duration_ms": 325204,
       "name": "dickhead blues",
       "url": "https://open.spotify.com/track/0b1MDxh1MD1dwHs3nczuW7"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "People, Places, Changes",
-        "url": "https://open.spotify.com/album/3vsHZxKzQcKESSKfQW46cO"
-      },
-      "artists": [
-        {
-          "name": "His His",
-          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
-        }
-      ],
-      "duration_ms": 207042,
-      "name": "People, Places, Changes",
-      "url": "https://open.spotify.com/track/0BBRDPapjOw71VTJUM6vWd"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "Goodbye Darlin'",
-        "url": "https://open.spotify.com/album/3xelRiAsgUyx4sRCIfSAjl"
-      },
-      "artists": [
-        {
-          "name": "Devin Hames",
-          "url": "https://open.spotify.com/artist/0kzFXwGCoJMmMk3ZZsfKH5"
-        }
-      ],
-      "duration_ms": 167878,
-      "name": "Goodbye Darlin'",
-      "url": "https://open.spotify.com/track/4wrrRxadSRExo1cjnMr7Km"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "BREAK YOUR HEART",
-        "url": "https://open.spotify.com/album/2ZWGyCfH0iU9MIPGJcrjnv"
-      },
-      "artists": [
-        {
-          "name": "WORRYWORRY",
-          "url": "https://open.spotify.com/artist/5fObbgUTn2cNrVTQwQfZYT"
-        }
-      ],
-      "duration_ms": 179043,
-      "name": "STATE OF ME",
-      "url": "https://open.spotify.com/track/1RYsCFlKzqAkgifIOL4Gs0"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "Change Your/My Mind",
-        "url": "https://open.spotify.com/album/0BnRdjswFaveQPqUYhV4nL"
-      },
-      "artists": [
-        {
-          "name": "Sierra Bryan",
-          "url": "https://open.spotify.com/artist/0DxlA4IwIOfdtyFjo4vVAh"
-        }
-      ],
-      "duration_ms": 303483,
-      "name": "Change Your/My Mind",
-      "url": "https://open.spotify.com/track/2mlWoHJ4vbo9ZX5WbjQuvh"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "The Good Guy",
-        "url": "https://open.spotify.com/album/4cWmReEsAcWuOYpv3UUFGk"
-      },
-      "artists": [
-        {
-          "name": "Lucy Clearwater",
-          "url": "https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj"
-        }
-      ],
-      "duration_ms": 233282,
-      "name": "The Good Guy",
-      "url": "https://open.spotify.com/track/1EBL0MhYmdibSqgMY6smzh"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "favourite",
-        "url": "https://open.spotify.com/album/2an9vO3qE0VZa1ZQDQUkRh"
-      },
-      "artists": [
-        {
-          "name": "nicole amoroso",
-          "url": "https://open.spotify.com/artist/1YJQ6X2HtbL1xNTfPm0Ft7"
-        }
-      ],
-      "duration_ms": 168056,
-      "name": "favourite",
-      "url": "https://open.spotify.com/track/2YN0psh4Z6dyJry641H1J2"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "Ancestral Home",
-        "url": "https://open.spotify.com/album/7kzliC17Na5HVStBREnYZh"
-      },
-      "artists": [
-        {
-          "name": "Half Gringa",
-          "url": "https://open.spotify.com/artist/7LKGXrwJzaRpJIGk4JWVYZ"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Some Curse",
-      "url": "https://open.spotify.com/track/7maIi25fHreumpL9aT9jlE"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "Downplay",
-        "url": "https://open.spotify.com/album/3EDvgNolsYv2YRya1pw94L"
-      },
-      "artists": [
-        {
-          "name": "Casey Dubie",
-          "url": "https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F"
-        }
-      ],
-      "duration_ms": 207431,
-      "name": "Downplay",
-      "url": "https://open.spotify.com/track/3MJjWLDpXDXvHR6ah2HhQx"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "A Ghost",
-        "url": "https://open.spotify.com/album/1QBRg3eax5Aa6w5NprCzHh"
-      },
-      "artists": [
-        {
-          "name": "Shana Cleveland",
-          "url": "https://open.spotify.com/artist/5E6dR5oDjhT39zr1YuXRq0"
-        }
-      ],
-      "duration_ms": 171586,
-      "name": "A Ghost",
-      "url": "https://open.spotify.com/track/0AVZ1tiSe23NnrrJjdOSr5"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "Out of Body",
-        "url": "https://open.spotify.com/album/777GvXKChmKi4NWTLyis2O"
-      },
-      "artists": [
-        {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
-        }
-      ],
-      "duration_ms": 114382,
-      "name": "Out of Body",
-      "url": "https://open.spotify.com/track/7jMnEpPgvHmFBdLuDnQqVl"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "Brighter Side of Blue",
-        "url": "https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB"
-      },
-      "artists": [
-        {
-          "name": "Babitha",
-          "url": "https://open.spotify.com/artist/2I2YUGgtWpuhyI1mUzom4y"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "Happy Person",
-      "url": "https://open.spotify.com/track/37a2o186agDwlqxtlb1pWA"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "Medicine / Apartment",
-        "url": "https://open.spotify.com/album/2pgzZiGNHWwuPhZcPQBX4u"
-      },
-      "artists": [
-        {
-          "name": "June Rosewell",
-          "url": "https://open.spotify.com/artist/4dQVhIUMTPzIarNMn8Bbmd"
-        }
-      ],
-      "duration_ms": 263682,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/3D5k39tZqQWQBi3CYyShn0"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "Maybe We'll Wake Up",
-        "url": "https://open.spotify.com/album/6hZJApBFExwl1viCgibiHq"
-      },
-      "artists": [
-        {
-          "name": "Uma",
-          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
-        },
-        {
-          "name": "Amy May Ellis",
-          "url": "https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9"
-        }
-      ],
-      "duration_ms": 129043,
-      "name": "Maybe We'll Wake Up - Demo",
-      "url": "https://open.spotify.com/track/1vusJF4pEe8rD1RALUkyQJ"
-    },
-    {
-      "added_at": "2023-03-15 16:10:47",
-      "album": {
-        "name": "Sleep Country",
-        "url": "https://open.spotify.com/album/6JHsAMuGUgtq7UnxLufX5f"
-      },
-      "artists": [
-        {
-          "name": "lilo",
-          "url": "https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Beach (Real Love)",
-      "url": "https://open.spotify.com/track/2UhmfBMRzBVBFLjVtnUN8H"
     }
   ],
   "unique_name": "Fresh Finds Folk",

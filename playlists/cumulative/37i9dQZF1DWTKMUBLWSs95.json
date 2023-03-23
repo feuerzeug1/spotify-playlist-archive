@@ -5,6 +5,40 @@
   "tracks": [
     {
       "album": {
+        "name": "The Chopin Project : The Franchomme Legacy",
+        "url": "https://open.spotify.com/album/37ukXSyDBPuOMkSZsxf91F"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Wolfgang Emanuel Schmidt",
+          "url": "https://open.spotify.com/artist/0TKIjTam3WeFSeV2qYrrWf"
+        },
+        {
+          "name": "Jaemin Han",
+          "url": "https://open.spotify.com/artist/1WxvErlQgQm4rDwyhXazOa"
+        },
+        {
+          "name": "Frans Helmerson",
+          "url": "https://open.spotify.com/artist/0dfKYhE2GQaOOS5pYSXnBx"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137693,
+      "name": "24 Pr\u00e9ludes, Op. 28: No. 4 in E Minor (Arr. Franchomme for Cello) [Adapted for 4 Cellos by Matthias Spindler]",
+      "url": "https://open.spotify.com/track/2bHvQDx7KWAWxlopZGZDMo"
+    },
+    {
+      "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
       },
@@ -46,6 +80,54 @@
       "duration_ms": 179123,
       "name": "85mm",
       "url": "https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3"
+    },
+    {
+      "album": {
+        "name": "Schumann & Brahms",
+        "url": "https://open.spotify.com/album/4BGkbzqf7R95Ce9lrSzflR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207046,
+      "name": "Abendlied, Op. 85 No. 12 (Arr. Grosvenor)",
+      "url": "https://open.spotify.com/track/0nJzrxHup9vkQyc9Eg698s"
+    },
+    {
+      "album": {
+        "name": "Golden Oldies \u2013 More Favourite Encores",
+        "url": "https://open.spotify.com/album/6kfVR0aOq5RMUvdHQXDU4f"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Brodsky Quartet",
+          "url": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+        },
+        {
+          "name": "Julian Jacobsen",
+          "url": "https://open.spotify.com/artist/3BxoTaW1q8gZLhHXPxzNxG"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160293,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/6FWiBFCqVMEvsqR55B83BQ"
     },
     {
       "album": {
@@ -775,6 +857,32 @@
     },
     {
       "album": {
+        "name": "Mendelssohn: Variations Concertantes, Op. 17",
+        "url": "https://open.spotify.com/album/38QqAYKcPRnpQiTXtBBBsz"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Haruma Sato",
+          "url": "https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk"
+        },
+        {
+          "name": "\u4e45\u672b \u822a",
+          "url": "https://open.spotify.com/artist/4F682tC1bLChNJpYReJL78"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542840,
+      "name": "Mendelssohn: Variations Concertantes, Op. 17",
+      "url": "https://open.spotify.com/track/6WneainaytyKYXAgHyKTz4"
+    },
+    {
+      "album": {
         "name": "After the chaos",
         "url": "https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H"
       },
@@ -1298,6 +1406,28 @@
       "duration_ms": 366333,
       "name": "The Arctic Suite: I. Frozen World",
       "url": "https://open.spotify.com/track/2CSDYt8EYIsZtDQuv3OdgJ"
+    },
+    {
+      "album": {
+        "name": "Richter: The Four Seasons: Winter 1",
+        "url": "https://open.spotify.com/album/3oG0quWo6XHOFa3xrOwTxz"
+      },
+      "artists": [
+        {
+          "name": "Delirium Musicum",
+          "url": "https://open.spotify.com/artist/6cehH0C4lbI8AmQJ4LAOwZ"
+        },
+        {
+          "name": "\u00c9tienne Gara",
+          "url": "https://open.spotify.com/artist/3nHanVpXy2JPDHQye9f5Wp"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "The Four Seasons: Winter 1",
+      "url": "https://open.spotify.com/track/06l5bOe9KdHs1hgooVIvUn"
     },
     {
       "album": {

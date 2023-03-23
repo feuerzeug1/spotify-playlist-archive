@@ -4,7 +4,7 @@
 
 > The best of today's true alternative rock scene\. Cover: The Luka State
 
-284 songs - 16 hr 19 min
+285 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 | 2023-03-01 |  |
 | [Loser](https://open.spotify.com/track/4AY7vvKJ5URWd61B5Q6S5Z) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Loser](https://open.spotify.com/album/15SJkF9Ly3LLe2a5dYmy6i) | 2:03 | 2021-07-23 | 2022-11-13 |
 | [Love's Not Enough](https://open.spotify.com/track/05oQoV4EScN9MYyCAE4llX) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Love's Not Enough](https://open.spotify.com/album/7b1FC4bu18T9cHNiNsnYcU) | 3:48 | 2021-03-31 | 2022-02-27 |
-| [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 | 2023-03-17 |  |
+| [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 | 2023-03-17 | 2023-03-23 |
 | [Make A Dime](https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [What's So Fucking Funny?](https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG) | 2:56 | 2022-04-29 |  |
 | [Make A Dime](https://open.spotify.com/track/7n7W5gnt66DmY0jVPDD3qp) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Make A Dime](https://open.spotify.com/album/7fdTaeKdHaCZ8CJchQ6V5B) | 2:56 | 2021-09-17 | 2022-07-29 |
 | [Me.TV \(feat\. Bobby Gillespie\)](https://open.spotify.com/track/7aIEOtCR4HhoDreA6syizW) | [Never Not Nothing](https://open.spotify.com/artist/5tSGiNtq3vtp0dkqEefuDC), [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o) | [Me.TV \(feat\. Bobby Gillespie\)](https://open.spotify.com/album/3mrpnZpsLBfvQfry8QDw27) | 3:34 | 2021-03-31 | 2022-01-25 |
@@ -249,6 +249,7 @@
 | [Superglue](https://open.spotify.com/track/5tTpyVtQuj1j8ZBnjn9WPC) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Superglue](https://open.spotify.com/album/39IcaBkeuTzJQcNJ5Hi9CM) | 4:10 | 2023-03-17 |  |
 | [T.I.K.](https://open.spotify.com/track/5E6L7A7Gg0jvdgB47tSXa4) | [Valleyheart](https://open.spotify.com/artist/39cSG80bKnk96yuvGv5KlT) | [T.I.K.](https://open.spotify.com/album/7mPu1MjQjDpB5dB0uueDmD) | 4:39 | 2021-03-31 | 2022-11-13 |
 | [Takes 2 To Kill Me](https://open.spotify.com/track/55wQIiMwfcQxLYUQpSdGl6) | [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [Takes 2 To Kill Me](https://open.spotify.com/album/7bO7Dbh9ByzCznxDYs97Bi) | 2:20 | 2023-01-27 | 2023-03-18 |
+| [Tear Me To Pieces](https://open.spotify.com/track/5zJiFmoADZPlvXPO1PuI0d) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Tear Me To Pieces](https://open.spotify.com/album/6VkLYHpgk4saImc0fFOZYi) | 3:07 | 2023-03-17 |  |
 | [Teenage Lines](https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA) | [alltheprettythings](https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML) | [Teenage Lines](https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv) | 3:44 | 2023-01-27 | 2023-03-19 |
 | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/track/15QNdJ4ZAsIzsuwS8wYSsC) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/album/2TRagAvw8O6bv1dBihq0Cb) | 3:19 | 2021-05-21 | 2022-07-29 |
 | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/track/6yHGQ5QdOkjXzlsJXx88xe) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 3:19 | 2022-04-29 | 2023-01-28 |

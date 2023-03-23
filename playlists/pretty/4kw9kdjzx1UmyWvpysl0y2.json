@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127134,
+  "num_followers": 127132,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDA3MSw5NDZiYWI3NDM2ZWZiM2RlMWY4YjdjZmNiYmJkMWQyNjlkZWM1NDg2",
+  "snapshot_id": "NDA3NiwyNWIyN2EyZTNjYWU5Mzg0YWU2MWEwMDYyMWViM2EzZDU5YzhhYTRj",
   "tracks": [
+    {
+      "added_at": "2023-03-22 16:00:54",
+      "album": {
+        "name": "New Worlds",
+        "url": "https://open.spotify.com/album/6QRMRuL9Bumhv3mholG3iw"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "New Worlds",
+      "url": "https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE"
+    },
     {
       "added_at": "2023-03-21 17:31:29",
       "album": {
@@ -1103,30 +1119,6 @@
       "duration_ms": 268800,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
-    },
-    {
-      "added_at": "2023-01-09 17:52:42",
-      "album": {
-        "name": "It's Not Love",
-        "url": "https://open.spotify.com/album/3jUr6DL5fNek9PGfdKwxiE"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Roee Yeger",
-          "url": "https://open.spotify.com/artist/532H5OS6W0NQak3xMOp7fz"
-        },
-        {
-          "name": "Meggie York",
-          "url": "https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "It's Not Love",
-      "url": "https://open.spotify.com/track/7mv9t5XQUSHa4akJAwdmiZ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

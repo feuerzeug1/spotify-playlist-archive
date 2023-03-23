@@ -4,7 +4,7 @@
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-180 songs - 10 hr 29 min
+181 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Masque d'or](https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Avec les yeux](https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH) | 3:31 | 2022-05-25 |  |
 | [Mayo](https://open.spotify.com/track/5TbsQ0az5xY47FTHmVWtHJ) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT), [Dany Placard](https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp) | [Julie & Dany](https://open.spotify.com/album/6IbkOpwOFXWj4cpHoVJuap) | 3:08 | 2022-05-25 | 2022-07-27 |
 | [MDCI](https://open.spotify.com/track/08ija7PAk2uLACV8B6iizr) | [Gatha](https://open.spotify.com/artist/74RcB2E0EhH2eWyulRmT1j) | [MDCI](https://open.spotify.com/album/0V65F5DDXjTfAGhRVZX2Sd) | 3:15 | 2022-05-25 | 2022-07-28 |
+| [Mezcal](https://open.spotify.com/track/0taw82ovKIdw6kIVdhhVWE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3yRXQ2hZhMonFkkrNeK5sS) | 3:52 | 2022-05-25 |  |
 | [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 | 2022-05-25 | 2022-10-14 |
 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-05-25 | 2023-03-19 |
 | [Moi non plus](https://open.spotify.com/track/1XLvZv0wum0j7uO59pzZhB) | [Catherine Major](https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh) | [Carte mère](https://open.spotify.com/album/2ueD8WvRuRVwRTz18qbhzA) | 3:50 | 2022-05-25 | 2022-07-28 |
@@ -180,7 +181,7 @@
 | [Usage domestique](https://open.spotify.com/track/2ZppabBSZY0rorfI5yxdln) | [Julia Daigle](https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x) | [Un singe sur l'épaule](https://open.spotify.com/album/1EET3eGh9diFTxDBew3tjo) | 4:14 | 2022-05-25 | 2023-01-03 |
 | [Usage domestique](https://open.spotify.com/track/68aXgoS8GiTryD4S67fERN) | [Julia Daigle](https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x) | [Un singe sur l'épaule](https://open.spotify.com/album/3lM7PLudF9NC9w1PB7qUUW) | 4:14 | 2022-05-25 | 2022-07-29 |
 | [Vendeur de bière](https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1) | [L'an 8000](https://open.spotify.com/album/7i55NtPr5ZQ1hsg42WemjU) | 2:48 | 2022-05-25 |  |
-| [Vie en rose](https://open.spotify.com/track/3LAzaKCNXAbzOME6c3QBW1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Nicolas Gémus](https://open.spotify.com/album/1lYKiooDdSrR6j1W0HkIyf) | 4:04 | 2022-05-25 |  |
+| [Vie en rose](https://open.spotify.com/track/3LAzaKCNXAbzOME6c3QBW1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Nicolas Gémus](https://open.spotify.com/album/1lYKiooDdSrR6j1W0HkIyf) | 4:04 | 2022-05-25 | 2023-03-23 |
 | [Vilipendés](https://open.spotify.com/track/5ftHDkocMB6m7yPLiZy4c7) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Poupée Russe](https://open.spotify.com/album/5tY1P4kKvOPwipS8q0jbCD) | 3:12 | 2022-05-25 | 2023-01-11 |
 | [Voilà](https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [On n’enferme pas les oiseaux](https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD) | 2:57 | 2022-05-25 |  |
 | [Volcan](https://open.spotify.com/track/4cV5tdQpPXFF8k60RPNM71) | [La Faune](https://open.spotify.com/artist/3PHImlj9rqrewqZx3uPlQO) | [Demain c'était hier](https://open.spotify.com/album/5bGN7bhzEYEvNnRrye9zaP) | 3:47 | 2022-05-25 | 2022-07-27 |

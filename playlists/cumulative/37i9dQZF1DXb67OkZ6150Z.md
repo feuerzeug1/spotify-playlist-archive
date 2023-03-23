@@ -4,7 +4,7 @@
 
 > The best indie covers\. Cover: Remi Wolf
 
-379 songs - 23 hr 19 min
+380 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [California Dreamin'](https://open.spotify.com/track/41uHv2ZIT0YDUHoyNzvRQ1) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [California Airport Love](https://open.spotify.com/album/4a8neICiUnSWTBd5SP2sn9) | 3:08 | 2021-03-12 | 2022-08-10 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/2rU70oQ4Ioun0sujdlHlkV) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Resistance Radio: The Man in the High Castle Album](https://open.spotify.com/album/3kkGQZCcJAW0W0sURDT0gQ) | 3:13 | 2021-03-12 | 2022-04-20 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/5PDPuNnEocaxBD0NzVEjmh) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [In a Heartbeat](https://open.spotify.com/album/0PAFBKP82cxNYTM05Ca8jp) | 2:54 | 2021-03-12 | 2022-07-28 |
-| [Can't Take My Eyes Off You](https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [Can't Take My Eyes Off You / 3BadSoSad \- Edit](https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP) | 3:29 | 2022-08-09 |  |
+| [Can't Take My Eyes Off You](https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [Can't Take My Eyes Off You / 3BadSoSad \- Edit](https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP) | 3:29 | 2022-08-09 | 2023-03-23 |
 | [Can't Take My Eyes Off You](https://open.spotify.com/track/1uddOsj7TyRA13hnS2yDyk) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [Can't Take My Eyes Off You / 3BadSoSad \- Edit](https://open.spotify.com/album/2bMqAaEuEUDHBkdTNAUl1f) | 3:29 | 2021-03-12 | 2022-07-28 |
 | [Caves](https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Caves](https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc) | 2:59 | 2021-07-21 |  |
 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 | 2021-03-12 |  |
@@ -143,6 +143,7 @@
 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 | 2021-03-12 | 2023-01-23 |
 | [Heart\-Shaped Box](https://open.spotify.com/track/2UrSdFSG1rTuzCwAkeP0ou) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Quarantine Covers](https://open.spotify.com/album/1PoNxdvXr6C4XM4cr6Fr6u) | 3:03 | 2021-03-12 | 2023-01-14 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2021-03-12 | 2022-08-10 |
+| [Heat Waves](https://open.spotify.com/track/76sXxllp4hfL5cAY2906oP) | [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Volume 1](https://open.spotify.com/album/4a9VIksdlTfLwRkdDnycfd) | 2:06 | 2023-03-17 |  |
 | [high and dry](https://open.spotify.com/track/6B9bHLVreCYkEgMs3SnQnY) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [high and dry](https://open.spotify.com/album/3QF88Oi8ah5VqZZD7cgfF2) | 4:05 | 2021-03-12 | 2022-04-08 |
 | [High and Dry](https://open.spotify.com/track/4XBanipnWptd3FPUlMkss8) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [High and Dry](https://open.spotify.com/album/06gtbsD5DmpApjUcGsHG0X) | 5:16 | 2021-08-27 | 2022-07-13 |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-03-12 |  |

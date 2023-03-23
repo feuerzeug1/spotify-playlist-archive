@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-182 songs - 10 hr 53 min
+183 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-10-20 | 2022-11-23 |
 | [Someday Some Morning](https://open.spotify.com/track/6UZJoEOgjx4aCGD6Oa5R6a) | [heybrowne](https://open.spotify.com/artist/7cgeB3Ko3DkBo2daWSHjVp) | [Someday Some Morning](https://open.spotify.com/album/4b948U1I6tj5UiIldls5Hg) | 3:43 | 2023-01-17 | 2023-02-10 |
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2022-12-14 |  |
-| [Something Stupid](https://open.spotify.com/track/5cVmtnzvOQ9BLnn7WpfVxG) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Balcony](https://open.spotify.com/album/16tan8xq0o7dokV7apPeJ0) | 4:32 | 2023-03-22 |  |
+| [Something Stupid](https://open.spotify.com/track/5M5QOn3KYbWOyo7BvbJaqD) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Balcony](https://open.spotify.com/album/3ClQYZUc2caqnGJWSDdn4l) | 4:32 | 2023-03-22 |  |
+| [Something Stupid](https://open.spotify.com/track/5cVmtnzvOQ9BLnn7WpfVxG) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Balcony](https://open.spotify.com/album/16tan8xq0o7dokV7apPeJ0) | 4:32 | 2023-03-22 | 2023-03-23 |
 | [Sometimes You Can't Make It On Your Own \- Radio Edit / 96 BPM](https://open.spotify.com/track/5cav4hKIQvVjzooaL3c9V4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/album/0RkQnqzf23UlcTRaA3b8eq) | 4:50 | 2023-01-10 | 2023-01-18 |
 | [Somewhere In A Dream](https://open.spotify.com/track/6e7ssY4QRLN9PewN49CzLl) | [Somewhere](https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2) | [Somewhere In A Dream](https://open.spotify.com/album/7M4vFU9mVhYNBUgCE2yHdR) | 3:49 | 2023-03-22 |  |
 | [Sorry](https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL COVER ALL](https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD) | 2:49 | 2023-02-16 |  |

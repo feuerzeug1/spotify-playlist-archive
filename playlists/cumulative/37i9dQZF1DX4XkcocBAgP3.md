@@ -4,12 +4,13 @@
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 13 min
+73 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2 Many](https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:00 | 2022-08-25 |  |
 | [1, 2 Many](https://open.spotify.com/track/6qMjM19LLLahZuKSihYn0c) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Yacht Rock Classics](https://open.spotify.com/album/5GM9YXSwam3xB1SP6KKjQC) | 3:00 | 2022-08-25 | 2022-11-13 |
+| [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 | 2023-03-22 |  |
 | [A Long Way](https://open.spotify.com/track/3z1QH1O1h15lFROjcECqgi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:37 | 2022-08-25 |  |
 | [Ain't Far From It](https://open.spotify.com/track/14OiDZVhNtthziMLFViHoU) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:37 | 2022-08-25 |  |
 | [All Over Again](https://open.spotify.com/track/1qUIg2DIRjuSFLBzwZ4QyE) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:28 | 2022-08-25 |  |

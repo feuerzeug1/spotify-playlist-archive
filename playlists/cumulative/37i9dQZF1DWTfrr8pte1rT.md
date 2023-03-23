@@ -4,7 +4,7 @@
 
 > Rock with a Drop Cover: Sullivan King \\m/
 
-287 songs - 16 hr 32 min
+288 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [LOUD \(feat\. Jason Aalon from FEVER 333\)](https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [LOUD](https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf) | 3:28 | 2022-06-24 | 2023-03-18 |
 | [Love Again](https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ) | [Love Again](https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs) | 3:50 | 2022-05-13 |  |
 | [LOVE ME](https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu), [Gabriel Paris](https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4) | [LOVE ME](https://open.spotify.com/album/1YKGI3mInNowuk50Q5HWsQ) | 3:24 | 2021-12-10 | 2023-03-15 |
+| [LOVE ME](https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu), [Gabriel Paris](https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4) | [LOVE ME](https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb) | 3:24 | 2023-03-17 |  |
 | [LOVE ME HATE ME \- VIP](https://open.spotify.com/track/3vM9GmGlJxPnFTPuBffPOD) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [NEW BREED \(DELUXE VIP\)](https://open.spotify.com/album/0RTU6XjmR2EBcY8rJwUgs9) | 3:18 | 2023-01-13 |  |
 | [Love You For All Time](https://open.spotify.com/track/3Lu1fijr9XkO4eSfhya2cG) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Love You For All Time](https://open.spotify.com/album/0nQSAZ1UORnjj5L3SVkCkm) | 2:37 | 2022-04-01 | 2022-11-12 |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2021-12-10 |  |
@@ -195,7 +196,7 @@
 | [Pain Killer](https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:32 | 2022-06-24 |  |
 | [Pain Killer](https://open.spotify.com/track/5eIAOdzmt3Nxd7XDFzek9U) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Pain Killer](https://open.spotify.com/album/23wL0znsNvRZ2TPT2Hh6YK) | 3:32 | 2021-12-10 | 2022-07-29 |
 | [Paper Thin](https://open.spotify.com/track/7c2IApOeLTZfrB5dVScRUP) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom DeLonge](https://open.spotify.com/artist/5h7oZ7t5CU9lst1mIrjp3R), [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Paper Thin](https://open.spotify.com/album/1URt4b8uzVuqXU7R9H4EXA) | 3:17 | 2021-12-10 | 2023-03-04 |
-| [Paradox](https://open.spotify.com/track/7MGbiE5OBeLjvPY6Sv9EDx) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Paradox](https://open.spotify.com/album/25qwYj0uO2Bo2L3sCF3cEL) | 3:00 | 2023-02-17 |  |
+| [Paradox](https://open.spotify.com/track/7MGbiE5OBeLjvPY6Sv9EDx) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Paradox](https://open.spotify.com/album/25qwYj0uO2Bo2L3sCF3cEL) | 3:00 | 2023-02-17 | 2023-03-23 |
 | [Playing Chess](https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess](https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl) | 3:51 | 2022-08-12 |  |
 | [Poison \(With Paris Shadows\) \- VIP](https://open.spotify.com/track/6QB2D8drdH4TlT3bAzARDD) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Paris Shadows](https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT) | [POISON \(with Paris Shadows\) \- VIP](https://open.spotify.com/album/0tgf5YFUcsUXexaSt4OhNJ) | 3:04 | 2021-12-10 | 2022-07-29 |
 | [Popular Monster \- NGHTMRE & Galantis Remix](https://open.spotify.com/track/336vTSxoACS82BJzwQ2Gfw) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Popular Monster \(NGHTMRE & Galantis Remix\)](https://open.spotify.com/album/6XFC1ujDeUwUT5Iq6AbhzF) | 2:56 | 2021-12-10 | 2022-11-12 |

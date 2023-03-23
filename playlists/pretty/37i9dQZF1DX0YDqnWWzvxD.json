@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 60565,
+  "num_followers": 60650,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNzgyNCwwMDAwMDAwMDIyNGZmMWUxYzI3ZmVmMDc3ZGYwNjNhZDVlZDMxY2Q2",
+  "snapshot_id": "MTY3NzIxNzgyNCwwMDAwMDAwMDJmZGYzZTYzNmM4NTE3YzIxNzUzNjEzMTgxMzE4ZWM2",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Holistic Relaxation",
-        "url": "https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R"
-      },
-      "artists": [
-        {
-          "name": "Philip Guyler",
-          "url": "https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY"
-        }
-      ],
-      "duration_ms": 364266,
-      "name": "Garden of Peace",
-      "url": "https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Incomplete",
         "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 139752,
       "name": "A Whisper In The Dark",
       "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Holistic Relaxation",
+        "url": "https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R"
+      },
+      "artists": [
+        {
+          "name": "Philip Guyler",
+          "url": "https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY"
+        }
+      ],
+      "duration_ms": 364266,
+      "name": "Garden of Peace",
+      "url": "https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Leviathan",
-        "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
-      },
-      "artists": [
-        {
-          "name": "Dean Delaux",
-          "url": "https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0"
-        }
-      ],
-      "duration_ms": 144845,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/2u7vqLhu6Ql3rnAfI8QzWE"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 247022,
       "name": "Barefoot",
       "url": "https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
+      },
+      "artists": [
+        {
+          "name": "Dean Delaux",
+          "url": "https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0"
+        }
+      ],
+      "duration_ms": 144845,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Minimalia",
-        "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
-      },
-      "artists": [
-        {
-          "name": "Binary One",
-          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "All Is Forgiven",
         "url": "https://open.spotify.com/album/6iAissytkJ7K7MBYLO25n3"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Minimalia",
+        "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
+      },
+      "artists": [
+        {
+          "name": "Binary One",
+          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
@@ -1035,6 +1035,26 @@
       "duration_ms": 203000,
       "name": "Tokyo Drifting",
       "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Vira",
+        "url": "https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb"
+      },
+      "artists": [
+        {
+          "name": "Talvin Singh",
+          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "duration_ms": 328542,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1067,26 +1087,6 @@
       "duration_ms": 471589,
       "name": "Between the Worlds Yoga Nidra - Sunset Flow",
       "url": "https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Vira",
-        "url": "https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb"
-      },
-      "artists": [
-        {
-          "name": "Talvin Singh",
-          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
-        },
-        {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
-        }
-      ],
-      "duration_ms": 328542,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "OM Yoga Mix",
+        "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
+      },
+      "artists": [
+        {
+          "name": "Steve Gorn",
+          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
+        }
+      ],
+      "duration_ms": 686333,
+      "name": "Indian Nights",
+      "url": "https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Zen Music for Relaxation Vol. 1 & 2",
         "url": "https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 126965,
       "name": "Unbroken Flow",
       "url": "https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "OM Yoga Mix",
-        "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
-      },
-      "artists": [
-        {
-          "name": "Steve Gorn",
-          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
-        }
-      ],
-      "duration_ms": 686333,
-      "name": "Indian Nights",
-      "url": "https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "The Wait",
-        "url": "https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU"
-      },
-      "artists": [
-        {
-          "name": "Tao Lounge",
-          "url": "https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD"
-        }
-      ],
-      "duration_ms": 313574,
-      "name": "Holistic Water",
-      "url": "https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Zen Music for Massage: Tranquility & Total Relax, Ambient Nature Sounds, Gentle Touch, Relaxing Music",
         "url": "https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 413999,
       "name": "Calm Meditation",
       "url": "https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "The Wait",
+        "url": "https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU"
+      },
+      "artists": [
+        {
+          "name": "Tao Lounge",
+          "url": "https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD"
+        }
+      ],
+      "duration_ms": 313574,
+      "name": "Holistic Water",
+      "url": "https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6"
     },
     {
       "added_at": "2021-06-15 08:38:14",

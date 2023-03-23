@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > The freshest indie sounds from Japan\. 日本のインディーシーン最先端を特集。Cover: odol
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,168 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,190 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [時間と距離と僕らの旅 \- Rearrange](https://open.spotify.com/track/1HACQgKVGMD8ujdUSiBtl5) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [時間と距離と僕らの旅 \(Rearrange\)](https://open.spotify.com/album/3fpf3mwrSsq3pTQw5LKskP) | 4:17 |
-| 2 | [なんとなく春](https://open.spotify.com/track/7hf7GFoyVHIavtkfXTywO3) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [なんとなく春](https://open.spotify.com/album/4Dqx9HZFfEJnfBJkrJoJkR) | 4:49 |
+| 2 | [Nantonaku Haru](https://open.spotify.com/track/1OExZqhRRwlaiRtsg3RhhD) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Nantonaku Haru](https://open.spotify.com/album/6QD4Xc2JiVOuy4KBedARoY) | 4:49 |
 | 3 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 |
 | 4 | [チョコレート](https://open.spotify.com/track/1FhcDHsPF10O1Padlv0nMl) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [チョコレート](https://open.spotify.com/album/62Dw3XXgYGO6s8HEbCnUar) | 3:45 |
 | 5 | [I Liked You Through The Veil](https://open.spotify.com/track/0Oi1GM8160kknU0T29Y82j) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [I Liked You Through The Veil](https://open.spotify.com/album/1i1h4AHnQv4TZdH56SNUxp) | 3:42 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 40 | [everywhere](https://open.spotify.com/track/0qxFXsxsoUHHhvpKe6ZItr) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [everywhere](https://open.spotify.com/album/3w19SNOLF4DoBniB2acsNK) | 5:22 |
 | 41 | [Kikoeru](https://open.spotify.com/track/1xnRFPcBfGodB6ziAdBmpe) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Kikoeru](https://open.spotify.com/album/53Lk5xByRV1RgCGIW0z4cA) | 4:34 |
 | 42 | [ears](https://open.spotify.com/track/64iwMa5Iq6343hvufPTCOZ) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [ears](https://open.spotify.com/album/7bzaC6fiUvH3XWd0azxDyf) | 3:43 |
-| 43 | [桜 super love \- Cover](https://open.spotify.com/track/2xP0DHOUveqDwX2YxWpZpT) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [桜 super love \(Cover\)](https://open.spotify.com/album/46HduRUsP5IkQwX2BlA5OS) | 4:50 |
+| 43 | [Sakura super love \- Cover](https://open.spotify.com/track/7i4GnN5sHOylBh08r1FjZ1) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [Sakura super love \(Cover\)](https://open.spotify.com/album/03gR3zCL3SjNYkDtyLhpiT) | 4:50 |
 | 44 | [Four](https://open.spotify.com/track/5kYn9qvedVqJ7pef7uxGgH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL) | 3:38 |
 | 45 | [Garakuta](https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Garakuta](https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark) | 2:58 |
 | 46 | [Últimamente](https://open.spotify.com/track/51nSvDGXM7G9kVKlptO6Id) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [Últimamente](https://open.spotify.com/album/0WJBCgQpMgOg6OGrLw7IHC) | 3:53 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 61 | [river relief](https://open.spotify.com/track/1ZntirEoxDFUdSpmuFWtEw) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [GOOD POP](https://open.spotify.com/album/0UZTyHGT18tMmP9fILvWpe) | 4:00 |
 | 62 | [Lucky Boy](https://open.spotify.com/track/1rGTt1WmULpnVd1OJYy3C8) | [Ewoks](https://open.spotify.com/artist/6445mZFWCQZeCmwi6hB4wl) | [ep2](https://open.spotify.com/album/4JFAmcIyNGWvwL9IPJmd0Q) | 3:45 |
 | 63 | [Wandering Spirit](https://open.spotify.com/track/6E30fAWCLP4LFusJMZKgq0) | [MADE IN HEPBURN](https://open.spotify.com/artist/5Kb7tK7462ltHK5KtX2tAq) | [Wandering Spirit](https://open.spotify.com/album/7M8RbyJXruRleU2wScVMkI) | 3:38 |
-| 64 | [シャララ](https://open.spotify.com/track/0UdjpCVPsEqHWiE2DQWErc) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [さ・な・ぎ](https://open.spotify.com/album/4QoMRfMiRshJWzucSTLle8) | 5:28 |
+| 64 | [Sha La La](https://open.spotify.com/track/6sb5X0aWyPraBBgptFcegn) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [Sanagi](https://open.spotify.com/album/2Y17jnzoQE6A6PnMxgfCj1) | 5:28 |
 | 65 | [Hann Kemur I Kvold](https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnus Johann](https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann Kemur I Kvold](https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt) | 5:44 |
 | 66 | [ネクター](https://open.spotify.com/track/6htrbZf7DCXBtisoMEa9RA) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [ネクター](https://open.spotify.com/album/0XsicevMGUI7zaYW4XmHhw) | 5:35 |
 | 67 | [extra ordinary](https://open.spotify.com/track/3ShBc77Hq3HgH5EK58DsS5) | [Group2](https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp), [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [extra ordinary](https://open.spotify.com/album/4zsv8pDsiu804DKBb5DO2f) | 3:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 74 | [ナイトウォーカー](https://open.spotify.com/track/14aUrmDaXZOmqVv9sNEFMp) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [夜の飛び方](https://open.spotify.com/album/4KziL0XSTBFeIXzltnFf2w) | 7:21 |
 | 75 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 |
 
-Snapshot ID: `MTY3OTQxMDgwMCwwMDAwMDAwMDA0ODZjYTkzNjMxN2E3YjdlNzhjNTFlYTNlNWY5Yzcz`
+Snapshot ID: `MTY3OTQxMDgwMCwwMDAwMDAwMDcyMzk1ODQ4NjFhM2VlMzg3MzJiODhlYmJkMmFkNWY0`

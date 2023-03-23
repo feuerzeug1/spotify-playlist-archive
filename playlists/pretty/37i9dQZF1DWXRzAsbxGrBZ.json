@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 10737,
+  "num_followers": 10848,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1NDM0MywwMDAwMDAwMDZmNjI1NGRiMjcxZjUxYzFlZDg1MTk1NzU1MzdhZDYy",
+  "snapshot_id": "MTY3OTA1NDM0MywwMDAwMDAwMDM1ZTdlZjI5ZGNlM2JmMTY3YjBmZWNhZWIyZmUxNWQz",
   "tracks": [
     {
       "added_at": "2023-03-17 11:56:47",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
+        "name": "The Jazz Kid III",
+        "url": "https://open.spotify.com/album/7GogCpf2vfmvx0cxjVVMBI"
+      },
+      "artists": [
+        {
+          "name": "Daano",
+          "url": "https://open.spotify.com/artist/3M4Y4YPMGeBOTdKs8jUUhd"
+        }
+      ],
+      "duration_ms": 447857,
+      "name": "Grootman (Spiritual Love Affair)",
+      "url": "https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz"
+    },
+    {
+      "added_at": "2023-03-17 11:56:47",
+      "album": {
         "name": "Next Generation",
         "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 342887,
       "name": "Monomotapa",
       "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
-    },
-    {
-      "added_at": "2023-03-17 11:56:47",
-      "album": {
-        "name": "The Jazz Kid III",
-        "url": "https://open.spotify.com/album/7GogCpf2vfmvx0cxjVVMBI"
-      },
-      "artists": [
-        {
-          "name": "Daano",
-          "url": "https://open.spotify.com/artist/3M4Y4YPMGeBOTdKs8jUUhd"
-        }
-      ],
-      "duration_ms": 447857,
-      "name": "Grootman (Spiritual Love Affair)",
-      "url": "https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz"
     },
     {
       "added_at": "2023-03-17 11:56:47",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
-      },
-      "artists": [
-        {
-          "name": "InQfive",
-          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
-        }
-      ],
-      "duration_ms": 375431,
-      "name": "Before Everything",
-      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
-    },
-    {
-      "added_at": "2023-03-17 11:56:47",
-      "album": {
         "name": "Confindent",
         "url": "https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
+      },
+      "artists": [
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        }
+      ],
+      "duration_ms": 375431,
+      "name": "Before Everything",
+      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
+    },
+    {
+      "added_at": "2023-03-17 11:56:47",
+      "album": {
         "name": "OVGSREPUBLIC",
         "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
       },
@@ -371,22 +371,18 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
-        "name": "OOO: AFRO",
-        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
+        "name": "Good Vibes Only E.P",
+        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
       },
       "artists": [
         {
-          "name": "OUT OF ORDER",
-          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
-        },
-        {
-          "name": "C-Blak",
-          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+          "name": "Nastic Groove",
+          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
         }
       ],
-      "duration_ms": 466467,
-      "name": "Don't 4get To Call Me",
-      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
+      "duration_ms": 353701,
+      "name": "You've Been Missing Me",
+      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
     },
     {
       "added_at": "2023-03-17 11:56:47",
@@ -427,18 +423,22 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
-        "name": "Good Vibes Only E.P",
-        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
+        "name": "OOO: AFRO",
+        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
       "artists": [
         {
-          "name": "Nastic Groove",
-          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
+          "name": "OUT OF ORDER",
+          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
+        },
+        {
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
         }
       ],
-      "duration_ms": 353701,
-      "name": "You've Been Missing Me",
-      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
+      "duration_ms": 466467,
+      "name": "Don't 4get To Call Me",
+      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
     },
     {
       "added_at": "2023-03-17 11:56:47",
@@ -463,26 +463,18 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
       },
       "artists": [
         {
-          "name": "Dj Burger",
-          "url": "https://open.spotify.com/artist/0oVArDDqG7UfqZqwGskQVH"
-        },
-        {
-          "name": "Ryu Ken",
-          "url": "https://open.spotify.com/artist/1rp6OXNShKdYKMug01rPlq"
-        },
-        {
-          "name": "Kali Mija",
-          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
         }
       ],
-      "duration_ms": 366217,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "added_at": "2023-03-17 11:56:47",
@@ -535,18 +527,26 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
       "artists": [
         {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+          "name": "Dj Burger",
+          "url": "https://open.spotify.com/artist/0oVArDDqG7UfqZqwGskQVH"
+        },
+        {
+          "name": "Ryu Ken",
+          "url": "https://open.spotify.com/artist/1rp6OXNShKdYKMug01rPlq"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
         }
       ],
-      "duration_ms": 402782,
-      "name": "Gotsom",
-      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
+      "duration_ms": 366217,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
     },
     {
       "added_at": "2023-03-17 11:56:47",
@@ -567,6 +567,22 @@
       "duration_ms": 387494,
       "name": "To The World",
       "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
+    },
+    {
+      "added_at": "2023-03-17 11:56:47",
+      "album": {
+        "name": "Middle Of The Garden",
+        "url": "https://open.spotify.com/album/7jxleiGFdZqd7ZFCKriMld"
+      },
+      "artists": [
+        {
+          "name": "SONIDO",
+          "url": "https://open.spotify.com/artist/5yUWxOhPOP18jZ2TwQxEtw"
+        }
+      ],
+      "duration_ms": 370185,
+      "name": "Middle Of The Garden",
+      "url": "https://open.spotify.com/track/6Fy6qP6B5CSvXo4auTbLCQ"
     },
     {
       "added_at": "2023-03-17 11:56:47",
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
-        "name": "Middle Of The Garden",
-        "url": "https://open.spotify.com/album/7jxleiGFdZqd7ZFCKriMld"
-      },
-      "artists": [
-        {
-          "name": "SONIDO",
-          "url": "https://open.spotify.com/artist/5yUWxOhPOP18jZ2TwQxEtw"
-        }
-      ],
-      "duration_ms": 370185,
-      "name": "Middle Of The Garden",
-      "url": "https://open.spotify.com/track/6Fy6qP6B5CSvXo4auTbLCQ"
-    },
-    {
-      "added_at": "2023-03-17 11:56:47",
-      "album": {
         "name": "Ivar the Boneless",
         "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 404480,
       "name": "Ivar the Boneless",
       "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
-    },
-    {
-      "added_at": "2023-03-17 11:56:47",
-      "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        }
-      ],
-      "duration_ms": 368326,
-      "name": "Safari - Original Mix",
-      "url": "https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf"
     },
     {
       "added_at": "2023-03-17 11:56:47",
@@ -783,22 +767,6 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
-    },
-    {
-      "added_at": "2023-03-17 11:56:47",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ"
       },
@@ -815,22 +783,34 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
-        "name": "She's On Fire",
-        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj"
       },
       "artists": [
         {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Fako",
-          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
         }
       ],
-      "duration_ms": 402000,
-      "name": "She's On Fire",
-      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
+      "duration_ms": 368326,
+      "name": "Safari - Original Mix",
+      "url": "https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf"
+    },
+    {
+      "added_at": "2023-03-17 11:56:47",
+      "album": {
+        "name": "Revolver, Vol. 3 (Compiled)",
+        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 419010,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
       "added_at": "2023-03-17 11:56:47",
@@ -867,6 +847,42 @@
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+    },
+    {
+      "added_at": "2023-03-17 11:56:47",
+      "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X"
+      },
+      "artists": [
+        {
+          "name": "Mizo4Real",
+          "url": "https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y"
+        }
+      ],
+      "duration_ms": 476630,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs"
+    },
+    {
+      "added_at": "2023-03-17 11:56:47",
+      "album": {
+        "name": "She's On Fire",
+        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Fako",
+          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "She's On Fire",
+      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
     },
     {
       "added_at": "2023-03-17 11:56:47",
@@ -915,22 +931,6 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
-        "name": "Let It Rain",
-        "url": "https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X"
-      },
-      "artists": [
-        {
-          "name": "Mizo4Real",
-          "url": "https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y"
-        }
-      ],
-      "duration_ms": 476630,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs"
-    },
-    {
-      "added_at": "2023-03-17 11:56:47",
-      "album": {
         "name": "7 Steps (Soulcalmic Mingle)",
         "url": "https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8"
       },
@@ -947,18 +947,22 @@
     {
       "added_at": "2023-03-17 11:56:47",
       "album": {
-        "name": "Sentimental Affair",
-        "url": "https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1"
+        "name": "See the Light",
+        "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
       },
       "artists": [
         {
-          "name": "Supreme Rhythm",
-          "url": "https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i"
+          "name": "Bless_SA",
+          "url": "https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP"
+        },
+        {
+          "name": "Kyika DeSoul",
+          "url": "https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I"
         }
       ],
-      "duration_ms": 431693,
-      "name": "Myself & The Dark",
-      "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
+      "duration_ms": 405420,
+      "name": "See the Light",
+      "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
     }
   ],
   "unique_name": "Deep House Session",

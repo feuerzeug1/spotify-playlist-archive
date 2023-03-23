@@ -4,7 +4,7 @@
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-168 songs - 9 hr 54 min
+169 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Hong Kong Garden](https://open.spotify.com/track/1KG7pilWCRpjxR3c7jBvnP) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Marie Antoinette \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0C8pr3dnMPistlH58MkMc4) | 3:10 | 2022-01-27 | 2022-07-29 |
 | [Hush](https://open.spotify.com/track/56g4uLimIX2Y6IQM7mCk6Z) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Quentin Tarantino's Once Upon a Time in Hollywood Original Motion Picture Soundtrack](https://open.spotify.com/album/02GEKxoVe5ITAj68mZRAM7) | 4:08 | 2022-01-27 | 2022-07-29 |
 | [Hush](https://open.spotify.com/track/4aU82r5G2KTUh3HmPHCbM1) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/3VV3uHT9dEGPbgQJQRMAEy) | 4:24 | 2022-01-27 | 2023-03-08 |
+| [Hush \- 1998 Remix](https://open.spotify.com/track/4sTUkIe8cha0RCcTKvfc2J) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple \(30th Anniversary Edition\)](https://open.spotify.com/album/4OjTMhCfhJHdUDdIT1wi6D) | 4:13 | 2022-01-27 |  |
 | [I Am A Man Of Constant Sorrow \- Radio Edit](https://open.spotify.com/track/0YwNdeDFbGP6AGwsQrtzdY) | [The Soggy Bottom Boys](https://open.spotify.com/artist/3T0CG1MKkAu9rxA2ezgyLC), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 3:10 | 2022-01-27 |  |
 | [I'll Be Around](https://open.spotify.com/track/3MyLhn3dJ4rM2lotSB696f) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Boyhood: Music from the Motion Picture](https://open.spotify.com/album/6gVaSasSnh85NVEoAUCqbQ) | 4:45 | 2022-01-27 | 2022-07-29 |
 | [I'm Standing With You](https://open.spotify.com/track/1EmiQ1fj1MDcZDoaZqJUj2) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Breakthrough \(Music From & Inspired By The Motion Picture\)](https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI) | 4:05 | 2022-01-27 | 2022-04-19 |
@@ -150,7 +151,7 @@
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2022-01-27 |  |
 | [The First Noel](https://open.spotify.com/track/5Coqit8CMshd60oHEyJFB1) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple](https://open.spotify.com/album/5j3j7ntcnVrocsjZOEOGlR) | 3:04 | 2021-12-14 | 2022-04-22 |
 | [The First Noel](https://open.spotify.com/track/0UXYfc0Xvo3bO55UdLl8BV) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Instrumental Christmas Music: Christmas Songs and Classic Carols On Solo Piano](https://open.spotify.com/album/41jNKhRU5NNsXSjAZHHvH2) | 3:54 | 2021-12-14 | 2022-04-18 |
-| [The Kiss](https://open.spotify.com/track/1s7bN2otnn6E4oLgTvRgzE) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter And The Order Of The Phoenix \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5TEFNL3l7ELSJCq8tq4PNy) | 1:56 | 2021-12-14 |  |
+| [The Kiss](https://open.spotify.com/track/1s7bN2otnn6E4oLgTvRgzE) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter And The Order Of The Phoenix \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5TEFNL3l7ELSJCq8tq4PNy) | 1:56 | 2021-12-14 | 2023-03-23 |
 | [The Polar Express](https://open.spotify.com/track/1Gi37i20j7uydKwNnNcbkz) | [Tom Hanks](https://open.spotify.com/artist/3OCGqx0Y3UyrBnyzjIokIr) | [The Polar Express \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk) | 3:23 | 2021-12-14 |  |
 | [The Pure and the Damned](https://open.spotify.com/track/4x79863wyp2dhJOiZYKPZN) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/4VlxoACFXldjZzS0gERQ65) | 4:29 | 2022-01-27 | 2022-07-29 |
 | [The Time Is Now](https://open.spotify.com/track/4bfJ0ueOJfncdQy3QUG5MR) | [The Golddiggers](https://open.spotify.com/artist/4TBPfW91nmeRuZg7kvFkpO) | [The Irishman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/626cnbxKP5GwdD0wgwOrlZ) | 2:02 | 2022-01-27 | 2022-07-28 |

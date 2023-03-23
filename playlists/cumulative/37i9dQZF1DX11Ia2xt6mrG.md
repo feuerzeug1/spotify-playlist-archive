@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
 
-193 songs - 11 hr 4 min
+194 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bye Bye](https://open.spotify.com/track/1kMVjZ6gDQpMckNs895asT) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Bye Bye](https://open.spotify.com/album/4QHSMXk4TjKaRpHGMDaCCo) | 3:48 | 2022-05-06 | 2022-12-16 |
 | [Camellos](https://open.spotify.com/track/6djw15CRE09NkoyVKLWGyP) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Camellos](https://open.spotify.com/album/3yT69oNV3uFDFs5whmF5qO) | 3:44 | 2022-05-06 |  |
 | [Carpe Diem](https://open.spotify.com/track/0IvtIcfo55vpv0OuG3akRm) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1), [Barbie Mur](https://open.spotify.com/artist/0siqZtk7F1d20wjkwtpovx) | [Carpe Diem](https://open.spotify.com/album/2Nav67UyvI40ZgAveR8k2O) | 3:04 | 2022-05-06 | 2022-07-28 |
-| [cielo](https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [cielo](https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3) | 4:34 | 2022-05-06 |  |
+| [cielo](https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [cielo](https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3) | 4:34 | 2022-05-06 | 2023-03-23 |
 | [Clap Your Hands For Love](https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [CECILLE](https://open.spotify.com/artist/0gjUPLMgb2VVVjrWH7Rspa) | [Clap Your Hands For Love](https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7) | 2:57 | 2022-05-06 | 2023-01-07 |
 | [CLI CLI Clan Clan](https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb) | [CLI CLI Clan Clan](https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH) | 4:19 | 2023-03-18 |  |
 | [Como Es Posible Que a Mi Lado](https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Como Es Posible Que a Mi Lado](https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP) | 3:08 | 2022-05-06 |  |
@@ -173,6 +173,7 @@
 | [Take It](https://open.spotify.com/track/6wHjctWbG9IUDo96rUbT9F) | [XIX](https://open.spotify.com/artist/4kujTclzOfCLEztutiKfRR) | [Take It](https://open.spotify.com/album/00pXCpxTg1iRi8VH6LG5SH) | 2:42 | 2022-05-06 | 2022-07-26 |
 | [Takeover](https://open.spotify.com/track/6K3KW2SR7QTGRF5q0GLpBP) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Takeover](https://open.spotify.com/album/2NV8uvwQ1OWSIXmjah9bsc) | 3:12 | 2022-05-06 | 2023-02-27 |
 | [Tequila](https://open.spotify.com/track/08r8gksAHDMsrqnmLTmZgv) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Lazy Bear](https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9) | [Tequila](https://open.spotify.com/album/35OTsIUefbbQqnWq6j8jMC) | 2:19 | 2022-05-06 |  |
+| [The King Is Dead](https://open.spotify.com/track/0IFeuYP7vTwdEQf3ye0kqb) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [The King Is Dead](https://open.spotify.com/album/64Irb3YbvqUgQo3yeV3gUM) | 2:35 | 2022-08-02 |  |
 | [The King Is Dead](https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [The King Is Dead](https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho) | 2:35 | 2022-05-06 | 2023-02-26 |
 | [The King Is Dead \- Mixed](https://open.spotify.com/track/4vH5mVsSZc5otEjvs8fH4N) | [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [The King Is Dead \(Mixed\)](https://open.spotify.com/album/0MyHYlZBAewOxCzUPiT0QP) | 2:30 | 2022-08-02 | 2023-03-16 |
 | [The Same Loop Again](https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC) | [Origāmi](https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0) | [The Same Loop Again](https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC) | 4:39 | 2023-02-28 |  |

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-564 songs - 1 day 11 hr 0 min
+565 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Sethupathi Naattukulle](https://open.spotify.com/track/5RuGTQyJUS2RFPTnORVBXe) | [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG), [Kavimuni](https://open.spotify.com/artist/2h8dLnZO8KIgFrwW9Fx8J4) | [Ayothi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/31ZWPOn7HHih5iGePKblPl) | 3:51 | 2023-03-10 |  |
 | [Sethupathi Naattukulle](https://open.spotify.com/track/5c6RRSMbzXWl5d5NCYnmgO) | [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Ayothi](https://open.spotify.com/album/54LUQHad6ZjD1LLT8Teg7z) | 3:51 | 2023-03-10 | 2023-03-12 |
 | [Sindhi Chidhari \(From "Kadhal Conditions Apply"\)](https://open.spotify.com/track/5khZwy48FKjW3fctiGTiKw) | [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP), [Sandy J](https://open.spotify.com/artist/2sFl1jt4c1wNXnMHRVazZm), [Chandra Chood](https://open.spotify.com/artist/27CFgrBSaoZJTAV7e2kIuw), [Ramesh Thamilmani](https://open.spotify.com/artist/1DPRhvqBKE7SL5QJJmK08W) | [Sindhi Chidhari \(From "Kadhal Conditions Apply"\) \- Single](https://open.spotify.com/album/0LAwEU8f70cJsgb0h0DujE) | 2:50 | 2023-02-10 | 2023-02-21 |
+| [Single Aayiten Di](https://open.spotify.com/track/2i6ScnPdZc6DTOx44SSE4f) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Reshma Shyam](https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB), [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Teju Ashwini](https://open.spotify.com/artist/5kijl0kxfePNIFbVM2sjrz) | [Single Aayiten Di](https://open.spotify.com/album/3kSmTdhFzi1Wj42m9K87c0) | 4:15 | 2023-03-22 |  |
 | [Singleu \- From "Poikkal Kuthirai"](https://open.spotify.com/track/7dThYMvX1kNCOA2KVvs63J) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Singleu \(From "Poikkal Kuthirai"\)](https://open.spotify.com/album/2sQTlYr65j47WnGRTsO7EG) | 3:27 | 2022-07-28 | 2022-08-05 |
 | [Singleu Naa Singleu](https://open.spotify.com/track/4Y8CiH5342hOyQWxxwZX5B) | [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Poikkal Kuthirai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YVCRMdqLGIF0lIQYs7Bwx) | 3:27 | 2022-08-04 | 2022-08-15 |
 | [Sippara Rippara \- From "Paramporul"](https://open.spotify.com/track/4LH4s5TutFlFWqIrGuzrSi) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Amitash](https://open.spotify.com/artist/5f1RvHCGNLIQam2LS3q2vQ) | [Sippara Rippara \(From "Paramporul"\)](https://open.spotify.com/album/6oZ2UEmDDb6dxJqUKuYAR1) | 3:58 | 2022-08-12 | 2022-09-15 |

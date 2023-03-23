@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 ### [Pure Flow Coding](https://open.spotify.com/playlist/5hmeg2ngrrAFbz1Gu05PXi)
 
-> Get into the flow and stay focused while writing code, with music curated by the JetBrains team.
+> Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 2,829 likes - 111 songs - 10 hr 18 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 2,873 likes - 112 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 109 | [The Ocean](https://open.spotify.com/track/7dgkpVYzHEnBKnaaMSbE5p) | [Mindseye](https://open.spotify.com/artist/0KnSPZGucOmyk3AnKaUGel) | [The Ocean](https://open.spotify.com/album/5BadXUBRbBS3LL6M76h2GX) | 3:19 |
 | 110 | [Happy Pills](https://open.spotify.com/track/6eJy88W9HCYzw3NJHRNToU) | [Younger Brother](https://open.spotify.com/artist/4ypPM5MAlxN4nbsiiHtBpu) | [The Last Days Of Gravity](https://open.spotify.com/album/2YdDlyrL6SrT6t2k3rwPrd) | 8:48 |
 | 111 | [Know You Don't](https://open.spotify.com/track/1IimA48MOmziyhRZpxDzD5) | [Jel](https://open.spotify.com/artist/1UlLSnpsaY8RdH6W5BRObN) | [Soft Money](https://open.spotify.com/album/0fzOf2tjmaYCptKw3tecMC) | 3:34 |
+| 112 | [Coral Reef](https://open.spotify.com/track/68UOubR6MwuhCFCabUzFaA) | [Mindseye](https://open.spotify.com/artist/0KnSPZGucOmyk3AnKaUGel) | [Coral Reef](https://open.spotify.com/album/41G14bbn83RzdgkkefN41u) | 4:19 |
 
-Snapshot ID: `MTg2LGI3ZWRjNGVkZDIyM2I0MjQ0ZDM5NTYyZjA0Mjk4ZDVmYjNhZGI5ODY=`
+Snapshot ID: `MTg4LDkzYjg5ZjBlN2ZhYzc4YzVjYjQ3Zjg4MjU0MzdmNTQ0YmM1ZDFlMzg=`

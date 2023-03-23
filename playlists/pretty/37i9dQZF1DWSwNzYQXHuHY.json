@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 6912,
+  "num_followers": 6925,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODUyMjU2NCwwMDAwMDAwMGI4OWEwZDQ0NjE3YTFiMmIxY2U3Y2U0Y2Q4MTIzZTA1",
+  "snapshot_id": "MTY3ODUyMjU2NCwwMDAwMDAwMDcxYjAwYmY3NWEyODMyNWQ0MjM4NDZmZDE2MDk3MDk2",
   "tracks": [
     {
       "added_at": "2023-03-11 08:16:04",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "Sequence : 7272",
-        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
-      },
-      "artists": [
-        {
-          "name": "CSR",
-          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Pop? Pop!",
-      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "Beige coat",
         "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 179080,
       "name": "Beige coat",
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "Sequence : 7272",
+        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
+      },
+      "artists": [
+        {
+          "name": "CSR",
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Pop? Pop!",
+      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
     },
     {
       "added_at": "2023-03-11 08:16:04",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "Dearest",
-        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "Can you stay (From Semantic Error)",
         "url": "https://open.spotify.com/album/2RBkeoL7bQvL2Ty0p0Uvhq"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 182266,
       "name": "Can you stay",
       "url": "https://open.spotify.com/track/3tSvYzpDRQI9uYPrB8W6tj"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
     },
     {
       "added_at": "2023-03-11 08:16:04",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "3rd Digital Single 'Not In Public'",
-        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
-      },
-      "artists": [
-        {
-          "name": "SUMMER CAKE",
-          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
-        }
-      ],
-      "duration_ms": 171560,
-      "name": "Not In Public",
-      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "Why isn't love always easy? (Romance 101 X JOY)",
         "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 221040,
       "name": "Why isn't love always easy? (Romance 101 X JOY)",
       "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "3rd Digital Single 'Not In Public'",
+        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
+      },
+      "artists": [
+        {
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+        }
+      ],
+      "duration_ms": 171560,
+      "name": "Not In Public",
+      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
     },
     {
       "added_at": "2023-03-11 08:16:04",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-11 08:16:04",
       "album": {
-        "name": "A New Decade",
-        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
-      },
-      "artists": [
-        {
-          "name": "DINDIN",
-          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Should Not Love You",
-      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
-    },
-    {
-      "added_at": "2023-03-11 08:16:04",
-      "album": {
         "name": "The One and Only, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 225133,
       "name": "Your name",
       "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
+    },
+    {
+      "added_at": "2023-03-11 08:16:04",
+      "album": {
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Should Not Love You",
+      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
     }
   ],
   "unique_name": "\uc378",

@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 32469,
+  "num_followers": 32497,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMDkyZWQ5ZDRhZTFhZTk3NDA0NDc1MzgyNDVmYjJjMGFi",
+  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMDI4ZGE1NTU1NWNjMWVhOWZmODRhZjI2YzUyZjYwNDUy",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -195,6 +195,22 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
+        "name": "The Man Who Never Ever Worried",
+        "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
+      },
+      "artists": [
+        {
+          "name": "The Great Honourable Lord Pretender",
+          "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
+        }
+      ],
+      "duration_ms": 336973,
+      "name": "Never Ever Worry",
+      "url": "https://open.spotify.com/track/6GdYfhHRFRLYLIflNuzCX7"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
         "name": "A Guide to Calypso (1912 - 1940), Vol.1",
         "url": "https://open.spotify.com/album/38slaOgROCHiVUk1kaS1zK"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 192933,
       "name": "The Rumba Dance",
       "url": "https://open.spotify.com/track/1JRVPBbouJbwli9SNoZkzx"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "The Man Who Never Ever Worried",
-        "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
-      },
-      "artists": [
-        {
-          "name": "The Great Honourable Lord Pretender",
-          "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
-        }
-      ],
-      "duration_ms": 336973,
-      "name": "Never Ever Worry",
-      "url": "https://open.spotify.com/track/6GdYfhHRFRLYLIflNuzCX7"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Man Smart, Woman Smarter",
-        "url": "https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa"
-      },
-      "artists": [
-        {
-          "name": "King Radio",
-          "url": "https://open.spotify.com/artist/68qRklewuFhi50agtf76un"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "Man Smart, Woman Smarter",
-      "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
         "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 149093,
       "name": "Mister Give Me de Rent",
       "url": "https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Man Smart, Woman Smarter",
+        "url": "https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa"
+      },
+      "artists": [
+        {
+          "name": "King Radio",
+          "url": "https://open.spotify.com/artist/68qRklewuFhi50agtf76un"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "Man Smart, Woman Smarter",
+      "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -535,18 +535,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Power To The People - Protest Songs",
-        "url": "https://open.spotify.com/album/00hTfZK8Ul7xuSA87iB4Lw"
+        "name": "Calypso - Best of Trinidad",
+        "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
       },
       "artists": [
         {
-          "name": "Sir Lancelot",
-          "url": "https://open.spotify.com/artist/35r4QU4IraKEsU0U0df0G6"
+          "name": "King Radio",
+          "url": "https://open.spotify.com/artist/0ju2V8V3UTfxrNCEVPPnnc"
         }
       ],
-      "duration_ms": 164546,
-      "name": "Atomic Energy",
-      "url": "https://open.spotify.com/track/7oyKc3RgnMaSRgwNTLCDgE"
+      "duration_ms": 161960,
+      "name": "Mathilda",
+      "url": "https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -567,18 +567,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso - Best of Trinidad",
-        "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
+        "name": "Power To The People - Protest Songs",
+        "url": "https://open.spotify.com/album/00hTfZK8Ul7xuSA87iB4Lw"
       },
       "artists": [
         {
-          "name": "King Radio",
-          "url": "https://open.spotify.com/artist/0ju2V8V3UTfxrNCEVPPnnc"
+          "name": "Sir Lancelot",
+          "url": "https://open.spotify.com/artist/35r4QU4IraKEsU0U0df0G6"
         }
       ],
-      "duration_ms": 161960,
-      "name": "Mathilda",
-      "url": "https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX"
+      "duration_ms": 164546,
+      "name": "Atomic Energy",
+      "url": "https://open.spotify.com/track/7oyKc3RgnMaSRgwNTLCDgE"
     },
     {
       "added_at": "2021-04-23 15:05:50",

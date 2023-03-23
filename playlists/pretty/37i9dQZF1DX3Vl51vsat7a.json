@@ -1,6 +1,6 @@
 {
   "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Mayberg",
-  "num_followers": 20736,
+  "num_followers": 20758,
   "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
@@ -558,6 +558,10 @@
         {
           "name": "Ski Aggu",
           "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2XaiURwGQms1VdnIyhFdOK"
         }
       ],
       "duration_ms": 150877,

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-03-18",
   "description": "Relaxing instrumental piano covers from your favourite movies. ",
-  "name": "Instrumental Movie Covers",
+  "name": "Relaxing Movie Covers",
   "tracks": [
     {
       "album": {
@@ -20,10 +20,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 114940,
       "name": "A Dream Is A Wish Your Heart Makes",
       "url": "https://open.spotify.com/track/6uYuaPrb956VBlNyZd6x6M"
+    },
+    {
+      "album": {
+        "name": "Instrumental Music from the Movies",
+        "url": "https://open.spotify.com/album/5NLxHQc47oFugqZ021DzZP"
+      },
+      "artists": [
+        {
+          "name": "Bella Element",
+          "url": "https://open.spotify.com/artist/7rfiqPVUsvgKBl622Pd4Ui"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221533,
+      "name": "A Million Dreams (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/60821D85gcuIs6U71il8Wy"
     },
     {
       "album": {
@@ -74,7 +92,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 136000,
       "name": "All of You (from \"Encanto\")",
       "url": "https://open.spotify.com/track/568e9KVIGEbK4KKmb0EdVK"
@@ -110,7 +128,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 192578,
       "name": "Baby Mine (Original Key) [From \"Walt Disney's Dumbo\"] [Piano Instrumental]",
       "url": "https://open.spotify.com/track/2Z8BpQyeyPDc8ZTsDHbmJ4"
@@ -207,6 +225,42 @@
     },
     {
       "album": {
+        "name": "Top 15 Movie Songs: Greatest Movie Instrumentals, Movie Music and Instrumental Movie Soundtracks",
+        "url": "https://open.spotify.com/album/4ZciY37yRyZjYKFZn1JPe1"
+      },
+      "artists": [
+        {
+          "name": "Robbins Island Music Group",
+          "url": "https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316026,
+      "name": "Cannon in D (From \"Twilight's Breaking Dawn\")",
+      "url": "https://open.spotify.com/track/4cKeBGyVmHA0IuYxqcZJ9f"
+    },
+    {
+      "album": {
+        "name": "Instrumental Music from the Movies",
+        "url": "https://open.spotify.com/album/5NLxHQc47oFugqZ021DzZP"
+      },
+      "artists": [
+        {
+          "name": "Bella Element",
+          "url": "https://open.spotify.com/artist/7rfiqPVUsvgKBl622Pd4Ui"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179334,
+      "name": "Cinema Paradiso (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/1VdLSVziSnJNoaj4lM7cUg"
+    },
+    {
+      "album": {
         "name": "My Own Home",
         "url": "https://open.spotify.com/album/74ICfDwM2hSzPh7q5dFshz"
       },
@@ -243,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Great Songs from the Movies",
+        "url": "https://open.spotify.com/album/35rfczRSyFq684lZjGu3ZL"
+      },
+      "artists": [
+        {
+          "name": "Classical Music Radio",
+          "url": "https://open.spotify.com/artist/2hrTfHdHAdgZNapG7ViUVg"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170926,
+      "name": "Comptine D'un Etre",
+      "url": "https://open.spotify.com/track/5PStF2B8yKXKhxHOg86GIT"
+    },
+    {
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT"
       },
@@ -272,7 +344,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 161398,
       "name": "Do You Wanna Build a Snowman",
       "url": "https://open.spotify.com/track/5fYvZgoAOmxfgxckrjgy4F"
@@ -459,6 +531,24 @@
     },
     {
       "album": {
+        "name": "I Will Always Love You (arr. Piano)",
+        "url": "https://open.spotify.com/album/4znnk5Ijuku995K23hMk4I"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172010,
+      "name": "I Will Always Love You (arr. piano)",
+      "url": "https://open.spotify.com/track/116oIm7XXTtvasw2gvUMI9"
+    },
+    {
+      "album": {
         "name": "If You Leave Me Now",
         "url": "https://open.spotify.com/album/1sBYO3z6cl6Fd6NNOPeGxu"
       },
@@ -474,6 +564,24 @@
       "duration_ms": 199308,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0k3eB65qL3T1GQyJmGNUgV"
+    },
+    {
+      "album": {
+        "name": "In Dreams: Instrumental Movie Songs",
+        "url": "https://open.spotify.com/album/4Tg7rYi1jjmNphEvjFhP4L"
+      },
+      "artists": [
+        {
+          "name": "The O'Neill Brothers Group",
+          "url": "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202545,
+      "name": "In Dreams (From \"Lord of the Rings\")",
+      "url": "https://open.spotify.com/track/4DxLl8JceKqK7zHH3YE579"
     },
     {
       "album": {
@@ -531,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Instrumental Piano Movie Songs: In Dreams",
+        "url": "https://open.spotify.com/album/6JvIOUAHBwaGArkmmBEOzF"
+      },
+      "artists": [
+        {
+          "name": "The O'Neill Brothers Group",
+          "url": "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Jessica's Theme (From \"The Man from Snowy River\")",
+      "url": "https://open.spotify.com/track/3EvrM4uZ6295xNZQcfOHx6"
+    },
+    {
+      "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/467cv4fTtGeNJCFx3o0eRI"
       },
@@ -567,6 +693,24 @@
     },
     {
       "album": {
+        "name": "The Chillest 90s",
+        "url": "https://open.spotify.com/album/2jjBXXPgwQ1n4VXrBnL2g3"
+      },
+      "artists": [
+        {
+          "name": "The Chillest",
+          "url": "https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222096,
+      "name": "Kiss Me (Piano Version)",
+      "url": "https://open.spotify.com/track/1YPwS7Req2TU4wkBw88S6y"
+    },
+    {
+      "album": {
         "name": "Leaving On A Jet Plane",
         "url": "https://open.spotify.com/album/2ujKiDw5nk58E74QnodUYT"
       },
@@ -600,7 +744,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 145500,
       "name": "Let it go",
       "url": "https://open.spotify.com/track/2EvDiYVmyGfpfHzSd8iONK"
@@ -679,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Top 15 Movie Songs: Greatest Movie Instrumentals, Movie Music and Instrumental Movie Soundtracks",
+        "url": "https://open.spotify.com/album/4ZciY37yRyZjYKFZn1JPe1"
+      },
+      "artists": [
+        {
+          "name": "Robbins Island Music Group",
+          "url": "https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310373,
+      "name": "Moon River (From \"Breakfast At Tiffany's\")",
+      "url": "https://open.spotify.com/track/2OluO4WXK2WYloHg7TZiwM"
+    },
+    {
+      "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R"
       },
@@ -697,6 +859,32 @@
     },
     {
       "album": {
+        "name": "Keyboard Music - Beautiful Instrumental Ballads",
+        "url": "https://open.spotify.com/album/0ebNe6CFJLPqSLVZCBGggy"
+      },
+      "artists": [
+        {
+          "name": "Piano Dreamland",
+          "url": "https://open.spotify.com/artist/28bSuV1XshZ4AG9PVhan43"
+        },
+        {
+          "name": "Piano Man",
+          "url": "https://open.spotify.com/artist/4c3Rm1cfWQbvPDkDHNBKHl"
+        },
+        {
+          "name": "Piano Love Songs, Relaxing Instrumental Music",
+          "url": "https://open.spotify.com/artist/6BkTsb7nKmu50BIfmDUI6u"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208457,
+      "name": "My Heart Will Go on (Instrumental Version)",
+      "url": "https://open.spotify.com/track/4H8zfchn3BdKXyZ8Gh4Fcj"
+    },
+    {
+      "album": {
         "name": "My Own Home",
         "url": "https://open.spotify.com/album/74ICfDwM2hSzPh7q5dFshz"
       },
@@ -712,6 +900,24 @@
       "duration_ms": 144500,
       "name": "My Own Home (The Jungle Book Theme)",
       "url": "https://open.spotify.com/track/3o6MOyBLEi5H4D47TEiu5F"
+    },
+    {
+      "album": {
+        "name": "Instrumental Piano: Classic Movie Songs",
+        "url": "https://open.spotify.com/album/01qE09llktP7RP5p9alAoX"
+      },
+      "artists": [
+        {
+          "name": "The O'Neill Brothers Group",
+          "url": "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250920,
+      "name": "My Own True Love (Tara's Theme From \"Gone with the Wind\") / Shenandoah",
+      "url": "https://open.spotify.com/track/36u5P6iKV2tKHKKpPO36Vq"
     },
     {
       "album": {
@@ -744,7 +950,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 252253,
       "name": "Once Upon a December (from Anastasia)",
       "url": "https://open.spotify.com/track/2PCTrOWob0vs0io6pfGOYS"
@@ -780,7 +986,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 106842,
       "name": "Reflection (from \"Mulan\") [Instrumental]",
       "url": "https://open.spotify.com/track/09ArKoP4jYctXgnlysn6Ie"
@@ -802,6 +1008,24 @@
       "duration_ms": 222993,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/6TWc9jqstUEB6EGTE2i0R5"
+    },
+    {
+      "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/17HMQlrc1mFmxrRNYuDx7q"
+      },
+      "artists": [
+        {
+          "name": "Toby Jacobs",
+          "url": "https://open.spotify.com/artist/55nl5VG12M7EIBuL0wHnWA"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222559,
+      "name": "River Flows in You - Piano Arrangement",
+      "url": "https://open.spotify.com/track/1RkOCWRu3wXBOqZXVKwE1t"
     },
     {
       "album": {
@@ -877,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Piano Covers Popular Songs Vol. 2",
+        "url": "https://open.spotify.com/album/3bba8HsV41KaQjM02bhyIK"
+      },
+      "artists": [
+        {
+          "name": "Kesler",
+          "url": "https://open.spotify.com/artist/3AvbHRHSqNWQ157oNBKsXH"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242897,
+      "name": "She's Like the Wind",
+      "url": "https://open.spotify.com/track/2JREcsy29DnIg1DpRQj2cl"
+    },
+    {
+      "album": {
         "name": "Slipping Through My Fingers",
         "url": "https://open.spotify.com/album/08Jyf59VQRCGXub4ktyp29"
       },
@@ -906,7 +1148,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 188370,
       "name": "So Close (From \"Enchanted\")",
       "url": "https://open.spotify.com/track/7guTOJUH4ufQZKF1Xbo8yy"
@@ -985,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "The John Dunbar Theme (From \"Dances with Wolves\") [Piano Version]",
+        "url": "https://open.spotify.com/album/1Xz64JD2dIhCAcQheHuTaK"
+      },
+      "artists": [
+        {
+          "name": "Noud van Harskamp",
+          "url": "https://open.spotify.com/artist/2NNhP3CqXQLGIlVbFKfSqo"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137047,
+      "name": "The John Dunbar Theme (From \"Dances with Wolves\") [Piano Version]",
+      "url": "https://open.spotify.com/track/7fNz7EFivHZG2ZZNShH2hZ"
+    },
+    {
+      "album": {
         "name": "The Music Of The Night",
         "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
       },
@@ -1000,6 +1260,24 @@
       "duration_ms": 269000,
       "name": "The Music Of The Night",
       "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
+    },
+    {
+      "album": {
+        "name": "Instrumental Piano: Classic Movie Songs",
+        "url": "https://open.spotify.com/album/01qE09llktP7RP5p9alAoX"
+      },
+      "artists": [
+        {
+          "name": "The O'Neill Brothers Group",
+          "url": "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195625,
+      "name": "The Notebook (From \"The Notebook\")",
+      "url": "https://open.spotify.com/track/3IojPkE2hrBvtqhIS6ZIkZ"
     },
     {
       "album": {
@@ -1075,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Top 15 Movie Songs: Greatest Movie Instrumentals, Movie Music and Instrumental Movie Soundtracks",
+        "url": "https://open.spotify.com/album/4ZciY37yRyZjYKFZn1JPe1"
+      },
+      "artists": [
+        {
+          "name": "Robbins Island Music Group",
+          "url": "https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309506,
+      "name": "Theme from James Bond (From \"For Your Eyes Only\")",
+      "url": "https://open.spotify.com/track/1eoKe3vyNDx1xGKu6ZWoWn"
+    },
+    {
+      "album": {
         "name": "Think Of Me",
         "url": "https://open.spotify.com/album/01CAZk0M1rPIItbuiBvUsx"
       },
@@ -1129,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Instrumental Music from the Movies",
+        "url": "https://open.spotify.com/album/5NLxHQc47oFugqZ021DzZP"
+      },
+      "artists": [
+        {
+          "name": "Andrew O'Hara",
+          "url": "https://open.spotify.com/artist/29wW9vW9TIUcmNGFqUQ271"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145469,
+      "name": "When a Man Loves a Woman (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3LhwkmVSfe2FPTItQ9GoZ3"
+    },
+    {
+      "album": {
         "name": "Disney & Pixar Piano Classics",
         "url": "https://open.spotify.com/album/5Ipexg2weAi95C0tSEjyyc"
       },
@@ -1176,7 +1490,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 161891,
       "name": "When You Wish Upon a Star",
       "url": "https://open.spotify.com/track/4oC2OjhMIebaOtUXyqw4P8"
@@ -1230,7 +1544,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 153298,
       "name": "Winnie the Pooh",
       "url": "https://open.spotify.com/track/51MXDjtegOEUPRUsYDd838"

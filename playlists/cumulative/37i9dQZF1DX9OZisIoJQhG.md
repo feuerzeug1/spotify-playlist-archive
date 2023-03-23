@@ -4,7 +4,7 @@
 
 > Uplifting classical melodies to help you rise and shine.
 
-59 songs - 3 hr 34 min
+60 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,5 +67,6 @@
 | [Waltz No\. 19 in A Minor, KK IVb \(Version for Harp in A Flat Minor\)](https://open.spotify.com/track/7i9cdG6l1lg0xAraTublsw) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Magdalena Hoffmann](https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT) | [Chopin: Waltz No\. 19 in A Minor, KK IVb \(Version for Harp in A Flat Minor\)](https://open.spotify.com/album/0abwlgcTkteYoqF5MdJqvO) | 2:22 | 2022-02-04 |  |
 | [Zdes' khorosho \('How Fair This Spot'\), Op\. 21, No\. 7](https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Denis Kozhukhin](https://open.spotify.com/artist/5iRBqpTEOgggnri1awdnNZ) | [Reflections](https://open.spotify.com/album/2y9DN1TNj4qMf1H5epuupR) | 1:59 | 2022-05-27 |  |
 | [Zdes' khorosho \('How Fair This Spot'\), Op\. 21, No\. 7](https://open.spotify.com/track/1Hnp1eblIw5zvF4BcmcXl0) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Denis Kozhukhin](https://open.spotify.com/artist/5iRBqpTEOgggnri1awdnNZ) | [Zdes' khorosho \('How Fair This Spot'\), Op\. 21, No\. 7](https://open.spotify.com/album/6Vgd9LmGN2XFaSmTBEX9oc) | 1:59 | 2022-02-04 | 2022-07-29 |
+| [エトピリカ](https://open.spotify.com/track/28F2FyLu4pZNLdoWuFZ57Y) | [Taro Hakase](https://open.spotify.com/artist/6vJFQLD25Df5uZW77gVv0k), [NH&K TRIO](https://open.spotify.com/artist/42P4Cf7kljp1XjLtkGcN2H) | [Adagio](https://open.spotify.com/album/24eONPwMnnsH5mny2o3AvQ) | 3:42 | 2023-03-22 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

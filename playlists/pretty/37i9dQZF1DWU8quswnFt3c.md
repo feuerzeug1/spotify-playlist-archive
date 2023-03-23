@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Co\-curated by a number of our ambassadors for International Women’s Day\. Cover: Jamala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,158 likes - 81 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,123 likes - 81 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 23 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
 | 24 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 |
 | 25 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 |
-| 26 | [Hard Out Here.](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here.](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
-| 27 | [Bad](https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:42 |
+| 26 | [Bad](https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:42 |
+| 27 | [Hard Out Here.](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here.](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
 | 28 | [A Woman's Worth](https://open.spotify.com/track/1NRorokmYEtr1koWybvaE4) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 5:03 |
 | 29 | [BAS GİT](https://open.spotify.com/track/4FU9LDNKP1R8zNyYkrYXLm) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [BAS GİT](https://open.spotify.com/album/2RB6IQB4QUVKgkFhoc1LSu) | 2:54 |
 | 30 | [Mr\. Daydream](https://open.spotify.com/track/5HYUcCS99ZzM3z3E5OKlY8) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [Mr\. Daydream](https://open.spotify.com/album/0FpWw1iUM4JHq4eovT85z1) | 3:17 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 45 | [Eleipes](https://open.spotify.com/track/6UaJR5yQZOTnHOT2Uqg33f) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [Nore Pierre](https://open.spotify.com/artist/5T1jkoAvwvd4ybx9f5VhVp) | [Eleipes](https://open.spotify.com/album/5gY4FYHGquRpuEKKA0Ezqz) | 2:29 |
 | 46 | [A Beautiful Noise](https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [A Beautiful Noise](https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU) | 3:19 |
 | 47 | [Malas Lenguas](https://open.spotify.com/track/1bLyqRntlR5BTcFvhcQOuO) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [PTSD](https://open.spotify.com/album/2yV6eZVN6U78Rq6cwRyQiG) | 2:11 |
-| 48 | [Majhail](https://open.spotify.com/track/0Zg0M6BuusAQHHTmWgaHFD) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Majhail](https://open.spotify.com/album/50XooNqT3gwRIsGEXaifSf) | 3:37 |
-| 49 | [אישה קשה](https://open.spotify.com/track/0riTg4W5chUXwJJq7W8DSE) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4), [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [אישה קשה](https://open.spotify.com/album/14YiiAuDaEBbP5WaMNb7JO) | 3:15 |
+| 48 | [אישה קשה](https://open.spotify.com/track/0riTg4W5chUXwJJq7W8DSE) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4), [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [אישה קשה](https://open.spotify.com/album/14YiiAuDaEBbP5WaMNb7JO) | 3:15 |
+| 49 | [Majhail](https://open.spotify.com/track/0Zg0M6BuusAQHHTmWgaHFD) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Majhail](https://open.spotify.com/album/50XooNqT3gwRIsGEXaifSf) | 3:37 |
 | 50 | [Sbagliata Ascendente Leone \- Original Soundtrack](https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SBAGLIATA ASCENDENTE LEONE \(OFFICIAL SOUNDTRACK\)](https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P) | 3:26 |
-| 51 | [מאדים](https://open.spotify.com/track/17xjt6c1BpRM8OHmMFV7xQ) | [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu) | [מאדים](https://open.spotify.com/album/29xmwGmAa2OCDPg8yhWKd5) | 2:47 |
-| 52 | [kung nag\-aatubili](https://open.spotify.com/track/6sDrozuLsdLbePAesxDvNy) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [kung nag\-aatubili](https://open.spotify.com/album/0pjg8cFcbZyXiMnYLUx927) | 3:51 |
-| 53 | [Mooier Als Je Lacht](https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mooier Als Je Lacht](https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL) | 3:38 |
-| 54 | [Wuthering Heights \- 2018 Remaster](https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside \(2018 Remaster\)](https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc) | 4:28 |
+| 51 | [Wuthering Heights \- 2018 Remaster](https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside \(2018 Remaster\)](https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc) | 4:28 |
+| 52 | [מאדים](https://open.spotify.com/track/17xjt6c1BpRM8OHmMFV7xQ) | [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu) | [מאדים](https://open.spotify.com/album/29xmwGmAa2OCDPg8yhWKd5) | 2:47 |
+| 53 | [kung nag\-aatubili](https://open.spotify.com/track/6sDrozuLsdLbePAesxDvNy) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [kung nag\-aatubili](https://open.spotify.com/album/0pjg8cFcbZyXiMnYLUx927) | 3:51 |
+| 54 | [Mooier Als Je Lacht](https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mooier Als Je Lacht](https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL) | 3:38 |
 | 55 | [Got You](https://open.spotify.com/track/26EvVb7HxLt5fVXtNRzUEw) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Amyl and The Sniffers](https://open.spotify.com/album/5d5j7Qr9OYZNFWy5fmSmLo) | 2:18 |
 | 56 | [3 Marias](https://open.spotify.com/track/4pQ2WvtAOJrdm8lN8BGnE4) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 7:25 |
 | 57 | [Ladies First](https://open.spotify.com/track/76eqlAukVuAvxovEbCK3uh) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [All Hail the Queen](https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv) | 3:58 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 60 | [Rulett](https://open.spotify.com/track/1Oe6yPVl5KgB14ZLssTvJq) | [OHNODY](https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS) | [Rulett](https://open.spotify.com/album/4CArdIZNMXA0M8f2moYb50) | 3:15 |
 | 61 | [Everything Is Good](https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Halluzinationen](https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i) | 3:00 |
 | 62 | [Runaway Blues](https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:26 |
-| 63 | [as long as you're there](https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [as long as you're there](https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig) | 3:27 |
-| 64 | [Vészterv](https://open.spotify.com/track/2kEs4dk1Hjk6pay1XLyWFM) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [Vészterv](https://open.spotify.com/album/412dFhyBUdgL5zEJREk1r9) | 3:28 |
+| 63 | [Vészterv](https://open.spotify.com/track/2kEs4dk1Hjk6pay1XLyWFM) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [Vészterv](https://open.spotify.com/album/412dFhyBUdgL5zEJREk1r9) | 3:28 |
+| 64 | [as long as you're there](https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [as long as you're there](https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig) | 3:27 |
 | 65 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 |
 | 66 | [Praias desertas](https://open.spotify.com/track/7gZ23X1e0zDNTZ8Z8UAvcu) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Portuguesa](https://open.spotify.com/album/3YYC6lQ2PV71ncQrJbV1HE) | 4:00 |
 | 67 | [RBND](https://open.spotify.com/track/0aHciOWN2wx4tVCv0lwZqs) | [Zachary](https://open.spotify.com/artist/5rqiwyKEa9FZTy78BVNRSc) | [RBND](https://open.spotify.com/album/2IgRAdB7ITP9m0NQAn9mrM) | 2:57 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 80 | [Já Me Deixou](https://open.spotify.com/track/19MzA3RuQzw4GmAEPVhZbK) | [Beatriz Da Conceição](https://open.spotify.com/artist/65eHtjZey5UkRE7pNFJSTc) | [Estrelas da Música Portuguesa](https://open.spotify.com/album/43BNU5CRBFE4EKbM4Avzhd) | 3:08 |
 | 81 | [Nipple To The Bottle](https://open.spotify.com/track/0DhpUlPutqrpTPnu5qNeSc) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Living My Life](https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC) | 5:57 |
 
-Snapshot ID: `MTY3ODI2ODA0MywwMDAwMDAwMGEzZDgzNzA3OWQ5YWE2NzE0YmY5ODZjZThiNzUxNTBi`
+Snapshot ID: `MTY3ODI2ODA0MywwMDAwMDAwMDE2NzAwMjNiY2QyNGUwMjI4ZGEzNDRmMGU2YmQzYzg5`

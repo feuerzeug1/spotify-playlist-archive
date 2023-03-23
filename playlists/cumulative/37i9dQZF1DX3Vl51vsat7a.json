@@ -522,24 +522,6 @@
     {
       "album": {
         "name": "Broker",
-        "url": "https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "date_added": "2023-02-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150877,
-      "name": "Broker",
-      "url": "https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF"
-    },
-    {
-      "album": {
-        "name": "Broker",
         "url": "https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo"
       },
       "artists": [
@@ -554,6 +536,28 @@
       "duration_ms": 150877,
       "name": "Broker",
       "url": "https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K"
+    },
+    {
+      "album": {
+        "name": "Broker",
+        "url": "https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2XaiURwGQms1VdnIyhFdOK"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150877,
+      "name": "Broker",
+      "url": "https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF"
     },
     {
       "album": {

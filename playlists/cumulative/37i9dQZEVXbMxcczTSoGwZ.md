@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,299 songs - 2 day 23 hr 2 min
+1,300 songs - 2 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Armee der Tristen](https://open.spotify.com/track/514GW1c9Jn21KgZmO6mZIE) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:25 | 2022-04-30 | 2022-05-07 |
 | [Armo](https://open.spotify.com/track/4duArVg3k0NWJkwsJWyeFe) | [Vesa\-Matti Loiri](https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt) | [TOP 10](https://open.spotify.com/album/5J1fw9FCkRINXkgSqE9Ruj) | 2:48 | 2022-08-11 | 2022-08-16 |
 | [Arvaa \(feat\. Sexmane\)](https://open.spotify.com/track/4RtCwXlBjZ9TUxPeNovucu) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Arvaa \(feat\. Sexmane\)](https://open.spotify.com/album/58qvquhkUDxlYb5KXqWAFt) | 3:21 | 2023-02-18 | 2023-03-19 |
-| [Arvaa \(feat\. Sexmane\)](https://open.spotify.com/track/7l4WBLjtYydkJkzMRHrzld) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love SZN](https://open.spotify.com/album/2PqdRkCHm8p63i3nDoyOlQ) | 3:21 | 2023-03-18 |  |
+| [Arvaa \(feat\. Sexmane\)](https://open.spotify.com/track/7l4WBLjtYydkJkzMRHrzld) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love SZN](https://open.spotify.com/album/2PqdRkCHm8p63i3nDoyOlQ) | 3:21 | 2023-03-18 | 2023-03-23 |
 | [As I Am \(feat\. Khalid\)](https://open.spotify.com/track/6F2r4HgpJnvKDmkN6JEN6J) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:54 | 2021-03-27\* | 2021-03-27 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2023-01-07 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-22 |
@@ -170,6 +170,7 @@
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-08 | 2023-03-05 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-04 | 2022-12-09 |
 | [Crocodile Teeth](https://open.spotify.com/track/0Blcsfh3cqrWBAibAEBh1p) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Crocodile Teeth](https://open.spotify.com/album/7ecc4JFHVogZflh9zDwyZG) | 2:10 | 2023-03-14 | 2023-03-19 |
+| [Crocodile Teeth](https://open.spotify.com/track/6P1YFoPjA23KrYyc4RRI1f) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Crocodile Teeth](https://open.spotify.com/album/1Mc9i5XpiT6mwj0qOkmkbl) | 2:10 | 2023-03-22 |  |
 | [Crunch Time](https://open.spotify.com/track/1jS3cp1ISJYqXK3APiXK8p) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [GLITTER](https://open.spotify.com/album/2z3T095JuG4HcJpO36XPnG) | 1:49 | 2021-04-04 | 2021-04-09 |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-27 |
 | [CV](https://open.spotify.com/track/1mSn919G9lGy6kVHDcYoWo) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 3:39 | 2022-12-10 | 2023-01-01 |

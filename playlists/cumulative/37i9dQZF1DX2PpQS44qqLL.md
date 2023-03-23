@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-417 songs - 1 day 3 hr 43 min
+418 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Amiga Mía](https://open.spotify.com/track/4cIJMoLbUOG1YEppzrfwUz) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:22 | 2021-12-21 | 2022-07-29 |
 | [Amor De Mujer](https://open.spotify.com/track/6pDLcXSrOUrstNjLribvJL) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:54 | 2021-12-21 | 2022-11-13 |
 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 | 2021-12-21 |  |
-| [Amor fascíname](https://open.spotify.com/track/34fUwEAJL7CI2ymqQ1TGyN) | [Alejandra Avalos](https://open.spotify.com/artist/0ujbYrGeviCZxfrKOzXDzK) | [20 Grandes Exitos](https://open.spotify.com/album/5XdzLQ5VPixvtDnw3iKHSl) | 4:23 | 2021-12-21 |  |
+| [Amor fascíname](https://open.spotify.com/track/34fUwEAJL7CI2ymqQ1TGyN) | [Alejandra Avalos](https://open.spotify.com/artist/0ujbYrGeviCZxfrKOzXDzK) | [20 Grandes Exitos](https://open.spotify.com/album/5XdzLQ5VPixvtDnw3iKHSl) | 4:23 | 2021-12-21 | 2023-03-23 |
 | [Amor No Me Ignores](https://open.spotify.com/track/5WAAN3MdyF3NiFHtQLIhPc) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 3:22 | 2021-12-21 | 2022-07-29 |
 | [Amores extraños](https://open.spotify.com/track/2vT5bweFphLcVvpmZR5PEv) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini: 25 Aniversario \(Spanish Version\)](https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs) | 4:15 | 2021-12-21 |  |
 | [Amores extraños](https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:15 | 2021-12-21 | 2022-07-29 |
@@ -296,6 +296,7 @@
 | [Pobre secretaria](https://open.spotify.com/track/1Ikzf2CUcmHzNf4ETPJexW) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 2:55 | 2021-12-21 |  |
 | [Popurri Juan Gabriel Medley](https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Solo Lo Mejor \- 20 Exitos](https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb) | 4:55 | 2021-12-21 |  |
 | [Por Cobardía](https://open.spotify.com/track/2mpbYpv7RaP3nFT7PsLev0) | [Lila Deneken](https://open.spotify.com/artist/1ztsMJLgY2ISoHlSApijCG) | [Lila Deneken......Por Cobardía](https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN) | 4:44 | 2021-12-21 | 2022-07-28 |
+| [Por Que Sera](https://open.spotify.com/track/2zFhOgUTFiAupp71sFKm77) | [Rudy La Scala](https://open.spotify.com/artist/0og9Hk6RVwNayDiXdbGVhb) | [Por Que Sera](https://open.spotify.com/album/4L92OJGSEZfrfBwPJWpLsd) | 4:40 | 2021-12-21 |  |
 | [Porque Sera?](https://open.spotify.com/track/3NSLwXa9aCHGPN3rD3EnkE) | [Rudy La Scala](https://open.spotify.com/artist/0og9Hk6RVwNayDiXdbGVhb) | [Mis Mejores](https://open.spotify.com/album/1u7KkKeaCrBpsLN1VwI7dT) | 4:33 | 2021-12-21 | 2022-06-23 |
 | [Prometes](https://open.spotify.com/track/1Qf1Z6EtcjmfvaU6pJlPI0) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Dueña de mi corazón](https://open.spotify.com/album/5tVO7XieYjimEPG6Azp6Uv) | 3:00 | 2021-12-21 | 2022-07-08 |
 | [Que Ganas de No Verte Nunca Mas](https://open.spotify.com/track/3GoKDP0kBKnsj9SlK1oYVz) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 3:55 | 2021-12-21 | 2022-07-29 |

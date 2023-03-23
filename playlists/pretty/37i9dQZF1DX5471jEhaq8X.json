@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3lo corridos - lo nuevo y lo mejor del a\u00f1o. Cover: Tony Aguirre & Grupo Los de la O",
-  "num_followers": 582860,
+  "num_followers": 582882,
   "original_name": "Corridos 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjIwMSwwMDAwMDAwMGM2YThiNDJlMjAyMmIxZWJiMTNkZDdmNzJlMzJjZWNi",
+  "snapshot_id": "MTY3OTAzMjIwMSwwMDAwMDAwMDIzNmY1NGRlMTdhNTIwNmI2YWFkY2I3ODgwZjU3Y2Iw",
   "tracks": [
     {
       "added_at": "2023-03-17 05:50:01",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
+        "name": "Desde los 13",
+        "url": "https://open.spotify.com/album/6HTPToyn8gJTM62XL4cuQ5"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "Destino Final",
+          "url": "https://open.spotify.com/artist/2HkbKpMpQjlLtsLph1GrKa"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Desde los 13",
+      "url": "https://open.spotify.com/track/6vrJt8JpLTN8QMvbzJKVif"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
         "name": "El M Grande",
         "url": "https://open.spotify.com/album/3mtVCsqcqQ9N56rIeLbO5y"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 170501,
       "name": "En Culiac\u00e1n",
       "url": "https://open.spotify.com/track/0zei9wbSX6EBdC8TytvRGm"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
-        "name": "Desde los 13",
-        "url": "https://open.spotify.com/album/6HTPToyn8gJTM62XL4cuQ5"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        },
-        {
-          "name": "Destino Final",
-          "url": "https://open.spotify.com/artist/2HkbKpMpQjlLtsLph1GrKa"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Desde los 13",
-      "url": "https://open.spotify.com/track/6vrJt8JpLTN8QMvbzJKVif"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "Gente del F1",
-        "url": "https://open.spotify.com/album/7naedPk4YHLrmLJaYnsST9"
-      },
-      "artists": [
-        {
-          "name": "Cristian RG",
-          "url": "https://open.spotify.com/artist/7rmQzTWdrXqg9orZ3XFaZD"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 144561,
-      "name": "Gente del F1",
-      "url": "https://open.spotify.com/track/18BxN76lhDm1F2K8Mg3bk8"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
         "name": "Pisteando Con Larry Hern\u00e1ndez, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/2NBIYoC2EnQndQkfIHffQf"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 236714,
       "name": "El Phoenix Antrax (En Vivo)",
       "url": "https://open.spotify.com/track/371rKvlSgLWFVhYS5BFiCS"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
+        "name": "Gente del F1",
+        "url": "https://open.spotify.com/album/7naedPk4YHLrmLJaYnsST9"
+      },
+      "artists": [
+        {
+          "name": "Cristian RG",
+          "url": "https://open.spotify.com/artist/7rmQzTWdrXqg9orZ3XFaZD"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 144561,
+      "name": "Gente del F1",
+      "url": "https://open.spotify.com/track/18BxN76lhDm1F2K8Mg3bk8"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "Gente Fina",
-        "url": "https://open.spotify.com/album/3xxV96QsW7EzKED8GlGrW7"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "Gente Fina",
-      "url": "https://open.spotify.com/track/2sowOY6PNHB8gFLIfOR54Y"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
         "name": "De la Calle Graduado",
         "url": "https://open.spotify.com/album/4Wigj9epF6591J47RiM58Z"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 187402,
       "name": "De la Calle Graduado",
       "url": "https://open.spotify.com/track/7BohzfINUZAuv0m1o1xA1u"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
+        "name": "Gente Fina",
+        "url": "https://open.spotify.com/album/3xxV96QsW7EzKED8GlGrW7"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Gente Fina",
+      "url": "https://open.spotify.com/track/2sowOY6PNHB8gFLIfOR54Y"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/7xZUlvdPjQvF9OVDfwCTal"
+        "name": "Payonazo Exoticos",
+        "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 113986,
-      "name": "El Le\u00f3n De La Manada",
-      "url": "https://open.spotify.com/track/2zmue4FlRe9CsuNX0HbU98"
+      "duration_ms": 233000,
+      "name": "Payonazo Exoticos",
+      "url": "https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "Payonazo Exoticos",
-        "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/7xZUlvdPjQvF9OVDfwCTal"
       },
       "artists": [
         {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Payonazo Exoticos",
-      "url": "https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8"
+      "duration_ms": 113986,
+      "name": "El Le\u00f3n De La Manada",
+      "url": "https://open.spotify.com/track/2zmue4FlRe9CsuNX0HbU98"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "El Gordo Jona",
-        "url": "https://open.spotify.com/album/0VeQaZNNTz1ON4Bgv0StQI"
+        "name": "Comando 14",
+        "url": "https://open.spotify.com/album/6Bij0V8PuByX1OMjqZvghl"
       },
       "artists": [
         {
-          "name": "Ldln",
-          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
         }
       ],
-      "duration_ms": 218540,
-      "name": "El Gordo Jona",
-      "url": "https://open.spotify.com/track/6T1LYdANXOJM3N5ByoE9iq"
+      "duration_ms": 168986,
+      "name": "Comando 14",
+      "url": "https://open.spotify.com/track/73nHwR55NTZKqFEKRMtYHl"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2191,18 +2191,18 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "Comando 14",
-        "url": "https://open.spotify.com/album/6Bij0V8PuByX1OMjqZvghl"
+        "name": "El Gordo Jona",
+        "url": "https://open.spotify.com/album/0VeQaZNNTz1ON4Bgv0StQI"
       },
       "artists": [
         {
-          "name": "Grupo Rocket",
-          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+          "name": "Ldln",
+          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
         }
       ],
-      "duration_ms": 168986,
-      "name": "Comando 14",
-      "url": "https://open.spotify.com/track/73nHwR55NTZKqFEKRMtYHl"
+      "duration_ms": 218540,
+      "name": "El Gordo Jona",
+      "url": "https://open.spotify.com/track/6T1LYdANXOJM3N5ByoE9iq"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2227,18 +2227,18 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "Soy Comerciante",
-        "url": "https://open.spotify.com/album/7aHaBGiWxC1itRgRxjeHBw"
+        "name": "En La Vagancia",
+        "url": "https://open.spotify.com/album/30k2FK0REuWdEHE7mFpK4K"
       },
       "artists": [
         {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+          "name": "Doble Vision",
+          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
         }
       ],
-      "duration_ms": 201794,
-      "name": "Soy Comerciante",
-      "url": "https://open.spotify.com/track/6QvSgOx6UALsNUGnMubETE"
+      "duration_ms": 153138,
+      "name": "Como Anillo Al Dedo",
+      "url": "https://open.spotify.com/track/6lXPojOyE25Doq3QXSsXTg"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2279,34 +2279,18 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "En La Vagancia",
-        "url": "https://open.spotify.com/album/30k2FK0REuWdEHE7mFpK4K"
+        "name": "Soy Comerciante",
+        "url": "https://open.spotify.com/album/7aHaBGiWxC1itRgRxjeHBw"
       },
       "artists": [
         {
-          "name": "Doble Vision",
-          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
         }
       ],
-      "duration_ms": 153138,
-      "name": "Como Anillo Al Dedo",
-      "url": "https://open.spotify.com/track/6lXPojOyE25Doq3QXSsXTg"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
-        "name": "7 Calaveras",
-        "url": "https://open.spotify.com/album/6PmfIeqoA4VCZNdGst97FG"
-      },
-      "artists": [
-        {
-          "name": "Ivan Orozco",
-          "url": "https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "7 Calaveras",
-      "url": "https://open.spotify.com/track/5pGABK63jOda1Bl8f3w4k7"
+      "duration_ms": 201794,
+      "name": "Soy Comerciante",
+      "url": "https://open.spotify.com/track/6QvSgOx6UALsNUGnMubETE"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2323,6 +2307,22 @@
       "duration_ms": 221866,
       "name": "Oro Negro",
       "url": "https://open.spotify.com/track/627JaIxyG2KyF2BKRMOPhK"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
+        "name": "7 Calaveras",
+        "url": "https://open.spotify.com/album/6PmfIeqoA4VCZNdGst97FG"
+      },
+      "artists": [
+        {
+          "name": "Ivan Orozco",
+          "url": "https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "7 Calaveras",
+      "url": "https://open.spotify.com/track/5pGABK63jOda1Bl8f3w4k7"
     },
     {
       "added_at": "2023-03-17 05:50:01",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2023-03-17 05:50:01",
       "album": {
-        "name": "El M-60",
-        "url": "https://open.spotify.com/album/4D17PHNU3OWPvGuerjVynt"
-      },
-      "artists": [
-        {
-          "name": "Ldln",
-          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "El M-60",
-      "url": "https://open.spotify.com/track/2e1jH2poOhLwLC3vKWebgM"
-    },
-    {
-      "added_at": "2023-03-17 05:50:01",
-      "album": {
         "name": "La Cayenne",
         "url": "https://open.spotify.com/album/6UbqpR6Qmid3Du6UUOL1IL"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 138614,
       "name": "La Cayenne",
       "url": "https://open.spotify.com/track/2EjsPNiSMXGSnTKPgdPe9Y"
+    },
+    {
+      "added_at": "2023-03-17 05:50:01",
+      "album": {
+        "name": "El M-60",
+        "url": "https://open.spotify.com/album/4D17PHNU3OWPvGuerjVynt"
+      },
+      "artists": [
+        {
+          "name": "Ldln",
+          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "El M-60",
+      "url": "https://open.spotify.com/track/2e1jH2poOhLwLC3vKWebgM"
     },
     {
       "added_at": "2023-03-17 05:50:01",

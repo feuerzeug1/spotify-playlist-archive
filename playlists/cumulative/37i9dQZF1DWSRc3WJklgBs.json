@@ -2467,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183445,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
+    },
+    {
+      "album": {
         "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
         "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
       },
@@ -5300,6 +5318,24 @@
       "duration_ms": 169319,
       "name": "Dreaming (feat. SMBDY)",
       "url": "https://open.spotify.com/track/60n8BhJ1FWhKbhYOF0LzQr"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235215,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg"
     },
     {
       "album": {
@@ -17142,6 +17178,24 @@
       "duration_ms": 267200,
       "name": "Say It (feat. Tove Lo) [Illenium Remix]",
       "url": "https://open.spotify.com/track/1qcyw35R6PiMBYfSSK7gDm"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV"
+      },
+      "artists": [
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8"
     },
     {
       "album": {

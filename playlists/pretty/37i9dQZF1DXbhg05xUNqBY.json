@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 291357,
+  "num_followers": 291665,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMGIxMzFhOTc5MTYwMmVlODE1ZDM4ZDQ4MjA2NjQyMDQ2",
+  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMGY4NTJhNGY5M2VkODI5ODljYjM2MWY4YzY5NDEwNjE4",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -483,22 +483,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii"
+        "name": "It's a Wonderful Life",
+        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
       },
       "artists": [
         {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        },
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
         }
       ],
-      "duration_ms": 219272,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU"
+      "duration_ms": 249321,
+      "name": "It's a Wonderful Life",
+      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -543,18 +539,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "It's a Wonderful Life",
-        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii"
       },
       "artists": [
         {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
         }
       ],
-      "duration_ms": 249321,
-      "name": "It's a Wonderful Life",
-      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
+      "duration_ms": 219272,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Graves Into Gardens (Acoustic)",
+        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 278035,
+      "name": "Graves Into Gardens - Acoustic",
+      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Songs from Home",
         "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 307062,
       "name": "Jesus My Beloved",
       "url": "https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Graves Into Gardens (Acoustic)",
-        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 278035,
-      "name": "Graves Into Gardens - Acoustic",
-      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "No Hopeless Soul",
+        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 193558,
+      "name": "No Hopeless Soul - Unplugged",
+      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Omnipotent Yet Intimate",
         "url": "https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "No Hopeless Soul",
-        "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
+        "name": "Ever Closer",
+        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
       },
       "artists": [
         {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
         }
       ],
-      "duration_ms": 193558,
-      "name": "No Hopeless Soul - Unplugged",
-      "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
+      "duration_ms": 232687,
+      "name": "Ever Closer",
+      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Ever Closer",
-        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
+        "name": "Whisper (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT"
       },
       "artists": [
         {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+          "name": "Stillman",
+          "url": "https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH"
         }
       ],
-      "duration_ms": 232687,
-      "name": "Ever Closer",
-      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
+      "duration_ms": 267754,
+      "name": "Whisper (Acoustic)",
+      "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1103,22 +1119,6 @@
       "duration_ms": 378379,
       "name": "Providence",
       "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Whisper (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT"
-      },
-      "artists": [
-        {
-          "name": "Stillman",
-          "url": "https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH"
-        }
-      ],
-      "duration_ms": 267754,
-      "name": "Whisper (Acoustic)",
-      "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Be Thou My Vision",
-        "url": "https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7"
-      },
-      "artists": [
-        {
-          "name": "Cherry Wee",
-          "url": "https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Be Thou My Vision",
-      "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Helpless One",
         "url": "https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 195466,
       "name": "Helpless One",
       "url": "https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Be Thou My Vision",
+        "url": "https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7"
+      },
+      "artists": [
+        {
+          "name": "Cherry Wee",
+          "url": "https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
     },
     {
       "added_at": "2023-02-07 17:43:02",

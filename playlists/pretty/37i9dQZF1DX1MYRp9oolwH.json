@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Agent",
-  "num_followers": 78432,
+  "num_followers": 78532,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTM4MDIyOCwwMDAwMDAwMDE4NzJiOTYwYWM0ODRhOTRlZWZhZjhkZmE5NmJiMjA5",
+  "snapshot_id": "MTY3OTQ4NDg2NSwwMDAwMDAwMDY5MjM5YjY1M2FiMjk3MTY4YzA4ZGQ5MjQ0YjkzN2Ix",
   "tracks": [
     {
       "added_at": "2023-02-22 14:11:25",
@@ -167,6 +167,30 @@
       "duration_ms": 200113,
       "name": "Gundellonaa (From \"Ori Devuda\")",
       "url": "https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG"
+    },
+    {
+      "added_at": "2023-03-22 11:34:25",
+      "album": {
+        "name": "Edho Edho Kalavaram (From \"Anveshi\")",
+        "url": "https://open.spotify.com/album/0xqWP4R2wrLps92i98SbGT"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Deepthi Parthasarathy",
+          "url": "https://open.spotify.com/artist/02p0Emo53CEFEVufEQtAUy"
+        },
+        {
+          "name": "Chaitan Bharadwaj",
+          "url": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
+        }
+      ],
+      "duration_ms": 196141,
+      "name": "Edho Edho Kalavaram (From \"Anveshi\")",
+      "url": "https://open.spotify.com/track/4edykmkRtQIpO1fS9Ltlsf"
     },
     {
       "added_at": "2022-12-20 12:37:49",

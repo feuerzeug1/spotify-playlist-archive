@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,615 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,683 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 95 | [Butterflies](https://open.spotify.com/track/33BFPA2AADvu2tiyLotov8) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Butterflies](https://open.spotify.com/album/79c0H3KKIc2uGlEotrhsl6) | 2:38 |
 | 96 | [Made It Past October](https://open.spotify.com/track/08GWRVbcOrqwJXUszRxAii) | [CHELJI](https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO) | [Made It Past October](https://open.spotify.com/album/3bUmoJXvZA2HUKScrTfNEP) | 2:12 |
 | 97 | [Look My Age](https://open.spotify.com/track/7G2EKtPn075VsIjDphUbbA) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Look My Age](https://open.spotify.com/album/1YkhoHHXb3TTkxWgleWwRw) | 2:58 |
-| 98 | [Incognito](https://open.spotify.com/track/67O43FtuBoLHp0KArJfdGa) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST](https://open.spotify.com/album/4L8fkv7xQp3vvnyEkxbZoy) | 2:39 |
+| 98 | [Incognito](https://open.spotify.com/track/67O43FtuBoLHp0KArJfdGa) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/album/4L8fkv7xQp3vvnyEkxbZoy) | 2:39 |
 | 99 | [No One Hurts Me Like I Hurt Myself](https://open.spotify.com/track/6ywGrUZvGy9ofSWeO5Ak3x) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [No One Hurts Me Like I Hurt Myself](https://open.spotify.com/album/01Zyx6jhu6fFJzkUY8igGl) | 3:04 |
 
 Snapshot ID: `MTY3OTA2Nzg3NywwMDAwMDAwMDEzZDU5OTNjMzQyNTk4Mzk3OGYxNzRiZmZlYTVlMjc3`

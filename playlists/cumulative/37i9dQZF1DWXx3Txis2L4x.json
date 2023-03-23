@@ -212,7 +212,7 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "date_added": "2023-03-12",
+      "date_added": "2023-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193106,
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 172160,
       "name": "Down",
       "url": "https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 172645,
       "name": "Feeling This",
       "url": "https://open.spotify.com/track/26AYR77170U49cMcXB7aRV"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 198066,
       "name": "Get on Top",
       "url": "https://open.spotify.com/track/0GcWf1Cc4ixN35D3O9VdcP"
@@ -1136,6 +1136,24 @@
       "duration_ms": 220910,
       "name": "Heart Mind Body & Soul",
       "url": "https://open.spotify.com/track/2FJtn12N5v2i4x3eEae32K"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Feels So Good",
+        "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217537,
+      "name": "Heartbreak Feels So Good",
+      "url": "https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r"
     },
     {
       "album": {
@@ -1427,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206924,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
+    },
+    {
+      "album": {
         "name": "Let Me Rust",
         "url": "https://open.spotify.com/album/6BCLLOC7FCnH2FVHMZs3vP"
       },
@@ -1544,7 +1580,7 @@
           "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
         }
       ],
-      "date_added": "2023-03-08",
+      "date_added": "2023-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 237573,
@@ -1818,7 +1854,7 @@
           "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "date_added": "2023-03-08",
+      "date_added": "2023-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144391,
@@ -1914,6 +1950,24 @@
       "duration_ms": 177924,
       "name": "Put The Knife Away",
       "url": "https://open.spotify.com/track/1Wc4oMYsjCqMSDQST8oXEr"
+    },
+    {
+      "album": {
+        "name": "Billy Talent II",
+        "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC"
     },
     {
       "album": {
@@ -2106,7 +2160,7 @@
           "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "date_added": "2023-03-08",
+      "date_added": "2023-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 205600,
@@ -2252,7 +2306,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
@@ -2592,7 +2646,7 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "date_added": "2023-03-08",
+      "date_added": "2023-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191520,
@@ -2616,6 +2670,24 @@
       "duration_ms": 189130,
       "name": "Tin Pan Boy",
       "url": "https://open.spotify.com/track/5ome5OZg1JFNGXKEU9HGRO"
+    },
+    {
+      "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171322,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 
 > Spa treatment role\-play and ASMR massage sounds to give you tingles and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,924 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,939 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 3 | [Long\-Nailed Deep Ear Attention Pt.2](https://open.spotify.com/track/4XvzLrty6v5yiGQE5f8TmX) | [FrivolousFox ASMR](https://open.spotify.com/artist/6JI1jwOnED6XOslfOYeQQP) | [Long\-Nailed Deep Ear Attention](https://open.spotify.com/album/5oXzFATWsecCjqfQgf3Zey) | 5:17 |
 | 4 | [Cotton Swabs In Ears](https://open.spotify.com/track/5mUq6uOgmzEodRY64mC6Fk) | [Alice ASMR](https://open.spotify.com/artist/6O99TZRD50g7R3IMBSkg58) | [Binaural ASMR Triggers](https://open.spotify.com/album/0w0KhJBMc5USuQyLDQn90Q) | 2:46 |
 | 5 | [Brain Melting Mic Scratching Pt.3](https://open.spotify.com/track/57nPzI8kww0jlc3j4NltAG) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Brain Melting Mic Scratching](https://open.spotify.com/album/4NDoPCl8EiCgBbDRFG79W6) | 3:58 |
-| 6 | [ASMR Triggers \- At the Hair Salon](https://open.spotify.com/track/0UVZ9kUQ6UQMsG5USeJn7Q) | [Sleep Nurse](https://open.spotify.com/artist/50revvJWdrK6bkmaKLcOOd) | [ASMR Triggers](https://open.spotify.com/album/1eijtdwNUmT0wdHg55qaYt) | 1:47 |
-| 7 | [Massage](https://open.spotify.com/track/500RDF5FlsyYFMYquQiqH3) | [ASMR Maryjleeee](https://open.spotify.com/artist/77I1f0nKgi3EnrypDsGupj) | [Sleep Triggers, Vol\. I](https://open.spotify.com/album/5sP0NOaCWlbfAzy6uIRFI5) | 6:16 |
+| 6 | [Massage](https://open.spotify.com/track/500RDF5FlsyYFMYquQiqH3) | [ASMR Maryjleeee](https://open.spotify.com/artist/77I1f0nKgi3EnrypDsGupj) | [Sleep Triggers, Vol\. I](https://open.spotify.com/album/5sP0NOaCWlbfAzy6uIRFI5) | 6:16 |
+| 7 | [ASMR Triggers \- At the Hair Salon](https://open.spotify.com/track/0UVZ9kUQ6UQMsG5USeJn7Q) | [Sleep Nurse](https://open.spotify.com/artist/50revvJWdrK6bkmaKLcOOd) | [ASMR Triggers](https://open.spotify.com/album/1eijtdwNUmT0wdHg55qaYt) | 1:47 |
 | 8 | [Lotion Massage](https://open.spotify.com/track/0mXg83Nt6ycyDqd8lxb9At) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Lotion Massage](https://open.spotify.com/album/15VkeeNemcAYWn01IoPYyH) | 4:30 |
 | 9 | [Lotion Ear Massage Pt\. 3](https://open.spotify.com/track/0nowugrt5Fn1wdX7BjwbTD) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Lotion Ear Massage](https://open.spotify.com/album/2r5FkTCW4b3gz77UteYh1t) | 3:53 |
 | 10 | [Long\-Nailed Deep Ear Attention Pt.1](https://open.spotify.com/track/5tHmIZMo21mo3FamnKK69J) | [FrivolousFox ASMR](https://open.spotify.com/artist/6JI1jwOnED6XOslfOYeQQP) | [Long\-Nailed Deep Ear Attention](https://open.spotify.com/album/5oXzFATWsecCjqfQgf3Zey) | 6:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 49 | [Tingly Lice Check, Pt\. 4](https://open.spotify.com/track/4GD6WaO6S88JW6u99OCRte) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [ASMR Tingly Lice Check with Tweezers](https://open.spotify.com/album/0P1ozmWS6bjQeq9p8XfZSV) | 5:46 |
 | 50 | [Hailey and the Lotion Bottle](https://open.spotify.com/track/6gEn9TUf8GLboqCnEsb7qy) | [My ASMR Room](https://open.spotify.com/artist/74ewzpfsEL70CLM2hU9K4B) | [Playing with Scissors](https://open.spotify.com/album/1Xl8Mtft1lQkVB4bt8HEIW) | 3:16 |
 
-Snapshot ID: `MTY3NTM0NTY4OSwwMDAwMDAwMGNmNDQxYjFhN2QwZmI4MTdiYTcwODViOTk1OTExOWM1`
+Snapshot ID: `MTY3NTM0NTY4OSwwMDAwMDAwMGY2NzAyMWM5Y2M5MmQ5Y2MzMWFlNGY5YjhkNTE5OWZk`

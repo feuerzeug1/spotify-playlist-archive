@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-274 songs - 15 hr 7 min
+275 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 | 2022-07-25 |  |
 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 | 2022-07-25 |  |
 | [Baby Cakes](https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Baby Cakes](https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu) | 3:48 | 2022-06-06 | 2022-07-29 |
-| [Better Version](https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Better Version](https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU) | 3:35 | 2022-07-25 |  |
+| [Better Version](https://open.spotify.com/track/3TSi3kAdU1PLg3bEQbMKes) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 3:35 | 2023-03-20 |  |
+| [Better Version](https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Better Version](https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU) | 3:35 | 2022-07-25 | 2023-03-23 |
 | [betterlove](https://open.spotify.com/track/020BU0EzWu1qQDj6qXRNRe) | [The Legacy](https://open.spotify.com/artist/4A8MJHyHDhtgq8QxOUkx2A) | [betterlove](https://open.spotify.com/album/2R6iU9N1ucrdfMVEqt08qZ) | 3:07 | 2022-06-06 | 2022-07-29 |
 | [Bitter Delight](https://open.spotify.com/track/5DOmSIrqT9BbYpU4aKOOFK) | [Alf Wardhana](https://open.spotify.com/artist/008xcaYBfGJuvUXHR7OSYt) | [Bitter Delight](https://open.spotify.com/album/0NThsYqKdnjotCcQ2MBJRK) | 3:42 | 2022-06-06 | 2022-07-29 |
 | [Bittersweet](https://open.spotify.com/track/4DwW1HW7iEK7DtUDiSte3X) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90), [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Bittersweet](https://open.spotify.com/album/1ei9Kv8hCrpTcnz3JscN4l) | 3:02 | 2022-09-19 | 2023-01-27 |

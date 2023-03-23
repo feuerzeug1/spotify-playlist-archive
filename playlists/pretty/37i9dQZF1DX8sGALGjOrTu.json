@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 376919,
+  "num_followers": 377164,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMwMzY2MywwMDAwMDAwMDMzMjJmYTJkMjk3NzBmZTRlY2M3ZjQ3MzQ1OGFiNjMy",
+  "snapshot_id": "MTY3OTMwMzY2MywwMDAwMDAwMDdkNDdhYmZjYzJmMjI4YjYzYmViMDJhMGQ3N2M1ZTMw",
   "tracks": [
     {
       "added_at": "2023-03-20 09:14:23",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
-        "url": "https://open.spotify.com/album/0pTuxkUN7yTGwoU00KRCan"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 95586,
-      "name": "Such Small Hands",
-      "url": "https://open.spotify.com/track/0tksWgMFUovmWxDAnkebtO"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Let's Cheers To This",
         "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Wildlife",
-        "url": "https://open.spotify.com/album/1zAMnOQUqSq3xCMgeBS6i2"
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
       "artists": [
         {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
         }
       ],
-      "duration_ms": 414925,
-      "name": "King Park",
-      "url": "https://open.spotify.com/track/7MeUFHaHTgcLqz56vSyvIh"
+      "duration_ms": 216293,
+      "name": "The Words \"Best Friend\" Become Redefined",
+      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -763,22 +747,6 @@
       "duration_ms": 257693,
       "name": "The Difference Between Medicine And Poison Is In The Dose",
       "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
-      },
-      "artists": [
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "The Words \"Best Friend\" Become Redefined",
-      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -863,22 +831,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "You Can't Spell Slaughter Without Laughter",
-        "url": "https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra"
-      },
-      "artists": [
-        {
-          "name": "I Set My Friends On Fire",
-          "url": "https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Things That Rhyme With Orange",
-      "url": "https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "\"Watch out!\"",
         "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
       },
@@ -891,6 +843,22 @@
       "duration_ms": 249066,
       "name": "Accidents",
       "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "You Can't Spell Slaughter Without Laughter",
+        "url": "https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra"
+      },
+      "artists": [
+        {
+          "name": "I Set My Friends On Fire",
+          "url": "https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Things That Rhyme With Orange",
+      "url": "https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -943,22 +911,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "The Illusion of Safety",
-        "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Deadbolt",
-      "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Still Searching",
         "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
       },
@@ -971,6 +923,22 @@
       "duration_ms": 203573,
       "name": "Calling All Cars",
       "url": "https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "The Illusion of Safety",
+        "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Deadbolt",
+      "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -1135,6 +1103,22 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
+        "name": "Emarosa",
+        "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "A Toast to the future kids!",
+      "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
         "name": "When Broken Is Easily Fixed",
         "url": "https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc"
       },
@@ -1167,22 +1151,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Emarosa",
-        "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "A Toast to the future kids!",
-      "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "The Weak's End",
         "url": "https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a"
       },
@@ -1211,6 +1179,38 @@
       "duration_ms": 209746,
       "name": "My Darkest Hour",
       "url": "https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "On Frail Wings Of Vanity And Wax",
+        "url": "https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "The Second Stage Turbine Blade (Re-Issue)",
+        "url": "https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 287866,
+      "name": "Devil In Jersey City",
+      "url": "https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE"
     }
   ],
   "unique_name": "Chaos Anthems",

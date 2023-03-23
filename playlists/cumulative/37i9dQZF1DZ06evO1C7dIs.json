@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Bye Bye Beautiful",
+        "url": "https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301853,
+      "name": "Escapist",
+      "url": "https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq"
+    },
+    {
+      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
       },

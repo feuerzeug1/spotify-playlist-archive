@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb7eLtQI7KhP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb7eLtQI7KhP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb7eLtQI7KhP)
 
-### [Piano for Meditation](https://open.spotify.com/playlist/37i9dQZF1DXb7eLtQI7KhP)
+### [Inner Peace](https://open.spotify.com/playlist/37i9dQZF1DXb7eLtQI7KhP)
 
-> Soft and soothing ambient piano music for meditation.
+> Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-128 songs - 5 hr 54 min
+129 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Summer of 79](https://open.spotify.com/track/2vnpkOmyi64QT173bWssLK) | [Justin Simmons](https://open.spotify.com/artist/5CvLDef0LzbuPs2YKmgGU8) | [Summer of 79](https://open.spotify.com/album/0NQxGPra2lPYQJoCu4tAVE) | 3:11 | 2022-07-27 | 2023-02-07 |
 | [Sömn](https://open.spotify.com/track/0RVsJTnSwdLQ6F8ruukszk) | [Sanja Göransson](https://open.spotify.com/artist/1bMBJo82A2IeRahsh3JsQn) | [Sömn](https://open.spotify.com/album/6f6D9XxUpFpCbBmeTpzKRL) | 2:48 | 2022-04-28 |  |
 | [Taivas](https://open.spotify.com/track/7lKhxWhv5sPG9MBaDfdJL7) | [Lumi Couri](https://open.spotify.com/artist/3lxrrGQ5yyzG43gu1ttAfP) | [Taivas](https://open.spotify.com/album/4eZo8y8cM7ZGqaUJoaooZ9) | 2:24 | 2022-04-28 |  |
+| [The Journey](https://open.spotify.com/track/3ggOQQZ5MfrayWR9xGluXk) | [Ethereal Bond](https://open.spotify.com/artist/35ov63MauORfX0OvYDq2dK) | [The Journey](https://open.spotify.com/album/4ASRnX67f0ZlVNzWrqesOf) | 6:16 | 2023-03-22 |  |
 | [The Memory Stays](https://open.spotify.com/track/4p7e7bBvMo9zIgtNYYLTju) | [Elfva](https://open.spotify.com/artist/5kie64trGheZwIDvvwBHF1) | [The Memory Stays](https://open.spotify.com/album/7z505ksBMudhpYzfXAKzI5) | 2:40 | 2022-04-28 |  |
 | [The People Stare](https://open.spotify.com/track/4VhCO377YzeImgrIWCZm21) | [Marta Delgado](https://open.spotify.com/artist/0B8IFmmZxB0JtGg29Qzat2) | [The People Stare](https://open.spotify.com/album/1qnNjkSsXqCfVR0KknEakW) | 3:35 | 2022-04-28 |  |
 | [The Thread](https://open.spotify.com/track/7jYky4GcDF7yAEi1jDz29Y) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:07 | 2022-04-28 | 2023-02-07 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-275 songs - 15 hr 4 min
+276 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,8 +167,9 @@
 | [Marry Me Ballad \- Remix](https://open.spotify.com/track/6LvbXCIGTOV6VYiQdlMKU6) | [Dj Cumbio](https://open.spotify.com/artist/0OABlQJBw7zrHMtRUBTXHz), [Reggaeton Latino](https://open.spotify.com/artist/3sG7WHWEWaSVehXJRj7t4n), [Reggaetone](https://open.spotify.com/artist/3RXH1tv1HagN5maL2HfoVD) | [Melancólicos Anónimos](https://open.spotify.com/album/111St1caDdkEyQeOqyFEpH) | 2:38 | 2022-12-15 |  |
 | [Mean It](https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:52 | 2021-12-27 | 2022-11-18 |
 | [Mean It](https://open.spotify.com/track/6mXdCcFnPKQznj4CmMRmHC) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:52 | 2022-11-17 |  |
-| [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2021-12-27 |  |
+| [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2021-12-27 | 2023-03-23 |
 | [Memories \(Karaoke Version\) \(Instrumental\)](https://open.spotify.com/track/5TRVEQRx72bIBU9zOht3gO) | [Jack Ontario Soundorchestra](https://open.spotify.com/artist/6kxd04QoZUC7Hd6gJEwNrz) | [Memories](https://open.spotify.com/album/6oXBFCkDIqQlm6L5DLUMDE) | 3:06 | 2022-12-15 |  |
+| [Memories \- Workout Remix 128 Bpm](https://open.spotify.com/track/1EmS1tuUPJ4rnbAQ4qQ7A8) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [40 Winter Hits 2020 For Fitness & Workout \(Unmixed Compilation for Fitness & Workout 128 Bpm / 32 Count\)](https://open.spotify.com/album/7dMxZEcovqyi51qKm9ABkF) | 4:05 | 2023-03-22 |  |
 | [Memories Remix \(feat\. Nipsey Hussle & YG\)](https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2022-01-20 |  |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-08 | 2023-01-30 |
 | [Million Dollar Baby](https://open.spotify.com/track/3wFM8TWbbkwPuB6TyqpVDv) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:04 | 2023-01-29 |  |

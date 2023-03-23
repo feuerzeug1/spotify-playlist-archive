@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディーシーン最先端を特集。Cover: odol
 
-267 songs - 17 hr 14 min
+270 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Mushroom Beats](https://open.spotify.com/track/5uJImPxcrsokmLjKHsRw67) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Mushroom Beats](https://open.spotify.com/album/1KtKcO4HY80jXFNuoq9pWp) | 2:14 | 2023-02-28 |  |
 | [My Christmas](https://open.spotify.com/track/7DgCQCALmT9lrG0lqHzX67) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [My Christmas / Dear My Dependence](https://open.spotify.com/album/4lg2LC4SYjgk5IqbUKXGEB) | 3:15 | 2023-01-12 | 2023-01-18 |
 | [My Innocence](https://open.spotify.com/track/7E9h1udUWTkqmOoNWnI1gO) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [My Innocence](https://open.spotify.com/album/1wHXxMbeFl5EOOgUnDe5vG) | 3:12 | 2023-01-24 | 2023-02-22 |
+| [Nantonaku Haru](https://open.spotify.com/track/1OExZqhRRwlaiRtsg3RhhD) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Nantonaku Haru](https://open.spotify.com/album/6QD4Xc2JiVOuy4KBedARoY) | 4:49 | 2023-03-21 |  |
 | [narashite \- Audiotree Live Version](https://open.spotify.com/track/71fkJnR1lE164GspbrcFUA) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [HARU NEMURI on Audiotree Live](https://open.spotify.com/album/4VJQdztVh2Pkt6nOt7h1D3) | 3:17 | 2023-02-14 |  |
 | [NEO TOKIO](https://open.spotify.com/track/0AVOwrlP4bIDhlgow1JiSt) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [NEO TOKIO](https://open.spotify.com/album/2Mp4PgoQYX6X4WprgjsIFo) | 2:37 | 2023-01-12 | 2023-01-18 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-24 | 2023-02-17 |
@@ -135,11 +136,13 @@
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2023-01-12 | 2023-03-14 |
 | [sad but dancing, happy but crying](https://open.spotify.com/track/5GGw2ve0iVKmzSbjOghU5T) | [Bearwear](https://open.spotify.com/artist/1vs4LphTDQKsiFwVnDGFKf) | [sad but dancing, happy but crying](https://open.spotify.com/album/7c9sGteLmRaOZuzMVPKeVR) | 1:50 | 2023-01-26 | 2023-02-15 |
 | [Saikin Donano](https://open.spotify.com/track/38wXh7F3gTJo3o4DSZGqG0) | [Seikatsu no Sekkei](https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT) | [Saikin Donano](https://open.spotify.com/album/741IDER2JBR9iOdCOTjwCU) | 3:37 | 2023-01-24 | 2023-02-08 |
+| [Sakura super love \- Cover](https://open.spotify.com/track/7i4GnN5sHOylBh08r1FjZ1) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [Sakura super love \(Cover\)](https://open.spotify.com/album/03gR3zCL3SjNYkDtyLhpiT) | 4:50 | 2023-03-21 |  |
 | [Saṃsāra](https://open.spotify.com/track/3ZzYexiaE8Py8cbpG4Y8Ft) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [HERO](https://open.spotify.com/album/72JpHj3i11LfEfRGtq25DI) | 3:20 | 2023-01-31 | 2023-02-17 |
 | [Seatango](https://open.spotify.com/track/51nYN6ODdXsTytciNYX4qy) | [バスクのスポーツ](https://open.spotify.com/artist/0yaofYMMvhsv6741FK76zU) | [AVATAMA](https://open.spotify.com/album/1ypjmNYyWhCys668wvRqX6) | 2:54 | 2023-01-12 | 2023-01-25 |
 | [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2023-01-12 | 2023-02-03 |
 | [Sense of Wonder](https://open.spotify.com/track/2sWANzUTKXFzd6PuoNT16b) | [KONCOS](https://open.spotify.com/artist/2DLMFZ9TlwJwyGzzodWpXv) | [Waltz for April](https://open.spotify.com/album/2ktDs0e3dtfhsaRQk1nOcz) | 2:24 | 2023-01-12 | 2023-01-18 |
 | [set me free](https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ) | 3:50 | 2023-01-12 | 2023-01-18 |
+| [Sha La La](https://open.spotify.com/track/6sb5X0aWyPraBBgptFcegn) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [Sanagi](https://open.spotify.com/album/2Y17jnzoQE6A6PnMxgfCj1) | 5:28 | 2023-03-21 |  |
 | [Shake it baby](https://open.spotify.com/track/5d8kNJnpvXtqKhmeCf5LNW) | [AMERICAN DREAM EXPRESS](https://open.spotify.com/artist/1bE4mEE39PEzIsteltdoP1) | [AMERICAN DREAM EXPRESS !!!!!!](https://open.spotify.com/album/1gV1KIrgvm26EEm75ouvlY) | 2:33 | 2023-01-24 | 2023-02-08 |
 | [she left](https://open.spotify.com/track/3JxybPHJrgfuF2C7aYHsrb) | [elsie sue](https://open.spotify.com/artist/7t7QD0bzhYdW6POYrkeuRI) | [she left](https://open.spotify.com/album/6GzzKcYJRwROX6cWFVNMOB) | 4:41 | 2023-01-12 | 2023-02-08 |
 | [Shoes](https://open.spotify.com/track/0qerrB7fpmT1O2GkyHmDDg) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [Shoes](https://open.spotify.com/album/0SjNCfSX1tskAsTPW2TZA7) | 2:51 | 2023-01-24 | 2023-02-22 |
@@ -201,7 +204,7 @@
 | [たりないぼくら](https://open.spotify.com/track/4RwQK5CQQWMy77xbOukdYN) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [たりないぼくら](https://open.spotify.com/album/6hY8MJzTmUkw5MekeDre54) | 4:08 | 2023-01-17 | 2023-02-22 |
 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 | 2023-03-07 | 2023-03-22 |
 | [なにを見ても、どこに居ても](https://open.spotify.com/track/3tEJmlEX4BHJ4wloTqd6NS) | [Nombrari](https://open.spotify.com/artist/0tN5CyaLXdQ0MjJFfZZNx2) | [なにを見ても、どこに居ても](https://open.spotify.com/album/2KP4lEiwtC8nds4xPOvJwg) | 3:57 | 2023-02-16 | 2023-03-08 |
-| [なんとなく春](https://open.spotify.com/track/7hf7GFoyVHIavtkfXTywO3) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [なんとなく春](https://open.spotify.com/album/4Dqx9HZFfEJnfBJkrJoJkR) | 4:49 | 2023-03-21 |  |
+| [なんとなく春](https://open.spotify.com/track/7hf7GFoyVHIavtkfXTywO3) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [なんとなく春](https://open.spotify.com/album/4Dqx9HZFfEJnfBJkrJoJkR) | 4:49 | 2023-03-21 | 2023-03-23 |
 | [ぬくもりはたしかに](https://open.spotify.com/track/5qrpYQOcdXx5R4BVAf76If) | [スーパーノア](https://open.spotify.com/artist/54Eb2c0kXE5lvyL3W1LmZ7) | [ぬくもりはたしかに](https://open.spotify.com/album/5HZHsN1e731jgWEFzfBzXI) | 6:27 | 2023-01-12 | 2023-02-03 |
 | [ねがいごと](https://open.spotify.com/track/38AYKLW593mK4eDD7JMrd2) | [toronto](https://open.spotify.com/artist/6WNSwXtvWiQfX8585ExQNR) | [こころとあたまをつなぐ](https://open.spotify.com/album/5835qjBe2RDQdJjvQU5sS3) | 5:18 | 2023-02-21 | 2023-03-08 |
 | [はるのうた](https://open.spotify.com/track/4riu1LebCr8xXjzQ5xBrPw) | [雨先案内人](https://open.spotify.com/artist/1LZhc9gTEbgA3X6e08EerJ) | [はるのうた](https://open.spotify.com/album/18jrsiF8GoY7MRhjpquue7) | 4:29 | 2023-02-07 | 2023-02-09 |
@@ -210,7 +213,7 @@
 | [ぼくらのまま](https://open.spotify.com/track/7xbQZj27qMdhYYaTYLZmEM) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [Welcome to our 1st EP](https://open.spotify.com/album/65z861iUxO3B5gmr57bco5) | 4:12 | 2023-01-24 | 2023-03-08 |
 | [むかしの魔法](https://open.spotify.com/track/4vUKvcf74T10psozRyou6B) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [むかしの魔法](https://open.spotify.com/album/4rBoWGol4wx5pUZ0zS2Wh3) | 3:41 | 2023-02-21 | 2023-02-23 |
 | [ゆう5時](https://open.spotify.com/track/2mADSGp41V9kN2AmM4HRbY) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [symphil\|シンフィル](https://open.spotify.com/album/7nLTJVDS7ovhfswVOa9S4X) | 2:54 | 2023-03-21 |  |
-| [シャララ](https://open.spotify.com/track/0UdjpCVPsEqHWiE2DQWErc) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [さ・な・ぎ](https://open.spotify.com/album/4QoMRfMiRshJWzucSTLle8) | 5:28 | 2023-03-21 |  |
+| [シャララ](https://open.spotify.com/track/0UdjpCVPsEqHWiE2DQWErc) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [さ・な・ぎ](https://open.spotify.com/album/4QoMRfMiRshJWzucSTLle8) | 5:28 | 2023-03-21 | 2023-03-23 |
 | [ステンドの夜](https://open.spotify.com/track/0m0KEWllO59oDfHdYAiyV3) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:04 | 2023-01-12 | 2023-02-01 |
 | [タオルケットは穏やかな](https://open.spotify.com/track/51DmDYJpw2V9ORZUIyL2vD) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [タオルケットは穏やかな](https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU) | 4:11 | 2023-01-24 |  |
 | [チョコレート](https://open.spotify.com/track/1FhcDHsPF10O1Padlv0nMl) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [チョコレート](https://open.spotify.com/album/62Dw3XXgYGO6s8HEbCnUar) | 3:45 | 2023-03-14 |  |
@@ -256,7 +259,7 @@
 | [最後](https://open.spotify.com/track/0qa0TiXSLBFtSwRYzoo7UL) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [最後](https://open.spotify.com/album/1vORFEKjt7ipDV4VgxJptl) | 5:04 | 2023-02-07 | 2023-03-01 |
 | [最近どうなの](https://open.spotify.com/track/54KcoL9ptFaH1g53zH7hXu) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [最近どうなの](https://open.spotify.com/album/2LKKOzIjMdwiymzBDP9FTx) | 3:37 | 2023-01-24 | 2023-01-26 |
 | [月と花との追分で](https://open.spotify.com/track/7aoYaQXqW9ERTPPgxFP7f0) | [onomatopel](https://open.spotify.com/artist/4mTAV6xPaB8DNaArTH3VUw) | [月と花との追分で](https://open.spotify.com/album/2y6d7u8c2AJE0WckQqhpSF) | 4:16 | 2023-01-17 | 2023-01-25 |
-| [桜 super love \- Cover](https://open.spotify.com/track/2xP0DHOUveqDwX2YxWpZpT) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [桜 super love \(Cover\)](https://open.spotify.com/album/46HduRUsP5IkQwX2BlA5OS) | 4:50 | 2023-03-21 |  |
+| [桜 super love \- Cover](https://open.spotify.com/track/2xP0DHOUveqDwX2YxWpZpT) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [桜 super love \(Cover\)](https://open.spotify.com/album/46HduRUsP5IkQwX2BlA5OS) | 4:50 | 2023-03-21 | 2023-03-23 |
 | [母船](https://open.spotify.com/track/3ZATN9nilk2MxQXkl2B7AL) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [卵](https://open.spotify.com/album/4qe0XanRyN4rIkJxjdSoh6) | 4:01 | 2023-01-12 | 2023-01-25 |
 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 | 2023-01-12 | 2023-02-01 |
 | [気持ちいい言葉](https://open.spotify.com/track/3uMUjKOwR7xWFluaESRzxe) | [はいから東京](https://open.spotify.com/artist/1zf5JQjekWY6zGOwWz2oyv) | [Farewell Seasons](https://open.spotify.com/album/39FUV4hWBpjtmVe9gEwRjQ) | 3:48 | 2023-02-28 | 2023-03-10 |

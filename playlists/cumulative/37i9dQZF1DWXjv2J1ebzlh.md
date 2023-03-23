@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,907 songs - 5 day 8 hr 16 min
+1,908 songs - 5 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,8 @@
 | [Cumbia Sobre el Mar](https://open.spotify.com/track/2YGPtCAeMjfY3mXS4E0Mp2) | [Trio Serenata](https://open.spotify.com/artist/1XQ6yrNWT17FAepFzRYI5q) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:53 | 2022-07-12 | 2022-07-29 |
 | [Cumbia Sobre El Mar](https://open.spotify.com/track/37pWwirKiLXJM6EKHn3Soq) | [Trio Serenata](https://open.spotify.com/artist/1XQ6yrNWT17FAepFzRYI5q) | [La Cumbia Está Llamando \- Early Cumbia From Colombia](https://open.spotify.com/album/5cnBdljuMe92rjF9cWuyu8) | 2:53 | 2022-07-27 |  |
 | [Cumbia Sobre el Mar \(El Búho Remix\)](https://open.spotify.com/track/0HdHd5mJlqFqv8PqAGDsEw) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i) | 5:12 | 2022-06-09 | 2022-10-14 |
-| [Cumbia Sobre el Mar \- El Búho Remix](https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm) | 5:12 | 2022-09-29 |  |
+| [Cumbia Sobre el Mar \- El Búho Remix](https://open.spotify.com/track/0p8LlXT1FG9vnrCH70dbuo) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbia Sobre el Mar / Inmortales \(El Búho Remixes\)](https://open.spotify.com/album/1iHJ1yT7T5juouGV7IkeRN) | 5:12 | 2023-03-17 |  |
+| [Cumbia Sobre el Mar \- El Búho Remix](https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm) | 5:12 | 2022-09-29 | 2023-03-23 |
 | [Cumbia Sobre el Mar \- El Búho Remix](https://open.spotify.com/track/5Qlx073uRABETLWWLYaHSC) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbia Sobre el Mar / Inmortales \(El Búho Remixes\)](https://open.spotify.com/album/5UqGo5TrSRwovz8miH33pZ) | 5:12 | 2022-10-31 | 2022-11-13 |
 | [Cumbiamba](https://open.spotify.com/track/1PHV3ok6lSkOBuh3gwnQWJ) | [El Sexteto Miramar](https://open.spotify.com/artist/1iqizG2Ee69tnuTlypyeep) | [En la Manigua](https://open.spotify.com/album/17zVrqXNzZF9xLWKDMnIYc) | 2:31 | 2022-06-09 |  |
 | [Curious Story](https://open.spotify.com/track/4ULM7v9nBZx1DZsjgSRErp) | [Ry\-Co Jazz](https://open.spotify.com/artist/3umj1fcfDdwdTiv6YvAsO9) | [Dansons Avec …](https://open.spotify.com/album/0ILijiU4aiWOgHAz9h6K5J) | 3:23 | 2022-07-27 |  |

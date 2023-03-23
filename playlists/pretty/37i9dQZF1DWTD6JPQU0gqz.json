@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 45989,
+  "num_followers": 46007,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMDlhOWI5YTY2YjA3NWIzMGUzZWIyOTIwYTIwOWZmYTEx",
+  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMDI3NWIwNDMyZTcxNTExOWU5ZTVmZGE2OTQ1NzAwMzFm",
   "tracks": [
     {
       "added_at": "2023-02-17 03:40:06",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Date Brillo Cadenita",
-        "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
-      },
-      "artists": [
-        {
-          "name": "Fefita La Grande",
-          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
-        }
-      ],
-      "duration_ms": 438480,
-      "name": "La Chiflera",
-      "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei"
+        "name": "Date Brillo Cadenita",
+        "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
       },
       "artists": [
         {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+          "name": "Fefita La Grande",
+          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
         }
       ],
-      "duration_ms": 302373,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/3eoZ06E3Pmf6jfgWHM0m5X"
+      "duration_ms": 438480,
+      "name": "La Chiflera",
+      "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -651,6 +635,22 @@
       "duration_ms": 186216,
       "name": "Se Acab\u00f3 (feat. Mozart La Para)",
       "url": "https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 302373,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/3eoZ06E3Pmf6jfgWHM0m5X"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "MIA BEACH",
-        "url": "https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "MIA BEACH",
-      "url": "https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Sin Aire",
         "url": "https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 120000,
       "name": "Sin Aire",
       "url": "https://open.spotify.com/track/4m93OTJad26zWgEFprZICX"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "MIA BEACH",
+        "url": "https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "MIA BEACH",
+      "url": "https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A"
     },
     {
       "added_at": "2023-02-17 03:40:06",

@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-143 songs - 9 hr 8 min
+144 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 | 2022-04-26 |  |
 | [Black Orpheus](https://open.spotify.com/track/3VCzknPQgKeeggh1AQcNYF) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Black Orpheus](https://open.spotify.com/album/2nVeJ916nEQC4pnoCGCb2P) | 3:24 | 2022-05-10 |  |
 | [Black Orpheus](https://open.spotify.com/track/509iWZpdj11TayPbutE5JG) | [David Clough Quartet](https://open.spotify.com/artist/7sBV16McZ6qZy9O78hGbNG) | [My Favorite Things](https://open.spotify.com/album/28283G5mmwjrwg9RKnukIK) | 5:10 | 2022-04-26 | 2022-05-11 |
-| [Blue Bossa](https://open.spotify.com/track/7w5Plin7KHi7vC1bjSeLpW) | [Horace Ingram Trio](https://open.spotify.com/artist/2upKKzpVjxy1rxfwEM7pqT) | [Laura](https://open.spotify.com/album/11rDo8Bvg7KcPW7QDMhDWq) | 5:34 | 2022-04-26 |  |
+| [Blue Bossa](https://open.spotify.com/track/7w5Plin7KHi7vC1bjSeLpW) | [Horace Ingram Trio](https://open.spotify.com/artist/2upKKzpVjxy1rxfwEM7pqT) | [Laura](https://open.spotify.com/album/11rDo8Bvg7KcPW7QDMhDWq) | 5:34 | 2022-04-26 | 2023-03-23 |
 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 | 2022-06-28 |  |
 | [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 | 2022-04-26 | 2022-07-29 |
 | [Bossa Antigua](https://open.spotify.com/track/641OktsOvVkwt59DOisKZM) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Paul Desmond: The Best of the Complete RCA Victor Recordings](https://open.spotify.com/album/0KowjFC1x1qBFKVpc9RbXP) | 4:45 | 2022-11-09 | 2022-11-13 |
@@ -42,6 +42,7 @@
 | [Cascata](https://open.spotify.com/track/38QZjaaJwTLwEpSjF5nVXY) | [Paulo Lucas](https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV) | [Samba Rio](https://open.spotify.com/album/4hivZfrUKVeLoNMKDTGfoG) | 3:40 | 2022-04-26 |  |
 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 | 2022-04-26 |  |
 | [Ceora](https://open.spotify.com/track/44PaZQ3GpcmSaxyaxXmSM9) | [Soho Quartet](https://open.spotify.com/artist/3aTm2ir7MmRflowueIXZqA) | [Moontrane](https://open.spotify.com/album/33qv9JCJspR9SXs9nUqClp) | 2:26 | 2022-04-26 |  |
+| [Clear Skies](https://open.spotify.com/track/0OwYnlCmkWPvvtR2rrtIVW) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 4:10 | 2023-03-22 |  |
 | [Cleopatra's Dream](https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V) | [Jonny Libonate](https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba) | [But Not for Me](https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE) | 3:08 | 2022-04-26 |  |
 | [Coisa Linda \(Solo Guitar\)](https://open.spotify.com/track/5RIBurCH73RYHD9rbNPvN2) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Coisa Linda](https://open.spotify.com/album/0nSH16JFQkqaePBZyXvcgV) | 3:25 | 2022-04-26 |  |
 | [Coração Dolorido](https://open.spotify.com/track/0aAlTbi3bgYvVex42whvDZ) | [Vitor Vagner](https://open.spotify.com/artist/18kiPS1TIJ9akOTddrW7DH) | [Puxar Do Amor](https://open.spotify.com/album/3NA3vF96CZMerNw6J4hGAC) | 3:27 | 2022-04-26 |  |

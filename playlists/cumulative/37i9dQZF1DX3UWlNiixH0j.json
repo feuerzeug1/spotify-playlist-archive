@@ -1945,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "Nantonaku Haru",
+        "url": "https://open.spotify.com/album/6QD4Xc2JiVOuy4KBedARoY"
+      },
+      "artists": [
+        {
+          "name": "Soul Babies",
+          "url": "https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289061,
+      "name": "Nantonaku Haru",
+      "url": "https://open.spotify.com/track/1OExZqhRRwlaiRtsg3RhhD"
+    },
+    {
+      "album": {
         "name": "HARU NEMURI on Audiotree Live",
         "url": "https://open.spotify.com/album/4VJQdztVh2Pkt6nOt7h1D3"
       },
@@ -2451,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Sakura super love (Cover)",
+        "url": "https://open.spotify.com/album/03gR3zCL3SjNYkDtyLhpiT"
+      },
+      "artists": [
+        {
+          "name": "\u732b\u6226",
+          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290347,
+      "name": "Sakura super love - Cover",
+      "url": "https://open.spotify.com/track/7i4GnN5sHOylBh08r1FjZ1"
+    },
+    {
+      "album": {
         "name": "HERO",
         "url": "https://open.spotify.com/album/72JpHj3i11LfEfRGtq25DI"
       },
@@ -2542,6 +2578,24 @@
       "duration_ms": 230500,
       "name": "set me free",
       "url": "https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM"
+    },
+    {
+      "album": {
+        "name": "Sanagi",
+        "url": "https://open.spotify.com/album/2Y17jnzoQE6A6PnMxgfCj1"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30a4\u30c6\u30a3\u30de\u30a6\u30f3\u30c6\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328312,
+      "name": "Sha La La",
+      "url": "https://open.spotify.com/track/6sb5X0aWyPraBBgptFcegn"
     },
     {
       "album": {
@@ -3694,7 +3748,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 289061,
       "name": "\u306a\u3093\u3068\u306a\u304f\u6625",
       "url": "https://open.spotify.com/track/7hf7GFoyVHIavtkfXTywO3"
@@ -3856,7 +3910,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 328312,
       "name": "\u30b7\u30e3\u30e9\u30e9",
       "url": "https://open.spotify.com/track/0UdjpCVPsEqHWiE2DQWErc"
@@ -4696,7 +4750,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 290347,
       "name": "\u685c super love - Cover",
       "url": "https://open.spotify.com/track/2xP0DHOUveqDwX2YxWpZpT"

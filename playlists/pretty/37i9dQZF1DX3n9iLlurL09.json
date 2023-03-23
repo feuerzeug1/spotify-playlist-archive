@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 62842,
+  "num_followers": 62900,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDI0YTI4MzNhNWIxYTMwNjIwYjVmZWVmNzY0ZGZjNTY2",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDE2NzcyMzkyNTU2MjdlMWI2ZDgwNTM1NDU3MjBmODZk",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Sweet Disarray",
-        "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
-      },
-      "artists": [
-        {
-          "name": "Dan Croll",
-          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
-        }
-      ],
-      "duration_ms": 196848,
-      "name": "From Nowhere",
-      "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 179653,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Sweet Disarray",
+        "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
+      },
+      "artists": [
+        {
+          "name": "Dan Croll",
+          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
+        }
+      ],
+      "duration_ms": 196848,
+      "name": "From Nowhere",
+      "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Flume: Deluxe Edition",
-        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "T-Shirt",
-          "url": "https://open.spotify.com/artist/09v1n02OCBEntKxrSTw1L1"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "On Top",
-      "url": "https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 223840,
       "name": "Forest Whitaker",
       "url": "https://open.spotify.com/track/5S67wnJOMjuySVEu4ssCof"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Flume: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "T-Shirt",
+          "url": "https://open.spotify.com/artist/09v1n02OCBEntKxrSTw1L1"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ"
     },
     {
       "added_at": "2022-05-19 08:11:23",

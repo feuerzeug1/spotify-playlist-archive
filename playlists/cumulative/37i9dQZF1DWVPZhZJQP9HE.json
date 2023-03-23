@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 60000,
       "name": "Adiye Sonali",
       "url": "https://open.spotify.com/track/1wF5Lmm1YHSbLqR4IQjBzY"
@@ -540,6 +540,24 @@
       "duration_ms": 207313,
       "name": "Amour",
       "url": "https://open.spotify.com/track/54sUHoLaeNSeqTWpWk8P9t"
+    },
+    {
+      "album": {
+        "name": "Amudhae (Eternal Love)",
+        "url": "https://open.spotify.com/album/61I7qlS2REZqipLhFKFjNU"
+      },
+      "artists": [
+        {
+          "name": "Manoj Krishna",
+          "url": "https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Amudhae - Eternal Love",
+      "url": "https://open.spotify.com/track/5lob9QUiS21imG5m41ZVu1"
     },
     {
       "album": {
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 197994,
       "name": "Bodhai Penne Nee",
       "url": "https://open.spotify.com/track/3v4TGyHakUilgOmxsWNlJ6"
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 151200,
       "name": "Durai Sleeping - From \"Think Originals\"",
       "url": "https://open.spotify.com/track/197dZDgejcTSZ8RYPEDowe"
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 255865,
       "name": "Heartu Oru Nodi Nikkudhey",
       "url": "https://open.spotify.com/track/3bn64N4VIDpEap7zRY17Xi"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 237648,
       "name": "I Mac Nee",
       "url": "https://open.spotify.com/track/3iotSFdvIPHlbVMH4caznZ"
@@ -3366,7 +3384,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 177000,
       "name": "Kettu Paaru",
       "url": "https://open.spotify.com/track/2CwcuF6fNhmTZFFh9dmugx"
@@ -3406,7 +3424,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 62807,
       "name": "Kittakka Vaadi",
       "url": "https://open.spotify.com/track/2Dc4Kz0TR7JAPA9cW4FWLS"
@@ -3772,7 +3790,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 186000,
       "name": "Maayaval",
       "url": "https://open.spotify.com/track/5ja2zSzH6k4Ca4sJ3Graay"
@@ -3852,7 +3870,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 174430,
       "name": "Malarum Vazhvey",
       "url": "https://open.spotify.com/track/1CFga4SrXszXXs7B6Oum4v"
@@ -4299,6 +4317,24 @@
     },
     {
       "album": {
+        "name": "Moochodu Moochaga",
+        "url": "https://open.spotify.com/album/71eROuMrxZPbmey60XFUze"
+      },
+      "artists": [
+        {
+          "name": "Martin Kartenjer",
+          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Moochodu Moochaga",
+      "url": "https://open.spotify.com/track/6OGVdAqprBE1EA6G1DuUBr"
+    },
+    {
+      "album": {
         "name": "Mottai Maadi",
         "url": "https://open.spotify.com/album/226u0keOEIen2tiPRBtIKQ"
       },
@@ -4354,6 +4390,28 @@
       "duration_ms": 226909,
       "name": "Mounangal Pothume",
       "url": "https://open.spotify.com/track/6ER0LQfB3rvmeMq0J6G4XT"
+    },
+    {
+      "album": {
+        "name": "Mudhal Kadhal",
+        "url": "https://open.spotify.com/album/2NiObTgUgYRJA2wEILEk7K"
+      },
+      "artists": [
+        {
+          "name": "Camlin Reggaeta",
+          "url": "https://open.spotify.com/artist/2xBHqPu72SuPT6eqv05sYB"
+        },
+        {
+          "name": "Arjun Bharathy SK",
+          "url": "https://open.spotify.com/artist/7o9G7nLm7VwWVZCHPTFlIL"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256406,
+      "name": "Mudhal Kadhal",
+      "url": "https://open.spotify.com/track/4nVteFxkVDlb6yTIuMhBLO"
     },
     {
       "album": {
@@ -4736,6 +4794,28 @@
       "duration_ms": 221352,
       "name": "Natpin Isai - From \"Little Hearts\"",
       "url": "https://open.spotify.com/track/0fAojxSG8hxnCuXymFSfo5"
+    },
+    {
+      "album": {
+        "name": "Kadhal Distancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22IzQzgVuim5il8fUYxpLA"
+      },
+      "artists": [
+        {
+          "name": "Barath Dhanasekar",
+          "url": "https://open.spotify.com/artist/67sk0ISBwhavYRmJxZTWqD"
+        },
+        {
+          "name": "Aishwerya Radhakrishnan",
+          "url": "https://open.spotify.com/artist/4vbMPVLk4phK2SiYRsqLCD"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275478,
+      "name": "Nee Cadbury",
+      "url": "https://open.spotify.com/track/5074vxvOMww4f0LqM8cRLn"
     },
     {
       "album": {
@@ -5207,6 +5287,24 @@
     },
     {
       "album": {
+        "name": "Buffoon Kadhal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/00Ex3gBXLz8v0gXHlmIaJH"
+      },
+      "artists": [
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258782,
+      "name": "Oh Azhagae, Pt. 1",
+      "url": "https://open.spotify.com/track/2YY7HsQbmERN99mfnUsrGA"
+    },
+    {
+      "album": {
         "name": "Oh Maane",
         "url": "https://open.spotify.com/album/1Kx1hAJqJ49iK85Osl6aJE"
       },
@@ -5418,7 +5516,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 194666,
       "name": "Oru Murai",
       "url": "https://open.spotify.com/track/64U4MpGbcNsj1VzxVHw80h"
@@ -5642,6 +5740,24 @@
       "duration_ms": 250555,
       "name": "Paarvai Yenna",
       "url": "https://open.spotify.com/track/237fzFQBlOrVG0LSf5Im0t"
+    },
+    {
+      "album": {
+        "name": "Paayum Oli Nee Yenaku",
+        "url": "https://open.spotify.com/album/2mDrIqUGnjhrXhf4YSMoTo"
+      },
+      "artists": [
+        {
+          "name": "Ratchakan Sridhar",
+          "url": "https://open.spotify.com/artist/3Udd19ENueI0Bpe9QAvX4t"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252127,
+      "name": "Paayum Oli Nee Yenaku",
+      "url": "https://open.spotify.com/track/6fpzmhrXPkTU1rMIxkBgtB"
     },
     {
       "album": {
@@ -6062,7 +6178,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 212673,
       "name": "Polambal",
       "url": "https://open.spotify.com/track/4b50BdPjp56Ir3QNiXTn07"
@@ -6150,7 +6266,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 216923,
       "name": "Poonthendral Kaathu",
       "url": "https://open.spotify.com/track/2ucsS9bwYOmVJKVjRzK76a"
@@ -6172,7 +6288,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 212000,
       "name": "Poovodu Kaathu",
       "url": "https://open.spotify.com/track/27IEid7JynrUzJLjbGHp1H"
@@ -6349,6 +6465,28 @@
     },
     {
       "album": {
+        "name": "Saaral Nee",
+        "url": "https://open.spotify.com/album/7dqfwweoQmFX8V7gJL2cyx"
+      },
+      "artists": [
+        {
+          "name": "Raja Sai",
+          "url": "https://open.spotify.com/artist/73yc1Tcimoc5wXKJUAiRJF"
+        },
+        {
+          "name": "Keshav Vinod",
+          "url": "https://open.spotify.com/artist/1wu1Pg4sb54JwUhlfBP5FS"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182181,
+      "name": "Saaral Nee",
+      "url": "https://open.spotify.com/track/6Lms8pldN40GLHfcP6NSf8"
+    },
+    {
+      "album": {
         "name": "Saarale",
         "url": "https://open.spotify.com/album/5u51REoqz9KBLbqBhDcXd9"
       },
@@ -6452,7 +6590,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 217368,
       "name": "Saga",
       "url": "https://open.spotify.com/track/1PrAlnmhX77F7QMfjGGzWw"
@@ -7066,7 +7204,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 177540,
       "name": "Thedathey",
       "url": "https://open.spotify.com/track/1vjWrLi4w55MBEfATFI5Me"
@@ -7944,7 +8082,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 217350,
       "name": "Vellai Poove",
       "url": "https://open.spotify.com/track/73RJInEfMXw3ZhefZ8C6Ef"

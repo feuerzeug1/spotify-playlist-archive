@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1E4z2rLRcG85b0?si=ab4c5f6080824c3a">Anzélle</a>
+> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs?si=pHdjdiUDSe2aNk7r\-YVuzQ">Anzélle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,724 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,748 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Tipsy Verby](https://open.spotify.com/track/6gRWV52M8j2bliM66L405p) | [Hugh Lynn](https://open.spotify.com/artist/7kdzDaVmfQRoFVTi7nb09w) | [Tipsy Verby](https://open.spotify.com/album/26VrqgaiWCY7lRtdrZ0meF) | 2:59 |
 | 50 | [Babbelas ² Kwadraat](https://open.spotify.com/track/1AOMZtWjYu7CMm0lmJuV40) | [Kevboii](https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN) | [Babbelas ² Kwadraat](https://open.spotify.com/album/6WNShAod3Jay2eNq8PIzJr) | 2:29 |
 
-Snapshot ID: `MTY3OTAwMzk0MCwwMDAwMDAwMDliZDI0ODVhYmEyNGMyMDM2ZGQzZjA0NjZhYTAxMWZk`
+Snapshot ID: `MTY3OTQ4MzgyOCwwMDAwMDAwMDAxNmQyYmE0ZjhiYTI2ZTA2ZDJjZjNlOTIxNzVkMzk1`

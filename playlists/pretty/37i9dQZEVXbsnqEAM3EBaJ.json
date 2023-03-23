@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5ODM3MDAsMDAwMDAwMDBjMTUwMDA3N2RlMjYxYmNjZTA3OGRiZDExYzEwZGRmYg==",
+  "snapshot_id": "Mjc5ODM3MDAsMDAwMDAwMDA4ZjMwZGUxZjM0ZDc3ZWMxNjRiM2I0YzVkMDAwYTUyOQ==",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -379,30 +379,6 @@
       "duration_ms": 167022,
       "name": "I Miss Strangers - Acoustic",
       "url": "https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Mendelssohn, Tchaikovsky & Grieg: Philharmonia Orchestra",
-        "url": "https://open.spotify.com/album/1WciFFl7pWpeX4dG2OihtF"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 533333,
-      "name": "Symphony No. 4 In F Minor, Op. 36, TH.27: 4. Finale (Allegro con fuoco)",
-      "url": "https://open.spotify.com/track/6ubHw8dLBSY9znTNuUu9Pk"
     },
     {
       "added_at": "2023-03-17 03:00:00",

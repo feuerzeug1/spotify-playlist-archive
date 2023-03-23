@@ -1,13 +1,29 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3577623,
+  "num_followers": 3577974,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMzODA4OSwwMDAwMDAwMDFkNGRiZGMyNGNjNzQ1YTk2YTNlMzVjMmU2MDViZjky",
+  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMDRkZjVhZGM0YWEzN2I5ZmE3ZTM4NDlkZGFhZTUwZTUz",
   "tracks": [
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "52nd Street",
+        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
+    },
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
@@ -55,22 +71,6 @@
       "duration_ms": 456640,
       "name": "Deacon Blues",
       "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "52nd Street",
-        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "I Robot (Expanded Edition)",
-        "url": "https://open.spotify.com/album/44VunLimdsXo2C6figBmwj"
-      },
-      "artists": [
-        {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "I Wouldn't Want to Be Like You",
-      "url": "https://open.spotify.com/track/5dbcQ5D5EnBK4mO3Oygzeu"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "What Were Once Vices Are Now Habits",
         "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 267800,
       "name": "Another Park, Another Sunday",
       "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "I Robot (Expanded Edition)",
+        "url": "https://open.spotify.com/album/44VunLimdsXo2C6figBmwj"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "I Wouldn't Want to Be Like You",
+      "url": "https://open.spotify.com/track/5dbcQ5D5EnBK4mO3Oygzeu"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Time Passages",
-        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 403040,
-      "name": "Time Passages",
-      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Chicago XI",
         "url": "https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 183666,
       "name": "Baby, What a Big Surprise - Edit",
       "url": "https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Time Passages",
+        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 403040,
+      "name": "Time Passages",
+      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Izitso",
-        "url": "https://open.spotify.com/album/0HqRLZ9yvOGL23IcW0GDoV"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "(Remember the Days of The) Old Schoolyard",
-      "url": "https://open.spotify.com/track/1a2fmmAAlGGxiUTDLM3ghL"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Underdog",
         "url": "https://open.spotify.com/album/4kCaBxoVlLShsmGny6xwOT"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Firin' Up",
-        "url": "https://open.spotify.com/album/6Norh72qPrDRebO1656Xo1"
+        "name": "Izitso",
+        "url": "https://open.spotify.com/album/0HqRLZ9yvOGL23IcW0GDoV"
       },
       "artists": [
         {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 167106,
-      "name": "Let Me Love You Tonight",
-      "url": "https://open.spotify.com/track/6vOMU2u38Z9Wru3CqPxcKs"
+      "duration_ms": 164826,
+      "name": "(Remember the Days of The) Old Schoolyard",
+      "url": "https://open.spotify.com/track/1a2fmmAAlGGxiUTDLM3ghL"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1003,6 +987,22 @@
       "duration_ms": 200026,
       "name": "You're the Love",
       "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Firin' Up",
+        "url": "https://open.spotify.com/album/6Norh72qPrDRebO1656Xo1"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 167106,
+      "name": "Let Me Love You Tonight",
+      "url": "https://open.spotify.com/track/6vOMU2u38Z9Wru3CqPxcKs"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Bill LaBounty",
-        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
-      },
-      "artists": [
-        {
-          "name": "Bill LaBounty",
-          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "Pages",
-        "url": "https://open.spotify.com/album/3jq51cWLTtOgUN7x44fKvp"
-      },
-      "artists": [
-        {
-          "name": "Pages",
-          "url": "https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "You Need A Hero",
-      "url": "https://open.spotify.com/track/5xnOk0gOwfhfnEY6cfYo5B"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -1131,6 +1099,22 @@
       "duration_ms": 270333,
       "name": "Fountain Of Sorrow",
       "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Bill LaBounty",
+        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1151,22 +1135,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Another Year",
-        "url": "https://open.spotify.com/album/2p2kou1Eo0lr9dADvLfjn7"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "Moonlighting",
-      "url": "https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Larsen/Feiten Band",
         "url": "https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB"
       },
@@ -1183,6 +1151,54 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/3jq51cWLTtOgUN7x44fKvp"
+      },
+      "artists": [
+        {
+          "name": "Pages",
+          "url": "https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "You Need A Hero",
+      "url": "https://open.spotify.com/track/5xnOk0gOwfhfnEY6cfYo5B"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Arc Of A Diver",
+        "url": "https://open.spotify.com/album/6st1dtm8abvdd1S9vWLUQL"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "While You See A Chance",
+      "url": "https://open.spotify.com/track/4tFumK7mnlcpNeHCNEQ4wc"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/2p2kou1Eo0lr9dADvLfjn7"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "Moonlighting",
+      "url": "https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "Blue Desert",
         "url": "https://open.spotify.com/album/6qSJ3fzXH9d3AWfuhbNcf6"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 227000,
       "name": "I'm a Camera",
       "url": "https://open.spotify.com/track/6XbA5gVGJlza8v7ebAbUZ1"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "Ennismore",
-        "url": "https://open.spotify.com/album/6PNrEWf5qDyRIPUSFC0poI"
-      },
-      "artists": [
-        {
-          "name": "Colin Blunstone",
-          "url": "https://open.spotify.com/artist/27DCwiPx5ocQsf4K43SlIL"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "I Don't Believe In Miracles",
-      "url": "https://open.spotify.com/track/4a0z0XNi6gPXZczkXUaP7w"
     }
   ],
   "unique_name": "Soft Rock",

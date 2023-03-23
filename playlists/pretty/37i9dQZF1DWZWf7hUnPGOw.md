@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,423 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,475 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 77 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 |
 | 78 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
 | 79 | [Dance Like Ya Wanna](https://open.spotify.com/track/67uLKdHyQjEwkWEb0nwDbO) | [Josh Eagle and The Harvest City](https://open.spotify.com/artist/6dN2IgjlE0uwYPVK078qLX) | [Josh Eagle and the Harvest City](https://open.spotify.com/album/1P4F9VzGCaeWBf4Fkrjrbx) | 3:41 |
-| 80 | [Another Road](https://open.spotify.com/track/3yK1Vggrx00tldhe19K6AN) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:45 |
+| 80 | [Another Road](https://open.spotify.com/track/3LvheDzR1jqsrsKJQIFQra) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy) | 3:45 |
 | 81 | [Just Can't Say I Can't](https://open.spotify.com/track/74p2JLLMC6DWOrItWhM8XL) | [The Dahls](https://open.spotify.com/artist/5e6QJGOFBAFPoOPIFDKaWt) | [The Dahls](https://open.spotify.com/album/44ppJ1cBnahnaoXCtzSnjb) | 2:31 |
 | 82 | [Heart's for Mine](https://open.spotify.com/track/1IN3yi4InzQxvokJ3ks8tr) | [Jack Grelle](https://open.spotify.com/artist/5vSOsUL2Sp1JTsfh0HsRor) | [Got Dressed Up to be Let Down](https://open.spotify.com/album/0L1WEUgkaTxtD4mRFH6RQY) | 3:06 |
 | 83 | [Horses and Hearts \(feat\. Abbey Cone\)](https://open.spotify.com/track/44vI5BreUHR4FQxROk6g9V) | [Ray Johnston Band](https://open.spotify.com/artist/06TYiYKq7bzEi1H1vznlzo), [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [\#GoesGoodWith](https://open.spotify.com/album/6SPK9nNIuLxoHaPgqj49oY) | 2:56 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 89 | [Got It Back](https://open.spotify.com/track/7vjhuUUaod3qMA1ptzE04o) | [Cree Rider Family Band](https://open.spotify.com/artist/3XRXBKYzi8ShXOANoYJb1p) | [One Night Stand](https://open.spotify.com/album/0Sd1LEIYbTtnXQKrq68GEk) | 3:58 |
 | 90 | [Circle Round](https://open.spotify.com/track/0eufPqWEcodZaExpeQcigl) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Stealing Time](https://open.spotify.com/album/7oNtY0xPnxNc6oAXoOFrs9) | 3:28 |
 | 91 | [Slow Rolling](https://open.spotify.com/track/0opZ2lJotg4BBokS9S5QPp) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Ocha Scores](https://open.spotify.com/album/5neD4cM7aAEPaSv0pTDPZF) | 2:54 |
-| 92 | [Crusher](https://open.spotify.com/track/3L6eIcMTcu4faDSQbocHS0) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:08 |
+| 92 | [Crusher](https://open.spotify.com/track/22wmfoCSqhCrUU586zfaQu) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy) | 3:08 |
 | 93 | [Troubles](https://open.spotify.com/track/7kwJKz6246G9HUAREqLAw7) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Eternal Reach](https://open.spotify.com/album/1PB9Z5JcnmNMssRegx6K61) | 6:24 |
 | 94 | [Turn](https://open.spotify.com/track/1qXqofgrpHVmaQRvpjhbHM) | [Ben Wagner](https://open.spotify.com/artist/2XfzkL45NEnGaTUtUOo63D) | [Midwestern Comfort](https://open.spotify.com/album/4rKjsssuMEhPlCrfcbl8mx) | 4:05 |
 | 95 | [I Need Your Love](https://open.spotify.com/track/0hYZEuOjA0u7LLLuOPx3cd) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Cause And Effect \(Deluxe\)](https://open.spotify.com/album/2V3ebysBMSaKfYUcsCWmKX) | 4:11 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 97 | [Soft Dark Nothing](https://open.spotify.com/track/4SQ6Gk4a6QlPJrov5fD5Uu) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Arcadia](https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye) | 3:17 |
 | 98 | [Every Other Sunday Morning](https://open.spotify.com/track/4oo5Tb8pewuWud1RQW325n) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [From The Wreckage](https://open.spotify.com/album/3IsnebH7a085bEoQKee9UX) | 4:07 |
 | 99 | [Drift Away](https://open.spotify.com/track/11YWR8tzDTR2P4KZ3lAySj) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Throwback Tunes: 70s](https://open.spotify.com/album/5DJHtJpuoj7VidJ447oD8s) | 3:54 |
-| 100 | [On My Way Home](https://open.spotify.com/track/44y71LA72zHm2SgMjfMN5v) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:50 |
+| 100 | [On My Way Home](https://open.spotify.com/track/4Pz4O7gnkdGh60uxa8QzNj) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy) | 3:50 |
 | 101 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
 | 102 | [Lose My Faith](https://open.spotify.com/track/0mvEuS5eEEvIcpb5lu20Ef) | [Gold Brother](https://open.spotify.com/artist/6O7D1lQ7wlhy0s7QYh620s) | [Lose My Faith](https://open.spotify.com/album/3kIxIaYi8ZOqcncwLcNHKK) | 3:21 |
 | 103 | [World Spins Madly On](https://open.spotify.com/track/6NSlOEEtWlqvEFrjQsry77) | [The Weepies](https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5), [Deb Talan](https://open.spotify.com/artist/7tFFagB7kjwoCTP3QMlzJD), [Steve Tannen](https://open.spotify.com/artist/6vvDymlJBME7J2SPsyY3td) | [Say I Am You](https://open.spotify.com/album/17YOU9hgAgAOmjAFEimg1w) | 2:45 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMGRmNWU0NzQ2OGMxOGZjOGMxMDBiYWFjN2NlNmIyOTNj`
+Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMGNhZDdiZTAzY2VmYTU5ZWE0NzQzYzdmYzVjYWU0MDg3`

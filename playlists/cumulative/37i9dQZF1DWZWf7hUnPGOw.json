@@ -168,7 +168,7 @@
     {
       "album": {
         "name": "Round Trip",
-        "url": "https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr"
+        "url": "https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy"
       },
       "artists": [
         {
@@ -179,6 +179,24 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225840,
+      "name": "Another Road",
+      "url": "https://open.spotify.com/track/3LvheDzR1jqsrsKJQIFQra"
+    },
+    {
+      "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr"
+      },
+      "artists": [
+        {
+          "name": "Map Of Wyoming",
+          "url": "https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
       "duration_ms": 225840,
       "name": "Another Road",
       "url": "https://open.spotify.com/track/3yK1Vggrx00tldhe19K6AN"
@@ -608,7 +626,7 @@
     {
       "album": {
         "name": "Round Trip",
-        "url": "https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr"
+        "url": "https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy"
       },
       "artists": [
         {
@@ -619,6 +637,24 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Crusher",
+      "url": "https://open.spotify.com/track/22wmfoCSqhCrUU586zfaQu"
+    },
+    {
+      "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr"
+      },
+      "artists": [
+        {
+          "name": "Map Of Wyoming",
+          "url": "https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
       "duration_ms": 188400,
       "name": "Crusher",
       "url": "https://open.spotify.com/track/3L6eIcMTcu4faDSQbocHS0"
@@ -2338,10 +2374,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 230600,
       "name": "On My Way Home",
       "url": "https://open.spotify.com/track/44y71LA72zHm2SgMjfMN5v"
+    },
+    {
+      "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy"
+      },
+      "artists": [
+        {
+          "name": "Map Of Wyoming",
+          "url": "https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "On My Way Home",
+      "url": "https://open.spotify.com/track/4Pz4O7gnkdGh60uxa8QzNj"
     },
     {
       "album": {

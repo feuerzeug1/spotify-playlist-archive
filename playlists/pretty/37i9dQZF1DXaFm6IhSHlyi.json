@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 137507,
+  "num_followers": 137529,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg1NjQ0NywwMDAwMDAwMDI0N2UzMDFmMzU3OGFkMDBjMDM5ZjM4N2MzYmE1MTM5",
+  "snapshot_id": "MTY3NTg1NjQ0NywwMDAwMDAwMDQ0MjkxMDY0ZWIyNDA1MWZiNDRhZDdlZGRiZGNkMDli",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Make Out",
         "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 244820,
       "name": "ILYSB - STRIPPED",
       "url": "https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Hilo Rojo",
+      "url": "https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Lucid",
         "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
+        "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
+        "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Hilo Rojo",
-      "url": "https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP"
+      "duration_ms": 219689,
+      "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
+      "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 237882,
       "name": "Maula",
       "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
-        "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 219689,
-      "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
-      "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "For You - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
         "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 287500,
       "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
       "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205583,
+      "name": "For You - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/1Dm5jDXXhjm84fIS8WnwJ9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sajni",
         "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 298000,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1Dm5jDXXhjm84fIS8WnwJ9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Te quiero (Versi\u00f3n 2019)",
-        "url": "https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 230386,
-      "name": "Te quiero - Versi\u00f3n 2019",
-      "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Elyanna",
         "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 62969,
       "name": "Majnony Ana",
       "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Te quiero (Versi\u00f3n 2019)",
+        "url": "https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "Te quiero - Versi\u00f3n 2019",
+      "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sikasih",
-        "url": "https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq"
-      },
-      "artists": [
-        {
-          "name": "Abam",
-          "url": "https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL"
-        }
-      ],
-      "duration_ms": 186915,
-      "name": "Sikasih",
-      "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sikasih",
+        "url": "https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq"
+      },
+      "artists": [
+        {
+          "name": "Abam",
+          "url": "https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL"
+        }
+      ],
+      "duration_ms": 186915,
+      "name": "Sikasih",
+      "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
     },
     {
       "added_at": "2022-10-17 15:00:00",

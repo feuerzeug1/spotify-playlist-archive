@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Snakehips, Tkay Maidza
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,556 likes - 106 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,562 likes - 106 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 
 > Lull your little ones with piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,553 likes - 272 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,626 likes - 272 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 | 31 | [What A Wonderful World](https://open.spotify.com/track/2rvH33qiSxBPYXB2nMeYGt) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [Amazing Grace](https://open.spotify.com/album/7tSnOYZYhCkvt1k1l2vkKq) | 2:55 |
 | 32 | [Baby Dreams](https://open.spotify.com/track/1hXVKf8iXLbvpM546ptPFZ) | [Sandy Blau](https://open.spotify.com/artist/6p8V4tzveoaAM4qoQepvDl) | [Baby Dreams](https://open.spotify.com/album/3zLvpEtT95hr5pxdDTPWTy) | 1:30 |
 | 33 | [Snoozie](https://open.spotify.com/track/7ugyZzpdaba3UIvfwKK3qT) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Tiny Toddler](https://open.spotify.com/album/0eULh7p9fHZOiRy9vJZFwj) | 1:59 |
-| 34 | [Cherished Dreams](https://open.spotify.com/track/0fH8hYXMXdHHTfAtDb5E41) | [Skye Holland](https://open.spotify.com/artist/0A1vSROc85f7LwTdncMf67) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 2:07 |
+| 34 | [Cherished Dreams](https://open.spotify.com/track/0fH8hYXMXdHHTfAtDb5E41) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 2:07 |
 | 35 | [Little Tiger](https://open.spotify.com/track/1YfOi6EOZxp3zKIXuXTxYA) | [Calista Barrett](https://open.spotify.com/artist/3XfWyEYMiQxHvtAXl3m1ih) | [Little Tiger](https://open.spotify.com/album/6cflbsdLEBdDJQaIyWvSEK) | 1:25 |
 | 36 | [When You Opened Up Your Eyes](https://open.spotify.com/track/37kjqjUgTdKgvvjgsExBKB) | [Lucille Shannon](https://open.spotify.com/artist/1kAuyhZ2vs4DMiGGOuTIiN) | [When You Opened Up Your Eyes](https://open.spotify.com/album/6P3HYig1wH5WnwtxttXPgN) | 1:04 |
 | 37 | [My Sunshine](https://open.spotify.com/track/1ikXHodxfzZNYZXSzv0UST) | [Laya Amon](https://open.spotify.com/artist/0oICzQe4s0CgUAuocB6eN9) | [Sailing to Dreamland](https://open.spotify.com/album/4QBCCLJWRJNH8N1VIf2gZn) | 2:04 |
 | 38 | [Sweet Dreams](https://open.spotify.com/track/7m8gA1WxEKPlIKsChhuTtk) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Sweet Dreams](https://open.spotify.com/album/1Y0IFRV4HoInefi8yVRYS8) | 2:15 |
-| 39 | [Whispers of Peace](https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p) | [Skye Holland](https://open.spotify.com/artist/0A1vSROc85f7LwTdncMf67) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 1:43 |
+| 39 | [Whispers of Peace](https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 1:43 |
 | 40 | [Snuggle Time](https://open.spotify.com/track/0kHZ9XUe9ewCb7GUZjArlP) | [Milly Fitzpatrick](https://open.spotify.com/artist/0FQNq8baxg56GoRl1QH6z9) | [Snuggle Time](https://open.spotify.com/album/3dcidxtZPen1iiUPHT8KzY) | 1:44 |
 | 41 | [Once Upon A Star](https://open.spotify.com/track/5ro4n67wO8Q8aRV3upxnut) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Once Upon A Star](https://open.spotify.com/album/11xfwgFFCr73Y4rkb7Xz8S) | 1:43 |
 | 42 | [Il mio bambino](https://open.spotify.com/track/0ssGaSyS6FrfPa6NtncKnr) | [Verona Rizzo](https://open.spotify.com/artist/3FhVFMTffYD78U04viWgVo) | [Il mio bambino](https://open.spotify.com/album/2Uai0rWKNl4B7s3k7muORv) | 2:05 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 | 67 | [Ekorrn satt i granen](https://open.spotify.com/track/3gYcHzSXbTQ0A8AcOoczZN) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [London Bridge](https://open.spotify.com/album/0reqTcURfy5hVfO0GlEJbH) | 1:53 |
 | 68 | [Blueberry Muffins](https://open.spotify.com/track/5bbGsX1DgwUYjoQ9diFqVn) | [Rachel Birkes](https://open.spotify.com/artist/46dwJ4pRnNjShZqsj3wOaD) | [Blueberry Muffins](https://open.spotify.com/album/5Q0jjE7plhJ0uBeLTpggdG) | 1:09 |
 | 69 | [The Ghost That Couldn't Scare](https://open.spotify.com/track/2nqc38C56IGXpkzc0yqbpv) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [The Ghost That Couldn't Scare](https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8) | 1:33 |
-| 70 | [Zacht](https://open.spotify.com/track/7u42YpWdUuymB2hEct0m20) | [Skye Holland](https://open.spotify.com/artist/0A1vSROc85f7LwTdncMf67) | [Zacht](https://open.spotify.com/album/0rr9DPnmeEtawOPdfAioKQ) | 2:10 |
+| 70 | [Zacht](https://open.spotify.com/track/7u42YpWdUuymB2hEct0m20) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Zacht](https://open.spotify.com/album/0rr9DPnmeEtawOPdfAioKQ) | 2:10 |
 | 71 | [If Happiness Had A Face](https://open.spotify.com/track/6otAE8C3v1Z3WipYfliXDp) | [Maryon Jennings](https://open.spotify.com/artist/1se3GbDEI02N7abqldFqC1) | [If Happiness Had A Face](https://open.spotify.com/album/3pYOrFMeGZOj4wO8B87MCs) | 1:34 |
 | 72 | [A Wintry Night](https://open.spotify.com/track/3D8iXNEe7c6AqQGxwSe1OG) | [Violet Keiser](https://open.spotify.com/artist/6ckrAl1KF3PDf26YrMNWCH) | [A Wintry Night](https://open.spotify.com/album/1TrC0yBdluZ3G9Zp0ybWXj) | 1:42 |
 | 73 | [I Natt Jag Drömde](https://open.spotify.com/track/5pwg4ypok1fY0JFNFSKZv9) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [I Natt Jag Drömde](https://open.spotify.com/album/0266Rkd51VU9sWvSgLAkeT) | 2:24 |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 116490,
+  "num_followers": 116577,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDI2OTczM2M3OWI0YTQ4NTk3NWJjOGYzZTRkMThkNDc1",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDgxYzcxNTU3NWQ5NTU3MzZlMmQ3OWU3ZjdiOGZkMjg2",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/46YBC6L6URk7rZ3FiZH6AS"
     },
     {
-      "added_at": "2023-03-22 00:39:16",
+      "added_at": "2023-03-23 01:26:35",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "He Ain't a Cowboy",
-        "url": "https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "He Ain't a Cowboy",
-      "url": "https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Leanna",
         "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 225500,
       "name": "Around Forever",
       "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "He Ain't a Cowboy",
+        "url": "https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "He Ain't a Cowboy",
+      "url": "https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "One Light Town",
+        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Queen for a Night",
+      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "New Tattoos",
         "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 177083,
       "name": "Settle Me Down",
       "url": "https://open.spotify.com/track/3G6oU2xKe6pTiUzEXh1Nxt"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "One Light Town",
-        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Queen for a Night",
-      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
     },
     {
-      "added_at": "2023-03-22 00:39:16",
+      "added_at": "2023-03-23 01:26:35",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Rider",
+          "url": "https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Horses in Heaven",
         "url": "https://open.spotify.com/album/5rHZUvMU0CGCA38fqhh7L8"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 247186,
       "name": "Horses in Heaven",
       "url": "https://open.spotify.com/track/3IQqdI9Z4th4c7TcFwTdS7"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Rider",
-          "url": "https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Crown and Coke",
-        "url": "https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK"
-      },
-      "artists": [
-        {
-          "name": "Kristen Foreman",
-          "url": "https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ"
-        }
-      ],
-      "duration_ms": 167320,
-      "name": "Crown and Coke",
-      "url": "https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Don't Want To Go Home",
         "url": "https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 239045,
       "name": "Hold My Beer",
       "url": "https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Crown and Coke",
+        "url": "https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK"
+      },
+      "artists": [
+        {
+          "name": "Kristen Foreman",
+          "url": "https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "Crown and Coke",
+      "url": "https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Something 'Bout a Southern Girl",
-        "url": "https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5"
-      },
-      "artists": [
-        {
-          "name": "Mason Lively",
-          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
-        }
-      ],
-      "duration_ms": 262186,
-      "name": "Something 'Bout a Southern Girl",
-      "url": "https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Paycheck to Paycheck",
         "url": "https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 156946,
       "name": "Paycheck to Paycheck",
       "url": "https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Something 'Bout a Southern Girl",
+        "url": "https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5"
+      },
+      "artists": [
+        {
+          "name": "Mason Lively",
+          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
+        }
+      ],
+      "duration_ms": 262186,
+      "name": "Something 'Bout a Southern Girl",
+      "url": "https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6"
     },
     {
       "added_at": "2022-05-27 04:00:00",

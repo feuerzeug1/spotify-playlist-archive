@@ -10440,10 +10440,36 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-23",
       "duration_ms": 204375,
       "name": "Nuevo Soy (La La La) - Remix",
       "url": "https://open.spotify.com/track/4wu17I8CIjOpE15SIt7XRn"
+    },
+    {
+      "album": {
+        "name": "Nuevo Soy (Remix)",
+        "url": "https://open.spotify.com/album/216WijuWAq10hVXW6jmwHP"
+      },
+      "artists": [
+        {
+          "name": "MSHO",
+          "url": "https://open.spotify.com/artist/5yGIs2BAPBGVyHpT20EPUS"
+        },
+        {
+          "name": "Different Music",
+          "url": "https://open.spotify.com/artist/6vu278gsDGzgVOYNvI6SzR"
+        },
+        {
+          "name": "Karen Campos",
+          "url": "https://open.spotify.com/artist/4Ok5c9Eq7Z4FxHqScr6hOw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204374,
+      "name": "Nuevo Soy (Remix)",
+      "url": "https://open.spotify.com/track/6zNM9MEcNy3pB5SFs8urlp"
     },
     {
       "album": {
